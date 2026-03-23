@@ -19,86 +19,95 @@
   "epoche": "19. Jahrhundert",
   "region": "Nordamerika",
   "hauptstroemungen": ["Transzendentalismus", "Idealismus", "Individualismus"],
-  "kurzbeschreibung": "Ralph Waldo Emerson war ein amerikanischer Philosoph, Essayist und Dichter, der als zentrale Figur des Transzendentalismus die amerikanische Geistesgeschichte maßgeblich prägte. Seine Forderung nach geistiger Unabhängigkeit, Selbstvertrauen und einer unmittelbaren Beziehung zur Natur wurde zum Fundament einer eigenständigen amerikanischen Philosophie. Er gilt als einer der einflussreichsten Denker der amerikanischen Kultur.",
+  "kurzbeschreibung": "Ralph Waldo Emerson war ein amerikanischer Essayist, Dichter und Philosoph, der als zentrale Figur des Transzendentalismus die intellektuelle Unabhängigkeit Amerikas von Europa vorantrieb. Seine Schriften über Selbstvertrauen, die Natur und den individuellen Geist prägten die amerikanische Kultur und Literatur nachhaltig. Er gilt als einer der einflussreichsten Denker der amerikanischen Geistesgeschichte.",
   "biografie": {
-    "fruehesLeben": "Ralph Waldo Emerson wurde am 25. Mai 1803 in Boston, Massachusetts, als Sohn des unitarischen Pfarrers William Emerson geboren. Der frühe Tod des Vaters 1811 hinterließ die Familie in bescheidenen Verhältnissen. Seine Tante Mary Moody Emerson wurde zur wichtigsten intellektuellen Mentorin seiner Jugend. Emerson besuchte die Boston Latin School und trat 1817, erst vierzehnjährig, in Harvard ein. Nach dem Abschluss 1821 arbeitete er zunächst als Lehrer, bevor er sich dem Theologiestudium an der Harvard Divinity School widmete. 1829 wurde er als Pfarrer der Second Church in Boston ordiniert. Im selben Jahr heiratete er Ellen Louisa Tucker, die jedoch bereits 1831 an Tuberkulose starb – ein Verlust, der ihn zutiefst erschütterte und sein Denken über Tod und Vergänglichkeit nachhaltig prägte.",
-    "schaffen": "1832 legte Emerson sein Pfarramt nieder, da er die Form des Abendmahls nicht mehr mit seinem Gewissen vereinbaren konnte. Eine Europareise (1832–1833) brachte ihn in Kontakt mit Thomas Carlyle, Samuel Taylor Coleridge und William Wordsworth, die sein Denken in Richtung einer romantischen Naturphilosophie vertieften. Nach seiner Rückkehr ließ er sich in Concord, Massachusetts, nieder und begann seine Karriere als Vortragsredner und Essayist. 1836 veröffentlichte er 'Nature', das Gründungsmanifest des Transzendentalismus, in dem er eine unmittelbare, mystische Erfahrung der Natur als Weg zur Wahrheit proklamierte. Seine 'Harvard Divinity School Address' (1838) provozierte einen Skandal, da er die institutionalisierte Religion kritisierte und für eine unmittelbare religiöse Erfahrung plädierte. Die Essaysammlungen 'Essays: First Series' (1841) und 'Essays: Second Series' (1844) – mit Schlüsseltexten wie 'Self-Reliance', 'The Over-Soul' und 'Experience' – machten ihn zum führenden Intellektuellen Amerikas. Sein Haus in Concord wurde zum Mittelpunkt des Transcendental Club, zu dem Thoreau, Margaret Fuller, Bronson Alcott und andere gehörten.",
-    "spaetesLeben": "In den 1850er Jahren engagierte sich Emerson zunehmend politisch, vor allem gegen die Sklaverei. Er unterstützte die Abolitionisten und verteidigte öffentlich John Brown nach dessen Überfall auf Harpers Ferry. 'The Conduct of Life' (1860) und 'Society and Solitude' (1870) zeigten einen reiferen, pragmatischeren Denker, der die Spannungen zwischen Idealismus und Wirklichkeit auszuloten versuchte. Seine Vortragsreisen führten ihn durch ganz Amerika und erneut nach Europa und Ägypten. Ab den 1870er Jahren ließ sein Gedächtnis zunehmend nach, wahrscheinlich aufgrund einer Alzheimer-Erkrankung, und er zog sich allmählich aus dem öffentlichen Leben zurück. Sein Sohn Edward und sein Freund James Elliot Cabot halfen ihm bei der Zusammenstellung seiner letzten Werke.",
-    "tod": "Ralph Waldo Emerson starb am 27. April 1882 in Concord, Massachusetts, an einer Lungenentzündung. Er war 78 Jahre alt. In seinen letzten Jahren hatte er zunehmend mit Gedächtnisverlust zu kämpfen, blieb aber bis zuletzt eine verehrte Persönlichkeit. Ganz Concord trauerte um ihn; die Kirchenglocken läuteten 79 Mal, einmal für jedes Lebensjahr. Er wurde auf dem Sleepy Hollow Cemetery in Concord beigesetzt, wo auch seine Freunde Thoreau und Hawthorne ruhen.",
-    "nachwirkung": "Emersons Einfluss auf die amerikanische Kultur und Philosophie ist allgegenwärtig. Er begründete eine eigenständige amerikanische Denktradition, die sich von der europäischen Metaphysik löste und Erfahrung, Individualität und Natur in den Mittelpunkt stellte. Sein Konzept des 'Self-Reliance' wurde zu einem Grundpfeiler des amerikanischen Selbstverständnisses. Denker wie William James, John Dewey und Friedrich Nietzsche wurden von ihm beeinflusst. Walt Whitman nannte ihn seinen 'Meister', und Thoreau setzte seine Ideen in radikaler Konsequenz um. Emersons Naturphilosophie wirkt bis heute in der Umweltbewegung nach, und seine Essayistik gilt als Höhepunkt der amerikanischen Prosa."
+    "fruehesLeben": "Ralph Waldo Emerson wurde am 25. Mai 1803 in Boston, Massachusetts, als Sohn des unitarischen Pfarrers William Emerson geboren. Sein Vater starb, als Ralph erst acht Jahre alt war, und die Familie geriet in finanzielle Not. Seine Tante Mary Moody Emerson, eine leidenschaftliche Intellektuelle, wurde zur prägenden Figur seiner geistigen Entwicklung. Er besuchte die Boston Latin School und wurde mit nur vierzehn Jahren an der Harvard University aufgenommen, wo er sich als durchschnittlicher Student erwies, aber eine tiefe Liebe zur Literatur und Philosophie entwickelte. Nach seinem Abschluss 1821 arbeitete er zunächst als Lehrer an der Schule seines Bruders William, bevor er 1825 an der Harvard Divinity School sein Theologiestudium aufnahm. 1829 wurde er als Pfarrer der Second Church in Boston ordiniert und heiratete Ellen Louisa Tucker, die jedoch bereits 1831 an Tuberkulose starb – ein Verlust, der ihn zutiefst erschütterte.",
+    "schaffen": "1832 legte Emerson sein Pfarramt nieder, da er das Abendmahl nicht mehr als sinnvolles Ritual betrachten konnte, und reiste nach Europa, wo er Thomas Carlyle, Samuel Taylor Coleridge und William Wordsworth traf. Diese Begegnungen bestärkten ihn in seiner Überzeugung, dass wahre Erkenntnis aus der unmittelbaren Erfahrung und der inneren Intuition stamme. Nach seiner Rückkehr ließ er sich in Concord, Massachusetts, nieder und begann seine Karriere als Vortragsredner und Essayist. Sein programmatischer Essay 'Nature' (1836) wurde zum Gründungsmanifest des Transzendentalismus. Darin legte er dar, dass die Natur der unmittelbare Ausdruck des Göttlichen sei und der Mensch durch die Kontemplation der Natur zu höchster Erkenntnis gelangen könne. Seine Rede 'The American Scholar' (1837) wurde von Oliver Wendell Holmes als 'Amerikas intellektuelle Unabhängigkeitserklärung' bezeichnet. Die 'Divinity School Address' (1838), in der er die institutionalisierte Religion kritisierte, führte zu einem Skandal und seinem vorübergehenden Ausschluss aus Harvard. Seine Essaysammlungen 'Essays: First Series' (1841) und 'Essays: Second Series' (1844), mit den berühmten Texten 'Self-Reliance', 'The Over-Soul', 'Compensation' und 'Experience', machten ihn zum führenden Denker Amerikas. Er war Mitbegründer des Transcendental Club und Herausgeber der Zeitschrift 'The Dial'.",
+    "spaetesLeben": "In den 1850er Jahren engagierte sich Emerson zunehmend in politischen Fragen, insbesondere gegen die Sklaverei. Er unterstützte die abolitionistische Bewegung und verteidigte den radikalen Sklavereigegner John Brown nach dessen Hinrichtung. Mit 'The Conduct of Life' (1860) und 'Society and Solitude' (1870) veröffentlichte er weitere einflussreiche Essaysammlungen. Seine Vortragsreisen führten ihn durch ganz Nordamerika und erneut nach Europa. In seinen späteren Jahren litt Emerson zunehmend unter Gedächtnisverlust, der wahrscheinlich auf eine Alzheimer-Erkrankung zurückzuführen war. Dennoch blieb er als 'Weiser von Concord' eine verehrte Figur des amerikanischen Geisteslebens. Sein Haus in Concord wurde zu einem Treffpunkt für Intellektuelle, Schriftsteller und Reformer.",
+    "tod": "Ralph Waldo Emerson starb am 27. April 1882 in Concord, Massachusetts, an einer Lungenentzündung. Er war 78 Jahre alt. In seinen letzten Lebensjahren hatte sein Gedächtnis so stark nachgelassen, dass er Schwierigkeiten hatte, vertraute Gesichter und Worte zu erkennen. Bei einem Spaziergang im Regen hatte er sich eine Erkältung zugezogen, die sich rasch zur tödlichen Pneumonie entwickelte. Er wurde auf dem Sleepy Hollow Cemetery in Concord beigesetzt, in unmittelbarer Nähe seiner Freunde Thoreau und Hawthorne.",
+    "nachwirkung": "Emersons Einfluss auf die amerikanische Kultur und Philosophie ist kaum zu überschätzen. Er begründete mit dem Transzendentalismus die erste genuin amerikanische philosophische Bewegung und inspirierte Generationen von Schriftstellern, von Walt Whitman über Henry David Thoreau bis zu Emily Dickinson. Friedrich Nietzsche schätzte seine Schriften hoch, und sein Konzept des Selbstvertrauens wirkte auf die Philosophie des Pragmatismus, insbesondere auf William James. Sein Naturverständnis beeinflusste die amerikanische Umweltbewegung, und seine Ideen über individuelle Freiheit und Nonkonformismus prägen die amerikanische Identität bis heute. In der Bürgerrechtsbewegung des 20. Jahrhunderts beriefen sich Martin Luther King Jr. und andere auf Emersons Prinzip des zivilen Ungehorsams und der moralischen Selbstbestimmung."
   },
   "kernideen": [
     {
-      "titel": "Self-Reliance (Selbstvertrauen)",
-      "beschreibung": "Der Mensch soll auf seine eigene innere Stimme vertrauen und sich nicht von gesellschaftlichen Konventionen, Traditionen oder der Meinung anderer leiten lassen. Wahre Größe liegt im nonkonformistischen Festhalten an den eigenen Überzeugungen: 'Vertraue dir selbst: Jedes Herz schwingt auf dieser eisernen Saite.'"
+      "titel": "Selbstvertrauen (Self-Reliance)",
+      "beschreibung": "Emersons zentrale Forderung lautet, dass jeder Mensch seinem eigenen Genie vertrauen und nicht die Meinungen der Gesellschaft übernehmen soll. Nonkonformismus und geistige Unabhängigkeit sind die höchsten Tugenden. 'Vertraue dir selbst: Jedes Herz schwingt auf dieser eisernen Saite' – nur wer sich selbst treu bleibt, lebt authentisch."
     },
     {
       "titel": "Die Überseele (Over-Soul)",
-      "beschreibung": "Alle Einzelseelen sind Teil einer universellen Seele, die Mensch, Natur und Gott verbindet. In Momenten der Intuition und der mystischen Naturerfahrung kann der Mensch diese Einheit erfahren und über die Grenzen des individuellen Bewusstseins hinausgehen."
+      "beschreibung": "Emerson postulierte die Existenz einer universellen Seele oder eines göttlichen Geistes, der alle Wesen durchdringt und verbindet. Der einzelne Mensch ist Teil dieser Überseele und kann durch Intuition und Kontemplation Zugang zu einer höheren, universellen Wahrheit erlangen. Diese Idee verbindet westliche und östliche Spiritualität."
     },
     {
-      "titel": "Natur als Spiegel des Geistes",
-      "beschreibung": "Die Natur ist nicht bloß materielle Umwelt, sondern ein Symbol und Ausdruck des Geistes. In der unmittelbaren Begegnung mit der Natur offenbart sich dem aufmerksamen Betrachter die geistige Ordnung der Welt. Der Mensch in der Natur kann zum 'transparenten Augapfel' werden, durch den das Universelle hindurchscheint."
+      "titel": "Natur als Offenbarung des Geistes",
+      "beschreibung": "Die Natur ist für Emerson kein bloß materielles Phänomen, sondern der sichtbare Ausdruck des Geistes. In der unmittelbaren Erfahrung der Natur offenbart sich dem Menschen das Göttliche. Die Natur ist zugleich Symbol und Lehrer – sie spricht eine Sprache, die der empfängliche Geist zu lesen vermag."
     },
     {
-      "titel": "Der amerikanische Gelehrte",
-      "beschreibung": "Emerson forderte eine geistige Unabhängigkeit Amerikas von Europa. Der wahre Gelehrte soll nicht Bücherwurm sein, sondern 'Man Thinking' – ein handelnder, in der Gegenwart verwurzelter Denker, der aus eigener Erfahrung und Naturbeobachtung schöpft statt aus fremder Gelehrsamkeit."
+      "titel": "Transzendentalismus",
+      "beschreibung": "Der Transzendentalismus geht davon aus, dass es eine geistige Wirklichkeit jenseits der sinnlichen Erfahrung gibt, die durch Intuition und innere Erfahrung zugänglich ist. Er verbindet Elemente des deutschen Idealismus, der hinduistischen Philosophie und des Neuplatonismus zu einer genuin amerikanischen Weltanschauung, die das Göttliche im Alltäglichen sucht."
+    },
+    {
+      "titel": "Kompensation und geistiges Wachstum",
+      "beschreibung": "Emerson vertrat die Überzeugung, dass das Universum einem Gesetz der Kompensation folgt: Jede Handlung hat Konsequenzen, und Verlust und Gewinn stehen in einem ausgleichenden Verhältnis. Durch Erfahrung – auch leidvolle – wächst der Mensch und nähert sich einem tieferen Verständnis der Wirklichkeit."
     }
   ],
   "werke": [
     {
       "titel": "Nature",
       "jahr": "1836",
-      "beschreibung": "Emersons erstes und programmatisches Werk, in dem er die Grundlagen des Transzendentalismus darlegt: Die Natur ist Ausdruck des Geistes, und in der unmittelbaren Naturerfahrung liegt der Schlüssel zu einer höheren Wahrheit."
+      "beschreibung": "Emersons programmatischer Essay, der als Gründungsmanifest des Transzendentalismus gilt. Darin entwickelt er seine Naturphilosophie und argumentiert, dass die Natur dem Menschen als Spiegel des Geistes, als Schule der Weisheit und als Quelle der Schönheit diene."
     },
     {
       "titel": "The American Scholar",
       "jahr": "1837",
-      "beschreibung": "Die berühmte Rede vor der Phi Beta Kappa Society in Harvard, die Oliver Wendell Holmes als 'Amerikas intellektuelle Unabhängigkeitserklärung' bezeichnete. Emerson fordert eine eigenständige amerikanische Geisteskultur."
+      "beschreibung": "Eine Rede vor der Phi Beta Kappa Society in Harvard, in der Emerson die intellektuelle Unabhängigkeit Amerikas von Europa fordert. Oliver Wendell Holmes nannte sie 'Amerikas intellektuelle Unabhängigkeitserklärung'."
     },
     {
       "titel": "Essays: First Series",
       "jahr": "1841",
-      "beschreibung": "Die erste Essaysammlung mit Schlüsseltexten wie 'Self-Reliance', 'Compensation', 'The Over-Soul' und 'Circles', die Emersons transzendentalistische Philosophie in brillanter Prosa entfalten."
+      "beschreibung": "Emersons erste Essaysammlung mit den berühmten Texten 'Self-Reliance', 'Compensation', 'The Over-Soul', 'Circles' und 'Intellect'. 'Self-Reliance' wurde zum wirkmächtigsten Text der amerikanischen Individualismus-Tradition."
     },
     {
       "titel": "Essays: Second Series",
       "jahr": "1844",
-      "beschreibung": "Die zweite Essaysammlung mit 'Experience', 'The Poet' und 'Nature', die eine zunehmend differenzierte und selbstkritische Philosophie zeigt, insbesondere im Umgang mit Verlust und den Grenzen der Erkenntnis."
+      "beschreibung": "Die zweite Essaysammlung enthält unter anderem die Texte 'Experience', 'The Poet' und 'Politics'. In 'Experience' reflektiert Emerson über den Verlust seines Sohnes Waldo und ringt mit den Grenzen des transzendentalen Optimismus."
     },
     {
       "titel": "Representative Men",
       "jahr": "1850",
-      "beschreibung": "Sechs biografische Essays über Platon, Swedenborg, Montaigne, Shakespeare, Napoleon und Goethe als Verkörperungen menschlicher Möglichkeiten – Emersons Antwort auf Carlyles 'On Heroes'."
+      "beschreibung": "Eine Sammlung von Porträts großer Persönlichkeiten – Platon, Swedenborg, Montaigne, Shakespeare, Napoleon und Goethe –, die Emersons Theorie des Genies und der repräsentativen Individuen illustriert."
     },
     {
       "titel": "The Conduct of Life",
       "jahr": "1860",
-      "beschreibung": "Emersons reifstes Werk, das Themen wie Schicksal, Macht, Reichtum und Kultur behandelt und einen pragmatischeren Idealismus zeigt, der die Widersprüche des Lebens anerkennt."
+      "beschreibung": "Eine späte Essaysammlung, die sich mit den praktischen Fragen des Lebens befasst: Schicksal, Macht, Reichtum, Kultur und Anbetung. Sie zeigt einen reiferen, nüchterneren Emerson, der die Spannungen zwischen Idealismus und Realismus anerkennt."
     }
   ],
   "zitate": [
     {
       "text": "Vertraue dir selbst: Jedes Herz schwingt auf dieser eisernen Saite.",
-      "quelle": "Self-Reliance",
-      "kontext": "Das Leitmotiv von Emersons berühmtestem Essay – die Aufforderung, dem eigenen inneren Kompass zu folgen statt der Konformität nachzugeben."
+      "quelle": "Self-Reliance, Essays: First Series",
+      "kontext": "Die berühmteste Zeile aus Emersons wirkmächtigstem Essay, die zum Leitmotiv des amerikanischen Individualismus wurde."
     },
     {
       "text": "Wer ein Mensch sein will, muss ein Nonkonformist sein.",
-      "quelle": "Self-Reliance",
-      "kontext": "Emersons radikale Forderung nach geistiger Unabhängigkeit als Voraussetzung wahrer Menschlichkeit."
+      "quelle": "Self-Reliance, Essays: First Series",
+      "kontext": "Emersons Forderung nach geistiger Unabhängigkeit und dem Mut, gegen den Strom der öffentlichen Meinung zu schwimmen."
+    },
+    {
+      "text": "Ein törichtes Beharren auf Konsequenz ist das Schreckgespenst kleiner Geister.",
+      "quelle": "Self-Reliance, Essays: First Series",
+      "kontext": "Emersons Verteidigung des Rechts, seine Meinung zu ändern, gegen die Forderung nach Widerspruchsfreiheit um ihrer selbst willen."
     },
     {
       "text": "Im Wald kehren wir zur Vernunft und zum Glauben zurück.",
       "quelle": "Nature",
-      "kontext": "Die Natur als Ort der geistigen Erneuerung und der Verbindung mit dem Göttlichen."
+      "kontext": "Ausdruck von Emersons Überzeugung, dass die unmittelbare Naturerfahrung den Menschen mit dem Göttlichen verbindet und zur inneren Klarheit führt."
     },
     {
-      "text": "Ein törichtes Festhalten an Konsequenz ist das Schreckgespenst kleiner Geister.",
-      "quelle": "Self-Reliance",
-      "kontext": "Emersons Verteidigung des Widerspruchs und der geistigen Entwicklung gegen die Forderung nach Konsistenz um jeden Preis."
+      "text": "Was hinter uns liegt und was vor uns liegt, ist nichts im Vergleich zu dem, was in uns liegt.",
+      "quelle": "zugeschrieben, häufig zitiert",
+      "kontext": "Eines der am häufigsten Emerson zugeschriebenen Zitate, das seinen Glauben an die unerschöpfliche Kraft des menschlichen Geistes ausdrückt."
     }
   ],
-  "verwandtePhilosophen": ["henry-david-thoreau", "friedrich-nietzsche", "william-james", "immanuel-kant"],
-  "verwandteIsmen": ["transzendentalismus", "idealismus", "individualismus", "romantik"]
+  "verwandtePhilosophen": ["henry-david-thoreau", "immanuel-kant", "platon", "friedrich-nietzsche", "william-james"],
+  "verwandteIsmen": ["transzendentalismus", "idealismus", "individualismus", "romantik", "pragmatismus"]
 }
