@@ -1,0 +1,37 @@
+{
+  "slug": "ludwig-feuerbach",
+  "name": "Ludwig Feuerbach",
+  "lebensdaten": "1804–1872",
+  "geboren": { "jahr": 1804, "ort": "Landshut", "land": "Deutschland", "lat": 48.54, "lng": 12.15 },
+  "gestorben": { "jahr": 1872, "ort": "Rechenberg", "land": "Deutschland", "lat": 49.43, "lng": 11.15 },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Materialismus", "Religionskritik", "Anthropologie"],
+  "kurzbeschreibung": "Ludwig Feuerbach war ein deutscher Philosoph, der als Begründer der modernen Religionskritik gilt. Seine These, dass nicht Gott den Menschen, sondern der Mensch Gott nach seinem Bilde erschaffen hat, wurde zu einem Wendepunkt der Philosophiegeschichte.",
+  "biografie": {
+    "fruehesLeben": "Ludwig Andreas Feuerbach wurde am 28. Juli 1804 in Landshut, Bayern, als Sohn des berühmten Juristen Paul Johann Anselm von Feuerbach geboren. Er wuchs in einer akademisch geprägten Familie auf und studierte zunächst Theologie in Heidelberg, wechselte dann aber nach Berlin, um bei Georg Wilhelm Friedrich Hegel Philosophie zu studieren. Hegels Vorlesungen beeindruckten ihn tief, doch bald entwickelte er eine zunehmend kritische Haltung gegenüber dem Idealismus seines Lehrers.",
+    "schaffen": "Feuerbachs philosophisches Hauptwerk 'Das Wesen des Christentums' (1841) revolutionierte die Religionsphilosophie. Er argumentierte, dass Religion eine Projektion menschlicher Wünsche und Bedürfnisse auf ein transzendentes Wesen sei. Gott sei nichts anderes als das idealisierte Wesen des Menschen selbst. Diese sogenannte Projektionstheorie wurde zum Fundament der modernen Religionskritik. Feuerbach wandte sich vom Hegelianismus ab und entwickelte einen anthropologischen Materialismus, der den konkreten, sinnlichen Menschen in den Mittelpunkt stellte.",
+    "spaetesLeben": "In seinen späteren Jahren lebte Feuerbach zurückgezogen auf Schloss Bruckberg bei Ansbach, das seiner Frau gehörte. Nach dem Bankrott der Porzellanfabrik seiner Frau geriet er in finanzielle Not. Er wandte sich verstärkt naturwissenschaftlichen Studien zu und versuchte, seine materialistische Philosophie auf eine naturwissenschaftliche Grundlage zu stellen. Sein berühmter Ausspruch 'Der Mensch ist, was er isst' verdeutlicht seine konsequent materialistische Position.",
+    "tod": "Ludwig Feuerbach starb am 13. September 1872 in Rechenberg bei Nürnberg in Armut. Sein Begräbnis in Nürnberg wurde zu einer großen Demonstration der Arbeiterbewegung, da seine Ideen großen Einfluss auf die sozialistische Bewegung hatten.",
+    "nachwirkung": "Feuerbachs Einfluss auf die Philosophiegeschichte ist enorm. Karl Marx übernahm seine Religionskritik und entwickelte sie weiter zu einer umfassenden Gesellschaftskritik. Friedrich Engels nannte Feuerbach das 'Zwischenglied' zwischen Hegel und Marx. Sigmund Freud griff Feuerbachs Projektionstheorie in seiner eigenen Religionskritik auf. Die gesamte moderne Religionssoziologie und -psychologie steht in seiner Tradition."
+  },
+  "kernideen": [
+    { "titel": "Projektionstheorie der Religion", "beschreibung": "Religion ist nach Feuerbach eine Projektion des menschlichen Wesens auf ein jenseitiges Wesen. Gott ist das nach außen verlegte, vergöttlichte Wesen des Menschen. Alle Eigenschaften, die wir Gott zuschreiben, sind in Wahrheit menschliche Eigenschaften." },
+    { "titel": "Anthropologischer Materialismus", "beschreibung": "Feuerbach stellte den konkreten, leiblichen, sinnlichen Menschen in den Mittelpunkt seiner Philosophie. Nicht das abstrakte Denken, sondern die sinnliche Erfahrung und die materiellen Bedürfnisse des Menschen sind der Ausgangspunkt aller Philosophie." },
+    { "titel": "Kritik des Idealismus", "beschreibung": "Feuerbach kritisierte Hegels Idealismus als verkappte Theologie. Die spekulative Philosophie sei nichts anderes als eine rationalisierte Religion, die das Denken über die sinnliche Wirklichkeit stellt." }
+  ],
+  "werke": [
+    { "titel": "Das Wesen des Christentums", "jahr": "1841", "beschreibung": "Feuerbachs Hauptwerk, in dem er seine Projektionstheorie der Religion entwickelt. Er analysiert systematisch die christlichen GlaubensInhalte als Projektionen menschlicher Eigenschaften und Wünsche." },
+    { "titel": "Grundsätze der Philosophie der Zukunft", "jahr": "1843", "beschreibung": "In diesem Werk entwirft Feuerbach seine materialistische Gegenposition zum Hegelianismus und fordert eine 'neue Philosophie', die vom sinnlichen Menschen ausgeht." },
+    { "titel": "Vorläufige Thesen zur Reformation der Philosophie", "jahr": "1842", "beschreibung": "Eine programmatische Schrift, in der Feuerbach die Umkehrung der idealistischen Philosophie fordert und seinen anthropologischen Standpunkt formuliert." },
+    { "titel": "Das Wesen der Religion", "jahr": "1846", "beschreibung": "Eine Erweiterung seiner Religionskritik, in der Feuerbach die Naturabhängigkeit des Menschen als Wurzel der Religion analysiert." }
+  ],
+  "zitate": [
+    { "text": "Die Theologie ist die Anthropologie.", "quelle": "Das Wesen des Christentums", "kontext": "Kernthese seiner Religionskritik" },
+    { "text": "Der Mensch ist, was er isst.", "quelle": "Die Naturwissenschaft und die Revolution", "kontext": "Ausdruck seines konsequenten Materialismus" },
+    { "text": "Der Mensch schuf Gott nach seinem Bilde.", "quelle": "Das Wesen des Christentums", "kontext": "Umkehrung der biblischen Schöpfungserzählung" },
+    { "text": "Die Religion ist der Traum des menschlichen Geistes.", "quelle": "Das Wesen des Christentums", "kontext": "Religion als Wunschprojektion" }
+  ],
+  "verwandtePhilosophen": ["georg-wilhelm-friedrich-hegel", "karl-marx", "friedrich-engels", "arthur-schopenhauer"],
+  "verwandteIsmen": ["materialismus", "atheismus", "hegelianismus", "marxismus"]
+}

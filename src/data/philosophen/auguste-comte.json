@@ -1,0 +1,94 @@
+{
+  "slug": "auguste-comte",
+  "name": "Auguste Comte",
+  "lebensdaten": "1798–1857",
+  "geboren": {
+    "jahr": 1798,
+    "ort": "Montpellier",
+    "land": "Frankreich",
+    "lat": 43.6108,
+    "lng": 3.8767
+  },
+  "gestorben": {
+    "jahr": 1857,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Positivismus", "Soziologie", "Szientismus"],
+  "kurzbeschreibung": "Auguste Comte war ein französischer Philosoph und Begründer des Positivismus sowie der Soziologie als eigenständige Wissenschaft. Er entwickelte das berühmte Dreistadiengesetz, das die geistige Entwicklung der Menschheit vom theologischen über das metaphysische zum positiven Stadium beschreibt. Sein Werk legte die Grundlage für eine wissenschaftliche Erforschung der Gesellschaft und beeinflusste das moderne Wissenschaftsverständnis nachhaltig.",
+  "biografie": {
+    "fruehesLeben": "Isidore Auguste Marie François Xavier Comte wurde am 19. Januar 1798 in Montpellier als Sohn einer streng katholischen und royalistischen Familie geboren. Sein Vater Louis war ein kleiner Finanzbeamter. Schon früh zeigte sich Comtes außerordentliche Begabung: Mit vierzehn Jahren hatte er bereits seinen katholischen Glauben abgelegt und war überzeugter Republikaner geworden. 1814 wurde er an der renommierten École Polytechnique in Paris aufgenommen, wo er Mathematik und Naturwissenschaften studierte. Die Schule wurde 1816 wegen republikanischer Umtriebe vorübergehend geschlossen, und Comte kehrte kurz nach Montpellier zurück. Ab 1817 wurde er Sekretär und enger Mitarbeiter von Henri de Saint-Simon, dem utopischen Sozialisten, der seinen intellektuellen Werdegang entscheidend prägte. Doch die Zusammenarbeit endete 1824 im Streit über die Urheberschaft gemeinsamer Ideen.",
+    "schaffen": "Ab 1826 begann Comte, seine eigene Philosophie in privaten Vorlesungen zu entwickeln, musste diese jedoch nach einem schweren psychischen Zusammenbruch unterbrechen. Nach seiner Genesung nahm er die Vorlesungen 1829 wieder auf. Zwischen 1830 und 1842 veröffentlichte er sein monumentales sechsbändiges Hauptwerk 'Cours de philosophie positive', in dem er das Dreistadiengesetz formulierte und eine umfassende Klassifikation der Wissenschaften vorlegte. Die Soziologie – ein von ihm geprägter Begriff – stellte er als Krönung der Wissenschaften dar. Als Répétiteur und Prüfer an der École Polytechnique verdiente er seinen Lebensunterhalt, doch seine akademische Karriere blieb bescheiden. Seine Ideen fanden jedoch international Beachtung, besonders in England durch John Stuart Mill und in Brasilien, wo der positivistische Wahlspruch 'Ordem e Progresso' bis heute die Flagge ziert.",
+    "spaetesLeben": "Nach der gescheiterten Ehe mit Caroline Massin (1825–1842) verliebte sich Comte 1844 in Clotilde de Vaux, eine junge Frau, die an Tuberkulose litt. Diese leidenschaftliche, aber platonische Beziehung veränderte sein Denken grundlegend. Nach Clotildes Tod 1846 wandte sich Comte zunehmend einer 'Religion der Menschheit' zu, in der die Liebe zur Menschheit den Gottesglauben ersetzen sollte. In seinem vierbändigen 'Système de politique positive' (1851–1854) entwarf er eine detaillierte positivistische Gesellschaftsordnung mit eigenem Kalender, Riten und einer Priesterkaste der Gelehrten. Diese Wendung entfremdete viele seiner früheren Anhänger, darunter John Stuart Mill und Émile Littré, die nur den wissenschaftlichen Positivismus akzeptierten.",
+    "tod": "Auguste Comte starb am 5. September 1857 in Paris an Magenkrebs, verarmt und von vielen früheren Weggefährten verlassen. In seinen letzten Jahren hatte er hauptsächlich von den finanziellen Zuwendungen seiner verbliebenen Anhänger gelebt. Er wurde auf dem Friedhof Père-Lachaise beigesetzt. Trotz seiner schwierigen persönlichen Umstände arbeitete er bis zuletzt an seinem philosophischen System und an der Organisation der positivistischen Bewegung.",
+    "nachwirkung": "Comtes Einfluss auf die Geistesgeschichte ist kaum zu überschätzen. Als Begründer der Soziologie schuf er die Grundlage für die systematische Erforschung gesellschaftlicher Phänomene. Sein Positivismus prägte das Wissenschaftsverständnis des 19. und frühen 20. Jahrhunderts und wirkte auf Denker wie Émile Durkheim, Herbert Spencer und den Wiener Kreis. Die positivistische Bewegung breitete sich weltweit aus und hatte besonders in Brasilien, der Türkei und Mexiko großen politischen Einfluss. In der Wissenschaftsphilosophie wird Comtes Dreistadiengesetz heute zwar als vereinfachend betrachtet, doch seine Forderung nach empirischer Fundierung des Wissens und seine Vision einer vereinheitlichten Wissenschaft bleiben aktuell."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Dreistadiengesetz",
+      "beschreibung": "Die Menschheit durchläuft in ihrer geistigen Entwicklung drei Stadien: das theologische (Erklärung durch übernatürliche Wesen), das metaphysische (Erklärung durch abstrakte Kräfte) und das positive Stadium (Erklärung durch empirisch überprüfbare Gesetze). Jede Wissenschaft und jede Gesellschaft vollzieht diesen Fortschritt."
+    },
+    {
+      "titel": "Die Hierarchie der Wissenschaften",
+      "beschreibung": "Comte ordnete die Wissenschaften in einer aufsteigenden Reihe von der einfachsten zur komplexesten: Mathematik, Astronomie, Physik, Chemie, Biologie und schließlich die Soziologie. Jede höhere Wissenschaft setzt die vorhergehenden voraus, lässt sich aber nicht auf sie reduzieren."
+    },
+    {
+      "titel": "Soziologie als Wissenschaft",
+      "beschreibung": "Comte prägte nicht nur den Begriff 'Soziologie', sondern entwarf auch ihre methodischen Grundlagen. Er unterschied zwischen sozialer Statik (Untersuchung der gesellschaftlichen Ordnung) und sozialer Dynamik (Untersuchung des gesellschaftlichen Fortschritts) und forderte eine empirische, gesetzmäßige Erforschung der Gesellschaft."
+    },
+    {
+      "titel": "Die Religion der Menschheit",
+      "beschreibung": "In seiner späten Phase entwarf Comte eine säkulare Religion, in der die Menschheit als 'Grand Être' (Großes Wesen) an die Stelle Gottes tritt. Mit eigenem Kalender, Sakramenten und einer Priesterkaste sollte diese Religion die emotionalen und sozialen Funktionen der traditionellen Religion ohne deren Aberglauben erfüllen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Cours de philosophie positive",
+      "jahr": "1830–1842",
+      "beschreibung": "Comtes sechsbändiges Hauptwerk, in dem er das Dreistadiengesetz formuliert, die Wissenschaften klassifiziert und die Soziologie als neue Wissenschaft begründet. Das Werk gilt als Gründungsdokument des Positivismus."
+    },
+    {
+      "titel": "Discours sur l'esprit positif",
+      "jahr": "1844",
+      "beschreibung": "Eine prägnante Zusammenfassung der positivistischen Philosophie, die als Einleitung zu einem Kurs über Astronomie verfasst wurde und Comtes Wissenschaftsverständnis in zugänglicher Form darstellt."
+    },
+    {
+      "titel": "Système de politique positive",
+      "jahr": "1851–1854",
+      "beschreibung": "Das vierbändige Spätwerk, in dem Comte seine Religion der Menschheit und seine Vision einer positivistischen Gesellschaftsordnung detailliert ausarbeitet. Es enthält den positivistischen Kalender und die Grundlagen der neuen Religion."
+    },
+    {
+      "titel": "Catéchisme positiviste",
+      "jahr": "1852",
+      "beschreibung": "Ein in Dialogform verfasstes Werk, das die Grundsätze der positivistischen Religion in Form eines Katechismus allgemeinverständlich darstellt und als Einführung in das positivistische System dienen sollte."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Savoir pour prévoir, prévoir pour pouvoir. – Wissen, um vorherzusehen, vorhersehen, um handeln zu können.",
+      "quelle": "Cours de philosophie positive",
+      "kontext": "Comtes Grundformel des Positivismus: Wissenschaftliches Wissen dient der Vorhersage und damit der praktischen Gestaltung der Welt."
+    },
+    {
+      "text": "Die Toten regieren die Lebenden.",
+      "quelle": "Système de politique positive",
+      "kontext": "Ausdruck von Comtes Überzeugung, dass die Menschheit vor allem durch das Erbe vergangener Generationen geprägt wird und die Tradition eine zentrale Rolle im gesellschaftlichen Zusammenhalt spielt."
+    },
+    {
+      "text": "Alles ist relativ, und nur das ist absolut.",
+      "quelle": "Cours de philosophie positive",
+      "kontext": "Comtes erkenntnistheoretischer Grundsatz, dass alle wissenschaftliche Erkenntnis relativ und kontextabhängig ist und absolute Wahrheiten dem metaphysischen Stadium angehören."
+    },
+    {
+      "text": "Lieben, denken, handeln.",
+      "quelle": "Catéchisme positiviste",
+      "kontext": "Die Kurzformel der positivistischen Lebensführung, die Gefühl, Verstand und Praxis in einer harmonischen Einheit verbinden soll."
+    }
+  ],
+  "verwandtePhilosophen": ["john-stuart-mill", "herbert-spencer", "emile-durkheim", "henri-de-saint-simon"],
+  "verwandteIsmen": ["positivismus", "szientismus", "materialismus"]
+}

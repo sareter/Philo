@@ -1,0 +1,113 @@
+{
+  "slug": "henry-david-thoreau",
+  "name": "Henry David Thoreau",
+  "lebensdaten": "1817–1862",
+  "geboren": {
+    "jahr": 1817,
+    "ort": "Concord",
+    "land": "USA",
+    "lat": 42.4604,
+    "lng": -71.3489
+  },
+  "gestorben": {
+    "jahr": 1862,
+    "ort": "Concord",
+    "land": "USA",
+    "lat": 42.4604,
+    "lng": -71.3489
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Transzendentalismus", "Individualismus", "Anarchismus"],
+  "kurzbeschreibung": "Henry David Thoreau war ein amerikanischer Schriftsteller, Naturphilosoph und politischer Denker, der durch sein Experiment am Walden Pond und seinen Essay über zivilen Ungehorsam weltberühmt wurde. Sein zweijähriges Leben in einer selbstgebauten Hütte am Walden-See wurde zum Symbol für ein bewusstes, einfaches Leben im Einklang mit der Natur. Seine Schrift über die Pflicht zum Ungehorsam gegen ungerechte Gesetze beeinflusste Mahatma Gandhi, Martin Luther King Jr. und die Bürgerrechtsbewegungen des 20. Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "Henry David Thoreau wurde am 12. Juli 1817 in Concord, Massachusetts, als Sohn des Bleistiftfabrikanten John Thoreau und seiner Frau Cynthia geboren. Die Familie war bescheiden wohlhabend, und Henry wuchs in der idyllischen Landschaft Neuenglands auf, die seine lebenslange Liebe zur Natur begründete. Er besuchte die Concord Academy und wurde 1833 an der Harvard University aufgenommen. Dort studierte er Klassische Philologie, Philosophie und moderne Sprachen, darunter auch Deutsch, um die Werke der deutschen Idealisten im Original lesen zu können. Nach seinem Abschluss 1837 wurde er kurzzeitig Lehrer an der öffentlichen Schule in Concord, gab die Stelle jedoch nach nur zwei Wochen auf, weil er sich weigerte, Schüler körperlich zu züchtigen. Zusammen mit seinem Bruder John gründete er eine Privatschule, die innovative pädagogische Methoden anwandte, aber nach Johns Tod 1842 an Tetanus geschlossen werden musste. In dieser Zeit begann seine enge Freundschaft mit Ralph Waldo Emerson, der sein Mentor und Förderer wurde.",
+    "schaffen": "Am 4. Juli 1845, dem amerikanischen Unabhängigkeitstag, zog Thoreau in eine selbstgebaute Hütte am Walden Pond, einem See auf einem Grundstück Emersons. Dort lebte er zwei Jahre, zwei Monate und zwei Tage, um 'bewusst zu leben, nur den wesentlichen Tatsachen des Lebens gegenüberzutreten' und herauszufinden, was die Natur ihn lehren könne. Während dieser Zeit führte er akribisch Tagebuch, beobachtete die Natur und arbeitete an seinen Schriften. Im Juli 1846 wurde er für eine Nacht inhaftiert, weil er sich weigerte, seine Kopfsteuer zu zahlen – aus Protest gegen die Sklaverei und den Mexikanisch-Amerikanischen Krieg. Aus dieser Erfahrung entstand der berühmte Essay 'Civil Disobedience' (1849), in dem er das Recht und die Pflicht des Einzelnen begründete, sich ungerechten Gesetzen zu widersetzen. Sein Hauptwerk 'Walden; or, Life in the Woods' erschien 1854 und verband Naturbeobachtung, philosophische Reflexion und Gesellschaftskritik zu einem einzigartigen literarischen Werk. Daneben verfasste er zahlreiche naturkundliche Essays und hielt Vorträge, die sein Ansehen als Schriftsteller festigten. 'A Week on the Concord and Merrimack Rivers' (1849), sein erstes Buch, war kommerziell ein Misserfolg, enthielt aber bereits viele seiner zentralen Themen.",
+    "spaetesLeben": "Nach seiner Rückkehr vom Walden Pond arbeitete Thoreau in der Bleistiftfabrik seines Vaters und als Landvermesser. Er engagierte sich zunehmend in der abolitionistischen Bewegung und half als Stationsvorsteher der Underground Railroad entflohenen Sklaven bei der Flucht nach Kanada. Seine leidenschaftliche Verteidigung des radikalen Abolitionisten John Brown in den Reden 'A Plea for Captain John Brown' (1859) und 'The Last Days of John Brown' (1860) zeigte seine Bereitschaft, für seine Überzeugungen auch Gewalt als letztes Mittel zu akzeptieren. In seinen letzten Jahren widmete sich Thoreau intensiv naturkundlichen Studien und führte minutiöse Aufzeichnungen über die Pflanzen, Tiere und Jahreszeiten in Concord. Seine Tagebücher, die nach seinem Tod veröffentlicht wurden, umfassten über zwei Millionen Worte und gelten als eines der bedeutendsten Naturjournale der amerikanischen Literatur.",
+    "tod": "Henry David Thoreau starb am 6. Mai 1862 in seinem Elternhaus in Concord an Tuberkulose. Er war erst 44 Jahre alt. Die Krankheit hatte sich über mehrere Jahre verschlimmert, und Thoreau hatte eine letzte Reise nach Minnesota unternommen, in der Hoffnung, dass das trockenere Klima seine Gesundheit bessern würde – vergeblich. Auf die Frage, ob er seinen Frieden mit Gott gemacht habe, antwortete er: 'Ich wusste nicht, dass wir uns jemals gestritten haben.' Seine letzten Worte sollen 'Elch' und 'Indianer' gewesen sein – Zeichen seiner ungebrochenen Faszination für die Natur und die Ureinwohner Amerikas. Er wurde auf dem Sleepy Hollow Cemetery in Concord beigesetzt.",
+    "nachwirkung": "Thoreaus Einfluss auf die Weltgeschichte ist außerordentlich. Sein Essay 'Civil Disobedience' wurde zur theoretischen Grundlage gewaltloser Widerstandsbewegungen weltweit. Mahatma Gandhi las den Essay während seiner Zeit in Südafrika und übernahm Thoreaus Prinzip des zivilen Ungehorsams als Strategie im indischen Unabhängigkeitskampf. Martin Luther King Jr. bezeichnete den Essay als eine seiner wichtigsten Inspirationsquellen. 'Walden' wurde zum Gründungstext der amerikanischen Umweltbewegung und inspirierte Naturschützer von John Muir bis Rachel Carson. Thoreaus Idee des einfachen Lebens und der bewussten Abkehr von materialistischem Konsum hat nichts an Aktualität verloren und beeinflusst bis heute ökologische und minimalistische Lebensphilosophien."
+  },
+  "kernideen": [
+    {
+      "titel": "Ziviler Ungehorsam",
+      "beschreibung": "Thoreau begründete das Recht und die moralische Pflicht des Einzelnen, sich ungerechten Gesetzen und staatlicher Willkür gewaltfrei zu widersetzen. Das individuelle Gewissen steht über dem Gesetz des Staates. Wenn das Gesetz den Menschen zum Werkzeug der Ungerechtigkeit mache, sei es seine Pflicht, das Gesetz zu brechen."
+    },
+    {
+      "titel": "Bewusstes und einfaches Leben",
+      "beschreibung": "Thoreau plädierte für eine radikale Vereinfachung des Lebens, um zu den wesentlichen Tatsachen der Existenz vorzudringen. 'Vereinfacht, vereinfacht!' war sein Leitspruch. Nicht materieller Besitz, sondern innere Freiheit und bewusstes Erleben machen den Reichtum des Lebens aus."
+    },
+    {
+      "titel": "Natur als Lehrmeisterin",
+      "beschreibung": "Die Natur ist für Thoreau nicht nur ästhetische Kulisse, sondern Quelle tiefster Erkenntnis und Spiegel der menschlichen Seele. In der genauen Beobachtung der Natur und im einfachen Leben in ihrer Mitte findet der Mensch zu sich selbst und zu universellen Wahrheiten."
+    },
+    {
+      "titel": "Individualismus und Nonkonformismus",
+      "beschreibung": "Thoreau betonte die absolute Souveränität des Individuums gegenüber gesellschaftlichen Konventionen und staatlicher Autorität. Der Einzelne solle 'einem anderen Trommler' folgen und seinen eigenen Weg gehen, statt sich der Masse anzupassen."
+    },
+    {
+      "titel": "Kritik der Massengesellschaft",
+      "beschreibung": "Thoreau kritisierte scharf den Materialismus, die Konsumgesellschaft und die 'stille Verzweiflung', in der die meisten Menschen leben. Die Mehrheit der Menschen führe ein Leben 'stiller Verzweiflung' und verwechsle die Mittel des Lebens mit seinen Zwecken."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Walden; or, Life in the Woods",
+      "jahr": "1854",
+      "beschreibung": "Thoreaus Hauptwerk beschreibt seine zwei Jahre am Walden-See und verbindet Naturbeobachtung, philosophische Reflexion und radikale Gesellschaftskritik. Es ist zugleich Autobiografie, Naturgeschichte und Manifest für ein bewusstes Leben."
+    },
+    {
+      "titel": "Civil Disobedience (Über die Pflicht zum Ungehorsam gegen den Staat)",
+      "jahr": "1849",
+      "beschreibung": "Der berühmte Essay, der aus Thoreaus Steuerverweigerung hervorging und die theoretische Grundlage für gewaltlose Widerstandsbewegungen weltweit legte. Ursprünglich unter dem Titel 'Resistance to Civil Government' veröffentlicht."
+    },
+    {
+      "titel": "A Week on the Concord and Merrimack Rivers",
+      "jahr": "1849",
+      "beschreibung": "Thoreaus erstes Buch beschreibt eine Bootsfahrt mit seinem Bruder John und verwebt Reisebericht mit philosophischen, literarischen und spirituellen Reflexionen. Es war kommerziell ein Misserfolg, wird aber heute als wichtiges Frühwerk geschätzt."
+    },
+    {
+      "titel": "The Maine Woods",
+      "jahr": "1864",
+      "beschreibung": "Eine posthum veröffentlichte Sammlung von drei Essays über Thoreaus Reisen in die Wildnis von Maine. Das Werk zeigt seine Entwicklung als Naturforscher und seine zunehmende Wertschätzung für die Wildnis als solche."
+    },
+    {
+      "titel": "A Plea for Captain John Brown",
+      "jahr": "1859",
+      "beschreibung": "Eine leidenschaftliche Verteidigungsrede für den abolitionistischen Aktivisten John Brown nach dessen gescheitertem Angriff auf das Waffenarsenal in Harpers Ferry. Thoreau verteidigte Browns moralische Integrität und sein Recht auf Widerstand gegen die Sklaverei."
+    },
+    {
+      "titel": "Walking",
+      "jahr": "1862",
+      "beschreibung": "Ein Essay über die Kunst des Spazierengehens als philosophische und spirituelle Praxis. Thoreau plädiert für die 'Wildheit' als Quelle der Erneuerung und formuliert seinen berühmten Satz: 'In der Wildnis liegt die Erhaltung der Welt.'"
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die meisten Menschen führen ein Leben stiller Verzweiflung.",
+      "quelle": "Walden",
+      "kontext": "Eine der berühmtesten Zeilen der amerikanischen Literatur, mit der Thoreau die Situation der Menschen beschreibt, die in sinnloser Routine und materialistischer Abhängigkeit gefangen sind."
+    },
+    {
+      "text": "Ich ging in die Wälder, weil ich bewusst leben wollte, nur den wesentlichen Tatsachen des Lebens gegenübertreten wollte.",
+      "quelle": "Walden",
+      "kontext": "Thoreaus programmatische Begründung für sein Experiment am Walden-See, die zum Leitsatz bewusster Lebensführung wurde."
+    },
+    {
+      "text": "Wenn ein Mann nicht mit seinen Gefährten Schritt hält, liegt es vielleicht daran, dass er einen anderen Trommler hört.",
+      "quelle": "Walden",
+      "kontext": "Thoreaus Plädoyer für den Individualismus und das Recht, seinen eigenen Weg zu gehen, unabhängig von gesellschaftlichen Erwartungen."
+    },
+    {
+      "text": "Unter einer Regierung, die zu Unrecht einkerkert, ist das Gefängnis der wahre Platz für einen gerechten Menschen.",
+      "quelle": "Civil Disobedience",
+      "kontext": "Ausdruck von Thoreaus Überzeugung, dass in einem ungerechten Staat der Widerstand und nicht die Anpassung die moralisch richtige Haltung ist."
+    },
+    {
+      "text": "Vereinfacht, vereinfacht!",
+      "quelle": "Walden",
+      "kontext": "Thoreaus berühmter Aufruf zur Vereinfachung des Lebens, der zum Leitmotiv minimalistischer Lebensphilosophien wurde."
+    }
+  ],
+  "verwandtePhilosophen": ["ralph-waldo-emerson", "jean-jacques-rousseau", "mahatma-gandhi", "john-stuart-mill", "walt-whitman"],
+  "verwandteIsmen": ["transzendentalismus", "individualismus", "anarchismus", "naturphilosophie", "romantik"]
+}
