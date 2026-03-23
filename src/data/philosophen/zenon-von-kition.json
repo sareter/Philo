@@ -1,0 +1,89 @@
+{
+  "slug": "zenon-von-kition",
+  "name": "Zenon von Kition",
+  "lebensdaten": "334–262 v. Chr.",
+  "geboren": {
+    "jahr": -334,
+    "ort": "Kition",
+    "land": "Zypern",
+    "lat": 34.92,
+    "lng": 33.64
+  },
+  "gestorben": {
+    "jahr": -262,
+    "ort": "Athen",
+    "land": "Griechenland",
+    "lat": 37.97,
+    "lng": 23.73
+  },
+  "epoche": "Antike",
+  "region": "Zypern / Griechenland",
+  "hauptstroemungen": ["Stoizismus", "Ethik", "Logik"],
+  "kurzbeschreibung": "Zenon von Kition war der Begründer der stoischen Philosophie, die zu einer der einflussreichsten Denkschulen der Antike wurde. Er lehrte in der Stoa Poikile in Athen, dass ein tugendhaftes, naturgemäßes Leben der Schlüssel zum Glück sei.",
+  "biografie": {
+    "fruehesLeben": "Zenon wurde 334 v. Chr. in Kition auf Zypern geboren, einer Stadt mit phönizischem Erbe. Sein Vater Mnaseas war ein wohlhabender Kaufmann, der auf seinen Handelsreisen nach Athen philosophische Bücher für seinen Sohn mitbrachte. Um 312 v. Chr. erlitt Zenon Schiffbruch auf einer Handelsreise und strandete in Athen – ein Ereignis, das sein Leben grundlegend veränderte. In einem Buchladen las er Xenophons 'Memorabilien' über Sokrates und fragte den Buchhändler, wo er solche Männer finden könne. Zufällig ging gerade der Kyniker Krates von Theben vorbei, und der Buchhändler sagte: 'Folge diesem Mann.' Zenon wurde Schüler des Krates, studierte aber auch bei Stilpon von Megara, bei den Akademikern Xenokrates und Polemon und bei dem Dialektiker Diodoros Kronos. Diese vielfältige Ausbildung spiegelt sich in der Breite seines philosophischen Systems wider.",
+    "schaffen": "Um 300 v. Chr. begann Zenon, in der Stoa Poikile (Bunte Säulenhalle) am Athener Marktplatz zu lehren – daher der Name 'Stoiker'. Er entwickelte ein umfassendes philosophisches System, das er in Logik, Physik und Ethik einteilte – ein Modell, das für die gesamte antike Philosophie maßgeblich wurde. In der Logik unterschied er erstmals zwischen dem Bezeichnenden (Wort), dem Bezeichneten (Bedeutung) und dem Gegenstand – ein Vorgriff auf die moderne Sprachphilosophie. In der Physik vertrat er einen materialistischen Pantheismus: Alles ist körperlich, und Gott ist identisch mit dem vernünftigen Naturgesetz (Logos), das den Kosmos durchdringt. Das Universum ist ein lebendiger Organismus, durchdrungen von einem göttlichen Feuerodem (Pneuma). In der Ethik, dem Herzstück seines Systems, lehrte er: Das höchste Gut ist das naturgemäße Leben, das heißt ein Leben in Übereinstimmung mit der Vernunft. Tugend allein genügt zum Glück; alle anderen Dinge – Gesundheit, Reichtum, Ruhm – sind gleichgültig (adiaphora). Die Leidenschaften (pathē) sind Fehlurteile der Vernunft und müssen durch Apatheia (Leidenschaftslosigkeit) überwunden werden. In seiner Schrift 'Politeia' entwarf er eine ideale kosmopolitische Gemeinschaft ohne Staaten, Gerichte, Tempel und Geld.",
+    "spaetesLeben": "Zenon genoss in Athen höchstes Ansehen. König Antigonos II. Gonatas von Makedonien schätzte ihn und lud ihn an seinen Hof, was Zenon jedoch ablehnte. Die Athener ehrten ihn mit einem goldenen Kranz und einem Staatsbegräbnis – eine einzigartige Auszeichnung für einen Nichtathener.",
+    "tod": "Zenon starb 262 v. Chr. in Athen im Alter von 72 Jahren. Der Überlieferung nach stolperte er nach dem Unterricht, brach sich einen Zeh und schlug mit der Hand auf den Boden. Dabei zitierte er den Vers: 'Ich komme, warum rufst du mich?' – und starb durch freiwilliges Anhalten des Atems. Die Nachfolge als Schulhaupt übernahm sein Schüler Kleanthes.",
+    "nachwirkung": "Die von Zenon begründete Stoa wurde zu einer der bedeutendsten Philosophenschulen der Antike und übte enormen Einfluss auf die römische Kultur aus. Seneca, Epiktet und Marcus Aurelius führten seine Lehre fort. Der stoische Einfluss auf das Christentum – insbesondere die Idee des Naturrechts, der göttlichen Vorsehung und der Gleichheit aller Menschen – war immens. In der Neuzeit beeinflussten stoische Ideen Descartes, Spinoza und Kant. Heute erlebt der Stoizismus eine Renaissance als praktische Lebensphilosophie."
+  },
+  "kernideen": [
+    {
+      "titel": "Naturgemäßes Leben",
+      "beschreibung": "Das Ziel des Lebens ist es, in Übereinstimmung mit der Natur (kata physin) zu leben. Da die menschliche Natur die Vernunft ist, bedeutet dies ein Leben gemäß der Vernunft."
+    },
+    {
+      "titel": "Tugend als einziges Gut",
+      "beschreibung": "Nur die Tugend ist ein wahres Gut, nur das Laster ein wahres Übel. Alles andere – Gesundheit, Reichtum, Schönheit – ist gleichgültig (adiaphoron), auch wenn manches 'vorzuziehen' ist."
+    },
+    {
+      "titel": "Apatheia (Leidenschaftslosigkeit)",
+      "beschreibung": "Die Leidenschaften (Begierde, Furcht, Lust, Schmerz) sind Fehlurteile der Vernunft und müssen überwunden werden. Der Weise ist frei von Leidenschaften, nicht gefühllos."
+    },
+    {
+      "titel": "Kosmopolitismus",
+      "beschreibung": "Alle Menschen sind Bürger einer einzigen Weltgemeinschaft, vereint durch die gemeinsame Vernunft. Nationale und soziale Grenzen sind letztlich bedeutungslos."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Politeia (Der Staat)",
+      "jahr": "ca. 300 v. Chr.",
+      "beschreibung": "Entwurf einer idealen kosmopolitischen Gemeinschaft, in der alle Menschen als Weltbürger zusammenleben. Provokant und radikal – beeinflusst durch die kynische Tradition. Nur Fragmente erhalten."
+    },
+    {
+      "titel": "Über das naturgemäße Leben",
+      "jahr": "ca. 290 v. Chr.",
+      "beschreibung": "Ethisches Hauptwerk über das Ziel des Lebens als Übereinstimmung mit der Natur. Grundlegend für die gesamte stoische Ethik."
+    },
+    {
+      "titel": "Über die Leidenschaften",
+      "jahr": "ca. 290 v. Chr.",
+      "beschreibung": "Analyse der Leidenschaften als Fehlurteile der Vernunft und Anleitung zu ihrer Überwindung. Grundlage der stoischen Affektenlehre."
+    },
+    {
+      "titel": "Über die Natur (Peri Physeos)",
+      "jahr": "ca. 295 v. Chr.",
+      "beschreibung": "Darstellung der stoischen Physik und Kosmologie. Enthält die Lehre vom göttlichen Logos, der den Kosmos durchdringt und ordnet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Ziel des Lebens ist es, in Übereinstimmung mit der Natur zu leben.",
+      "quelle": "Überliefert bei Diogenes Laertios VII, 87",
+      "kontext": "Die Grundformel der stoischen Ethik."
+    },
+    {
+      "text": "Der Mensch hat zwei Ohren und einen Mund, damit er doppelt so viel zuhört wie er redet.",
+      "quelle": "Zugeschrieben, überliefert bei Diogenes Laertios",
+      "kontext": "Zenons Wertschätzung des Zuhörens und der Zurückhaltung im Reden."
+    },
+    {
+      "text": "Besser mit den Füßen ausgleiten als mit der Zunge.",
+      "quelle": "Überliefert bei Diogenes Laertios VII, 26",
+      "kontext": "Zenon über die Wichtigkeit bedachter Rede."
+    }
+  ],
+  "verwandtePhilosophen": ["chrysipp", "seneca", "epiktet", "marcus-aurelius", "diogenes-von-sinope", "heraklit"],
+  "verwandteIsmen": ["stoizismus", "kosmopolitismus", "naturalismus", "pantheismus"]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "marcus-aurelius",
+  "name": "Marcus Aurelius",
+  "lebensdaten": "121–180 n. Chr.",
+  "geboren": {
+    "jahr": 121,
+    "ort": "Rom",
+    "land": "Italien (Römisches Reich)",
+    "lat": 41.90,
+    "lng": 12.50
+  },
+  "gestorben": {
+    "jahr": 180,
+    "ort": "Vindobona (Wien) oder Sirmium",
+    "land": "Pannonien (Römisches Reich)",
+    "lat": 48.21,
+    "lng": 16.37
+  },
+  "epoche": "Antike",
+  "region": "Römisches Reich",
+  "hauptstroemungen": ["Stoizismus", "Ethik", "Praktische Philosophie"],
+  "kurzbeschreibung": "Marcus Aurelius war der letzte der 'Fünf guten Kaiser' Roms und zugleich der bedeutendste philosophische Schriftsteller auf einem Thron. Seine 'Selbstbetrachtungen', geschrieben im Feldlager während der Markomannenkriege, gehören zu den meistgelesenen philosophischen Werken der Weltliteratur.",
+  "biografie": {
+    "fruehesLeben": "Marcus Aurelius wurde am 26. April 121 n. Chr. in Rom als Marcus Annius Verus in eine vornehme Familie geboren. Sein Großvater mütterlicherseits war dreimal Konsul. Kaiser Hadrian erkannte früh die außergewöhnlichen Qualitäten des Jungen und gab ihm den Beinamen 'Verissimus' (der Wahrhaftigste). Er erhielt eine erstklassige Ausbildung: Der Grammatiker Fronto unterrichtete ihn in Rhetorik, und der Stoiker Junius Rusticus führte ihn in die Philosophie des Epiktet ein – ein Wendepunkt in seinem Leben. Mit zwölf Jahren begann er, die einfache Lebensweise der Philosophen nachzuahmen: Er schlief auf dem Boden und trug einen rauen Mantel. Kaiser Hadrian adoptierte Antoninus Pius unter der Bedingung, dass dieser seinerseits Marcus Aurelius adoptierte – damit war Marcus' Weg zum Thron vorgezeichnet.",
+    "schaffen": "161 n. Chr. bestieg Marcus Aurelius als erster den Thron gemeinsam mit Lucius Verus als Co-Kaiser. Seine Regierungszeit war von schweren Krisen geprägt: Partherkriege im Osten, die verheerende Antoninische Pest (möglicherweise Pocken), die Millionen Opfer forderte, Überschwemmungen, Hungersnöte und die jahrelangen Markomannenkriege an der Donaugrenze. Trotz dieser Belastungen – oder gerade wegen ihnen – schrieb Marcus Aurelius seine 'Selbstbetrachtungen' (Ta eis heauton), ein philosophisches Tagebuch, das er im Feldlager an der Donaufront verfasste. Das Werk war nicht zur Veröffentlichung bestimmt und ist gerade deshalb so authentisch. In zwölf Büchern reflektiert er über die Grundlagen der stoischen Philosophie und ihre Anwendung auf das eigene Leben: die Vergänglichkeit aller Dinge, die Pflicht zur Vernunft, die Akzeptanz des Schicksals, die Gleichgültigkeit gegenüber Ruhm und Reichtum, die Verbundenheit aller Menschen durch die gemeinsame Vernunft. Die Grundstimmung ist melancholisch, aber nicht resigniert – Marcus kämpft beständig gegen seine eigenen Schwächen und Leidenschaften an. In seiner politischen Praxis versuchte er, stoische Grundsätze umzusetzen: Er verbesserte die Stellung der Sklaven, Frauen und Kinder, reformierte das Rechtswesen und pflegte einen einfachen Lebensstil trotz seines Reichtums.",
+    "spaetesLeben": "Die letzten Jahre des Marcus Aurelius waren von den endlosen Markomannenkriegen geprägt. Er verbrachte Jahre im Feldlager an der Donau, fern von Rom, in ständigem Kampf gegen germanische und sarmatische Stämme. Seine Gesundheit war angeschlagen – er litt an Magengeschwüren und nahm regelmäßig Theriak ein, ein Opium-haltiges Heilmittel. Sein größter Schmerz war die Enttäuschung über seinen Sohn Commodus, den er als Nachfolger bestimmte, obwohl er dessen Schwächen kannte.",
+    "tod": "Marcus Aurelius starb am 17. März 180 n. Chr. während der Markomannenkriege, wahrscheinlich in Vindobona (Wien) oder Sirmium, an einer Krankheit – möglicherweise der Antoninischen Pest. Auf dem Sterbebett soll er auf die Frage, warum er weine, geantwortet haben, er weine nicht wegen des Todes, sondern weil er seinen Sohn und das Reich den Gefahren hinterlasse. Er wurde 58 Jahre alt und zum Gott erklärt.",
+    "nachwirkung": "Marcus Aurelius gilt als der Idealtyp des Philosophenkönigs, den Platon gefordert hatte. Seine Selbstbetrachtungen wurden zu einem der meistgelesenen Bücher der Weltliteratur und inspirieren Menschen in aller Welt bis heute. Friedrich der Große las sie ebenso wie Bill Clinton. Die moderne Stoizismus-Bewegung und die kognitive Verhaltenstherapie berufen sich auf stoische Prinzipien, wie sie Marcus Aurelius formulierte."
+  },
+  "kernideen": [
+    {
+      "titel": "Vergänglichkeit und Akzeptanz",
+      "beschreibung": "Alles ist vergänglich und im ständigen Wandel. Der Weise akzeptiert dies gelassen und hängt sein Herz nicht an Vergängliches. Was heute groß erscheint, ist morgen vergessen."
+    },
+    {
+      "titel": "Innere Burg",
+      "beschreibung": "Die Seele besitzt eine innere Festung (Zitadelle), in die sich der Mensch jederzeit zurückziehen kann. Äußere Umstände können uns nicht verletzen – nur unsere eigenen Urteile über die Umstände."
+    },
+    {
+      "titel": "Pflicht und kosmische Ordnung",
+      "beschreibung": "Jeder Mensch hat eine Rolle in der kosmischen Ordnung und eine Pflicht gegenüber der Gemeinschaft. Man soll seine Aufgabe erfüllen, ungeachtet persönlicher Neigungen oder äußerer Hindernisse."
+    },
+    {
+      "titel": "Kontrolle über die eigenen Urteile",
+      "beschreibung": "Nicht die Dinge selbst beunruhigen uns, sondern unsere Urteile über die Dinge. Wir haben die Macht, unsere Urteile zu ändern und damit unsere Reaktionen auf die Welt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Selbstbetrachtungen (Ta eis heauton / Meditationes)",
+      "jahr": "170–180 n. Chr.",
+      "beschreibung": "Philosophisches Tagebuch in zwölf Büchern, geschrieben auf Griechisch im Feldlager während der Markomannenkriege. Nicht zur Veröffentlichung bestimmt, aber eines der einflussreichsten Werke der Weltliteratur. Persönliche Reflexionen über stoische Lebensweisheit."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Du hast Macht über deinen Geist, nicht über äußere Ereignisse. Erkenne dies, und du wirst Stärke finden.",
+      "quelle": "Selbstbetrachtungen, Buch VI",
+      "kontext": "Kerngedanke der stoischen Philosophie: Kontrolle über das Innere statt über das Äußere."
+    },
+    {
+      "text": "Das Glück deines Lebens hängt von der Beschaffenheit deiner Gedanken ab.",
+      "quelle": "Selbstbetrachtungen, Buch V",
+      "kontext": "Marcus Aurelius über die Macht der inneren Einstellung."
+    },
+    {
+      "text": "Verliere keine Zeit damit, darüber zu streiten, was ein guter Mensch sein sollte. Sei einer.",
+      "quelle": "Selbstbetrachtungen, Buch X, 16",
+      "kontext": "Aufruf zur Tat statt zur bloßen Theorie."
+    },
+    {
+      "text": "Alles, was wir hören, ist eine Meinung, keine Tatsache. Alles, was wir sehen, ist eine Perspektive, keine Wahrheit.",
+      "quelle": "Zugeschrieben, Selbstbetrachtungen",
+      "kontext": "Über die Relativität unserer Wahrnehmung."
+    },
+    {
+      "text": "Das beste Mittel der Rache ist, dem Beleidiger nicht zu gleichen.",
+      "quelle": "Selbstbetrachtungen, Buch VI, 6",
+      "kontext": "Stoische Gelassenheit gegenüber Feindseligkeit."
+    }
+  ],
+  "verwandtePhilosophen": ["seneca", "epiktet", "zenon-von-kition", "chrysipp", "heraklit"],
+  "verwandteIsmen": ["stoizismus", "kosmopolitismus", "pflichtethik", "praktische-philosophie"]
+}

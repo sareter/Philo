@@ -1,0 +1,158 @@
+{
+  "slug": "platon",
+  "name": "Platon",
+  "lebensdaten": "428/427–348/347 v. Chr.",
+  "geboren": {
+    "jahr": -428,
+    "ort": "Athen",
+    "land": "Griechenland",
+    "lat": 37.9715,
+    "lng": 23.7257
+  },
+  "gestorben": {
+    "jahr": -348,
+    "ort": "Athen",
+    "land": "Griechenland",
+    "lat": 37.9715,
+    "lng": 23.7257
+  },
+  "epoche": "Antike",
+  "region": "Griechenland",
+  "hauptstroemungen": ["Platonismus", "Idealismus", "Rationalismus"],
+  "kurzbeschreibung": "Platon war der bedeutendste Schüler des Sokrates und Gründer der Akademie in Athen, der ersten institutionalisierten Philosophenschule der westlichen Welt. Seine Ideenlehre, seine politische Philosophie und seine Dialoge bilden das Fundament der gesamten abendländischen Philosophie.",
+  "biografie": {
+    "fruehesLeben": "Platon wurde 428 oder 427 v. Chr. in Athen (oder auf der Insel Ägina) in eine der vornehmsten Familien der Stadt geboren. Sein Vater Ariston führte seine Abstammung auf den letzten König Athens, Kodros, zurück, und seine Mutter Periktione war mit dem berühmten Gesetzgeber Solon verwandt. Sein eigentlicher Name war Aristokles; der Beiname 'Platon' (der Breite) bezieht sich angeblich auf seine breite Stirn oder seine kräftige Gestalt. Er erhielt eine umfassende Ausbildung in Gymnastik, Musik, Malerei und Dichtung, und es heißt, er habe in seiner Jugend Tragödien und Dithyramben verfasst, die er jedoch verbrannte, nachdem er Sokrates kennengelernt hatte. Um 407 v. Chr., im Alter von etwa zwanzig Jahren, wurde er Schüler des Sokrates und blieb dies bis zu dessen Tod 399 v. Chr. Diese Begegnung war das entscheidende Ereignis seines Lebens und bestimmte seine gesamte philosophische Entwicklung. Die Hinrichtung des Sokrates erschütterte ihn zutiefst und bestärkte ihn in seiner Kritik an der athenischen Demokratie.",
+    "schaffen": "Nach dem Tod des Sokrates unternahm Platon ausgedehnte Reisen, die ihn nach Megara, Kyrene, Ägypten und Unteritalien führten. In Unteritalien lernte er die Pythagoreer kennen, deren Zahlenmystik und Mathematik einen nachhaltigen Einfluss auf sein Denken hatten. Um 387 v. Chr. gründete er in einem Hain des Heros Akademos vor den Toren Athens die Akademie, die über 900 Jahre bestehen sollte – bis Kaiser Justinian sie 529 n. Chr. schließen ließ. Platon entwickelte seine berühmte Ideenlehre, wonach die sinnlich wahrnehmbare Welt nur ein unvollkommenes Abbild einer höheren Wirklichkeit ewiger, unveränderlicher Ideen sei. Die höchste dieser Ideen ist die Idee des Guten, die in der 'Politeia' mit der Sonne verglichen wird. Das berühmte Höhlengleichnis veranschaulicht den Aufstieg der Seele von der Welt der Schatten zur Erkenntnis der wahren Wirklichkeit. In der Erkenntnistheorie unterschied Platon zwischen Meinung (doxa) und wahrem Wissen (episteme), wobei nur die rationale Erkenntnis der Ideen wahres Wissen darstellt. Seine politische Philosophie, dargelegt vor allem in der 'Politeia' und den 'Nomoi', entwirft das Ideal eines gerechten Staates unter der Herrschaft von Philosophenkönigen. In der Seelenlehre vertrat er die Unsterblichkeit und Präexistenz der Seele sowie ihre Dreiteilung in Vernunft, Mut und Begierde. Seine Dialoge gelten als Meisterwerke der Weltliteratur und verbinden philosophische Tiefe mit literarischer Brillanz.",
+    "spaetesLeben": "Platon unternahm drei Reisen nach Sizilien, die jeweils mit politischen Ambitionen verbunden waren. Bei seiner ersten Reise um 388 v. Chr. lernte er Dion kennen, den Schwager des Tyrannen Dionysios I. von Syrakus. Der Versuch, den Tyrannen für seine philosophischen Ideen zu gewinnen, scheiterte kläglich – Platon soll sogar in die Sklaverei verkauft worden sein, aus der ihn sein Freund Annikeris freikaufte. Zwei weitere Reisen nach Syrakus (367 und 361 v. Chr.) zu Dionysios II. endeten ebenfalls in Enttäuschung und Gefahr. Diese gescheiterten politischen Experimente bestärkten Platon in der Überzeugung, dass die Verwirklichung des idealen Staates in der Praxis nahezu unmöglich sei. In seinen späten Dialogen, insbesondere dem 'Parmenides', dem 'Sophistes' und dem 'Philebos', unterzog er seine eigene Ideenlehre einer kritischen Revision und entwickelte eine differenziertere Dialektik.",
+    "tod": "Platon starb 348 oder 347 v. Chr. in Athen, angeblich während eines Hochzeitsmahles, im Alter von etwa 80 Jahren. Nach anderen Berichten starb er friedlich im Schlaf. Er wurde in der Nähe der Akademie begraben. Die Leitung der Akademie ging auf seinen Neffen Speusippos über.",
+    "nachwirkung": "Platons Einfluss auf die westliche Philosophie ist kaum zu überschätzen. Alfred North Whitehead bemerkte, die gesamte abendländische Philosophie bestehe aus einer Reihe von Fußnoten zu Platon. Seine Ideenlehre wurde zum Grundstein des philosophischen Idealismus und beeinflusste die christliche Theologie über die Kirchenväter, insbesondere Augustinus. Der Neuplatonismus Plotins trug seine Ideen durch die Spätantike ins Mittelalter. In der Renaissance erlebte der Platonismus eine Wiedergeburt durch Marsilio Ficino und die Platonische Akademie in Florenz. Bis heute sind seine Dialoge Grundlagentexte der philosophischen Ausbildung, und Begriffe wie 'platonische Liebe' oder 'Höhlengleichnis' sind fest in der Alltagssprache verankert."
+  },
+  "kernideen": [
+    {
+      "titel": "Ideenlehre",
+      "beschreibung": "Die sinnlich wahrnehmbare Welt ist nur ein unvollkommenes Abbild einer höheren Wirklichkeit ewiger, unveränderlicher Ideen (Formen). Die Idee des Guten steht an der Spitze der Ideenhierarchie und verleiht allem Seienden Sein und Erkennbarkeit."
+    },
+    {
+      "titel": "Höhlengleichnis",
+      "beschreibung": "Im berühmtesten Gleichnis der Philosophiegeschichte beschreibt Platon Menschen, die in einer Höhle gefesselt nur Schatten an der Wand sehen und diese für die Wirklichkeit halten. Der Aufstieg aus der Höhle symbolisiert den Bildungsweg der Seele von der Meinung zur wahren Erkenntnis."
+    },
+    {
+      "titel": "Philosophenkönige",
+      "beschreibung": "Im idealen Staat sollen die Philosophen herrschen, da nur sie über die Erkenntnis des Guten verfügen. Die Gesellschaft ist in drei Stände gegliedert: Herrscher (Vernunft), Wächter (Mut) und Erwerbstätige (Begierde)."
+    },
+    {
+      "titel": "Anamnesis (Wiedererinnerung)",
+      "beschreibung": "Lernen ist Wiedererinnern: Die unsterbliche Seele hat vor ihrer Verkörperung die Ideen geschaut und erinnert sich im irdischen Leben durch philosophisches Fragen an dieses Wissen zurück."
+    },
+    {
+      "titel": "Dreiteilung der Seele",
+      "beschreibung": "Die Seele besteht aus drei Teilen: dem vernünftigen Teil (logistikon), dem muthaften Teil (thymoeides) und dem begehrenden Teil (epithymetikon). Gerechtigkeit herrscht, wenn jeder Teil seine ihm gemäße Aufgabe erfüllt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Apologie des Sokrates",
+      "jahr": "ca. 395 v. Chr.",
+      "beschreibung": "Die Verteidigungsrede des Sokrates vor dem athenischen Gericht. Eines der frühesten und eindrucksvollsten Werke Platons, das die philosophische Haltung des Sokrates angesichts des Todes darstellt."
+    },
+    {
+      "titel": "Kriton",
+      "jahr": "ca. 395 v. Chr.",
+      "beschreibung": "Dialog über die Pflicht des Bürgers gegenüber den Gesetzen des Staates. Sokrates lehnt die von seinem Freund Kriton angebotene Flucht aus dem Gefängnis ab."
+    },
+    {
+      "titel": "Phaidon",
+      "jahr": "ca. 385 v. Chr.",
+      "beschreibung": "Der Dialog schildert die letzten Stunden des Sokrates und enthält vier Beweise für die Unsterblichkeit der Seele sowie die Darstellung der Ideenlehre."
+    },
+    {
+      "titel": "Politeia (Der Staat)",
+      "jahr": "ca. 375 v. Chr.",
+      "beschreibung": "Platons Hauptwerk, in dem er den idealen Staat entwirft. Enthält das Sonnengleichnis, das Liniengleichnis und das Höhlengleichnis sowie die Theorie der Philosophenkönige."
+    },
+    {
+      "titel": "Symposion (Das Gastmahl)",
+      "jahr": "ca. 385 v. Chr.",
+      "beschreibung": "Mehrere Redner halten Lobreden auf den Eros. Höhepunkt ist die Rede des Sokrates, der von der Priesterin Diotima die Lehre vom Aufstieg der Liebe vom Schönen zum Guten erlernt hat."
+    },
+    {
+      "titel": "Phaidros",
+      "jahr": "ca. 370 v. Chr.",
+      "beschreibung": "Dialog über die Rhetorik, die Liebe und die Seele. Enthält das berühmte Gleichnis vom Seelenwagen und eine Kritik an der Schrift."
+    },
+    {
+      "titel": "Menon",
+      "jahr": "ca. 385 v. Chr.",
+      "beschreibung": "Dialog über die Lehrbarkeit der Tugend. Enthält das berühmte Sklavenexperiment, in dem Sokrates einem ungebildeten Sklaven geometrisches Wissen entlockt und damit die Anamnesis-Lehre illustriert."
+    },
+    {
+      "titel": "Theaitetos",
+      "jahr": "ca. 369 v. Chr.",
+      "beschreibung": "Dialog über die Frage 'Was ist Wissen?'. Drei Definitionen werden geprüft und verworfen: Wissen als Wahrnehmung, als wahre Meinung und als wahre begründete Meinung."
+    },
+    {
+      "titel": "Parmenides",
+      "jahr": "ca. 365 v. Chr.",
+      "beschreibung": "Selbstkritik der Ideenlehre. Der alte Parmenides konfrontiert den jungen Sokrates mit schwerwiegenden Einwänden gegen die Theorie der Ideen, insbesondere dem Argument des 'dritten Menschen'."
+    },
+    {
+      "titel": "Sophistes",
+      "jahr": "ca. 360 v. Chr.",
+      "beschreibung": "Dialog über das Sein und das Nichtsein. Die Methode der Dihairesis (Einteilung) wird vorgestellt und die Möglichkeit falscher Aussagen begründet."
+    },
+    {
+      "titel": "Timaios",
+      "jahr": "ca. 360 v. Chr.",
+      "beschreibung": "Kosmologischer Dialog, in dem der Pythagoreer Timaios die Erschaffung der Welt durch einen göttlichen Demiurgen schildert. Im Mittelalter der meistgelesene Dialog Platons."
+    },
+    {
+      "titel": "Nomoi (Die Gesetze)",
+      "jahr": "ca. 347 v. Chr.",
+      "beschreibung": "Platons letztes und umfangsreichstes Werk. Entwurf einer realistischeren Staatsverfassung als in der Politeia, mit detaillierten Gesetzesvorschlägen."
+    },
+    {
+      "titel": "Gorgias",
+      "jahr": "ca. 390 v. Chr.",
+      "beschreibung": "Dialog über die Rhetorik und die Gerechtigkeit. Sokrates argumentiert gegen die Sophisten, dass es besser ist, Unrecht zu erleiden als Unrecht zu tun."
+    },
+    {
+      "titel": "Protagoras",
+      "jahr": "ca. 390 v. Chr.",
+      "beschreibung": "Dialog über die Lehrbarkeit der Tugend. Sokrates und der Sophist Protagoras debattieren über das Wesen der Tugend und die Einheit der Tugenden."
+    },
+    {
+      "titel": "Philebos",
+      "jahr": "ca. 355 v. Chr.",
+      "beschreibung": "Dialog über das Verhältnis von Lust und Vernunft zum guten Leben. Platon entwickelt eine differenzierte Theorie der Güter und des gemischten Lebens."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die höchste Form des Wissens ist die Betrachtung des Wesens, warum jedes Ding ist, was es ist.",
+      "quelle": "Politeia",
+      "kontext": "Platon über das Ziel der philosophischen Erkenntnis."
+    },
+    {
+      "text": "Nur die Toten haben das Ende des Krieges gesehen.",
+      "quelle": "Zugeschrieben, Politeia",
+      "kontext": "Eines der berühmtesten Platon zugeschriebenen Zitate über den ewigen Kreislauf menschlicher Konflikte."
+    },
+    {
+      "text": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt – und die Ideen übersteigen jede Sprache.",
+      "quelle": "Siebter Brief",
+      "kontext": "Platon über die Grenzen der sprachlichen Darstellung philosophischer Wahrheiten."
+    },
+    {
+      "text": "Der Anfang ist der wichtigste Teil der Arbeit.",
+      "quelle": "Politeia, Buch I",
+      "kontext": "Platon über die Bedeutung einer guten Erziehung von Anfang an."
+    },
+    {
+      "text": "Weise Menschen sprechen, weil sie etwas zu sagen haben; Narren, weil sie etwas sagen müssen.",
+      "quelle": "Zugeschrieben",
+      "kontext": "Eine der zahlreichen Lebensweisheiten, die Platon zugeschrieben werden."
+    }
+  ],
+  "verwandtePhilosophen": ["sokrates", "aristoteles", "plotin", "pythagoras", "parmenides", "heraklit", "augustinus"],
+  "verwandteIsmen": ["platonismus", "idealismus", "rationalismus", "neuplatonismus"]
+}

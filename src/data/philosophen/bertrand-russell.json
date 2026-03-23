@@ -1,0 +1,109 @@
+{
+  "slug": "bertrand-russell",
+  "name": "Bertrand Russell",
+  "lebensdaten": "1872–1970",
+  "geboren": {
+    "jahr": 1872,
+    "ort": "Trellech",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.7561,
+    "lng": -2.7264
+  },
+  "gestorben": {
+    "jahr": 1970,
+    "ort": "Penrhyndeudraeth",
+    "land": "Vereinigtes Königreich",
+    "lat": 52.9339,
+    "lng": -3.9467
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Analytische Philosophie", "Logischer Atomismus", "Logizismus"],
+  "kurzbeschreibung": "Bertrand Russell war einer der Begründer der analytischen Philosophie, ein bahnbrechender Logiker und einer der einflussreichsten öffentlichen Intellektuellen des 20. Jahrhunderts. Er erhielt 1950 den Nobelpreis für Literatur und engagierte sich zeitlebens für Frieden, soziale Gerechtigkeit und Rationalität. Sein Werk umfasst über 70 Bücher zu Philosophie, Mathematik, Politik und Gesellschaft.",
+  "biografie": {
+    "fruehesLeben": "Bertrand Arthur William Russell, 3. Earl Russell, wurde am 18. Mai 1872 in Trellech, Monmouthshire, Wales, in eine der vornehmsten politischen Familien Englands geboren. Sein Großvater Lord John Russell war zweimal Premierminister gewesen. Beide Eltern starben, als Russell noch klein war, und er wurde von seiner strengen, puritanischen Großmutter erzogen. Eine einsame Kindheit führte ihn früh zur Mathematik, die ihm Trost und Gewissheit bot. Er studierte Mathematik und Philosophie am Trinity College in Cambridge, wo er 1893 seinen Abschluss als 'Wrangler' in Mathematik machte und sich der Philosophie zuwandte.",
+    "schaffen": "Russells philosophisches Lebenswerk begann mit 'The Principles of Mathematics' (1903) und dem monumentalen, mit Alfred North Whitehead verfassten Werk 'Principia Mathematica' (1910–1913), das den Logizismus begründete – den Versuch, die gesamte Mathematik auf logische Grundlagen zurückzuführen. Er entdeckte 1901 das berühmte 'Russell-Paradoxon' in der Mengenlehre, das die Grundlagen der Mathematik erschütterte. Seine Theorie der Kennzeichnungen (1905) wurde von Frank Ramsey als 'Paradigma der Philosophie' bezeichnet. In 'The Problems of Philosophy' (1912) verfasste er eine brillante Einführung in die Erkenntnistheorie. Seine Philosophie des logischen Atomismus (1918) und die Theorie der neutralen Monismen prägten die analytische Tradition maßgeblich. In der Sprachphilosophie entwickelte er die Kennzeichnungstheorie und den logischen Atomismus, die Wittgenstein und den Wiener Kreis beeinflussten. Russell schrieb zudem populäre Werke wie 'A History of Western Philosophy' (1945), das ein Bestseller wurde, und zahlreiche gesellschaftskritische Bücher über Erziehung, Moral, Religion und Politik.",
+    "spaetesLeben": "Russell war ein leidenschaftlicher politischer Aktivist. Im Ersten Weltkrieg wurde er wegen seines Pazifismus inhaftiert. Er engagierte sich gegen die atomare Aufrüstung, gründete mit Albert Einstein das Pugwash-Manifest (1955) und initiierte das Russell-Tribunal gegen den Vietnamkrieg (1966). 1950 erhielt er den Nobelpreis für Literatur für seine Schriften, 'in denen er als Verfechter der Menschlichkeit und Gedankenfreiheit hervortritt'. Er heiratete viermal und führte ein bewegtes Privatleben. In seinen letzten Lebensjahrzehnten war er eine der prominentesten Stimmen der Friedensbewegung und der nuklearen Abrüstung.",
+    "tod": "Bertrand Russell starb am 2. Februar 1970 in Penrhyndeudraeth, Wales, im Alter von 97 Jahren an Influenza. Bis wenige Tage vor seinem Tod hatte er politische Stellungnahmen verfasst. Er hatte ein Leben gelebt, das fast ein ganzes Jahrhundert umspannte – von der viktorianischen Ära bis zum Zeitalter der Mondlandung.",
+    "nachwirkung": "Russell gilt zusammen mit Frege und Wittgenstein als Begründer der analytischen Philosophie, der dominierenden philosophischen Tradition der englischsprachigen Welt. Seine logischen Arbeiten revolutionierten die Grundlagen der Mathematik. Sein Einfluss auf Wittgenstein, den Wiener Kreis, Quine, Popper und die gesamte analytische Tradition ist kaum zu überschätzen. Als öffentlicher Intellektueller verkörperte er das Ideal des rational engagierten Bürgers. Seine populären philosophischen Werke werden bis heute gelesen und geschätzt."
+  },
+  "kernideen": [
+    {
+      "titel": "Logizismus",
+      "beschreibung": "Die These, dass die Mathematik auf die Logik zurückgeführt werden kann. Die 'Principia Mathematica' versuchten, dies in einem formalen System durchzuführen – ein monumentales Projekt, das die Grundlagen der Mathematik und Logik für immer veränderte."
+    },
+    {
+      "titel": "Theorie der Kennzeichnungen",
+      "beschreibung": "Russells Analyse bestimmter Beschreibungen (wie 'der gegenwärtige König von Frankreich') zeigt, dass die grammatische Form eines Satzes seine logische Form verschleiern kann. Diese Theorie demonstriert die Macht der logischen Analyse zur Lösung philosophischer Probleme."
+    },
+    {
+      "titel": "Logischer Atomismus",
+      "beschreibung": "Die Welt besteht aus atomaren Tatsachen, die durch logische Beziehungen verbunden sind. Eine ideale Sprache würde die logische Struktur der Welt direkt abbilden. Diese Position beeinflusste Wittgensteins 'Tractatus' und den Wiener Kreis."
+    },
+    {
+      "titel": "Russells Paradoxon",
+      "beschreibung": "Die Menge aller Mengen, die sich nicht selbst enthalten, führt zu einem Widerspruch: Enthält sie sich selbst oder nicht? Dieses Paradoxon erschütterte die naive Mengenlehre und führte zur Typentheorie und zur axiomatischen Mengenlehre."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "The Principles of Mathematics",
+      "jahr": "1903",
+      "beschreibung": "Das Werk legt die philosophischen Grundlagen des Logizismus und entwickelt eine Analyse mathematischer Begriffe mit den Mitteln der formalen Logik."
+    },
+    {
+      "titel": "Principia Mathematica",
+      "jahr": "1910–1913",
+      "beschreibung": "Das mit Alfred North Whitehead verfasste dreibändige Monumentalwerk versucht, die gesamte Mathematik aus logischen Axiomen abzuleiten – eines der ambitioniertesten intellektuellen Projekte der Geschichte."
+    },
+    {
+      "titel": "The Problems of Philosophy",
+      "jahr": "1912",
+      "beschreibung": "Eine brillante und zugängliche Einführung in die Erkenntnistheorie, die zentrale Probleme wie die Existenz der Außenwelt, Induktion und Universalien behandelt."
+    },
+    {
+      "titel": "A History of Western Philosophy",
+      "jahr": "1945",
+      "beschreibung": "Russells populäre Geschichte der westlichen Philosophie von den Vorsokratikern bis zur Moderne wurde ein internationaler Bestseller und finanzierte seinen Lebensunterhalt."
+    },
+    {
+      "titel": "Human Knowledge: Its Scope and Limits",
+      "jahr": "1948",
+      "beschreibung": "Russells umfassendste erkenntnistheoretische Spätschrift, in der er die Grundlagen und Grenzen menschlichen Wissens untersucht."
+    },
+    {
+      "titel": "Why I Am Not a Christian",
+      "jahr": "1927",
+      "beschreibung": "Der berühmte Vortrag und Essay, in dem Russell seine Argumente gegen den christlichen Glauben und für einen rationalen Humanismus darlegt."
+    },
+    {
+      "titel": "Autobiography",
+      "jahr": "1967–1969",
+      "beschreibung": "Russells dreibändige Autobiografie ist ein faszinierendes Zeugnis eines fast hundertjährigen Lebens im Zentrum des intellektuellen und politischen Geschehens des 20. Jahrhunderts."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.",
+      "quelle": "Zugeschrieben",
+      "kontext": "Russells Plädoyer für intellektuelle Bescheidenheit und Skepsis gegenüber Gewissheit."
+    },
+    {
+      "text": "I would never die for my beliefs because I might be wrong.",
+      "quelle": "Zugeschrieben",
+      "kontext": "Ein Ausdruck von Russells Fallibilismus und seiner Abneigung gegen dogmatische Überzeugungen."
+    },
+    {
+      "text": "Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.",
+      "quelle": "Autobiography, Prologue",
+      "kontext": "Die berühmte Eröffnung von Russells Autobiografie, die seine drei Lebensleidenschaften beschreibt."
+    },
+    {
+      "text": "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.",
+      "quelle": "A Liberal Decalogue",
+      "kontext": "Russells Ermutigung zum unabhängigen Denken."
+    }
+  ],
+  "verwandtePhilosophen": ["ludwig-wittgenstein", "gottlob-frege", "alfred-north-whitehead", "karl-popper", "willard-van-orman-quine"],
+  "verwandteIsmen": ["analytische-philosophie", "logizismus", "logischer-atomismus", "empirismus"]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "richard-rorty",
+  "name": "Richard Rorty",
+  "lebensdaten": "1931–2007",
+  "geboren": {
+    "jahr": 1931,
+    "ort": "New York City",
+    "land": "USA",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "gestorben": {
+    "jahr": 2007,
+    "ort": "Palo Alto",
+    "land": "USA",
+    "lat": 37.4419,
+    "lng": -122.143
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Neopragmatismus", "Postanalytische Philosophie", "Liberaler Ironismus"],
+  "kurzbeschreibung": "Richard Rorty war einer der einflussreichsten und umstrittensten amerikanischen Philosophen des 20. Jahrhunderts. Mit seinem Werk 'Philosophy and the Mirror of Nature' (1979) stellte er die gesamte analytische Philosophie infrage und begründete den Neopragmatismus. Er plädierte für eine Philosophie, die auf den Anspruch auf objektive Wahrheit verzichtet und sich stattdessen der menschlichen Solidarität und dem demokratischen Gespräch widmet.",
+  "biografie": {
+    "fruehesLeben": "Richard McKay Rorty wurde am 4. Oktober 1931 in New York City als Sohn linksintellektueller Eltern geboren, die in trotzkistischen Kreisen verkehrten. Er wuchs mit einem ausgeprägten Sinn für soziale Gerechtigkeit und intellektuelle Neugier auf. Als Wunderkind studierte er bereits mit 15 Jahren an der University of Chicago, wo er unter dem Einfluss des Great-Books-Programms von Robert Maynard Hutchins stand. Er promovierte 1956 in Yale in Philosophie.",
+    "schaffen": "Rorty begann als analytischer Philosoph und lehrte von 1961 bis 1982 an der Princeton University. Sein bahnbrechendes Werk 'Philosophy and the Mirror of Nature' (1979) stellte die Grundannahme der westlichen Erkenntnistheorie infrage: dass das Bewusstsein ein 'Spiegel der Natur' sei und dass Philosophie die Aufgabe habe, diesen Spiegel zu reinigen. Stattdessen argumentierte er, aufbauend auf Dewey, Wittgenstein und Heidegger, für eine 'erbauliche' Philosophie, die Gespräche ermöglicht statt ewige Wahrheiten zu suchen. 'Contingency, Irony, and Solidarity' (1989) entwickelte das Ideal des 'liberalen Ironikers' – eines Menschen, der seine eigenen tiefsten Überzeugungen als kontingent anerkennt, aber trotzdem leidenschaftlich für Freiheit und gegen Grausamkeit eintritt. Er wechselte 1982 an die University of Virginia und dann 1998 an die Stanford University, wo er als Professor für vergleichende Literaturwissenschaft lehrte – ein bewusster Schritt weg von der akademischen Philosophie.",
+    "spaetesLeben": "In seinen letzten Lebensjahrzehnten wandte sich Rorty zunehmend politischen Fragen zu. 'Achieving Our Country' (1998) kritisierte die akademische Linke für ihren Rückzug aus der praktischen Politik und plädierte für einen patriotischen, reformistischen Liberalismus. Er warnte prophetisch vor dem Aufstieg eines 'starken Mannes' in der amerikanischen Politik. Er blieb ein streitbarer Essayist und Debattenteilnehmer bis zu seinem Tod.",
+    "tod": "Richard Rorty starb am 8. Juni 2007 in Palo Alto, Kalifornien, an Bauchspeicheldrüsenkrebs. Er war 75 Jahre alt.",
+    "nachwirkung": "Rorty revitalisierte den Pragmatismus als philosophische Tradition und schuf eine Brücke zwischen analytischer und kontinentaler Philosophie. Sein Einfluss erstreckt sich über Philosophie, Literaturwissenschaft, Politikwissenschaft und Soziologie. Die Debatte über seine Wahrheitsskepsis und seinen Anti-Fundamentalismus gehört zu den lebendigsten philosophischen Auseinandersetzungen der Gegenwart. Seine politischen Analysen erweisen sich als prophetisch für die Krise der amerikanischen Demokratie."
+  },
+  "kernideen": [
+    {
+      "titel": "Anti-Repräsentationalismus",
+      "beschreibung": "Die Vorstellung, dass unsere Sprache oder unser Denken die Wirklichkeit 'repräsentiert' oder 'spiegelt', ist ein Irrtum. Es gibt keine neutrale Perspektive, von der aus wir die Übereinstimmung unserer Überzeugungen mit der Realität überprüfen könnten. Wahrheit ist das, was sich in unseren Gesprächen bewährt."
+    },
+    {
+      "titel": "Liberaler Ironismus",
+      "beschreibung": "Der liberale Ironiker erkennt die Kontingenz seiner eigenen Überzeugungen an (Ironie), setzt sich aber gleichzeitig leidenschaftlich für die Verringerung von Grausamkeit und die Erweiterung von Solidarität ein (Liberalismus). Öffentliche Hoffnung und private Ironie können nebeneinander bestehen."
+    },
+    {
+      "titel": "Kontingenz und Solidarität",
+      "beschreibung": "Sprache, Selbst und Gemeinschaft sind kontingent – historisch gewachsen, nicht durch die Natur der Dinge vorbestimmt. Solidarität gründet nicht in der Erkenntnis eines gemeinsamen Wesens, sondern in der Fähigkeit, das Leiden anderer als dem eigenen ähnlich wahrzunehmen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Philosophy and the Mirror of Nature",
+      "jahr": "1979",
+      "beschreibung": "Das bahnbrechende Werk kritisiert die erkenntnistheoretische Tradition der westlichen Philosophie und plädiert für eine Philosophie, die Gespräche ermöglicht statt ewige Wahrheiten zu suchen."
+    },
+    {
+      "titel": "Consequences of Pragmatism",
+      "jahr": "1982",
+      "beschreibung": "Eine Sammlung von Essays, die den Pragmatismus als Alternative zur analytischen und kontinentalen Philosophie positionieren."
+    },
+    {
+      "titel": "Contingency, Irony, and Solidarity",
+      "jahr": "1989",
+      "beschreibung": "Rortys bekanntestes Werk entwickelt das Ideal des liberalen Ironikers und plädiert für eine Kultur der Kontingenz und Solidarität ohne metaphysische Fundierung."
+    },
+    {
+      "titel": "Achieving Our Country",
+      "jahr": "1998",
+      "beschreibung": "Eine Kritik der akademischen Linken und ein Plädoyer für einen patriotischen, reformistischen Liberalismus in der Tradition Deweys und Whitmans."
+    },
+    {
+      "titel": "Philosophy as Cultural Politics",
+      "jahr": "2007",
+      "beschreibung": "Rortys letzte Aufsatzsammlung versteht Philosophie als eine Form der Kulturpolitik, die unser Selbstverständnis verändern soll."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wahrheit ist das, was deine Zeitgenossen dich noch durchgehen lassen.",
+      "quelle": "Philosophy and the Mirror of Nature",
+      "kontext": "Rortys provokante Reformulierung des Wahrheitsbegriffs als soziale Praxis."
+    },
+    {
+      "text": "Solidarität ist nicht entdeckt, sondern geschaffen – geschaffen durch die Zunahme unserer Empfindlichkeit für die besonderen Details des Schmerzes und der Erniedrigung anderer.",
+      "quelle": "Contingency, Irony, and Solidarity",
+      "kontext": "Die Grundlage der Solidarität liegt nicht in der Metaphysik, sondern in der moralischen Imagination."
+    },
+    {
+      "text": "Wir sollten aufhören, die Philosophen zu fragen, was 'wirklich wirklich' ist, und anfangen, sie zu fragen, was für uns gut wäre zu glauben.",
+      "quelle": "Consequences of Pragmatism",
+      "kontext": "Der pragmatische Vorschlag, die Wahrheitsfrage durch die Frage nach dem guten Leben zu ersetzen."
+    }
+  ],
+  "verwandtePhilosophen": ["john-dewey", "william-james", "charles-sanders-peirce", "ludwig-wittgenstein", "juergen-habermas", "willard-van-orman-quine"],
+  "verwandteIsmen": ["pragmatismus", "neopragmatismus", "liberalismus", "anti-fundamentalismus"]
+}

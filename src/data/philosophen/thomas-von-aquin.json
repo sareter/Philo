@@ -1,0 +1,103 @@
+{
+  "slug": "thomas-von-aquin",
+  "name": "Thomas von Aquin",
+  "lebensdaten": "1225–1274",
+  "geboren": {
+    "jahr": 1225,
+    "ort": "Roccasecca",
+    "land": "Königreich Sizilien (heute Italien)",
+    "lat": 41.56,
+    "lng": 13.67
+  },
+  "gestorben": {
+    "jahr": 1274,
+    "ort": "Fossanova",
+    "land": "Kirchenstaat (heute Italien)",
+    "lat": 41.41,
+    "lng": 13.29
+  },
+  "epoche": "Mittelalter",
+  "region": "Italien / Frankreich",
+  "hauptstroemungen": ["Scholastik", "Thomismus", "Aristotelismus", "Christliche Philosophie"],
+  "kurzbeschreibung": "Thomas von Aquin war der bedeutendste Theologe und Philosoph des Mittelalters. Seine monumentale Synthese von aristotelischer Philosophie und christlicher Theologie in der 'Summa Theologiae' wurde zum intellektuellen Fundament der katholischen Kirche.",
+  "biografie": {
+    "fruehesLeben": "Thomas wurde 1225 auf der Burg Roccasecca bei Aquino in Süditalien geboren, als jüngster Sohn des Grafen Landolfo von Aquino. Die Familie gehörte zum niederen Adel und war mit den Stauferkaisern verwandt. Mit fünf Jahren wurde er als Oblate in das Benediktinerkloster Montecassino gegeben, wo er seine erste Ausbildung erhielt. 1239 wechselte er an die Universität Neapel, wo er erstmals mit den Werken des Aristoteles in Berührung kam. 1244 trat er gegen den heftigen Widerstand seiner Familie in den Dominikanerorden ein – ein Bettelorden, was für einen Adeligen als unwürdig galt. Seine Brüder entführten ihn und hielten ihn über ein Jahr auf der Familienburg gefangen. Der Legende nach schickten sie ihm eine Prostituierte, die er mit einem glühenden Holzscheit vertrieb. Schließlich gaben sie nach.",
+    "schaffen": "Thomas studierte unter Albertus Magnus in Köln und Paris und wurde dessen begabtester Schüler. In Paris lehrte er ab 1256 als Magister der Theologie an der Universität. Seine Mitschüler nannten ihn zunächst wegen seiner Schweigsamkeit und seines massigen Körperbaus den 'stummen Ochsen', worauf Albertus Magnus prophezeite: 'Dieses Brüllen wird die ganze Welt erfüllen.' Thomas' Lebenswerk war die systematische Verbindung der aristotelischen Philosophie mit der christlichen Theologie – ein gewaltiges und umstrittenes Unternehmen, da Aristoteles von vielen Theologen als heidnisch und gefährlich angesehen wurde. In der 'Summa Theologiae' (1265–1273) schuf er eine enzyklopädische Darstellung der gesamten Theologie in streng logischer Form (Quaestiones mit Einwänden, Gegenargumenten und Antworten). Die 'Summa contra Gentiles' (1259–1265) war als philosophisches Handbuch für Missionare unter Muslimen und Juden konzipiert. Thomas entwickelte fünf Gottesbeweise (Quinque Viae), die von der Erfahrung ausgehen: aus der Bewegung, der Kausalität, der Kontingenz, den Vollkommenheitsstufen und der Zweckmäßigkeit der Natur. In der Erkenntnistheorie vertrat er gegen die augustinische Illuminationslehre, dass alle Erkenntnis mit der Sinneserfahrung beginnt und durch Abstraktion zu allgemeinen Begriffen gelangt. In der Ethik übernahm er Aristoteles' Tugendethik und ergänzte sie um die theologischen Tugenden Glaube, Hoffnung und Liebe. Seine Naturrechtslehre unterscheidet vier Arten des Gesetzes: das ewige Gesetz (lex aeterna), das natürliche Gesetz (lex naturalis), das menschliche Gesetz (lex humana) und das göttliche Gesetz (lex divina).",
+    "spaetesLeben": "In seinen letzten Lebensjahren arbeitete Thomas fieberhaft an der Summa Theologiae. Am 6. Dezember 1273 hatte er während der Messe eine mystische Erfahrung, nach der er das Schreiben einstellte. Auf die Frage seines Sekretärs Reginald, warum er nicht mehr schreibe, antwortete er: 'Alles, was ich geschrieben habe, erscheint mir wie Stroh verglichen mit dem, was mir offenbart wurde.' Die Summa Theologiae blieb unvollendet.",
+    "tod": "Thomas starb am 7. März 1274 in der Zisterzienserabtei Fossanova auf dem Weg zum Konzil von Lyon, zu dem Papst Gregor X. ihn eingeladen hatte. Er war 49 Jahre alt. Er wurde 1323 heiliggesprochen und 1567 zum Kirchenlehrer erklärt. 1879 erklärte Papst Leo XIII. in der Enzyklika 'Aeterni Patris' den Thomismus zur offiziellen Philosophie der katholischen Kirche.",
+    "nachwirkung": "Thomas von Aquin ist der einflussreichste Theologe und Philosoph des Mittelalters und einer der wichtigsten Denker der westlichen Zivilisation. Seine Synthese von Vernunft und Glaube, von Aristotelismus und Christentum, wurde zum intellektuellen Fundament der katholischen Kirche. Der Neuthomismus des 19. und 20. Jahrhunderts erlebte eine Renaissance seiner Ideen. Sein Einfluss reicht von der Naturrechtslehre über die analytische Philosophie (Elizabeth Anscombe, Alasdair MacIntyre) bis zur Politischen Theorie."
+  },
+  "kernideen": [
+    {
+      "titel": "Fünf Gottesbeweise (Quinque Viae)",
+      "beschreibung": "Fünf Wege, die Existenz Gottes aus der Erfahrung zu beweisen: (1) Aus der Bewegung (Unbewegter Beweger), (2) aus der Kausalität (Erste Ursache), (3) aus der Kontingenz (Notwendiges Wesen), (4) aus den Vollkommenheitsstufen, (5) aus der Zweckmäßigkeit der Natur."
+    },
+    {
+      "titel": "Verhältnis von Vernunft und Glaube",
+      "beschreibung": "Vernunft und Glaube widersprechen einander nicht, da beide von Gott stammen. Die Vernunft kann vieles über Gott erkennen; was sie nicht erreicht, ergänzt der Glaube. Die Philosophie ist die 'Magd der Theologie'."
+    },
+    {
+      "titel": "Naturrecht",
+      "beschreibung": "Das Naturrecht ist die Teilhabe der vernünftigen Kreatur am ewigen Gesetz Gottes. Seine erste Vorschrift lautet: Das Gute ist zu tun und zu erstreben, das Böse ist zu meiden. Es ist universell und unveränderlich."
+    },
+    {
+      "titel": "Analogie des Seienden",
+      "beschreibung": "Das Wort 'Sein' wird nicht eindeutig (univok) und nicht mehrdeutig (äquivok), sondern analog verwendet. Gott und die Geschöpfe haben teil am Sein, aber in unterschiedlicher Weise."
+    },
+    {
+      "titel": "Form und Materie (Hylemorphismus)",
+      "beschreibung": "Übernahme der aristotelischen Lehre: Jedes körperliche Wesen besteht aus Materie (potenzielles Prinzip) und Form (aktuelles Prinzip). Die Seele ist die Form des menschlichen Körpers."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Summa Theologiae",
+      "jahr": "1265–1273",
+      "beschreibung": "Das Hauptwerk der scholastischen Theologie in drei Teilen: Gott (Prima Pars), der Mensch und seine Handlungen (Secunda Pars) und Christus als Weg zu Gott (Tertia Pars). Unvollendet. Umfasst über 3000 Artikel."
+    },
+    {
+      "titel": "Summa contra Gentiles",
+      "jahr": "1259–1265",
+      "beschreibung": "Philosophische Verteidigung des christlichen Glaubens gegen Nichtchristen in vier Büchern. Die drei ersten Bücher argumentieren rein philosophisch, das vierte auf Grundlage der Offenbarung."
+    },
+    {
+      "titel": "De ente et essentia (Über das Seiende und das Wesen)",
+      "jahr": "1252–1256",
+      "beschreibung": "Frühwerk über die metaphysischen Grundbegriffe: Sein, Wesen, Form, Materie, Substanz und Akzidens. Grundlegend für die thomistische Metaphysik."
+    },
+    {
+      "titel": "Quaestiones disputatae (Umstrittene Fragen)",
+      "jahr": "1256–1272",
+      "beschreibung": "Sammlung von akademischen Disputationen über zentrale Themen: De veritate (Über die Wahrheit), De potentia (Über die Macht Gottes), De malo (Über das Böse), De anima (Über die Seele)."
+    },
+    {
+      "titel": "Kommentare zu Aristoteles",
+      "jahr": "1266–1273",
+      "beschreibung": "Ausführliche Kommentare zu nahezu allen Werken des Aristoteles, darunter Metaphysik, Nikomachische Ethik, Politik, De Anima und Physik."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Alles, was ich geschrieben habe, erscheint mir wie Stroh.",
+      "quelle": "Überliefert von seinem Sekretär Reginald von Piperno",
+      "kontext": "Thomas' Reaktion nach seiner mystischen Erfahrung am 6. Dezember 1273, die ihn zum Aufhören des Schreibens bewog."
+    },
+    {
+      "text": "Für den Glaubenden bedarf es keines Beweises, für den Ungläubigen gibt es keinen Beweis.",
+      "quelle": "Zugeschrieben",
+      "kontext": "Über die Grenzen der Gottesbeweise."
+    },
+    {
+      "text": "Die Gnade hebt die Natur nicht auf, sondern vollendet sie.",
+      "quelle": "Summa Theologiae, I, q. 1, a. 8",
+      "kontext": "Der Grundsatz des thomistischen Verhältnisses von Natur und Gnade, Vernunft und Glaube."
+    },
+    {
+      "text": "Es gibt nichts im Verstand, was nicht zuvor in den Sinnen war.",
+      "quelle": "De veritate, q. 2, a. 3 (Nihil est in intellectu quod non prius fuerit in sensu)",
+      "kontext": "Thomas' empiristischer Grundsatz der Erkenntnistheorie, gegen die augustinische Illuminationslehre."
+    }
+  ],
+  "verwandtePhilosophen": ["aristoteles", "augustinus", "albertus-magnus", "boethius", "anselm-von-canterbury", "duns-scotus"],
+  "verwandteIsmen": ["thomismus", "scholastik", "aristotelismus", "naturrecht", "realismus"]
+}

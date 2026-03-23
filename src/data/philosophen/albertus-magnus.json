@@ -1,0 +1,90 @@
+{
+  "slug": "albertus-magnus",
+  "name": "Albertus Magnus",
+  "lebensdaten": "1200–1280",
+  "geboren": {
+    "jahr": 1200,
+    "ort": "Lauingen",
+    "land": "Heiliges Römisches Reich (heute Deutschland)",
+    "lat": 48.57,
+    "lng": 10.43
+  },
+  "gestorben": {
+    "jahr": 1280,
+    "ort": "Köln",
+    "land": "Heiliges Römisches Reich (heute Deutschland)",
+    "lat": 50.94,
+    "lng": 6.96
+  },
+  "epoche": "Mittelalter",
+  "region": "Deutschland / Frankreich / Italien",
+  "hauptstroemungen": ["Scholastik", "Aristotelismus", "Naturphilosophie"],
+  "kurzbeschreibung": "Albertus Magnus, der 'Doctor universalis', war der umfassendste Gelehrte des Mittelalters und Lehrer des Thomas von Aquin. Er machte die gesamte aristotelische Philosophie und die arabische Naturwissenschaft für die lateinische Welt zugänglich.",
+  "biografie": {
+    "fruehesLeben": "Albertus wurde um 1200 in Lauingen an der Donau in Schwaben geboren, als Sohn einer ritterlichen Familie. Über seine Jugend ist wenig bekannt. Er studierte in Padua, wo er 1223 vom Dominikaner Jordan von Sachsen für den Orden gewonnen wurde. Er studierte Theologie in Bologna und Köln und begann bald selbst zu lehren – in Hildesheim, Freiburg, Regensburg und Straßburg.",
+    "schaffen": "Ab 1243 lehrte Albertus an der Universität Paris, wo der junge Thomas von Aquin sein Schüler wurde. Er erkannte sofort dessen Genie und förderte ihn. Albertus' Lebenswerk war die Paraphrasierung und Kommentierung des gesamten Werkes des Aristoteles – eine gewaltige Aufgabe, die er in über 40 Bänden bewältigte. Dabei integrierte er auch die Kommentare der arabischen Philosophen Avicenna und Averroes sowie die Naturwissenschaft seiner Zeit. In der Botanik verfasste er 'De vegetabilibus', das bedeutendste botanische Werk des Mittelalters, mit detaillierten Beschreibungen von Pflanzen aus eigener Beobachtung. In der Zoologie schrieb er 'De animalibus' in 26 Büchern, das auf Aristoteles aufbaut, aber durch eigene Beobachtungen und Experimente ergänzt wird. In der Mineralogie verfasste er 'De mineralibus'. Er wurde wegen seiner universalen Gelehrsamkeit 'Doctor universalis' genannt und stand im Ruf, ein Zauberer zu sein – die Legende schrieb ihm die Herstellung eines sprechenden Automaten zu. Philosophisch vertrat Albertus eine eigenständige Position zwischen Augustinismus und Aristotelismus. Er unterschied klar zwischen Philosophie und Theologie als eigenständigen Disziplinen mit verschiedenen Methoden. In der Erkenntnistheorie versuchte er, die augustinische Illuminationslehre mit der aristotelischen Abstraktionslehre zu verbinden.",
+    "spaetesLeben": "1254 wurde Albertus zum Provinzial der deutschen Dominikaner ernannt und reiste in dieser Funktion zu Fuß durch ganz Deutschland. 1260 ernannte ihn Papst Alexander IV. zum Bischof von Regensburg, ein Amt, das er 1262 wieder niederlegte, um sich der Lehre und Forschung zu widmen. Er kehrte nach Köln zurück und unterrichtete am dortigen Studium Generale. 1274 reiste er nach Paris, um das Werk seines inzwischen verstorbenen Schülers Thomas gegen Angriffe zu verteidigen.",
+    "tod": "Albertus starb am 15. November 1280 in Köln im Alter von 80 Jahren. In seinen letzten Jahren hatte sein Gedächtnis stark nachgelassen. Er wurde im Dominikanerkloster in Köln begraben. 1931 wurde er von Papst Pius XI. heiliggesprochen und zum Kirchenlehrer erklärt. Seit 1941 ist er Patron der Naturwissenschaftler.",
+    "nachwirkung": "Albertus Magnus war der Wegbereiter der aristotelischen Revolution im Mittelalter. Ohne seine Vorarbeit wäre das Werk seines Schülers Thomas von Aquin nicht möglich gewesen. Seine naturwissenschaftlichen Werke gehören zu den bedeutendsten des Mittelalters und zeigen einen erstaunlichen empirischen Geist. Sein Insistieren auf eigener Beobachtung und Erfahrung neben der Autorität der antiken Texte machte ihn zu einem Vorläufer der modernen Naturwissenschaft."
+  },
+  "kernideen": [
+    {
+      "titel": "Eigenständigkeit der Philosophie",
+      "beschreibung": "Die Philosophie hat ihre eigene Methode und ihre eigenen Prinzipien, die von der Theologie unabhängig sind. In der Naturforschung ist die Autorität des Aristoteles maßgeblich, nicht die der Bibel."
+    },
+    {
+      "titel": "Empirische Naturforschung",
+      "beschreibung": "In der Naturwissenschaft zählt die eigene Beobachtung und Erfahrung (experimentum) neben der Autorität der antiken Texte. Albertus ergänzte die Lehren des Aristoteles durch eigene Beobachtungen."
+    },
+    {
+      "titel": "Synthese von Aristoteles und christlicher Theologie",
+      "beschreibung": "Die aristotelische Philosophie ist mit dem christlichen Glauben vereinbar und kann zur rationalen Durchdringung der Theologie dienen. Albertus bereitete damit die große Synthese seines Schülers Thomas vor."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Paraphrasen und Kommentare zu Aristoteles",
+      "jahr": "ca. 1250–1270",
+      "beschreibung": "Über 40 Bände, die das gesamte Werk des Aristoteles paraphrasieren und kommentieren, ergänzt durch arabische Kommentare und eigene Beiträge. Das umfangreichste philosophische Werk des Mittelalters."
+    },
+    {
+      "titel": "De vegetabilibus (Über die Pflanzen)",
+      "jahr": "ca. 1256",
+      "beschreibung": "Sieben Bücher über die Botanik, basierend auf einer pseudo-aristotelischen Vorlage, aber mit zahlreichen eigenen Beobachtungen ergänzt. Das bedeutendste botanische Werk des Mittelalters."
+    },
+    {
+      "titel": "De animalibus (Über die Tiere)",
+      "jahr": "ca. 1258",
+      "beschreibung": "26 Bücher über die Zoologie, die Aristoteles' Tiergeschichte kommentieren und durch eigene Beobachtungen ergänzen."
+    },
+    {
+      "titel": "De mineralibus (Über die Mineralien)",
+      "jahr": "ca. 1262",
+      "beschreibung": "Fünf Bücher über Geologie und Mineralogie, einschließlich der Eigenschaften von Edelsteinen und Metallen."
+    },
+    {
+      "titel": "Summa Theologiae",
+      "jahr": "ca. 1270",
+      "beschreibung": "Albertus' eigenes theologisches Hauptwerk, das die gesamte Theologie systematisch darstellt. Weniger bekannt als die Summa seines Schülers Thomas, aber ein eigenständiges Werk von großer Bedeutung."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "In der Naturforschung geht es nicht darum, was Gott durch ein Wunder tun könnte, sondern was natürlicherweise geschieht.",
+      "quelle": "De vegetabilibus",
+      "kontext": "Albertus' Plädoyer für eine naturwissenschaftliche Methode, die nicht auf Wunder zurückgreift."
+    },
+    {
+      "text": "Über Naturphänomene muss man nicht aus der Autorität, sondern aus der Vernunft und der Erfahrung urteilen.",
+      "quelle": "De mineralibus",
+      "kontext": "Ein erstaunlich modernes Plädoyer für empirische Naturforschung im 13. Jahrhundert."
+    },
+    {
+      "text": "Dieses Brüllen wird die ganze Welt erfüllen.",
+      "quelle": "Über seinen Schüler Thomas von Aquin, überliefert in der hagiographischen Tradition",
+      "kontext": "Albertus' Prophezeiung über den jungen Thomas, den seine Mitschüler den 'stummen Ochsen' nannten."
+    }
+  ],
+  "verwandtePhilosophen": ["thomas-von-aquin", "aristoteles", "boethius", "augustinus", "duns-scotus"],
+  "verwandteIsmen": ["scholastik", "aristotelismus", "empirismus", "naturphilosophie"]
+}

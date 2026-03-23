@@ -1,0 +1,79 @@
+{
+  "slug": "anaxagoras",
+  "name": "Anaxagoras",
+  "lebensdaten": "500–428 v. Chr.",
+  "geboren": {
+    "jahr": -500,
+    "ort": "Klazomenai",
+    "land": "Griechenland (Ionien)",
+    "lat": 38.33,
+    "lng": 26.78
+  },
+  "gestorben": {
+    "jahr": -428,
+    "ort": "Lampsakos",
+    "land": "Griechenland (Mysien)",
+    "lat": 40.35,
+    "lng": 26.68
+  },
+  "epoche": "Antike",
+  "region": "Ionien (Kleinasien) / Athen",
+  "hauptstroemungen": ["Vorsokratik", "Pluralismus", "Naturphilosophie"],
+  "kurzbeschreibung": "Anaxagoras brachte die Philosophie nach Athen und führte den Nous (Geist/Vernunft) als ordnendes Weltprinzip ein. Er erklärte die Sonne als glühenden Stein und wurde wegen Gottlosigkeit angeklagt – der erste Philosoph, der wegen seiner Lehren verfolgt wurde.",
+  "biografie": {
+    "fruehesLeben": "Anaxagoras wurde um 500 v. Chr. in Klazomenai, einer ionischen Stadt in Kleinasien, geboren. Er stammte aus einer wohlhabenden Familie, gab jedoch sein Vermögen auf, um sich ganz der Philosophie zu widmen. Als man ihm vorwarf, sich nicht um seine Besitztümer zu kümmern, soll er geantwortet haben: 'Warum kümmert ihr euch nicht selbst darum?' Um 480 v. Chr. kam er nach Athen – als erster bedeutender Philosoph, der in der Stadt des Sokrates lehrte. Er brachte damit die ionische Naturphilosophie nach Athen und prägte das geistige Klima der perikleischen Epoche entscheidend.",
+    "schaffen": "Anaxagoras' philosophische Hauptleistung war die Einführung des Nous (Geist, Vernunft) als kosmisches Ordnungsprinzip. Am Anfang, so lehrte er, waren alle Dinge in einer undifferenzierten Mischung vereint. Der Nous, der feinste und reinste aller Dinge, setzte eine Wirbelbewegung in Gang, die die Elemente trennte und ordnete. Die Grundelemente nannte er 'Samen' (spermata) oder, nach Aristoteles' Terminologie, Homöomerien (Gleichteilige). In jedem Ding ist ein Anteil von allem enthalten – 'alles in allem' –, aber jedes Ding wird nach dem Element benannt, das in ihm überwiegt. So enthält Schnee auch Anteile von Schwarz, nur dominiert das Weiß. Dieses Prinzip ermöglichte es ihm, Veränderung als Umgruppierung bereits vorhandener Bestandteile zu erklären, ohne Entstehen aus dem Nichts annehmen zu müssen. In der Astronomie vertrat er revolutionäre Thesen: Die Sonne sei ein glühender Stein, größer als der Peloponnes; der Mond empfange sein Licht von der Sonne; die Sterne seien feurige Steine, deren Hitze wir wegen der großen Entfernung nicht spüren. Er erklärte Mondfinsternisse korrekt als Erdschatten und Sonnenfinsternisse durch das Dazwischentreten des Mondes. Er war Freund und Berater des Perikles und prägte das intellektuelle Leben Athens während seiner Blütezeit.",
+    "spaetesLeben": "In den 430er Jahren v. Chr. geriet Anaxagoras in das politische Kreuzfeuer der Gegner des Perikles. Man klagte ihn der Gottlosigkeit (asebeia) an, weil er die Sonne als einen glühenden Stein und nicht als einen Gott bezeichnet hatte. Es war der erste bekannte Prozess gegen einen Philosophen wegen seiner Lehren – ein Vorläufer des Sokrates-Prozesses. Perikles soll ihn vor dem Gericht verteidigt haben, konnte jedoch eine Verurteilung nicht verhindern.",
+    "tod": "Anaxagoras wurde aus Athen verbannt und zog sich nach Lampsakos am Hellespont zurück, wo er eine Schule gründete und hoch geehrt wurde. Er starb dort um 428 v. Chr. im Alter von etwa 72 Jahren. Auf die Frage, ob er sich danach sehne, in seiner Heimat Klazomenai begraben zu werden, soll er geantwortet haben: 'Das ist nicht nötig, denn der Weg in die Unterwelt ist von überall gleich lang.' Die Bürger von Lampsakos errichteten ihm zu Ehren einen Altar und feierten Gedenkfeiern zu seinen Ehren. Auf seinem Grabstein stand angeblich: 'Hier liegt Anaxagoras, der die Grenzen der Wahrheit am weitesten vorangetrieben hat.'",
+    "nachwirkung": "Anaxagoras' Einführung des Nous als kosmisches Ordnungsprinzip war ein Meilenstein der Philosophiegeschichte. Sokrates berichtet im 'Phaidon', dass ihn die Lektüre des Anaxagoras zunächst begeisterte, er dann aber enttäuscht war, dass der Nous nur als mechanisches Prinzip und nicht als teleologische Vernunft eingesetzt wurde. Platon und Aristoteles griffen diesen Kritikpunkt auf und entwickelten ihre eigenen teleologischen Weltbilder. Die Idee, dass 'alles in allem' enthalten ist, wurde in der modernen Philosophie durch Leibniz' Monadenlehre und in der modernen Physik durch holographische Prinzipien wieder aufgegriffen."
+  },
+  "kernideen": [
+    {
+      "titel": "Der Nous (Geist/Vernunft)",
+      "beschreibung": "Der Nous ist das feinste und reinste aller Dinge, das die ursprüngliche Mischung in Bewegung setzte und die Welt ordnet. Er ist von allen anderen Dingen getrennt, durchdringt aber alles und hat Macht über alles Lebendige."
+    },
+    {
+      "titel": "Alles in Allem",
+      "beschreibung": "In jedem Ding ist ein Anteil von allem enthalten. Es gibt keine reinen Elemente – jedes Ding enthält Spuren aller anderen Dinge. Ein Ding wird nach dem Element benannt, das in ihm am meisten überwiegt."
+    },
+    {
+      "titel": "Homöomerie (Gleichteiligkeit)",
+      "beschreibung": "Die Grundbestandteile der Materie sind unendlich viele qualitativ verschiedene 'Samen', die unbegrenzt teilbar sind. Bei jeder Teilung bleibt die qualitative Zusammensetzung gleich."
+    },
+    {
+      "titel": "Naturalistische Astronomie",
+      "beschreibung": "Die Himmelskörper sind keine Götter, sondern natürliche Objekte: Die Sonne ist ein glühender Stein, der Mond eine erdähnliche Masse, die ihr Licht von der Sonne empfängt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Über die Natur (Peri Physeos)",
+      "jahr": "ca. 460 v. Chr.",
+      "beschreibung": "Anaxagoras' einziges bekanntes Werk, in Prosa verfasst. Es begann angeblich mit den Worten: 'Alle Dinge waren zusammen.' Das Werk war zu Sokrates' Zeiten für eine Drachme auf dem Markt zu kaufen. Nur etwa 20 Fragmente sind erhalten."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Alle Dinge waren zusammen; dann kam der Geist (Nous) und ordnete sie.",
+      "quelle": "Fragment DK 59 B 1 und B 12",
+      "kontext": "Die Grundthese des Anaxagoras über den Anfang der Kosmogonie."
+    },
+    {
+      "text": "In allem ist ein Anteil von allem.",
+      "quelle": "Fragment DK 59 B 11",
+      "kontext": "Das Prinzip der universalen Mischung als Grundlage der Naturphilosophie."
+    },
+    {
+      "text": "Der Weg in die Unterwelt ist von überall gleich lang.",
+      "quelle": "Überliefert bei Diogenes Laertios",
+      "kontext": "Anaxagoras' Antwort auf die Frage, ob er in seiner Heimat begraben werden wolle."
+    },
+    {
+      "text": "Der Mensch ist das klügste aller Lebewesen, weil er Hände hat.",
+      "quelle": "Überliefert bei Aristoteles, De partibus animalium",
+      "kontext": "Anaxagoras über den Zusammenhang zwischen körperlicher Ausstattung und Intelligenz."
+    }
+  ],
+  "verwandtePhilosophen": ["empedokles", "parmenides", "sokrates", "demokrit", "thales"],
+  "verwandteIsmen": ["pluralismus", "naturalismus", "rationalismus"]
+}

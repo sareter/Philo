@@ -1,0 +1,51 @@
+{
+  "slug": "john-locke",
+  "name": "John Locke",
+  "lebensdaten": "1632–1704",
+  "geboren": { "jahr": 1632, "ort": "Wrington, Somerset", "land": "England", "lat": 51.3833, "lng": -2.7667 },
+  "gestorben": { "jahr": 1704, "ort": "High Laver, Essex", "land": "England", "lat": 51.7333, "lng": 0.1500 },
+  "epoche": "Aufklärung",
+  "region": "England",
+  "hauptstroemungen": ["Empirismus", "Liberalismus", "Kontraktualismus"],
+  "kurzbeschreibung": "John Locke gilt als Vater des Liberalismus und als Begründer des erkenntnistheoretischen Empirismus. Sein 'Essay Concerning Human Understanding' revolutionierte die Erkenntnistheorie, und seine 'Two Treatises of Government' legten die theoretischen Grundlagen der modernen liberalen Demokratie. Seine Ideen über natürliche Rechte, Gewaltenteilung und religiöse Toleranz beeinflussten die amerikanische und französische Revolution.",
+  "biografie": {
+    "fruehesLeben": "John Locke wurde am 29. August 1632 in Wrington in Somerset als Sohn eines puritanischen Rechtsanwalts und kleinen Landbesitzers geboren, der als Kavalleriehauptmann im Englischen Bürgerkrieg auf Seiten des Parlaments kämpfte. 1647 wurde er an die Westminster School in London aufgenommen und 1652 mit einem Stipendium am Christ Church College in Oxford zugelassen, wo er bis 1667 blieb. Das scholastische Studium befriedigte ihn nicht; stattdessen wandte er sich der experimentellen Naturwissenschaft und der Medizin zu. Er wurde Mitglied der Royal Society und arbeitete als Arzt und wissenschaftlicher Assistent des berühmten Chemikers Robert Boyle. 1667 trat er als Hausarzt und Berater in den Dienst von Lord Anthony Ashley Cooper (dem späteren Earl of Shaftesbury), einem der führenden Whig-Politiker, und wurde so in die höchste Politik hineingezogen.",
+    "schaffen": "Lockes philosophisches Hauptwerk, der 'Essay Concerning Human Understanding' (1689), entwickelt eine empiristische Erkenntnistheorie: Der menschliche Geist ist bei der Geburt eine 'tabula rasa' (unbeschriebene Tafel), und alle Ideen stammen aus der Erfahrung – entweder aus der äußeren Sinneswahrnehmung (sensation) oder aus der inneren Selbstbeobachtung (reflection). Es gibt keine angeborenen Ideen, wie Descartes und die Rationalisten behaupteten. In den 'Two Treatises of Government' (1689) widerlegte er im ersten Teil die absolutistische Theorie des göttlichen Rechts der Könige und entwickelte im zweiten Teil seine eigene politische Theorie: Im Naturzustand besitzen die Menschen natürliche Rechte auf Leben, Freiheit und Eigentum. Der Staat entsteht durch einen Gesellschaftsvertrag zum Schutz dieser Rechte. Verletzt die Regierung diese Rechte, hat das Volk ein Recht auf Widerstand. Locke begründete auch die Gewaltenteilung (Legislative, Exekutive, Föderative) und das Recht auf Eigentum durch Arbeit. In seinem 'Letter Concerning Toleration' (1689) plädierte er für religiöse Toleranz und die Trennung von Kirche und Staat. Seine pädagogischen Schriften ('Some Thoughts Concerning Education', 1693) beeinflussten Rousseaus Erziehungsphilosophie.",
+    "spaetesLeben": "Als Lord Shaftesbury 1683 nach dem gescheiterten Rye-House-Komplott ins Exil nach Holland fliehen musste, folgte Locke ihm. In den Niederlanden lebte er sechs Jahre im Exil und vollendete seine Hauptwerke. Nach der Glorious Revolution von 1688, die Shaftesburys politische Vision verwirklichte, kehrte Locke triumphal nach England zurück – auf demselben Schiff wie die neue Königin Mary. Seine Werke wurden rasch veröffentlicht und machten ihn zum gefeiertsten Philosophen seiner Zeit. Er diente unter König Wilhelm III. als Commissioner of Trade and Plantations und beeinflusste die englische Kolonial- und Wirtschaftspolitik.",
+    "tod": "John Locke starb am 28. Oktober 1704 in High Laver in Essex, auf dem Landsitz seiner Freundin Lady Damaris Masham, wo er seine letzten Jahre verbracht hatte. Er litt unter zunehmender Atemnot und Asthma. Auf seinem Grabstein steht eine von ihm selbst verfasste lateinische Inschrift, die seine Bescheidenheit und seinen Glauben ausdrückt. Er wurde auf dem Friedhof der All Saints' Church in High Laver beigesetzt.",
+    "nachwirkung": "Lockes Einfluss auf die politische und intellektuelle Geschichte der Moderne ist kaum zu überschätzen. Die amerikanische Unabhängigkeitserklärung übernahm seine Lehre von den natürlichen Rechten fast wörtlich ('Life, Liberty, and the pursuit of Happiness'). Die französische Erklärung der Menschen- und Bürgerrechte von 1789 basiert auf seinen Ideen. Montesquieu entwickelte seine Gewaltenteilungslehre weiter. In der Erkenntnistheorie wurde sein Empirismus von Berkeley und Hume radikalisiert. Kant sah sich durch Humes Empirismus – und damit indirekt durch Locke – aus seinem 'dogmatischen Schlummer' geweckt. In der politischen Philosophie des 20. Jahrhunderts griffen Rawls und Nozick auf Lockes Kontraktualismus zurück."
+  },
+  "kernideen": [
+    {
+      "titel": "Tabula rasa",
+      "beschreibung": "Der menschliche Geist ist bei der Geburt eine 'unbeschriebene Tafel'. Alle Ideen stammen aus der Erfahrung – es gibt keine angeborenen Ideen. Diese These bildet das Fundament des erkenntnistheoretischen Empirismus."
+    },
+    {
+      "titel": "Natürliche Rechte",
+      "beschreibung": "Jeder Mensch besitzt von Natur aus unveräußerliche Rechte auf Leben, Freiheit und Eigentum. Der Staat existiert zum Schutz dieser Rechte, und eine Regierung, die sie verletzt, verliert ihre Legitimität."
+    },
+    {
+      "titel": "Gesellschaftsvertrag und Widerstandsrecht",
+      "beschreibung": "Die politische Ordnung beruht auf der Zustimmung der Regierten. Wenn die Regierung den Gesellschaftsvertrag bricht und die natürlichen Rechte verletzt, hat das Volk das Recht auf Widerstand und die Absetzung der Regierung."
+    },
+    {
+      "titel": "Religiöse Toleranz",
+      "beschreibung": "Der Staat hat kein Recht, den Glauben seiner Bürger zu bestimmen. Religion ist Privatsache, und Kirche und Staat müssen getrennt sein. Toleranz ist nicht nur ein Gebot der Klugheit, sondern der Gerechtigkeit."
+    }
+  ],
+  "werke": [
+    { "titel": "An Essay Concerning Human Understanding", "jahr": "1689", "beschreibung": "Lockes erkenntnistheoretisches Hauptwerk, das die Theorie der angeborenen Ideen widerlegt und eine empiristische Erkenntnistheorie entwickelt, die alle Erkenntnis auf Sinneserfahrung und Reflexion zurückführt." },
+    { "titel": "Two Treatises of Government", "jahr": "1689", "beschreibung": "Lockes politisches Hauptwerk: Der erste Traktat widerlegt Filmers absolutistische Theorie, der zweite entwickelt die Theorie des Gesellschaftsvertrags, der natürlichen Rechte und des Widerstandsrechts." },
+    { "titel": "A Letter Concerning Toleration", "jahr": "1689", "beschreibung": "Ein leidenschaftliches Plädoyer für religiöse Toleranz und die Trennung von Kirche und Staat, das zu den Gründungsdokumenten des religiösen Liberalismus zählt." },
+    { "titel": "Some Thoughts Concerning Education", "jahr": "1693", "beschreibung": "Eine einflussreiche pädagogische Schrift, die eine vernunftgeleitete, auf Erfahrung und Praxis basierende Erziehung fordert und Rousseaus 'Émile' beeinflusste." },
+    { "titel": "The Reasonableness of Christianity", "jahr": "1695", "beschreibung": "Eine theologische Schrift, die das Christentum als vernünftige Religion darstellt und nur wenige grundlegende Glaubenssätze als notwendig erachtet." }
+  ],
+  "zitate": [
+    { "text": "Keine Idee ist im Verstand, die nicht zuvor in den Sinnen war.", "quelle": "Essay Concerning Human Understanding, Buch II", "kontext": "Die Grundthese des Empirismus, die Locke von den Scholastikern übernahm und zur Grundlage seiner Erkenntnistheorie machte." },
+    { "text": "Wo es kein Eigentum gibt, gibt es auch kein Unrecht.", "quelle": "Essay Concerning Human Understanding, Buch IV", "kontext": "Locke illustriert die analytische Wahrheit, dass der Begriff des Unrechts den des Eigentums voraussetzt." },
+    { "text": "Die Regierung hat kein anderes Ziel als die Erhaltung des Eigentums.", "quelle": "Two Treatises of Government, II, §94", "kontext": "Lockes zentrale These, dass der Staat zum Schutz der natürlichen Rechte – Leben, Freiheit und Eigentum – existiert." },
+    { "text": "Der Mensch wird als unbeschriebenes Blatt geboren.", "quelle": "Essay Concerning Human Understanding, Buch II, Kapitel 1", "kontext": "Die berühmte Tabula-rasa-These, die alle angeborenen Ideen leugnet und die Erfahrung als einzige Quelle der Erkenntnis setzt." }
+  ],
+  "verwandtePhilosophen": ["thomas-hobbes", "david-hume", "george-berkeley", "jean-jacques-rousseau", "montesquieu", "immanuel-kant"],
+  "verwandteIsmen": ["empirismus", "liberalismus", "kontraktualismus"]
+}

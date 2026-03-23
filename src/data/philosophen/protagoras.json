@@ -1,0 +1,83 @@
+{
+  "slug": "protagoras",
+  "name": "Protagoras",
+  "lebensdaten": "490–420 v. Chr.",
+  "geboren": {
+    "jahr": -490,
+    "ort": "Abdera",
+    "land": "Griechenland (Thrakien)",
+    "lat": 40.95,
+    "lng": 24.98
+  },
+  "gestorben": {
+    "jahr": -420,
+    "ort": "Auf See (bei Sizilien)",
+    "lat": 37.5,
+    "lng": 14.0
+  },
+  "epoche": "Antike",
+  "region": "Thrakien / Athen",
+  "hauptstroemungen": ["Sophistik", "Relativismus", "Rhetorik"],
+  "kurzbeschreibung": "Protagoras war der berühmteste und einflussreichste der griechischen Sophisten. Sein Homo-Mensura-Satz – 'Der Mensch ist das Maß aller Dinge' – begründete den philosophischen Relativismus und provozierte die entschiedene Gegenreaktion von Sokrates und Platon.",
+  "biografie": {
+    "fruehesLeben": "Protagoras wurde um 490 v. Chr. in Abdera in Thrakien geboren, derselben Stadt wie Demokrit. Über seine Jugend ist wenig bekannt. Er soll zunächst als Lastenträger gearbeitet haben, bis Demokrit sein Talent erkannte und ihn in die Philosophie einführte – allerdings ist diese Anekdote chronologisch fragwürdig. Protagoras war der erste, der sich selbst als 'Sophist' bezeichnete und für seinen Unterricht Geld verlangte – angeblich als erster Lehrer überhaupt. Sein Honorar war außerordentlich hoch: 100 Minen für einen kompletten Kurs, ein Vermögen in antiken Verhältnissen.",
+    "schaffen": "Protagoras lehrte vor allem in Athen, wo er hohes Ansehen genoss und zum Freundeskreis des Perikles gehörte. 444/443 v. Chr. beauftragte ihn Perikles, die Verfassung für die athenische Kolonie Thurioi in Unteritalien zu entwerfen – eine große Ehre, die sein politisches Ansehen bezeugt. Sein philosophischer Hauptsatz lautet: 'Der Mensch ist das Maß aller Dinge, der seienden, dass sie sind, der nichtseienden, dass sie nicht sind.' Dieser Homo-Mensura-Satz ist die radikalste Formulierung des erkenntnistheoretischen Relativismus in der Antike. Er bedeutet, dass es keine objektive Wahrheit gibt – was wahr ist, ist relativ zum wahrnehmenden Subjekt. Was dem einen warm erscheint, erscheint dem anderen kalt, und keiner hat mehr recht als der andere. In der Rhetorik vertrat Protagoras die berühmte These, dass es zu jeder Sache zwei entgegengesetzte Argumente (logoi) gebe und dass man das schwächere Argument zum stärkeren machen könne (ton hetto logon kreitto poiein). Diese Fähigkeit, die er seinen Schülern vermittelte, machte ihn einerseits zum gefragten Lehrer, andererseits zum Feindbild der traditionellen Moral. In der Religionsphilosophie war er Agnostiker: 'Über die Götter habe ich keine Möglichkeit zu wissen, weder dass sie sind noch dass sie nicht sind noch wie sie etwa an Gestalt sind.'",
+    "spaetesLeben": "In seinen späteren Jahren geriet Protagoras in Konflikt mit der athenischen Religiosität. Seine agnostische Schrift über die Götter führte zu einer Anklage wegen Gottlosigkeit. Seine Bücher wurden angeblich öffentlich auf dem Marktplatz verbrannt – der erste bekannte Fall von Bücherverbrennung in der westlichen Geschichte. Protagoras wurde aus Athen verbannt.",
+    "tod": "Protagoras starb um 420 v. Chr. auf der Flucht aus Athen. Der Überlieferung zufolge ertrank er bei einem Schiffbruch auf der Überfahrt nach Sizilien. Er wurde etwa 70 Jahre alt. Platon widmete ihm einen gleichnamigen Dialog, in dem er trotz aller Kritik mit Respekt und sogar einer gewissen Sympathie dargestellt wird.",
+    "nachwirkung": "Protagoras' Relativismus war eine der folgenreichsten philosophischen Thesen der Antike. Die gesamte sokratisch-platonische Philosophie kann als Antwort auf die Herausforderung der Sophistik verstanden werden. In der Neuzeit wurde sein Relativismus durch den Pragmatismus, den Konstruktivismus und die postmoderne Philosophie wiederbelebt. Sein Ansatz, Bildung und rhetorische Kompetenz als Voraussetzung für politische Teilhabe zu betrachten, macht ihn zum Vordenker der demokratischen Bildungsidee."
+  },
+  "kernideen": [
+    {
+      "titel": "Homo-Mensura-Satz",
+      "beschreibung": "Der Mensch ist das Maß aller Dinge. Es gibt keine objektive, beobachterunabhängige Wahrheit. Was wahr ist, hängt von der Perspektive des wahrnehmenden Subjekts ab."
+    },
+    {
+      "titel": "Die zwei Logoi",
+      "beschreibung": "Zu jeder Sache gibt es zwei entgegengesetzte Argumente. Der geschickte Redner kann das schwächere Argument zum stärkeren machen. Rhetorik und Argumentation sind daher die wichtigsten Fähigkeiten."
+    },
+    {
+      "titel": "Agnostizismus",
+      "beschreibung": "Über die Götter ist kein sicheres Wissen möglich – weder ob sie existieren noch wie sie beschaffen sind. Die Kürze des Lebens und die Dunkelheit des Gegenstands verhindern jede Gewissheit."
+    },
+    {
+      "titel": "Bildung als Tugend",
+      "beschreibung": "Tugend (arete) kann gelehrt werden. Durch Bildung, insbesondere durch rhetorische und argumentative Schulung, kann der Mensch zu einem besseren Bürger werden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Wahrheit (Aletheia) oder Die niederwerfenden Argumente (Kataballontes)",
+      "jahr": "ca. 450 v. Chr.",
+      "beschreibung": "Protagoras' Hauptwerk, das mit dem berühmten Homo-Mensura-Satz begann. Nur wenige Fragmente sind erhalten. Das Werk behandelte Erkenntnistheorie und den Relativismus der Wahrnehmung."
+    },
+    {
+      "titel": "Über die Götter (Peri Theon)",
+      "jahr": "ca. 440 v. Chr.",
+      "beschreibung": "Agnostische Schrift, die mit dem berühmten Satz begann: 'Über die Götter habe ich keine Möglichkeit zu wissen.' Die Schrift wurde in Athen öffentlich verbrannt."
+    },
+    {
+      "titel": "Antilogien (Antilogiai)",
+      "jahr": "ca. 445 v. Chr.",
+      "beschreibung": "Sammlung von Argumenten und Gegenargumenten zu verschiedenen Themen. Grundlage der sophistischen Lehrmethode, zu jeder These eine Gegenthese aufzubauen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Mensch ist das Maß aller Dinge, der seienden, dass sie sind, der nichtseienden, dass sie nicht sind.",
+      "quelle": "Fragment DK 80 B 1",
+      "kontext": "Der berühmteste Satz der Sophistik und Grundlage des erkenntnistheoretischen Relativismus."
+    },
+    {
+      "text": "Über die Götter habe ich keine Möglichkeit zu wissen, weder dass sie sind noch dass sie nicht sind noch wie sie etwa an Gestalt sind; denn vieles gibt es, was die Erkenntnis hindert: die Nichtwahrnehmbarkeit und die Kürze des menschlichen Lebens.",
+      "quelle": "Fragment DK 80 B 4",
+      "kontext": "Der Anfang der Schrift 'Über die Götter', die zu Protagoras' Verurteilung führte."
+    },
+    {
+      "text": "Zu jeder Sache gibt es zwei einander entgegengesetzte Argumente.",
+      "quelle": "Überliefert bei Diogenes Laertios",
+      "kontext": "Grundsatz der sophistischen Argumentationslehre."
+    }
+  ],
+  "verwandtePhilosophen": ["gorgias", "sokrates", "platon", "demokrit", "hippias"],
+  "verwandteIsmen": ["relativismus", "sophistik", "agnostizismus", "pragmatismus"]
+}

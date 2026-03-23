@@ -1,0 +1,92 @@
+{
+  "slug": "peter-singer",
+  "name": "Peter Singer",
+  "lebensdaten": "1946–",
+  "geboren": {
+    "jahr": 1946,
+    "ort": "Melbourne",
+    "land": "Australien",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": ""
+  },
+  "epoche": "Gegenwart",
+  "region": "Ozeanien",
+  "hauptstroemungen": ["Utilitarismus", "Tierethik", "Angewandte Ethik"],
+  "kurzbeschreibung": "Peter Singer ist einer der einflussreichsten lebenden Philosophen und der Begründer der modernen Tierethikbewegung. Sein Werk 'Animal Liberation' (1975) wurde zur Bibel der Tierrechtsbewegung, und seine utilitaristische Ethik provoziert bis heute kontroverse Debatten über Abtreibung, Euthanasie, Armut und die moralische Berücksichtigung von Tieren.",
+  "biografie": {
+    "fruehesLeben": "Peter Albert David Singer wurde am 6. Juli 1946 in Melbourne, Australien, als Sohn österreichisch-jüdischer Emigranten geboren, die vor dem Nationalsozialismus geflohen waren. Drei seiner Großeltern kamen im Holocaust um. Er studierte Philosophie und Geschichte an der University of Melbourne und promovierte 1971 an der University of Oxford, wo er sich unter dem Einfluss von R.M. Hare dem Präferenzutilitarismus zuwandte.",
+    "schaffen": "Singers bahnbrechendes Werk 'Animal Liberation' (1975) argumentierte, dass die Berücksichtigung von Leidensinteressen nicht an der Grenze der menschlichen Spezies enden darf. Das Prinzip der gleichen Interessenabwägung verlangt, dass das Leiden eines Tieres ebenso zählt wie vergleichbares menschliches Leiden. Der Begriff 'Speziesismus' – die Diskriminierung aufgrund der Spezieszugehörigkeit – wurde durch Singer populär. 'Praktische Ethik' (1979) wandte den Utilitarismus auf kontroverse Themen wie Abtreibung, Euthanasie, Embryonenforschung und Armut an und wurde zum meistverkauften Lehrbuch der Ethik weltweit. Singer argumentierte kontrovers, dass unter bestimmten Umständen die Tötung schwerstbehinderter Neugeborener moralisch vertretbar sein könne – eine Position, die ihm heftige Proteste einbrachte. 'The Life You Can Save' (2009) und 'The Most Good You Can Do' (2015) begründeten die Effective-Altruism-Bewegung. Singer lehrte an der Monash University in Melbourne und ist seit 1999 Professor für Bioethik an der Princeton University.",
+    "spaetesLeben": "Singer engagiert sich weiterhin als einer der sichtbarsten öffentlichen Philosophen der Welt. Er ist eine zentrale Figur der Effective-Altruism-Bewegung, die rationale Methoden zur Maximierung des Guten fördert. Seine Positionen zu Tierethik, globaler Armut und Bioethik werden weltweit diskutiert und haben reale politische Auswirkungen – von Tierschutzgesetzen bis zu philanthropischen Spendenpraktiken.",
+    "tod": "Peter Singer lebt und arbeitet weiterhin in Princeton und Melbourne.",
+    "nachwirkung": "Singer hat die angewandte Ethik wie kaum ein anderer Philosoph geprägt. 'Animal Liberation' begründete die moderne Tierethik und beeinflusste die Tierrechtsbewegung weltweit. Die Effective-Altruism-Bewegung, die er mitbegründete, hat Milliarden Dollar in effektive Hilfe für die Ärmsten und den Tierschutz geleitet. Seine utilitaristische Ethik bleibt kontrovers, aber sein Einfluss auf die öffentliche Debatte über moralische Fragen ist beispiellos."
+  },
+  "kernideen": [
+    {
+      "titel": "Gleiche Interessenabwägung",
+      "beschreibung": "Das Prinzip der gleichen Interessenabwägung verlangt, dass die gleichen Interessen aller empfindungsfähigen Wesen gleich berücksichtigt werden – unabhängig von Spezies, Rasse oder Geschlecht. Das Leiden eines Tieres zählt moralisch ebenso wie vergleichbares menschliches Leiden."
+    },
+    {
+      "titel": "Speziesismus",
+      "beschreibung": "Speziesismus ist die ungerechtfertigte Bevorzugung der Interessen der eigenen Spezies gegenüber den Interessen anderer empfindungsfähiger Wesen. Er ist moralisch analog zum Rassismus und Sexismus."
+    },
+    {
+      "titel": "Effektiver Altruismus",
+      "beschreibung": "Wir haben die moralische Pflicht, so viel Gutes wie möglich zu tun. Der effektive Altruismus verwendet Vernunft und Evidenz, um die wirksamsten Methoden zur Verbesserung der Welt zu identifizieren und zu unterstützen."
+    },
+    {
+      "titel": "Präferenzutilitarismus",
+      "beschreibung": "Die richtige Handlung ist diejenige, die die Präferenzen (Interessen, Wünsche) aller Betroffenen am besten befriedigt. Nicht Lust und Schmerz allein, sondern die Erfüllung der Präferenzen empfindungsfähiger Wesen ist der Maßstab moralischen Handelns."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Animal Liberation (Die Befreiung der Tiere)",
+      "jahr": "1975",
+      "beschreibung": "Das Gründungswerk der modernen Tierethikbewegung argumentiert gegen den Speziesismus und für die gleiche Berücksichtigung der Interessen aller empfindungsfähigen Wesen."
+    },
+    {
+      "titel": "Praktische Ethik (Practical Ethics)",
+      "jahr": "1979",
+      "beschreibung": "Das meistverkaufte Ethik-Lehrbuch wendet den Utilitarismus auf kontroverse Fragen wie Abtreibung, Euthanasie, Tierethik und globale Armut an."
+    },
+    {
+      "titel": "The Expanding Circle",
+      "jahr": "1981",
+      "beschreibung": "Eine Untersuchung der Entwicklung der menschlichen Moral, die argumentiert, dass der Kreis moralischer Berücksichtigung sich historisch immer weiter ausdehnt."
+    },
+    {
+      "titel": "The Life You Can Save",
+      "jahr": "2009",
+      "beschreibung": "Ein Argument für die moralische Pflicht zur Hilfe für die ärmsten Menschen der Welt und ein Plädoyer für effektives Spenden."
+    },
+    {
+      "titel": "The Most Good You Can Do",
+      "jahr": "2015",
+      "beschreibung": "Eine systematische Darstellung des effektiven Altruismus als Bewegung und Philosophie."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Alle Tiere sind gleich – oder warum das ethische Grundprinzip der Gleichheit der Menschen eine Erweiterung der moralischen Rücksicht auf Tiere verlangt.",
+      "quelle": "Animal Liberation",
+      "kontext": "Die zentrale These der Tierethik: Das Gleichheitsprinzip muss über die Speziesgrenze hinaus erweitert werden."
+    },
+    {
+      "text": "Wenn wir die Möglichkeit haben, etwas Schlechtes zu verhindern, ohne dabei etwas von vergleichbarer moralischer Bedeutung zu opfern, sind wir moralisch dazu verpflichtet, es zu tun.",
+      "quelle": "Famine, Affluence, and Morality",
+      "kontext": "Das berühmte Argument für die moralische Pflicht zur Hilfe bei globaler Armut."
+    },
+    {
+      "text": "Die Frage ist nicht: Können sie denken? Oder: Können sie sprechen? Sondern: Können sie leiden?",
+      "quelle": "Animal Liberation (nach Jeremy Bentham)",
+      "kontext": "Das Kriterium der Leidensfähigkeit als Grundlage der moralischen Berücksichtigung."
+    }
+  ],
+  "verwandtePhilosophen": ["john-rawls", "robert-nozick", "noam-chomsky"],
+  "verwandteIsmen": ["utilitarismus", "tierethik", "effektiver-altruismus", "konsequentialismus"]
+}

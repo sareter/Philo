@@ -1,0 +1,47 @@
+{
+  "slug": "johann-gottlieb-fichte",
+  "name": "Johann Gottlieb Fichte",
+  "lebensdaten": "1762–1814",
+  "geboren": { "jahr": 1762, "ort": "Rammenau", "land": "Sachsen", "lat": 51.1500, "lng": 14.1333 },
+  "gestorben": { "jahr": 1814, "ort": "Berlin", "land": "Preußen", "lat": 52.5200, "lng": 13.4050 },
+  "epoche": "Aufklärung",
+  "region": "Deutschland",
+  "hauptstroemungen": ["Deutscher Idealismus", "Subjektiver Idealismus", "Nationalphilosophie"],
+  "kurzbeschreibung": "Johann Gottlieb Fichte war ein deutscher Philosoph, der als erster großer Vertreter des Deutschen Idealismus Kants Philosophie radikalisierte und ein System des absoluten Ich entwickelte. Seine 'Wissenschaftslehre' begründete die gesamte Wirklichkeit aus dem Prinzip der Selbstsetzung des Ich. Seine 'Reden an die deutsche Nation' machten ihn zur Symbolfigur des deutschen Nationalismus.",
+  "biografie": {
+    "fruehesLeben": "Johann Gottlieb Fichte wurde am 19. Mai 1762 in Rammenau in der sächsischen Oberlausitz als Sohn eines armen Bandwebers geboren. Seine außergewöhnliche Begabung fiel einem Gutsherrn auf, der ihn förderte und ihm den Besuch der Fürstenschule Pforta und der Universitäten Jena, Wittenberg und Leipzig ermöglichte. Nach dem Tod seines Gönners musste Fichte sein Studium abbrechen und schlug sich als Hauslehrer durch. 1790 begegnete er der Philosophie Kants, die ihn wie ein Blitz traf und sein ganzes Denken umwälzte. Seine erste Schrift 'Versuch einer Critik aller Offenbarung' (1792) wurde versehentlich ohne Verfassernamen veröffentlicht und Kant selbst zugeschrieben – die Aufklärung des Irrtums machte Fichte über Nacht berühmt.",
+    "schaffen": "1794 wurde Fichte als Professor nach Jena berufen, wo er in den folgenden fünf Jahren seine 'Wissenschaftslehre' entwickelte – ein philosophisches System, das die gesamte Erkenntnis aus einem einzigen Prinzip ableitet: dem absoluten Ich, das sich selbst setzt, sich ein Nicht-Ich entgegensetzt und in der Synthese beider die Erfahrungswelt hervorbringt. Fichtes System war von enormer spekulativer Kühnheit und schwer zu verstehen – selbst Kant distanzierte sich von ihm. In der politischen Philosophie vertrat Fichte zunächst republikanische und jakobinische Ideen ('Zurückforderung der Denkfreiheit', 1793), entwickelte dann in den 'Grundlagen des Naturrechts' (1796) eine Theorie des wechselseitigen Anerkennungsverhältnisses zwischen Personen und entwarf in 'Der geschlossene Handelsstaat' (1800) das Modell einer autarken Planwirtschaft. 1799 wurde er wegen angeblichen Atheismus aus Jena vertrieben (Atheismusstreit) und ging nach Berlin.",
+    "spaetesLeben": "In Berlin hielt Fichte populäre Vorlesungen und schrieb sein berühmtestes Werk: die 'Reden an die deutsche Nation' (1807–1808), die er während der französischen Besetzung Berlins hielt. Darin rief er zur nationalen Erneuerung durch Erziehung und Bildung auf und wurde zur Symbolfigur des erwachenden deutschen Nationalbewusstseins. 1810 wurde er erster gewählter Rektor der neugegründeten Universität Berlin. Er überarbeitete seine Wissenschaftslehre ständig – über ein Dutzend Fassungen sind erhalten.",
+    "tod": "Fichte starb am 29. Januar 1814 in Berlin an einem Typhusfieber, das er sich wahrscheinlich von seiner Frau angesteckt hatte, die als Krankenschwester in den Lazaretten der Befreiungskriege arbeitete. Er wurde auf dem Dorotheenstädtischen Friedhof in Berlin beigesetzt.",
+    "nachwirkung": "Fichtes Wissenschaftslehre war der entscheidende Übergang von Kants kritischer Philosophie zum Deutschen Idealismus. Schelling und Hegel entwickelten ihre Systeme in Auseinandersetzung mit Fichte. Seine Theorie der Anerkennung beeinflusste Hegels Dialektik von Herr und Knecht und wurde im 20. Jahrhundert von Axel Honneth aufgegriffen. Seine Reden an die deutsche Nation wurden allerdings auch von Nationalisten und Nationalsozialisten missbraucht."
+  },
+  "kernideen": [
+    {
+      "titel": "Das absolute Ich",
+      "beschreibung": "Das Ich setzt sich selbst (Thesis), setzt sich ein Nicht-Ich entgegen (Antithesis) und vereinigt beide in der Synthese. Aus diesem Grundakt der Selbstsetzung wird die gesamte Erfahrungswelt abgeleitet."
+    },
+    {
+      "titel": "Tathandlung",
+      "beschreibung": "Das erste Prinzip der Wissenschaftslehre ist die 'Tathandlung' – der Akt, durch den das Ich sich selbst hervorbringt. Es ist keine Tatsache, sondern eine ursprüngliche Handlung des Bewusstseins."
+    },
+    {
+      "titel": "Anerkennung",
+      "beschreibung": "Fichte entwickelte eine Theorie der wechselseitigen Anerkennung: Ich kann mich nur als freies Wesen begreifen, wenn ich von anderen freien Wesen als solches anerkannt werde. Freiheit ist wesentlich intersubjektiv."
+    }
+  ],
+  "werke": [
+    { "titel": "Wissenschaftslehre", "jahr": "1794", "beschreibung": "Fichtes philosophisches Hauptwerk, das die gesamte Erkenntnis aus dem Prinzip der Selbstsetzung des absoluten Ich ableitet." },
+    { "titel": "Reden an die deutsche Nation", "jahr": "1808", "beschreibung": "Vierzehn Vorlesungen, die zur nationalen Erneuerung durch Erziehung aufrufen und zum Gründungsdokument des deutschen Nationalismus wurden." },
+    { "titel": "Grundlage des Naturrechts", "jahr": "1796", "beschreibung": "Fichtes Rechtsphilosophie, die das Recht aus dem Prinzip der wechselseitigen Anerkennung freier Personen begründet." },
+    { "titel": "Die Bestimmung des Menschen", "jahr": "1800", "beschreibung": "Eine populär gehaltene Schrift, die den Weg vom Zweifel über das Wissen zum Glauben nachzeichnet." },
+    { "titel": "Versuch einer Critik aller Offenbarung", "jahr": "1792", "beschreibung": "Fichtes Erstlingswerk, das die Bedingungen der Möglichkeit einer göttlichen Offenbarung untersucht und versehentlich Kant zugeschrieben wurde." },
+    { "titel": "Der geschlossene Handelsstaat", "jahr": "1800", "beschreibung": "Ein Entwurf einer autarken Wirtschaftsordnung mit staatlich reguliertem Handel." }
+  ],
+  "zitate": [
+    { "text": "Das Ich setzt sich selbst, und es ist vermöge dieses bloßen Setzens durch sich selbst.", "quelle": "Wissenschaftslehre, §1", "kontext": "Der Grundsatz der Wissenschaftslehre, der die Selbstsetzung des Ich als Urprinzip aller Philosophie formuliert." },
+    { "text": "Was für eine Philosophie man wähle, hängt davon ab, was für ein Mensch man ist.", "quelle": "Erste Einleitung in die Wissenschaftslehre", "kontext": "Fichtes berühmter Ausspruch über den Zusammenhang von Charakter und philosophischer Überzeugung." },
+    { "text": "Handeln! Handeln! Das ist es, wozu wir da sind.", "quelle": "Die Bestimmung des Menschen", "kontext": "Fichtes Betonung der Praxis und des tätigen Lebens als Bestimmung des Menschen." }
+  ],
+  "verwandtePhilosophen": ["immanuel-kant", "friedrich-schelling", "georg-wilhelm-friedrich-hegel", "arthur-schopenhauer"],
+  "verwandteIsmen": ["idealismus", "deutscher-idealismus", "nationalismus"]
+}

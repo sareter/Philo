@@ -1,0 +1,50 @@
+{
+  "slug": "george-berkeley",
+  "name": "George Berkeley",
+  "lebensdaten": "1685–1753",
+  "geboren": { "jahr": 1685, "ort": "Kilkenny", "land": "Irland", "lat": 52.6541, "lng": -7.2448 },
+  "gestorben": { "jahr": 1753, "ort": "Oxford", "land": "England", "lat": 51.7520, "lng": -1.2577 },
+  "epoche": "Aufklärung",
+  "region": "Irland / England",
+  "hauptstroemungen": ["Empirismus", "Idealismus", "Immaterialismus"],
+  "kurzbeschreibung": "George Berkeley war ein irischer Philosoph und anglikanischer Bischof, der mit seiner Theorie des subjektiven Idealismus (Immaterialismus) eine der radikalsten Positionen der Erkenntnistheorie vertrat. Seine These 'Esse est percipi' (Sein ist Wahrgenommenwerden) bestreitet die Existenz einer materiellen Welt unabhängig vom Bewusstsein. Berkeley radikalisierte Lockes Empirismus und beeinflusste damit die gesamte nachfolgende Philosophie.",
+  "biografie": {
+    "fruehesLeben": "George Berkeley wurde am 12. März 1685 auf Dysart Castle bei Kilkenny in Irland geboren. Er stammte aus einer anglo-irischen Familie und besuchte das Kilkenny College, bevor er 1700 mit fünfzehn Jahren am Trinity College Dublin aufgenommen wurde, wo er 1704 den Bachelor und 1707 den Master erwarb. Er wurde Fellow des College und empfing 1710 die anglikanische Priesterweihe. Bereits während seiner Studienzeit entwickelte er die Grundideen seines philosophischen Systems, die er in seinen frühen 'Philosophical Commentaries' (Notizbücher, erst im 19. Jahrhundert entdeckt) festhielt. Seine beiden Hauptwerke veröffentlichte er in erstaunlich jungen Jahren.",
+    "schaffen": "Berkeleys philosophisches System wurde in zwei frühen Meisterwerken entwickelt: In 'An Essay towards a New Theory of Vision' (1709) analysierte er die visuelle Wahrnehmung und argumentierte, dass Entfernung nicht unmittelbar gesehen, sondern aus Erfahrung erschlossen wird. In 'A Treatise Concerning the Principles of Human Knowledge' (1710) formulierte er seine zentrale These: Materielle Gegenstände existieren nur als Bündel von Wahrnehmungen (Ideen) im Geist. 'Esse est percipi' – Sein ist Wahrgenommenwerden. Es gibt keine materielle Substanz jenseits unserer Wahrnehmung. Diese These klingt paradox, ist aber als konsequente Weiterführung von Lockes Empirismus gedacht: Wenn alle Erkenntnis aus der Erfahrung stammt, dann haben wir keinen Grund, die Existenz einer Materie anzunehmen, die wir nie direkt wahrnehmen. Berkeley argumentierte, dass seine Theorie den common sense tatsächlich besser verteidigt als der Materialismus, da sie die Zuverlässigkeit unserer Wahrnehmungen garantiert. Um den Einwand zu entkräften, dass Dinge aufhören zu existieren, wenn niemand sie wahrnimmt, berief er sich auf Gott als ewigen Beobachter, der alle Dinge permanent wahrnimmt. In 'Three Dialogues between Hylas and Philonous' (1713) stellte er sein System in dialogischer und zugänglicherer Form dar.",
+    "spaetesLeben": "Berkeley unternahm mehrere Reisen auf den Kontinent, darunter eine Grand Tour durch Frankreich und Italien (1716–1720). In den 1720er Jahren entwickelte er den ehrgeizigen Plan, auf den Bermudas ein College zur Missionierung und Bildung der Ureinwohner Amerikas zu gründen. 1728 segelte er mit seiner jungen Frau nach Newport, Rhode Island, wo er drei Jahre wartete, dass die versprochenen staatlichen Gelder bewilligt würden. Die Mittel kamen nie, und er kehrte 1731 enttäuscht nach England zurück. 1734 wurde er zum Bischof von Cloyne in Südirland ernannt und widmete sich in den folgenden Jahren seinen Diözesanpflichten und dem Verfassen weiterer Schriften, darunter 'Siris' (1744), eine eigenartige Mischung aus medizinischer Abhandlung über die Heilkraft von Teerwasser und neuplatonischer Metaphysik.",
+    "tod": "Berkeley zog sich 1752 nach Oxford zurück, um die Ausbildung seines Sohnes zu begleiten. Am 14. Januar 1753 starb er dort plötzlich und unerwartet, während seine Frau ihm aus der Bibel vorlas. Er wurde in der Christ Church Cathedral in Oxford beigesetzt. Die Stadt Berkeley und die University of California, Berkeley, sind nach ihm benannt – eine Ironie des Schicksals, da sein amerikanisches Projekt gescheitert war.",
+    "nachwirkung": "Berkeleys Immaterialismus wurde zu seinen Lebzeiten oft als absurd abgetan (Samuel Johnson soll einen Stein getreten und gerufen haben: 'So widerlege ich Berkeley!'), doch sein Einfluss auf die Philosophie war tiefgreifend. Hume radikalisierte seinen Empirismus zum Skeptizismus, und Kant sah in Berkeley einen wichtigen Vorläufer seines transzendentalen Idealismus. In der Phänomenologie des 20. Jahrhunderts und in der analytischen Philosophie des Geistes wird Berkeleys Analyse der Wahrnehmung weiterhin diskutiert. Seine Argumente gegen die materielle Substanz finden Parallelen in der modernen Quantenphysik."
+  },
+  "kernideen": [
+    {
+      "titel": "Esse est percipi (Sein ist Wahrgenommenwerden)",
+      "beschreibung": "Materielle Gegenstände existieren nur als Bündel von Wahrnehmungen (Ideen) im Geist. Es gibt keine Materie jenseits unserer Erfahrung. Was wir für materielle Dinge halten, sind Ideen, die von Gott in unseren Geistern hervorgerufen werden."
+    },
+    {
+      "titel": "Immaterialismus",
+      "beschreibung": "Es gibt nur zwei Arten von Existierendem: Geister (aktive Substanzen, die wahrnehmen und wollen) und Ideen (passive Inhalte des Bewusstseins). Materie als eigenständige Substanz existiert nicht."
+    },
+    {
+      "titel": "Kritik der abstrakten Ideen",
+      "beschreibung": "Berkeley bestritt Lockes Theorie der abstrakten Ideen. Wir können uns kein 'Dreieck im Allgemeinen' vorstellen, das weder gleichseitig noch ungleichseitig ist. Alle Ideen sind konkret und partikulär; Allgemeinheit entsteht nur durch die repräsentative Funktion einzelner Ideen."
+    },
+    {
+      "titel": "Gott als ewiger Beobachter",
+      "beschreibung": "Die Kontinuität der Dinge wird dadurch garantiert, dass Gott sie permanent wahrnimmt. Ein Baum im Wald existiert auch dann, wenn kein Mensch hinschaut, weil Gott ihn stets wahrnimmt."
+    }
+  ],
+  "werke": [
+    { "titel": "A Treatise Concerning the Principles of Human Knowledge", "jahr": "1710", "beschreibung": "Berkeleys philosophisches Hauptwerk, das seinen Immaterialismus systematisch entwickelt und die Nicht-Existenz der materiellen Substanz beweisen will." },
+    { "titel": "Three Dialogues between Hylas and Philonous", "jahr": "1713", "beschreibung": "Eine dialogische Darstellung des Immaterialismus, in der der Materialist Hylas schrittweise von dem Idealisten Philonous (Berkeleys Sprachrohr) überzeugt wird." },
+    { "titel": "An Essay towards a New Theory of Vision", "jahr": "1709", "beschreibung": "Eine Analyse der visuellen Wahrnehmung, die argumentiert, dass Entfernung, Größe und Lage nicht unmittelbar gesehen, sondern aus der Erfahrung erschlossen werden." },
+    { "titel": "Alciphron, or the Minute Philosopher", "jahr": "1732", "beschreibung": "Eine apologetische Schrift in Dialogform, die sich gegen die Freidenker wendet und den christlichen Glauben verteidigt." },
+    { "titel": "Siris", "jahr": "1744", "beschreibung": "Berkeleys Spätwerk, das von den medizinischen Eigenschaften des Teerwassers ausgehend zu neuplatonischen metaphysischen Spekulationen aufsteigt." }
+  ],
+  "zitate": [
+    { "text": "Esse est percipi – Sein ist Wahrgenommenwerden.", "quelle": "A Treatise Concerning the Principles of Human Knowledge, §3", "kontext": "Berkeleys berühmteste Formel, die den Kern seines Immaterialismus zusammenfasst: Materielle Dinge existieren nur, insofern sie wahrgenommen werden." },
+    { "text": "Wenn ein Baum im Wald fällt und niemand hört es – macht er dann ein Geräusch?", "quelle": "Sinngemäß aus den Principles of Human Knowledge", "kontext": "Dieses klassische philosophische Rätsel ist von Berkeleys Immaterialismus inspiriert, auch wenn er es in dieser Form nicht wörtlich formulierte." },
+    { "text": "Alle jene Körper, die das mächtige Gebäude der Welt bilden, haben keinerlei Existenz außerhalb eines Geistes.", "quelle": "A Treatise Concerning the Principles of Human Knowledge, §6", "kontext": "Berkeley formuliert die radikale Konsequenz seines Immaterialismus: Die gesamte materielle Welt existiert nur als Inhalt geistiger Wahrnehmung." }
+  ],
+  "verwandtePhilosophen": ["john-locke", "david-hume", "immanuel-kant", "rene-descartes"],
+  "verwandteIsmen": ["idealismus", "empirismus", "immaterialismus"]
+}

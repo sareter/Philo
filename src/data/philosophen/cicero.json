@@ -1,0 +1,114 @@
+{
+  "slug": "cicero",
+  "name": "Cicero",
+  "lebensdaten": "106–43 v. Chr.",
+  "geboren": {
+    "jahr": -106,
+    "ort": "Arpinum",
+    "land": "Römische Republik",
+    "lat": 41.65,
+    "lng": 13.61
+  },
+  "gestorben": {
+    "jahr": -43,
+    "ort": "Formiae",
+    "land": "Römische Republik",
+    "lat": 41.26,
+    "lng": 13.61
+  },
+  "epoche": "Antike",
+  "region": "Römische Republik",
+  "hauptstroemungen": ["Eklektizismus", "Akademischer Skeptizismus", "Rhetorik", "Politische Philosophie"],
+  "kurzbeschreibung": "Marcus Tullius Cicero war Roms größter Redner, Staatsmann und philosophischer Schriftsteller. Er machte die griechische Philosophie der lateinischen Welt zugänglich und schuf dabei die philosophische Terminologie, die das abendländische Denken bis heute prägt.",
+  "biografie": {
+    "fruehesLeben": "Cicero wurde am 3. Januar 106 v. Chr. in Arpinum, einer kleinen Stadt im Volskerland südöstlich von Rom, geboren. Seine Familie gehörte zum Ritterstand, hatte aber keine senatorische Tradition – Cicero war ein homo novus, ein 'neuer Mann'. Er erhielt eine exzellente Ausbildung in Rom, studierte Rhetorik, Recht und Philosophie. In der Philosophie hörte er den Akademiker Philon von Larissa, den Stoiker Diodotos (der in seinem Haus lebte), den Epikureer Phaidros und den Stoiker Poseidonios. Ein Studienaufenthalt in Athen und Rhodos (79–77 v. Chr.) vertiefte seine philosophische Bildung.",
+    "schaffen": "Ciceros politische Karriere war spektakulär: Er durchlief den cursus honorum und erreichte als erster homo novus seit Jahrzehnten das Konsulat (63 v. Chr.), in dem er die Catilinarische Verschwörung aufdeckte und unterdrückte. Seine vier Reden gegen Catilina sind Meisterwerke der Rhetorik. Nach einer Phase des erzwungenen Rückzugs aus der Politik – bedingt durch die Bürgerkriege und die Diktatur Caesars – wandte sich Cicero ab 46 v. Chr. intensiv der philosophischen Schriftstellerei zu und verfasste in wenigen Jahren ein gewaltiges Werk. In der Erkenntnistheorie vertrat er die Position der Neuen Akademie (akademischer Skeptizismus): Gewissheit ist unerreichbar, aber wir können wahrscheinliche Urteile fällen und nach dem Wahrscheinlichsten (probabile) handeln. In der Ethik neigte er dem Stoizismus zu, modifiziert durch akademische Skepsis. In der Staatsphilosophie entwickelte er die Theorie der gemischten Verfassung und des Naturrechts. Sein philosophisches Hauptverdienst liegt in der Vermittlung: Er übersetzte die griechische Philosophie in die lateinische Sprache und Kultur und schuf dabei zahllose philosophische Fachbegriffe (qualitas, moralis, humanitas, essentia u.v.m.), die die gesamte spätere Philosophie prägen. Seine Dialoge sind zugleich Lehrbücher der griechischen Philosophie und eigenständige philosophische Leistungen.",
+    "spaetesLeben": "Nach Caesars Ermordung 44 v. Chr. kehrte Cicero in die Politik zurück und hielt 14 Philippische Reden gegen Marcus Antonius, in denen er für die Wiederherstellung der Republik kämpfte. Er wurde zum führenden Gegner des Antonius.",
+    "tod": "Nach der Bildung des Zweiten Triumvirats zwischen Octavian, Antonius und Lepidus im November 43 v. Chr. wurde Cicero auf die Proskriptionsliste gesetzt. Am 7. Dezember 43 v. Chr. wurde er auf der Flucht in der Nähe seines Landgutes bei Formiae von den Soldaten des Antonius eingeholt. Er soll ruhig seinen Kopf aus der Sänfte gestreckt haben mit den Worten: 'Hier, Soldat, hier ist es schlecht bestellt.' Er wurde enthauptet, und seine Hände wurden abgehackt und auf dem Forum ausgestellt. Er war 63 Jahre alt.",
+    "nachwirkung": "Ciceros Einfluss auf die westliche Zivilisation ist kaum zu überschätzen. Er war der meistgelesene lateinische Autor des Mittelalters und der Renaissance. Petrarca, der ihn wiederentdeckte, löste damit den Humanismus aus. Die amerikanischen Gründungsväter orientierten sich an seinen republikanischen Idealen. Seine philosophische Terminologie durchdringt alle westlichen Sprachen. Seine Idee des Naturrechts beeinflusste Hugo Grotius und das gesamte Völkerrecht. In der Rhetorik setzte er bis heute gültige Standards."
+  },
+  "kernideen": [
+    {
+      "titel": "Akademischer Skeptizismus",
+      "beschreibung": "Absolute Gewissheit ist unerreichbar. Wir können aber wahrscheinliche Urteile fällen und sollten nach dem handeln, was am wahrscheinlichsten erscheint (probabile). Der Weise suspendiert sein Urteil, wo Gewissheit fehlt."
+    },
+    {
+      "titel": "Naturrecht",
+      "beschreibung": "Es gibt ein ewiges, universales Naturrecht (lex naturalis), das in der Vernunft Gottes begründet ist und für alle Menschen gilt. Positives Recht, das dem Naturrecht widerspricht, ist kein wahres Recht."
+    },
+    {
+      "titel": "Gemischte Verfassung",
+      "beschreibung": "Die beste Staatsform ist die Mischung aus Monarchie, Aristokratie und Demokratie – verwirklicht in der römischen Republik. Sie vereint die Stärken aller Verfassungsformen und vermeidet ihre Schwächen."
+    },
+    {
+      "titel": "Humanitas",
+      "beschreibung": "Das Ideal der Humanitas umfasst Menschlichkeit, Bildung und Kultiviertheit. Der wahrhaft gebildete Mensch verbindet philosophisches Wissen mit rhetorischem Können und politischer Verantwortung."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "De re publica (Über den Staat)",
+      "jahr": "54–51 v. Chr.",
+      "beschreibung": "Dialog über die beste Staatsform in sechs Büchern, nach dem Vorbild von Platons Politeia. Enthält die Theorie der gemischten Verfassung und das berühmte 'Somnium Scipionis' (Scipios Traum)."
+    },
+    {
+      "titel": "De legibus (Über die Gesetze)",
+      "jahr": "52–46 v. Chr.",
+      "beschreibung": "Ergänzung zu De re publica. Enthält die Naturrechtstheorie und detaillierte Gesetzesentwürfe nach dem Vorbild von Platons Nomoi."
+    },
+    {
+      "titel": "De finibus bonorum et malorum (Über die Ziele des Guten und Bösen)",
+      "jahr": "45 v. Chr.",
+      "beschreibung": "Umfassende Darstellung und Kritik der ethischen Systeme von Epikureern, Stoikern und Peripatetikern in fünf Büchern."
+    },
+    {
+      "titel": "Tusculanae disputationes (Gespräche in Tusculum)",
+      "jahr": "45 v. Chr.",
+      "beschreibung": "Fünf Bücher über die Verachtung des Todes, das Ertragen von Schmerz, die Linderung von Kummer, andere Leidenschaften und die Tugend als Garant des Glücks."
+    },
+    {
+      "titel": "De natura deorum (Über das Wesen der Götter)",
+      "jahr": "45 v. Chr.",
+      "beschreibung": "Dialog über die Theologie der Epikureer, Stoiker und Akademiker. Die umfassendste antike Darstellung der philosophischen Gottesvorstellungen."
+    },
+    {
+      "titel": "De officiis (Über die Pflichten)",
+      "jahr": "44 v. Chr.",
+      "beschreibung": "An seinen Sohn gerichtete Schrift über die moralischen Pflichten. Eines der meistgelesenen ethischen Werke der Antike, das die Grundlage der christlichen Pflichtethik wurde."
+    },
+    {
+      "titel": "Academica",
+      "jahr": "45 v. Chr.",
+      "beschreibung": "Darstellung der Erkenntnistheorie der Neuen Akademie. Verteidigung des akademischen Skeptizismus gegen Stoiker und Epikureer."
+    },
+    {
+      "titel": "De oratore (Über den Redner)",
+      "jahr": "55 v. Chr.",
+      "beschreibung": "Dialog in drei Büchern über die Ausbildung des idealen Redners. Verbindung von Rhetorik und Philosophie."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wie lange noch, Catilina, wirst du unsere Geduld missbrauchen?",
+      "quelle": "Erste Catilinarische Rede, 1, 1 (Quo usque tandem)",
+      "kontext": "Der berühmteste Eröffnungssatz der Rhetorik – Cicero konfrontiert den Verschwörer Catilina im Senat."
+    },
+    {
+      "text": "Ein Raum ohne Bücher ist wie ein Körper ohne Seele.",
+      "quelle": "Zugeschrieben",
+      "kontext": "Ciceros Wertschätzung der Bildung und des Lesens."
+    },
+    {
+      "text": "Nicht zu wissen, was vor deiner Geburt geschah, bedeutet, immer ein Kind zu bleiben.",
+      "quelle": "Orator, 120",
+      "kontext": "Über die Bedeutung der Geschichtskenntnis für die geistige Reife."
+    },
+    {
+      "text": "Es gibt kein Gewerbe so lohnend wie das des Demagogen.",
+      "quelle": "De re publica",
+      "kontext": "Ciceros Warnung vor der Demagogie als Gefahr für die Republik."
+    }
+  ],
+  "verwandtePhilosophen": ["seneca", "platon", "aristoteles", "epikur", "lukrez"],
+  "verwandteIsmen": ["skeptizismus", "stoizismus", "eklektizismus", "humanismus", "naturrecht"]
+}

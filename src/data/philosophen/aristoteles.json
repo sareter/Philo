@@ -1,0 +1,133 @@
+{
+  "slug": "aristoteles",
+  "name": "Aristoteles",
+  "lebensdaten": "384–322 v. Chr.",
+  "geboren": {
+    "jahr": -384,
+    "ort": "Stageira",
+    "land": "Griechenland",
+    "lat": 40.53,
+    "lng": 23.75
+  },
+  "gestorben": {
+    "jahr": -322,
+    "ort": "Chalkis",
+    "land": "Griechenland",
+    "lat": 38.46,
+    "lng": 23.60
+  },
+  "epoche": "Antike",
+  "region": "Griechenland",
+  "hauptstroemungen": ["Aristotelismus", "Peripatetik", "Empirismus", "Logik"],
+  "kurzbeschreibung": "Aristoteles war der bedeutendste Schüler Platons und Begründer des Lykeions in Athen. Als Universalgelehrter begründete er zahlreiche wissenschaftliche Disziplinen und schuf mit seiner Logik, Metaphysik und Ethik die Grundlagen des abendländischen Denkens.",
+  "biografie": {
+    "fruehesLeben": "Aristoteles wurde 384 v. Chr. in Stageira auf der Halbinsel Chalkidike geboren. Sein Vater Nikomachos war Leibarzt des makedonischen Königs Amyntas III., was Aristoteles schon früh den Zugang zum makedonischen Hof ermöglichte und sein Interesse an der Naturwissenschaft weckte. Nach dem frühen Tod seiner Eltern wurde er von seinem Vormund Proxenos von Atarneus erzogen. Im Alter von 17 Jahren, um 367 v. Chr., kam er nach Athen und trat in Platons Akademie ein, wo er zwanzig Jahre lang studierte und lehrte, bis zu Platons Tod 348/347 v. Chr. Platon soll ihn den 'Leser' und den 'Geist der Schule' genannt haben. Obwohl Aristoteles Platons brillantester Schüler war, ging die Leitung der Akademie nach Platons Tod nicht an ihn, sondern an Platons Neffen Speusippos über – möglicherweise weil Aristoteles als Nichtathener kein Grundeigentum in Attika besitzen durfte.",
+    "schaffen": "Nach dem Verlassen der Akademie ging Aristoteles zunächst nach Assos in Kleinasien, wo er unter dem Schutz des Herrschers Hermias von Atarneus eine philosophische Gemeinschaft gründete und dessen Nichte Pythias heiratete. Anschließend lebte er in Mytilene auf Lesbos, wo er zusammen mit seinem Schüler Theophrastos bahnbrechende biologische Forschungen betrieb. 343 v. Chr. wurde er von König Philipp II. von Makedonien als Erzieher des dreizehnjährigen Alexander (des späteren Alexander des Großen) nach Pella berufen. Er unterrichtete Alexander bis zu dessen Regierungsantritt 336 v. Chr. und soll ihm die Begeisterung für Homer und die griechische Kultur vermittelt haben. 335 v. Chr. kehrte Aristoteles nach Athen zurück und gründete seine eigene Schule, das Lykeion (Peripatos), in einem Gymnasium nahe dem Tempel des Apollo Lykeios. Der Name 'Peripatetiker' (die Herumwandelnden) leitet sich von den Wandelgängen (peripatoi) ab, in denen Aristoteles lehrend umherwandelte. Am Lykeion baute er eine umfangreiche Bibliothek auf und betrieb systematische Forschung in nahezu allen Wissensgebieten: Logik, Physik, Biologie, Metaphysik, Ethik, Politik, Rhetorik und Poetik. Er begründete die formale Logik mit seiner Syllogistik, entwickelte die Lehre von den vier Ursachen (Materialursache, Formursache, Wirkursache, Zweckursache) und schuf mit seiner Metaphysik eine umfassende Seinslehre.",
+    "spaetesLeben": "Nach dem Tod Alexanders des Großen 323 v. Chr. brach in Athen eine antimakedonische Stimmung aus. Da Aristoteles als Erzieher Alexanders und durch seine makedonischen Verbindungen gefährdet war, wurde ihm – wie einst Sokrates – Gottlosigkeit vorgeworfen. Er verließ Athen, angeblich mit den Worten, er wolle den Athenern nicht Gelegenheit geben, sich ein zweites Mal an der Philosophie zu versündigen – eine Anspielung auf den Tod des Sokrates. Er zog sich auf das Landgut seiner verstorbenen Mutter in Chalkis auf Euböa zurück.",
+    "tod": "Aristoteles starb 322 v. Chr. in Chalkis auf Euböa, nur ein Jahr nach seiner Flucht aus Athen, angeblich an einem Magenleiden. Er war 62 Jahre alt. In seinem Testament, das durch Diogenes Laertios überliefert ist, traf er Fürsorge für seine Kinder, seine zweite Lebensgefährtin Herpyllis und seine Sklaven, von denen er einige freiließ.",
+    "nachwirkung": "Aristoteles' Einfluss auf die Geistesgeschichte ist einzigartig in seiner Breite und Tiefe. Im Mittelalter wurde er durch die arabischen Philosophen Avicenna und Averroes wiederentdeckt und durch Thomas von Aquin in die christliche Theologie integriert – er galt schlicht als 'der Philosoph'. Seine Logik blieb bis ins 19. Jahrhundert die Grundlage des logischen Denkens. Seine biologischen Schriften begründeten die wissenschaftliche Zoologie, seine Poetik bestimmte die Literaturtheorie bis zur Romantik, und seine Nikomachische Ethik wird bis heute als eines der wichtigsten ethischen Werke der Philosophiegeschichte studiert. Die Unterscheidung zwischen analytischer und kontinentaler Philosophie lässt sich letztlich auf den Gegensatz zwischen aristotelischem Empirismus und platonischem Idealismus zurückführen."
+  },
+  "kernideen": [
+    {
+      "titel": "Hylemorphismus (Form und Materie)",
+      "beschreibung": "Jedes konkrete Ding besteht aus Materie (hyle) und Form (morphe). Die Form ist das Wesen eines Dinges, die Materie das, woraus es besteht. Gegen Platon behauptet Aristoteles, dass die Formen nicht in einer separaten Ideenwelt existieren, sondern in den konkreten Dingen selbst."
+    },
+    {
+      "titel": "Die vier Ursachen",
+      "beschreibung": "Jedes Ding lässt sich durch vier Ursachen erklären: die Materialursache (woraus?), die Formursache (was?), die Wirkursache (wodurch?) und die Zweckursache (wozu?). Die Zweckursache (telos) ist die wichtigste – alles in der Natur strebt einem Ziel zu."
+    },
+    {
+      "titel": "Tugendethik und die Mesotes-Lehre",
+      "beschreibung": "Tugend ist eine Haltung (hexis), die in der Mitte zwischen zwei Extremen liegt. Tapferkeit liegt zwischen Feigheit und Tollkühnheit, Großzügigkeit zwischen Geiz und Verschwendung. Das gute Leben (eudaimonia) besteht in der Verwirklichung der spezifisch menschlichen Fähigkeit zur Vernunft."
+    },
+    {
+      "titel": "Syllogistik (Formale Logik)",
+      "beschreibung": "Aristoteles begründete die formale Logik mit der Lehre vom Syllogismus: Aus zwei Prämissen wird ein zwingender Schluss gezogen. Beispiel: Alle Menschen sind sterblich; Sokrates ist ein Mensch; also ist Sokrates sterblich."
+    },
+    {
+      "titel": "Akt und Potenz",
+      "beschreibung": "Aristoteles unterscheidet zwischen dem, was ein Ding der Möglichkeit nach ist (dynamis/Potenz), und dem, was es der Wirklichkeit nach ist (energeia/Akt). Veränderung ist der Übergang von der Möglichkeit zur Wirklichkeit."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Nikomachische Ethik",
+      "jahr": "ca. 335–322 v. Chr.",
+      "beschreibung": "Das Hauptwerk der aristotelischen Ethik, benannt nach seinem Sohn Nikomachos. Behandelt die Frage nach dem guten Leben (eudaimonia) und entwickelt die Tugendethik mit der Lehre von der Mitte (mesotes)."
+    },
+    {
+      "titel": "Politik",
+      "jahr": "ca. 335–322 v. Chr.",
+      "beschreibung": "Umfassende Untersuchung der verschiedenen Staatsformen und des idealen Staates. Der Mensch ist von Natur aus ein politisches Wesen (zoon politikon)."
+    },
+    {
+      "titel": "Metaphysik",
+      "jahr": "ca. 335–322 v. Chr.",
+      "beschreibung": "Untersuchung des Seienden als Seiendes. Enthält die Lehre von den Kategorien, von Substanz und Akzidens, von Akt und Potenz und den berühmten Gottesbeweis des 'Unbewegten Bewegers'."
+    },
+    {
+      "titel": "Organon (Logische Schriften)",
+      "jahr": "ca. 350–322 v. Chr.",
+      "beschreibung": "Sammlung der logischen Schriften: Kategorien, De Interpretatione, Erste Analytiken, Zweite Analytiken, Topik und Sophistische Widerlegungen. Begründung der formalen Logik."
+    },
+    {
+      "titel": "Physik",
+      "jahr": "ca. 350–322 v. Chr.",
+      "beschreibung": "Grundlegung der Naturphilosophie. Behandelt Bewegung, Raum, Zeit, Unendlichkeit und die vier Ursachen."
+    },
+    {
+      "titel": "De Anima (Über die Seele)",
+      "jahr": "ca. 350 v. Chr.",
+      "beschreibung": "Untersuchung der Seele als Form des lebendigen Körpers. Unterscheidung von vegetativer, sensitiver und rationaler Seele."
+    },
+    {
+      "titel": "Poetik",
+      "jahr": "ca. 335 v. Chr.",
+      "beschreibung": "Theorie der Dichtkunst, insbesondere der Tragödie. Enthält die berühmte Lehre von der Katharsis (Reinigung) durch Furcht und Mitleid."
+    },
+    {
+      "titel": "Rhetorik",
+      "jahr": "ca. 335 v. Chr.",
+      "beschreibung": "Systematische Darstellung der Redekunst. Unterscheidung der drei Überzeugungsmittel: Ethos (Charakter des Redners), Pathos (Emotionen der Zuhörer) und Logos (Argumentation)."
+    },
+    {
+      "titel": "Historia Animalium (Tiergeschichte)",
+      "jahr": "ca. 343–335 v. Chr.",
+      "beschreibung": "Umfangreiche zoologische Beschreibung von über 500 Tierarten. Grundlegendes Werk der wissenschaftlichen Biologie."
+    },
+    {
+      "titel": "Eudemische Ethik",
+      "jahr": "ca. 350 v. Chr.",
+      "beschreibung": "Früheres ethisches Werk, das teilweise parallel zur Nikomachischen Ethik verläuft. Benannt nach seinem Schüler Eudemos von Rhodos."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Mensch ist von Natur aus ein politisches Wesen.",
+      "quelle": "Politik, 1253a",
+      "kontext": "Aristoteles begründet, warum der Mensch nur in der Gemeinschaft des Staates sein Wesen verwirklichen kann."
+    },
+    {
+      "text": "Das Ganze ist mehr als die Summe seiner Teile.",
+      "quelle": "Metaphysik, 1041b",
+      "kontext": "Aristoteles über die Einheit zusammengesetzter Dinge."
+    },
+    {
+      "text": "Wir sind, was wir wiederholt tun. Vortrefflichkeit ist daher keine Handlung, sondern eine Gewohnheit.",
+      "quelle": "Nikomachische Ethik, Buch II",
+      "kontext": "Über die Bedeutung der Gewöhnung für die Ausbildung von Tugenden."
+    },
+    {
+      "text": "Freude an der Arbeit lässt das Werk trefflich geraten.",
+      "quelle": "Nikomachische Ethik",
+      "kontext": "Aristoteles über das Verhältnis von Lust und Tätigkeit."
+    },
+    {
+      "text": "Platon ist mir lieb, aber die Wahrheit ist mir noch lieber.",
+      "quelle": "Nikomachische Ethik, 1096a",
+      "kontext": "Aristoteles rechtfertigt seine Kritik an Platons Ideenlehre trotz seiner Verehrung für den Lehrer."
+    }
+  ],
+  "verwandtePhilosophen": ["platon", "sokrates", "thomas-von-aquin", "thales", "empedokles", "demokrit", "alexander-der-grosse"],
+  "verwandteIsmen": ["aristotelismus", "empirismus", "realismus", "tugendethik"]
+}

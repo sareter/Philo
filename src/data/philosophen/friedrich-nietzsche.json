@@ -1,0 +1,143 @@
+{
+  "slug": "friedrich-nietzsche",
+  "name": "Friedrich Nietzsche",
+  "lebensdaten": "1844–1900",
+  "geboren": {
+    "jahr": 1844,
+    "ort": "Röcken",
+    "land": "Deutschland",
+    "lat": 51.2167,
+    "lng": 12.1167
+  },
+  "gestorben": {
+    "jahr": 1900,
+    "ort": "Weimar",
+    "land": "Deutschland",
+    "lat": 50.9795,
+    "lng": 11.3235
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Existenzialismus", "Nihilismus", "Lebensphilosophie", "Perspektivismus"],
+  "kurzbeschreibung": "Friedrich Nietzsche war einer der einflussreichsten und radikalsten Denker des 19. Jahrhunderts, der mit seinen provokanten Schriften die gesamte westliche Philosophie erschütterte. Seine Konzepte des Übermenschen, des Willens zur Macht und der ewigen Wiederkehr prägten das philosophische Denken des 20. Jahrhunderts nachhaltig. Mit seiner leidenschaftlichen Prosa und seinem aphoristischen Stil revolutionierte er nicht nur die Philosophie, sondern auch die Literatur.",
+  "biografie": {
+    "fruehesLeben": "Friedrich Wilhelm Nietzsche wurde am 15. Oktober 1844 in Röcken bei Lützen als Sohn des lutherischen Pfarrers Carl Ludwig Nietzsche und seiner Frau Franziska geboren. Der Tod seines Vaters im Jahr 1849 und seines jüngeren Bruders Joseph kurz darauf prägten seine Kindheit tief. Die Familie zog nach Naumburg an der Saale, wo Nietzsche von seiner Mutter, Großmutter und zwei Tanten aufgezogen wurde. Von 1858 bis 1864 besuchte er die renommierte Landesschule Pforta, wo er eine hervorragende humanistische Bildung erhielt und seine Leidenschaft für Musik und Literatur entdeckte. Er studierte zunächst Theologie und klassische Philologie in Bonn, wechselte dann nach Leipzig, wo er 1865 auf Arthur Schopenhauers Hauptwerk 'Die Welt als Wille und Vorstellung' stieß, das ihn zutiefst beeinflusste. In Leipzig begann auch seine bedeutende Freundschaft mit Richard Wagner.",
+    "schaffen": "Bereits mit 24 Jahren wurde Nietzsche 1869 als außerordentlicher Professor für klassische Philologie an die Universität Basel berufen – eine beispiellose akademische Karriere. Sein erstes Buch 'Die Geburt der Tragödie aus dem Geiste der Musik' (1872) brach radikal mit der konventionellen Philologie und führte die Unterscheidung zwischen dem apollinischen und dionysischen Prinzip ein. Die 'Unzeitgemäßen Betrachtungen' (1873–1876) zeigten seine kulturkritische Haltung. Mit 'Menschliches, Allzumenschliches' (1878) vollzog er eine Wende zum Freigeist-Denken und brach mit Wagner und Schopenhauer. Es folgten 'Morgenröthe' (1881) und 'Die fröhliche Wissenschaft' (1882), in der er erstmals den Tod Gottes verkündete. Sein philosophisches Hauptwerk 'Also sprach Zarathustra' (1883–1885) formulierte die Lehren vom Übermenschen und der ewigen Wiederkehr des Gleichen in poetischer Prosa. Die Spätwerke 'Jenseits von Gut und Böse' (1886), 'Zur Genealogie der Moral' (1887) und 'Götzendämmerung' (1889) radikalisierten seine Moralkritik und Umwertung aller Werte.",
+    "spaetesLeben": "Ab 1879 lebte Nietzsche nach seinem gesundheitsbedingten Rücktritt von der Basler Professur als freier Autor und reiste rastlos durch Europa – vor allem nach Sils-Maria in der Schweiz, Nizza, Turin und Genua. Seine Gesundheit verschlechterte sich stetig; er litt unter schweren Migräneattacken, Sehproblemen und Magenbeschwerden. Trotz dieser Leiden war die Dekade von 1879 bis 1889 seine produktivste Schaffensperiode. Seine Bücher fanden zunächst kaum Leser, und er fühlte sich zunehmend isoliert und unverstanden. Die unglückliche Liebesgeschichte mit Lou von Salomé 1882 verstärkte seine Einsamkeit. In seinen letzten produktiven Monaten in Turin 1888 verfasste er in einem regelrechten Schaffensrausch gleich mehrere Werke: 'Der Antichrist', 'Ecce Homo', 'Nietzsche contra Wagner' und 'Dionysos-Dithyramben'.",
+    "tod": "Am 3. Januar 1889 erlitt Nietzsche auf der Piazza Carlo Alberto in Turin einen geistigen Zusammenbruch, von dem er sich nie wieder erholte. Er wurde zunächst in die Basler Irrenanstalt eingeliefert, dann in die Jenaer Klinik und schließlich von seiner Mutter in Naumburg und nach deren Tod 1897 von seiner Schwester Elisabeth Förster-Nietzsche in Weimar gepflegt. Die letzten elf Jahre seines Lebens verbrachte er in geistiger Umnachtung, vermutlich als Folge einer progressiven Paralyse. Er starb am 25. August 1900 in Weimar. Seine Schwester Elisabeth verwaltete seinen Nachlass und gründete das Nietzsche-Archiv, manipulierte jedoch seine unveröffentlichten Schriften, insbesondere den 'Willen zur Macht', um sie ihren eigenen nationalistischen und antisemitischen Überzeugungen anzupassen.",
+    "nachwirkung": "Nietzsches Einfluss auf die Philosophie, Literatur, Psychologie und Kultur des 20. Jahrhunderts ist kaum zu überschätzen. Er beeinflusste maßgeblich den Existenzialismus (Heidegger, Sartre, Camus), die Psychoanalyse (Freud), die Frankfurter Schule (Adorno, Horkheimer), den Poststrukturalismus (Foucault, Derrida, Deleuze) und die postmoderne Philosophie insgesamt. Seine Moralkritik und seine Infragestellung absoluter Wahrheiten wurden zu Grundpfeilern des modernen Denkens. Leider wurde sein Werk im 20. Jahrhundert auch von den Nationalsozialisten missbraucht – eine Vereinnahmung, die auf den Fälschungen seiner Schwester beruhte und die die Nietzsche-Rezeption jahrzehntelang belastete. Die kritische Gesamtausgabe seiner Werke durch Giorgio Colli und Mazzino Montinari ab den 1960er Jahren ermöglichte eine sachgerechtere Auseinandersetzung mit seinem Denken."
+  },
+  "kernideen": [
+    {
+      "titel": "Der Übermensch",
+      "beschreibung": "Nietzsches Konzept des Übermenschen beschreibt einen Menschen, der über die konventionelle Moral hinauswächst und seine eigenen Werte schafft. Der Übermensch ist kein biologischer, sondern ein kultureller und existenzieller Typus, der das Leben in seiner Ganzheit bejaht und seine kreative Kraft zur Selbstüberwindung nutzt."
+    },
+    {
+      "titel": "Der Wille zur Macht",
+      "beschreibung": "Der Wille zur Macht ist Nietzsches fundamentales Erklärungsprinzip für alles Geschehen. Er bezeichnet nicht bloß politische oder physische Macht, sondern den grundlegenden Trieb aller Lebewesen zur Selbststeigerung, Entfaltung und kreativen Gestaltung. Er ist die treibende Kraft hinter jeder menschlichen Handlung und jedem kulturellen Schaffen."
+    },
+    {
+      "titel": "Die ewige Wiederkehr des Gleichen",
+      "beschreibung": "Die Idee, dass alle Ereignisse sich in einem ewigen Kreislauf unendlich oft wiederholen, dient Nietzsche als existenzieller Prüfstein: Wer sein Leben so bejaht, dass er seine ewige Wiederkehr wünschen könnte, hat die höchste Lebensbejahung erreicht. Es ist weniger eine kosmologische Theorie als ein ethisches Gedankenexperiment."
+    },
+    {
+      "titel": "Der Tod Gottes",
+      "beschreibung": "Mit der berühmten Formel 'Gott ist tot' diagnostiziert Nietzsche nicht einfach den Atheismus, sondern den Zusammenbruch des gesamten metaphysischen und moralischen Rahmens der westlichen Zivilisation. Die Konsequenz ist die Notwendigkeit, neue Werte zu schaffen, da die alten ihren Grund verloren haben."
+    },
+    {
+      "titel": "Herrenmoral und Sklavenmoral",
+      "beschreibung": "Nietzsche unterscheidet zwei grundlegende Typen der Moral: Die Herrenmoral, die aus der Stärke heraus 'gut' und 'schlecht' definiert, und die Sklavenmoral, die aus dem Ressentiment der Schwachen heraus 'gut' und 'böse' setzt. Das Christentum deutet er als Triumph der Sklavenmoral über die Herrenmoral."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Geburt der Tragödie aus dem Geiste der Musik",
+      "jahr": "1872",
+      "beschreibung": "Nietzsches Erstlingswerk untersucht die Entstehung der griechischen Tragödie aus dem Zusammenspiel des apollinischen (ordnenden, formgebenden) und dionysischen (rauschhaften, ekstatischen) Prinzips. Er kritisiert Sokrates als Zerstörer der tragischen Kultur und sieht in Wagners Musikdrama eine mögliche Wiedergeburt."
+    },
+    {
+      "titel": "Unzeitgemäße Betrachtungen",
+      "jahr": "1873–1876",
+      "beschreibung": "Vier kulturkritische Essays, die sich mit David Friedrich Strauß, dem Nutzen und Nachteil der Historie für das Leben, Schopenhauer als Erzieher und Richard Wagner in Bayreuth befassen."
+    },
+    {
+      "titel": "Menschliches, Allzumenschliches",
+      "jahr": "1878",
+      "beschreibung": "Ein Wendepunkt in Nietzsches Denken: Er verabschiedet sich von der Metaphysik Schopenhauers und Wagners Kunst-Religion zugunsten eines freigeistigen, wissenschaftsnahen Denkstils. Das Werk besteht aus Aphorismen und kurzen Reflexionen."
+    },
+    {
+      "titel": "Morgenröthe",
+      "jahr": "1881",
+      "beschreibung": "Eine Sammlung von Aphorismen, in denen Nietzsche die moralischen Vorurteile der Menschheit untersucht und die unbewussten Motive hinter moralischen Urteilen aufdeckt."
+    },
+    {
+      "titel": "Die fröhliche Wissenschaft",
+      "jahr": "1882",
+      "beschreibung": "Eines der zentralsten Werke Nietzsches, in dem er erstmals den Tod Gottes verkündet, die ewige Wiederkehr einführt und einen lebensbejahenden, intellektuell spielerischen Denkstil pflegt. Das berühmte Gleichnis vom tollen Menschen findet sich hier."
+    },
+    {
+      "titel": "Also sprach Zarathustra",
+      "jahr": "1883–1885",
+      "beschreibung": "Nietzsches philosophisches Hauptwerk in poetischer Prosaform. In vier Teilen verkündet der Prophet Zarathustra die Lehren vom Übermenschen, vom Willen zur Macht und von der ewigen Wiederkehr des Gleichen. Es gilt als eines der bedeutendsten Werke der deutschen Literatur."
+    },
+    {
+      "titel": "Jenseits von Gut und Böse",
+      "jahr": "1886",
+      "beschreibung": "Eine systematische Kritik der traditionellen Philosophie und Moral. Nietzsche attackiert die Vorurteile der Philosophen, analysiert das Wesen der Moral und entwirft sein Ideal des 'Philosophen der Zukunft'."
+    },
+    {
+      "titel": "Zur Genealogie der Moral",
+      "jahr": "1887",
+      "beschreibung": "Drei Abhandlungen, die die Herkunft moralischer Begriffe und Werte untersuchen: die Entstehung von 'gut' und 'böse', das schlechte Gewissen und die Schuld sowie die Bedeutung asketischer Ideale."
+    },
+    {
+      "titel": "Götzendämmerung",
+      "jahr": "1889",
+      "beschreibung": "Eine kompakte Zusammenfassung von Nietzsches Philosophie, die mit dem Hammer philosophiert und die Grundlagen der westlichen Metaphysik, Moral und Religion erschüttert."
+    },
+    {
+      "titel": "Der Antichrist",
+      "jahr": "1895",
+      "beschreibung": "Nietzsches radikalste Abrechnung mit dem Christentum, das er als lebensfeindliche Religion des Mitleids und der Schwäche verurteilt."
+    },
+    {
+      "titel": "Ecce Homo",
+      "jahr": "1908",
+      "beschreibung": "Nietzsches intellektuelle Autobiografie, in der er sein eigenes Werk rückblickend deutet. Der Untertitel lautet 'Wie man wird, was man ist'."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Gott ist tot! Gott bleibt tot! Und wir haben ihn getötet!",
+      "quelle": "Die fröhliche Wissenschaft, Aphorismus 125",
+      "kontext": "Der tolle Mensch verkündet auf dem Marktplatz den Tod Gottes und die Konsequenzen für die menschliche Zivilisation."
+    },
+    {
+      "text": "Was mich nicht umbringt, macht mich stärker.",
+      "quelle": "Götzendämmerung, Sprüche und Pfeile 8",
+      "kontext": "Einer der bekanntesten Aphorismen Nietzsches über die stärkende Wirkung überstandener Leiden."
+    },
+    {
+      "text": "Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.",
+      "quelle": "Jenseits von Gut und Böse, Aphorismus 146",
+      "kontext": "Eine Warnung vor der moralischen Gefahr, die im Kampf gegen das Böse liegt."
+    },
+    {
+      "text": "Ich sage euch: man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können.",
+      "quelle": "Also sprach Zarathustra, Vorrede 5",
+      "kontext": "Zarathustra spricht zum Volk über die Notwendigkeit innerer Wildheit für kreatives Schaffen."
+    },
+    {
+      "text": "Es gibt keine Tatsachen, nur Interpretationen.",
+      "quelle": "Nachlass, Herbst 1885",
+      "kontext": "Ein zentraler Ausdruck von Nietzsches Perspektivismus, der die Möglichkeit objektiver Erkenntnis bestreitet."
+    },
+    {
+      "text": "Der Mensch ist ein Seil, geknüpft zwischen Tier und Übermensch – ein Seil über einem Abgrunde.",
+      "quelle": "Also sprach Zarathustra, Vorrede 4",
+      "kontext": "Zarathustra beschreibt den Menschen als Übergang und Untergang – als etwas, das überwunden werden soll."
+    }
+  ],
+  "verwandtePhilosophen": ["arthur-schopenhauer", "martin-heidegger", "jean-paul-sartre", "albert-camus", "michel-foucault", "gilles-deleuze", "jacques-derrida"],
+  "verwandteIsmen": ["existenzialismus", "nihilismus", "perspektivismus", "lebensphilosophie", "postmoderne"]
+}

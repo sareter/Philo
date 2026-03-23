@@ -1,0 +1,89 @@
+{
+  "slug": "john-rawls",
+  "name": "John Rawls",
+  "lebensdaten": "1921–2002",
+  "geboren": {
+    "jahr": 1921,
+    "ort": "Baltimore",
+    "land": "USA",
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  "gestorben": {
+    "jahr": 2002,
+    "ort": "Lexington",
+    "land": "USA",
+    "lat": 42.4473,
+    "lng": -71.2272
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Politische Philosophie", "Liberalismus", "Vertragstheorie"],
+  "kurzbeschreibung": "John Rawls war der bedeutendste politische Philosoph des 20. Jahrhunderts. Mit seinem Hauptwerk 'Eine Theorie der Gerechtigkeit' (1971) revitalisierte er die gesamte politische Philosophie und formulierte eine Gerechtigkeitskonzeption, die bis heute den Maßstab der Debatte bildet. Sein Gedankenexperiment des 'Schleiers des Nichtwissens' wurde zum bekanntesten Werkzeug der modernen Ethik.",
+  "biografie": {
+    "fruehesLeben": "John Bordley Rawls wurde am 21. Februar 1921 in Baltimore, Maryland, als Sohn eines Verfassungsrechtlers und einer Feministin geboren. Zwei seiner Brüder starben an Krankheiten, die sie von ihm übernommen hatten – ein Trauma, das ihn sein Leben lang begleitete. Er studierte an der Princeton University und diente im Zweiten Weltkrieg als Infanterist im Pazifik, wo er die Zerstörung von Hiroshima miterlebte. Diese Erfahrung erschütterte seinen christlichen Glauben und prägte seine Reflexion über Gerechtigkeit. Nach dem Krieg promovierte er in Princeton in Philosophie.",
+    "schaffen": "Rawls lehrte in Princeton, Cornell und ab 1962 an der Harvard University, wo er seine gesamte weitere Karriere verbrachte. Sein Hauptwerk 'Eine Theorie der Gerechtigkeit' (1971) stellte eine epochale Erneuerung der Vertragstheorie dar. Rawls' Grundidee ist das Gedankenexperiment des 'Urzustands' (original position): Hinter einem 'Schleier des Nichtwissens', der die Beteiligten über ihre soziale Position, ihre Fähigkeiten und ihre Lebenspläne im Unklaren lässt, würden rationale Personen zwei Gerechtigkeitsprinzipien wählen: (1) gleiche Grundfreiheiten für alle und (2) soziale und ökonomische Ungleichheiten sind nur dann gerecht, wenn sie den am wenigsten Begünstigten den größtmöglichen Vorteil bringen (Differenzprinzip). 'Politischer Liberalismus' (1993) reagierte auf Kritiken und reformulierte die Theorie: In einer pluralistischen Gesellschaft muss die Gerechtigkeitskonzeption freistehend ('freestanding') sein, d.h. unabhängig von umfassenden religiösen oder philosophischen Doktrinen begründet werden. 'Das Recht der Völker' (1999) erweiterte die Theorie auf die internationale Ebene.",
+    "spaetesLeben": "Rawls war ein zurückhaltender, bescheidener Akademiker, der das öffentliche Rampenlicht mied. Er widmete sich ganz der Lehre und dem Schreiben. Ab 1995 erlitt er mehrere Schlaganfälle, die seine Arbeitsfähigkeit stark einschränkten. Trotzdem konnte er noch 'Das Recht der Völker' und 'Gerechtigkeit als Fairneß' (2001) fertigstellen.",
+    "tod": "John Rawls starb am 24. November 2002 in Lexington, Massachusetts, an Herzversagen. Er war 81 Jahre alt.",
+    "nachwirkung": "Rawls' 'Eine Theorie der Gerechtigkeit' gilt als das einflussreichste Werk der politischen Philosophie des 20. Jahrhunderts. Es revitalisierte die gesamte normative politische Theorie und setzte den Maßstab für die Gerechtigkeitsdebatte. Sein Einfluss erstreckt sich über Philosophie, Politikwissenschaft, Ökonomie und Rechtswissenschaft. Die Debatte zwischen Rawls und seinen Kritikern – Nozick, Communitaristen, Feministen, Marxisten – gehört zu den fruchtbarsten Auseinandersetzungen der modernen Philosophie."
+  },
+  "kernideen": [
+    {
+      "titel": "Der Schleier des Nichtwissens",
+      "beschreibung": "Im Urzustand wählen rationale Personen hinter einem 'Schleier des Nichtwissens' die Grundprinzipien der Gesellschaft, ohne zu wissen, welche Position sie in dieser Gesellschaft einnehmen werden. Diese Bedingung garantiert Unparteilichkeit und Fairness."
+    },
+    {
+      "titel": "Die zwei Gerechtigkeitsprinzipien",
+      "beschreibung": "1. Jede Person hat ein gleiches Recht auf das umfangreichste System gleicher Grundfreiheiten. 2. Soziale und ökonomische Ungleichheiten müssen so gestaltet sein, dass sie den am wenigsten Begünstigten den größtmöglichen Vorteil bringen (Differenzprinzip) und an Positionen geknüpft sind, die allen unter fairen Chancengleichheitsbedingungen offenstehen."
+    },
+    {
+      "titel": "Gerechtigkeit als Fairness",
+      "beschreibung": "Gerechtigkeit ist die erste Tugend sozialer Institutionen. Eine gerechte Gesellschaft ist eine, deren Grundstruktur so gestaltet ist, dass sie faire Kooperationsbedingungen für alle Bürger garantiert – unabhängig von ihren natürlichen Talenten oder ihrer sozialen Herkunft."
+    },
+    {
+      "titel": "Übergreifender Konsens",
+      "beschreibung": "In einer pluralistischen Gesellschaft kann die politische Gerechtigkeitskonzeption von Anhängern verschiedener umfassender Lehren (religiöser, philosophischer, moralischer) aus jeweils eigenen Gründen bejaht werden – ein 'übergreifender Konsens', der Stabilität ermöglicht."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Eine Theorie der Gerechtigkeit (A Theory of Justice)",
+      "jahr": "1971",
+      "beschreibung": "Das einflussreichste Werk der politischen Philosophie des 20. Jahrhunderts formuliert eine Gerechtigkeitskonzeption auf der Basis eines hypothetischen Gesellschaftsvertrags hinter dem Schleier des Nichtwissens."
+    },
+    {
+      "titel": "Politischer Liberalismus (Political Liberalism)",
+      "jahr": "1993",
+      "beschreibung": "Eine Reformulierung der Gerechtigkeitstheorie für pluralistische Gesellschaften, die die Konzeption von umfassenden philosophischen Lehren unabhängig macht."
+    },
+    {
+      "titel": "Das Recht der Völker (The Law of Peoples)",
+      "jahr": "1999",
+      "beschreibung": "Eine Erweiterung der Gerechtigkeitstheorie auf die internationale Ebene, die die Prinzipien einer gerechten internationalen Ordnung formuliert."
+    },
+    {
+      "titel": "Gerechtigkeit als Fairneß (Justice as Fairness: A Restatement)",
+      "jahr": "2001",
+      "beschreibung": "Eine überarbeitete und komprimierte Darstellung von Rawls' Gerechtigkeitstheorie, die seine lebenslange Reflexion zusammenfasst."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Gerechtigkeit ist die erste Tugend sozialer Institutionen, so wie die Wahrheit bei Gedankensystemen.",
+      "quelle": "Eine Theorie der Gerechtigkeit",
+      "kontext": "Der berühmte Eröffnungssatz, der die Gerechtigkeit als nicht verhandelbare Grundforderung etabliert."
+    },
+    {
+      "text": "Jeder Mensch besitzt eine aus der Gerechtigkeit entspringende Unverletzlichkeit, die auch im Namen des Wohles der ganzen Gesellschaft nicht aufgehoben werden kann.",
+      "quelle": "Eine Theorie der Gerechtigkeit",
+      "kontext": "Rawls' Absage an den Utilitarismus – individuelle Rechte dürfen nicht dem Gesamtnutzen geopfert werden."
+    },
+    {
+      "text": "Die natürliche Verteilung ist weder gerecht noch ungerecht; es ist auch nicht ungerecht, daß Menschen in eine bestimmte Stellung der Gesellschaft hineingeboren werden. Dies sind einfach natürliche Tatsachen. Gerecht oder ungerecht ist die Art, wie sich Institutionen ihnen gegenüber verhalten.",
+      "quelle": "Eine Theorie der Gerechtigkeit",
+      "kontext": "Die Begründung des Differenzprinzips: Die natürliche Lotterie ist kein moralisches Verdienst."
+    }
+  ],
+  "verwandtePhilosophen": ["robert-nozick", "juergen-habermas", "peter-singer", "john-dewey"],
+  "verwandteIsmen": ["liberalismus", "kontraktualismus", "egalitarismus"]
+}

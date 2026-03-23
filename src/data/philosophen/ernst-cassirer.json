@@ -1,0 +1,99 @@
+{
+  "slug": "ernst-cassirer",
+  "name": "Ernst Cassirer",
+  "lebensdaten": "1874–1945",
+  "geboren": {
+    "jahr": 1874,
+    "ort": "Breslau",
+    "land": "Deutschland",
+    "lat": 51.1079,
+    "lng": 17.0385
+  },
+  "gestorben": {
+    "jahr": 1945,
+    "ort": "New York City",
+    "land": "USA",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Neukantianismus", "Kulturphilosophie", "Symbolphilosophie"],
+  "kurzbeschreibung": "Ernst Cassirer war einer der bedeutendsten Vertreter des Neukantianismus und Begründer einer umfassenden Philosophie der symbolischen Formen. Er erweiterte Kants Erkenntnistheorie zu einer allgemeinen Kulturphilosophie, die Sprache, Mythos, Kunst, Religion und Wissenschaft als verschiedene Formen der symbolischen Weltgestaltung versteht. Sein Denken bildet eine Brücke zwischen analytischer und kontinentaler Philosophie.",
+  "biografie": {
+    "fruehesLeben": "Ernst Alfred Cassirer wurde am 28. Juli 1874 in Breslau (heute Wrocław) als Sohn einer wohlhabenden jüdischen Kaufmannsfamilie geboren. Er studierte Philosophie in Berlin, Leipzig, Heidelberg und Marburg, wo er zum Schüler des Neukantianers Hermann Cohen wurde. Cohen erkannte Cassirers außergewöhnliche Begabung und förderte ihn. Cassirer promovierte 1899 in Marburg mit einer Arbeit über Descartes' Erkenntnistheorie und Mathematik. 1906 habilitierte er sich in Berlin mit einer Studie über das Erkenntnisproblem.",
+    "schaffen": "Cassirers frühes Hauptwerk 'Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit' (1906–1920, 4 Bände) war eine monumentale Geschichte der Erkenntnistheorie von der Renaissance bis zur Gegenwart. Sein bedeutendstes Werk ist die dreibändige 'Philosophie der symbolischen Formen' (1923–1929), die Kants Erkenntniskritik zu einer umfassenden Kulturphilosophie erweitert. Cassirer argumentierte, dass der Mensch ein 'animal symbolicum' ist – ein symbolschaffendes Wesen, das die Welt nicht unmittelbar erfährt, sondern durch selbstgeschaffene symbolische Formen (Sprache, Mythos, Kunst, Religion, Wissenschaft) erschließt und gestaltet. Jede symbolische Form ist eine eigenständige Weise der Weltgestaltung mit eigener Logik und Geltung. 1919 wurde Cassirer ordentlicher Professor an der neu gegründeten Universität Hamburg, wo er bis 1933 wirkte. 1929 führte er in Davos die berühmte Debatte mit Martin Heidegger über die Interpretation Kants – ein symbolisches Ereignis, das den Gegensatz zwischen Neukantianismus und Existenzphilosophie verkörperte. 'Substanzbegriff und Funktionsbegriff' (1910) revolutionierte die Wissenschaftstheorie durch die These, dass wissenschaftliche Begriffe nicht Substanzen abbilden, sondern funktionale Beziehungen beschreiben.",
+    "spaetesLeben": "Nach der Machtergreifung der Nationalsozialisten emigrierte Cassirer 1933 zunächst nach Oxford, dann nach Schweden (Göteborg, 1935–1941) und schließlich in die USA, wo er an der Yale University und der Columbia University in New York lehrte. Im Exil verfasste er 'An Essay on Man' (1944), eine englischsprachige Zusammenfassung seiner Kulturphilosophie, und 'The Myth of the State' (1946), eine Analyse der politischen Mythen des 20. Jahrhunderts und ihrer Rolle im Aufstieg des Faschismus.",
+    "tod": "Ernst Cassirer starb am 13. April 1945 in New York City an einem Herzinfarkt – nur wenige Wochen vor dem Ende des Zweiten Weltkriegs in Europa. Er erlebte weder die Befreiung noch das volle Ausmaß der Zerstörung, die der Nationalsozialismus über Europa gebracht hatte.",
+    "nachwirkung": "Cassirers Philosophie der symbolischen Formen erlebt seit den 1990er Jahren eine Renaissance. Sein Werk beeinflusste die Kulturwissenschaften, die Semiotik, die Kunsttheorie, die Wissenschaftsgeschichte und die politische Philosophie. Denker wie Nelson Goodman, Susanne Langer und John Michael Krois führten sein Programm weiter. Seine Kulturphilosophie bietet eine Alternative zum Nihilismus und Relativismus und zeigt, wie die verschiedenen Formen menschlicher Kreativität zusammenhängen. Die Davos-Debatte mit Heidegger wird als Scheideweg der Philosophie des 20. Jahrhunderts gedeutet."
+  },
+  "kernideen": [
+    {
+      "titel": "Philosophie der symbolischen Formen",
+      "beschreibung": "Der Mensch erfährt die Welt nicht unmittelbar, sondern durch selbstgeschaffene symbolische Formen – Sprache, Mythos, Kunst, Religion, Wissenschaft. Jede symbolische Form ist eine eigenständige Weise der Weltgestaltung und Sinngebung mit eigener Logik und Geltung."
+    },
+    {
+      "titel": "Der Mensch als animal symbolicum",
+      "beschreibung": "Der Mensch ist nicht in erster Linie ein 'animal rationale' (Vernunftwesen), sondern ein 'animal symbolicum' – ein symbolschaffendes Wesen. Die Fähigkeit, Symbole zu schaffen und zu gebrauchen, unterscheidet den Menschen fundamental von allen anderen Lebewesen."
+    },
+    {
+      "titel": "Substanzbegriff und Funktionsbegriff",
+      "beschreibung": "Die moderne Wissenschaft ersetzt den aristotelischen Substanzbegriff durch den Funktionsbegriff. Wissenschaftliche Begriffe bilden nicht Dinge ab, sondern beschreiben funktionale Beziehungen und Strukturen."
+    },
+    {
+      "titel": "Der Mythos des Staates",
+      "beschreibung": "Politische Mythen sind keine harmlosen Überreste der Vergangenheit, sondern können in Krisenzeiten reaktiviert werden und ganze Gesellschaften in ihren Bann ziehen. Der Faschismus nutzte bewusst die Technik der politischen Mythisierung."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Philosophie der symbolischen Formen",
+      "jahr": "1923–1929",
+      "beschreibung": "Das dreibändige Hauptwerk analysiert Sprache, mythisches Denken und Erkenntnis als verschiedene symbolische Formen der Weltgestaltung. Band 1: Die Sprache (1923), Band 2: Das mythische Denken (1925), Band 3: Phänomenologie der Erkenntnis (1929)."
+    },
+    {
+      "titel": "Substanzbegriff und Funktionsbegriff",
+      "jahr": "1910",
+      "beschreibung": "Eine wissenschaftstheoretische Studie, die den Übergang vom substanzontologischen zum funktionalen Denken in den modernen Wissenschaften nachzeichnet."
+    },
+    {
+      "titel": "Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit",
+      "jahr": "1906–1920",
+      "beschreibung": "Eine vierbändige Geschichte der Erkenntnistheorie von der Renaissance bis Hegel, die zu den bedeutendsten Werken der Philosophiegeschichtsschreibung gehört."
+    },
+    {
+      "titel": "An Essay on Man",
+      "jahr": "1944",
+      "beschreibung": "Eine englischsprachige Zusammenfassung der Kulturphilosophie, die den Menschen als symbolschaffendes Wesen bestimmt und die verschiedenen symbolischen Formen analysiert."
+    },
+    {
+      "titel": "The Myth of the State",
+      "jahr": "1946",
+      "beschreibung": "Cassirers posthum veröffentlichte Analyse der politischen Mythen und ihrer Rolle im Aufstieg des Faschismus."
+    },
+    {
+      "titel": "Individuum und Kosmos in der Philosophie der Renaissance",
+      "jahr": "1927",
+      "beschreibung": "Eine bahnbrechende Studie über die Renaissance-Philosophie, die Nikolaus von Kues ins Zentrum der Modernisierung des Denkens stellt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Mensch lebt nicht mehr in einem bloß physikalischen, sondern in einem symbolischen Universum.",
+      "quelle": "An Essay on Man",
+      "kontext": "Die Grundthese der Kulturphilosophie: Die menschliche Welt ist eine symbolisch vermittelte Welt."
+    },
+    {
+      "text": "Der Mensch ist ein animal symbolicum.",
+      "quelle": "An Essay on Man",
+      "kontext": "Cassirers berühmte Definition des Menschen als symbolschaffendes Wesen."
+    },
+    {
+      "text": "Der Mythos ist, wenn man seinen objektiven Inhalt betrachtet, durchaus theoretisch; er enthält, wenn man seine innere Form betrachtet, ein Element der künstlerischen Gestaltung.",
+      "quelle": "Philosophie der symbolischen Formen, Band 2",
+      "kontext": "Die Analyse des Mythos als eigenständige symbolische Form zwischen Theorie und Kunst."
+    }
+  ],
+  "verwandtePhilosophen": ["edmund-husserl", "martin-heidegger", "alfred-north-whitehead", "theodor-w-adorno", "hannah-arendt"],
+  "verwandteIsmen": ["neukantianismus", "kulturphilosophie", "symbolphilosophie", "idealismus"]
+}

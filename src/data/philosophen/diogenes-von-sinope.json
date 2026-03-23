@@ -1,0 +1,84 @@
+{
+  "slug": "diogenes-von-sinope",
+  "name": "Diogenes von Sinope",
+  "lebensdaten": "412–323 v. Chr.",
+  "geboren": {
+    "jahr": -412,
+    "ort": "Sinope",
+    "land": "Griechenland (Pontos)",
+    "lat": 42.03,
+    "lng": 35.15
+  },
+  "gestorben": {
+    "jahr": -323,
+    "ort": "Korinth",
+    "land": "Griechenland",
+    "lat": 37.94,
+    "lng": 22.93
+  },
+  "epoche": "Antike",
+  "region": "Griechenland",
+  "hauptstroemungen": ["Kynismus", "Ethik", "Askese"],
+  "kurzbeschreibung": "Diogenes von Sinope, 'der Hund', war der bekannteste Vertreter der kynischen Philosophie. Er lebte in radikaler Armut, angeblich in einem Fass, und provozierte seine Zeitgenossen durch sein bedürfnisloses Leben als Verkörperung der Tugend durch Tat statt durch Worte.",
+  "biografie": {
+    "fruehesLeben": "Diogenes wurde um 412 v. Chr. in Sinope am Schwarzen Meer geboren. Sein Vater Hikesias war Münzwechsler oder Bankier. Beide – Vater und Sohn – sollen wegen Münzfälschung aus Sinope verbannt worden sein. Diogenes deutete diese Episode später positiv um: Das Orakel von Delphi habe ihm geraten, 'die Münze umzuwerten' (parakharaxon to nomisma), was er als Auftrag verstand, die falschen Werte der Gesellschaft umzuprägen. In Athen wurde er Schüler des Antisthenes, eines Sokratesschülers, der die kynische Lebensweise begründet hatte. Angeblich wies Antisthenes ihn zunächst mit einem Stock ab, worauf Diogenes erwiderte: 'Schlag nur zu, du wirst kein Holz finden, das hart genug ist, mich von dir fernzuhalten.'",
+    "schaffen": "Diogenes philosophierte nicht durch Schriften, sondern durch seine Lebensweise. Er verwarf alle gesellschaftlichen Konventionen, lebte in freiwilliger Armut und suchte die radikale Autarkie (Selbstgenügsamkeit). Er hauste in einem Pithos (einem großen Tonkrug, fälschlich oft als 'Fass' übersetzt) auf dem Marktplatz von Athen. Sein Besitz beschränkte sich auf einen Mantel, einen Ranzen und einen Stock. Als er sah, wie ein Kind Wasser mit der hohlen Hand trank, warf er sogar seinen Becher weg mit den Worten: 'Ein Kind hat mich in der Einfachheit übertroffen.' Diogenes' Philosophie war eine konsequente Umsetzung des sokratischen Ideals: Tugend zeigt sich in Taten, nicht in Worten. Er verachtete alle künstlichen Bedürfnisse, sozialen Normen und Standesunterschiede. Er bezeichnete sich selbst als 'Kosmopolit' (Weltbürger) – ein Begriff, den er prägte. Er provozierte die athenische Gesellschaft durch sein schamlos öffentliches Verhalten: Er aß, schlief und verrichtete alle natürlichen Bedürfnisse auf dem Marktplatz. Am helllichten Tag ging er mit einer Laterne durch Athen und erklärte: 'Ich suche einen Menschen.' Berühmt ist seine Begegnung mit Alexander dem Großen: Als dieser ihn besuchte und fragte, ob er sich etwas wünsche, antwortete Diogenes: 'Geh mir ein wenig aus der Sonne.' Alexander soll daraufhin gesagt haben: 'Wenn ich nicht Alexander wäre, möchte ich Diogenes sein.'",
+    "spaetesLeben": "Diogenes wurde auf einer Seereise von Piraten gefangen und als Sklave verkauft. Als man ihn auf dem Sklavenmarkt fragte, was er könne, antwortete er: 'Menschen regieren.' Er wurde von dem Korinther Xeniades gekauft, der ihm die Erziehung seiner Söhne anvertraute. In Korinth setzte er sein provokantes Philosophenleben fort und wurde zur stadtbekannten Figur.",
+    "tod": "Diogenes starb 323 v. Chr. in Korinth, angeblich am selben Tag wie Alexander der Große in Babylon. Über die Todesursache gibt es verschiedene Versionen: Er soll an einem Octopus-Biss gestorben sein, an einer Atemblockade oder einfach am Anhalten des Atems. Die Korinther errichteten über seinem Grab eine Säule mit einem Marmor-Hund.",
+    "nachwirkung": "Diogenes wurde zum Archetyp des philosophischen Provokateurs und Außenseiters. Sein kynisches Ideal der Bedürfnislosigkeit beeinflusste die stoische Philosophie und durch sie das Christentum. Die Kirchenväter verglichen ihn mit christlichen Asketen. In der Neuzeit wurde er zum Vorbild für alle, die gesellschaftliche Konventionen in Frage stellen – von den Romantikern über Nietzsche bis zu den Hippies. Sein Begriff des 'Kosmopoliten' wurde zum Leitbild der Aufklärung."
+  },
+  "kernideen": [
+    {
+      "titel": "Radikale Autarkie",
+      "beschreibung": "Wahre Freiheit besteht in der völligen Unabhängigkeit von äußeren Gütern und gesellschaftlichen Konventionen. Je weniger man braucht, desto freier ist man."
+    },
+    {
+      "titel": "Umwertung der Werte",
+      "beschreibung": "Die Werte der Gesellschaft – Reichtum, Ruhm, Macht, Ehre – sind falsche Münzen, die umgeprägt werden müssen. Nur die Tugend, die sich in der Praxis bewährt, hat wahren Wert."
+    },
+    {
+      "titel": "Kosmopolitismus",
+      "beschreibung": "Diogenes bezeichnete sich als Weltbürger (kosmopolites) und lehnte die Bindung an eine bestimmte Stadt oder Nation ab. Alle Menschen sind Bürger einer einzigen Welt."
+    },
+    {
+      "titel": "Philosophie als Lebensweise",
+      "beschreibung": "Philosophie ist keine Theorie, sondern eine Praxis. Sie zeigt sich nicht in Büchern und Vorträgen, sondern in der konkreten Lebensführung. Der Philosoph muss leben, was er lehrt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Politeia (Der Staat)",
+      "jahr": "ca. 360 v. Chr.",
+      "beschreibung": "Diogenes' Gegenentwurf zu Platons Staat, der eine radikal egalitäre, konventionslose Gesellschaft beschrieb. Das Werk war so provokant, dass es in der Antike oft unterdrückt wurde. Nur Fragmente sind erhalten."
+    },
+    {
+      "titel": "Verschiedene Tragödien und Dialoge",
+      "jahr": "ca. 370–330 v. Chr.",
+      "beschreibung": "Diogenes werden verschiedene Tragödien und Dialoge zugeschrieben, deren Authentizität umstritten ist. Die meisten sind verloren gegangen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Ich suche einen Menschen.",
+      "quelle": "Überliefert bei Diogenes Laertios, VI, 41",
+      "kontext": "Diogenes wandelt am helllichten Tag mit einer Laterne durch Athen, um einen wahren Menschen zu suchen – und findet keinen."
+    },
+    {
+      "text": "Geh mir ein wenig aus der Sonne.",
+      "quelle": "Überliefert bei Diogenes Laertios, VI, 38",
+      "kontext": "Diogenes' berühmte Antwort an Alexander den Großen, der ihm jeden Wunsch erfüllen wollte."
+    },
+    {
+      "text": "Wenn ich nicht Alexander wäre, möchte ich Diogenes sein.",
+      "quelle": "Überliefert bei Plutarch, Alexander 14",
+      "kontext": "Alexanders Reaktion auf Diogenes' Unbeeindrucktheit – zugeschrieben an Alexander den Großen."
+    },
+    {
+      "text": "Die Menschen wetteifern darin, sich gegenseitig in Gruben zu stoßen, aber keiner wetteifert darin, ein guter Mensch zu sein.",
+      "quelle": "Überliefert bei Diogenes Laertios",
+      "kontext": "Diogenes' Kritik an den falschen Werten der Gesellschaft."
+    }
+  ],
+  "verwandtePhilosophen": ["sokrates", "antisthenes", "epiktet", "zenon-von-kition", "seneca"],
+  "verwandteIsmen": ["kynismus", "askese", "kosmopolitismus", "stoizismus"]
+}

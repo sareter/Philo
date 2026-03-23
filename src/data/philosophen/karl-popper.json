@@ -1,0 +1,99 @@
+{
+  "slug": "karl-popper",
+  "name": "Karl Popper",
+  "lebensdaten": "1902–1994",
+  "geboren": {
+    "jahr": 1902,
+    "ort": "Wien",
+    "land": "Österreich-Ungarn",
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  "gestorben": {
+    "jahr": 1994,
+    "ort": "London",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Kritischer Rationalismus", "Wissenschaftstheorie", "Liberalismus"],
+  "kurzbeschreibung": "Karl Popper war einer der bedeutendsten Wissenschaftstheoretiker und politischen Philosophen des 20. Jahrhunderts. Mit dem Prinzip der Falsifizierbarkeit revolutionierte er die Wissenschaftstheorie, und mit 'Die offene Gesellschaft und ihre Feinde' verfasste er eine der wirkmächtigsten Verteidigungen der liberalen Demokratie gegen totalitäre Ideologien.",
+  "biografie": {
+    "fruehesLeben": "Karl Raimund Popper wurde am 28. Juli 1902 in Wien als Sohn eines wohlhabenden Rechtsanwalts jüdischer Herkunft geboren. Er wuchs in einem intellektuell anregenden Umfeld auf – die Bibliothek seines Vaters umfasste über 10.000 Bände. Als Jugendlicher beschäftigte er sich intensiv mit dem Marxismus und der Psychoanalyse, wandte sich jedoch bald kritisch von beiden ab. Er studierte an der Universität Wien Mathematik, Physik und Philosophie und promovierte 1928 mit einer Arbeit zur Denkpsychologie. Obwohl er Kontakte zum Wiener Kreis hatte, teilte er dessen positivistisches Programm nicht und entwickelte stattdessen seinen eigenen kritischen Rationalismus.",
+    "schaffen": "Poppers 'Logik der Forschung' (1934) ersetzte das Verifikationsprinzip des Wiener Kreises durch das Falsifizierungsprinzip: Eine Theorie ist wissenschaftlich, wenn sie prinzipiell widerlegbar ist. Wissenschaftlicher Fortschritt besteht nicht in der Bestätigung, sondern in der Widerlegung und Verbesserung von Theorien. Nach der Emigration nach Neuseeland (1937) verfasste er während des Zweiten Weltkriegs 'Die offene Gesellschaft und ihre Feinde' (1945), eine fundamentale Kritik an Platon, Hegel und Marx als geistigen Wegbereitern des Totalitarismus. Ab 1946 lehrte er an der London School of Economics, wo er zu einem der einflussreichsten Philosophen der englischsprachigen Welt wurde. In 'Das Elend des Historizismus' (1957) kritisierte er den Glauben an historische Gesetze und die Vorhersagbarkeit der Geschichte. 'Vermutungen und Widerlegungen' (1963) und 'Objektive Erkenntnis' (1972) entwickelten seinen kritischen Rationalismus weiter.",
+    "spaetesLeben": "Popper wurde 1965 zum Ritter geschlagen und war fortan Sir Karl Popper. Er wurde weltweit als Verteidiger der offenen Gesellschaft und des kritischen Denkens geschätzt. In seinen späteren Werken wandte er sich zunehmend Fragen der Evolutionstheorie, des Leib-Seele-Problems und der Kosmologie zu. Zusammen mit John Eccles verfasste er 'Das Ich und sein Gehirn' (1977), in dem er einen interaktionistischen Dualismus vertrat. Er pflegte eine bedeutende intellektuelle Rivalität mit Thomas Kuhn, deren Auseinandersetzung die Wissenschaftstheorie des 20. Jahrhunderts maßgeblich prägte.",
+    "tod": "Karl Popper starb am 17. September 1994 in London im Alter von 92 Jahren. Er hatte bis in seine letzten Lebensjahre aktiv philosophiert und publiziert. Sein Nachlass befindet sich in der Karl-Popper-Sammlung der Universität Klagenfurt.",
+    "nachwirkung": "Poppers Falsifizierungsprinzip ist zum Standard der Wissenschaftstheorie geworden und wird in allen Naturwissenschaften als Abgrenzungskriterium verwendet. Sein Begriff der 'offenen Gesellschaft' wurde zum politischen Leitbegriff liberaler Demokratien. George Soros benannte seine Stiftung nach diesem Konzept. Poppers kritischer Rationalismus beeinflusste die gesamte Wissenschaftsphilosophie, wurde aber auch von Kuhn, Lakatos und Feyerabend kritisch weiterentwickelt. In der Politikwissenschaft und der Ökonomie (Hayek, Soros) wirkt sein Denken fort."
+  },
+  "kernideen": [
+    {
+      "titel": "Falsifizierbarkeit",
+      "beschreibung": "Eine Theorie ist wissenschaftlich, wenn sie prinzipiell durch Erfahrung widerlegbar (falsifizierbar) ist. Theorien, die sich gegen jede mögliche Widerlegung immunisieren, sind pseudowissenschaftlich. Wissenschaftlicher Fortschritt besteht in der kühnen Aufstellung und strengen Prüfung von Hypothesen."
+    },
+    {
+      "titel": "Die offene Gesellschaft",
+      "beschreibung": "Eine offene Gesellschaft ist eine, in der Institutionen die friedliche Ablösung von Regierungen ermöglichen und in der kritische Diskussion und schrittweise Reformen an die Stelle utopischer Gesellschaftsplanung treten. Sie steht im Gegensatz zur geschlossenen, stammesmäßigen Gesellschaft."
+    },
+    {
+      "titel": "Kritischer Rationalismus",
+      "beschreibung": "Alles Wissen ist fehlbar und vorläufig. Der einzige Weg des Erkenntnisfortschritts ist die systematische Kritik bestehender Theorien und der Versuch, sie zu widerlegen. Nicht die Begründung, sondern die Kritik steht im Zentrum der Rationalität."
+    },
+    {
+      "titel": "Die Drei-Welten-Theorie",
+      "beschreibung": "Popper unterscheidet drei ontologische Bereiche: Welt 1 (physische Objekte), Welt 2 (subjektive Bewusstseinszustände) und Welt 3 (objektive Gedankeninhalte wie Theorien, Argumente und Probleme). Welt 3 existiert autonom und wirkt kausal auf die anderen Welten zurück."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Logik der Forschung",
+      "jahr": "1934",
+      "beschreibung": "Das wissenschaftstheoretische Hauptwerk führt das Falsifizierungsprinzip als Abgrenzungskriterium der Wissenschaft ein und kritisiert den Induktivismus und den Positivismus des Wiener Kreises."
+    },
+    {
+      "titel": "Die offene Gesellschaft und ihre Feinde",
+      "jahr": "1945",
+      "beschreibung": "Eine fundamentale Kritik totalitärer Gesellschaftsphilosophien von Platon über Hegel bis Marx und eine Verteidigung der liberalen, demokratischen Gesellschaft."
+    },
+    {
+      "titel": "Das Elend des Historizismus",
+      "jahr": "1957",
+      "beschreibung": "Eine Kritik des Glaubens an historische Gesetze und unausweichliche historische Entwicklungen, die Popper als intellektuelle Grundlage des Totalitarismus identifiziert."
+    },
+    {
+      "titel": "Vermutungen und Widerlegungen",
+      "jahr": "1963",
+      "beschreibung": "Eine Sammlung von Aufsätzen, die den kritischen Rationalismus in verschiedenen Bereichen anwenden und das Wachstum wissenschaftlicher Erkenntnis als Prozess von Vermutungen und Widerlegungen beschreiben."
+    },
+    {
+      "titel": "Objektive Erkenntnis",
+      "jahr": "1972",
+      "beschreibung": "Popper entwickelt seine Theorie der drei Welten und seine evolutionäre Erkenntnistheorie, die Wissen als biologische Anpassung versteht."
+    },
+    {
+      "titel": "Das Ich und sein Gehirn",
+      "jahr": "1977",
+      "beschreibung": "In Zusammenarbeit mit dem Neurowissenschaftler John Eccles verfasst, verteidigt dieses Werk einen interaktionistischen Dualismus gegen materialistische Theorien des Geistes."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wir wissen nicht – wir können nur raten.",
+      "quelle": "Logik der Forschung",
+      "kontext": "Poppers fallibilistisches Grundbekenntnis – alles Wissen ist vorläufig und hypothetisch."
+    },
+    {
+      "text": "Wer es nicht fertigbringt, eine wissenschaftliche Theorie so zu formulieren, dass sie durch ein nur logisch mögliches empirisches Ereignis widerlegt werden könnte, stellt keine wissenschaftliche Behauptung auf.",
+      "quelle": "Logik der Forschung",
+      "kontext": "Die Kernformel des Falsifizierungsprinzips als Abgrenzungskriterium der Wissenschaft."
+    },
+    {
+      "text": "Die offene Gesellschaft hat unter ihren Feinden immer auch solche, die sich als ihre Verteidiger ausgeben.",
+      "quelle": "Die offene Gesellschaft und ihre Feinde",
+      "kontext": "Eine Warnung vor der Instrumentalisierung demokratischer Werte durch autoritäre Kräfte."
+    }
+  ],
+  "verwandtePhilosophen": ["ludwig-wittgenstein", "bertrand-russell", "thomas-kuhn", "paul-feyerabend", "juergen-habermas"],
+  "verwandteIsmen": ["kritischer-rationalismus", "liberalismus", "fallibilismus", "wissenschaftstheorie"]
+}

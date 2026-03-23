@@ -1,0 +1,51 @@
+{
+  "slug": "jeremy-bentham",
+  "name": "Jeremy Bentham",
+  "lebensdaten": "1748–1832",
+  "geboren": { "jahr": 1748, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "gestorben": { "jahr": 1832, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "epoche": "Aufklärung",
+  "region": "England",
+  "hauptstroemungen": ["Utilitarismus", "Rechtspositivismus", "Sozialreform"],
+  "kurzbeschreibung": "Jeremy Bentham war ein englischer Jurist, Philosoph und Sozialreformer, der den Utilitarismus als systematische Moraltheorie begründete. Sein Prinzip des 'größten Glücks der größten Zahl' wurde zum Fundament der modernen Wohlfahrtsökonomie und Sozialgesetzgebung. Er entwarf das Panoptikum – ein Modellgefängnis der totalen Überwachung –, das Michel Foucault zum Symbol moderner Disziplinargesellschaften machte.",
+  "biografie": {
+    "fruehesLeben": "Jeremy Bentham wurde am 15. Februar 1748 in London als Sohn eines wohlhabenden Rechtsanwalts geboren. Er war ein Wunderkind: Mit drei Jahren las er Geschichtsbücher, mit sieben spielte er Violine und studierte Latein, mit zwölf trat er ins Queen's College in Oxford ein. Mit sechzehn begann er das Jurastudium am Lincoln's Inn. Die Erfahrung des englischen Rechtssystems – das er als chaotisch, irrational und ungerecht empfand – trieb ihn zu dem Lebensprojekt, das Recht auf einer rationalen Grundlage zu reformieren.",
+    "schaffen": "Benthams 'Introduction to the Principles of Morals and Legislation' (1789) formulierte das Fundament des Utilitarismus: 'Die Natur hat die Menschheit unter die Herrschaft zweier souveräner Meister gestellt: Schmerz und Lust.' Das Prinzip der Nützlichkeit fordert, jede Handlung danach zu bewerten, ob sie das Glück (die Lust) vermehrt oder das Leid (den Schmerz) vermindert. Bentham entwickelte einen 'felicific calculus' (Glückskalkül), der die Freude nach sieben Kriterien bemisst: Intensität, Dauer, Gewissheit, Nähe, Folgenträchtigkeit, Reinheit und Ausmaß. In der Rechtstheorie war Bentham ein scharfer Kritiker des Naturrechts ('Unsinn auf Stelzen') und begründete den Rechtspositivismus: Rechte existieren nur als Produkte der Gesetzgebung, nicht als vorstaatliche 'natürliche Rechte'. Er entwarf das Panoptikum, ein Gefängnismodell, in dem alle Insassen von einem zentralen Punkt aus überwacht werden können, ohne zu wissen, ob sie gerade beobachtet werden. Bentham setzte sich unermüdlich für Reformen ein: Abschaffung der Todesstrafe, Entkriminalisierung der Homosexualität, Tierschutz, allgemeines Wahlrecht, Trennung von Kirche und Staat, Frauenrechte und Gefängnisreform.",
+    "spaetesLeben": "Bentham lebte als wohlhabender Privatgelehrter in seinem Haus in Westminster und empfing reformerisch gesinnte Besucher aus aller Welt. Er gründete die Westminster Review und war geistiger Vater des University College London (1826), der ersten englischen Universität, die Studenten unabhängig von ihrem Glaubensbekenntnis aufnahm. In seinen letzten Jahrzehnten schrieb er unablässig an einer umfassenden Kodifikation des Rechts, die nie vollendet wurde.",
+    "tod": "Jeremy Bentham starb am 6. Juni 1832 in London im Alter von 84 Jahren. Seinem Testament gemäß wurde sein Körper seziert, sein Skelett in seine Kleidung gesteckt und als 'Auto-Ikone' im University College London aufgestellt, wo es bis heute zu sehen ist. Sein mumifizierter Kopf wurde durch einen Wachskopf ersetzt, nachdem das Ergebnis der Mumifizierung als zu erschreckend empfunden wurde.",
+    "nachwirkung": "Benthams Utilitarismus wurde durch John Stuart Mill verfeinert und ist bis heute eine der einflussreichsten ethischen Theorien. Sein Rechtspositivismus beeinflusste John Austin und H.L.A. Hart. Sein Panoptikum wurde durch Michel Foucaults 'Überwachen und Strafen' (1975) zum Symbol moderner Überwachungs- und Disziplinargesellschaften. Seine Sozialreformen – vom Tierschutz über die Entkriminalisierung der Homosexualität bis zum allgemeinen Wahlrecht – waren ihrer Zeit weit voraus."
+  },
+  "kernideen": [
+    {
+      "titel": "Prinzip der Nützlichkeit (Utilitarismus)",
+      "beschreibung": "Die moralisch richtige Handlung ist diejenige, die das größte Glück der größten Zahl hervorbringt. Jede Handlung wird nach ihren Konsequenzen für das allgemeine Wohlbefinden bewertet."
+    },
+    {
+      "titel": "Hedonistischer Kalkül",
+      "beschreibung": "Freude und Leid lassen sich nach Intensität, Dauer, Gewissheit, Nähe, Folgenträchtigkeit, Reinheit und Ausmaß berechnen. Dieser Kalkül soll die Grundlage rationaler moralischer und politischer Entscheidungen bilden."
+    },
+    {
+      "titel": "Rechtspositivismus",
+      "beschreibung": "Rechte existieren nur als Produkte der Gesetzgebung, nicht als vorstaatliche 'natürliche Rechte'. Naturrechte sind 'Unsinn auf Stelzen'. Das Recht muss auf dem Prinzip der Nützlichkeit reformiert werden."
+    },
+    {
+      "titel": "Panoptikum",
+      "beschreibung": "Bentham entwarf ein Modellgefängnis, in dem alle Insassen von einem zentralen Turm aus beobachtet werden können. Die bloße Möglichkeit der Überwachung soll zur Disziplinierung führen."
+    }
+  ],
+  "werke": [
+    { "titel": "An Introduction to the Principles of Morals and Legislation", "jahr": "1789", "beschreibung": "Benthams Hauptwerk, das das Prinzip der Nützlichkeit formuliert und eine systematische utilitaristische Moral- und Gesetzgebungstheorie entwickelt." },
+    { "titel": "A Fragment on Government", "jahr": "1776", "beschreibung": "Eine scharfe Kritik an William Blackstones 'Commentaries on the Laws of England', die Benthams reformerischen Geist und seinen Angriff auf die Tradition zeigt." },
+    { "titel": "Panopticon; or, The Inspection-House", "jahr": "1791", "beschreibung": "Benthams Entwurf eines Gefängnismodells der totalen Überwachung, das zum Symbol der Disziplinargesellschaft wurde." },
+    { "titel": "The Rationale of Reward", "jahr": "1825", "beschreibung": "Eine Untersuchung über Belohnungssysteme und ihre Rolle in der Gesetzgebung und Erziehung." },
+    { "titel": "Constitutional Code", "jahr": "1830 (unvollendet)", "beschreibung": "Benthams Versuch einer umfassenden Verfassungskodifikation auf utilitaristischer Grundlage." }
+  ],
+  "zitate": [
+    { "text": "Das größte Glück der größten Zahl ist die Grundlage von Moral und Gesetzgebung.", "quelle": "Introduction to the Principles of Morals and Legislation", "kontext": "Die berühmte Formel des Utilitarismus, die Bentham zum Maßstab aller politischen Entscheidungen erhebt." },
+    { "text": "Die Natur hat die Menschheit unter die Herrschaft zweier souveräner Meister gestellt: Schmerz und Lust.", "quelle": "Introduction to the Principles of Morals and Legislation, Kapitel 1", "kontext": "Der Eröffnungssatz von Benthams Hauptwerk, der sein hedonistisches Fundament legt." },
+    { "text": "Natürliche Rechte sind einfacher Unsinn; natürliche und unveräußerliche Rechte sind rhetorischer Unsinn – Unsinn auf Stelzen.", "quelle": "Anarchical Fallacies", "kontext": "Benthams berühmte Kritik an der Naturrechtsidee und an der Französischen Erklärung der Menschenrechte." },
+    { "text": "Die Frage ist nicht: Können sie denken? oder: Können sie sprechen? sondern: Können sie leiden?", "quelle": "Introduction to the Principles of Morals and Legislation, Kapitel 17", "kontext": "Benthams bahnbrechendes Argument für den Tierschutz, das die Leidensfähigkeit zum moralischen Kriterium erhebt." }
+  ],
+  "verwandtePhilosophen": ["john-stuart-mill", "adam-smith", "david-hume", "john-locke", "thomas-hobbes"],
+  "verwandteIsmen": ["utilitarismus", "liberalismus", "rechtspositivismus"]
+}

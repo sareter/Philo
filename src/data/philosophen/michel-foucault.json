@@ -1,0 +1,109 @@
+{
+  "slug": "michel-foucault",
+  "name": "Michel Foucault",
+  "lebensdaten": "1926–1984",
+  "geboren": {
+    "jahr": 1926,
+    "ort": "Poitiers",
+    "land": "Frankreich",
+    "lat": 46.5802,
+    "lng": 0.3404
+  },
+  "gestorben": {
+    "jahr": 1984,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Poststrukturalismus", "Diskursanalyse", "Machttheorie"],
+  "kurzbeschreibung": "Michel Foucault war einer der einflussreichsten Denker des 20. Jahrhunderts, der mit seinen Analysen von Macht, Wissen und Subjektivität das gesamte Feld der Geistes- und Sozialwissenschaften transformierte. Seine Studien über Wahnsinn, Gefängnis, Sexualität und Diskurs zeigten, wie Macht nicht nur unterdrückt, sondern Wissen, Subjekte und Wahrheit hervorbringt.",
+  "biografie": {
+    "fruehesLeben": "Paul-Michel Foucault wurde am 15. Oktober 1926 in Poitiers als Sohn eines Chirurgen geboren. Er war ein brillanter, aber schwieriger Schüler, der unter Depressionen litt und einen Selbstmordversuch unternahm. Er studierte an der École Normale Supérieure in Paris (1946–1951), wo er unter dem Einfluss von Louis Althusser stand und sich mit Hegel, Marx, Heidegger und Nietzsche beschäftigte. Er erwarb Abschlüsse in Philosophie und Psychologie und arbeitete zeitweise in psychiatrischen Kliniken, was sein Interesse an Wahnsinn und Normalität weckte.",
+    "schaffen": "Foucaults erstes Hauptwerk 'Wahnsinn und Gesellschaft' (1961) zeigte, wie der Wahnsinn im Laufe der Geschichte als das 'Andere' der Vernunft konstruiert und ausgeschlossen wurde. 'Die Ordnung der Dinge' (1966) analysierte die historischen Bedingungen des Wissens (die 'Episteme') und endete mit der provokanten These vom 'Tod des Menschen' als epistemologische Figur. 'Überwachen und Strafen' (1975) untersuchte die Entstehung des modernen Gefängnisses als Paradigma einer Disziplinargesellschaft, die den Körper durch Überwachung und Normalisierung kontrolliert – das 'Panoptikum' Benthams wurde zum Symbol dieser Machtform. Die dreibändige 'Geschichte der Sexualität' (1976–1984) analysierte, wie Sexualität nicht unterdrückt, sondern durch Diskurse hervorgebracht wird. Im ersten Band 'Der Wille zum Wissen' entwickelte Foucault sein Konzept der Biomacht – einer Macht, die das Leben selbst verwaltet und reguliert. Die letzten beiden Bände, 'Der Gebrauch der Lüste' und 'Die Sorge um sich', wandten sich der antiken Ethik der Selbstsorge zu und eröffneten eine neue Phase in Foucaults Denken.",
+    "spaetesLeben": "Ab 1970 war Foucault Professor am Collège de France mit dem selbstgewählten Lehrstuhltitel 'Geschichte der Denksysteme'. Er engagierte sich politisch: Er gründete die Groupe d'information sur les prisons (GIP), unterstützte die iranische Revolution (was ihm später Kritik einbrachte) und setzte sich für die Rechte von Homosexuellen ein. Seine Vorlesungen am Collège de France, die posthum veröffentlicht wurden, enthalten einige seiner wichtigsten theoretischen Innovationen – von der Gouvernementalität bis zur Biopolitik.",
+    "tod": "Michel Foucault starb am 25. Juni 1984 in Paris an den Folgen von AIDS – er war einer der ersten prominenten Franzosen, die an dieser Krankheit starben. Er war 57 Jahre alt. Der vierte Band der 'Geschichte der Sexualität', 'Les Aveux de la chair', wurde erst 2018 posthum veröffentlicht.",
+    "nachwirkung": "Foucaults Einfluss auf die Geistes- und Sozialwissenschaften ist kaum zu überschätzen. Seine Konzepte von Diskurs, Macht/Wissen, Biopolitik, Gouvernementalität und Selbsttechnologien sind zu Grundbegriffen der modernen Theorie geworden. Er beeinflusste die Gender Studies, die Postkoloniale Theorie, die Queer Theory, die Kulturwissenschaften, die Soziologie, die Geschichtswissenschaft und die politische Theorie. Denker wie Judith Butler, Edward Said, Giorgio Agamben und viele andere stehen in seiner Tradition."
+  },
+  "kernideen": [
+    {
+      "titel": "Macht/Wissen",
+      "beschreibung": "Macht und Wissen sind untrennbar miteinander verbunden. Macht produziert Wissen, und Wissen ist immer von Machtverhältnissen durchzogen. Es gibt keine Wahrheit außerhalb der Macht – was als 'wahr' gilt, ist das Produkt von Macht-Wissen-Konstellationen."
+    },
+    {
+      "titel": "Diskurs und Diskursanalyse",
+      "beschreibung": "Diskurse sind historisch spezifische Systeme von Aussagen, die bestimmen, was gesagt, gedacht und gewusst werden kann. Sie produzieren die Gegenstände, von denen sie sprechen, und konstituieren Subjektpositionen."
+    },
+    {
+      "titel": "Biopolitik und Gouvernementalität",
+      "beschreibung": "Die moderne Macht richtet sich nicht mehr primär auf den einzelnen Körper (Disziplinarmacht), sondern auf die Bevölkerung als biologische Masse (Biopolitik). Gouvernementalität bezeichnet die Gesamtheit der Techniken, mit denen Bevölkerungen regiert werden."
+    },
+    {
+      "titel": "Das Panoptikum und die Disziplinargesellschaft",
+      "beschreibung": "Benthams Panoptikum – ein Gefängnisentwurf, in dem der Gefangene jederzeit beobachtet werden kann, ohne zu wissen, ob er beobachtet wird – ist das Modell der Disziplinargesellschaft. Durch Überwachung und Normalisierung werden die Individuen zu gehorsamen Subjekten geformt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Wahnsinn und Gesellschaft (Histoire de la folie)",
+      "jahr": "1961",
+      "beschreibung": "Foucaults erstes Hauptwerk analysiert die historische Konstruktion des Wahnsinns als das 'Andere' der Vernunft und die Entstehung der psychiatrischen Anstalt."
+    },
+    {
+      "titel": "Die Ordnung der Dinge (Les Mots et les choses)",
+      "jahr": "1966",
+      "beschreibung": "Eine Archäologie der Humanwissenschaften, die die historischen Episteme analysiert und mit der These vom 'Tod des Menschen' endet."
+    },
+    {
+      "titel": "Archäologie des Wissens (L'Archéologie du savoir)",
+      "jahr": "1969",
+      "beschreibung": "Foucaults methodologisches Hauptwerk entwickelt die Theorie des Diskurses und der diskursiven Formation."
+    },
+    {
+      "titel": "Überwachen und Strafen (Surveiller et punir)",
+      "jahr": "1975",
+      "beschreibung": "Die Geburt des Gefängnisses wird als Paradigma der Disziplinargesellschaft analysiert, die den Körper durch Überwachung, Normalisierung und Prüfung kontrolliert."
+    },
+    {
+      "titel": "Der Wille zum Wissen (Histoire de la sexualité 1)",
+      "jahr": "1976",
+      "beschreibung": "Der erste Band der 'Geschichte der Sexualität' widerlegt die Repressionshypothese und zeigt, wie Sexualität durch Diskurse hervorgebracht wird. Er führt das Konzept der Biomacht ein."
+    },
+    {
+      "titel": "Der Gebrauch der Lüste (Histoire de la sexualité 2)",
+      "jahr": "1984",
+      "beschreibung": "Der zweite Band analysiert die griechische Ethik der Selbstsorge und der Mäßigung in Bezug auf Sexualität, Diät und Haushalt."
+    },
+    {
+      "titel": "Die Sorge um sich (Histoire de la sexualité 3)",
+      "jahr": "1984",
+      "beschreibung": "Der dritte Band untersucht die Technologien des Selbst in der griechisch-römischen Antike als Formen einer Ästhetik der Existenz."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wo es Macht gibt, gibt es Widerstand.",
+      "quelle": "Der Wille zum Wissen",
+      "kontext": "Foucaults These, dass Macht immer auch Widerstand hervorbringt – Macht und Widerstand sind koextensiv."
+    },
+    {
+      "text": "Der Mensch ist eine Erfindung, deren junges Datum die Archäologie unseres Denkens offen zeigt. Und vielleicht auch das baldige Ende.",
+      "quelle": "Die Ordnung der Dinge",
+      "kontext": "Die berühmte These vom 'Tod des Menschen' als epistemologische Figur der Moderne."
+    },
+    {
+      "text": "Die Seele ist das Gefängnis des Körpers.",
+      "quelle": "Überwachen und Strafen",
+      "kontext": "Die Umkehrung der platonischen These: Der Körper wird durch die Seele – verstanden als Produkt der Disziplinarmacht – kontrolliert und unterworfen."
+    },
+    {
+      "text": "Es geht nicht um die Befreiung der Wahrheit von jedem Machtsystem, sondern darum, die Macht der Wahrheit von den Formen gesellschaftlicher, ökonomischer und kultureller Hegemonie abzulösen.",
+      "quelle": "Wahrheit und Macht, Interview",
+      "kontext": "Foucaults Verständnis von Kritik als Veränderung des Wahrheitsregimes."
+    }
+  ],
+  "verwandtePhilosophen": ["friedrich-nietzsche", "jacques-derrida", "gilles-deleuze", "jean-paul-sartre", "juergen-habermas"],
+  "verwandteIsmen": ["poststrukturalismus", "diskursanalyse", "postmoderne", "genealogie"]
+}

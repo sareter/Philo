@@ -1,0 +1,104 @@
+{
+  "slug": "hannah-arendt",
+  "name": "Hannah Arendt",
+  "lebensdaten": "1906–1975",
+  "geboren": {
+    "jahr": 1906,
+    "ort": "Linden",
+    "land": "Deutschland",
+    "lat": 52.3631,
+    "lng": 9.7133
+  },
+  "gestorben": {
+    "jahr": 1975,
+    "ort": "New York City",
+    "land": "USA",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Politische Philosophie", "Existenzphilosophie", "Republikanismus"],
+  "kurzbeschreibung": "Hannah Arendt war eine der bedeutendsten politischen Denkerinnen des 20. Jahrhunderts. Mit ihren Analysen des Totalitarismus, der menschlichen Tätigkeiten und der 'Banalität des Bösen' schuf sie ein Werk von bleibender Aktualität. Ihr Denken kreist um Freiheit, Pluralität und die Fähigkeit des Menschen, einen Neuanfang zu setzen.",
+  "biografie": {
+    "fruehesLeben": "Hannah Arendt wurde am 14. Oktober 1906 in Linden bei Hannover als Tochter einer jüdischen Familie geboren und wuchs in Königsberg auf. Schon als Gymnasiastin las sie Kant und griechische Philosophie. Sie studierte Philosophie in Marburg bei Martin Heidegger, mit dem sie eine leidenschaftliche Liebesbeziehung einging, dann in Freiburg bei Husserl und in Heidelberg bei Karl Jaspers, bei dem sie 1929 über 'Der Liebesbegriff bei Augustin' promovierte. Die Beziehung zu Heidegger – einem Meisterdenker, der sich dem Nationalsozialismus anschloss – wurde zum schmerzhaften Grundthema ihres Lebens.",
+    "schaffen": "Nach ihrer Flucht aus Deutschland 1933 (sie war wegen Forschungen über antisemitische Propaganda kurz verhaftet worden) lebte Arendt zunächst in Paris, wo sie für jüdische Organisationen arbeitete, und ab 1941 in New York. Ihr Hauptwerk 'Elemente und Ursprünge totaler Herrschaft' (1951) analysierte die Strukturen des Nationalsozialismus und des Stalinismus und wurde zum Standardwerk der Totalitarismusforschung. 'Vita activa oder Vom tätigen Leben' (1958) unterschied drei menschliche Grundtätigkeiten – Arbeiten, Herstellen und Handeln – und bestimmte das politische Handeln als die höchste menschliche Fähigkeit, einen Neuanfang zu setzen. Ihr Bericht über den Eichmann-Prozess in Jerusalem – 'Eichmann in Jerusalem' (1963) – prägte den Begriff der 'Banalität des Bösen': Eichmann war kein Monster, sondern ein erschreckend normaler Bürokrat, der nicht dachte. 'Über die Revolution' (1963) verglich die amerikanische und die französische Revolution und argumentierte für die amerikanische Tradition der Freiheit. Ihr posthum veröffentlichtes Spätwerk 'Vom Leben des Geistes' (1978) untersuchte die Fähigkeiten des Denkens, Wollens und Urteilens.",
+    "spaetesLeben": "Arendt lehrte an der University of Chicago, der New School for Social Research in New York und war die erste Frau, die eine volle Professur an der Princeton University erhielt. Sie war eine brillante Essayistin und öffentliche Intellektuelle, die sich in die Debatten ihrer Zeit einmischte – von der Bürgerrechtsbewegung über den Vietnamkrieg bis zur Watergate-Affäre. Die Kontroverse um ihren Eichmann-Bericht, in dem sie auch die Rolle der jüdischen Räte kritisierte, führte zum Bruch mit vielen Freunden und zur öffentlichen Anfeindung.",
+    "tod": "Hannah Arendt starb am 4. Dezember 1975 in New York City an einem Herzinfarkt. Sie wurde 69 Jahre alt. In ihrer Schreibmaschine fand man ein Blatt mit dem Titel 'Urteilen' – dem dritten, ungeschriebenen Teil von 'Vom Leben des Geistes'.",
+    "nachwirkung": "Arendts Werk erlebt seit den 1990er Jahren eine außerordentliche Renaissance. Ihre Analysen des Totalitarismus, ihre Theorie des politischen Handelns und ihr Konzept der 'Banalität des Bösen' sind in Zeiten des Populismus und der politischen Krise aktueller denn je. Sie beeinflusste die politische Philosophie (Habermas, Rancière), die Menschenrechtstheorie, die Holocaust-Forschung und die feministische Theorie. Ihre Briefe und Tagebücher wurden posthum veröffentlicht und erweiterten das Verständnis ihres Denkens."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Banalität des Bösen",
+      "beschreibung": "Das Böse ist nicht notwendig radikal oder dämonisch. Eichmann zeigte, dass monströse Verbrechen von erschreckend normalen Menschen begangen werden können, die nicht denken – die unfähig sind, die Perspektive anderer einzunehmen und die Konsequenzen ihres Handelns zu reflektieren."
+    },
+    {
+      "titel": "Handeln und Natalität",
+      "beschreibung": "Die menschliche Fähigkeit zu handeln – etwas Neues in die Welt zu setzen – ist an die Natalität, die Geburtlichkeit des Menschen, gebunden. Weil jeder Mensch ein Neuanfang ist, kann er auch in der Politik neue Anfänge setzen. Handeln ist die höchste menschliche Tätigkeit."
+    },
+    {
+      "titel": "Pluralität als Grundbedingung des Politischen",
+      "beschreibung": "Politik setzt die Pluralität der Menschen voraus – die Tatsache, dass nicht ein Mensch, sondern viele verschiedene Menschen die Erde bewohnen. Der öffentliche Raum, in dem Verschiedene einander begegnen und miteinander sprechen, ist der Ort der Freiheit."
+    },
+    {
+      "titel": "Totalitarismus",
+      "beschreibung": "Totalitäre Herrschaft ist ein radikal neues Phänomen, das alle bisherigen Kategorien politischer Theorie sprengt. Sie zielt auf die vollständige Beherrschung des Menschen und macht ihn 'überflüssig' – durch Terror, Ideologie und die Zerstörung aller sozialen Bindungen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Elemente und Ursprünge totaler Herrschaft",
+      "jahr": "1951",
+      "beschreibung": "Das monumentale Werk analysiert die Strukturen des Totalitarismus in drei Teilen: Antisemitismus, Imperialismus und totale Herrschaft."
+    },
+    {
+      "titel": "Vita activa oder Vom tätigen Leben",
+      "jahr": "1958",
+      "beschreibung": "Arendts philosophisches Hauptwerk unterscheidet drei menschliche Grundtätigkeiten – Arbeiten, Herstellen und Handeln – und bestimmt das politische Handeln als die höchste Form menschlicher Freiheit."
+    },
+    {
+      "titel": "Eichmann in Jerusalem",
+      "jahr": "1963",
+      "beschreibung": "Der kontroverse Bericht über den Eichmann-Prozess prägte den Begriff der 'Banalität des Bösen' und löste eine der heftigsten intellektuellen Debatten des 20. Jahrhunderts aus."
+    },
+    {
+      "titel": "Über die Revolution",
+      "jahr": "1963",
+      "beschreibung": "Eine vergleichende Analyse der amerikanischen und französischen Revolution, die für die amerikanische Tradition der politischen Freiheit als Selbstregierung argumentiert."
+    },
+    {
+      "titel": "Vom Leben des Geistes",
+      "jahr": "1978",
+      "beschreibung": "Arendts unvollendetes Spätwerk untersucht die drei Grundfähigkeiten des Geistes: Denken, Wollen und Urteilen."
+    },
+    {
+      "titel": "Zwischen Vergangenheit und Zukunft",
+      "jahr": "1961",
+      "beschreibung": "Eine Sammlung von Essays über Autorität, Freiheit, Erziehung und Kultur, die Arendts politische Philosophie in prägnanter Form darstellen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Kein Mensch hat das Recht zu gehorchen.",
+      "quelle": "Zugeschrieben (im Kontext des Eichmann-Prozesses)",
+      "kontext": "Arendts Zurückweisung des 'Befehlsnotstands' – jeder Mensch hat die Pflicht, selbst zu denken und zu urteilen."
+    },
+    {
+      "text": "Der Sinn von Politik ist Freiheit.",
+      "quelle": "Was ist Politik?",
+      "kontext": "Arendts Grundüberzeugung, dass Politik nicht auf Herrschaft, sondern auf Freiheit abzielt."
+    },
+    {
+      "text": "Das Böse ist nie 'radikal', es ist nur extrem, und es besitzt weder Tiefe noch eine dämonische Dimension.",
+      "quelle": "Eichmann in Jerusalem",
+      "kontext": "Die Einsicht in die Banalität des Bösen als Gedankenlosigkeit und Unfähigkeit zum Denken."
+    },
+    {
+      "text": "Ich bin nicht als Deutsche geboren. Ich bin als Jüdin geboren. Und wenn ich als Jude die Welt verlassen muß, dann muß ich eben gehen.",
+      "quelle": "Fernsehinterview mit Günter Gaus, 1964",
+      "kontext": "Arendts nüchterne Anerkennung ihrer Identität angesichts der Verfolgung."
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "juergen-habermas", "walter-benjamin", "herbert-marcuse", "simone-de-beauvoir"],
+  "verwandteIsmen": ["republikanismus", "politische-philosophie", "existenzialismus", "pluralismus"]
+}

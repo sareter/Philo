@@ -1,0 +1,99 @@
+{
+  "slug": "epikur",
+  "name": "Epikur",
+  "lebensdaten": "341–270 v. Chr.",
+  "geboren": {
+    "jahr": -341,
+    "ort": "Samos",
+    "land": "Griechenland",
+    "lat": 37.75,
+    "lng": 26.97
+  },
+  "gestorben": {
+    "jahr": -270,
+    "ort": "Athen",
+    "land": "Griechenland",
+    "lat": 37.97,
+    "lng": 23.73
+  },
+  "epoche": "Antike",
+  "region": "Griechenland",
+  "hauptstroemungen": ["Epikureismus", "Atomismus", "Hedonismus", "Ethik"],
+  "kurzbeschreibung": "Epikur gründete im 'Garten' zu Athen eine philosophische Schule, die das Glück des Einzelnen in den Mittelpunkt stellte. Seine auf dem Atomismus aufbauende Philosophie lehrte, dass Lust (hedone) das höchste Gut sei – wobei er wahre Lust als Freiheit von Schmerz und Seelenruhe verstand.",
+  "biografie": {
+    "fruehesLeben": "Epikur wurde 341 v. Chr. auf der Insel Samos geboren, wo sein Vater Neokles als athenischer Kolonist und Grundschullehrer lebte. Mit 14 Jahren begann er sich für Philosophie zu interessieren, als sein Lehrer ihm nicht erklären konnte, was Hesiods 'Chaos' sei. Er studierte bei dem Platoniker Pamphilos und später bei Nausiphanes, einem Schüler Demokrits, der ihn mit dem Atomismus vertraut machte. Mit 18 Jahren ging er nach Athen, um seinen Militärdienst zu leisten, und erlebte dort die turbulenten Jahre nach Alexanders Tod. Als die athenischen Kolonisten 322 v. Chr. von Samos vertrieben wurden, schloss er sich seiner Familie in Kolophon an. In den folgenden Jahren lehrte er in Mytilene und Lampsakos, wo er erste Anhänger gewann.",
+    "schaffen": "306 v. Chr. gründete Epikur in Athen seine Schule in einem Garten (Kepos) vor den Stadtmauern – daher der Name 'Gartenphilosophen'. Der Garten war revolutionär: Er stand allen offen – Männern, Frauen, Sklaven und Hetären –, was in der antiken Welt einzigartig war. Epikurs Philosophie ruht auf drei Säulen: Physik (Atomismus), Erkenntnistheorie (Kanonik) und Ethik. In der Physik übernahm er den Atomismus Demokrits, ergänzte ihn aber um die berühmte Clinamen-Lehre: Die Atome weichen spontan und unvorhersagbar minimal von ihrer geraden Bahn ab. Dieser Zufall bricht den strikten Determinismus Demokrits und ermöglicht den freien Willen. In der Ethik definierte Epikur Lust (hedone) als das höchste Gut, verstand darunter aber nicht ausschweifende Sinnesfreude, sondern Ataraxie (Seelenruhe) und Aponie (Schmerzfreiheit). Die höchste Lust sei die Abwesenheit von Schmerz und Unruhe. Er entwickelte ein vierfaches Heilmittel (Tetrapharmakos): Die Götter sind nicht zu fürchten; der Tod geht uns nichts an; das Gute ist leicht zu erlangen; das Schlimme ist leicht zu ertragen. Die Götter existieren zwar, kümmern sich aber nicht um die Menschen. Der Tod ist nichts, denn solange wir sind, ist der Tod nicht da, und wenn der Tod da ist, sind wir nicht mehr. Freundschaft galt ihm als eines der höchsten Güter. Er schrieb über 300 Rollen, von denen nur drei Briefe und einige Sentenzen vollständig erhalten sind.",
+    "spaetesLeben": "Epikur leitete seinen Garten über 35 Jahre lang und lebte dort ein bescheidenes, zurückgezogenes Leben im Kreis seiner Freunde. Die Gemeinschaft pflegte einen einfachen Lebensstil mit Brot, Wasser und gelegentlich etwas Käse. 'Schicke mir einen Topf Käse, damit ich einmal schwelgen kann, wenn ich will', schrieb er in einem Brief. Trotz schwerer gesundheitlicher Probleme – er litt an Nierensteinen und Harnverhalt – bewahrte er seine heitere Gelassenheit.",
+    "tod": "Epikur starb 270 v. Chr. in Athen an einem Nierensteinleiden nach 14 Tagen Qual. Sein letzter Brief an seinen Freund Idomeneus ist ein bewegendes Zeugnis gelebter Philosophie: 'Diesen wahrhaft glückseligen Tag meines Lebens schreibe ich euch und zugleich meinen letzten. Blasen- und Darmleiden haben mich befallen, die das Übermaß ihrer Intensität nicht steigern können. All dem aber steht die Freude des Herzens gegenüber bei der Erinnerung an unsere Gespräche.' Er wurde 71 Jahre alt.",
+    "nachwirkung": "Epikurs Schule bestand über 600 Jahre bis zum Ende der Antike. Lukrez verbreitete seine Lehre im römischen Reich durch das Lehrgedicht 'De rerum natura'. Im Mittelalter wurde der Epikureismus als gottlose Lehre verteufelt. In der Renaissance und Neuzeit erlebte er eine Wiedergeburt: Gassendi rehabilitierte den epikureischen Atomismus, die Aufklärer schätzten seine Religionskritik, und der Utilitarismus übernahm sein Lustprinzip in modifizierter Form. Marx schrieb seine Dissertation über die Differenz der demokritischen und epikureischen Naturphilosophie."
+  },
+  "kernideen": [
+    {
+      "titel": "Ataraxie (Seelenruhe)",
+      "beschreibung": "Das höchste Gut ist die Ataraxie – die Freiheit von Unruhe und Angst – sowie die Aponie – die Freiheit von körperlichem Schmerz. Wahre Lust ist nicht Sinnesrausch, sondern die Abwesenheit von Leid."
+    },
+    {
+      "titel": "Tetrapharmakos (Vierfaches Heilmittel)",
+      "beschreibung": "Die Götter sind nicht zu fürchten; der Tod geht uns nichts an; das Gute ist leicht zu erlangen; das Schlimme ist leicht zu ertragen. Diese vier Sätze befreien den Menschen von seinen fundamentalen Ängsten."
+    },
+    {
+      "titel": "Clinamen (Atomare Abweichung)",
+      "beschreibung": "Die Atome weichen spontan und minimal von ihrer geraden Bahn ab. Dieser Zufall bricht den Determinismus und ermöglicht den freien Willen des Menschen."
+    },
+    {
+      "titel": "Freundschaft als höchstes Gut",
+      "beschreibung": "Von allen Gütern, die die Weisheit für das glückliche Leben bereitstellt, ist die Freundschaft bei weitem das größte. Der Weise lebt nicht in Einsamkeit, sondern in einer Gemeinschaft von Freunden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Brief an Herodot",
+      "jahr": "ca. 300 v. Chr.",
+      "beschreibung": "Zusammenfassung der epikureischen Physik und Atomlehre. Einer der drei vollständig erhaltenen Briefe Epikurs."
+    },
+    {
+      "titel": "Brief an Pythokles",
+      "jahr": "ca. 300 v. Chr.",
+      "beschreibung": "Über die Himmelserscheinungen und die Naturphilosophie. Enthält naturalistische Erklärungen für Wetter, Gestirne und andere Naturphänomene."
+    },
+    {
+      "titel": "Brief an Menoikeus",
+      "jahr": "ca. 300 v. Chr.",
+      "beschreibung": "Zusammenfassung der epikureischen Ethik. Enthält die Lehre von der Lust als höchstem Gut, die Überwindung der Todesfurcht und das Tetrapharmakos."
+    },
+    {
+      "titel": "Kyriai Doxai (Hauptlehrsätze)",
+      "jahr": "ca. 300 v. Chr.",
+      "beschreibung": "Sammlung von 40 Lehrsätzen, die die Kernthesen der epikureischen Philosophie zusammenfassen. Vollständig erhalten bei Diogenes Laertios."
+    },
+    {
+      "titel": "Über die Natur (Peri Physeos)",
+      "jahr": "ca. 310–270 v. Chr.",
+      "beschreibung": "Epikurs Hauptwerk in 37 Büchern über die Naturphilosophie. Nur Fragmente sind erhalten, darunter bedeutende Papyrusfunde aus der Villa dei Papiri in Herculaneum."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Tod geht uns nichts an; denn solange wir sind, ist der Tod nicht da, und wenn der Tod da ist, sind wir nicht mehr.",
+      "quelle": "Brief an Menoikeus, bei Diogenes Laertios X, 125",
+      "kontext": "Epikurs berühmtestes Argument gegen die Todesfurcht."
+    },
+    {
+      "text": "Von allen Gütern, die die Weisheit für die Glückseligkeit des ganzen Lebens bereitstellt, ist die Freundschaft bei weitem das größte.",
+      "quelle": "Kyriai Doxai, 27",
+      "kontext": "Epikur über die zentrale Bedeutung der Freundschaft."
+    },
+    {
+      "text": "Nicht der Magen ist unersättlich, wie die Leute sagen, sondern die falsche Meinung über die Unersättlichkeit des Magens.",
+      "quelle": "Gnomologium Vaticanum, 59",
+      "kontext": "Epikur über den Unterschied zwischen natürlichen und eingebildeten Bedürfnissen."
+    },
+    {
+      "text": "Lebe im Verborgenen.",
+      "quelle": "Fragment, überliefert bei Plutarch",
+      "kontext": "Epikurs Rat, sich aus dem öffentlichen Leben zurückzuziehen und im Kreis der Freunde zu leben."
+    }
+  ],
+  "verwandtePhilosophen": ["demokrit", "lukrez", "zenon-von-kition", "seneca", "diogenes-von-sinope"],
+  "verwandteIsmen": ["epikureismus", "hedonismus", "atomismus", "materialismus"]
+}

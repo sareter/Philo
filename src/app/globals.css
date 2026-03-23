@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-parchment: #F5F0E8;
+  --color-parchment-light: #FBF8F3;
+  --color-parchment-card: #FFFDF9;
+  --color-ink: #3D2B1F;
+  --color-ink-light: #6B5344;
+  --color-bordeaux: #8B2500;
+  --color-bordeaux-light: #A63A1A;
+  --color-gold: #B8860B;
+  --color-gold-light: #D4A017;
+  --color-sidebar-bg: #2C1810;
+  --color-sidebar-text: #E8DCC8;
+  --color-border-warm: #D4C5B2;
+  --color-epoch-antike: #B8860B;
+  --color-epoch-mittelalter: #2D5016;
+  --color-epoch-renaissance: #8B4513;
+  --color-epoch-aufklaerung: #1E5B8A;
+  --color-epoch-19jh: #6B2D5B;
+  --color-epoch-20jh: #8B2500;
+  --color-epoch-gegenwart: #2C5F2D;
+  --font-serif: 'Crimson Text', 'Georgia', serif;
+  --font-display: 'Playfair Display', 'Georgia', serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-serif);
+  background-color: var(--color-parchment);
+  color: var(--color-ink);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+.font-ui {
+  font-family: var(--font-sans);
+}
+
+/* Decorative divider */
+.divider-ornament {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.divider-ornament::before,
+.divider-ornament::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--color-border-warm), transparent);
+}
+
+/* Quote styling */
+.quote-decorative {
+  position: relative;
+  padding-left: 2rem;
+}
+.quote-decorative::before {
+  content: '\201E';
+  position: absolute;
+  left: 0;
+  top: -0.5rem;
+  font-size: 3rem;
+  font-family: var(--font-display);
+  color: var(--color-bordeaux);
+  line-height: 1;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-parchment);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-warm);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ink-light);
+}

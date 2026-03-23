@@ -1,0 +1,94 @@
+{
+  "slug": "gottlob-frege",
+  "name": "Gottlob Frege",
+  "lebensdaten": "1848–1925",
+  "geboren": {
+    "jahr": 1848,
+    "ort": "Wismar",
+    "land": "Deutschland",
+    "lat": 53.8913,
+    "lng": 11.4649
+  },
+  "gestorben": {
+    "jahr": 1925,
+    "ort": "Bad Kleinen",
+    "land": "Deutschland",
+    "lat": 53.7667,
+    "lng": 11.4667
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Logik", "Analytische Philosophie", "Logizismus", "Sprachphilosophie"],
+  "kurzbeschreibung": "Gottlob Frege war der Begründer der modernen mathematischen Logik und gilt als einer der Väter der analytischen Philosophie. Seine 'Begriffsschrift' (1879) revolutionierte die Logik und seine Unterscheidung von Sinn und Bedeutung prägte die Sprachphilosophie des 20. Jahrhunderts nachhaltig. Obwohl zu Lebzeiten weitgehend verkannt, wird er heute als einer der bedeutendsten Logiker und Philosophen der Geschichte anerkannt.",
+  "biografie": {
+    "fruehesLeben": "Friedrich Ludwig Gottlob Frege wurde am 8. November 1848 in Wismar in Mecklenburg als Sohn des Schulleiters Alexander Frege und seiner Frau Auguste geboren. Er besuchte das Gymnasium in Wismar und studierte ab 1869 Mathematik, Physik, Chemie und Philosophie an der Universität Jena und ab 1871 in Göttingen, wo er 1873 mit einer Arbeit über die geometrische Darstellung imaginärer Gebilde in der Ebene promovierte. 1874 habilitierte er sich in Jena und lehrte dort sein gesamtes akademisches Leben als Privatdozent, außerordentlicher Professor (ab 1879) und ordentlicher Honorarprofessor (ab 1896).",
+    "schaffen": "Freges Hauptleistung war die Erfindung der modernen Prädikatenlogik in der 'Begriffsschrift' (1879), die den größten Fortschritt in der Logik seit Aristoteles darstellte. Er führte Quantoren, Variablen und eine formale Notation ein, die die Grundlage der gesamten modernen Logik bilden. In den 'Grundlagen der Arithmetik' (1884) entwickelte er eine logizistische Philosophie der Mathematik und definierte die natürlichen Zahlen rein logisch. Der bahnbrechende Aufsatz 'Über Sinn und Bedeutung' (1892) führte die fundamentale Unterscheidung ein: Der Sinn eines Ausdrucks ist die Art des Gegebenseins seines Bezugsgegenstands, die Bedeutung ist der Gegenstand selbst. So haben 'Morgenstern' und 'Abendstern' verschiedenen Sinn, aber dieselbe Bedeutung (den Planeten Venus). Die 'Grundgesetze der Arithmetik' (Band 1: 1893, Band 2: 1903) sollten sein logizistisches Programm formalisieren, wurden jedoch durch Russells Entdeckung eines Widerspruchs (Russells Paradoxon) 1902 erschüttert – ein Schlag, von dem sich Frege nie ganz erholte.",
+    "spaetesLeben": "Die Entdeckung des Widerspruchs in seinem System durch Russell war ein schwerer Schlag für Frege. Er versuchte Reparaturen, gab aber schließlich den Logizismus auf und wandte sich in seinen letzten Lebensjahren einer geometrisch fundierten Philosophie der Mathematik zu. Persönlich war Frege ein zurückgezogener, schwieriger Charakter, der an der mangelnden Anerkennung seiner Arbeit litt. In seinen späten Tagebüchern (1924) finden sich bedauerlicherweise antisemitische und nationalistische Äußerungen, die sein persönliches Bild trüben.",
+    "tod": "Gottlob Frege starb am 26. Juli 1925 in Bad Kleinen in Mecklenburg, weitgehend vergessen von der akademischen Welt. Erst durch die Vermittlung Russells, Wittgensteins und später Michael Dummetts wurde sein Werk in der zweiten Hälfte des 20. Jahrhunderts wiederentdeckt und als epochal anerkannt.",
+    "nachwirkung": "Frege gilt heute als Begründer der modernen Logik und als einer der wichtigsten Philosophen der Neuzeit. Seine Prädikatenlogik ist die Grundlage aller modernen Logik und Informatik. Seine Sprachphilosophie – insbesondere die Sinn-Bedeutung-Unterscheidung – beeinflusste Russell, Wittgenstein, Carnap, Quine und die gesamte analytische Tradition. Michael Dummett, Saul Kripke und viele andere haben sein Werk intensiv weitergeführt. Der analytischen Philosophie des 20. Jahrhunderts wäre ohne Frege die Grundlage entzogen."
+  },
+  "kernideen": [
+    {
+      "titel": "Sinn und Bedeutung",
+      "beschreibung": "Jeder sprachliche Ausdruck hat einen Sinn (die Art des Gegebenseins) und eine Bedeutung (den Bezugsgegenstand). Zwei Ausdrücke können denselben Gegenstand bezeichnen, aber verschiedenen Sinn haben – wie 'Morgenstern' und 'Abendstern' beide die Venus bezeichnen, aber auf verschiedene Weise."
+    },
+    {
+      "titel": "Logizismus",
+      "beschreibung": "Die These, dass die Arithmetik auf die Logik zurückgeführt werden kann. Zahlen sind für Frege logische Gegenstände, und arithmetische Wahrheiten sind analytische Wahrheiten. Dieses Programm scheiterte zwar an Russells Paradoxon, prägte aber die Grundlagendebatte der Mathematik entscheidend."
+    },
+    {
+      "titel": "Der Gedanke als objektive Entität",
+      "beschreibung": "Gedanken (im Sinne von Propositionen) sind für Frege objektive, zeitlose Entitäten, die unabhängig von individuellen Denkakten bestehen. Sie bilden ein 'drittes Reich' neben der physischen und der psychischen Welt."
+    },
+    {
+      "titel": "Kontextprinzip",
+      "beschreibung": "Nach einem Wort darf nur im Zusammenhang eines Satzes nach der Bedeutung gefragt werden, nicht in seiner Isolierung. Dieses Prinzip revolutionierte die Sprachphilosophie und wurde von Wittgenstein und Quine aufgegriffen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Begriffsschrift",
+      "jahr": "1879",
+      "beschreibung": "Das Gründungswerk der modernen mathematischen Logik führt die Prädikatenlogik mit Quantoren ein und stellt den größten Fortschritt in der Logik seit Aristoteles dar."
+    },
+    {
+      "titel": "Die Grundlagen der Arithmetik",
+      "jahr": "1884",
+      "beschreibung": "Eine philosophische Analyse des Zahlbegriffs, die die natürlichen Zahlen rein logisch definiert und das logizistische Programm begründet."
+    },
+    {
+      "titel": "Über Sinn und Bedeutung",
+      "jahr": "1892",
+      "beschreibung": "Der einflussreichste Aufsatz der Sprachphilosophie des 20. Jahrhunderts führt die fundamentale Unterscheidung zwischen dem Sinn und der Bedeutung sprachlicher Ausdrücke ein."
+    },
+    {
+      "titel": "Funktion und Begriff",
+      "jahr": "1891",
+      "beschreibung": "Der Aufsatz entwickelt Freges Analyse von Begriffen als Funktionen, die von Gegenständen zu Wahrheitswerten abbilden – eine zentrale semantische Innovation."
+    },
+    {
+      "titel": "Grundgesetze der Arithmetik",
+      "jahr": "1893/1903",
+      "beschreibung": "Das zweibändige Hauptwerk versucht, die Arithmetik formal aus logischen Grundgesetzen abzuleiten. Der zweite Band enthält den berühmten Nachtrag, in dem Frege Russells Entdeckung des Widerspruchs anerkennt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Nach der Bedeutung der Wörter muß im Satzzusammenhange, nicht in ihrer Vereinzelung gefragt werden.",
+      "quelle": "Die Grundlagen der Arithmetik",
+      "kontext": "Das berühmte Kontextprinzip, das die holistische Auffassung sprachlicher Bedeutung begründet."
+    },
+    {
+      "text": "Ein Eigenname (Wort, Zeichen, Zeichenverbindung, Ausdruck) drückt aus seinen Sinn, bedeutet oder bezeichnet seine Bedeutung.",
+      "quelle": "Über Sinn und Bedeutung",
+      "kontext": "Die prägnante Formulierung der Sinn-Bedeutung-Unterscheidung."
+    },
+    {
+      "text": "Durch seine Entdeckung ist jedenfalls die Grundlage, auf der ich die Arithmetik glaubte aufbauen zu können, ins Wanken geraten.",
+      "quelle": "Grundgesetze der Arithmetik, Band II, Nachwort",
+      "kontext": "Freges ehrliche Anerkennung der verheerenden Wirkung von Russells Paradoxon auf sein Lebenswerk."
+    }
+  ],
+  "verwandtePhilosophen": ["bertrand-russell", "ludwig-wittgenstein", "edmund-husserl", "willard-van-orman-quine", "charles-sanders-peirce"],
+  "verwandteIsmen": ["analytische-philosophie", "logizismus", "platonismus", "sprachphilosophie"]
+}

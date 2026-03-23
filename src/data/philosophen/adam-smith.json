@@ -1,0 +1,44 @@
+{
+  "slug": "adam-smith",
+  "name": "Adam Smith",
+  "lebensdaten": "1723–1790",
+  "geboren": { "jahr": 1723, "ort": "Kirkcaldy", "land": "Schottland", "lat": 56.1132, "lng": -3.1595 },
+  "gestorben": { "jahr": 1790, "ort": "Edinburgh", "land": "Schottland", "lat": 55.9533, "lng": -3.1883 },
+  "epoche": "Aufklärung",
+  "region": "Schottland",
+  "hauptstroemungen": ["Politische Ökonomie", "Moralphilosophie", "Liberalismus"],
+  "kurzbeschreibung": "Adam Smith war ein schottischer Moralphilosoph und Ökonom, dessen 'Wealth of Nations' die moderne Wirtschaftswissenschaft begründete. Seine Theorie der 'unsichtbaren Hand' des Marktes, seine Analyse der Arbeitsteilung und sein Plädoyer für den Freihandel machten ihn zum Vater der liberalen Ökonomie. Sein früheres Werk 'Theory of Moral Sentiments' zeigt ihn als subtilen Moralphilosophen, der Sympathie als Grundlage ethischen Urteilens betrachtete.",
+  "biografie": {
+    "fruehesLeben": "Adam Smith wurde am 16. Juni 1723 (nach dem julianischen Kalender am 5. Juni) in Kirkcaldy in Fife, Schottland, geboren. Sein Vater, ein Zollbeamter, starb wenige Monate vor seiner Geburt. Die Mutter, Margaret Douglas, die er zeitlebens innig liebte, zog ihn allein auf. Smith besuchte die Universität Glasgow, wo er bei dem Moralphilosophen Francis Hutcheson studierte, der ihn tief beeinflusste, und ging dann mit einem Stipendium an das Balliol College in Oxford, wo er sechs Jahre verbrachte und sich weitgehend autodidaktisch bildete. Er fand die Lehre in Oxford so mangelhaft, dass er die Zeit hauptsächlich zum Lesen nutzte.",
+    "schaffen": "1751 wurde Smith Professor für Logik und bald darauf für Moralphilosophie an der Universität Glasgow – der Lehrstuhl seines verehrten Lehrers Hutcheson. Aus seinen Vorlesungen entstand sein erstes Hauptwerk, 'The Theory of Moral Sentiments' (1759), das eine Moralphilosophie auf der Grundlage der Sympathie entwickelt: Wir beurteilen die moralische Qualität von Handlungen, indem wir uns in die Lage anderer versetzen und einen 'unparteiischen Zuschauer' in uns befragen. Das Werk machte Smith europaweit bekannt. 1764 gab er seine Professur auf, um als Reisebegleiter des jungen Duke of Buccleuch eine Grand Tour durch Frankreich und die Schweiz zu unternehmen. In Paris lernte er die Physiokraten Quesnay und Turgot kennen sowie Voltaire, d'Alembert und andere Aufklärer. Nach der Rückkehr arbeitete er zehn Jahre lang an seinem Hauptwerk 'An Inquiry into the Nature and Causes of the Wealth of Nations' (1776), das die politische Ökonomie als eigenständige Wissenschaft begründete. Das Werk analysiert die Ursachen des Wohlstands der Nationen und zeigt, dass Arbeitsteilung, freier Handel und die Verfolgung des Eigeninteresses – gelenkt von der 'unsichtbaren Hand' des Marktes – zu allgemeinem Wohlstand führen. Smith war kein dogmatischer Verfechter des laissez-faire; er sah durchaus Aufgaben für den Staat (Verteidigung, Rechtsprechung, öffentliche Infrastruktur, Bildung) und kritisierte die Macht der Monopole.",
+    "spaetesLeben": "Nach der Veröffentlichung des 'Wealth of Nations' wurde Smith 1778 zum Zollkommissar für Schottland ernannt – eine ironische Wendung, da sein Vater dasselbe Amt bekleidet hatte und er selbst für den Freihandel plädierte. Er lebte in Edinburgh mit seiner Mutter und seiner unverheirateten Cousine und führte ein zurückgezogenes, gelehrtes Leben. Er überarbeitete beide Hauptwerke in mehreren Auflagen und plante weitere Werke zur Rechtstheorie und zur Geschichte der Wissenschaften, die er jedoch nie vollendete.",
+    "tod": "Adam Smith starb am 17. Juli 1790 in Edinburgh. Kurz vor seinem Tod ließ er den größten Teil seiner unveröffentlichten Manuskripte verbrennen – ein unwiederbringlicher Verlust für die Geistesgeschichte. Er wurde auf dem Canongate Kirkyard in Edinburgh beigesetzt.",
+    "nachwirkung": "Adam Smith gilt als Begründer der modernen Wirtschaftswissenschaft. Der 'Wealth of Nations' beeinflusste die Wirtschaftspolitik der folgenden Jahrhunderte: den Freihandel, die Industrialisierung und den Liberalismus. Marx anerkannte Smith als seinen bedeutendsten Vorläufer. Die 'Chicago School' um Milton Friedman berief sich auf Smith. In jüngerer Zeit wird sein Frühwerk, die 'Theory of Moral Sentiments', wiederentdeckt und zeigt Smith als subtilen Moralphilosophen, der die Grenzen des Eigeninteresses durchaus kannte. Sein Porträt ziert die britische 20-Pfund-Note."
+  },
+  "kernideen": [
+    {
+      "titel": "Unsichtbare Hand",
+      "beschreibung": "Indem die Individuen ihr Eigeninteresse verfolgen, fördern sie unbeabsichtigt das Gemeinwohl – als ob eine 'unsichtbare Hand' sie lenkte. Der freie Markt koordiniert die individuellen Handlungen zu einem für alle vorteilhaften Ergebnis."
+    },
+    {
+      "titel": "Arbeitsteilung",
+      "beschreibung": "Die Spezialisierung der Arbeit ist die Hauptquelle des Wohlstands. Smiths berühmtes Beispiel der Stecknadelfabrik zeigt, wie Arbeitsteilung die Produktivität um ein Vielfaches steigert."
+    },
+    {
+      "titel": "Sympathie als moralisches Fundament",
+      "beschreibung": "Moralische Urteile beruhen auf unserer Fähigkeit zur Sympathie – dem Vermögen, uns in die Lage anderer zu versetzen und ihre Gefühle nachzuempfinden. Der 'unparteiische Zuschauer' in uns ist der innere Richter über Recht und Unrecht."
+    }
+  ],
+  "werke": [
+    { "titel": "An Inquiry into the Nature and Causes of the Wealth of Nations", "jahr": "1776", "beschreibung": "Das Gründungswerk der modernen Wirtschaftswissenschaft, das Arbeitsteilung, Freihandel und die Theorie der unsichtbaren Hand entwickelt." },
+    { "titel": "The Theory of Moral Sentiments", "jahr": "1759", "beschreibung": "Smiths moralphilosophisches Hauptwerk, das eine Ethik der Sympathie entwickelt und den 'unparteiischen Zuschauer' als moralische Instanz einführt." },
+    { "titel": "Lectures on Jurisprudence", "jahr": "1762–1763 (posthum)", "beschreibung": "Vorlesungsmitschriften, die Smiths Rechtstheorie und seine Überlegungen zur Geschichte der Zivilisation dokumentieren." }
+  ],
+  "zitate": [
+    { "text": "Nicht vom Wohlwollen des Metzgers, Brauers und Bäckers erwarten wir das, was wir zum Essen brauchen, sondern davon, dass sie ihre eigenen Interessen wahrnehmen.", "quelle": "Wealth of Nations, Buch I, Kapitel 2", "kontext": "Smiths berühmteste Passage, die das Eigeninteresse als Motor des wirtschaftlichen Wohlstands beschreibt." },
+    { "text": "Er wird von einer unsichtbaren Hand geleitet, einen Zweck zu fördern, der keineswegs in seiner Absicht lag.", "quelle": "Wealth of Nations, Buch IV, Kapitel 2", "kontext": "Die berühmte Metapher der 'unsichtbaren Hand', die beschreibt, wie individuelles Gewinnstreben unbeabsichtigt zum Gemeinwohl beiträgt." },
+    { "text": "Kein Gesellschaftszustand kann blühend und glücklich sein, in dem der weitaus größte Teil seiner Mitglieder arm und elend ist.", "quelle": "Wealth of Nations, Buch I, Kapitel 8", "kontext": "Smith zeigt sich als sozialer Denker, der den Wohlstand aller Bevölkerungsschichten als Maßstab für eine gute Gesellschaft ansieht." }
+  ],
+  "verwandtePhilosophen": ["david-hume", "john-locke", "jeremy-bentham", "john-stuart-mill", "karl-marx"],
+  "verwandteIsmen": ["liberalismus", "kapitalismus", "utilitarismus"]
+}

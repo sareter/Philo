@@ -1,0 +1,94 @@
+{
+  "slug": "demokrit",
+  "name": "Demokrit",
+  "lebensdaten": "460–370 v. Chr.",
+  "geboren": {
+    "jahr": -460,
+    "ort": "Abdera",
+    "land": "Griechenland (Thrakien)",
+    "lat": 40.95,
+    "lng": 24.98
+  },
+  "gestorben": {
+    "jahr": -370,
+    "ort": "Abdera",
+    "land": "Griechenland (Thrakien)",
+    "lat": 40.95,
+    "lng": 24.98
+  },
+  "epoche": "Antike",
+  "region": "Thrakien",
+  "hauptstroemungen": ["Vorsokratik", "Atomismus", "Materialismus"],
+  "kurzbeschreibung": "Demokrit war zusammen mit seinem Lehrer Leukipp der Begründer des Atomismus. Er erklärte die gesamte Wirklichkeit aus unteilbaren Atomen und dem leeren Raum und gilt als einer der vielseitigsten Denker der Antike.",
+  "biografie": {
+    "fruehesLeben": "Demokrit wurde um 460 v. Chr. in Abdera in Thrakien geboren, einer griechischen Kolonie, die zwar wohlhabend war, aber in Athen als Provinzstadt galt. Sein Vater Hegesistratos (oder Damasippos) war so wohlhabend, dass er den Perserkönig Xerxes auf seinem Durchzug durch Thrakien bewirten konnte. Demokrit verwendete sein erhebliches Erbe für ausgedehnte Studienreisen, die ihn nach Ägypten, Babylon, Persien und möglicherweise nach Indien und Äthiopien führten. Er war Schüler des Leukipp, dem Begründer der Atomlehre, und soll auch die Lehren der Pythagoreer, des Anaxagoras und der ägyptischen Priester studiert haben. In Abdera war er als 'der Lachende' bekannt, da er die menschliche Torheit mit heiterer Gelassenheit betrachtete – im Gegensatz zum 'weinenden' Heraklit.",
+    "schaffen": "Demokrit war ein Universalgelehrter, der über Physik, Mathematik, Ethik, Musik, Dichtung, Medizin, Botanik und vieles mehr schrieb – insgesamt werden ihm über 70 Werke zugeschrieben. Sein philosophisches Hauptwerk war die systematische Ausarbeitung der Atomlehre: Alles, was existiert, besteht aus unteilbaren Teilchen (atoma = das Unteilbare) und dem leeren Raum (kenon). Die Atome sind ewig, unveränderlich und unendlich an Zahl. Sie unterscheiden sich nur in Form, Größe, Lage und Anordnung – wie die Buchstaben des Alphabets, die durch verschiedene Kombinationen verschiedene Wörter bilden. Alle Veränderung ist Bewegung, Zusammenballung und Trennung von Atomen. Die Seele besteht aus besonders feinen, kugelförmigen Feueratomen. Die Sinneswahrnehmung entsteht durch Eidola (Bildchen) – feine Atomhüllen, die sich von den Gegenständen ablösen und in unsere Sinnesorgane eindringen. Allerdings vermitteln die Sinne nur ein konventionelles, kein wahres Bild der Wirklichkeit: 'Nur dem Anschein nach gibt es Farbe, Süßes, Bitteres; in Wahrheit gibt es nur Atome und Leeres.' In der Ethik vertrat Demokrit die Euthymia (Wohlgemutheit, Seelenruhe) als höchstes Gut – ein Vorläufer der epikureischen Ataraxie. Er empfahl Mäßigung, heitere Gelassenheit und die Vermeidung von Übermaß.",
+    "spaetesLeben": "Demokrit kehrte nach seinen Reisen nach Abdera zurück und widmete sich dort der Forschung und dem Schreiben. Er soll über 90 Jahre alt geworden sein und bis ins höchste Alter geistig rege geblieben sein. Es heißt, er habe sein gesamtes Vermögen auf den Reisen aufgebraucht, was in Abdera eigentlich unter Strafe stand, er sei aber freigesprochen worden, nachdem er dem Gericht aus seinem Werk 'Großer Weltbau' (Megas Diakosmos) vorgelesen hatte.",
+    "tod": "Demokrit starb um 370 v. Chr. in Abdera, angeblich im Alter von über 90, vielleicht sogar 109 Jahren. Verschiedene Anekdoten berichten über seinen friedvollen Tod: Er soll beschlossen haben, langsam zu sterben, indem er die Nahrung reduzierte, und den Todeszeitpunkt selbst bestimmt haben. Seine Mitbürger ehrten ihn mit einem öffentlichen Begräbnis.",
+    "nachwirkung": "Demokrits Atomismus ist eine der bedeutendsten intellektuellen Leistungen der Antike. Obwohl seine Werke fast vollständig verloren gingen – möglicherweise weil Platon sie angeblich verbrennen lassen wollte –, lebte seine Lehre durch Epikur und den römischen Dichter Lukrez fort. In der Neuzeit wurde der Atomismus durch Gassendi und Boyle wiederbelebt und zur Grundlage der modernen Chemie und Physik. Die antike Atomtheorie stimmt in erstaunlicher Weise mit der modernen Physik überein: Die Materie besteht tatsächlich aus diskreten Teilchen, und Eigenschaften wie Farbe und Geschmack sind tatsächlich keine Eigenschaften der Atome selbst. Karl Marx widmete seine Dissertation dem Vergleich der Naturphilosophie Demokrits und Epikurs."
+  },
+  "kernideen": [
+    {
+      "titel": "Atomismus",
+      "beschreibung": "Alles Seiende besteht aus unteilbaren, ewigen Atomen und dem leeren Raum. Die Atome unterscheiden sich in Form, Größe, Lage und Anordnung. Alle Veränderung ist Bewegung, Zusammenballung und Trennung von Atomen."
+    },
+    {
+      "titel": "Konventionalität der Sinnesqualitäten",
+      "beschreibung": "Farbe, Geschmack, Wärme und andere Sinnesqualitäten existieren nur 'dem Anschein nach' (nomō). In Wahrheit gibt es nur Atome und leeren Raum. Die Sinne vermitteln ein konventionelles, kein wahres Bild der Wirklichkeit."
+    },
+    {
+      "titel": "Euthymia (Wohlgemutheit)",
+      "beschreibung": "Das höchste Gut ist die Euthymia – eine heitere Gelassenheit und Seelenruhe, die durch Mäßigung, Vernunft und die richtige Einschätzung der Dinge erreicht wird. Man soll nicht mehr begehren, als man erreichen kann."
+    },
+    {
+      "titel": "Mechanistisches Weltbild",
+      "beschreibung": "Die Welt wird vollständig durch die Bewegung der Atome im leeren Raum erklärt. Es gibt keine übernatürlichen Ursachen – alles geschieht mit Notwendigkeit durch natürliche Gesetze."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Großer Weltbau (Megas Diakosmos)",
+      "jahr": "ca. 420 v. Chr.",
+      "beschreibung": "Hauptwerk über die Kosmologie und Atomlehre. Beschreibt die Entstehung der Welt aus der Bewegung der Atome im leeren Raum. Nur Fragmente erhalten."
+    },
+    {
+      "titel": "Kleiner Weltbau (Mikros Diakosmos)",
+      "jahr": "ca. 420 v. Chr.",
+      "beschreibung": "Ergänzung zum Großen Weltbau mit Fokus auf den Menschen, seine Entstehung und seine Kulturentwicklung."
+    },
+    {
+      "titel": "Über die Formen (Peri Ideon)",
+      "jahr": "ca. 420 v. Chr.",
+      "beschreibung": "Atomistische Erkenntnistheorie. Erklärung der Sinneswahrnehmung durch Eidola (Atomhüllen, die sich von den Gegenständen ablösen)."
+    },
+    {
+      "titel": "Über die Heiterkeit des Gemüts (Peri Euthymies)",
+      "jahr": "ca. 410 v. Chr.",
+      "beschreibung": "Ethisches Hauptwerk über die Euthymia (Wohlgemutheit) als höchstes Lebensziel. Fragmente bei Stobäus erhalten."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Nur dem Anschein nach gibt es Farbe, nur dem Anschein nach Süßes, nur dem Anschein nach Bitteres; in Wahrheit gibt es nur Atome und Leeres.",
+      "quelle": "Fragment DK 68 B 125",
+      "kontext": "Demokrits berühmteste Aussage über den Unterschied zwischen Sinneswahrnehmung und wahrer Wirklichkeit."
+    },
+    {
+      "text": "Alles, was im Weltall existiert, ist die Frucht von Zufall und Notwendigkeit.",
+      "quelle": "Überliefert bei Diogenes Laertios",
+      "kontext": "Demokrits Auffassung von der mechanistischen Bestimmtheit des Kosmos."
+    },
+    {
+      "text": "Der Mensch ist ein kleines Weltall.",
+      "quelle": "Fragment DK 68 B 34",
+      "kontext": "Die Idee des Mikrokosmos: Der Mensch spiegelt die Struktur des Kosmos wider."
+    },
+    {
+      "text": "Mut steht am Anfang des Handelns, das Glück aber am Ende.",
+      "quelle": "Fragment DK 68 B 269",
+      "kontext": "Eine der ethischen Sentenzen Demokrits über das Verhältnis von Handlung und Erfolg."
+    }
+  ],
+  "verwandtePhilosophen": ["epikur", "lukrez", "parmenides", "anaxagoras", "protagoras"],
+  "verwandteIsmen": ["atomismus", "materialismus", "determinismus", "naturalismus"]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "karl-marx",
+  "name": "Karl Marx",
+  "lebensdaten": "1818–1883",
+  "geboren": { "jahr": 1818, "ort": "Trier", "land": "Preußen", "lat": 49.7490, "lng": 6.6371 },
+  "gestorben": { "jahr": 1883, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "epoche": "19. Jahrhundert",
+  "region": "Deutschland / England",
+  "hauptstroemungen": ["Materialismus", "Sozialismus", "Kommunismus", "Politische Ökonomie"],
+  "kurzbeschreibung": "Karl Marx war ein deutscher Philosoph, Ökonom, Soziologe und Revolutionär, dessen Werk die Geschichte des 19. und 20. Jahrhunderts wie kaum ein anderes geprägt hat. Seine Analyse des Kapitalismus, seine Theorie des historischen Materialismus und sein Aufruf zur proletarischen Revolution veränderten die Welt. 'Das Kapital' gilt als eines der einflussreichsten Bücher der Geschichte.",
+  "biografie": {
+    "fruehesLeben": "Karl Heinrich Marx wurde am 5. Mai 1818 in Trier als Sohn des jüdischen Rechtsanwalts Heinrich Marx geboren, der kurz vor Karls Geburt zum Protestantismus konvertiert war. Er studierte ab 1835 in Bonn und ab 1836 in Berlin Rechtswissenschaften und Philosophie und schloss sich dem Kreis der Junghegelianer an, die Hegels Philosophie in radikaler, religionskritischer Richtung weiterentwickelten. 1841 promovierte er in Absentia an der Universität Jena mit einer Dissertation über die Differenz der demokritischen und epikureischen Naturphilosophie. Eine akademische Karriere blieb ihm wegen seiner radikalen Ansichten verwehrt, und er wandte sich dem Journalismus zu. Als Redakteur der liberalen 'Rheinischen Zeitung' in Köln (1842–1843) wurde er mit den realen sozialen und wirtschaftlichen Problemen konfrontiert, die ihn zur Auseinandersetzung mit der politischen Ökonomie trieben.",
+    "schaffen": "Nach dem Verbot der 'Rheinischen Zeitung' ging Marx 1843 mit seiner Frau Jenny von Westphalen ins Pariser Exil, wo er Friedrich Engels kennenlernte – den Beginn einer der fruchtbarsten intellektuellen Partnerschaften der Geschichte. In den 'Ökonomisch-philosophischen Manuskripten' (1844, erst 1932 veröffentlicht) entwickelte er den Begriff der Entfremdung: Im kapitalistischen Produktionsprozess ist der Arbeiter von seiner Arbeit, von ihrem Produkt, von seinen Mitmenschen und von seinem eigenen Wesen entfremdet. 1845 verfasste er die 'Thesen über Feuerbach' mit dem berühmten elften Satz: 'Die Philosophen haben die Welt nur verschieden interpretiert, es kömmt drauf an, sie zu verändern.' Zusammen mit Engels schrieb er 'Die deutsche Ideologie' (1845–1846), die den historischen Materialismus begründet, und das 'Manifest der Kommunistischen Partei' (1848), das mit den Worten beginnt: 'Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.' Nach dem Scheitern der Revolution von 1848 ging Marx ins Londoner Exil, wo er den Rest seines Lebens verbrachte. In jahrzehntelanger Arbeit im Lesesaal des Britischen Museums verfasste er sein Hauptwerk 'Das Kapital. Kritik der politischen Ökonomie' (Band I, 1867), eine monumentale Analyse des kapitalistischen Wirtschaftssystems. Marx analysierte die Mechanismen der Mehrwertproduktion, der Akkumulation, der Konzentration des Kapitals und der zyklischen Krisen und sagte den unvermeidlichen Zusammenbruch des Kapitalismus voraus.",
+    "spaetesLeben": "Marx lebte in London unter schwierigen materiellen Bedingungen. Ohne das finanzielle Engagement seines Freundes Engels, der als Fabrikant in Manchester arbeitete, hätte er nicht überlebt. Mehrere seiner Kinder starben an Krankheiten, die durch die ärmlichen Lebensverhältnisse verschlimmert wurden. Er war aktiv in der internationalen Arbeiterbewegung, war Mitbegründer und führender Kopf der Internationalen Arbeiterassoziation (Erste Internationale, 1864) und kommentierte die Pariser Kommune von 1871 ('Der Bürgerkrieg in Frankreich'). Die Bände II und III des 'Kapital' blieben unvollendet; Engels gab sie nach Marx' Tod heraus.",
+    "tod": "Karl Marx starb am 14. März 1883 in London im Alter von 64 Jahren. Er litt seit Jahren unter Furunkulose, Leberproblemen und einer Rippenfellentzündung. Engels hielt die Grabrede auf dem Highgate Cemetery: 'Sein Name wird durch die Jahrhunderte fortleben und so auch sein Werk.' Marx wurde auf dem Highgate Cemetery im Nordosten Londons beigesetzt, wo 1954 ein monumentales Grabmal errichtet wurde.",
+    "nachwirkung": "Marx' Einfluss auf die Weltgeschichte ist beispiellos unter Philosophen. Seine Ideen inspirierten die russische Revolution 1917, die chinesische Revolution, die Befreiungsbewegungen der Dritten Welt und unzählige soziale Bewegungen. Die Sowjetunion, China und andere Staaten beriefen sich auf sein Erbe – oft in Formen, die Marx selbst entsetzt hätten. Unabhängig von der politischen Vereinnahmung bleibt seine Analyse des Kapitalismus von bleibender wissenschaftlicher Bedeutung. In der akademischen Welt beeinflusste er die Soziologie (Weber, Bourdieu), die Geschichtswissenschaft (Hobsbawm), die Literaturwissenschaft und die Kulturtheorie (Gramsci, Althusser, Jameson). Nach der Finanzkrise 2008 erlebte sein Werk ein globales Revival."
+  },
+  "kernideen": [
+    {
+      "titel": "Historischer Materialismus",
+      "beschreibung": "Die Geschichte wird durch die materiellen Produktionsverhältnisse bestimmt, nicht durch Ideen. Die ökonomische Basis (Produktivkräfte und Produktionsverhältnisse) bestimmt den 'Überbau' (Recht, Politik, Religion, Philosophie)."
+    },
+    {
+      "titel": "Klassenkampf",
+      "beschreibung": "'Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.' Der Widerspruch zwischen den besitzenden und den besitzlosen Klassen treibt die historische Entwicklung voran – im Kapitalismus der Kampf zwischen Bourgeoisie und Proletariat."
+    },
+    {
+      "titel": "Mehrwerttheorie",
+      "beschreibung": "Der Arbeiter produziert mehr Wert, als er in Form von Lohn erhält. Die Differenz – der Mehrwert – wird vom Kapitalisten angeeignet. Dies ist der Mechanismus der kapitalistischen Ausbeutung."
+    },
+    {
+      "titel": "Entfremdung",
+      "beschreibung": "Im Kapitalismus ist der Arbeiter von seiner Arbeit, von ihrem Produkt, von seinen Mitmenschen und von seinem eigenen Wesen entfremdet. Die Arbeit, die eigentlich Selbstverwirklichung sein sollte, wird zur bloßen Existenzsicherung degradiert."
+    }
+  ],
+  "werke": [
+    { "titel": "Das Kapital. Kritik der politischen Ökonomie", "jahr": "1867 (Bd. I)", "beschreibung": "Marx' Hauptwerk, eine monumentale Analyse des kapitalistischen Wirtschaftssystems, die die Mechanismen der Mehrwertproduktion, der Akkumulation und der Krisen des Kapitalismus untersucht." },
+    { "titel": "Manifest der Kommunistischen Partei", "jahr": "1848", "beschreibung": "Das mit Engels verfasste Manifest der kommunistischen Bewegung, das die Geschichte als Klassenkampf deutet und zur proletarischen Revolution aufruft." },
+    { "titel": "Ökonomisch-philosophische Manuskripte", "jahr": "1844 (posthum 1932)", "beschreibung": "Marx' frühe Schriften über Entfremdung, die den humanistischen Kern seines Denkens offenbaren." },
+    { "titel": "Die deutsche Ideologie", "jahr": "1845–1846 (posthum)", "beschreibung": "Das mit Engels verfasste Werk, das den historischen Materialismus begründet und die Abhängigkeit des Bewusstseins vom gesellschaftlichen Sein formuliert." },
+    { "titel": "Zur Kritik der politischen Ökonomie", "jahr": "1859", "beschreibung": "Eine Vorarbeit zum 'Kapital', die die berühmte Passage über Basis und Überbau enthält." },
+    { "titel": "Der achtzehnte Brumaire des Louis Bonaparte", "jahr": "1852", "beschreibung": "Eine brillante politische Analyse des Staatsstreichs von Louis-Napoléon Bonaparte, die den berühmten Satz enthält: 'Die Geschichte wiederholt sich – das erste Mal als Tragödie, das zweite Mal als Farce.'" },
+    { "titel": "Thesen über Feuerbach", "jahr": "1845 (posthum 1888)", "beschreibung": "Elf knappe Thesen, die Marx' Bruch mit dem Materialismus Feuerbachs markieren und die berühmte elfte These enthalten." }
+  ],
+  "zitate": [
+    { "text": "Die Philosophen haben die Welt nur verschieden interpretiert, es kömmt drauf an, sie zu verändern.", "quelle": "Thesen über Feuerbach, These 11 (1845)", "kontext": "Marx' berühmtester Satz, der den Übergang von der Philosophie zur revolutionären Praxis markiert." },
+    { "text": "Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.", "quelle": "Manifest der Kommunistischen Partei (1848)", "kontext": "Der berühmte Eröffnungssatz des Kommunistischen Manifests." },
+    { "text": "Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.", "quelle": "Manifest der Kommunistischen Partei (1848)", "kontext": "Marx' geschichtsphilosophische Grundthese, die alle historische Entwicklung auf den Konflikt zwischen gesellschaftlichen Klassen zurückführt." },
+    { "text": "Die Religion ist der Seufzer der bedrängten Kreatur, das Gemüt einer herzlosen Welt, wie sie der Geist geistloser Zustände ist. Sie ist das Opium des Volkes.", "quelle": "Zur Kritik der Hegelschen Rechtsphilosophie. Einleitung (1843)", "kontext": "Marx' berühmte Religionskritik, die Religion als Ausdruck und zugleich Betäubungsmittel menschlichen Leidens versteht." }
+  ],
+  "verwandtePhilosophen": ["georg-wilhelm-friedrich-hegel", "ludwig-feuerbach", "friedrich-engels", "adam-smith", "jeremy-bentham"],
+  "verwandteIsmen": ["marxismus", "kommunismus", "sozialismus", "materialismus"]
+}

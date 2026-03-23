@@ -1,0 +1,104 @@
+{
+  "slug": "ludwig-wittgenstein",
+  "name": "Ludwig Wittgenstein",
+  "lebensdaten": "1889–1951",
+  "geboren": {
+    "jahr": 1889,
+    "ort": "Wien",
+    "land": "Österreich-Ungarn",
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  "gestorben": {
+    "jahr": 1951,
+    "ort": "Cambridge",
+    "land": "Vereinigtes Königreich",
+    "lat": 52.2053,
+    "lng": 0.1218
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Analytische Philosophie", "Sprachphilosophie", "Logischer Positivismus"],
+  "kurzbeschreibung": "Ludwig Wittgenstein gilt als einer der bedeutendsten Philosophen des 20. Jahrhunderts, der die Philosophie gleich zweimal revolutionierte. Mit dem 'Tractatus logico-philosophicus' begründete er die Bildtheorie der Sprache, mit den 'Philosophischen Untersuchungen' die Sprachspieltheorie. Beide Werke veränderten die analytische Philosophie und die Sprachphilosophie grundlegend.",
+  "biografie": {
+    "fruehesLeben": "Ludwig Josef Johann Wittgenstein wurde am 26. April 1889 in Wien als jüngstes von acht Kindern einer der reichsten Familien Österreich-Ungarns geboren. Sein Vater Karl Wittgenstein war ein Stahlindustrieller, seine Mutter Leopoldine eine begabte Pianistin. Das Haus Wittgenstein war ein Zentrum des Wiener Kulturlebens; Johannes Brahms, Gustav Mahler und andere Künstler verkehrten dort regelmäßig. Drei seiner Brüder begingen Selbstmord, und sein Bruder Paul wurde ein berühmter Pianist, der im Ersten Weltkrieg seinen rechten Arm verlor. Ludwig studierte zunächst Maschinenbau an der Technischen Hochschule Berlin-Charlottenburg und wechselte 1908 nach Manchester, wo er Aeronautik studierte. Sein Interesse verlagerte sich von der Ingenieurswissenschaft zur Logik und Mathematik, und 1911 ging er nach Cambridge, um bei Bertrand Russell zu studieren, der sein Genie sofort erkannte.",
+    "schaffen": "Wittgensteins Frühwerk kulminierte im 'Tractatus logico-philosophicus' (1921/1922), dem einzigen zu Lebzeiten veröffentlichten philosophischen Buch. Darin entwickelte er die Bildtheorie der Sprache: Sätze sind logische Bilder der Wirklichkeit, und die Grenzen meiner Sprache sind die Grenzen meiner Welt. Das Unsagbare – Ethik, Ästhetik, das Mystische – liegt jenseits der Sprache und zeigt sich nur. Da Wittgenstein glaubte, alle philosophischen Probleme gelöst zu haben, wandte er sich von der Philosophie ab und arbeitete als Volksschullehrer in niederösterreichischen Dörfern (1920–1926), als Architekt (er entwarf ein Haus für seine Schwester Margaret in Wien) und als Gärtner. Ende der 1920er Jahre kehrte er zur Philosophie zurück, angeregt durch Gespräche mit Mitgliedern des Wiener Kreises. Ab 1929 lehrte er in Cambridge und entwickelte seine Spätphilosophie, die in den posthum veröffentlichten 'Philosophischen Untersuchungen' (1953) ihre reifste Form fand. Darin verwarf er die Bildtheorie zugunsten der Sprachspieltheorie: Die Bedeutung eines Wortes ist sein Gebrauch in der Sprache.",
+    "spaetesLeben": "Während des Zweiten Weltkriegs arbeitete Wittgenstein als Pfleger im Guy's Hospital in London und in einem medizinischen Forschungslabor in Newcastle. 1947 gab er seine Professur in Cambridge auf, da er das akademische Leben zunehmend als beengend empfand. Er zog sich nach Irland zurück, lebte zeitweise in einer abgelegenen Hütte an der Westküste Irlands und in Dublin, wo er an den 'Philosophischen Untersuchungen' und an 'Über Gewißheit' arbeitete. Seine letzten Jahre waren von zunehmender Krankheit geprägt – 1949 wurde Prostatakrebs diagnostiziert.",
+    "tod": "Ludwig Wittgenstein starb am 29. April 1951 in Cambridge im Haus seines Arztes Dr. Bevan. Seine letzten Worte sollen gewesen sein: 'Sagen Sie ihnen, dass ich ein wundervolles Leben gehabt habe.' Er wurde auf dem St Giles' Cemetery in Cambridge nach katholischem Ritus beigesetzt. Sein enormer philosophischer Nachlass wurde von seinen Nachlassverwaltern Elizabeth Anscombe, Rush Rhees und Georg Henrik von Wright herausgegeben.",
+    "nachwirkung": "Wittgenstein beeinflusste die gesamte analytische Philosophie des 20. Jahrhunderts in beiden Phasen seines Denkens. Der 'Tractatus' inspirierte den logischen Positivismus des Wiener Kreises, obwohl Wittgenstein deren szientistischen Ansatz ablehnte. Die 'Philosophischen Untersuchungen' revolutionierten die Sprachphilosophie, die Philosophie des Geistes und die Erkenntnistheorie. Sein Einfluss erstreckt sich über die Philosophie hinaus auf Linguistik, Anthropologie, Ästhetik und Kognitionswissenschaft. Denker wie Elizabeth Anscombe, Peter Winch, Saul Kripke und viele andere wurden durch sein Werk maßgeblich geprägt."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Bildtheorie der Sprache (Tractatus)",
+      "beschreibung": "Sätze sind logische Bilder der Wirklichkeit. Ein Satz bildet einen Sachverhalt ab, indem seine logische Struktur die Struktur der Wirklichkeit widerspiegelt. Was sich nicht in Sätzen ausdrücken lässt – Ethik, Ästhetik, das Mystische –, darüber muss man schweigen."
+    },
+    {
+      "titel": "Sprachspiele und Familienähnlichkeiten",
+      "beschreibung": "Sprache besteht aus verschiedenen 'Sprachspielen' – Formen des Sprachgebrauchs, die in Lebensformen eingebettet sind. Die Bedeutung eines Wortes ist sein Gebrauch. Begriffe werden nicht durch gemeinsame Wesensmerkmale, sondern durch 'Familienähnlichkeiten' zusammengehalten."
+    },
+    {
+      "titel": "Das Privatsprachenargument",
+      "beschreibung": "Eine rein private Sprache, die nur der Sprecher verstehen kann, ist unmöglich. Sprache ist wesentlich öffentlich und regelgeleitet. Dies hat weitreichende Konsequenzen für die Philosophie des Geistes und die Theorie der Subjektivität."
+    },
+    {
+      "titel": "Philosophie als Therapie",
+      "beschreibung": "Die Philosophie soll keine Theorien aufstellen, sondern die Verwirrungen auflösen, die durch den Missbrauch der Sprache entstehen. Philosophische Probleme sind keine echten Probleme, sondern Symptome sprachlicher Verwirrung. 'Die Philosophie ist ein Kampf gegen die Verhexung unseres Verstandes durch die Mittel unserer Sprache.'"
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Tractatus logico-philosophicus",
+      "jahr": "1921",
+      "beschreibung": "Wittgensteins einziges zu Lebzeiten veröffentlichtes philosophisches Buch entwickelt die Bildtheorie der Sprache und endet mit dem berühmten Satz: 'Wovon man nicht sprechen kann, darüber muß man schweigen.'"
+    },
+    {
+      "titel": "Philosophische Untersuchungen",
+      "jahr": "1953",
+      "beschreibung": "Das posthum veröffentlichte Hauptwerk der Spätphilosophie verwirft die Bildtheorie und entwickelt die Theorie der Sprachspiele, der Familienähnlichkeiten und der Regelfolge."
+    },
+    {
+      "titel": "Über Gewißheit",
+      "jahr": "1969",
+      "beschreibung": "Eine posthum veröffentlichte Sammlung von Bemerkungen zur Erkenntnistheorie, die sich mit G.E. Moores Beweis der Außenwelt auseinandersetzt und die Grundlagen unserer Gewissheit untersucht."
+    },
+    {
+      "titel": "Bemerkungen über die Grundlagen der Mathematik",
+      "jahr": "1956",
+      "beschreibung": "Wittgensteins posthum veröffentlichte Überlegungen zur Philosophie der Mathematik, die mathematische Beweise als Formen von Sprachspielen verstehen."
+    },
+    {
+      "titel": "Das Blaue und das Braune Buch",
+      "jahr": "1958",
+      "beschreibung": "Zwei Sammlungen von Vorlesungsdiktaten aus den 1930er Jahren, die als Übergang zwischen Früh- und Spätphilosophie gelten und viele Themen der 'Philosophischen Untersuchungen' vorwegnehmen."
+    },
+    {
+      "titel": "Bemerkungen über die Philosophie der Psychologie",
+      "jahr": "1980",
+      "beschreibung": "Posthum veröffentlichte Untersuchungen zur Philosophie des Geistes, die Begriffe wie Intention, Verstehen, Erwartung und Emotion analysieren."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wovon man nicht sprechen kann, darüber muß man schweigen.",
+      "quelle": "Tractatus logico-philosophicus, 7",
+      "kontext": "Der berühmte Schlusssatz des Tractatus, der die Grenzen der Sprache markiert."
+    },
+    {
+      "text": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.",
+      "quelle": "Tractatus logico-philosophicus, 5.6",
+      "kontext": "Die These, dass die Sprache die Grenzen unserer Welterfahrung bestimmt."
+    },
+    {
+      "text": "Die Philosophie ist ein Kampf gegen die Verhexung unseres Verstandes durch die Mittel unserer Sprache.",
+      "quelle": "Philosophische Untersuchungen, § 109",
+      "kontext": "Wittgensteins Verständnis der Philosophie als therapeutische Auflösung sprachlicher Verwirrungen."
+    },
+    {
+      "text": "Wenn ein Löwe sprechen könnte, wir könnten ihn nicht verstehen.",
+      "quelle": "Philosophische Untersuchungen, II, xi",
+      "kontext": "Die These, dass Verstehen eine gemeinsame Lebensform voraussetzt."
+    }
+  ],
+  "verwandtePhilosophen": ["bertrand-russell", "gottlob-frege", "karl-popper", "willard-van-orman-quine", "alfred-north-whitehead"],
+  "verwandteIsmen": ["analytische-philosophie", "logischer-positivismus", "sprachphilosophie"]
+}

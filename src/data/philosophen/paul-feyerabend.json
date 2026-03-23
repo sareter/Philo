@@ -1,0 +1,85 @@
+{
+  "slug": "paul-feyerabend",
+  "name": "Paul Feyerabend",
+  "lebensdaten": "1924–1994",
+  "geboren": {
+    "jahr": 1924,
+    "ort": "Wien",
+    "land": "Österreich",
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  "gestorben": {
+    "jahr": 1994,
+    "ort": "Genolier",
+    "land": "Schweiz",
+    "lat": 46.4381,
+    "lng": 6.2281
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Wissenschaftstheorie", "Erkenntnistheoretischer Anarchismus"],
+  "kurzbeschreibung": "Paul Feyerabend war ein provokanter Wissenschaftsphilosoph, der mit seinem Motto 'Anything goes' die etablierte Wissenschaftstheorie herausforderte. Er argumentierte, dass es keine universelle wissenschaftliche Methode gibt und dass der Fortschritt der Wissenschaft gerade durch die Verletzung methodologischer Regeln ermöglicht wurde. Sein erkenntnistheoretischer Anarchismus machte ihn zum enfant terrible der Philosophie.",
+  "biografie": {
+    "fruehesLeben": "Paul Karl Feyerabend wurde am 13. Januar 1924 in Wien geboren. Er wuchs in einfachen Verhältnissen auf und entwickelte früh ein Interesse an Theater, Gesang und Astronomie. Im Zweiten Weltkrieg diente er als Offizier in der Wehrmacht und wurde schwer verwundet – ein Schuss in die Wirbelsäule hinterließ ihn für den Rest seines Lebens gehbehindert. Nach dem Krieg studierte er zunächst Geschichte und Soziologie, dann Physik und Astronomie in Wien und wechselte schließlich zur Philosophie. Er studierte bei Karl Popper an der London School of Economics, dessen kritischen Rationalismus er zunächst übernahm, dann aber radikal überwand.",
+    "schaffen": "Feyerabend lehrte an der University of California, Berkeley (1958–1989), der ETH Zürich und anderen Universitäten. Sein Hauptwerk 'Wider den Methodenzwang' (Against Method, 1975) argumentierte provokant, dass es keine universellen methodologischen Regeln gibt, die den wissenschaftlichen Fortschritt erklären könnten. Galilei etwa habe seine Entdeckungen gerade dadurch ermöglicht, dass er die methodologischen Standards seiner Zeit verletzte. Das Motto 'Anything goes' ist nicht als positive Empfehlung, sondern als ironische Beschreibung der historischen Realität gemeint. In 'Erkenntnis für freie Menschen' (1978) verband er seine Wissenschaftskritik mit einer demokratischen politischen Philosophie. In 'Farewell to Reason' (1987) radikalisierte er seine Kritik am westlichen Rationalismus und plädierte für einen Pluralismus der Traditionen und Erkenntnisformen.",
+    "spaetesLeben": "In seinen letzten Lebensjahren zog sich Feyerabend zunehmend von der akademischen Philosophie zurück und lebte in der Schweiz. Er arbeitete an seiner Autobiografie 'Zeitverschwendung' (Killing Time, 1995) und an einem unvollendeten Buch über die Natur der wissenschaftlichen Erkenntnis. Er litt unter zunehmenden gesundheitlichen Problemen, behielt aber seinen Witz und seine intellektuelle Schärfe.",
+    "tod": "Paul Feyerabend starb am 11. Februar 1994 in Genolier am Genfersee, Schweiz, an einem Hirntumor. Seine Autobiografie 'Zeitverschwendung' wurde posthum veröffentlicht und gewährte einen bewegenden Einblick in das Leben dieses unkonventionellen Denkers.",
+    "nachwirkung": "Feyerabends Werk hat die Wissenschaftstheorie nachhaltig verändert, auch wenn seine Positionen oft als extrem empfunden werden. Seine Kritik an der Idee einer universellen wissenschaftlichen Methode hat den Postpositivismus und die Science and Technology Studies beeinflusst. Sein Plädoyer für epistemologischen Pluralismus und seine Kritik am Szientismus sind heute aktueller denn je. Die Debatte zwischen Feyerabend und dem wissenschaftlichen Establishment gehört zu den lebhaftesten Auseinandersetzungen der Philosophie des 20. Jahrhunderts."
+  },
+  "kernideen": [
+    {
+      "titel": "Erkenntnistheoretischer Anarchismus",
+      "beschreibung": "Es gibt keine universelle wissenschaftliche Methode, die den Fortschritt der Wissenschaft garantiert. Alle methodologischen Regeln wurden irgendwann gebrochen, und oft war gerade dieser Regelbruch produktiv. 'Anything goes' ist die einzige Regel, die nicht den Fortschritt behindert."
+    },
+    {
+      "titel": "Inkommensurabilität",
+      "beschreibung": "Verschiedene Theorien und Traditionen sind oft inkommensurabel – sie verwenden verschiedene Begriffe, verschiedene Beobachtungsstandards und verschiedene Bewertungskriterien. Ein rationaler Vergleich ist daher nicht immer möglich."
+    },
+    {
+      "titel": "Demokratische Wissenschaftskontrolle",
+      "beschreibung": "Die Wissenschaft sollte demokratisch kontrolliert werden und keinen privilegierten Status gegenüber anderen Wissensformen haben. Bürger haben das Recht, über wissenschaftspolitische Fragen mitzubestimmen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Wider den Methodenzwang (Against Method)",
+      "jahr": "1975",
+      "beschreibung": "Feyerabends Hauptwerk argumentiert, dass es keine universelle wissenschaftliche Methode gibt und dass der Fortschritt der Wissenschaft gerade durch den Bruch methodologischer Regeln ermöglicht wurde."
+    },
+    {
+      "titel": "Erkenntnis für freie Menschen (Science in a Free Society)",
+      "jahr": "1978",
+      "beschreibung": "Eine Verbindung von Wissenschaftskritik und demokratischer Philosophie, die für eine demokratische Kontrolle der Wissenschaft und einen Pluralismus der Erkenntnisformen plädiert."
+    },
+    {
+      "titel": "Farewell to Reason",
+      "jahr": "1987",
+      "beschreibung": "Eine Sammlung von Essays, die den westlichen Rationalismus kritisieren und für die Gleichberechtigung verschiedener kultureller Traditionen und Erkenntnisformen eintreten."
+    },
+    {
+      "titel": "Zeitverschwendung (Killing Time)",
+      "jahr": "1995",
+      "beschreibung": "Feyerabends posthum veröffentlichte Autobiografie bietet einen lebendigen und selbstironischen Rückblick auf ein unkonventionelles intellektuelles Leben."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Anything goes.",
+      "quelle": "Wider den Methodenzwang",
+      "kontext": "Das berühmte Motto des erkenntnistheoretischen Anarchismus – oft missverstanden als Beliebigkeit, ist es ironisch gemeint als Beschreibung der tatsächlichen wissenschaftlichen Praxis."
+    },
+    {
+      "text": "Die Wissenschaft ist wesentlich ein anarchistisches Unternehmen: Der theoretische Anarchismus ist menschenfreundlicher und eher geeignet, zum Fortschritt anzuregen, als seine Alternativen, die auf Gesetz und Ordnung beruhen.",
+      "quelle": "Wider den Methodenzwang",
+      "kontext": "Feyerabends zentrale These über das Verhältnis von Anarchismus und wissenschaftlichem Fortschritt."
+    },
+    {
+      "text": "Die Erfolge der Wissenschaft verdanken sich nicht einer konsequent angewandten Rationalität, sondern einem Zufall.",
+      "quelle": "Wider den Methodenzwang",
+      "kontext": "Die provokante These, dass wissenschaftliche Durchbrüche oft auf Zufall und Regelbruch beruhen."
+    }
+  ],
+  "verwandtePhilosophen": ["karl-popper", "thomas-kuhn", "willard-van-orman-quine"],
+  "verwandteIsmen": ["wissenschaftstheorie", "erkenntnistheoretischer-anarchismus", "relativismus", "pluralismus"]
+}

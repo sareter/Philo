@@ -1,0 +1,79 @@
+{
+  "slug": "pythagoras",
+  "name": "Pythagoras",
+  "lebensdaten": "570–495 v. Chr.",
+  "geboren": {
+    "jahr": -570,
+    "ort": "Samos",
+    "land": "Griechenland",
+    "lat": 37.75,
+    "lng": 26.97
+  },
+  "gestorben": {
+    "jahr": -495,
+    "ort": "Metapont",
+    "land": "Griechenland (Magna Graecia)",
+    "lat": 40.38,
+    "lng": 16.83
+  },
+  "epoche": "Antike",
+  "region": "Samos / Magna Graecia (Unteritalien)",
+  "hauptstroemungen": ["Pythagoreismus", "Zahlenmystik", "Musiktheorie"],
+  "kurzbeschreibung": "Pythagoras von Samos war Philosoph, Mathematiker und Gründer einer einflussreichen religiös-philosophischen Gemeinschaft. Seine Lehre, dass die Zahlen das Wesen aller Dinge sind, verband Mathematik, Musik und Mystik zu einer einzigartigen Weltanschauung.",
+  "biografie": {
+    "fruehesLeben": "Pythagoras wurde um 570 v. Chr. auf der Insel Samos in der östlichen Ägäis geboren. Sein Vater Mnesarchos war ein wohlhabender Kaufmann oder Edelsteinschneider. Die Überlieferung schreibt ihm ausgedehnte Bildungsreisen zu: Er soll in Ägypten bei den Priestern studiert haben, in Babylon die Astronomie der Chaldäer gelernt haben und möglicherweise sogar nach Indien gereist sein. Auf Samos soll er Schüler des Pherekydes von Syros und des Thales von Milet gewesen sein. Um 530 v. Chr. verließ er Samos – angeblich wegen der Tyrannei des Polykrates – und siedelte nach Kroton in Unteritalien über.",
+    "schaffen": "In Kroton gründete Pythagoras eine Gemeinschaft, die sowohl philosophische Schule als auch religiöser Orden und politischer Bund war. Die Mitglieder lebten nach strengen Regeln: Sie hielten Gütergemeinschaft, übten Verschwiegenheit über die Lehren, aßen kein Fleisch und keine Bohnen, trugen weiße Gewänder und unterzogen sich rituellen Reinigungen. Die Gemeinschaft war in zwei Gruppen eingeteilt: die Mathematikoi (die Lernenden), die die volle Lehre empfingen, und die Akusmatikoi (die Hörenden), die nur die Vorschriften befolgten. Pythagoras' zentrale philosophische These lautet: Die Zahlen sind das Wesen aller Dinge. Die Wirklichkeit hat eine mathematische Struktur, und alle Erscheinungen lassen sich auf Zahlenverhältnisse zurückführen. Diese Erkenntnis gewann er angeblich durch die Entdeckung, dass die musikalischen Harmonien auf einfachen Zahlenverhältnissen beruhen: Die Oktave entspricht dem Verhältnis 1:2, die Quinte 2:3, die Quarte 3:4. Die Entdeckung der mathematischen Grundlage der Musik wurde zur Grundlage der pythagorischen Kosmologie: Auch die Planeten erzeugen bei ihrer Bewegung Töne – die berühmte 'Sphärenharmonie'. In der Mathematik wird ihm der berühmte Satz des Pythagoras zugeschrieben (a² + b² = c²), obwohl er bereits den Babyloniern bekannt war. Die Entdeckung der irrationalen Zahlen (etwa der Quadratwurzel aus 2) soll die Pythagoreer so erschüttert haben, dass sie angeblich denjenigen, der das Geheimnis verriet, mit dem Tod bestraften. In der Seelenlehre vertrat Pythagoras die Metempsychose (Seelenwanderung): Die unsterbliche Seele durchwandert verschiedene Körper – menschliche, tierische und pflanzliche – und kann durch philosophische Reinigung aus diesem Kreislauf befreit werden.",
+    "spaetesLeben": "Die pythagorische Gemeinschaft gewann erheblichen politischen Einfluss in Kroton und anderen unteritalienischen Städten. Dies führte zu Konflikten mit der lokalen Bevölkerung. Um 509 v. Chr. kam es zu einem gewaltsamen Aufstand gegen die Pythagoreer unter Führung des Kylon, eines abgewiesenen Bewerbers um die Mitgliedschaft. Das Versammlungshaus der Pythagoreer wurde in Brand gesteckt, viele Mitglieder kamen ums Leben.",
+    "tod": "Pythagoras floh nach Metapont, wo er um 495 v. Chr. starb. Die Umstände seines Todes sind umstritten: Nach einer Version starb er bei dem Brand des Versammlungshauses, nach einer anderen floh er nach Metapont und ließ sich dort freiwillig verhungern. Eine dritte Version berichtet, er sei auf der Flucht an einem Bohnenfeld stehengeblieben, da er sich weigerte, durch Bohnen zu laufen, und dort von seinen Verfolgern getötet worden. Er wurde etwa 75 Jahre alt.",
+    "nachwirkung": "Pythagoras' Einfluss ist gewaltig und erstreckt sich über Philosophie, Mathematik, Musik und Religion. Platon war stark von den Pythagoreern beeinflusst – seine Ideenlehre, seine Kosmologie im Timaios und seine Zahlenmystik tragen pythagorische Züge. Der Neuplatonismus verschmolz platonische und pythagoreische Elemente. In der Musiktheorie bestimmte die pythagorische Stimmung die westliche Musik bis ins Mittelalter. Die Idee, dass die Natur eine mathematische Struktur hat, wurde zum Grundprinzip der modernen Naturwissenschaft – von Galilei über Kepler bis zur modernen Physik."
+  },
+  "kernideen": [
+    {
+      "titel": "Alles ist Zahl",
+      "beschreibung": "Die Zahlen sind das Wesen und Prinzip aller Dinge. Die gesamte Wirklichkeit hat eine mathematische Struktur und lässt sich auf Zahlenverhältnisse zurückführen."
+    },
+    {
+      "titel": "Sphärenharmonie",
+      "beschreibung": "Die Planeten erzeugen bei ihrer Bewegung Töne, die zusammen eine kosmische Harmonie bilden. Wir hören sie nicht, weil wir sie von Geburt an gewohnt sind."
+    },
+    {
+      "titel": "Seelenwanderung (Metempsychose)",
+      "beschreibung": "Die unsterbliche Seele durchwandert verschiedene Körper – menschliche, tierische und pflanzliche. Durch philosophische Reinigung und ethisches Leben kann sie aus diesem Kreislauf befreit werden."
+    },
+    {
+      "titel": "Harmonie der Gegensätze",
+      "beschreibung": "Die Wirklichkeit beruht auf Gegensatzpaaren: begrenzt-unbegrenzt, gerade-ungerade, eins-viele, rechts-links, männlich-weiblich, licht-dunkel. Harmonie entsteht durch das richtige Verhältnis der Gegensätze."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Keine erhaltenen Schriften",
+      "jahr": "–",
+      "beschreibung": "Pythagoras hinterließ keine Schriften. Seine Lehren wurden mündlich überliefert und unterlagen dem Schweigegebot der Gemeinschaft. Spätere Pythagoreer wie Philolaos und Archytas verfassten Schriften, und die Lehre wurde durch Platon, Aristoteles und die neuplatonischen Biographen Iamblichos und Porphyrios überliefert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Alles ist Zahl.",
+      "quelle": "Zugeschrieben, überliefert bei Aristoteles",
+      "kontext": "Die kürzeste Zusammenfassung der pythagorischen Philosophie."
+    },
+    {
+      "text": "Freunde sind eine einzige Seele, die in zwei Körpern wohnt.",
+      "quelle": "Zugeschrieben, überliefert bei Diogenes Laertios",
+      "kontext": "Pythagoras über die Freundschaft als höchste Form menschlicher Verbindung."
+    },
+    {
+      "text": "Es gibt keine Zufälle, und nichts geschieht ohne Ursache und ohne Notwendigkeit.",
+      "quelle": "Zugeschrieben, überliefert bei Iamblichos",
+      "kontext": "Ausdruck der pythagorischen Überzeugung von der vollständigen Ordnung des Kosmos."
+    },
+    {
+      "text": "Esst keine Bohnen!",
+      "quelle": "Zugeschrieben, überliefert bei Diogenes Laertios",
+      "kontext": "Das berühmteste der vielen pythagorischen Gebote, dessen Begründung bis heute umstritten ist."
+    }
+  ],
+  "verwandtePhilosophen": ["thales", "platon", "empedokles", "heraklit", "parmenides"],
+  "verwandteIsmen": ["pythagoreismus", "idealismus", "mystizismus", "rationalismus"]
+}

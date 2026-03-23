@@ -1,0 +1,45 @@
+{
+  "slug": "montesquieu",
+  "name": "Montesquieu",
+  "lebensdaten": "1689–1755",
+  "geboren": { "jahr": 1689, "ort": "La Brède bei Bordeaux", "land": "Frankreich", "lat": 44.6728, "lng": -0.5261 },
+  "gestorben": { "jahr": 1755, "ort": "Paris", "land": "Frankreich", "lat": 48.8566, "lng": 2.3522 },
+  "epoche": "Aufklärung",
+  "region": "Frankreich",
+  "hauptstroemungen": ["Politische Philosophie", "Rechtsphilosophie", "Gewaltenteilung"],
+  "kurzbeschreibung": "Charles-Louis de Secondat, Baron de La Brède et de Montesquieu, war ein französischer Schriftsteller, Jurist und politischer Philosoph, dessen Werk 'Vom Geist der Gesetze' die Theorie der Gewaltenteilung begründete und die moderne Verfassungslehre entscheidend prägte. Seine vergleichende Analyse verschiedener Regierungsformen und sein Konzept der gegenseitigen Kontrolle der Gewalten beeinflussten die amerikanische Verfassung und alle modernen Demokratien.",
+  "biografie": {
+    "fruehesLeben": "Charles-Louis de Secondat wurde am 18. Januar 1689 auf Schloss La Brède bei Bordeaux in eine adlige Familie von Richtern und Parlamentariern geboren. Er studierte Rechtswissenschaften in Bordeaux und Paris und erbte 1716 von seinem Onkel den Titel Baron de Montesquieu sowie das Amt eines Präsidenten am Parlement de Bordeaux, einem der höchsten Gerichtshöfe Frankreichs. Als Richter sammelte er umfangreiche Erfahrungen mit dem Rechtssystem, die sein späteres philosophisches Werk nährten.",
+    "schaffen": "Montesquieus literarischer Durchbruch kam mit den 'Lettres persanes' (Persische Briefe, 1721), einem satirischen Briefroman, in dem zwei fiktive persische Reisende die französische Gesellschaft, Politik und Religion mit den Augen von Fremden betrachten und damit bloßstellen. Das Werk wurde ein Sensationserfolg. 1728 wurde er in die Académie française aufgenommen und unternahm eine dreijährige Bildungsreise durch Europa, wobei er besonders England studierte und die parlamentarische Monarchie als vorbildlich empfand. Sein Lebenswerk 'De l'esprit des lois' (Vom Geist der Gesetze, 1748) ist eine monumentale vergleichende Studie der Regierungsformen, Rechtssysteme und gesellschaftlichen Bedingungen verschiedener Länder und Epochen. Montesquieu unterschied drei Regierungsformen – Republik (demokratisch oder aristokratisch), Monarchie und Despotie – und ordnete jedem ein leitendes Prinzip zu: Tugend, Ehre und Furcht. Seine berühmteste Lehre ist die Gewaltenteilung: Um Machtmissbrauch zu verhindern, müssen die drei Gewalten – Legislative, Exekutive und Judikative – voneinander unabhängig sein und sich gegenseitig kontrollieren. Er analysierte auch den Einfluss von Klima, Geografie und Wirtschaft auf die Gesetze und Sitten eines Volkes und leistete damit Pionierarbeit in der politischen Soziologie.",
+    "spaetesLeben": "Nach der Veröffentlichung von 'De l'esprit des lois' wurde das Werk auf den Index der verbotenen Bücher gesetzt, erlebte aber gleichzeitig einen enormen Erfolg. Montesquieu verteidigte sich in der 'Défense de l'Esprit des lois' (1750) gegen die Angriffe der Jesuiten und Jansenisten. Sein Augenlicht verschlechterte sich zunehmend, und er erblindete fast vollständig.",
+    "tod": "Montesquieu starb am 10. Februar 1755 in Paris an einem Fieber. Er wurde in der Kirche Saint-Sulpice beigesetzt, doch sein Grab ging während der Französischen Revolution verloren. Auf seinem Sterbebett soll er gesagt haben: 'Ich wollte immer dem Geist Gerechtigkeit widerfahren lassen.'",
+    "nachwirkung": "Montesquieus Theorie der Gewaltenteilung wurde zum Grundprinzip der modernen Verfassungsstaaten. Die amerikanischen Verfassungsväter – Madison, Hamilton und Jefferson – beriefen sich ausdrücklich auf ihn. Die Verfassung der Vereinigten Staaten ist die praktische Verwirklichung seiner Ideen. In der politischen Soziologie gilt er als Vorläufer von Tocqueville und Weber. Sein vergleichender Ansatz beeinflusste die Rechtsvergleichung und die politische Anthropologie. Émile Durkheim würdigte ihn als Vorläufer der Soziologie."
+  },
+  "kernideen": [
+    {
+      "titel": "Gewaltenteilung",
+      "beschreibung": "Die drei Gewalten – Legislative, Exekutive und Judikative – müssen voneinander unabhängig sein und sich gegenseitig kontrollieren, um Machtmissbrauch zu verhindern. Nur die Macht kann die Macht begrenzen."
+    },
+    {
+      "titel": "Geist der Gesetze",
+      "beschreibung": "Gesetze sind keine willkürlichen Regelungen, sondern stehen in notwendigem Zusammenhang mit der Natur der Regierungsform, dem Klima, der Religion, dem Handel und den Sitten eines Volkes. Gesetzgebung muss diese Zusammenhänge berücksichtigen."
+    },
+    {
+      "titel": "Typenlehre der Regierungsformen",
+      "beschreibung": "Montesquieu unterschied drei Regierungsformen – Republik, Monarchie und Despotie – mit je einem leitenden Prinzip: Die Republik beruht auf Tugend, die Monarchie auf Ehre, die Despotie auf Furcht."
+    }
+  ],
+  "werke": [
+    { "titel": "De l'esprit des lois (Vom Geist der Gesetze)", "jahr": "1748", "beschreibung": "Montesquieus Hauptwerk, eine monumentale Studie über die Zusammenhänge zwischen Regierungsformen, Gesetzen und gesellschaftlichen Bedingungen, die die Theorie der Gewaltenteilung begründet." },
+    { "titel": "Lettres persanes (Persische Briefe)", "jahr": "1721", "beschreibung": "Ein satirischer Briefroman, in dem zwei persische Reisende die französische Gesellschaft mit fremden Augen betrachten und damit Missstände bloßstellen." },
+    { "titel": "Considérations sur les causes de la grandeur des Romains et de leur décadence", "jahr": "1734", "beschreibung": "Eine historische Analyse des Aufstiegs und Falls des Römischen Reiches, die politische, militärische und moralische Ursachen untersucht." },
+    { "titel": "Défense de l'Esprit des lois", "jahr": "1750", "beschreibung": "Eine Verteidigungsschrift gegen die Kritiker des 'Geist der Gesetze', insbesondere gegen die Angriffe der Jesuiten." }
+  ],
+  "zitate": [
+    { "text": "Wenn die gesetzgebende Gewalt mit der vollziehenden in einer Person vereinigt ist, gibt es keine Freiheit.", "quelle": "De l'esprit des lois, Buch XI, Kapitel 6", "kontext": "Montesquieus berühmteste These, die das Fundament der modernen Gewaltenteilung bildet." },
+    { "text": "Nur die Macht kann die Macht begrenzen.", "quelle": "De l'esprit des lois", "kontext": "Das Grundprinzip der gegenseitigen Kontrolle (checks and balances), das alle modernen Verfassungen prägt." },
+    { "text": "Man muss die Dinge so darstellen, als ob sie von selber kämen.", "quelle": "Persische Briefe", "kontext": "Montesquieus literarisches Prinzip der eleganten Indirektion, das auch sein satirisches Verfahren charakterisiert." }
+  ],
+  "verwandtePhilosophen": ["voltaire", "jean-jacques-rousseau", "john-locke", "thomas-hobbes", "denis-diderot"],
+  "verwandteIsmen": ["liberalismus", "konstitutionalismus", "republikanismus"]
+}

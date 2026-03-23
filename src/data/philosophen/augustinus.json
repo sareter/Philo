@@ -1,0 +1,113 @@
+{
+  "slug": "augustinus",
+  "name": "Augustinus von Hippo",
+  "lebensdaten": "354–430 n. Chr.",
+  "geboren": {
+    "jahr": 354,
+    "ort": "Thagaste",
+    "land": "Numidien (heutiges Algerien)",
+    "lat": 36.28,
+    "lng": 8.28
+  },
+  "gestorben": {
+    "jahr": 430,
+    "ort": "Hippo Regius",
+    "land": "Numidien (heutiges Algerien)",
+    "lat": 36.90,
+    "lng": 7.77
+  },
+  "epoche": "Antike",
+  "region": "Nordafrika / Römisches Reich",
+  "hauptstroemungen": ["Christliche Philosophie", "Neuplatonismus", "Patristik"],
+  "kurzbeschreibung": "Augustinus von Hippo war der einflussreichste Kirchenvater und einer der bedeutendsten Denker der westlichen Geistesgeschichte. Seine Verbindung von christlichem Glauben und neuplatonischer Philosophie prägte die gesamte mittelalterliche Theologie und Philosophie.",
+  "biografie": {
+    "fruehesLeben": "Aurelius Augustinus wurde am 13. November 354 in Thagaste (dem heutigen Souk Ahras in Algerien) in der römischen Provinz Numidien geboren. Sein Vater Patricius war ein kleiner heidnischer Grundbesitzer, der sich erst kurz vor seinem Tod taufen ließ. Seine Mutter Monika war eine fromme Christin, die sein Leben tief beeinflusste und später heiliggesprochen wurde. Augustinus erhielt eine Ausbildung in Grammatik und Rhetorik in Thagaste, Madaura und Karthago. In Karthago führte er ein ausschweifendes Leben – 'Nach Karthago kam ich, und es brodelte um mich der Kessel schändlicher Liebschaften' (Confessiones III, 1). Mit 17 Jahren nahm er eine Konkubine, die ihm seinen Sohn Adeodatus gebar. Gleichzeitig erwachte sein philosophisches Interesse durch die Lektüre von Ciceros 'Hortensius'. Er schloss sich den Manichäern an, einer dualistischen Sekte, der er neun Jahre lang angehörte.",
+    "schaffen": "Augustinus lehrte Rhetorik in Karthago, Rom und Mailand. In Mailand kam er unter den Einfluss des Bischofs Ambrosius, dessen allegorische Bibelauslegung ihn beeindruckte. Die entscheidende Wende kam durch die Lektüre der 'platonischen Bücher' – wahrscheinlich Plotins Enneaden in der Übersetzung des Marius Victorinus. Der Neuplatonismus bot ihm ein intellektuell befriedigendes Gegenmodell zum manichäischen Dualismus: Das Böse ist nicht eine eigenständige Macht, sondern Mangel an Gutem (privatio boni). Im August 386 erlebte er seine berühmte Bekehrung im Garten in Mailand: Eine Kinderstimme rief 'Tolle, lege!' (Nimm und lies!), und er las eine Passage aus dem Römerbrief des Paulus, die ihn überwältigte. Er ließ sich 387 von Ambrosius taufen. Nach seiner Rückkehr nach Nordafrika wurde er 391 zum Priester und 396 zum Bischof von Hippo Regius geweiht. In den folgenden 34 Jahren entfaltete er eine gewaltige schriftstellerische Tätigkeit. Die 'Confessiones' (Bekenntnisse, ca. 397–401) sind die erste große Autobiographie der Weltliteratur und zugleich eine philosophisch-theologische Meditation über Gedächtnis, Zeit und das Verhältnis der Seele zu Gott. 'De civitate Dei' (Vom Gottesstaat, 413–426) ist eine monumentale Geschichtsphilosophie, die als Antwort auf den Fall Roms 410 die Unterscheidung zwischen dem irdischen Staat (civitas terrena) und dem Gottesstaat (civitas Dei) entwickelt. In der Gnadenlehre betonte Augustinus die totale Verdorbenheit des Menschen nach dem Sündenfall und die absolute Notwendigkeit der göttlichen Gnade – ohne Gnade kann der Mensch nicht gerettet werden. Seine Prädestinationslehre legt fest, dass Gott von Ewigkeit her bestimmte Menschen zur Seligkeit erwählt hat. Diese Lehren wurden im Kampf gegen den Pelagianismus entwickelt und prägten die gesamte westliche Theologie.",
+    "spaetesLeben": "In seinen letzten Jahrzehnten führte Augustinus erbitterte theologische Kämpfe gegen verschiedene Häresien: gegen die Manichäer, die Donatisten und die Pelagianer. Er schrieb unermüdlich – sein Gesamtwerk umfasst über 5 Millionen Worte. Er verfasste auch die 'Retractationes' (Korrekturen), in denen er sein eigenes Werk kritisch überprüfte.",
+    "tod": "Augustinus starb am 28. August 430 in Hippo Regius, während die Stadt von den Vandalen unter Geiserich belagert wurde. Er war 75 Jahre alt. In seinen letzten Tagen ließ er sich die Bußpsalmen an die Wand schreiben und betete sie unablässig. Seine Bibliothek und seine Schriften wurden gerettet.",
+    "nachwirkung": "Augustinus ist neben Thomas von Aquin der einflussreichste Theologe und Philosoph des Christentums. Seine Gnadenlehre und Prädestinationslehre prägten Luther und Calvin und damit die gesamte Reformation. Seine Zeitphilosophie beeinflusste Husserl und Heidegger. Sein Konzept der Innerlichkeit und der Selbstreflexion gilt als Vorläufer der modernen Subjektphilosophie von Descartes bis zur Phänomenologie. Hannah Arendt widmete ihre Dissertation dem Liebesbegriff bei Augustinus."
+  },
+  "kernideen": [
+    {
+      "titel": "Privatio Boni (Das Böse als Mangel)",
+      "beschreibung": "Das Böse ist kein eigenständiges Prinzip, sondern ein Mangel an Gutem – wie die Dunkelheit ein Mangel an Licht ist. Diese Lehre löste Augustinus' manichäisches Problem und wurde zum Grundpfeiler der christlichen Theodizee."
+    },
+    {
+      "titel": "Innerlichkeit und Selbsterkenntnis",
+      "beschreibung": "'Geh nicht nach draußen, kehre in dich selbst ein! Im inneren Menschen wohnt die Wahrheit.' Die Wahrheit wird nicht in der Außenwelt, sondern in der Innerlichkeit der Seele gefunden – dort begegnet man Gott."
+    },
+    {
+      "titel": "Zeitphilosophie",
+      "beschreibung": "Was ist die Zeit? 'Wenn mich niemand fragt, weiß ich es; wenn ich es einem Erklärenden erklären will, weiß ich es nicht.' Die Zeit existiert nur in der Seele: als Erinnerung (Vergangenheit), Aufmerksamkeit (Gegenwart) und Erwartung (Zukunft)."
+    },
+    {
+      "titel": "Zwei-Reiche-Lehre",
+      "beschreibung": "Die Geschichte ist der Kampf zwischen dem Gottesstaat (civitas Dei), gegründet auf Gottesliebe, und dem irdischen Staat (civitas terrena), gegründet auf Selbstliebe. Erst am Ende der Zeit wird Gott sein Reich vollenden."
+    },
+    {
+      "titel": "Gnadenlehre",
+      "beschreibung": "Ohne die freie Gnade Gottes kann der Mensch nach dem Sündenfall weder das Gute wollen noch tun. Die Erlösung ist allein Gottes Geschenk, nicht Verdienst des Menschen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Confessiones (Bekenntnisse)",
+      "jahr": "397–401",
+      "beschreibung": "Autobiographische und philosophisch-theologische Meditation in 13 Büchern. Schildert Augustinus' Weg von der Sünde über den Manichäismus zum christlichen Glauben. Enthält die berühmte Zeitphilosophie in Buch XI."
+    },
+    {
+      "titel": "De civitate Dei (Vom Gottesstaat)",
+      "jahr": "413–426",
+      "beschreibung": "Monumentale Geschichtsphilosophie in 22 Büchern, geschrieben als Antwort auf die Plünderung Roms durch die Westgoten 410. Entwickelt die Lehre von den zwei Staaten."
+    },
+    {
+      "titel": "De Trinitate (Über die Dreieinigkeit)",
+      "jahr": "399–419",
+      "beschreibung": "15 Bücher über das Wesen der göttlichen Trinität. Augustinus sucht Analogien zur Trinität in der Struktur des menschlichen Geistes: Gedächtnis, Verstand und Wille."
+    },
+    {
+      "titel": "De libero arbitrio (Über den freien Willen)",
+      "jahr": "387–395",
+      "beschreibung": "Dialog über die Willensfreiheit und das Problem des Bösen. Augustinus verteidigt den freien Willen gegen die manichäische These, das Böse sei eine eigenständige Macht."
+    },
+    {
+      "titel": "De doctrina christiana (Über die christliche Lehre)",
+      "jahr": "396–426",
+      "beschreibung": "Handbuch der Bibelauslegung und christlichen Rhetorik. Grundlegendes Werk der christlichen Hermeneutik."
+    },
+    {
+      "titel": "Retractationes (Korrekturen)",
+      "jahr": "426–427",
+      "beschreibung": "Augustinus' kritische Selbstüberprüfung seines Gesamtwerks. Einzigartiges Zeugnis intellektueller Redlichkeit."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Unruhig ist unser Herz, bis es Ruhe findet in dir.",
+      "quelle": "Confessiones I, 1",
+      "kontext": "Der berühmteste Satz der Confessiones – Augustinus' Erkenntnis, dass nur Gott die Sehnsucht der Seele stillen kann."
+    },
+    {
+      "text": "Was ist also die Zeit? Wenn mich niemand danach fragt, weiß ich es; wenn ich es einem Fragenden erklären will, weiß ich es nicht.",
+      "quelle": "Confessiones XI, 14",
+      "kontext": "Der berühmteste Ausdruck des philosophischen Zeitproblems."
+    },
+    {
+      "text": "Gott, gib mir Keuschheit und Enthaltsamkeit – aber noch nicht jetzt!",
+      "quelle": "Confessiones VIII, 7",
+      "kontext": "Augustinus' Gebet als junger Mann, das seine innere Zerrissenheit ausdrückt."
+    },
+    {
+      "text": "Nimm und lies! Nimm und lies!",
+      "quelle": "Confessiones VIII, 12 (Tolle, lege!)",
+      "kontext": "Die Kinderstimme, die Augustinus zur Bekehrung führte."
+    },
+    {
+      "text": "Liebe und tue, was du willst.",
+      "quelle": "In Epistolam Ioannis ad Parthos, VII, 8 (Dilige et quod vis fac)",
+      "kontext": "Augustinus' berühmte ethische Maxime: Wer wirklich liebt, handelt automatisch richtig."
+    }
+  ],
+  "verwandtePhilosophen": ["platon", "plotin", "thomas-von-aquin", "cicero", "boethius"],
+  "verwandteIsmen": ["neuplatonismus", "christliche-philosophie", "patristik", "idealismus"]
+}

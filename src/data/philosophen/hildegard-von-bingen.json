@@ -1,0 +1,114 @@
+{
+  "slug": "hildegard-von-bingen",
+  "name": "Hildegard von Bingen",
+  "lebensdaten": "1098–1179",
+  "geboren": {
+    "jahr": 1098,
+    "ort": "Bermersheim vor der Höhe",
+    "land": "Heiliges Römisches Reich (heute Deutschland)",
+    "lat": 49.77,
+    "lng": 8.13
+  },
+  "gestorben": {
+    "jahr": 1179,
+    "ort": "Rupertsberg bei Bingen",
+    "land": "Heiliges Römisches Reich (heute Deutschland)",
+    "lat": 49.97,
+    "lng": 7.89
+  },
+  "epoche": "Mittelalter",
+  "region": "Deutschland",
+  "hauptstroemungen": ["Mystik", "Naturphilosophie", "Visionäre Theologie"],
+  "kurzbeschreibung": "Hildegard von Bingen war eine der vielseitigsten und einflussreichsten Persönlichkeiten des Mittelalters: Mystikerin, Äbtissin, Naturforscherin, Komponistin und prophetische Stimme ihrer Zeit. Ihre Visionen und ihre Naturphilosophie verbinden Kosmologie, Medizin und Theologie zu einem einzigartigen Weltbild.",
+  "biografie": {
+    "fruehesLeben": "Hildegard wurde 1098 in Bermersheim vor der Höhe bei Alzey als zehntes Kind einer niederadeligen Familie geboren. Als 'Zehnte' dem kirchlichen Zehnten geweiht, wurde sie im Alter von acht Jahren der Reklusin Jutta von Sponheim am Benediktinerkloster Disibodenberg zur Erziehung übergeben. In der strengen Klausur lernte sie Lesen, Schreiben, Lateinisch, den Psalmengesang und die Grundlagen der Bibelexegese. Bereits als Kind hatte sie Visionen, die sie zunächst verschwieg. Nach Juttas Tod 1136 wurde Hildegard im Alter von 38 Jahren zur Magistra (Leiterin) der Frauengemeinschaft am Disibodenberg gewählt.",
+    "schaffen": "1141 erlebte Hildegard eine entscheidende Vision, in der sie den göttlichen Auftrag erhielt, ihre Visionen niederzuschreiben: 'Schreibe, was du siehst und hörst!' Nach langem Zögern und auf Ermutigung ihres Beichtvaters begann sie mit Hilfe des Mönchs Volmar und der Nonne Richardis von Stade ihr erstes Hauptwerk 'Scivias' (Wisse die Wege). Als Papst Eugen III. auf der Synode von Trier 1147/48 aus dem unfertigen Werk vorlesen ließ und es billigte, wurde Hildegard schlagartig berühmt. Ihre Visionstheologie entfaltet ein umfassendes kosmologisches Weltbild: Der Mensch ist Mikrokosmos, der die Struktur des Makrokosmos in sich trägt. Die vier Elemente, die Winde, die Gestirne und die menschlichen Organe sind in einem großen Korrespondenzsystem miteinander verbunden. Die 'Viriditas' (Grünkraft) ist Hildegards Schlüsselbegriff: eine göttliche Lebenskraft, die alles Lebendige durchdringt und zusammenhält. Neben ihren drei theologischen Hauptwerken verfasste Hildegard eine umfangreiche Naturkunde ('Physica') und ein medizinisches Werk ('Causae et curae'), die auf eigener Beobachtung und Erfahrung sowie auf der Tradition der Klostermedizin beruhen. Sie beschrieb Hunderte von Pflanzen, Tieren und Mineralien mit ihren Heilwirkungen. Als Komponistin schuf sie über 70 liturgische Gesänge und das Singspiel 'Ordo Virtutum' – das älteste bekannte Moralitätenspiel. Ihre Musik ist von außergewöhnlicher melodischer Weite und mystischer Intensität. Zwischen 1147 und 1150 gründete sie gegen den Widerstand der Mönche vom Disibodenberg ein eigenes Frauenkloster auf dem Rupertsberg bei Bingen und später eine Filiale in Eibingen. Sie führte eine umfangreiche Korrespondenz mit Päpsten, Kaisern, Bischöfen und Äbten und unternahm vier Predigtreisen – für eine Frau im 12. Jahrhundert absolut ungewöhnlich.",
+    "spaetesLeben": "In ihren letzten Lebensjahren geriet Hildegard in einen schweren Konflikt mit dem Mainzer Domkapitel: Sie hatte einen exkommunizierten Adligen auf dem Klosterfriedhof begraben und weigerte sich, den Leichnam exhumieren zu lassen, da der Mann vor seinem Tod die Sakramente empfangen habe. Der Rupertsberg wurde mit dem Interdikt belegt – der Entzug aller gottesdienstlichen Handlungen –, was Hildegard als schwerste Strafe empfand, da ihr Konvent nicht mehr singen durfte. Erst wenige Monate vor ihrem Tod wurde das Interdikt aufgehoben.",
+    "tod": "Hildegard starb am 17. September 1179 auf dem Rupertsberg bei Bingen im Alter von 81 Jahren. Der Legende nach erschienen am Himmel über dem Kloster zwei leuchtende Bögen, die sich kreuzten. Mehrere Heiligsprechungsversuche scheiterten zunächst. 2012 erhob Papst Benedikt XVI. sie zur Kirchenlehrerin – als vierte Frau in der Geschichte und als erste Deutsche.",
+    "nachwirkung": "Hildegard von Bingen war über Jahrhunderte weitgehend vergessen und wurde erst im 19. und 20. Jahrhundert wiederentdeckt. Heute ist sie eine der bekanntesten Gestalten des Mittelalters. Ihre Naturheilkunde erlebt eine enorme Renaissance. Ihre Musik wird weltweit aufgeführt und aufgenommen. Als Kirchenlehrerin und Universalgelehrte gilt sie als Vorbild weiblicher Gelehrsamkeit und Autorität. Die feministische Theologie und Philosophie sieht in ihr eine Pionierin weiblichen Denkens."
+  },
+  "kernideen": [
+    {
+      "titel": "Viriditas (Grünkraft)",
+      "beschreibung": "Die Viriditas ist die göttliche Lebenskraft, die alles Lebendige durchdringt und zusammenhält. Sie zeigt sich im Grünen der Pflanzen, in der Fruchtbarkeit der Natur und in der geistigen Kraft des Menschen. Sünde ist Verlust der Viriditas, Heilung ist ihre Wiederherstellung."
+    },
+    {
+      "titel": "Mikrokosmos-Makrokosmos",
+      "beschreibung": "Der Mensch ist ein kleiner Kosmos, der die Struktur des großen Kosmos in sich trägt. Kopf und Körper entsprechen dem Himmelsgewölbe und der Erde; die vier Körpersäfte den vier Elementen; die Sinne den kosmischen Kräften."
+    },
+    {
+      "titel": "Visionäre Kosmologie",
+      "beschreibung": "Hildegards Visionen zeigen den Kosmos als ein von Gott durchwaltetes Ganzes, in dem alles mit allem zusammenhängt. Der Mensch steht im Zentrum als Ebenbild Gottes und Hüter der Schöpfung."
+    },
+    {
+      "titel": "Ganzheitliche Heilkunde",
+      "beschreibung": "Krankheit entsteht durch die Störung des Gleichgewichts im Menschen. Heilung erfordert die Behandlung des ganzen Menschen – Körper, Seele und Geist – durch Ernährung, Heilpflanzen, Fasten und geistliche Praxis."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Scivias (Wisse die Wege)",
+      "jahr": "1141–1151",
+      "beschreibung": "Erstes Hauptwerk: 26 Visionen in drei Büchern über die Schöpfung, die Erlösung und die Vollendung der Welt. Enthält eindrucksvolle Beschreibungen und Illustrationen der Visionen."
+    },
+    {
+      "titel": "Liber Vitae Meritorum (Buch der Lebensverdienste)",
+      "jahr": "1158–1163",
+      "beschreibung": "Zweites Hauptwerk: Visionäre Darstellung der Tugenden und Laster in dialogischer Form. Ethik und Kosmologie werden miteinander verbunden."
+    },
+    {
+      "titel": "Liber Divinorum Operum (Buch der göttlichen Werke)",
+      "jahr": "1163–1174",
+      "beschreibung": "Drittes Hauptwerk: Zehn Visionen über die Beziehung zwischen Gott, Kosmos und Mensch. Enthält die ausführlichste Darstellung der Mikrokosmos-Makrokosmos-Lehre."
+    },
+    {
+      "titel": "Physica (Naturkunde)",
+      "jahr": "ca. 1150–1160",
+      "beschreibung": "Enzyklopädie der Naturheilkunde in neun Büchern: Pflanzen, Elemente, Bäume, Steine, Fische, Vögel, Tiere, Reptilien und Metalle mit ihren Heilwirkungen."
+    },
+    {
+      "titel": "Causae et Curae (Ursachen und Heilungen)",
+      "jahr": "ca. 1150–1160",
+      "beschreibung": "Medizinisches Werk über die Entstehung von Krankheiten und ihre Behandlung. Verbindet Humoralpathologie mit eigenen Beobachtungen und Heilmitteln."
+    },
+    {
+      "titel": "Symphonia armonie celestium revelationum (Symphonie der Harmonie himmlischer Offenbarungen)",
+      "jahr": "ca. 1150–1160",
+      "beschreibung": "Sammlung von über 70 liturgischen Gesängen (Hymnen, Antiphonen, Sequenzen) von außergewöhnlicher melodischer Weite."
+    },
+    {
+      "titel": "Ordo Virtutum (Spiel der Tugenden)",
+      "jahr": "ca. 1151",
+      "beschreibung": "Das älteste bekannte Moralitätenspiel: Ein musikalisches Drama über den Kampf der Tugenden gegen den Teufel um die Seele des Menschen."
+    },
+    {
+      "titel": "Lingua Ignota (Unbekannte Sprache)",
+      "jahr": "ca. 1150",
+      "beschreibung": "Eine von Hildegard erfundene Geheimsprache mit eigenem Alphabet und etwa 1000 Wörtern. Die erste bekannte konstruierte Sprache der Geschichte."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Mensch ist mit allen Geschöpfen verbunden und trägt die ganze Schöpfung in sich.",
+      "quelle": "Liber Divinorum Operum",
+      "kontext": "Hildegards zentrale Aussage über die Verbundenheit des Menschen mit dem Kosmos."
+    },
+    {
+      "text": "Die Seele ist die Grünkraft des Leibes, denn der Leib wächst und gedeiht durch sie, wie die Erde durch die Feuchtigkeit fruchtbar wird.",
+      "quelle": "Causae et Curae",
+      "kontext": "Hildegard über die Viriditas als verbindendes Prinzip von Seele und Leib."
+    },
+    {
+      "text": "Schreibe, was du siehst und hörst!",
+      "quelle": "Scivias, Einleitung",
+      "kontext": "Der göttliche Auftrag, der Hildegard zum Schreiben bewegte."
+    },
+    {
+      "text": "O Mensch, blick dich an: Du hast Himmel und Erde und alle Geschöpfe in dir.",
+      "quelle": "Liber Divinorum Operum",
+      "kontext": "Die Mikrokosmos-Lehre: Der Mensch als Abbild des gesamten Kosmos."
+    }
+  ],
+  "verwandtePhilosophen": ["augustinus", "meister-eckhart", "anselm-von-canterbury", "boethius", "thomas-von-aquin"],
+  "verwandteIsmen": ["mystizismus", "naturphilosophie", "christliche-philosophie", "holismus"]
+}

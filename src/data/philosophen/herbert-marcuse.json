@@ -1,0 +1,90 @@
+{
+  "slug": "herbert-marcuse",
+  "name": "Herbert Marcuse",
+  "lebensdaten": "1898–1979",
+  "geboren": {
+    "jahr": 1898,
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  "gestorben": {
+    "jahr": 1979,
+    "ort": "Starnberg",
+    "land": "Deutschland",
+    "lat": 47.9986,
+    "lng": 11.3433
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Kritische Theorie", "Frankfurter Schule", "Neomarxismus"],
+  "kurzbeschreibung": "Herbert Marcuse war einer der einflussreichsten Vertreter der Frankfurter Schule und wurde in den 1960er Jahren zum philosophischen Guru der Neuen Linken und der Studentenbewegung weltweit. Sein Werk 'Der eindimensionale Mensch' analysierte die subtilen Mechanismen der Herrschaft in der modernen Konsumgesellschaft und wurde zur Bibel der 68er-Bewegung.",
+  "biografie": {
+    "fruehesLeben": "Herbert Marcuse wurde am 19. Juli 1898 in Berlin als Sohn einer wohlhabenden jüdischen Familie geboren. Er diente im Ersten Weltkrieg, beteiligte sich kurz an der Novemberrevolution 1918 und studierte dann Philosophie in Berlin und Freiburg. In Freiburg studierte er bei Martin Heidegger und Edmund Husserl und promovierte 1922 über den deutschen Künstlerroman. Er habilitierte sich 1932 bei Heidegger mit einer Arbeit über Hegels Ontologie, doch die Machtergreifung der Nationalsozialisten machte eine akademische Karriere in Deutschland unmöglich.",
+    "schaffen": "1933 schloss sich Marcuse dem Institut für Sozialforschung an und emigrierte mit diesem zunächst nach Genf und dann in die USA. Während des Zweiten Weltkriegs arbeitete er für das Office of Strategic Services (OSS, Vorläufer der CIA) als Analyst für die psychologische Kriegsführung gegen Nazi-Deutschland. Nach dem Krieg ging er nicht nach Deutschland zurück, sondern lehrte an verschiedenen amerikanischen Universitäten: Brandeis University (1954–1965) und University of California, San Diego (ab 1965). 'Eros und Zivilisation' (1955) verband Freud und Marx und argumentierte, dass eine nicht-repressive Gesellschaft möglich sei, in der die Triebe nicht mehr unterdrückt werden müssten. 'Der eindimensionale Mensch' (1964) analysierte, wie die Konsumgesellschaft jede Opposition integriert und den Menschen auf eine eindimensionale Existenz der Arbeit und des Konsums reduziert. Das Buch wurde zum theoretischen Manifest der Neuen Linken.",
+    "spaetesLeben": "In den 1960er und 70er Jahren wurde Marcuse zur intellektuellen Galionsfigur der Protestbewegungen weltweit. Studenten von Berlin bis Berkeley beriefen sich auf seine Analysen. Er unterstützte die Bürgerrechtsbewegung, die Anti-Vietnam-Kriegs-Bewegung und die Studentenbewegung, wurde aber auch bedroht und musste zeitweise unter Polizeischutz leben. In 'Versuch über die Befreiung' (1969) und 'Konterrevolution und Revolte' (1972) reflektierte er die Möglichkeiten und Grenzen der revolutionären Bewegung. Sein letztes Werk 'Die Permanenz der Kunst' (1977) wandte sich der Ästhetik zu und verteidigte die autonome Kunst gegen eine reduktionistisch-marxistische Instrumentalisierung.",
+    "tod": "Herbert Marcuse starb am 29. Juli 1979 während einer Deutschlandreise in Starnberg bei München nach einem Schlaganfall. Er war 81 Jahre alt und hatte bis zuletzt öffentlich vorgetragen und politisch Position bezogen.",
+    "nachwirkung": "Marcuses Analyse der Konsumgesellschaft und der Integration von Opposition ist heute aktueller denn je. Sein Konzept der 'repressiven Toleranz' und seine Kritik am 'eindimensionalen Denken' werden in der Medien- und Gesellschaftskritik weiterhin diskutiert. Er beeinflusste die Neue Linke, die Ökologiebewegung, die feministische Theorie und die postkoloniale Kritik. Angela Davis, eine seiner Doktorandinnen, führte seine kritische Tradition in der Rassismus- und Gefängniskritik weiter."
+  },
+  "kernideen": [
+    {
+      "titel": "Der eindimensionale Mensch",
+      "beschreibung": "Die moderne Industriegesellschaft erzeugt durch Konsum, Medien und manipulierte Bedürfnisse eine eindimensionale Existenz, in der die Fähigkeit zum kritischen Denken und zur Opposition verkümmert. Die Menschen identifizieren sich mit dem System, das sie unterdrückt."
+    },
+    {
+      "titel": "Repressive Entsublimierung",
+      "beschreibung": "Die Konsumgesellschaft erlaubt scheinbar mehr sexuelle und individuelle Freiheit, integriert diese aber in das bestehende System. Die vermeintliche Befreiung ist eine neue, subtilere Form der Kontrolle – Entsublimierung im Dienst der Repression."
+    },
+    {
+      "titel": "Die Große Weigerung",
+      "beschreibung": "Die einzige Möglichkeit der Befreiung liegt in der 'Großen Weigerung' – der radikalen Ablehnung der bestehenden Ordnung durch Gruppen, die vom System ausgeschlossen oder noch nicht vollständig integriert sind: Minderheiten, Studierende, Befreiungsbewegungen der Dritten Welt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Eros und Zivilisation (Eros and Civilization)",
+      "jahr": "1955",
+      "beschreibung": "Eine philosophische Interpretation Freuds, die argumentiert, dass eine nicht-repressive Gesellschaft möglich ist, in der Eros und Arbeit versöhnt werden können."
+    },
+    {
+      "titel": "Der eindimensionale Mensch (One-Dimensional Man)",
+      "jahr": "1964",
+      "beschreibung": "Marcuses einflussreichstes Werk analysiert die Mechanismen der Herrschaft in der fortgeschrittenen Industriegesellschaft und wurde zur theoretischen Grundlage der Neuen Linken."
+    },
+    {
+      "titel": "Vernunft und Revolution (Reason and Revolution)",
+      "jahr": "1941",
+      "beschreibung": "Eine Verteidigung Hegels und des dialektischen Denkens gegen den Positivismus, die die Verbindung von Hegel und Marx für die Kritische Theorie fruchtbar macht."
+    },
+    {
+      "titel": "Repressive Toleranz",
+      "jahr": "1965",
+      "beschreibung": "Ein einflussreicher Essay, der argumentiert, dass die scheinbare Toleranz der liberalen Gesellschaft in Wahrheit die bestehenden Machtverhältnisse stabilisiert."
+    },
+    {
+      "titel": "Die Permanenz der Kunst (The Aesthetic Dimension)",
+      "jahr": "1977",
+      "beschreibung": "Marcuses letztes Werk verteidigt die Autonomie der Kunst und ihre revolutionäre Kraft gegen orthodoxe marxistische Ästhetik."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Nicht die Zerstörung, sondern der Aufbau einer freien Gesellschaft ist revolutionär.",
+      "quelle": "Versuch über die Befreiung",
+      "kontext": "Marcuses konstruktive Vision der Revolution als Aufbau einer besseren Gesellschaft."
+    },
+    {
+      "text": "Die Menschen erkennen sich in ihren Waren wieder; sie finden ihre Seele in ihrem Automobil, in ihrer Hi-Fi-Anlage, in ihrem Küchengerät.",
+      "quelle": "Der eindimensionale Mensch",
+      "kontext": "Die Diagnose der Selbstentfremdung durch Konsum in der modernen Gesellschaft."
+    },
+    {
+      "text": "Freiheit von der Ökonomie – Freiheit von der Ökonomie – heißt Freiheit vom täglichen Kampf ums Dasein.",
+      "quelle": "Eros und Zivilisation",
+      "kontext": "Marcuses Vision einer Gesellschaft jenseits der ökonomischen Notwendigkeit."
+    }
+  ],
+  "verwandtePhilosophen": ["theodor-w-adorno", "max-horkheimer", "walter-benjamin", "juergen-habermas", "hannah-arendt"],
+  "verwandteIsmen": ["kritische-theorie", "frankfurter-schule", "neomarxismus", "freudo-marxismus"]
+}

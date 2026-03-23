@@ -1,0 +1,119 @@
+{
+  "slug": "seneca",
+  "name": "Seneca",
+  "lebensdaten": "4 v. Chr. – 65 n. Chr.",
+  "geboren": {
+    "jahr": -4,
+    "ort": "Corduba",
+    "land": "Spanien (Römisches Reich)",
+    "lat": 37.88,
+    "lng": -4.77
+  },
+  "gestorben": {
+    "jahr": 65,
+    "ort": "Rom",
+    "land": "Italien (Römisches Reich)",
+    "lat": 41.90,
+    "lng": 12.50
+  },
+  "epoche": "Antike",
+  "region": "Römisches Reich",
+  "hauptstroemungen": ["Stoizismus", "Ethik", "Praktische Philosophie"],
+  "kurzbeschreibung": "Lucius Annaeus Seneca war der bedeutendste römische Stoiker, Staatsmann, Dramatiker und Erzieher Kaiser Neros. Seine philosophischen Briefe und Dialoge verbinden stoische Weisheit mit literarischer Brillanz und sind bis heute populäre Anleitungen zur Lebenskunst.",
+  "biografie": {
+    "fruehesLeben": "Seneca wurde um 4 v. Chr. in Corduba (dem heutigen Córdoba) in der römischen Provinz Hispania geboren. Sein Vater, Seneca der Ältere, war ein berühmter Rhetor. Die Familie gehörte zum Ritterstand. Seneca wurde als Kind nach Rom gebracht und erhielt dort eine umfassende rhetorische und philosophische Ausbildung. Er studierte bei den Stoikern Attalos und Sotion sowie bei dem Pythagoreer Sotion, der ihn vorübergehend zum Vegetarismus bekehrte. Als junger Mann wurde er schwer krank – möglicherweise an Tuberkulose – und verbrachte Jahre der Genesung in Ägypten bei seiner Tante, der Frau des Statthalters.",
+    "schaffen": "Seneca begann eine glänzende politische Karriere als Senator und Redner. 41 n. Chr. wurde er von Kaiser Claudius auf Betreiben der Kaiserin Messalina nach Korsika verbannt – angeblich wegen eines Ehebruchs mit der Prinzessin Julia Livilla. Acht Jahre lang lebte er im Exil und schrieb dort seine Trostschriften. 49 n. Chr. rief ihn die neue Kaiserin Agrippina nach Rom zurück und machte ihn zum Erzieher ihres Sohnes Nero. Nach Neros Thronbesteigung 54 n. Chr. wurde Seneca zusammen mit dem Prätorianerpräfekten Burrus zum mächtigsten Mann im Römischen Reich. Die ersten fünf Jahre von Neros Herrschaft – das sogenannte quinquennium Neronis – gelten als eine der besten Regierungsperioden der römischen Geschichte, maßgeblich geprägt durch Senecas Einfluss. Zugleich häufte Seneca ein enormes Vermögen an, was ihm den Vorwurf der Heuchelei einbrachte. Seine philosophischen Werke umfassen die 'Moralischen Briefe an Lucilius' (124 Briefe über alle Fragen der Lebensführung), die 'Dialoge' (zehn ethische Abhandlungen), die naturwissenschaftlichen 'Naturales quaestiones' und neun Tragödien. Seine Philosophie ist ein praktischer Stoizismus: Er geht nicht von der reinen Theorie aus, sondern von den konkreten Problemen des täglichen Lebens – Angst, Zorn, Trauer, Zeitverschwendung, Tod. Seine Sprache ist brillant, pointiert und eindringlich.",
+    "spaetesLeben": "Nach dem Tod des Burrus 62 n. Chr. und der zunehmenden Tyrannei Neros zog sich Seneca aus der Politik zurück. Er versuchte, dem Kaiser sein Vermögen zurückzugeben und sich ins Privatleben zurückzuziehen, was Nero zunächst ablehnte. Die Beziehung zwischen Lehrer und Schüler verschlechterte sich dramatisch.",
+    "tod": "65 n. Chr. wurde Seneca beschuldigt, an der Pisonischen Verschwörung gegen Nero beteiligt gewesen zu sein. Nero befahl ihm den Selbstmord. Seneca öffnete sich die Adern an Armen und Beinen, wobei er seine Freunde tröstete und ihnen das Bild seines Lebens als Vermächtnis hinterließ. Da das Blut zu langsam floss, trank er Gift und ließ sich schließlich in ein heißes Bad setzen, dessen Dampf ihn erstickte. Sein Tod wurde von Tacitus in den Annalen eindrucksvoll geschildert und zum Inbegriff des stoischen Sterbens. Seine Frau Paulina wollte mit ihm sterben, wurde aber auf Neros Befehl gerettet.",
+    "nachwirkung": "Seneca war der meistgelesene antike Philosoph im Mittelalter und der frühen Neuzeit. Die Kirchenväter schätzten ihn so sehr, dass ein gefälschter Briefwechsel zwischen Seneca und dem Apostel Paulus kursierte. Sein Einfluss auf die europäische Moralistik – von Montaigne über La Rochefoucauld bis zu den deutschen Moralisten – ist immens. Seine Tragödien beeinflussten Shakespeare und das elisabethanische Theater. Heute erlebt er als Vertreter einer praktischen Lebensphilosophie eine bemerkenswerte Renaissance."
+  },
+  "kernideen": [
+    {
+      "titel": "Kürze des Lebens",
+      "beschreibung": "Das Leben ist nicht zu kurz – wir verschwenden es nur. Wer seine Zeit richtig nutzt und im Augenblick lebt, dem reicht das Leben. Die meisten Menschen leben nicht, sondern lassen sich von Geschäften, Zerstreuungen und Ängsten treiben."
+    },
+    {
+      "titel": "Affektkontrolle",
+      "beschreibung": "Die Leidenschaften – insbesondere der Zorn – sind Fehlurteile, die durch Vernunft und Übung kontrolliert werden können. Der Weise ist nicht gefühllos, aber er lässt sich nicht von seinen Gefühlen beherrschen."
+    },
+    {
+      "titel": "Praemeditatio Malorum",
+      "beschreibung": "Die Vorwegnahme künftiger Übel: Indem man sich mögliche Schicksalsschläge im Voraus vorstellt, verlieren sie ihren Schrecken. Was man erwartet, trifft milder."
+    },
+    {
+      "titel": "Memento Mori",
+      "beschreibung": "Das Bewusstsein der eigenen Sterblichkeit gibt dem Leben Dringlichkeit und Bedeutung. Lebe jeden Tag, als wäre es der letzte – nicht in Panik, sondern in bewusster Wertschätzung."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Epistulae Morales ad Lucilium (Moralische Briefe an Lucilius)",
+      "jahr": "62–65 n. Chr.",
+      "beschreibung": "124 Briefe an den Freund Lucilius über alle Fragen der Lebensführung. Senecas philosophisches Hauptwerk und eines der meistgelesenen Werke der antiken Philosophie."
+    },
+    {
+      "titel": "De Brevitate Vitae (Über die Kürze des Lebens)",
+      "jahr": "49 n. Chr.",
+      "beschreibung": "Dialog über die richtige Nutzung der Lebenszeit. Senecas berühmtester kurzer Text – eine zeitlose Reflexion über Zeitverschwendung und bewusstes Leben."
+    },
+    {
+      "titel": "De Ira (Über den Zorn)",
+      "jahr": "41 n. Chr.",
+      "beschreibung": "Drei Bücher über den Zorn als die schlimmste aller Leidenschaften und die Mittel zu seiner Überwindung."
+    },
+    {
+      "titel": "De Clementia (Über die Milde)",
+      "jahr": "55–56 n. Chr.",
+      "beschreibung": "An den jungen Kaiser Nero gerichtete Schrift über die Milde als höchste Herrschertugend. Ein Fürstenspiegel stoischer Prägung."
+    },
+    {
+      "titel": "De Tranquillitate Animi (Über die Seelenruhe)",
+      "jahr": "ca. 62 n. Chr.",
+      "beschreibung": "Dialog über die Erlangung innerer Gelassenheit trotz der Widrigkeiten des Lebens."
+    },
+    {
+      "titel": "De Vita Beata (Über das glückliche Leben)",
+      "jahr": "58 n. Chr.",
+      "beschreibung": "Verteidigung der stoischen Ethik gegen den Vorwurf, Senecas eigenes luxuriöses Leben stehe im Widerspruch zu seiner Philosophie."
+    },
+    {
+      "titel": "Naturales Quaestiones (Naturwissenschaftliche Untersuchungen)",
+      "jahr": "62–64 n. Chr.",
+      "beschreibung": "Sieben Bücher über Naturphänomene wie Blitz, Erdbeben und Kometen. Verbindung von Naturwissenschaft und stoischer Philosophie."
+    },
+    {
+      "titel": "Tragödien",
+      "jahr": "ca. 40–60 n. Chr.",
+      "beschreibung": "Neun Tragödien, darunter Medea, Phaedra, Thyestes und Oedipus. Die einzigen vollständig erhaltenen lateinischen Tragödien, die das europäische Theater der Renaissance maßgeblich beeinflussten."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Es ist nicht wenig Zeit, die wir haben, sondern es ist viel Zeit, die wir nicht nutzen.",
+      "quelle": "De Brevitate Vitae, 1, 3",
+      "kontext": "Der berühmte Eröffnungsgedanke über die Kürze des Lebens."
+    },
+    {
+      "text": "Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer.",
+      "quelle": "Epistulae Morales, 104, 26",
+      "kontext": "Seneca über die Überwindung von Ängsten durch mutiges Handeln."
+    },
+    {
+      "text": "Wir leiden häufiger in der Einbildung als in der Wirklichkeit.",
+      "quelle": "Epistulae Morales, 13, 4",
+      "kontext": "Über die Macht der Angst und der negativen Vorstellungen."
+    },
+    {
+      "text": "Glück ist, was passiert, wenn Vorbereitung auf Gelegenheit trifft.",
+      "quelle": "Zugeschrieben",
+      "kontext": "Seneca über das Verhältnis von Anstrengung und Zufall."
+    },
+    {
+      "text": "Es gibt keinen günstigen Wind für den, der nicht weiß, wohin er segeln will.",
+      "quelle": "Epistulae Morales, 71, 3",
+      "kontext": "Über die Notwendigkeit, klare Lebensziele zu haben."
+    }
+  ],
+  "verwandtePhilosophen": ["zenon-von-kition", "chrysipp", "epiktet", "marcus-aurelius", "cicero", "epikur"],
+  "verwandteIsmen": ["stoizismus", "praktische-philosophie", "ethik", "naturalismus"]
+}

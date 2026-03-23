@@ -1,0 +1,99 @@
+{
+  "slug": "boethius",
+  "name": "Boethius",
+  "lebensdaten": "477–524 n. Chr.",
+  "geboren": {
+    "jahr": 477,
+    "ort": "Rom",
+    "land": "Italien (Ostgotenreich)",
+    "lat": 41.90,
+    "lng": 12.50
+  },
+  "gestorben": {
+    "jahr": 524,
+    "ort": "Pavia",
+    "land": "Italien (Ostgotenreich)",
+    "lat": 45.19,
+    "lng": 9.16
+  },
+  "epoche": "Antike",
+  "region": "Italien",
+  "hauptstroemungen": ["Neuplatonismus", "Aristotelismus", "Christliche Philosophie"],
+  "kurzbeschreibung": "Anicius Manlius Severinus Boethius war der 'letzte Römer und erste Scholastiker', der die griechische Philosophie für das lateinische Mittelalter bewahrte. Sein im Kerker verfasstes Werk 'Trost der Philosophie' gehört zu den meistgelesenen Büchern der westlichen Zivilisation.",
+  "biografie": {
+    "fruehesLeben": "Boethius wurde um 477 n. Chr. in Rom in die Gens Anicia geboren, eine der vornehmsten und reichsten Familien des spätantiken Rom. Sein Vater war Konsul, starb aber früh. Der mächtige Senator Symmachus adoptierte den jungen Boethius und gab ihm seine Tochter Rusticiana zur Frau. Boethius erhielt eine hervorragende Ausbildung – möglicherweise in Athen oder Alexandria – und beherrschte die griechische Sprache und Philosophie wie kaum ein anderer Lateiner seiner Zeit.",
+    "schaffen": "Boethius hatte sich ein gewaltiges Ziel gesetzt: Er wollte die gesamten Werke Platons und Aristoteles' ins Lateinische übersetzen und ihre Übereinstimmung nachweisen. Dieses Projekt konnte er nur teilweise verwirklichen, doch was er schuf, wurde zur Grundlage der mittelalterlichen Bildung. Er übersetzte und kommentierte Aristoteles' logische Schriften (die 'Logica vetus' des Mittelalters), insbesondere die Kategorien und De Interpretatione. Er übersetzte Porphyrios' Isagoge, deren Fragen nach den Universalien (Gattungen und Arten) den mittelalterlichen Universalienstreit auslösten. Er verfasste eigenständige logische Werke und Abhandlungen über Musik (De institutione musica) und Arithmetik (De institutione arithmetica), die jahrhundertelang als Lehrbücher dienten. Am Hof des Ostgotenkönigs Theoderich in Ravenna stieg Boethius zum 'Magister officiorum' auf – dem höchsten zivilen Amt. Seine beiden Söhne wurden gemeinsam zu Konsuln ernannt. Doch 523 wurde er des Hochverrats und der Verschwörung mit dem oströmischen Kaiser angeklagt – angeblich hatte er einen Senator gegen falsche Anschuldigungen verteidigt. Er wurde in Pavia eingekerkert, wo er sein berühmtestes Werk verfasste: 'De consolatione philosophiae' (Trost der Philosophie). In fünf Büchern, die Prosa und Verse abwechseln (Prosimetrum), tritt die personifizierte Philosophia an das Krankenlager des Gefangenen und tröstet ihn. Sie zeigt, dass das wahre Glück nicht in äußeren Gütern liegt, sondern in der Erkenntnis des höchsten Guten – Gott. Das Schicksal (Fortuna) mit seinem Rad ist launisch und unzuverlässig; nur die innere Tugend bietet wahre Sicherheit. Das Werk diskutiert die göttliche Vorsehung, den freien Willen und das Problem des Bösen.",
+    "spaetesLeben": "Die letzten Monate seines Lebens verbrachte Boethius im Gefängnis in Pavia (oder in der Nähe). Trotz seiner verzweifelten Lage schuf er ein Werk von universaler Bedeutung. Bemerkenswert ist, dass die 'Consolatio' rein philosophisch argumentiert und keine explizit christlichen Argumente verwendet, obwohl Boethius Christ war.",
+    "tod": "Boethius wurde 524 n. Chr. auf Befehl Theoderichs hingerichtet – angeblich durch Erdrosselung mit einem Strick, nachdem er zuvor gefoltert worden war. Er wurde etwa 47 Jahre alt. Theoderich selbst starb nur zwei Jahre später, und es gibt Hinweise, dass er seine Tat bereute. Boethius wurde im Mittelalter als Märtyrer verehrt.",
+    "nachwirkung": "Boethius war die zentrale Vermittlerfigur zwischen Antike und Mittelalter. Seine Übersetzungen und Kommentare waren jahrhundertelang die einzige Quelle für das Studium der aristotelischen Logik im lateinischen Westen. Die 'Consolatio' war nach der Bibel eines der meistgelesenen Bücher des Mittelalters – König Alfred der Große übersetzte sie ins Altenglische, Chaucer ins Mittelenglische, Jean de Meun ins Französische. Dante platzierte Boethius im Paradies seiner 'Göttlichen Komödie'."
+  },
+  "kernideen": [
+    {
+      "titel": "Trost der Philosophie",
+      "beschreibung": "Die Philosophie vermag den Menschen auch in der schlimmsten Lage zu trösten, indem sie zeigt, dass das wahre Glück nicht in äußeren Gütern liegt, die das Schicksal geben und nehmen kann, sondern in der Erkenntnis des höchsten Guten."
+    },
+    {
+      "titel": "Das Rad der Fortuna",
+      "beschreibung": "Das Schicksal (Fortuna) dreht unablässig sein Rad: Wer oben ist, wird herabsinken; wer unten ist, wird aufsteigen. Sich an die Gaben der Fortuna zu klammern bedeutet, sich ihrem Rad zu unterwerfen."
+    },
+    {
+      "titel": "Ewigkeit und Zeit",
+      "beschreibung": "Gott schaut aus der Ewigkeit, in der alles gleichzeitig gegenwärtig ist, auf die zeitliche Welt. Sein Vorherwissen hebt den freien Willen nicht auf, da er nicht voraus-sieht, sondern alles in einem ewigen Jetzt sieht."
+    },
+    {
+      "titel": "Universalienproblem",
+      "beschreibung": "Durch seine Übersetzung und Kommentierung der Isagoge des Porphyrios stellte Boethius die Frage, ob Universalien (Gattungen und Arten) real existieren oder nur Gedanken sind – die zentrale Frage des mittelalterlichen Universalienstreits."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "De consolatione philosophiae (Trost der Philosophie)",
+      "jahr": "523–524",
+      "beschreibung": "Im Kerker verfasstes Hauptwerk in fünf Büchern (Prosimetrum). Die personifizierte Philosophie tröstet den eingekerkerten Boethius und zeigt den Weg zum wahren Glück. Eines der einflussreichsten Bücher des Mittelalters."
+    },
+    {
+      "titel": "Übersetzungen und Kommentare zu Aristoteles",
+      "jahr": "ca. 505–523",
+      "beschreibung": "Lateinische Übersetzungen von Aristoteles' Kategorien und De Interpretatione sowie der Isagoge des Porphyrios, ergänzt durch umfangreiche Kommentare. Grundlage der mittelalterlichen Logik."
+    },
+    {
+      "titel": "De institutione musica (Über die Musik)",
+      "jahr": "ca. 510",
+      "beschreibung": "Fünf Bücher über die Musiktheorie, die pythagorische Tradition und die Mathematik der Harmonien. Jahrhundertelang das maßgebliche Lehrbuch der Musik an den mittelalterlichen Universitäten."
+    },
+    {
+      "titel": "De institutione arithmetica (Über die Arithmetik)",
+      "jahr": "ca. 500",
+      "beschreibung": "Zwei Bücher über die Zahlentheorie, basierend auf dem Werk des Nikomachos von Gerasa. Grundlegendes Lehrbuch der mittelalterlichen Arithmetik."
+    },
+    {
+      "titel": "Theologische Traktate (Opuscula sacra)",
+      "jahr": "ca. 512–523",
+      "beschreibung": "Fünf theologische Abhandlungen, die philosophische Methoden auf theologische Fragen anwenden: Trinität, Christologie und das Verhältnis von Glaube und Vernunft."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wenn du das Antlitz der Fortuna siehst, denke daran, dass es sich dreht.",
+      "quelle": "De consolatione philosophiae, II",
+      "kontext": "Die Philosophie warnt Boethius vor dem Vertrauen auf das launische Glück."
+    },
+    {
+      "text": "Im Widrigen zeigt sich, wer wahre Freunde hat und wer nicht.",
+      "quelle": "De consolatione philosophiae, II, 8",
+      "kontext": "Boethius über den Wert der Freundschaft im Unglück."
+    },
+    {
+      "text": "Nichts ist elend, was man nicht dafür hält.",
+      "quelle": "De consolatione philosophiae, II, 4",
+      "kontext": "Stoisch-neuplatonischer Grundsatz: Das Unglück liegt im Urteil, nicht in den Dingen."
+    },
+    {
+      "text": "Ewigkeit ist der vollständige und vollkommene Besitz unbegrenzten Lebens auf einmal.",
+      "quelle": "De consolatione philosophiae, V, 6",
+      "kontext": "Boethius' berühmte Definition der Ewigkeit, die von Thomas von Aquin übernommen wurde."
+    }
+  ],
+  "verwandtePhilosophen": ["aristoteles", "platon", "augustinus", "thomas-von-aquin", "plotin"],
+  "verwandteIsmen": ["neuplatonismus", "aristotelismus", "scholastik", "christliche-philosophie"]
+}

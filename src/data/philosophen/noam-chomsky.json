@@ -1,0 +1,97 @@
+{
+  "slug": "noam-chomsky",
+  "name": "Noam Chomsky",
+  "lebensdaten": "1928–",
+  "geboren": {
+    "jahr": 1928,
+    "ort": "Philadelphia",
+    "land": "USA",
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": ""
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Linguistik", "Sprachphilosophie", "Politische Philosophie", "Anarchismus"],
+  "kurzbeschreibung": "Noam Chomsky ist einer der einflussreichsten Intellektuellen der Gegenwart, der als Begründer der generativen Grammatik die Linguistik revolutionierte und als politischer Aktivist und Medienkritiker zu den schärfsten Kritikern der amerikanischen Außenpolitik gehört. Seine linguistischen Arbeiten veränderten die Kognitionswissenschaft fundamental, und seine politischen Schriften erreichten ein Millionenpublikum.",
+  "biografie": {
+    "fruehesLeben": "Avram Noam Chomsky wurde am 7. Dezember 1928 in Philadelphia als Sohn ukrainisch-jüdischer Einwanderer geboren. Sein Vater William Chomsky war ein angesehener Hebraist. Chomsky wuchs in einem intellektuell stimulierenden Umfeld auf und wurde früh von anarchistischen und sozialistischen Ideen beeinflusst. Er studierte Linguistik, Philosophie und Mathematik an der University of Pennsylvania, wo er bei Zellig Harris studierte, und promovierte 1955 mit einer bahnbrechenden Arbeit über transformationelle Grammatik.",
+    "schaffen": "Chomskys 'Syntactic Structures' (1957) revolutionierte die Linguistik und begründete die generative Grammatik. Er zeigte, dass die menschliche Sprache nicht durch Nachahmung und Gewohnheit erlernt wird (wie Behavioristen wie Skinner behaupteten), sondern auf einer angeborenen Sprachfähigkeit – einer 'Universalgrammatik' – beruht. Seine vernichtende Rezension von B.F. Skinners 'Verbal Behavior' (1959) markierte das Ende des Behaviorismus in der Linguistik und den Beginn der 'kognitiven Revolution'. Am MIT, wo er seit 1955 lehrte, entwickelte er seine linguistische Theorie über Jahrzehnte weiter – von der Standardtheorie über die erweiterte Standardtheorie bis zum Minimalismus. Parallel zu seiner linguistischen Arbeit wurde Chomsky ab den 1960er Jahren zu einem der prominentesten politischen Dissidenten der USA. Er engagierte sich gegen den Vietnamkrieg und analysierte in zahlreichen Büchern die Mechanismen der US-Außenpolitik und der Medienpropaganda. 'Manufacturing Consent' (1988, mit Edward Herman) analysierte die 'Propagandamodell' der Massenmedien.",
+    "spaetesLeben": "Chomsky blieb bis ins hohe Alter einer der produktivsten Intellektuellen der Welt, veröffentlichte regelmäßig Bücher und hielt Vorträge weltweit. 2017 wechselte er von MIT an die University of Arizona. Er setzte seine politischen Analysen über den Irakkrieg, den Neoliberalismus, den Klimawandel und die Krise der Demokratie fort. Nach einem Schlaganfall 2023 wurde seine öffentliche Aktivität eingeschränkt.",
+    "tod": "Noam Chomsky lebt weiterhin, ist aber seit seinem Schlaganfall 2023 in seiner Aktivität eingeschränkt.",
+    "nachwirkung": "Chomsky hat die Linguistik, die Kognitionswissenschaft und die Philosophie des Geistes grundlegend verändert. Seine These der angeborenen Universalgrammatik ist eine der einflussreichsten wissenschaftlichen Hypothesen des 20. Jahrhunderts. Als politischer Intellektueller hat er Generationen von Aktivisten inspiriert und die Medienkritik als akademisches Feld mitbegründet. Er wird regelmäßig als einer der meistzitierten lebenden Wissenschaftler genannt."
+  },
+  "kernideen": [
+    {
+      "titel": "Universalgrammatik",
+      "beschreibung": "Die Fähigkeit zur Sprache ist dem Menschen angeboren. Alle menschlichen Sprachen teilen eine gemeinsame Tiefenstruktur – eine 'Universalgrammatik' –, die genetisch verankert ist und die erstaunliche Schnelligkeit erklärt, mit der Kinder Sprache erwerben."
+    },
+    {
+      "titel": "Generative Grammatik",
+      "beschreibung": "Eine Grammatik ist ein System endlicher Regeln, das eine unendliche Menge grammatisch korrekter Sätze erzeugen kann. Diese kreative Aspekt der Sprache – die Fähigkeit, unendlich viele neue Sätze zu bilden – ist das zentrale Merkmal der menschlichen Sprachfähigkeit."
+    },
+    {
+      "titel": "Propagandamodell der Medien",
+      "beschreibung": "Die Massenmedien in demokratischen Gesellschaften funktionieren als Propagandainstrumente, die den Konsens zugunsten der herrschenden Eliten herstellen. Fünf 'Filter' (Eigentumsstruktur, Werbung, Quellen, Flak, Antikommunismus/Ideologie) bestimmen, was als Nachricht erscheint."
+    },
+    {
+      "titel": "Libertärer Sozialismus",
+      "beschreibung": "Chomsky versteht sich als libertärer Sozialist in der Tradition des Anarchosyndikalismus. Er plädiert für eine Gesellschaft ohne illegitime Autoritätsstrukturen, in der die Arbeiter die Kontrolle über die Produktionsmittel ausüben."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Syntactic Structures",
+      "jahr": "1957",
+      "beschreibung": "Das Gründungswerk der generativen Grammatik revolutionierte die Linguistik und leitete die 'kognitive Revolution' in den Wissenschaften vom Menschen ein."
+    },
+    {
+      "titel": "Aspects of the Theory of Syntax",
+      "jahr": "1965",
+      "beschreibung": "Die systematische Darstellung der Standardtheorie der generativen Grammatik, die die Unterscheidung von Tiefen- und Oberflächenstruktur entwickelt."
+    },
+    {
+      "titel": "Manufacturing Consent (mit Edward Herman)",
+      "jahr": "1988",
+      "beschreibung": "Das einflussreichste Werk der Medienkritik entwickelt das 'Propagandamodell' der Massenmedien und zeigt, wie 'Konsens hergestellt' wird."
+    },
+    {
+      "titel": "American Power and the New Mandarins",
+      "jahr": "1969",
+      "beschreibung": "Chomskys erstes politisches Buch analysiert die Rolle der amerikanischen Intellektuellen in der Legitimierung des Vietnamkriegs."
+    },
+    {
+      "titel": "Profit over People",
+      "jahr": "1999",
+      "beschreibung": "Eine Kritik des Neoliberalismus und seiner Auswirkungen auf Demokratie, Umwelt und soziale Gerechtigkeit."
+    },
+    {
+      "titel": "The Minimalist Program",
+      "jahr": "1995",
+      "beschreibung": "Chomskys radikale Vereinfachung der generativen Grammatik, die nur noch minimale Annahmen über die Sprachfähigkeit macht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Colorless green ideas sleep furiously.",
+      "quelle": "Syntactic Structures",
+      "kontext": "Der berühmte Beispielsatz, der zeigt, dass ein grammatisch korrekter Satz semantisch sinnlos sein kann."
+    },
+    {
+      "text": "If we don't believe in freedom of expression for people we despise, we don't believe in it at all.",
+      "quelle": "Interview, 1992",
+      "kontext": "Chomskys kompromisslose Verteidigung der Meinungsfreiheit, auch für die Gegner dieser Freiheit."
+    },
+    {
+      "text": "The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum.",
+      "quelle": "The Common Good",
+      "kontext": "Die Analyse der Herstellung von Konsens durch kontrollierte Debatte in demokratischen Gesellschaften."
+    }
+  ],
+  "verwandtePhilosophen": ["bertrand-russell", "john-dewey", "willard-van-orman-quine", "peter-singer"],
+  "verwandteIsmen": ["anarchismus", "linguistik", "rationalismus", "libertaerer-sozialismus"]
+}

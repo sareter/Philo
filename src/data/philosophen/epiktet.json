@@ -1,0 +1,84 @@
+{
+  "slug": "epiktet",
+  "name": "Epiktet",
+  "lebensdaten": "50–135 n. Chr.",
+  "geboren": {
+    "jahr": 50,
+    "ort": "Hierapolis",
+    "land": "Phrygien (Römisches Reich, heutige Türkei)",
+    "lat": 37.93,
+    "lng": 29.12
+  },
+  "gestorben": {
+    "jahr": 135,
+    "ort": "Nikopolis",
+    "land": "Epirus (Römisches Reich, heutiges Griechenland)",
+    "lat": 39.01,
+    "lng": 20.72
+  },
+  "epoche": "Antike",
+  "region": "Römisches Reich",
+  "hauptstroemungen": ["Stoizismus", "Ethik", "Praktische Philosophie"],
+  "kurzbeschreibung": "Epiktet war ein ehemaliger Sklave, der zu einem der einflussreichsten stoischen Philosophen wurde. Seine Lehre von der Unterscheidung zwischen dem, was in unserer Macht steht, und dem, was nicht in unserer Macht steht, bildet den Kern der stoischen Lebensweisheit.",
+  "biografie": {
+    "fruehesLeben": "Epiktet wurde um 50 n. Chr. in Hierapolis in Phrygien (heute Pamukkale in der Türkei) als Sklave geboren. Sein Name 'Epiktetos' bedeutet 'der Hinzuerworbene' – es war kein Eigenname, sondern bezeichnete seinen Status als Sklave. Er wurde nach Rom gebracht und gehörte Epaphroditos, einem freigelassenen Sekretär Kaiser Neros. Trotz seiner Sklaverei durfte er die Vorlesungen des stoischen Philosophen Musonius Rufus besuchen, der sein prägender Lehrer wurde. Eine antike Überlieferung berichtet, sein Herr habe ihm einmal das Bein gebrochen; Epiktet soll kommentiert haben: 'Habe ich dir nicht gesagt, dass du es brechen wirst?' – ein Beispiel für stoische Gelassenheit, allerdings ist die Historizität dieser Anekdote umstritten. Er könnte auch durch eine Krankheit gehbehindert geworden sein.",
+    "schaffen": "Nach seiner Freilassung – vermutlich nach Neros Tod 68 n. Chr. – lehrte Epiktet in Rom, bis Kaiser Domitian 89 oder 93 n. Chr. alle Philosophen aus der Stadt verbannte. Epiktet zog nach Nikopolis in Nordwestgriechenland, wo er eine Philosophenschule gründete, die schnell berühmt wurde. Er lebte in äußerster Einfachheit – seine gesamte Einrichtung bestand angeblich aus einem Bett, einer Matte und einer Tonlampe (nachdem die erste eiserne gestohlen worden war). Seine Lehre konzentrierte sich auf die fundamentale Unterscheidung zwischen dem, was 'bei uns' steht (eph' hemin) – unsere Urteile, Impulse und Wünsche – und dem, was 'nicht bei uns' steht (ouk eph' hemin) – Körper, Besitz, Ruhm und alles Äußere. Frei und glücklich wird nur, wer sich ausschließlich um das kümmert, was in seiner Macht steht. Epiktet verglich den Philosophen mit einem Arzt: Die Philosophenschule ist ein Hospital, und die Schüler sollen sie nicht erfreut, sondern mit dem Bewusstsein verlassen, dass sie krank sind und geheilt werden müssen. Er schrieb selbst nichts, aber sein Schüler Arrian von Nikomedien zeichnete seine Lehrgespräche in den 'Diatribai' (Unterredungen) und im 'Handbüchlein' (Encheiridion) auf.",
+    "spaetesLeben": "Epiktet lehrte in Nikopolis bis ins hohe Alter. In seinen späten Jahren nahm er ein verwaistes Kind auf und zog es mit Hilfe einer Frau groß. Seine Schule zog Studenten aus dem gesamten Römischen Reich an, darunter möglicherweise auch Arrian, der spätere Historiker Alexanders des Großen und Senator.",
+    "tod": "Epiktet starb um 135 n. Chr. in Nikopolis, vermutlich im Alter von etwa 85 Jahren. Über die Umstände seines Todes ist nichts bekannt. Sein 'Handbüchlein' wurde zu einem der meistgelesenen Bücher der Antike.",
+    "nachwirkung": "Epiktets Einfluss ist immens. Seine Lehre beeinflusste Marcus Aurelius, der die 'Unterredungen' als junger Mann studierte. Das Encheiridion wurde im Mittelalter in christlichen Klöstern gelesen und adaptiert. In der Neuzeit beeinflusste Epiktet Descartes, Pascal und die gesamte Moralistik. Die kognitive Verhaltenstherapie von Albert Ellis und Aaron Beck beruft sich explizit auf Epiktets Grundeinsicht, dass nicht die Dinge selbst, sondern unsere Urteile über die Dinge uns beunruhigen. Admiral James Stockdale überlebte Jahre der Kriegsgefangenschaft in Vietnam durch die Anwendung epiktetischer Prinzipien."
+  },
+  "kernideen": [
+    {
+      "titel": "Dichotomie der Kontrolle",
+      "beschreibung": "Die fundamentale Unterscheidung: Einiges steht in unserer Macht (Urteile, Wünsche, Abneigungen), anderes nicht (Körper, Besitz, Ruhm, äußere Umstände). Glück kommt nur, wenn wir uns auf das konzentrieren, was wir kontrollieren können."
+    },
+    {
+      "titel": "Nicht die Dinge beunruhigen uns",
+      "beschreibung": "Nicht die Dinge selbst beunruhigen die Menschen, sondern die Vorstellungen (dogmata) von den Dingen. Der Tod zum Beispiel ist nicht furchtbar – furchtbar ist nur die Vorstellung, der Tod sei furchtbar."
+    },
+    {
+      "titel": "Prohairesis (Moralischer Wille)",
+      "beschreibung": "Der moralische Wille (prohairesis) ist das einzige, was wahrhaft unser eigen ist. Niemand kann uns zwingen, falsch zu urteilen oder schlecht zu wollen – in diesem innersten Kern sind wir absolut frei."
+    },
+    {
+      "titel": "Rollen im Lebensdrama",
+      "beschreibung": "Das Leben ist wie ein Drama, in dem uns die Rollen zugeteilt werden. Wir wählen nicht, ob wir König oder Bettler, gesund oder krank sind – aber wir können unsere Rolle gut spielen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Diatribai (Unterredungen / Dissertationes)",
+      "jahr": "ca. 108 n. Chr.",
+      "beschreibung": "Von Arrian aufgezeichnete Lehrgespräche Epiktets in vier erhaltenen Büchern (ursprünglich acht). Detaillierte Darstellung der epiktetischen Philosophie in lebendigem, gesprächsnahem Stil."
+    },
+    {
+      "titel": "Encheiridion (Handbüchlein)",
+      "jahr": "ca. 108 n. Chr.",
+      "beschreibung": "Von Arrian zusammengestellte Kurzfassung der wichtigsten Lehren Epiktets. Ein Kompendium praktischer Lebensweisheit, das zu den meistgelesenen Büchern der Antike gehört."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Nicht die Dinge selbst beunruhigen die Menschen, sondern die Vorstellungen von den Dingen.",
+      "quelle": "Encheiridion, 5",
+      "kontext": "Der berühmteste Satz Epiktets und Grundlage der kognitiven Verhaltenstherapie."
+    },
+    {
+      "text": "Einiges steht in unserer Macht, anderes nicht. In unserer Macht stehen: Meinung, Antrieb, Begierde, Ablehnung – kurz, alles, was unser eigenes Werk ist.",
+      "quelle": "Encheiridion, 1",
+      "kontext": "Der Eröffnungssatz des Handbüchleins – die fundamentale Unterscheidung der stoischen Ethik."
+    },
+    {
+      "text": "Ertrage und entsage.",
+      "quelle": "Fragment, überliefert bei Gellius",
+      "kontext": "Die kürzeste Zusammenfassung der epiktetischen Ethik: 'Anechou kai apechou.'"
+    },
+    {
+      "text": "Wer frei sein will, darf nicht wünschen oder meiden, was in der Macht anderer steht. Sonst muss er notwendig ein Sklave sein.",
+      "quelle": "Encheiridion, 14",
+      "kontext": "Epiktet – selbst ehemaliger Sklave – über die wahre Freiheit."
+    }
+  ],
+  "verwandtePhilosophen": ["marcus-aurelius", "seneca", "zenon-von-kition", "chrysipp", "sokrates"],
+  "verwandteIsmen": ["stoizismus", "praktische-philosophie", "ethik", "askese"]
+}

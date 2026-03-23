@@ -1,0 +1,85 @@
+{
+  "slug": "gorgias",
+  "name": "Gorgias",
+  "lebensdaten": "483–375 v. Chr.",
+  "geboren": {
+    "jahr": -483,
+    "ort": "Leontinoi",
+    "land": "Griechenland (Sizilien)",
+    "lat": 37.29,
+    "lng": 14.99
+  },
+  "gestorben": {
+    "jahr": -375,
+    "ort": "Larissa",
+    "land": "Griechenland (Thessalien)",
+    "lat": 39.64,
+    "lng": 22.42
+  },
+  "epoche": "Antike",
+  "region": "Sizilien / Griechenland",
+  "hauptstroemungen": ["Sophistik", "Rhetorik", "Nihilismus"],
+  "kurzbeschreibung": "Gorgias von Leontinoi war einer der bedeutendsten griechischen Sophisten und gilt als Begründer der Kunstprosa. Mit seiner radikalen These, dass nichts existiert, revolutionierte er die Rhetorik und stellte die Möglichkeit objektiver Erkenntnis grundsätzlich in Frage.",
+  "biografie": {
+    "fruehesLeben": "Gorgias wurde um 483 v. Chr. in Leontinoi (dem heutigen Lentini) auf Sizilien geboren. Er war Schüler des Empedokles und soll auch die Lehren des Zenon von Elea studiert haben. Über seine Jugend ist wenig bekannt, doch bildete das intellektuell reiche Sizilien mit seinem Erbe der pythagoreischen und eleatischen Philosophie einen fruchtbaren Nährboden für seine Entwicklung.",
+    "schaffen": "Gorgias' philosophische Hauptleistung ist die Schrift 'Über das Nichtseiende oder Über die Natur', in der er drei provokante Thesen aufstellt: (1) Nichts existiert. (2) Selbst wenn etwas existierte, wäre es nicht erkennbar. (3) Selbst wenn es erkennbar wäre, wäre es nicht mitteilbar. Diese dreifache Negation – ob ernst gemeint oder als rhetorische Übung – war eine radikale Herausforderung an die eleatische Ontologie des Parmenides. Gorgias kehrte dessen Argumente gleichsam um: Hatte Parmenides die Realität des Nichtseins bestritten, so bestritt Gorgias die Realität des Seins. Als Redner war Gorgias unübertroffen und begründete einen neuen Prosastil, der durch Antithesen, Parallelismen, rhythmische Klangfiguren und poetische Ausdrucksweise gekennzeichnet war. Dieser 'gorgianische Stil' beeinflusste die gesamte antike Rhetorik. 427 v. Chr. kam Gorgias als Gesandter von Leontinoi nach Athen, um Hilfe gegen Syrakus zu erbitten. Seine Rede vor der athenischen Volksversammlung machte so großen Eindruck, dass er in Athen blieb und als Rhetoriklehrer berühmt wurde. Er unterrichtete zahlreiche prominente Schüler, darunter Isokrates und den Historiker Thukydides. Seine Musterreden 'Lob der Helena' und 'Verteidigung des Palamedes' sind Meisterwerke der sophistischen Rhetorik. In der Helena-Rede argumentiert er, dass Helena für den Trojanischen Krieg nicht schuldig sei, da sie entweder durch göttlichen Willen, durch Gewalt, durch die Macht der Worte oder durch die Liebe gezwungen wurde.",
+    "spaetesLeben": "Gorgias reiste als Wanderlehrer durch ganz Griechenland und erwarb ein beträchtliches Vermögen. Er hielt Reden bei den Olympischen und Pythischen Spielen und wurde überall als der größte Redner seiner Zeit verehrt. In Delphi wurde ihm eine goldene Statue errichtet – eine einzigartige Ehre. Er soll bis ins höchste Alter geistig und körperlich rüstig geblieben sein.",
+    "tod": "Gorgias starb um 375 v. Chr. in Larissa in Thessalien im außergewöhnlichen Alter von etwa 108 Jahren. Auf die Frage nach dem Geheimnis seines langen Lebens soll er geantwortet haben, er habe sich nie von einem anderen etwas zuliebe getan. Cicero berichtet, er habe bis zuletzt an seiner Rhetorik gearbeitet.",
+    "nachwirkung": "Gorgias' Einfluss auf die Rhetorik und die Philosophie war gewaltig. Er begründete die Kunstprosa und die systematische Stilistik. Sein nihilistisches Argument inspirierte skeptische Philosophen durch die Jahrhunderte. Platon widmete ihm einen gleichnamigen Dialog, in dem Sokrates die Rhetorik als bloße Schmeichelei entlarvt. In der modernen Philosophie wurden seine Argumente über die Unmöglichkeit der Kommunikation von Denkern wie Derrida und der Sprachphilosophie wieder aufgegriffen."
+  },
+  "kernideen": [
+    {
+      "titel": "Dreifache Negation",
+      "beschreibung": "Gorgias' radikale These: (1) Nichts existiert. (2) Wenn etwas existierte, wäre es nicht erkennbar. (3) Wenn es erkennbar wäre, wäre es nicht mitteilbar. Diese dreifache Negation stellt Sein, Erkenntnis und Kommunikation grundsätzlich in Frage."
+    },
+    {
+      "titel": "Macht der Rede (Logos)",
+      "beschreibung": "Die Rede ist ein mächtiger Herrscher, der mit dem kleinsten und unsichtbarsten Körper die göttlichsten Werke vollbringt. Worte können Furcht vertreiben, Trauer beseitigen, Freude erzeugen und Mitleid erwecken."
+    },
+    {
+      "titel": "Rhetorik als Techne",
+      "beschreibung": "Die Redekunst ist eine erlernbare Kunst (techne), die durch systematisches Training erworben werden kann. Sie verleiht dem Redner Macht über die Meinungen und Emotionen der Zuhörer."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Über das Nichtseiende oder Über die Natur",
+      "jahr": "ca. 440 v. Chr.",
+      "beschreibung": "Philosophisches Hauptwerk mit der dreifachen Negation von Sein, Erkenntnis und Mitteilbarkeit. Nur in Zusammenfassungen bei Sextus Empiricus und in der pseudo-aristotelischen Schrift 'De Melisso, Xenophane, Gorgia' erhalten."
+    },
+    {
+      "titel": "Lob der Helena (Enkomion auf Helena)",
+      "jahr": "ca. 420 v. Chr.",
+      "beschreibung": "Musterrede, in der Gorgias Helena von der Schuld am Trojanischen Krieg freispricht. Enthält eine berühmte Reflexion über die Macht der Worte. Vollständig erhalten."
+    },
+    {
+      "titel": "Verteidigung des Palamedes",
+      "jahr": "ca. 420 v. Chr.",
+      "beschreibung": "Fiktive Verteidigungsrede des mythischen Palamedes, der von Odysseus des Verrats beschuldigt wurde. Meisterstück sophistischer Argumentationskunst. Vollständig erhalten."
+    },
+    {
+      "titel": "Olympische Rede",
+      "jahr": "408 v. Chr.",
+      "beschreibung": "Rede bei den Olympischen Spielen, in der Gorgias die griechischen Städte zur Einheit gegen die Perser aufrief. Nur Fragmente erhalten."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Nichts existiert. Wenn etwas existierte, wäre es nicht erkennbar. Wenn es erkennbar wäre, wäre es nicht mitteilbar.",
+      "quelle": "Über das Nichtseiende, überliefert bei Sextus Empiricus",
+      "kontext": "Die berühmte dreifache Negation – das radikalste Argument der antiken Philosophie."
+    },
+    {
+      "text": "Die Rede ist ein mächtiger Herrscher, der mit dem kleinsten und unsichtbarsten Körper die göttlichsten Werke vollbringt.",
+      "quelle": "Lob der Helena, 8",
+      "kontext": "Gorgias über die beinahe magische Kraft der Worte."
+    },
+    {
+      "text": "Die Tragödie ist eine Täuschung, bei der der Täuschende gerechter ist als der Nichttäuschende und der Getäuschte weiser als der Nichtgetäuschte.",
+      "quelle": "Fragment DK 82 B 23",
+      "kontext": "Gorgias über die Kunst als produktive Täuschung – ein Vorläufer moderner Ästhetik."
+    }
+  ],
+  "verwandtePhilosophen": ["protagoras", "sokrates", "platon", "empedokles", "parmenides"],
+  "verwandteIsmen": ["sophistik", "nihilismus", "relativismus", "skeptizismus"]
+}

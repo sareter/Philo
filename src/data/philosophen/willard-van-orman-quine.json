@@ -1,0 +1,99 @@
+{
+  "slug": "willard-van-orman-quine",
+  "name": "Willard Van Orman Quine",
+  "lebensdaten": "1908–2000",
+  "geboren": {
+    "jahr": 1908,
+    "ort": "Akron",
+    "land": "USA",
+    "lat": 41.0814,
+    "lng": -81.519
+  },
+  "gestorben": {
+    "jahr": 2000,
+    "ort": "Boston",
+    "land": "USA",
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Analytische Philosophie", "Naturalismus", "Holismus"],
+  "kurzbeschreibung": "Willard Van Orman Quine war einer der bedeutendsten analytischen Philosophen des 20. Jahrhunderts. Mit seiner Kritik an der Unterscheidung von analytischen und synthetischen Urteilen ('Two Dogmas of Empiricism') erschütterte er die Grundlagen des logischen Empirismus. Sein holistisches Wissenschaftsbild und sein naturalisierter Erkenntnistheorie-Ansatz prägten die analytische Philosophie nachhaltig.",
+  "biografie": {
+    "fruehesLeben": "Willard Van Orman Quine wurde am 25. Juni 1908 in Akron, Ohio, geboren. Schon als Jugendlicher entwickelte er eine Leidenschaft für Logik und Mathematik. Er studierte Mathematik am Oberlin College und promovierte 1932 in Harvard bei Alfred North Whitehead mit einer Arbeit über die Grundlagen der Mathematik. Ein Stipendium führte ihn nach Europa, wo er den Wiener Kreis und insbesondere Rudolf Carnap kennenlernte, der zu seinem wichtigsten philosophischen Gesprächspartner und Gegner wurde.",
+    "schaffen": "Quine lehrte von 1936 bis zu seiner Emeritierung 1978 an der Harvard University und wurde zum einflussreichsten analytischen Philosophen seiner Generation. Sein epochaler Aufsatz 'Two Dogmas of Empiricism' (1951) stellte zwei zentrale Annahmen des logischen Empirismus infrage: die Unterscheidung zwischen analytischen (aufgrund der Bedeutung wahren) und synthetischen (aufgrund der Erfahrung wahren) Sätzen sowie den Reduktionismus – die These, dass jeder sinnvolle Satz auf Erfahrungssätze zurückgeführt werden kann. Stattdessen argumentierte Quine für einen holistischen Empirismus: Unsere Überzeugungen bilden ein Netz, das als Ganzes der Erfahrung gegenübersteht, und keine einzelne Überzeugung ist immun gegen Revision. 'Word and Object' (1960) entwickelte seine Theorie der Übersetzungsunbestimmtheit und der ontologischen Relativität. Die 'naturalisierte Erkenntnistheorie' ersetzte die traditionelle Frage nach der Begründung des Wissens durch die empirische Untersuchung, wie Menschen tatsächlich zu Überzeugungen kommen. Sein ontologisches Kriterium lautet: 'Sein ist der Wert einer gebundenen Variable' – wir verpflichten uns auf die Existenz der Entitäten, über die unsere besten Theorien quantifizieren.",
+    "spaetesLeben": "Quine blieb bis ins hohe Alter intellektuell aktiv und veröffentlichte zahlreiche Bücher und Aufsätze. Er war ein begeisterter Reisender, der über 100 Länder besuchte, und ein begabter Kartenzeichner. Seine Autobiografie 'The Time of My Life' (1985) zeichnet ein lebendiges Bild eines Philosophenlebens im 20. Jahrhundert. Er erhielt zahlreiche Ehrendoktortitel und Auszeichnungen.",
+    "tod": "Willard Van Orman Quine starb am 25. Dezember 2000 in Boston, Massachusetts, an den Folgen einer Infektion. Er war 92 Jahre alt.",
+    "nachwirkung": "Quines Einfluss auf die analytische Philosophie ist fundamental. Seine Kritik an der analytisch-synthetisch-Unterscheidung veränderte die Erkenntnistheorie und die Sprachphilosophie grundlegend. Sein Holismus beeinflusste Donald Davidson, Richard Rorty und viele andere. Die naturalisierte Erkenntnistheorie wurde zum dominierenden Paradigma in der analytischen Philosophie. Seine Theorie der Übersetzungsunbestimmtheit wirkte auf die Linguistik, die Philosophie des Geistes und die Wissenschaftstheorie."
+  },
+  "kernideen": [
+    {
+      "titel": "Kritik der analytisch-synthetisch-Unterscheidung",
+      "beschreibung": "Die Unterscheidung zwischen analytischen Sätzen (wahr aufgrund ihrer Bedeutung) und synthetischen Sätzen (wahr aufgrund der Erfahrung) ist unhaltbar. Es gibt kein klares Kriterium für Analytizität, und alle Überzeugungen sind prinzipiell revidierbar."
+    },
+    {
+      "titel": "Holistischer Empirismus",
+      "beschreibung": "Unsere Überzeugungen stehen nicht einzeln der Erfahrung gegenüber, sondern als Gesamtheit – wie ein 'Netz'. Wenn eine Erfahrung unsere Überzeugungen infrage stellt, können wir an verschiedenen Stellen des Netzes Revisionen vornehmen."
+    },
+    {
+      "titel": "Ontologische Relativität und Übersetzungsunbestimmtheit",
+      "beschreibung": "Es gibt keine eindeutige Übersetzung zwischen Sprachen – die 'radikale Übersetzung' einer völlig fremden Sprache ist prinzipiell unbestimmt. Daraus folgt, dass auch die Referenz unserer Ausdrücke 'unerforschlich' ist."
+    },
+    {
+      "titel": "Naturalisierte Erkenntnistheorie",
+      "beschreibung": "Die Erkenntnistheorie soll nicht nach einer philosophischen Begründung des Wissens suchen, sondern als Teilgebiet der empirischen Psychologie untersuchen, wie Menschen tatsächlich auf der Basis sensorischer Reize zu Überzeugungen gelangen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Two Dogmas of Empiricism",
+      "jahr": "1951",
+      "beschreibung": "Der einflussreichste philosophische Aufsatz des 20. Jahrhunderts kritisiert die analytisch-synthetisch-Unterscheidung und den Reduktionismus und begründet den holistischen Empirismus."
+    },
+    {
+      "titel": "Word and Object",
+      "jahr": "1960",
+      "beschreibung": "Quines philosophisches Hauptwerk entwickelt die Theorie der Übersetzungsunbestimmtheit und der ontologischen Relativität anhand des Gedankenexperiments der 'radikalen Übersetzung'."
+    },
+    {
+      "titel": "From a Logical Point of View",
+      "jahr": "1953",
+      "beschreibung": "Eine einflussreiche Sammlung von Aufsätzen, die 'Two Dogmas' und den berühmten Essay 'On What There Is' enthält."
+    },
+    {
+      "titel": "Ontological Relativity and Other Essays",
+      "jahr": "1969",
+      "beschreibung": "Enthält den programmatischen Aufsatz 'Epistemology Naturalized', der die traditionelle Erkenntnistheorie durch eine empirische Untersuchung ersetzen will."
+    },
+    {
+      "titel": "The Web of Belief (mit J.S. Ullian)",
+      "jahr": "1970",
+      "beschreibung": "Eine zugängliche Darstellung von Quines holistischem Empirismus und seiner Theorie der Überzeugungsrevision."
+    },
+    {
+      "titel": "Mathematical Logic",
+      "jahr": "1940",
+      "beschreibung": "Quines systematische Darstellung der mathematischen Logik, die sein New Foundations-System enthält."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Keine Aussage ist immun gegen Revision.",
+      "quelle": "Two Dogmas of Empiricism",
+      "kontext": "Die holistische Kernthese: Jede Überzeugung, auch eine scheinbar logisch-analytische, kann im Licht neuer Erfahrungen revidiert werden."
+    },
+    {
+      "text": "Sein ist der Wert einer gebundenen Variable.",
+      "quelle": "On What There Is",
+      "kontext": "Quines berühmtes Kriterium der ontologischen Verpflichtung: Wir verpflichten uns auf die Existenz der Entitäten, über die unsere Theorien quantifizieren."
+    },
+    {
+      "text": "Die Gesamtheit unseres sogenannten Wissens oder unserer Überzeugungen ist ein von Menschen gewebtes Netz, das nur an seinen Rändern die Erfahrung berührt.",
+      "quelle": "Two Dogmas of Empiricism",
+      "kontext": "Die holistische Metapher des 'Netzes der Überzeugungen', das als Ganzes der Erfahrung gegenübersteht."
+    }
+  ],
+  "verwandtePhilosophen": ["bertrand-russell", "gottlob-frege", "ludwig-wittgenstein", "richard-rorty", "alfred-north-whitehead", "charles-sanders-peirce"],
+  "verwandteIsmen": ["analytische-philosophie", "empirismus", "naturalismus", "holismus"]
+}

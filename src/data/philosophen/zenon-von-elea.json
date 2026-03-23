@@ -1,0 +1,74 @@
+{
+  "slug": "zenon-von-elea",
+  "name": "Zenon von Elea",
+  "lebensdaten": "490–430 v. Chr.",
+  "geboren": {
+    "jahr": -490,
+    "ort": "Elea",
+    "land": "Griechenland (Magna Graecia)",
+    "lat": 40.16,
+    "lng": 15.16
+  },
+  "gestorben": {
+    "jahr": -430,
+    "ort": "Elea",
+    "land": "Griechenland (Magna Graecia)",
+    "lat": 40.16,
+    "lng": 15.16
+  },
+  "epoche": "Antike",
+  "region": "Magna Graecia (Unteritalien)",
+  "hauptstroemungen": ["Vorsokratik", "Eleatische Schule", "Dialektik"],
+  "kurzbeschreibung": "Zenon von Elea war Schüler des Parmenides und berühmt für seine paradoxen Argumente gegen die Möglichkeit von Bewegung und Vielheit. Seine Paradoxien gehören zu den faszinierendsten Problemen der Philosophie- und Mathematikgeschichte.",
+  "biografie": {
+    "fruehesLeben": "Zenon wurde um 490 v. Chr. in Elea in Unteritalien geboren. Er war der bevorzugte Schüler und angeblich auch der Adoptivsohn des Parmenides. Platon beschreibt ihn als groß und von angenehmer Erscheinung. In seiner Jugend verfasste er eine Schrift mit vierzig Argumenten zur Verteidigung der Lehre seines Meisters Parmenides, die ihm den Ruf des 'Erfinders der Dialektik' einbrachte.",
+    "schaffen": "Zenons philosophische Methode war die der indirekten Beweisführung (reductio ad absurdum): Er nahm die Thesen der Gegner des Parmenides als Prämissen und zeigte, dass sie zu Widersprüchen führen. Seine berühmtesten Paradoxien richten sich gegen die Möglichkeit von Bewegung und Vielheit. Das Paradoxon von Achilles und der Schildkröte: Der schnelle Achilles kann die langsame Schildkröte niemals einholen, denn wenn er den Punkt erreicht, an dem sie war, ist sie bereits weitergewandert, und so fort ins Unendliche. Das Paradoxon des fliegenden Pfeils: Ein Pfeil, der fliegt, ruht in jedem Augenblick an einem bestimmten Ort – also bewegt er sich in jedem einzelnen Moment nicht, und eine Summe von Nicht-Bewegungen kann keine Bewegung ergeben. Die Dichotomie: Um eine Strecke zu durchlaufen, muss man zuerst die Hälfte, davor ein Viertel, ein Achtel und so weiter zurücklegen – man müsste unendlich viele Teilstrecken in endlicher Zeit durchlaufen, was unmöglich scheint. Das Stadion-Paradoxon: Zwei gleich schnelle Reihen bewegen sich aneinander vorbei; relativ zueinander bewegen sie sich doppelt so schnell wie relativ zu einem ruhenden Bezugspunkt, was zu Widersprüchen führt. Diese Paradoxien beschäftigten Mathematiker und Philosophen über zwei Jahrtausende und wurden erst mit der Entwicklung der Infinitesimalrechnung und der modernen Theorie der konvergenten Reihen teilweise aufgelöst.",
+    "spaetesLeben": "Über Zenons späteres Leben wird berichtet, dass er sich politisch engagierte und gegen einen Tyrannen seiner Heimatstadt verschwor. Als die Verschwörung entdeckt wurde, soll er unter der Folter keinen seiner Mitverschwörer verraten haben.",
+    "tod": "Zenon starb um 430 v. Chr. Die Umstände seines Todes werden in verschiedenen Versionen überliefert, die alle seinen heroischen Mut betonen. Nach einer Version biss er sich unter der Folter die Zunge ab und spuckte sie dem Tyrannen ins Gesicht. Nach einer anderen Version gab er vor, dem Tyrannen die Namen der Verschwörer ins Ohr flüstern zu wollen, und biss ihm stattdessen das Ohr ab. Er wurde daraufhin hingerichtet.",
+    "nachwirkung": "Zenons Paradoxien gehören zu den bedeutendsten intellektuellen Herausforderungen der Geistesgeschichte. Aristoteles behandelte sie ausführlich in seiner Physik und versuchte sie zu widerlegen. Sie trieben die Entwicklung der Mathematik voran und führten letztlich zur Infinitesimalrechnung von Leibniz und Newton. In der modernen Mathematik werden sie durch die Theorie der konvergenten unendlichen Reihen und durch Georg Cantors Mengenlehre behandelt. In der Philosophie der Physik bleiben sie bis heute relevant, insbesondere in Debatten über die Natur von Raum, Zeit und Kontinuität. Bertrand Russell nannte Zenons Argumente 'immeasurably subtle and profound'."
+  },
+  "kernideen": [
+    {
+      "titel": "Paradoxon von Achilles und der Schildkröte",
+      "beschreibung": "Der schnellste Läufer kann das langsamste Tier nie einholen, wenn dieses einen Vorsprung hat. Denn zuerst muss Achilles den Startpunkt der Schildkröte erreichen, doch dann ist sie schon weiter – und so ad infinitum."
+    },
+    {
+      "titel": "Dichotomie-Paradoxon",
+      "beschreibung": "Um eine Strecke zurückzulegen, muss man zuerst die Hälfte zurücklegen, davor ein Viertel und so weiter. Da die Teilstrecken unendlich viele sind, kann die Bewegung nie beginnen oder nie enden."
+    },
+    {
+      "titel": "Paradoxon des fliegenden Pfeils",
+      "beschreibung": "Ein fliegender Pfeil nimmt in jedem Augenblick einen bestimmten Ort ein und ruht somit in jedem Moment. Eine Summe von Ruhezuständen ergibt keine Bewegung."
+    },
+    {
+      "titel": "Unmöglichkeit der Vielheit",
+      "beschreibung": "Wenn es viele Dinge gibt, muss ihre Zahl zugleich endlich und unendlich sein. Zwischen zwei Dingen gibt es stets ein drittes, und so weiter ins Unendliche. Vielheit führt zum Widerspruch."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Streitschriften (Logoi)",
+      "jahr": "ca. 460 v. Chr.",
+      "beschreibung": "Zenons Hauptwerk enthielt angeblich vierzig Argumente gegen Vielheit und Bewegung. Nur Fragmente und Zusammenfassungen bei Aristoteles, Simplikios und Platon sind erhalten. Die Schrift war bahnbrechend für die Entwicklung der philosophischen Argumentation."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wenn das Seiende keine Größe hat, ist es nicht. Wenn es aber ist, muss jedes eine gewisse Größe und Dicke haben.",
+      "quelle": "Fragment DK 29 B 1, überliefert bei Simplikios",
+      "kontext": "Eines der Argumente gegen die Vielheit der Dinge."
+    },
+    {
+      "text": "Was sich bewegt, bewegt sich weder an dem Ort, an dem es ist, noch an dem Ort, an dem es nicht ist.",
+      "quelle": "Überliefert bei Diogenes Laertios",
+      "kontext": "Zusammenfassung eines zenonschen Arguments gegen die Möglichkeit der Bewegung."
+    },
+    {
+      "text": "Der fliegende Pfeil ruht.",
+      "quelle": "Überliefert bei Aristoteles, Physik VI, 9",
+      "kontext": "Die berühmteste Kurzformel für Zenons Paradoxon der Bewegung."
+    }
+  ],
+  "verwandtePhilosophen": ["parmenides", "sokrates", "aristoteles", "demokrit", "empedokles"],
+  "verwandteIsmen": ["eleatismus", "dialektik", "rationalismus"]
+}

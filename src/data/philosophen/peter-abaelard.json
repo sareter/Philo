@@ -1,0 +1,95 @@
+{
+  "slug": "peter-abaelard",
+  "name": "Peter Abaelard",
+  "lebensdaten": "1079–1142",
+  "geboren": {
+    "jahr": 1079,
+    "ort": "Le Pallet",
+    "land": "Frankreich",
+    "lat": 47.14,
+    "lng": -1.34
+  },
+  "gestorben": {
+    "jahr": 1142,
+    "ort": "Chalon-sur-Saône",
+    "land": "Frankreich",
+    "lat": 46.78,
+    "lng": 4.85
+  },
+  "epoche": "Mittelalter",
+  "region": "Frankreich",
+  "hauptstroemungen": ["Scholastik", "Dialektik", "Konzeptualismus"],
+  "kurzbeschreibung": "Peter Abaelard war der brillanteste und umstrittenste Philosoph des 12. Jahrhunderts. Seine tragische Liebesgeschichte mit Heloisa, seine dialektische Methode und seine Lösung des Universalienstreits machten ihn zur faszinierendsten Gestalt der mittelalterlichen Philosophie.",
+  "biografie": {
+    "fruehesLeben": "Peter Abaelard wurde 1079 in Le Pallet bei Nantes in der Bretagne geboren. Sein Vater Berengar war ein gebildeter Ritter, der seinen ältesten Sohn zum Studium ermutigte. Abaelard verzichtete auf sein Erstgeburtsrecht und die Ritterlaufbahn zugunsten der Philosophie – er verglich sich mit Jakob, der sein Erstgeburtsrecht für ein Linsengericht verkaufte, nur dass er es für die Dialektik hingab. Als wandernder Student besuchte er verschiedene Schulen und zeichnete sich durch sein außergewöhnliches intellektuelles Talent und seine polemische Begabung aus. Er besiegte seine Lehrer in öffentlichen Disputationen – zunächst den Nominalisten Roscelin von Compiègne, dann den Realisten Wilhelm von Champeaux in Paris – und gründete bereits als junger Mann eigene Schulen.",
+    "schaffen": "Abaelards philosophische Hauptleistung liegt in seiner Lösung des Universalienstreits: Gegen den Realismus (Universalien existieren als eigenständige Dinge) und gegen den Nominalismus (Universalien sind bloße Worte) vertrat er den Konzeptualismus: Universalien sind Begriffe des Geistes (conceptus), die auf realen Ähnlichkeiten in den Dingen beruhen. Sie sind weder Dinge noch bloße Wörter, sondern bedeutungsvolle Prädikationen. In der Methode war er revolutionär: Sein Werk 'Sic et Non' (Ja und Nein, ca. 1121) stellte 158 theologische Fragen zusammen und konfrontierte widersprüchliche Äußerungen der Kirchenväter zu jeder Frage – ohne sie zu lösen. Die Schüler sollten durch Zweifel zur Forschung angeregt werden: 'Durch Zweifeln kommen wir zur Untersuchung, durch Untersuchung erfassen wir die Wahrheit.' Diese Methode wurde zur Grundlage der scholastischen Quaestio. In der Ethik verfasste er 'Scito te ipsum' (Erkenne dich selbst), in dem er die revolutionäre These vertrat, dass die Moralität einer Handlung allein von der Absicht (intentio) des Handelnden abhängt, nicht von der äußeren Tat selbst. Die berühmte Liebesgeschichte mit Heloisa, der hochgebildeten Nichte des Kanonikus Fulbert, ist eine der tragischsten Geschichten der Geistesgeschichte. Abaelard wurde ihr Privatlehrer, sie verliebten sich, Heloisa wurde schwanger. Nach einer heimlichen Heirat ließ der wütende Fulbert Abaelard überfallen und kastrieren. Abaelard zog sich ins Kloster zurück, Heloisa wurde Äbtissin. Ihr Briefwechsel gehört zur Weltliteratur.",
+    "spaetesLeben": "Nach seiner Kastration wurde Abaelard Mönch in Saint-Denis, lehrte aber weiterhin und zog Hunderte von Schülern an. Seine theologischen Werke wurden zweimal verurteilt: 1121 auf dem Konzil von Soissons und 1140 auf dem Konzil von Sens, wo Bernhard von Clairvaux sein schärfster Gegner war. Er wurde zum Schweigen verurteilt.",
+    "tod": "Abaelard zog sich in das Kloster Cluny zurück, wo ihn Abt Petrus Venerabilis aufnahm und mit Bernhard von Clairvaux versöhnte. Er starb am 21. April 1142 im Cluniazenserpriorat Saint-Marcel bei Chalon-sur-Saône. Heloisa ließ seinen Leichnam nach dem Paraklet-Kloster überführen. Bei ihrem Tod 1164 wurde sie neben ihm begraben. Heute ruhen beide auf dem Friedhof Père-Lachaise in Paris.",
+    "nachwirkung": "Abaelards Methode des systematischen Zweifelns und der dialektischen Gegenüberstellung von Autoritäten wurde zur Grundlage der scholastischen Methode, wie sie in den Summen des Thomas von Aquin ihre Vollendung fand. Sein Konzeptualismus beeinflusste die gesamte mittelalterliche Logik. Seine Ethik der Absicht war ihrer Zeit weit voraus. Der Briefwechsel mit Heloisa inspirierte Rousseaus 'Julie' und zahllose literarische Bearbeitungen."
+  },
+  "kernideen": [
+    {
+      "titel": "Konzeptualismus",
+      "beschreibung": "Universalien sind weder eigenständige Dinge (Realismus) noch bloße Wörter (Nominalismus), sondern Begriffe des Geistes, die auf realen Ähnlichkeiten in den Einzeldingen beruhen."
+    },
+    {
+      "titel": "Dialektische Methode (Sic et Non)",
+      "beschreibung": "Durch die systematische Gegenüberstellung widersprüchlicher Autoritäten werden die Studierenden zum eigenständigen Denken und zur kritischen Prüfung angeregt. Zweifel ist der Anfang der Erkenntnis."
+    },
+    {
+      "titel": "Ethik der Absicht",
+      "beschreibung": "Die Moralität einer Handlung hängt allein von der Absicht (intentio) des Handelnden ab, nicht von der äußeren Tat selbst. Wer in guter Absicht handelt, aber irrtümlich Schaden anrichtet, hat nicht gesündigt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Sic et Non (Ja und Nein)",
+      "jahr": "ca. 1121–1132",
+      "beschreibung": "158 theologische Fragen mit widersprüchlichen Äußerungen der Kirchenväter. Revolutionäre dialektische Methode, die zur Grundlage der scholastischen Quaestio wurde."
+    },
+    {
+      "titel": "Logica 'Ingredientibus'",
+      "jahr": "ca. 1118",
+      "beschreibung": "Logisches Hauptwerk mit der Lösung des Universalienstreits durch den Konzeptualismus. Kommentar zu Porphyrios' Isagoge."
+    },
+    {
+      "titel": "Scito Te Ipsum (Erkenne dich selbst / Ethica)",
+      "jahr": "ca. 1135–1139",
+      "beschreibung": "Ethisches Hauptwerk über die Absicht als alleiniges Kriterium der Moralität. Revolutionäre These, die der äußeren Tat ihren moralischen Wert abspricht."
+    },
+    {
+      "titel": "Historia Calamitatum (Geschichte meiner Leiden)",
+      "jahr": "ca. 1132",
+      "beschreibung": "Autobiographischer Brief, in dem Abaelard sein bewegtes Leben schildert – einschließlich der Liebesgeschichte mit Heloisa. Ein frühes Meisterwerk der autobiographischen Literatur."
+    },
+    {
+      "titel": "Theologia Christiana",
+      "jahr": "ca. 1122–1125",
+      "beschreibung": "Theologisches Hauptwerk, in dem Abaelard die Trinität durch die Kategorien Macht, Weisheit und Güte zu erklären versucht. Wegen angeblicher Häresie verurteilt."
+    },
+    {
+      "titel": "Briefwechsel mit Heloisa",
+      "jahr": "ca. 1132–1137",
+      "beschreibung": "Berühmter Briefwechsel zwischen Abaelard und Heloisa über Liebe, Philosophie und religiöses Leben. Eines der bewegendsten Dokumente der Weltliteratur."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Durch Zweifeln kommen wir zur Untersuchung, durch Untersuchung erfassen wir die Wahrheit.",
+      "quelle": "Sic et Non, Prolog",
+      "kontext": "Das methodische Programm Abaelards – Zweifel als Motor der Erkenntnis."
+    },
+    {
+      "text": "Die erste Stufe der Weisheit ist die Befragung aller Dinge.",
+      "quelle": "Sic et Non, Prolog",
+      "kontext": "Abaelards Plädoyer für kritisches Denken und intellektuelle Neugier."
+    },
+    {
+      "text": "Gott betrachtet nicht, was getan wird, sondern in welchem Geist es getan wird; nicht in der Tat, sondern in der Absicht des Handelnden liegt Verdienst oder Lob.",
+      "quelle": "Scito Te Ipsum",
+      "kontext": "Zusammenfassung der Ethik der Absicht."
+    }
+  ],
+  "verwandtePhilosophen": ["anselm-von-canterbury", "thomas-von-aquin", "wilhelm-von-ockham", "boethius", "augustinus"],
+  "verwandteIsmen": ["scholastik", "konzeptualismus", "dialektik", "rationalismus"]
+}

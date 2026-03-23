@@ -1,0 +1,100 @@
+{
+  "slug": "walter-benjamin",
+  "name": "Walter Benjamin",
+  "lebensdaten": "1892–1940",
+  "geboren": {
+    "jahr": 1892,
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  "gestorben": {
+    "jahr": 1940,
+    "ort": "Portbou",
+    "land": "Spanien",
+    "lat": 42.4268,
+    "lng": 3.1574
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Kritische Theorie", "Kulturkritik", "Messianismus"],
+  "kurzbeschreibung": "Walter Benjamin war einer der originellsten und einflussreichsten Denker des 20. Jahrhunderts, dessen Werk Marxismus, jüdische Mystik und Ästhetik auf einzigartige Weise verband. Sein Essay 'Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit' revolutionierte die Kunsttheorie, und seine Geschichtsphilosophie inspiriert bis heute das kritische Denken. Sein tragischer Tod auf der Flucht vor den Nazis machte ihn zur symbolischen Figur der Katastrophe des 20. Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "Walter Benedix Schönflies Benjamin wurde am 15. Juli 1892 in Berlin als Sohn einer wohlhabenden jüdisch-assimilierten Kaufmannsfamilie geboren. Er studierte Philosophie in Freiburg, München, Berlin und Bern, wo er 1919 mit einer Arbeit über 'Der Begriff der Kunstkritik in der deutschen Romantik' promovierte. Sein Habilitationsversuch an der Universität Frankfurt mit der Arbeit 'Ursprung des deutschen Trauerspiels' (1925) scheiterte – die Gutachter verstanden das geniale, aber unkonventionelle Werk nicht. Dieses Scheitern versperrte ihm eine akademische Karriere und prägte sein Leben als freier Schriftsteller und Intellektueller.",
+    "schaffen": "Benjamin arbeitete als Literaturkritiker, Übersetzer (u.a. von Proust und Baudelaire), Radiomacher und philosophischer Schriftsteller. Er bewegte sich zwischen dem theologischen Denken seines Freundes Gershom Scholem und dem Marxismus Bertolt Brechts. Sein Essay 'Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit' (1935/36) analysierte die Veränderung der Kunsterfahrung durch Fotografie und Film und führte den Begriff der 'Aura' ein – jene Einzigartigkeit und Echtheit des Kunstwerks, die durch die mechanische Reproduktion zerstört wird. Sein unvollendetes Hauptwerk, das 'Passagen-Werk', war eine monumentale kulturhistorische Studie über das Paris des 19. Jahrhunderts als Hauptstadt der Moderne. Die 'Geschichtsphilosophischen Thesen' (1940), sein letzter Text, verbinden marxistische Geschichtsauffassung mit messianischer Theologie in einer radikalen Kritik des Fortschrittsglaubens.",
+    "spaetesLeben": "Nach der Machtergreifung der Nationalsozialisten floh Benjamin 1933 nach Paris, wo er in ärmlichen Verhältnissen lebte und am Passagen-Werk arbeitete. Er wurde vom Institut für Sozialforschung unterstützt, das ihm bescheidene Stipendien zahlte. Die Beziehung zu Adorno und Horkheimer war produktiv, aber auch spannungsreich. Mit dem Einmarsch der Wehrmacht in Frankreich 1940 versuchte Benjamin, über die Pyrenäen nach Spanien und von dort in die USA zu fliehen.",
+    "tod": "Am 26. September 1940 erreichte Benjamin mit einer Gruppe von Flüchtlingen die spanische Grenzstadt Portbou, erfuhr dort aber, dass Spanien die Grenze geschlossen hatte und die Flüchtlinge nach Frankreich zurückgeschickt werden sollten. In der Nacht nahm er sich aus Verzweiflung mit einer Überdosis Morphium das Leben. Er war 48 Jahre alt. Ironischerweise wurde die Grenze am nächsten Tag wieder geöffnet, und die übrigen Flüchtlinge konnten passieren. Sein Tod gehört zu den erschütterndsten Ereignissen der europäischen Geistesgeschichte.",
+    "nachwirkung": "Benjamins Werk wurde erst posthum in seiner ganzen Bedeutung erkannt. Adorno und Scholem sorgten für die Veröffentlichung seiner Schriften, und seit den 1960er Jahren wuchs sein Einfluss stetig. Heute gilt er als einer der einflussreichsten Denker der Moderne. Sein Aura-Konzept und seine Medientheorie sind Grundlagen der Kulturwissenschaft und Medientheorie. Seine Geschichtsphilosophie beeinflusste Derrida, Agamben und die gesamte kritische Theorie. Das Passagen-Werk gilt als Schlüsseltext der Kulturgeschichte der Moderne."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Aura des Kunstwerks",
+      "beschreibung": "Die 'Aura' eines Kunstwerks ist sein Hier und Jetzt, seine einmalige Existenz und Authentizität. Die technische Reproduzierbarkeit (Fotografie, Film) zerstört diese Aura und demokratisiert zugleich den Zugang zur Kunst – mit ambivalenten politischen Konsequenzen."
+    },
+    {
+      "titel": "Der Engel der Geschichte",
+      "beschreibung": "In der berühmten Interpretation von Klees 'Angelus Novus' beschreibt Benjamin den Engel der Geschichte, der rückwärts in die Zukunft getrieben wird und hilflos die Trümmer der Geschichte sich aufhäufen sieht. Der Fortschritt ist ein Sturm, der aus dem Paradies weht."
+    },
+    {
+      "titel": "Dialektisches Bild und Jetztzeit",
+      "beschreibung": "Geschichte ist kein kontinuierlicher Fortschritt, sondern wird in 'dialektischen Bildern' erfasst – Momenten, in denen Vergangenheit und Gegenwart in einer Konstellation zusammenblitzen. Die Revolution ist ein 'Tigersprung in das Vergangene' – die Rettung unterdrückter Möglichkeiten der Geschichte."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Ursprung des deutschen Trauerspiels",
+      "jahr": "1928",
+      "beschreibung": "Benjamins gescheiterte Habilitationsschrift ist eine bahnbrechende Analyse des barocken Trauerspiels und seiner Allegorie als Form der Darstellung einer gefallenen Welt."
+    },
+    {
+      "titel": "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit",
+      "jahr": "1935/36",
+      "beschreibung": "Der berühmte Essay analysiert die Veränderung der Kunsterfahrung durch mechanische Reproduktion und führt den Begriff der 'Aura' ein."
+    },
+    {
+      "titel": "Über den Begriff der Geschichte",
+      "jahr": "1940",
+      "beschreibung": "Benjamins letzter Text – 18 Thesen, die marxistische Geschichtsauffassung und messianische Theologie verbinden und den Fortschrittsglauben radikal kritisieren."
+    },
+    {
+      "titel": "Das Passagen-Werk",
+      "jahr": "1982",
+      "beschreibung": "Das posthum veröffentlichte, unvollendete Hauptwerk ist eine monumentale Sammlung von Zitaten, Kommentaren und Reflexionen über das Paris des 19. Jahrhunderts als Hauptstadt der Moderne."
+    },
+    {
+      "titel": "Einbahnstraße",
+      "jahr": "1928",
+      "beschreibung": "Eine Sammlung surrealistisch inspirierter Denkbilder und aphoristischer Miniaturen, die die moderne Stadterfahrung literarisch verarbeiten."
+    },
+    {
+      "titel": "Der Erzähler",
+      "jahr": "1936",
+      "beschreibung": "Ein Essay über den Verfall der Erzählkunst in der Moderne, der die Erfahrungsarmut des modernen Menschen mit dem Ende des traditionellen Erzählens verbindet."
+    },
+    {
+      "titel": "Berliner Kindheit um Neunzehnhundert",
+      "jahr": "1950",
+      "beschreibung": "Autobiografische Erinnerungsbilder, die Benjamins Kindheit im bürgerlichen Berlin um 1900 in poetischer Prosa vergegenwärtigen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Es ist niemals ein Dokument der Kultur, ohne zugleich ein solches der Barbarei zu sein.",
+      "quelle": "Über den Begriff der Geschichte, VII",
+      "kontext": "Die These, dass alle Kultur auf Unterdrückung und Gewalt gründet – eine Aufforderung, Geschichte gegen den Strich zu bürsten."
+    },
+    {
+      "text": "Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben.",
+      "quelle": "Goethes Wahlverwandtschaften",
+      "kontext": "Benjamins messianische Dialektik: Hoffnung entspringt gerade dort, wo keine Hoffnung mehr zu sein scheint."
+    },
+    {
+      "text": "Das wahre Bild der Vergangenheit huscht vorbei. Nur als Bild, das auf Nimmerwiedersehen im Augenblick seiner Erkennbarkeit eben aufblitzt, ist die Vergangenheit festzuhalten.",
+      "quelle": "Über den Begriff der Geschichte, V",
+      "kontext": "Benjamins Theorie des dialektischen Bildes – Geschichte ist nicht verfügbar, sondern blitzt in flüchtigen Momenten auf."
+    }
+  ],
+  "verwandtePhilosophen": ["theodor-w-adorno", "max-horkheimer", "herbert-marcuse", "hannah-arendt", "gershom-scholem"],
+  "verwandteIsmen": ["kritische-theorie", "marxismus", "messianismus", "kulturkritik"]
+}

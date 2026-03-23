@@ -1,0 +1,49 @@
+{
+  "slug": "michel-de-montaigne",
+  "name": "Michel de Montaigne",
+  "lebensdaten": "1533–1592",
+  "geboren": { "jahr": 1533, "ort": "Schloss Montaigne, Périgord", "land": "Frankreich", "lat": 44.8333, "lng": 0.0333 },
+  "gestorben": { "jahr": 1592, "ort": "Schloss Montaigne, Périgord", "land": "Frankreich", "lat": 44.8333, "lng": 0.0333 },
+  "epoche": "Renaissance",
+  "region": "Frankreich",
+  "hauptstroemungen": ["Skeptizismus", "Humanismus", "Essayismus"],
+  "kurzbeschreibung": "Michel de Montaigne war ein französischer Philosoph und Schriftsteller, der mit seinen 'Essais' eine völlig neue literarische Gattung begründete. Sein skeptisches, selbstreflexives Denken erforschte die menschliche Natur in all ihren Widersprüchen und machte ihn zu einem der einflussreichsten Autoren der europäischen Geistesgeschichte. Er gilt als Meister der Selbsterforschung und Vorläufer der modernen Subjektivität.",
+  "biografie": {
+    "fruehesLeben": "Michel Eyquem de Montaigne wurde am 28. Februar 1533 auf dem Familienschloss in der Dordogne als Sohn einer wohlhabenden Kaufmannsfamilie geboren, die erst kürzlich in den Adel aufgestiegen war. Sein Vater Pierre Eyquem, ein gebildeter und experimentierfreudiger Mann, ließ den kleinen Michel nach einer ungewöhnlichen pädagogischen Methode erziehen: Latein war seine erste Sprache, die er noch vor dem Französischen erlernte, und er wurde von einem deutschsprachigen Hauslehrer unterrichtet, der kein Wort Französisch sprach. Ab 1539 besuchte er das renommierte Collège de Guyenne in Bordeaux, dann studierte er Rechtswissenschaften, vermutlich in Toulouse. 1557 wurde er Mitglied des Parlaments von Bordeaux (eines Gerichtshofs), wo er den humanistischen Gelehrten Étienne de La Boétie kennenlernte, mit dem ihn eine tiefe Freundschaft verband, die durch La Boéties frühen Tod 1563 jäh beendet wurde.",
+    "schaffen": "Nach dem Tod seines Vaters 1568 erbte Montaigne das Familiengut und zog sich 1571 aus dem öffentlichen Leben zurück, um sich ganz dem Studium und dem Schreiben zu widmen. In seinem berühmten Turmzimmer, dessen Deckenbalken mit antiken Sentenzen beschrieben waren, begann er die Arbeit an seinen 'Essais', die ihn den Rest seines Lebens beschäftigen sollten. Die ersten beiden Bücher erschienen 1580; eine erweiterte Ausgabe mit dem dritten Buch folgte 1588; und bis zu seinem Tod arbeitete er an Ergänzungen für eine postume Ausgabe. Die 'Essais' sind ein einzigartiges literarisches Experiment: Montaigne nimmt sich selbst als Gegenstand der Untersuchung und erforscht in über hundert Kapiteln die menschliche Erfahrung in all ihren Facetten – von der Erziehung der Kinder über die Freundschaft und den Tod bis zur Kannibalismusdebatte. Seine skeptische Grundhaltung, zusammengefasst in der berühmten Devise 'Que sais-je?' (Was weiß ich?), stellt alle Gewissheiten infrage und plädiert für intellektuelle Bescheidenheit. Zwischen 1580 und 1581 unternahm Montaigne eine ausgedehnte Reise durch Deutschland, die Schweiz und Italien, die er in seinem 'Reisetagebuch' dokumentierte.",
+    "spaetesLeben": "1581 wurde Montaigne zum Bürgermeister von Bordeaux gewählt, ein Amt, das er bis 1585 innehatte. In dieser turbulenten Zeit der Religionskriege bemühte er sich um Vermittlung zwischen Katholiken und Hugenotten. Er genoss das Vertrauen beider Seiten und fungierte als Unterhändler zwischen Heinrich von Navarra (dem späteren Heinrich IV.) und dem katholischen Lager. Nach dem Ende seiner Amtszeit kehrte er auf sein Schloss zurück und widmete sich erneut der Überarbeitung und Erweiterung seiner Essais. Die letzten Jahre seines Lebens waren von zunehmenden gesundheitlichen Beschwerden geprägt – er litt unter Nierensteinen, die ihm große Schmerzen bereiteten.",
+    "tod": "Michel de Montaigne starb am 13. September 1592 auf seinem Schloss während einer Messe, die er in seinem Zimmer hatte lesen lassen, da er zu schwach war, die Kapelle aufzusuchen. Er war 59 Jahre alt. Sein Herz wurde in der Kirche Saint-Michel in Montaigne beigesetzt, sein Leichnam in der Kirche der Feuillants in Bordeaux. Die postume Ausgabe seiner Essais, die seine handschriftlichen Ergänzungen enthielt, wurde 1595 von seiner geistigen Adoptivtochter Marie de Gournay herausgegeben.",
+    "nachwirkung": "Montaignes Einfluss auf die europäische Literatur und Philosophie ist kaum zu überschätzen. Er erfand mit dem Essay eine literarische Form, die bis heute lebendig ist. Seine skeptische Methode der Selbsterforschung beeinflusste Descartes, Pascal, Rousseau, Nietzsche und zahllose weitere Denker. Shakespeare kannte seine Essais in der englischen Übersetzung von John Florio und ließ sich davon für 'Der Sturm' inspirieren. Die französische Moralistentradition von La Rochefoucauld bis Cioran steht in seiner Nachfolge. In der modernen Philosophie wird er als Vorläufer des Existenzialismus und des postmodernen Denkens gewürdigt."
+  },
+  "kernideen": [
+    {
+      "titel": "Skeptizismus (Que sais-je?)",
+      "beschreibung": "Montaignes philosophische Grundhaltung ist die Skepsis: Er bezweifelt die Fähigkeit des Menschen, zu sicherer Erkenntnis zu gelangen. Seine Devise 'Que sais-je?' (Was weiß ich?) drückt eine radikale intellektuelle Bescheidenheit aus, die alle Dogmen und Gewissheiten infrage stellt."
+    },
+    {
+      "titel": "Selbsterforschung als Methode",
+      "beschreibung": "Montaigne machte sich selbst zum Gegenstand der philosophischen Untersuchung. Er glaubte, dass die ehrliche Selbstbeobachtung der beste Weg zum Verständnis der menschlichen Natur sei, da jeder Mensch die gesamte menschliche Erfahrung in sich trägt."
+    },
+    {
+      "titel": "Kulturrelativismus",
+      "beschreibung": "In seinem berühmten Essay 'Über die Kannibalen' argumentierte Montaigne, dass die vermeintlich barbarischen Bräuche anderer Kulturen nicht weniger rational sind als die europäischen. Er stellte die Überlegenheitsansprüche der europäischen Zivilisation infrage und plädierte für Toleranz."
+    },
+    {
+      "titel": "Leben im Augenblick",
+      "beschreibung": "Montaigne betonte die Bedeutung des gegenwärtigen Augenblicks und der konkreten Lebenserfahrung gegenüber abstrakten Systemen und Zukunftsplänen. Philosophieren heißt für ihn, sterben zu lernen – und damit das Leben bewusster und intensiver zu leben."
+    }
+  ],
+  "werke": [
+    { "titel": "Essais (Versuche)", "jahr": "1580–1592", "beschreibung": "Montaignes Lebenswerk, eine Sammlung von 107 Kapiteln in drei Büchern, die in einer einzigartigen Mischung aus persönlicher Reflexion, klassischer Gelehrsamkeit und skeptischer Philosophie die menschliche Erfahrung in all ihren Facetten erkunden." },
+    { "titel": "Journal de voyage en Italie", "jahr": "1580–1581", "beschreibung": "Ein Reisetagebuch, das Montaignes Reise durch Deutschland, die Schweiz und Italien dokumentiert. Es wurde erst 1774 wiederentdeckt und veröffentlicht und bietet faszinierende Einblicke in seine Beobachtungsgabe." },
+    { "titel": "Apologie de Raymond Sebond", "jahr": "1580", "beschreibung": "Der längste Essay Montaignes und sein philosophisch gewichtigstes Kapitel, in dem er unter dem Vorwand einer Verteidigung des spanischen Theologen Raymond Sebond eine umfassende skeptische Kritik der menschlichen Erkenntnisfähigkeit entwickelt." }
+  ],
+  "zitate": [
+    { "text": "Que sais-je? – Was weiß ich?", "quelle": "Essais", "kontext": "Montaignes berühmte Devise, die seinen philosophischen Skeptizismus auf den Punkt bringt und die er als Inschrift auf eine Medaille prägen ließ." },
+    { "text": "Philosophieren heißt sterben lernen.", "quelle": "Essais, Buch I, Kapitel 20", "kontext": "In Anlehnung an Cicero und die stoische Tradition argumentiert Montaigne, dass die bewusste Auseinandersetzung mit dem Tod uns lehrt, das Leben bewusster zu leben." },
+    { "text": "Jeder Mensch trägt die ganze Gestalt der menschlichen Natur in sich.", "quelle": "Essais, Buch III, Kapitel 2", "kontext": "Montaignes Begründung für die Methode der Selbsterforschung: Indem er sich selbst studiert, studiert er die Menschheit." },
+    { "text": "Auf dem höchsten Thron der Welt sitzen wir doch nur auf unserem eigenen Hintern.", "quelle": "Essais, Buch III, Kapitel 13", "kontext": "Montaignes typisch erdige Art, menschliche Eitelkeit und Selbstüberschätzung zu entlarven." }
+  ],
+  "verwandtePhilosophen": ["erasmus-von-rotterdam", "blaise-pascal", "rene-descartes", "david-hume", "jean-jacques-rousseau"],
+  "verwandteIsmen": ["skeptizismus", "humanismus", "relativismus"]
+}

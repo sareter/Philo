@@ -1,0 +1,74 @@
+{
+  "slug": "anaximander",
+  "name": "Anaximander",
+  "lebensdaten": "610–546 v. Chr.",
+  "geboren": {
+    "jahr": -610,
+    "ort": "Milet",
+    "land": "Griechenland (Ionien)",
+    "lat": 37.53,
+    "lng": 27.28
+  },
+  "gestorben": {
+    "jahr": -546,
+    "ort": "Milet",
+    "land": "Griechenland (Ionien)",
+    "lat": 37.53,
+    "lng": 27.28
+  },
+  "epoche": "Antike",
+  "region": "Ionien (Kleinasien)",
+  "hauptstroemungen": ["Vorsokratik", "Naturphilosophie", "Milesische Schule"],
+  "kurzbeschreibung": "Anaximander war Schüler des Thales und der zweite große Denker der Milesischen Schule. Er führte das Apeiron (das Unbegrenzte) als Urprinzip ein und gilt als Pionier der Kosmologie, Kartografie und Evolutionstheorie.",
+  "biografie": {
+    "fruehesLeben": "Anaximander wurde um 610 v. Chr. in Milet geboren und war ein Schüler und Gefährte des Thales. Er gehörte zur geistigen Elite der ionischen Handelsmetropole und war der erste griechische Denker, von dem wir sicher wissen, dass er seine Gedanken in einer Prosaschrift niederlegte. Über seine persönlichen Lebensumstände ist wenig bekannt, doch galt er als eine der angesehensten Persönlichkeiten Milets. Er soll eine führende Rolle bei der Gründung der milesischen Kolonie Apollonia am Schwarzen Meer gespielt haben, was auf seinen politischen Einfluss hindeutet.",
+    "schaffen": "Anaximanders philosophische Leistung besteht vor allem in der Einführung des Begriffs des Apeiron (das Unbegrenzte, Unbestimmte) als Urprinzip aller Dinge. Im Gegensatz zu Thales, der ein konkretes Element (Wasser) als Ursprung wählte, argumentierte Anaximander, dass der Urgrund selbst nicht eines der bekannten Elemente sein könne, da er sonst die übrigen Elemente dominieren und verdrängen würde. Das Apeiron ist ewig, unzerstörbar und umfasst alle Gegensätze in sich. Aus ihm treten die Gegensatzpaare (warm-kalt, trocken-feucht) hervor und kehren nach einer festgelegten Ordnung wieder in es zurück. Sein einziges überliefertes Fragment lautet: 'Woraus aber die Dinge entstehen, dahin müssen sie auch vergehen nach der Notwendigkeit; denn sie müssen Buße zahlen und für ihre Ungerechtigkeit gerichtet werden gemäß der Ordnung der Zeit.' Dies ist einer der ältesten erhaltenen Sätze der abendländischen Philosophie. In der Kosmologie entwarf Anaximander ein revolutionäres Weltbild: Die Erde schwebt frei im Raum, gehalten durch nichts, da sie von allen Seiten gleich weit von allem entfernt ist – ein erstaunlicher Vorgriff auf das Trägheitsprinzip. Er stellte sich die Erde als Zylinder vor, dessen Höhe ein Drittel seines Durchmessers beträgt. Die Gestirne erklärte er als Öffnungen in konzentrischen Feuerringen, die die Erde umgeben. Er zeichnete die erste Weltkarte der Griechen und konstruierte einen Gnomon (Sonnenuhr). Bemerkenswert ist auch seine proto-evolutionäre Theorie: Die ersten Lebewesen seien im Feuchten entstanden, und der Mensch habe sich aus fischartigen Wesen entwickelt, da er als Säugling zu lange hilflos ist, um ohne Schutz überlebt zu haben.",
+    "spaetesLeben": "Über Anaximanders späte Jahre ist wenig bekannt. Er blieb offenbar in Milet und setzte seine wissenschaftlichen und philosophischen Studien fort. Seine Schrift 'Über die Natur' war die erste bekannte philosophische Prosaschrift der griechischen Tradition und wurde noch Jahrhunderte später gelesen und kommentiert.",
+    "tod": "Anaximander starb um 546 v. Chr. in Milet. Die genauen Umstände seines Todes sind nicht überliefert. Er war etwa 64 Jahre alt. Sein Tod fiel möglicherweise mit der Eroberung Milets durch die Perser zusammen.",
+    "nachwirkung": "Anaximanders Einfluss war weitreichend. Sein Konzept des Apeiron inspirierte spätere Philosophen wie Heraklit und die Pythagoreer. Seine Kosmologie – insbesondere die Idee der frei schwebenden Erde – war ein gewaltiger intellektueller Durchbruch. Karl Popper bezeichnete ihn als einen der kühnsten Denker der Menschheitsgeschichte. Seine proto-evolutionäre Theorie nahm Grundgedanken vorweg, die erst im 19. Jahrhundert durch Darwin wissenschaftlich ausgearbeitet wurden. Die Idee, dass die Welt nicht durch einen einmaligen Schöpfungsakt, sondern durch natürliche Prozesse aus einem Urprinzip hervorgeht, wurde zum Leitmotiv der gesamten Naturphilosophie."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Apeiron (das Unbegrenzte)",
+      "beschreibung": "Der Urgrund aller Dinge ist nicht ein bestimmtes Element, sondern das Apeiron – das Unbegrenzte, Unbestimmte. Es ist ewig, allumfassend und enthält alle Gegensätze in sich. Alle Dinge gehen aus ihm hervor und kehren in es zurück."
+    },
+    {
+      "titel": "Kosmologische Ordnung",
+      "beschreibung": "Die Welt entsteht durch die Aussonderung von Gegensatzpaaren (warm-kalt, feucht-trocken) aus dem Apeiron. Dieser Prozess folgt einer notwendigen Ordnung, und die Dinge müssen für ihre zeitweilige Existenz 'Buße zahlen'."
+    },
+    {
+      "titel": "Frei schwebende Erde",
+      "beschreibung": "Die Erde schwebt frei im Zentrum des Kosmos, gehalten durch keinerlei Stütze. Da sie von allen Seiten gleich weit entfernt ist, gibt es keinen Grund, in eine Richtung zu fallen – ein frühes Symmetrieargument."
+    },
+    {
+      "titel": "Proto-Evolutionstheorie",
+      "beschreibung": "Die ersten Lebewesen entstanden im Feuchten und waren von stacheligen Hüllen umgeben. Der Mensch entwickelte sich aus fischähnlichen Wesen, da er als Neugeborener zu hilflos ist, um in der feindlichen Natur allein zu überleben."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Über die Natur (Peri Physeos)",
+      "jahr": "ca. 550 v. Chr.",
+      "beschreibung": "Die erste bekannte philosophische Prosaschrift der griechischen Tradition. Nur ein einziges Fragment ist direkt überliefert, der Rest ist durch Berichte späterer Autoren bekannt. Das Werk behandelte Kosmologie, Kosmogonie und die Natur des Urprinzips."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Woraus aber die Dinge entstehen, dahin müssen sie auch vergehen nach der Notwendigkeit; denn sie müssen Buße zahlen und für ihre Ungerechtigkeit gerichtet werden gemäß der Ordnung der Zeit.",
+      "quelle": "Fragment DK 12 B 1, überliefert bei Simplikios",
+      "kontext": "Das einzige direkt überlieferte Fragment Anaximanders – einer der ältesten Sätze der abendländischen Philosophie."
+    },
+    {
+      "text": "Der Urgrund der seienden Dinge ist das Unbegrenzte (Apeiron).",
+      "quelle": "Überliefert bei Simplikios und Aristoteles",
+      "kontext": "Zusammenfassung von Anaximanders zentraler These über den Ursprung aller Dinge."
+    },
+    {
+      "text": "Die Erde schwebt frei und wird von nichts gehalten; sie bleibt an ihrem Platz wegen des gleichen Abstands von allen Dingen.",
+      "quelle": "Überliefert bei Hippolytos",
+      "kontext": "Anaximanders revolutionäre kosmologische These über die frei schwebende Erde."
+    }
+  ],
+  "verwandtePhilosophen": ["thales", "anaximenes", "heraklit", "parmenides", "pythagoras"],
+  "verwandteIsmen": ["naturalismus", "monismus", "kosmologie"]
+}

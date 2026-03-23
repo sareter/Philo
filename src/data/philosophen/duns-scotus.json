@@ -1,0 +1,89 @@
+{
+  "slug": "duns-scotus",
+  "name": "Duns Scotus",
+  "lebensdaten": "1266–1308",
+  "geboren": {
+    "jahr": 1266,
+    "ort": "Duns",
+    "land": "Schottland",
+    "lat": 55.78,
+    "lng": -2.34
+  },
+  "gestorben": {
+    "jahr": 1308,
+    "ort": "Köln",
+    "land": "Heiliges Römisches Reich (heute Deutschland)",
+    "lat": 50.94,
+    "lng": 6.96
+  },
+  "epoche": "Mittelalter",
+  "region": "Schottland / England / Frankreich / Deutschland",
+  "hauptstroemungen": ["Scholastik", "Scotismus", "Voluntarismus"],
+  "kurzbeschreibung": "Johannes Duns Scotus, der 'Doctor subtilis', war einer der scharfsinnigsten Denker des Mittelalters. Er betonte den Vorrang des Willens vor dem Intellekt, die Univozität des Seinsbegriffs und die Individualität jedes Seienden durch die 'Haecceitas'.",
+  "biografie": {
+    "fruehesLeben": "Johannes Duns Scotus wurde 1266 in Duns in Schottland geboren. Sein Onkel Elias Duns war Guardian des Franziskanerklosters in Dumfries. Scotus trat um 1280 in den Franziskanerorden ein und wurde 1291 zum Priester geweiht. Er studierte Theologie in Oxford und Paris, den beiden führenden Universitäten des Mittelalters.",
+    "schaffen": "Scotus lehrte in Oxford und Paris und entwickelte ein philosophisches System, das in bewusster Auseinandersetzung mit Thomas von Aquin und Heinrich von Gent stand. Sein Hauptwerk ist die 'Ordinatio' (auch Opus Oxoniense genannt), ein monumentaler Kommentar zu den Sentenzen des Petrus Lombardus. In der Metaphysik vertrat er gegen Thomas die Univozität des Seinsbegriffs: Das Wort 'Sein' wird in ein und derselben Bedeutung (univok) von Gott und den Geschöpfen ausgesagt – sonst wäre jede rationale Gotteserkenntnis unmöglich. Sein berühmtestes Konzept ist die Haecceitas ('Diesheit'): Das Individuationsprinzip, das ein Ding zu genau diesem bestimmten Einzelding macht. Nicht die Materie (wie bei Thomas), sondern eine eigene positive Bestimmung – die Haecceitas – macht Sokrates zu Sokrates und nicht zu Platon. In der Willensmetaphysik vertrat Scotus den Voluntarismus: Der Wille hat Vorrang vor dem Intellekt. Gott handelt aus freiem Willen, nicht aus Notwendigkeit. Das moralische Gesetz beruht letztlich auf Gottes freiem Willensentscheid, nicht auf der Natur der Dinge. Dies unterscheidet ihn fundamental von Thomas. In der Theologie entwickelte er die Lehre von der Unbefleckten Empfängnis Mariens – Jahrhunderte bevor das Dogma 1854 verkündet wurde. Er bewies mit dem Argument der 'potior ratio' (besserer Grund): Es war angemessener, dass Christus seine Mutter von der Erbsünde bewahrte, als sie erst im Nachhinein davon zu befreien.",
+    "spaetesLeben": "1303 wurde Scotus aus Paris verbannt, weil er sich weigerte, König Philipps IV. Position im Streit mit Papst Bonifaz VIII. zu unterstützen. Er kehrte 1304 zurück und wurde 1305 zum Magister der Theologie promoviert. 1307 wurde er nach Köln versetzt, wo er am dortigen Studium Generale lehrte.",
+    "tod": "Duns Scotus starb am 8. November 1308 in Köln unter ungeklärten Umständen – möglicherweise an einem Schlaganfall. Er war nur 42 Jahre alt. Eine Legende besagt, er sei lebendig begraben worden und habe sich im Sarg die Hände blutig gekratzt. Er wurde in der Kölner Minoritenkirche begraben. 1993 wurde er von Papst Johannes Paul II. seliggesprochen.",
+    "nachwirkung": "Scotus' Philosophie begründete die eigene Denkschule des Scotismus, die an den Franziskanerschulen bis in die Neuzeit gelehrt wurde. Sein Univozitätsbegriff beeinflusste die Entwicklung der modernen Metaphysik. Seine Haecceitas inspirierte den Dichter Gerard Manley Hopkins. Der Voluntarismus beeinflusste die Reformation (Luther studierte Scotus) und die Entwicklung des Nominalismus. Martin Heidegger beschäftigte sich in seiner Habilitationsschrift mit der scotistischen Kategorienlehre."
+  },
+  "kernideen": [
+    {
+      "titel": "Univozität des Seins",
+      "beschreibung": "Das Wort 'Sein' wird in ein und derselben Bedeutung (univok) von Gott und den Geschöpfen ausgesagt. Ohne diese Univozität wäre jede rationale Rede über Gott unmöglich."
+    },
+    {
+      "titel": "Haecceitas (Diesheit)",
+      "beschreibung": "Jedes Einzelding hat eine eigene positive Bestimmung – die Haecceitas –, die es zu genau diesem individuellen Ding macht. Individualität ist keine bloße Negation, sondern eine eigene Realität."
+    },
+    {
+      "titel": "Voluntarismus",
+      "beschreibung": "Der Wille hat Vorrang vor dem Intellekt. Gott handelt aus freiem Willen, nicht aus intellektueller Notwendigkeit. Das moralische Gesetz beruht auf Gottes freiem Willensentscheid."
+    },
+    {
+      "titel": "Formale Distinktion",
+      "beschreibung": "Zwischen der realen Distinktion (zwei verschiedene Dinge) und der bloß begrifflichen Distinktion gibt es eine mittlere: die formale Distinktion. Sie besteht zwischen Aspekten eines Dinges, die real verschieden, aber nicht trennbar sind."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Ordinatio (Opus Oxoniense)",
+      "jahr": "1300–1308",
+      "beschreibung": "Monumentaler Kommentar zu den Sentenzen des Petrus Lombardus, von Scotus selbst überarbeitet. Sein philosophisch-theologisches Hauptwerk."
+    },
+    {
+      "titel": "Lectura",
+      "jahr": "ca. 1298–1300",
+      "beschreibung": "Frühere Version der Sentenzenvorlesung in Oxford. Weniger ausgearbeitet als die Ordinatio, aber wichtig für die Entwicklung seines Denkens."
+    },
+    {
+      "titel": "Quaestiones quodlibetales",
+      "jahr": "1306–1307",
+      "beschreibung": "21 Quodlibet-Fragen aus Scotus' Pariser Lehrzeit. Behandeln ein breites Spektrum philosophischer und theologischer Themen."
+    },
+    {
+      "titel": "Quaestiones super libros Metaphysicorum Aristotelis",
+      "jahr": "ca. 1298",
+      "beschreibung": "Kommentar zur Metaphysik des Aristoteles. Enthält die Entwicklung der Lehre von der Univozität des Seins."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Sein ist der erste und adäquateste Gegenstand des Verstandes.",
+      "quelle": "Ordinatio, I, d. 3",
+      "kontext": "Scotus' These von der Univozität des Seinsbegriffs als Grundlage aller Erkenntnis."
+    },
+    {
+      "text": "Nichts anderes als der Wille ist die gesamte Ursache des Wollens im Willen.",
+      "quelle": "Ordinatio, I, d. 10",
+      "kontext": "Scotus' Voluntarismus: Der Wille bestimmt sich selbst und wird nicht vom Intellekt determiniert."
+    },
+    {
+      "text": "Die Individualität eines Dinges ist eine positive Entität, die die Natur des Dinges zur Einzelheit kontrahiert.",
+      "quelle": "Ordinatio, II, d. 3",
+      "kontext": "Die Lehre von der Haecceitas als positivem Individuationsprinzip."
+    }
+  ],
+  "verwandtePhilosophen": ["thomas-von-aquin", "wilhelm-von-ockham", "anselm-von-canterbury", "aristoteles", "albertus-magnus"],
+  "verwandteIsmen": ["scotismus", "scholastik", "voluntarismus", "realismus"]
+}

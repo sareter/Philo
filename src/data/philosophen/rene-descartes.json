@@ -1,0 +1,52 @@
+{
+  "slug": "rene-descartes",
+  "name": "René Descartes",
+  "lebensdaten": "1596–1650",
+  "geboren": { "jahr": 1596, "ort": "La Haye en Touraine", "land": "Frankreich", "lat": 46.9733, "lng": 0.8589 },
+  "gestorben": { "jahr": 1650, "ort": "Stockholm", "land": "Schweden", "lat": 59.3293, "lng": 18.0686 },
+  "epoche": "Aufklärung",
+  "region": "Frankreich / Niederlande",
+  "hauptstroemungen": ["Rationalismus", "Dualismus", "Methodischer Zweifel"],
+  "kurzbeschreibung": "René Descartes gilt als Begründer der modernen Philosophie und des Rationalismus. Sein methodischer Zweifel und sein berühmter Ausspruch 'Cogito, ergo sum' (Ich denke, also bin ich) markieren einen Wendepunkt in der Philosophiegeschichte. Als Mathematiker erfand er das kartesische Koordinatensystem und legte damit die Grundlagen der analytischen Geometrie.",
+  "biografie": {
+    "fruehesLeben": "René Descartes wurde am 31. März 1596 in La Haye en Touraine (heute Descartes) in der Touraine als Sohn des Parlamentsrats Joachim Descartes geboren. Seine Mutter starb, als er ein Jahr alt war. Er wuchs bei seiner Großmutter auf und wurde 1607 auf das Jesuitenkolleg von La Flèche geschickt, eine der besten Schulen Europas, wo er acht Jahre lang eine umfassende humanistische und naturwissenschaftliche Ausbildung erhielt. Obwohl er die Bildung schätzte, war er mit dem scholastischen Lehrplan unzufrieden und kam zu dem Schluss, dass die meisten überlieferten Lehrmeinungen unsicher seien. Nach dem Studium der Rechtswissenschaften an der Universität Poitiers trat er 1618 in die Armee des Prinzen Moritz von Nassau in den Niederlanden ein, weniger aus militärischem Interesse als aus Wissensdurst. Am 10. November 1619 hatte er in einem winterlichen Quartier in Süddeutschland (vermutlich in Neuburg an der Donau) drei visionäre Träume, die ihm seine philosophische Berufung offenbarten: Er sollte eine einheitliche Methode zur Erforschung der Wahrheit entwickeln.",
+    "schaffen": "Nach Jahren des Reisens und Studierens ließ sich Descartes 1629 in den Niederlanden nieder, wo er zwanzig Jahre lang lebte und seine wichtigsten Werke verfasste. In 'Regulae ad directionem ingenii' (Regeln zur Leitung des Geistes, um 1628) entwickelte er erste methodische Grundsätze. Der 'Discours de la méthode' (1637) formulierte vier methodische Regeln und enthielt die berühmte Passage über den methodischen Zweifel: Um zu einer unbezweifelbaren Grundlage des Wissens zu gelangen, zweifelte Descartes systematisch an allem, was auch nur den geringsten Anlass zum Zweifel bot – an den Sinneswahrnehmungen, an der Existenz der Außenwelt, sogar an den mathematischen Wahrheiten. Die einzige Gewissheit, die dem Zweifel standhielt, war das Denken selbst: 'Cogito, ergo sum' (Ich denke, also bin ich). Von dieser Grundlage aus versuchte er, das gesamte Wissensgebäude neu zu errichten. In den 'Meditationes de prima philosophia' (1641) vertiefte er diese Überlegungen und entwickelte seine Gottesbeweise sowie den Leib-Seele-Dualismus: Der Mensch besteht aus zwei grundverschiedenen Substanzen – der denkenden Substanz (res cogitans) und der ausgedehnten Substanz (res extensa). In 'Principia Philosophiae' (1644) entwarf er ein umfassendes System der Naturphilosophie mit einer mechanistischen Physik.",
+    "spaetesLeben": "In den 1640er Jahren geriet Descartes zunehmend in Konflikte mit theologischen Autoritäten in den Niederlanden, die seinen Dualismus und seine mechanistische Naturphilosophie als Bedrohung für die Religion ansahen. Sein Briefwechsel mit Prinzessin Elisabeth von der Pfalz führte zu vertieften Überlegungen über das Leib-Seele-Problem und mündete in sein letztes Werk 'Les Passions de l'âme' (Die Leidenschaften der Seele, 1649), eine psychologische und ethische Abhandlung über die Emotionen. Im September 1649 folgte er einer Einladung der Königin Christina von Schweden nach Stockholm, um sie in Philosophie zu unterrichten.",
+    "tod": "Die Bedingungen in Stockholm erwiesen sich als fatal: Die Königin verlangte, dass der Unterricht morgens um fünf Uhr stattfand – ein unerträglicher Zeitpunkt für Descartes, der sein Leben lang bis mittags im Bett zu bleiben pflegte. Der strenge schwedische Winter tat ein Übriges. Am 11. Februar 1650, nur wenige Monate nach seiner Ankunft, starb Descartes an einer Lungenentzündung. Er wurde zunächst in Stockholm beigesetzt, seine Gebeine wurden jedoch 1667 nach Paris überführt und ruhen heute in der Kirche Saint-Germain-des-Prés.",
+    "nachwirkung": "Descartes' Einfluss auf die abendländische Philosophie ist immens. Er begründete den kontinentalen Rationalismus, der von Spinoza und Leibniz weitergeführt wurde, und formulierte mit dem Leib-Seele-Problem eine der zentralen Fragen der Philosophie des Geistes, die bis heute debattiert wird. Sein methodischer Zweifel wurde zum Vorbild wissenschaftlicher Skepsis. In der Mathematik legte er mit dem kartesischen Koordinatensystem die Grundlage der analytischen Geometrie. Sein mechanistisches Weltbild prägte die neuzeitliche Naturwissenschaft. Husserls Phänomenologie, der Existenzialismus und die analytische Philosophie beziehen sich kritisch oder zustimmend auf seine Grundlegung."
+  },
+  "kernideen": [
+    {
+      "titel": "Methodischer Zweifel",
+      "beschreibung": "Descartes' radikale Methode besteht darin, alles systematisch zu bezweifeln, was auch nur den geringsten Anlass zum Zweifel bietet. Nur was diesem strengen Test standhält, kann als Grundlage sicheren Wissens dienen."
+    },
+    {
+      "titel": "Cogito, ergo sum",
+      "beschreibung": "Die einzige unbezweifelbare Gewissheit ist das Denken selbst: Selbst wenn ein böser Dämon mich in allem täuscht, kann er nicht verhindern, dass ich existiere, solange ich denke. 'Ich denke, also bin ich' ist das Fundament des kartesischen Systems."
+    },
+    {
+      "titel": "Substanzendualismus",
+      "beschreibung": "Die Wirklichkeit besteht aus zwei grundverschiedenen Substanzen: der denkenden Substanz (res cogitans, der Geist) und der ausgedehnten Substanz (res extensa, die Materie). Ihr Zusammenwirken im Menschen – das Leib-Seele-Problem – wurde zur zentralen Frage der Philosophie des Geistes."
+    },
+    {
+      "titel": "Klare und deutliche Erkenntnis",
+      "beschreibung": "Als Wahrheitskriterium gilt für Descartes, dass nur das als wahr angenommen werden darf, was klar und deutlich (clare et distincte) erkannt wird. Dieses Kriterium soll die Grundlage für eine sichere, mathematisch strenge Philosophie bilden."
+    }
+  ],
+  "werke": [
+    { "titel": "Discours de la méthode (Abhandlung über die Methode)", "jahr": "1637", "beschreibung": "Descartes' programmatische Schrift, die seine vier methodischen Regeln formuliert und den berühmten 'Cogito'-Gedanken enthält. Es war eines der ersten wichtigen philosophischen Werke, die auf Französisch statt auf Latein veröffentlicht wurden." },
+    { "titel": "Meditationes de prima philosophia", "jahr": "1641", "beschreibung": "Die sechs Meditationen entwickeln systematisch den methodischen Zweifel, den Cogito-Beweis, die Gottesbeweise und den Leib-Seele-Dualismus. Das Werk enthält auch die berühmten Einwände anderer Philosophen und Descartes' Erwiderungen." },
+    { "titel": "Principia Philosophiae", "jahr": "1644", "beschreibung": "Ein umfassendes System der Naturphilosophie, das eine mechanistische Physik entwickelt und die Grundlagen der kartesischen Naturwissenschaft legt." },
+    { "titel": "Les Passions de l'âme (Die Leidenschaften der Seele)", "jahr": "1649", "beschreibung": "Descartes' letzte Schrift, die eine systematische Theorie der Emotionen entwickelt und ethische Fragen des guten Lebens behandelt." },
+    { "titel": "La Géométrie (Die Geometrie)", "jahr": "1637", "beschreibung": "Einer der drei Anhänge zum Discours, in dem Descartes die analytische Geometrie begründet und das kartesische Koordinatensystem einführt." },
+    { "titel": "Regulae ad directionem ingenii", "jahr": "ca. 1628", "beschreibung": "Ein unvollendetes Frühwerk, das methodische Regeln zur Leitung des Geistes formuliert und bereits zentrale Elemente der späteren Methode enthält." }
+  ],
+  "zitate": [
+    { "text": "Cogito, ergo sum. – Ich denke, also bin ich.", "quelle": "Discours de la méthode, Teil IV (1637)", "kontext": "Das berühmteste philosophische Diktum der Neuzeit, das die unbezweifelbare Gewissheit des denkenden Subjekts als Grundlage aller Erkenntnis setzt." },
+    { "text": "De omnibus dubitandum est. – An allem ist zu zweifeln.", "quelle": "Principia Philosophiae", "kontext": "Der Ausgangspunkt des kartesischen Philosophierens: Der methodische Zweifel an allen überlieferten Meinungen ist der erste Schritt zur Wahrheit." },
+    { "text": "Ich hätte alles geben mögen, um das Buch der Welt zu studieren.", "quelle": "Discours de la méthode, Teil I", "kontext": "Descartes beschreibt seine Entscheidung, die Gelehrtenstube zu verlassen und die Welt zu bereisen, um aus der Erfahrung zu lernen." },
+    { "text": "Es genügt nicht, einen guten Geist zu haben; die Hauptsache ist, ihn gut anzuwenden.", "quelle": "Discours de la méthode, Teil I", "kontext": "Descartes betont die Bedeutung der richtigen Methode über die bloße natürliche Begabung." }
+  ],
+  "verwandtePhilosophen": ["baruch-spinoza", "gottfried-wilhelm-leibniz", "blaise-pascal", "john-locke", "immanuel-kant"],
+  "verwandteIsmen": ["rationalismus", "dualismus", "kartesianismus"]
+}

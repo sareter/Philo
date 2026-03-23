@@ -1,0 +1,90 @@
+{
+  "slug": "anselm-von-canterbury",
+  "name": "Anselm von Canterbury",
+  "lebensdaten": "1033–1109",
+  "geboren": {
+    "jahr": 1033,
+    "ort": "Aosta",
+    "land": "Königreich Burgund (heute Italien)",
+    "lat": 45.74,
+    "lng": 7.32
+  },
+  "gestorben": {
+    "jahr": 1109,
+    "ort": "Canterbury",
+    "land": "England",
+    "lat": 51.28,
+    "lng": 1.08
+  },
+  "epoche": "Mittelalter",
+  "region": "Italien / Frankreich / England",
+  "hauptstroemungen": ["Scholastik", "Christliche Philosophie", "Rationalismus"],
+  "kurzbeschreibung": "Anselm von Canterbury, der 'Vater der Scholastik', formulierte den berühmtesten Gottesbeweis der Philosophiegeschichte – das ontologische Argument. Sein Programm 'Fides quaerens intellectum' (Der Glaube sucht das Verstehen) begründete die systematische Verbindung von Glaube und Vernunft.",
+  "biografie": {
+    "fruehesLeben": "Anselm wurde 1033 in Aosta im Aostatal geboren, das damals zum Königreich Burgund gehörte. Sein Vater Gundolf war ein lombardischer Adliger, seine Mutter Ermenberga stammte aus einer vornehmen burgundischen Familie. Als Jugendlicher wollte er in ein Kloster eintreten, was sein Vater verhinderte. Nach dem Tod der Mutter kam es zum Bruch mit dem Vater, und Anselm verließ 1056 die Heimat. Er wanderte durch Burgund und Frankreich und kam 1059 in die Abtei Bec in der Normandie, angezogen vom Ruf des berühmten Gelehrten Lanfranc von Pavia.",
+    "schaffen": "In Bec trat Anselm 1060 als Mönch ein und wurde 1063 Prior und 1078 Abt. In der Stille des Klosters verfasste er seine wichtigsten philosophischen Werke. Das 'Monologion' (1076) enthält mehrere Gottesbeweise aus der Erfahrung – ähnlich den späteren Wegen des Thomas von Aquin. Das 'Proslogion' (1077/78) enthält den berühmten ontologischen Gottesbeweis: Gott ist 'das, worüber hinaus nichts Größeres gedacht werden kann' (id quo nihil maius cogitari potest). Selbst der Tor, der in seinem Herzen sagt 'Es gibt keinen Gott', versteht, was mit Gott gemeint ist – er hat also eine Vorstellung von 'dem, worüber hinaus nichts Größeres gedacht werden kann'. Etwas, das nur im Verstand existiert, ist aber weniger groß als etwas, das auch in der Wirklichkeit existiert. Also muss 'das, worüber hinaus nichts Größeres gedacht werden kann', auch in der Wirklichkeit existieren – sonst wäre es nicht das Größte. Der Mönch Gaunilo von Marmoutiers wandte ein, man könne mit demselben Argument die Existenz einer 'vollkommensten Insel' beweisen. Anselm erwiderte, das Argument gelte nur für das absolut Größte, nicht für endliche Dinge. Dieser Streit wurde von Kant, der das Argument erstmals 'ontologisch' nannte, neu belebt und beschäftigt die Philosophie bis heute. In 'Cur Deus Homo' (1098) entwickelte Anselm die Satisfaktionslehre: Die Sünde des Menschen hat Gottes Ehre unendlich verletzt; nur ein Gott-Mensch (Christus) kann eine unendliche Genugtuung leisten.",
+    "spaetesLeben": "1093 wurde Anselm zum Erzbischof von Canterbury ernannt – ein Amt, das er nur widerstrebend annahm. Er geriet in schwere Konflikte mit den englischen Königen Wilhelm II. Rufus und Heinrich I. über die Investitur (das Recht, Bischöfe einzusetzen). Zweimal ging er ins Exil (1097–1100 und 1103–1106). Trotz dieser politischen Kämpfe setzte er seine philosophische Arbeit fort.",
+    "tod": "Anselm starb am 21. April 1109 in Canterbury im Alter von 76 Jahren. Er wurde 1720 von Papst Clemens XI. zum Kirchenlehrer erklärt. Sein Grab befindet sich in der Kathedrale von Canterbury.",
+    "nachwirkung": "Anselms ontologisches Argument ist der meistdiskutierte Gottesbeweis der Philosophiegeschichte. Thomas von Aquin lehnte ihn ab, Descartes, Leibniz und Hegel nahmen ihn auf und modifizierten ihn. Kant formulierte die klassische Kritik (Sein ist kein Prädikat), und Gödel formalisierte eine Version in der Modallogik. Anselms Methode des 'Fides quaerens intellectum' wurde zum Programm der gesamten Scholastik."
+  },
+  "kernideen": [
+    {
+      "titel": "Ontologischer Gottesbeweis",
+      "beschreibung": "Gott ist 'das, worüber hinaus nichts Größeres gedacht werden kann'. Da Existenz in der Wirklichkeit größer ist als Existenz bloß im Verstand, muss Gott auch in der Wirklichkeit existieren – sonst wäre er nicht das Größte."
+    },
+    {
+      "titel": "Fides Quaerens Intellectum",
+      "beschreibung": "Der Glaube sucht das Verstehen: Man muss zuerst glauben, um zu verstehen, aber der Glaube drängt von sich aus nach rationaler Durchdringung. Vernunft und Glaube ergänzen einander."
+    },
+    {
+      "titel": "Satisfaktionslehre",
+      "beschreibung": "Die Sünde des Menschen hat Gottes Ehre unendlich verletzt. Da kein endliches Wesen eine unendliche Genugtuung leisten kann, musste Gott selbst Mensch werden, um die Schuld zu tilgen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Proslogion",
+      "jahr": "1077–1078",
+      "beschreibung": "Enthält den berühmten ontologischen Gottesbeweis. Ursprünglich 'Fides Quaerens Intellectum' betitelt. Eines der meistdiskutierten philosophischen Werke aller Zeiten."
+    },
+    {
+      "titel": "Monologion",
+      "jahr": "1076",
+      "beschreibung": "Meditation über das Wesen Gottes mit mehreren Gottesbeweisen aus der Erfahrung: aus den Stufen des Guten, aus den Stufen des Seins und aus den Stufen der Vollkommenheit."
+    },
+    {
+      "titel": "Cur Deus Homo (Warum Gott Mensch wurde)",
+      "jahr": "1098",
+      "beschreibung": "Theologisches Hauptwerk über die Notwendigkeit der Menschwerdung Gottes. Entwickelt die Satisfaktionslehre als rationale Erklärung der Erlösung."
+    },
+    {
+      "titel": "De Veritate (Über die Wahrheit)",
+      "jahr": "ca. 1080",
+      "beschreibung": "Dialog über das Wesen der Wahrheit. Wahrheit ist 'Richtigkeit' (rectitudo) – die Übereinstimmung von Denken, Aussage und Wirklichkeit mit dem, was sein soll."
+    },
+    {
+      "titel": "De Libertate Arbitrii (Über die Freiheit des Willens)",
+      "jahr": "ca. 1080–1085",
+      "beschreibung": "Dialog über die Willensfreiheit. Freiheit ist nicht die Fähigkeit zu sündigen, sondern die Fähigkeit, die Gerechtigkeit um ihrer selbst willen zu bewahren."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Ich glaube, damit ich verstehe.",
+      "quelle": "Proslogion, Proömium (Credo ut intelligam)",
+      "kontext": "Das Motto der anselmianischen Philosophie: Der Glaube ist der Ausgangspunkt des Verstehens."
+    },
+    {
+      "text": "Gott ist das, worüber hinaus nichts Größeres gedacht werden kann.",
+      "quelle": "Proslogion, Kapitel 2",
+      "kontext": "Die Definition Gottes, die den ontologischen Gottesbeweis begründet."
+    },
+    {
+      "text": "Auch der Tor versteht, was das ist, worüber hinaus nichts Größeres gedacht werden kann, wenn er es hört.",
+      "quelle": "Proslogion, Kapitel 2",
+      "kontext": "Der entscheidende Schritt im ontologischen Argument: Auch der Ungläubige hat eine Vorstellung von Gott."
+    }
+  ],
+  "verwandtePhilosophen": ["augustinus", "thomas-von-aquin", "boethius", "peter-abaelard", "duns-scotus"],
+  "verwandteIsmen": ["scholastik", "rationalismus", "christliche-philosophie", "realismus"]
+}

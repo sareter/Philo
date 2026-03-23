@@ -1,0 +1,89 @@
+{
+  "slug": "robert-nozick",
+  "name": "Robert Nozick",
+  "lebensdaten": "1938–2002",
+  "geboren": {
+    "jahr": 1938,
+    "ort": "Brooklyn",
+    "land": "USA",
+    "lat": 40.6782,
+    "lng": -73.9442
+  },
+  "gestorben": {
+    "jahr": 2002,
+    "ort": "Cambridge",
+    "land": "USA",
+    "lat": 42.3736,
+    "lng": -71.1097
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Libertarismus", "Politische Philosophie", "Erkenntnistheorie"],
+  "kurzbeschreibung": "Robert Nozick war ein amerikanischer Philosoph, der mit seinem Werk 'Anarchie, Staat und Utopia' (1974) die libertäre politische Philosophie begründete und die einflussreichste Gegenposition zu John Rawls' Gerechtigkeitstheorie formulierte. Er argumentierte für einen Minimalstaat, der sich auf den Schutz vor Gewalt und Betrug beschränkt, und gegen jede Form staatlicher Umverteilung.",
+  "biografie": {
+    "fruehesLeben": "Robert Nozick wurde am 16. November 1938 in Brooklyn, New York, als Sohn russisch-jüdischer Einwanderer geboren. Sein Vater war Unternehmer. Nozick studierte Philosophie an der Columbia University (Bachelor 1959) und promovierte in Princeton bei Carl Hempel (1963). Als Student war er politisch links orientiert und Mitglied der Socialist Party, wandelte sich aber während des Studiums zum Libertären.",
+    "schaffen": "Nozick lehrte ab 1969 an der Harvard University, wo er eine der jüngsten Festanstellungen in der Geschichte der Fakultät erhielt. Sein Hauptwerk 'Anarchie, Staat und Utopia' (1974) war eine direkte Antwort auf Rawls' 'Theorie der Gerechtigkeit' und argumentierte, dass nur ein Minimalstaat – beschränkt auf den Schutz vor Gewalt, Diebstahl und Betrug – moralisch gerechtfertigt sei. Jede weitergehende staatliche Tätigkeit, insbesondere Umverteilung, verletze die individuellen Rechte der Bürger. Sein berühmtes Argument des 'Wilt Chamberlain' zeigte, dass jede Gleichverteilung sich durch freiwillige Transaktionen unweigerlich in Ungleichheit verwandle. Das Buch erhielt den National Book Award und wurde zum Grundtext des Libertarismus. Nozick war jedoch ein vielseitiger Denker, der sich nicht auf politische Philosophie beschränkte. 'Philosophical Explanations' (1981) behandelte Fragen der Erkenntnistheorie, der persönlichen Identität und der Ethik. 'The Examined Life' (1989) war eine Sammlung zugänglicher philosophischer Reflexionen. 'Invariances' (2001) entwickelte eine Theorie der objektiven Wahrheit.",
+    "spaetesLeben": "Nozick distanzierte sich später von einigen extremen libertären Positionen seines Frühwerks und bezeichnete seine Position als übertrieben. In 'The Examined Life' gestand er, dass libertäre Positionen unzureichend seien. Er blieb aber ein Verteidiger individueller Freiheit und Marktmechanismen. Er litt seit den 1990er Jahren an Magenkrebs.",
+    "tod": "Robert Nozick starb am 23. Januar 2002 in Cambridge, Massachusetts, an Magenkrebs. Er war 63 Jahre alt.",
+    "nachwirkung": "Nozicks 'Anarchie, Staat und Utopia' ist der Gründungstext des philosophischen Libertarismus und hat die politische Philosophie des späten 20. Jahrhunderts maßgeblich geprägt. Die Debatte zwischen Rawls und Nozick über Gerechtigkeit und die Rolle des Staates gehört zu den zentralen Auseinandersetzungen der modernen politischen Theorie. Sein Einfluss erstreckt sich über die Philosophie hinaus auf Ökonomie, Rechtswissenschaft und politische Theorie."
+  },
+  "kernideen": [
+    {
+      "titel": "Der Minimalstaat",
+      "beschreibung": "Nur ein Minimalstaat, der sich auf den Schutz vor Gewalt, Diebstahl, Betrug und die Durchsetzung von Verträgen beschränkt, ist moralisch gerechtfertigt. Jede weitergehende staatliche Tätigkeit – insbesondere Umverteilung – verletzt die Rechte der Individuen."
+    },
+    {
+      "titel": "Anspruchstheorie der Gerechtigkeit (Entitlement Theory)",
+      "beschreibung": "Gerechtigkeit bezieht sich nicht auf Verteilungsmuster, sondern auf den Prozess des Erwerbs. Eine Verteilung ist gerecht, wenn sie durch gerechten Erwerb und gerechte Übertragung zustande gekommen ist – unabhängig davon, wie ungleich das Ergebnis ist."
+    },
+    {
+      "titel": "Selbsteigentum",
+      "beschreibung": "Jeder Mensch hat ein unveräußerliches Recht auf sich selbst, seine Fähigkeiten und die Früchte seiner Arbeit. Besteuerung der Arbeitseinkommen ist eine Form von Zwangsarbeit, da der Staat sich Teile der Arbeitszeit des Bürgers aneignet."
+    },
+    {
+      "titel": "Die Erfahrungsmaschine",
+      "beschreibung": "Nozicks berühmtes Gedankenexperiment: Würden Sie sich an eine Maschine anschließen, die Ihnen jede gewünschte Erfahrung simuliert? Die meisten Menschen würden dies ablehnen – ein Argument gegen den hedonistischen Utilitarismus und für den Wert realer Erfahrungen und Handlungen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Anarchie, Staat und Utopia (Anarchy, State, and Utopia)",
+      "jahr": "1974",
+      "beschreibung": "Der Gründungstext des philosophischen Libertarismus argumentiert für einen Minimalstaat und gegen jede Form staatlicher Umverteilung."
+    },
+    {
+      "titel": "Philosophical Explanations",
+      "jahr": "1981",
+      "beschreibung": "Ein vielseitiges Werk zu Erkenntnistheorie, persönlicher Identität, freiem Willen und Ethik, das eine Alternative zur traditionellen philosophischen Argumentation sucht."
+    },
+    {
+      "titel": "The Examined Life",
+      "jahr": "1989",
+      "beschreibung": "Eine Sammlung zugänglicher philosophischer Reflexionen über Themen wie Tod, Liebe, Glück, Kreativität und den Sinn des Lebens."
+    },
+    {
+      "titel": "Invariances: The Structure of the Objective World",
+      "jahr": "2001",
+      "beschreibung": "Nozicks letztes Werk entwickelt eine Theorie der Objektivität, die Wahrheit als Invarianz unter Transformationen versteht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Individuen haben Rechte, und es gibt Dinge, die keine Person oder Gruppe ihnen antun darf, ohne ihre Rechte zu verletzen.",
+      "quelle": "Anarchie, Staat und Utopia, Vorwort",
+      "kontext": "Der programmatische Eröffnungssatz, der die unveräußerlichen Individualrechte als Grundlage der politischen Philosophie setzt."
+    },
+    {
+      "text": "Besteuerung der Arbeitseinkommen ist auf einer Stufe mit Zwangsarbeit.",
+      "quelle": "Anarchie, Staat und Utopia",
+      "kontext": "Nozicks provokante These über die moralische Äquivalenz von Besteuerung und Zwangsarbeit."
+    },
+    {
+      "text": "Von jedem, was er zu geben bereit ist; jedem, was er für sich wählt.",
+      "quelle": "Anarchie, Staat und Utopia",
+      "kontext": "Nozicks libertäres Gerechtigkeitsprinzip als Gegenentwurf zu marxistischen Verteilungsprinzipien."
+    }
+  ],
+  "verwandtePhilosophen": ["john-rawls", "peter-singer", "noam-chomsky"],
+  "verwandteIsmen": ["libertarismus", "liberalismus", "individualismus"]
+}

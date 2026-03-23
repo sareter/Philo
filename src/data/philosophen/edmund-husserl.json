@@ -1,0 +1,99 @@
+{
+  "slug": "edmund-husserl",
+  "name": "Edmund Husserl",
+  "lebensdaten": "1859–1938",
+  "geboren": {
+    "jahr": 1859,
+    "ort": "Proßnitz",
+    "land": "Österreich-Ungarn",
+    "lat": 49.4722,
+    "lng": 17.1114
+  },
+  "gestorben": {
+    "jahr": 1938,
+    "ort": "Freiburg im Breisgau",
+    "land": "Deutschland",
+    "lat": 47.999,
+    "lng": 7.842
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Phänomenologie", "Transzendentalphilosophie"],
+  "kurzbeschreibung": "Edmund Husserl ist der Begründer der Phänomenologie, einer der einflussreichsten philosophischen Strömungen des 20. Jahrhunderts. Mit dem Ruf 'Zu den Sachen selbst!' schuf er eine Methode der philosophischen Beschreibung von Bewusstseinsphänomenen, die das gesamte kontinentale Denken revolutionierte. Sein Werk beeinflusste Heidegger, Sartre, Merleau-Ponty, Derrida und viele andere maßgeblich.",
+  "biografie": {
+    "fruehesLeben": "Edmund Gustav Albrecht Husserl wurde am 8. April 1859 im mährischen Proßnitz (heute Prostějov, Tschechien) in eine jüdische Familie geboren. Er studierte zunächst Mathematik, Physik und Astronomie in Leipzig, Berlin und Wien. In Berlin hörte er Vorlesungen bei Karl Weierstraß und Leopold Kronecker. 1883 promovierte er in Wien in Mathematik mit einer Arbeit über Variationsrechnung. Der entscheidende Wendepunkt kam durch die Begegnung mit Franz Brentano in Wien (1884–1886), dessen Lehre von der Intentionalität des Bewusstseins Husserl zur Philosophie führte. In Halle habilitierte er sich 1887 bei Carl Stumpf mit der 'Philosophie der Arithmetik'.",
+    "schaffen": "In Halle (1887–1901) entwickelte Husserl die Grundlagen der Phänomenologie. Seine 'Logischen Untersuchungen' (1900/1901) widerlegten den Psychologismus in der Logik und begründeten die phänomenologische Methode. 1901 wechselte er nach Göttingen, wo er mit dem 'Göttinger Kreis' die phänomenologische Bewegung formierte. Seine 'Ideen zu einer reinen Phänomenologie' (1913) vollzogen die 'transzendentale Wende' und führten die phänomenologische Reduktion (Epoché) als zentrale Methode ein. 1916 folgte er einem Ruf nach Freiburg im Breisgau, wo Martin Heidegger sein Assistent wurde. In Freiburg entwickelte er die genetische Phänomenologie und die Theorie der Lebenswelt. Die 'Cartesianischen Meditationen' (1931) und 'Die Krisis der europäischen Wissenschaften' (1936) markierten die späte Phase seines Denkens, in der er sich zunehmend mit der Intersubjektivität und der Lebenswelt auseinandersetzte.",
+    "spaetesLeben": "Die letzten Jahre Husserls waren von persönlicher Tragödie und politischer Verfolgung geprägt. Nach der Machtergreifung der Nationalsozialisten wurde ihm als Jude 1933 die Lehrberechtigung entzogen. 1936 wurde ihm die deutsche Staatsbürgerschaft aberkannt. Sein ehemaliger Schüler und Nachfolger Martin Heidegger, der 1933 Rektor der Universität Freiburg geworden war und sich dem Nationalsozialismus angenähert hatte, distanzierte sich von seinem Lehrer – ein Bruch, der Husserl tief verletzte. Trotz dieser Widrigkeiten arbeitete er unermüdlich an seinem Spätwerk, der 'Krisis'-Schrift, die eine fundamentale Kritik der modernen Wissenschaften aus phänomenologischer Perspektive enthielt.",
+    "tod": "Edmund Husserl starb am 27. April 1938 in Freiburg im Breisgau an einer Rippenfellentzündung. Sein enormer Nachlass von etwa 40.000 Seiten in Gabelsberger Kurzschrift wurde vom belgischen Franziskanerpater Herman Leo Van Breda unter dramatischen Umständen vor den Nationalsozialisten gerettet und nach Löwen gebracht, wo das Husserl-Archiv gegründet wurde.",
+    "nachwirkung": "Husserls Phänomenologie wurde zur einflussreichsten philosophischen Methode des 20. Jahrhunderts auf dem europäischen Kontinent. Sie beeinflusste direkt den Existenzialismus (Heidegger, Sartre, Merleau-Ponty), die Hermeneutik (Gadamer, Ricoeur), die Dekonstruktion (Derrida) und die Sozialphilosophie (Schütz, Habermas). Die Phänomenologie wirkt bis heute in der Philosophie des Geistes, der Kognitionswissenschaft und der qualitativen Sozialforschung nach. Das Husserl-Archiv in Löwen und Freiburg setzt die Aufarbeitung seines monumentalen Nachlasses fort."
+  },
+  "kernideen": [
+    {
+      "titel": "Intentionalität",
+      "beschreibung": "Das Bewusstsein ist immer Bewusstsein von etwas – es ist intentional auf Gegenstände gerichtet. Diese von Brentano übernommene und weiterentwickelte Grundeinsicht bildet das Fundament der gesamten Phänomenologie."
+    },
+    {
+      "titel": "Phänomenologische Reduktion (Epoché)",
+      "beschreibung": "Die Epoché ist die methodische Einklammerung der 'natürlichen Einstellung' und aller Vorannahmen über die Existenz der Außenwelt. Sie ermöglicht den Zugang zu den reinen Bewusstseinsphänomenen und ihren Wesensstrukturen."
+    },
+    {
+      "titel": "Lebenswelt",
+      "beschreibung": "Die Lebenswelt ist die vorwissenschaftliche, alltägliche Erfahrungswelt, die den Boden aller wissenschaftlichen Theoriebildung bildet. In der 'Krisis'-Schrift diagnostiziert Husserl eine Krise der Wissenschaften, die ihre lebensweltlichen Grundlagen vergessen haben."
+    },
+    {
+      "titel": "Wesensschau (Eidetische Reduktion)",
+      "beschreibung": "Durch die eidetische Reduktion werden die invarianten Wesensstrukturen von Phänomenen erfasst. Durch freie Variation in der Phantasie lassen sich die notwendigen und wesentlichen Merkmale eines Phänomens von seinen zufälligen unterscheiden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Logische Untersuchungen",
+      "jahr": "1900/1901",
+      "beschreibung": "Das Gründungswerk der Phänomenologie in zwei Bänden. Der erste Band widerlegt den Psychologismus in der Logik, der zweite entwickelt die phänomenologische Analyse von Bedeutung, Bewusstsein und Erkenntnis."
+    },
+    {
+      "titel": "Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie",
+      "jahr": "1913",
+      "beschreibung": "Das programmatische Hauptwerk der transzendentalen Phänomenologie, in dem Husserl die phänomenologische Reduktion als Methode einführt und die Grundstrukturen des reinen Bewusstseins analysiert."
+    },
+    {
+      "titel": "Vorlesungen zur Phänomenologie des inneren Zeitbewußtseins",
+      "jahr": "1928",
+      "beschreibung": "Husserls einflussreiche Analyse der Zeitkonstitution im Bewusstsein, herausgegeben von Martin Heidegger, die zeigt, wie das Zeitbewusstsein durch Retention, Urimpression und Protention strukturiert ist."
+    },
+    {
+      "titel": "Cartesianische Meditationen",
+      "jahr": "1931",
+      "beschreibung": "Fünf Meditationen, die das Programm der transzendentalen Phänomenologie in kompakter Form darstellen und die Probleme der Intersubjektivität und der Fremderfahrung behandeln."
+    },
+    {
+      "titel": "Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie",
+      "jahr": "1936",
+      "beschreibung": "Husserls Spätwerk diagnostiziert eine Sinnkrise der modernen Wissenschaften, die ihre lebensweltlichen Grundlagen vergessen haben, und entwirft das Konzept der Lebenswelt als Fundament allen Wissens."
+    },
+    {
+      "titel": "Philosophie der Arithmetik",
+      "jahr": "1891",
+      "beschreibung": "Husserls Frühwerk untersucht die psychologischen Grundlagen der Arithmetik. Gottlob Freges Kritik an diesem Werk motivierte Husserls spätere Abkehr vom Psychologismus."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Zu den Sachen selbst!",
+      "quelle": "Logische Untersuchungen",
+      "kontext": "Das Motto der phänomenologischen Bewegung – die Aufforderung, sich von Theorien und Vorurteilen zu befreien und die Phänomene unmittelbar zu beschreiben."
+    },
+    {
+      "text": "Alles Bewußtsein ist Bewußtsein von etwas.",
+      "quelle": "Ideen I",
+      "kontext": "Die Grundformel der Intentionalität – das Bewusstsein ist immer auf einen Gegenstand gerichtet."
+    },
+    {
+      "text": "Die Lebenswelt ist ständig vorgegeben, ständig geltend als seiend und selbstverständlich.",
+      "quelle": "Die Krisis der europäischen Wissenschaften",
+      "kontext": "Die Beschreibung der Lebenswelt als selbstverständlicher Boden aller Erfahrung und Wissenschaft."
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "jean-paul-sartre", "maurice-merleau-ponty", "jacques-derrida", "gottlob-frege", "ernst-cassirer"],
+  "verwandteIsmen": ["phaenomenologie", "transzendentalphilosophie", "idealismus"]
+}

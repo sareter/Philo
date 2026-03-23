@@ -1,0 +1,118 @@
+{
+  "slug": "martin-heidegger",
+  "name": "Martin Heidegger",
+  "lebensdaten": "1889–1976",
+  "geboren": {
+    "jahr": 1889,
+    "ort": "Meßkirch",
+    "land": "Deutschland",
+    "lat": 47.9943,
+    "lng": 9.1131
+  },
+  "gestorben": {
+    "jahr": 1976,
+    "ort": "Freiburg im Breisgau",
+    "land": "Deutschland",
+    "lat": 47.999,
+    "lng": 7.842
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Phänomenologie", "Existenzphilosophie", "Hermeneutik", "Fundamentalontologie"],
+  "kurzbeschreibung": "Martin Heidegger gilt als einer der bedeutendsten und zugleich umstrittensten Philosophen des 20. Jahrhunderts. Mit 'Sein und Zeit' (1927) stellte er die Frage nach dem Sinn von Sein neu und revolutionierte das philosophische Denken. Sein Werk beeinflusste den Existenzialismus, die Hermeneutik, den Poststrukturalismus und die Dekonstruktion, ist jedoch durch seine Verstrickung in den Nationalsozialismus belastet.",
+  "biografie": {
+    "fruehesLeben": "Martin Heidegger wurde am 26. September 1889 in Meßkirch in Baden als Sohn des Mesners und Küfermeisters Friedrich Heidegger und seiner Frau Johanna geboren. Er wuchs in einfachen, katholisch geprägten Verhältnissen auf. Durch ein Stipendium konnte er zunächst das Gymnasium in Konstanz und dann in Freiburg besuchen. 1909 trat er kurzzeitig in das Jesuitennoviziat ein, wurde aber aus gesundheitlichen Gründen entlassen. Er studierte zunächst Theologie, dann Philosophie, Mathematik und Naturwissenschaften an der Universität Freiburg. 1913 promovierte er über 'Die Lehre vom Urteil im Psychologismus' und habilitierte sich 1915 mit einer Arbeit über 'Die Kategorien- und Bedeutungslehre des Duns Scotus'. Die entscheidende intellektuelle Begegnung war die mit Edmund Husserl, dessen Phänomenologie Heidegger grundlegend transformieren sollte.",
+    "schaffen": "Ab 1919 wurde Heidegger Husserls Assistent in Freiburg und begann, die Phänomenologie in Richtung einer Hermeneutik der Faktizität umzugestalten. 1923 erhielt er einen Ruf nach Marburg, wo er sein Hauptwerk 'Sein und Zeit' (1927) verfasste – eines der einflussreichsten philosophischen Werke des 20. Jahrhunderts. Darin analysierte er das 'Dasein' (den Menschen) als das Seiende, das sich in seinem Sein verstehend zu diesem verhält, und entfaltete Grundbegriffe wie In-der-Welt-sein, Sorge, Geworfenheit, Entwurf, Man, Angst und Sein-zum-Tode. 1928 kehrte er als Husserls Nachfolger nach Freiburg zurück. Nach der sogenannten 'Kehre' in den 1930er Jahren wandte sich Heidegger von der Daseinsanalytik ab und widmete sich der Seinsgeschichte, der Technikphilosophie und der Sprachphilosophie. Zentrale Spätwerke sind 'Die Frage nach der Technik' (1953), 'Der Ursprung des Kunstwerkes' (1950), 'Unterwegs zur Sprache' (1959) und die 'Beiträge zur Philosophie (Vom Ereignis)' (posthum 1989).",
+    "spaetesLeben": "Heideggers Verstrickung in den Nationalsozialismus bleibt eine offene Wunde. 1933 wurde er Rektor der Universität Freiburg und hielt seine berüchtigte Rektoratsrede 'Die Selbstbehauptung der deutschen Universität', die den Nationalsozialismus philosophisch zu legitimieren suchte. Er trat der NSDAP bei und brach den Kontakt zu seinem jüdischen Lehrer Husserl ab. Obwohl er das Rektorat 1934 niederlegte, blieb er Parteimitglied bis 1945. Nach dem Krieg wurde er von den Alliierten mit Lehrverbot belegt (1945–1951). Er zog sich in seine Hütte in Todtnauberg im Schwarzwald zurück und arbeitete unermüdlich an seiner Seinsphilosophie. Ab 1951 durfte er wieder lehren und hielt einflussreiche Vorträge und Seminare. Die 'Schwarzen Hefte', 2014 posthum veröffentlicht, enthüllten antisemitische Bemerkungen und lösten eine erneute Debatte über das Verhältnis von Heideggers Denken und seiner politischen Verstrickung aus.",
+    "tod": "Martin Heidegger starb am 26. Mai 1976 in Freiburg im Breisgau und wurde gemäß seinem Wunsch auf dem Friedhof seiner Geburtsstadt Meßkirch beigesetzt. Bei seiner Beerdigung wurde aus seinem Werk vorgelesen; ein katholischer Gottesdienst fand auf seinen Wunsch statt – eine Rückkehr zu den Wurzeln seiner Kindheit.",
+    "nachwirkung": "Heideggers Einfluss auf die Philosophie des 20. und 21. Jahrhunderts ist immens und vielschichtig. Er beeinflusste den französischen Existenzialismus (Sartre, Merleau-Ponty, Beauvoir), die philosophische Hermeneutik (Gadamer), die Dekonstruktion (Derrida), den Poststrukturalismus (Foucault), die Theologie (Bultmann, Tillich), die Psychiatrie (Binswanger, Boss), die Ökologie und die Technikphilosophie. Die Gesamtausgabe seiner Werke umfasst über 100 Bände. Die Debatte über das Verhältnis seines Denkens zum Nationalsozialismus ist bis heute nicht abgeschlossen und hat durch die Veröffentlichung der 'Schwarzen Hefte' neue Dringlichkeit erhalten."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Seinsfrage",
+      "beschreibung": "Die Frage nach dem Sinn von Sein ist für Heidegger die Grundfrage der Philosophie, die seit den Griechen in Vergessenheit geraten ist. 'Sein und Zeit' unternimmt den Versuch, diese Frage über eine Analyse des Daseins (des Menschen als seinsverstehendem Wesen) neu zu stellen."
+    },
+    {
+      "titel": "Dasein und In-der-Welt-sein",
+      "beschreibung": "Der Mensch ist für Heidegger 'Dasein' – ein Seiendes, das sich verstehend zu seinem eigenen Sein verhält. Das Dasein ist immer schon 'in der Welt' – es existiert nicht zuerst als isoliertes Subjekt, das dann eine Welt vorfindet, sondern ist von Anfang an in ein Netz von Bedeutungen und Bezügen eingelassen."
+    },
+    {
+      "titel": "Sein-zum-Tode und Eigentlichkeit",
+      "beschreibung": "Das Dasein ist wesentlich Sein-zum-Tode: Der Tod ist die eigenste, unbezügliche, gewisse und unbestimmte Möglichkeit. Das vorlaufende Entschlossensein zum Tod ermöglicht eigentliche Existenz – im Gegensatz zum Verfallen an das 'Man', die anonyme Öffentlichkeit."
+    },
+    {
+      "titel": "Die Frage nach der Technik",
+      "beschreibung": "In seiner Spätphilosophie analysiert Heidegger die moderne Technik als 'Ge-stell' – eine Weise der Entbergung, die alles Seiende als verfügbaren Bestand herausfordert. Die Technik ist nicht bloß ein Mittel, sondern eine fundamentale Weise, in der sich der Mensch zur Welt verhält."
+    },
+    {
+      "titel": "Die Kehre und das Ereignis",
+      "beschreibung": "In der sogenannten 'Kehre' der 1930er Jahre verlagert sich Heideggers Denken vom Dasein zum Sein selbst. Das 'Ereignis' wird zum Schlüsselbegriff: Es bezeichnet das Geschehen, in dem sich Sein und Mensch wechselseitig 'er-eignen' und zueinander gehören."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Sein und Zeit",
+      "jahr": "1927",
+      "beschreibung": "Heideggers Hauptwerk und eines der einflussreichsten philosophischen Bücher des 20. Jahrhunderts. Es analysiert die existenziale Struktur des Daseins und stellt die Frage nach dem Sinn von Sein neu."
+    },
+    {
+      "titel": "Kant und das Problem der Metaphysik",
+      "jahr": "1929",
+      "beschreibung": "Eine eigenwillige Interpretation von Kants 'Kritik der reinen Vernunft' als Grundlegung der Metaphysik, die die transzendentale Einbildungskraft ins Zentrum stellt."
+    },
+    {
+      "titel": "Was ist Metaphysik?",
+      "jahr": "1929",
+      "beschreibung": "Die berühmte Freiburger Antrittsvorlesung, in der Heidegger das Nichts als Grundstimmung der Angst erschließt und die Frage stellt: 'Warum ist überhaupt Seiendes und nicht vielmehr Nichts?'"
+    },
+    {
+      "titel": "Der Ursprung des Kunstwerkes",
+      "jahr": "1950",
+      "beschreibung": "Heidegger bestimmt das Kunstwerk als ein Geschehen der Wahrheit – als den Streit von Welt und Erde, in dem sich Wahrheit ins Werk setzt."
+    },
+    {
+      "titel": "Holzwege",
+      "jahr": "1950",
+      "beschreibung": "Eine Sammlung von sechs Abhandlungen, die zentrale Themen der Spätphilosophie behandeln: Kunstwerk, Weltbild, Hegels Erfahrungsbegriff, Nietzsches Wort 'Gott ist tot', die Frage nach der Technik und Rilkes Dichtung."
+    },
+    {
+      "titel": "Die Frage nach der Technik",
+      "jahr": "1953",
+      "beschreibung": "Heideggers einflussreichste technikphilosophische Schrift bestimmt die Technik als 'Ge-stell' und fragt nach ihrem Wesen jenseits instrumenteller Deutungen."
+    },
+    {
+      "titel": "Unterwegs zur Sprache",
+      "jahr": "1959",
+      "beschreibung": "Eine Sammlung sprachphilosophischer Texte, in denen Heidegger die Sprache als 'Haus des Seins' bestimmt und die Dichtung als privilegierten Ort der Seinserschließung versteht."
+    },
+    {
+      "titel": "Beiträge zur Philosophie (Vom Ereignis)",
+      "jahr": "1989",
+      "beschreibung": "Heideggers zweites Hauptwerk, verfasst 1936–1938, das das Denken des 'Ereignisses' als anderen Anfang der Philosophie entwirft. Es wurde posthum veröffentlicht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Sprache ist das Haus des Seins.",
+      "quelle": "Brief über den Humanismus, 1947",
+      "kontext": "Heideggers berühmteste Formulierung über das Verhältnis von Sprache und Sein."
+    },
+    {
+      "text": "Das Man ist überall dabei, doch so, daß es sich auch schon immer davongeschlichen hat, wo das Dasein auf Entscheidung drängt.",
+      "quelle": "Sein und Zeit, § 27",
+      "kontext": "Die Beschreibung des 'Man' als der anonymen Öffentlichkeit, in der das Dasein seine Eigentlichkeit verliert."
+    },
+    {
+      "text": "Warum ist überhaupt Seiendes und nicht vielmehr Nichts?",
+      "quelle": "Was ist Metaphysik?, 1929",
+      "kontext": "Die Grundfrage der Metaphysik, die Heidegger von Leibniz übernimmt und radikalisiert."
+    },
+    {
+      "text": "Die Wissenschaft denkt nicht.",
+      "quelle": "Was heißt Denken?, 1951/52",
+      "kontext": "Heideggers provokante These, dass die Wissenschaft in ihrem methodischen Vorgehen das wesentliche Denken verfehlt."
+    }
+  ],
+  "verwandtePhilosophen": ["edmund-husserl", "friedrich-nietzsche", "jean-paul-sartre", "hannah-arendt", "jacques-derrida", "maurice-merleau-ponty", "hans-georg-gadamer"],
+  "verwandteIsmen": ["phaenomenologie", "existenzialismus", "hermeneutik", "ontologie"]
+}

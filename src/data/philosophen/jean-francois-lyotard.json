@@ -1,0 +1,90 @@
+{
+  "slug": "jean-francois-lyotard",
+  "name": "Jean-François Lyotard",
+  "lebensdaten": "1924–1998",
+  "geboren": {
+    "jahr": 1924,
+    "ort": "Versailles",
+    "land": "Frankreich",
+    "lat": 48.8048,
+    "lng": 2.1203
+  },
+  "gestorben": {
+    "jahr": 1998,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Postmoderne", "Poststrukturalismus"],
+  "kurzbeschreibung": "Jean-François Lyotard war ein französischer Philosoph, der mit seinem Werk 'Das postmoderne Wissen' (1979) den Begriff der Postmoderne in die philosophische Debatte einführte. Seine These vom 'Ende der großen Erzählungen' wurde zur Signatur einer ganzen Epoche. Er analysierte die Krise der Legitimierung des Wissens in der modernen Gesellschaft und plädierte für eine Vielfalt kleiner, lokaler Erzählungen.",
+  "biografie": {
+    "fruehesLeben": "Jean-François Lyotard wurde am 10. August 1924 in Versailles geboren. Er studierte Philosophie an der Sorbonne und bestand 1950 die Agrégation. Er unterrichtete zunächst an einem Gymnasium in Constantine, Algerien, wo er die Kolonialherrschaft aus erster Hand erlebte. Diese Erfahrung radikalisierte ihn politisch, und er schloss sich der linksradikalen Gruppe 'Socialisme ou Barbarie' an, in der er von 1954 bis 1966 aktiv war.",
+    "schaffen": "Lyotards frühes Werk war stark von der Phänomenologie und dem Marxismus geprägt. 'Discours, figure' (1971) entwickelte eine Ästhetik des Figuralen gegen den Strukturalismus. 'Libidinal Economy' (1974) war ein radikales Experiment, das Marx und Freud im Zeichen einer libidinösen Ökonomie zusammenführte. Sein einflussreichstes Werk 'Das postmoderne Wissen' (1979), ursprünglich als Bericht für die Regierung von Québec über den Zustand des Wissens in den entwickelten Gesellschaften verfasst, diagnostizierte das Ende der 'großen Erzählungen' (Aufklärung, Idealismus, Marxismus), die bisher das Wissen legitimierten. An ihre Stelle treten 'Sprachspiele' und eine Pluralität lokaler Erzählungen. 'Der Widerstreit' (1983) entwickelte eine Theorie des 'différend' – eines Konflikts zwischen heterogenen Diskursarten, der nicht durch Bezug auf eine gemeinsame Regel gelöst werden kann. Lyotard lehrte an der Universität Paris VIII und an verschiedenen amerikanischen Universitäten.",
+    "spaetesLeben": "In seinen letzten Lebensjahrzehnten beschäftigte sich Lyotard intensiv mit Ästhetik, insbesondere mit dem Erhabenen bei Kant und Burke, und mit der Frage des Zeugnisses und der Erinnerung an den Holocaust. Er kuratierte 1985 die einflussreiche Ausstellung 'Les Immatériaux' im Centre Pompidou, die die Auswirkungen neuer Technologien auf die menschliche Erfahrung untersuchte.",
+    "tod": "Jean-François Lyotard starb am 21. April 1998 in Paris an Leukämie. Er war 73 Jahre alt.",
+    "nachwirkung": "Lyotards Begriff der Postmoderne und seine These vom Ende der großen Erzählungen wurden zu Schlüsselbegriffen der kulturellen Selbstverständigung der späten Moderne. Sein Einfluss erstreckt sich über Philosophie, Kunsttheorie, Architektur, Medientheorie und Kulturwissenschaften. Die Debatte zwischen Lyotard und Habermas über die Postmoderne gehört zu den prägenden intellektuellen Auseinandersetzungen des späten 20. Jahrhunderts."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Ende der großen Erzählungen",
+      "beschreibung": "Die 'großen Erzählungen' (grands récits), die bisher das Wissen und die Gesellschaft legitimierten – Fortschritt, Emanzipation, Dialektik des Geistes, Befreiung der Arbeit –, haben ihre Glaubwürdigkeit verloren. An ihre Stelle tritt eine Pluralität kleiner, lokaler Erzählungen."
+    },
+    {
+      "titel": "Der Widerstreit (Le différend)",
+      "beschreibung": "Ein Widerstreit ist ein Konflikt zwischen heterogenen Diskursarten, der nicht durch Bezug auf eine gemeinsame Regel gelöst werden kann. Eine Partei wird zum Schweigen gebracht, weil die Sprache des Gerichts ihre Erfahrung nicht ausdrücken kann – paradigmatisch im Fall der Holocaust-Überlebenden."
+    },
+    {
+      "titel": "Sprachspiele und Performativität",
+      "beschreibung": "In der postmodernen Gesellschaft wird Wissen nicht mehr durch Wahrheit, sondern durch Performativität legitimiert – durch seine Effizienz und Nützlichkeit. Verschiedene Sprachspiele (wissenschaftliche, narrative, denotative, präskriptive) sind inkommensurabel."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Das postmoderne Wissen (La Condition postmoderne)",
+      "jahr": "1979",
+      "beschreibung": "Das einflussreichste Werk zur philosophischen Bestimmung der Postmoderne diagnostiziert das Ende der großen Erzählungen und analysiert den Zustand des Wissens in den entwickelten Gesellschaften."
+    },
+    {
+      "titel": "Der Widerstreit (Le Différend)",
+      "jahr": "1983",
+      "beschreibung": "Eine Theorie der unlösbaren Konflikte zwischen heterogenen Diskursarten, die zu den bedeutendsten philosophischen Werken des späten 20. Jahrhunderts gehört."
+    },
+    {
+      "titel": "Discours, figure",
+      "jahr": "1971",
+      "beschreibung": "Eine Ästhetik des Figuralen, die das Sinnliche und Visuelle gegen die Vorherrschaft des Diskursiven und Sprachlichen verteidigt."
+    },
+    {
+      "titel": "Ökonomie des Wunsches (Économie libidinale)",
+      "jahr": "1974",
+      "beschreibung": "Ein radikales philosophisches Experiment, das marxistische und psychoanalytische Kategorien im Zeichen einer libidinösen Ökonomie zusammenführt."
+    },
+    {
+      "titel": "Der Enthusiasmus",
+      "jahr": "1986",
+      "beschreibung": "Eine Analyse von Kants Geschichtsphilosophie und des Erhabenen, die Lyotards Interesse am Undarstellbaren und an der Ethik des Zeugnisses zeigt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Ich definiere 'postmodern' als Ungläubigkeit gegenüber den Metaerzählungen.",
+      "quelle": "Das postmoderne Wissen",
+      "kontext": "Die berühmteste Definition der Postmoderne als Skepsis gegenüber den großen legitimierenden Erzählungen der Moderne."
+    },
+    {
+      "text": "Ein Widerstreit ist ein Konfliktfall zwischen (wenigstens) zwei Parteien, der nicht angemessen entschieden werden kann, da eine auf beide Argumentationen anwendbare Urteilsregel fehlt.",
+      "quelle": "Der Widerstreit",
+      "kontext": "Die zentrale Definition des Widerstreits als eines unlösbaren Konflikts zwischen inkommensurablen Diskursarten."
+    },
+    {
+      "text": "Das Wissen wird zur Ware, und es wird produziert, um verkauft zu werden.",
+      "quelle": "Das postmoderne Wissen",
+      "kontext": "Die Diagnose der Kommodifizierung des Wissens in der postindustriellen Gesellschaft."
+    }
+  ],
+  "verwandtePhilosophen": ["jacques-derrida", "gilles-deleuze", "michel-foucault", "juergen-habermas"],
+  "verwandteIsmen": ["postmoderne", "poststrukturalismus", "dekonstruktion"]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "anaximenes",
+  "name": "Anaximenes",
+  "lebensdaten": "585–528 v. Chr.",
+  "geboren": {
+    "jahr": -585,
+    "ort": "Milet",
+    "land": "Griechenland (Ionien)",
+    "lat": 37.53,
+    "lng": 27.28
+  },
+  "gestorben": {
+    "jahr": -528,
+    "ort": "Milet",
+    "land": "Griechenland (Ionien)",
+    "lat": 37.53,
+    "lng": 27.28
+  },
+  "epoche": "Antike",
+  "region": "Ionien (Kleinasien)",
+  "hauptstroemungen": ["Vorsokratik", "Naturphilosophie", "Milesische Schule"],
+  "kurzbeschreibung": "Anaximenes war der dritte und letzte bedeutende Vertreter der Milesischen Schule. Er bestimmte die Luft als Urprinzip aller Dinge und erklärte die Vielfalt der Erscheinungen durch Verdichtung und Verdünnung dieses Grundstoffs.",
+  "biografie": {
+    "fruehesLeben": "Anaximenes wurde um 585 v. Chr. in Milet geboren und war ein Schüler Anaximanders. Er wuchs in der intellektuell blühenden ionischen Handelsstadt auf, in der die Tradition der Naturphilosophie bereits durch Thales und Anaximander begründet worden war. Über seine persönlichen Lebensumstände, seine Familie und seine Jugend ist so gut wie nichts bekannt. Theophrastos, der Schüler des Aristoteles, bezeichnet ihn als 'Gefährten' (hetairos) Anaximanders.",
+    "schaffen": "Anaximenes' zentrale philosophische These war, dass die Luft (aer) der Urgrund aller Dinge sei. Im Gegensatz zu Anaximanders abstraktem Apeiron kehrte er damit zu einem konkreten, beobachtbaren Element zurück, erklärte aber im Unterschied zu Thales einen nachvollziehbaren Mechanismus der Verwandlung: Durch Verdichtung (pyknosis) wird Luft zu Wind, dann zu Wolken, dann zu Wasser und schließlich zu Erde und Stein. Durch Verdünnung (manosis) wird Luft zu Feuer. Damit bot Anaximenes erstmals ein einheitliches quantitatives Erklärungsmodell für qualitative Veränderungen – ein Gedanke, der seiner Zeit weit voraus war und die gesamte spätere Naturphilosophie beeinflusste. Die Luft ist für Anaximenes zugleich das belebende Prinzip: 'Wie unsere Seele, die Luft ist, uns zusammenhält, so umfasst Atem und Luft den ganzen Kosmos.' Die Erde ist flach wie ein Blatt und wird von der Luft getragen, ebenso Sonne, Mond und Sterne. Die Gestirne bewegen sich nicht unter der Erde hindurch, sondern um sie herum, wie ein Filzhut um den Kopf. Er schrieb in einem klaren, einfachen ionischen Prosa-Stil, der von späteren Autoren gelobt wurde.",
+    "spaetesLeben": "Über Anaximenes' späte Jahre ist nichts Gesichertes bekannt. Er lebte in einer Zeit zunehmender persischer Bedrohung Ioniens. Es wird angenommen, dass er seine philosophische Tätigkeit bis ins hohe Alter fortsetzte und die Tradition der Milesischen Schule weiterführte.",
+    "tod": "Anaximenes starb um 528 v. Chr. in Milet. Die genauen Umstände seines Todes sind nicht überliefert. Mit seinem Tod endete die große Epoche der Milesischen Schule, obwohl sein Einfluss auf die nachfolgende Philosophie beträchtlich war.",
+    "nachwirkung": "Anaximenes' Einfluss war weit größer, als seine relative Unbekanntheit heute vermuten lässt. Sein Mechanismus der Verdichtung und Verdünnung bot ein Erklärungsmodell, das viele spätere Denker übernahmen. Die Idee, dass qualitative Unterschiede auf quantitative Veränderungen eines einheitlichen Grundstoffs zurückzuführen sind, wurde zu einem Grundprinzip der Naturwissenschaft. Diogenes von Apollonia griff seine Lufttheorie im 5. Jahrhundert auf, und Spuren seines Denkens finden sich bei den Stoikern und in der Pneuma-Lehre. Sein Ansatz, die Vielfalt der Natur durch einen einzigen Mechanismus zu erklären, nimmt das Grundanliegen der modernen Physik vorweg."
+  },
+  "kernideen": [
+    {
+      "titel": "Luft als Urprinzip",
+      "beschreibung": "Die Luft (aer) ist der Urgrund aller Dinge. Sie ist unendlich, ewig bewegt und allumfassend. Wie die Seele den Körper belebt, so durchdringt die Luft den gesamten Kosmos und hält ihn zusammen."
+    },
+    {
+      "titel": "Verdichtung und Verdünnung",
+      "beschreibung": "Alle Dinge entstehen durch Verdichtung (pyknosis) und Verdünnung (manosis) der Luft. Verdünnte Luft wird zu Feuer, verdichtete Luft zu Wind, Wolken, Wasser, Erde und Stein. Dies ist der erste Versuch, qualitative Veränderungen durch einen quantitativen Mechanismus zu erklären."
+    },
+    {
+      "titel": "Kosmische Seele",
+      "beschreibung": "Die Luft ist zugleich Seele und Lebensprinzip. Sie beseelt den Kosmos ebenso wie den Menschen und stellt eine Verbindung zwischen Mikrokosmos (Mensch) und Makrokosmos (Welt) her."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Über die Natur (Peri Physeos)",
+      "jahr": "ca. 545 v. Chr.",
+      "beschreibung": "Anaximenes' Hauptwerk, in einfacher ionischer Prosa verfasst. Nur wenige Fragmente sind erhalten. Das Werk behandelte die Luft als Urprinzip und den Mechanismus der Verdichtung und Verdünnung."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wie unsere Seele, die Luft ist, uns zusammenhält, so umfasst Atem und Luft den ganzen Kosmos.",
+      "quelle": "Fragment DK 13 B 2",
+      "kontext": "Anaximenes' zentrale These über die Luft als belebendes Prinzip des Kosmos, die eine Analogie zwischen Mensch und Welt herstellt."
+    },
+    {
+      "text": "Luft ist der Urgrund aller Dinge; aus ihr entstehen sie und in sie lösen sie sich wieder auf.",
+      "quelle": "Überliefert bei Simplikios",
+      "kontext": "Zusammenfassung der Grundthese des Anaximenes über den Ursprung aller Dinge."
+    },
+    {
+      "text": "Durch Verdünnung wird die Luft zu Feuer, durch Verdichtung zu Wind, dann zu Wolken, weiter zu Wasser, dann zu Erde und zu Steinen.",
+      "quelle": "Überliefert bei Simplikios und Theophrastos",
+      "kontext": "Beschreibung des Mechanismus, durch den alle Dinge aus der Luft entstehen."
+    }
+  ],
+  "verwandtePhilosophen": ["thales", "anaximander", "heraklit", "empedokles", "anaxagoras"],
+  "verwandteIsmen": ["naturalismus", "materialismus", "monismus"]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "plotin",
+  "name": "Plotin",
+  "lebensdaten": "204–270 n. Chr.",
+  "geboren": {
+    "jahr": 204,
+    "ort": "Lykopolis",
+    "land": "Ägypten (Römisches Reich)",
+    "lat": 27.18,
+    "lng": 31.18
+  },
+  "gestorben": {
+    "jahr": 270,
+    "ort": "Kampanien",
+    "land": "Italien (Römisches Reich)",
+    "lat": 40.85,
+    "lng": 14.25
+  },
+  "epoche": "Antike",
+  "region": "Ägypten / Rom",
+  "hauptstroemungen": ["Neuplatonismus", "Mystik", "Metaphysik"],
+  "kurzbeschreibung": "Plotin war der Begründer des Neuplatonismus und einer der einflussreichsten Philosophen der Spätantike. Seine Lehre von der Emanation des Seienden aus dem Einen verband platonische Philosophie mit mystischer Erfahrung und prägte die christliche, jüdische und islamische Theologie.",
+  "biografie": {
+    "fruehesLeben": "Plotin wurde 204 n. Chr. in Lykopolis (dem heutigen Asyut) in Oberägypten geboren. Über seine Herkunft und Jugend ist wenig bekannt – er lehnte es ab, über seine Familie, seinen Geburtsort oder sein Äußeres zu sprechen. Sein Schüler Porphyrios berichtet, Plotin habe sich geschämt, in einem Körper zu leben. Mit 27 Jahren erwachte sein Interesse an der Philosophie, und er studierte in Alexandria bei verschiedenen Lehrern, die ihn enttäuschten. Erst als ein Freund ihn zu Ammonios Sakkas brachte, einem mysteriösen Philosophen, der keine Schriften hinterließ, rief er aus: 'Das ist der Mann, den ich gesucht habe!' Er blieb elf Jahre bei Ammonios.",
+    "schaffen": "Um 243 n. Chr. schloss sich Plotin dem Feldzug Kaiser Gordians III. gegen die Perser an, um die Philosophie des Ostens kennenzulernen. Der Feldzug scheiterte, und Plotin konnte sich nur mit Mühe nach Antiochia retten. 244 n. Chr. kam er nach Rom, wo er eine Philosophenschule gründete und über 25 Jahre lehrte. Er gewann schnell einflussreiche Anhänger, darunter Senatoren und sogar Kaiser Gallienus, der ihm die Gründung einer 'Platonopolis' – einer nach platonischen Prinzipien organisierten Stadt in Kampanien – gestattet haben soll. Das Projekt wurde nie verwirklicht. Plotins Philosophie kreist um die Lehre von den drei Hypostasen: An der Spitze steht das Eine (to hen), das absolut transzendente, unaussprechliche Urprinzip, das jenseits von Sein und Denken liegt. Aus dem Einen geht – nicht durch einen willentlichen Akt, sondern durch notwendige Überflutung (Emanation) – der Geist (nous) hervor, der die platonischen Ideen in sich enthält. Aus dem Geist emaniert die Weltseele (psyche), die den materiellen Kosmos beseelt und ordnet. Die Materie ist der letzte, schwächste Ausfluss des Einen – gleichsam die Dunkelheit, in die das Licht des Einen nicht mehr reicht. Das Böse ist kein eigenständiges Prinzip, sondern bloßer Mangel an Sein und Gutem. Der Mensch kann durch philosophische Kontemplation und asketische Reinigung zur mystischen Vereinigung mit dem Einen aufsteigen – eine Erfahrung, die Plotin selbst viermal erlebt haben soll.",
+    "spaetesLeben": "In seinen letzten Jahren litt Plotin an einer schweren Krankheit – möglicherweise Lepra oder einer Form von Tuberkulose. Er zog sich auf das Landgut eines Freundes in Kampanien zurück und setzte seine philosophische Arbeit fort. Er begann erst mit 49 Jahren zu schreiben und diktierte seine Texte, da seine Augen zu schwach waren.",
+    "tod": "Plotin starb 270 n. Chr. auf dem Landgut seines Freundes Zethos in Kampanien. Seine letzten Worte lauteten angeblich: 'Versuche, das Göttliche in dir zum Göttlichen im All emporzuheben.' Sein Arzt Eustochios, der sich verspätet hatte, berichtet, eine Schlange sei unter dem Bett hervorgekrochen, als Plotin starb.",
+    "nachwirkung": "Plotins Neuplatonismus wurde zur dominierenden Philosophie der Spätantike. Sein Schüler Porphyrios gab seine Schriften als 'Enneaden' (Neunergruppen) heraus. Der Neuplatonismus beeinflusste die christliche Theologie zutiefst – Augustinus bekehrte sich unter dem Einfluss der 'platonischen Bücher' (Plotins Enneaden) zum Christentum. Die gesamte christliche Mystik, von Pseudo-Dionysius Areopagita über Meister Eckhart bis zur spanischen Mystik, ist neuplatonisch geprägt. Auch die jüdische Kabbala und die islamische Philosophie (Avicenna) übernahmen wesentliche Elemente. In der Neuzeit beeinflusste Plotin Hegel, Schelling und die gesamte idealistische Tradition."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Eine (to hen)",
+      "beschreibung": "Das absolute Urprinzip, das jenseits von Sein, Denken und Sprache liegt. Es ist unaussprechlich und kann nur negativ bestimmt werden. Aus seiner überquellenden Fülle geht alles Seiende hervor."
+    },
+    {
+      "titel": "Emanation (Ausfluss)",
+      "beschreibung": "Alles Seiende geht stufenweise aus dem Einen hervor – nicht durch einen willentlichen Schöpfungsakt, sondern durch notwendigen Überfluss, wie das Licht aus der Sonne strömt. Die Stufen sind: das Eine, der Geist (nous), die Weltseele (psyche) und die Materie."
+    },
+    {
+      "titel": "Rückkehr zum Einen (epistrophe)",
+      "beschreibung": "Die Seele kann durch philosophische Kontemplation und asketische Reinigung den Weg zurück zum Einen antreten. Die mystische Vereinigung (henosis) mit dem Einen ist das höchste Ziel menschlichen Strebens."
+    },
+    {
+      "titel": "Das Böse als Privation",
+      "beschreibung": "Das Böse ist kein eigenständiges Prinzip, sondern bloßer Mangel an Gutem und Sein. Die Materie, als äußerste Entfernung vom Einen, ist der Ursprung des Bösen – nicht als aktive Kraft, sondern als Abwesenheit des Lichts."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Enneaden",
+      "jahr": "254–270 n. Chr.",
+      "beschreibung": "Plotins gesammelte Schriften, von seinem Schüler Porphyrios in sechs Gruppen zu je neun Abhandlungen (daher 'Enneaden') geordnet. Sie behandeln Ethik, Physik, Kosmologie, Seelenlehre, Geist (nous) und das Eine. Vollständig erhalten."
+    },
+    {
+      "titel": "Enneade I: Ethische Schriften",
+      "jahr": "254–270 n. Chr.",
+      "beschreibung": "Neun Abhandlungen über ethische Themen: Über das Schöne, Über die Tugenden, Über die Dialektik, Über das Glück und andere."
+    },
+    {
+      "titel": "Enneade V: Über den Geist, die Ideen und das Seiende",
+      "jahr": "254–270 n. Chr.",
+      "beschreibung": "Die metaphysischen Kernschriften, die die drei Hypostasen (Eines, Geist, Seele) und ihre Beziehungen zueinander behandeln."
+    },
+    {
+      "titel": "Enneade VI: Über das Eine und das Seiende",
+      "jahr": "254–270 n. Chr.",
+      "beschreibung": "Die tiefsten metaphysischen Untersuchungen über das Eine, das Gute und die mystische Vereinigung. Enthält Plotins reifste philosophische Gedanken."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Versuche, das Göttliche in dir zum Göttlichen im All emporzuheben.",
+      "quelle": "Überliefert bei Porphyrios, Vita Plotini",
+      "kontext": "Plotins angeblich letzte Worte auf dem Sterbebett."
+    },
+    {
+      "text": "Die Seele ist nicht im Körper, sondern der Körper ist in der Seele.",
+      "quelle": "Enneaden IV, 3",
+      "kontext": "Plotins Umkehrung der üblichen Auffassung des Verhältnisses von Seele und Körper."
+    },
+    {
+      "text": "Der Flug des Einsamen zum Einsamen.",
+      "quelle": "Enneaden VI, 9, 11",
+      "kontext": "Beschreibung der mystischen Vereinigung der einzelnen Seele mit dem Einen."
+    },
+    {
+      "text": "Nimm alles weg!",
+      "quelle": "Enneaden V, 3, 17",
+      "kontext": "Die via negativa: Das Eine kann nur durch die Negation aller Bestimmungen erkannt werden."
+    }
+  ],
+  "verwandtePhilosophen": ["platon", "aristoteles", "augustinus", "meister-eckhart", "parmenides"],
+  "verwandteIsmen": ["neuplatonismus", "idealismus", "mystizismus", "monismus"]
+}

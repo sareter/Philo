@@ -1,0 +1,104 @@
+{
+  "slug": "jacques-derrida",
+  "name": "Jacques Derrida",
+  "lebensdaten": "1930–2004",
+  "geboren": {
+    "jahr": 1930,
+    "ort": "El-Biar",
+    "land": "Französisch-Algerien",
+    "lat": 36.7681,
+    "lng": 3.0303
+  },
+  "gestorben": {
+    "jahr": 2004,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Dekonstruktion", "Poststrukturalismus"],
+  "kurzbeschreibung": "Jacques Derrida war der Begründer der Dekonstruktion und einer der einflussreichsten und umstrittensten Philosophen des 20. Jahrhunderts. Seine Analyse der 'Logozentrismus' genannten metaphysischen Tradition des Abendlandes revolutionierte die Philosophie, Literaturwissenschaft und Kulturtheorie. Mit seinen Begriffen der 'différance', der Schrift und der Spur dekonstruierte er die fundamentalen Oppositionen der westlichen Metaphysik.",
+  "biografie": {
+    "fruehesLeben": "Jacques Derrida wurde am 15. Juli 1930 als Jackie Derrida in El-Biar bei Algier in eine sephardisch-jüdische Familie geboren. Die antisemitische Gesetzgebung des Vichy-Regimes traf ihn 1942, als er vom Gymnasium ausgeschlossen wurde. Diese Erfahrung des Ausschlusses prägte sein späteres Denken über Differenz und Zugehörigkeit. Er ging 1949 nach Frankreich und studierte an der École Normale Supérieure in Paris, wo er sich intensiv mit Husserl, Heidegger und der Phänomenologie beschäftigte. Die Agrégation in Philosophie bestand er 1956.",
+    "schaffen": "1967 veröffentlichte Derrida drei Bücher, die die Dekonstruktion begründeten: 'De la grammatologie' (Grammatologie), 'L'écriture et la différence' (Die Schrift und die Differenz) und 'La voix et le phénomène' (Die Stimme und das Phänomen). In diesen Werken zeigte er, wie die westliche Metaphysik seit Platon die Sprache (das Gesprochene, die Stimme, die Präsenz) über die Schrift privilegiert – ein 'Logozentrismus', den er dekonstruierte. Sein Schlüsselbegriff 'différance' (ein Neologismus, der 'Unterschied' und 'Aufschub' verbindet) bezeichnet die endlose Bewegung der Bedeutungsverschiebung, die jede stabile Bedeutung unterminiert. Ab den 1970er Jahren erweiterte Derrida sein Denken auf Ethik, Politik, Recht und Religion. 'Gesetzeskraft' (1994) analysierte das Verhältnis von Recht und Gerechtigkeit, 'Spektren von Marx' (1993) dekonstruierte den Marxismus und den Kapitalismus, und 'Von der Gastfreundschaft' (1997) untersuchte die ethischen und politischen Dimensionen der Gastfreundschaft. Er lehrte an der ENS, der EHESS, der Johns Hopkins University und der University of California, Irvine.",
+    "spaetesLeben": "Derrida wurde zu einem der meistdiskutierten Intellektuellen weltweit, bewundert und angefeindet gleichermaßen. 1992 löste die Verleihung der Ehrendoktorwürde der Cambridge University einen offenen Protest analytischer Philosophen aus. In seinen späten Schriften wandte er sich zunehmend ethischen und politischen Fragen zu: Gastfreundschaft, Vergebung, Todessstrafe, Souveränität und das Tier. Sein Spätwerk zeigt eine messianische Dimension – eine 'Messianizität ohne Messianismus', die Hoffnung auf eine 'kommende Demokratie'.",
+    "tod": "Jacques Derrida starb am 9. Oktober 2004 in Paris an Bauchspeicheldrüsenkrebs. Er war 74 Jahre alt. Sein Tod wurde weltweit als Verlust eines der bedeutendsten Denker des 20. Jahrhunderts betrauert.",
+    "nachwirkung": "Derridas Dekonstruktion hat die Literaturwissenschaft, die Philosophie, die Rechtstheorie, die Theologie, die Architektur und die Kulturwissenschaften tiefgreifend verändert. Er beeinflusste die Yale School of Criticism (de Man, Hartman, Miller), die Gender Studies (Butler), die postkoloniale Theorie (Spivak) und die politische Philosophie. Obwohl die Dekonstruktion in der analytischen Philosophie oft abgelehnt wird, hat sie die kontinentale Tradition grundlegend transformiert."
+  },
+  "kernideen": [
+    {
+      "titel": "Dekonstruktion",
+      "beschreibung": "Die Dekonstruktion ist keine Methode, sondern ein Lektüreverfahren, das die hierarchischen Oppositionen der Metaphysik (Sprache/Schrift, Natur/Kultur, Präsenz/Abwesenheit) offenlegt und ihre scheinbare Natürlichkeit als Konstruktion erweist. Sie zeigt, wie jeder Text sich selbst untergräbt."
+    },
+    {
+      "titel": "Différance",
+      "beschreibung": "Die 'différance' (mit 'a') ist ein Neologismus, der 'Unterschied' und 'Aufschub' verbindet. Bedeutung entsteht nie durch reine Präsenz, sondern immer durch ein Spiel von Differenzen und Aufschüben. Es gibt kein transzendentales Signifikat außerhalb des Verweisungszusammenhangs der Zeichen."
+    },
+    {
+      "titel": "Es gibt kein Außerhalb des Textes",
+      "beschreibung": "Der oft missverstandene Satz 'Il n'y a pas de hors-texte' bedeutet nicht, dass es keine Realität gibt, sondern dass alles, was wir erfahren und erkennen, bereits durch Sprache, Schrift und Zeichensysteme vermittelt ist. Es gibt keinen unmittelbaren Zugang zur Wirklichkeit jenseits der Textualität."
+    },
+    {
+      "titel": "Logozentrismus und Phonozentrismus",
+      "beschreibung": "Die westliche Metaphysik privilegiert das gesprochene Wort (Stimme) über die Schrift und die Präsenz über die Abwesenheit. Diese logozentristische Tradition beruht auf der Illusion einer unmittelbaren Selbstpräsenz des Sinns in der Stimme."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Grammatologie (De la grammatologie)",
+      "jahr": "1967",
+      "beschreibung": "Das Gründungswerk der Dekonstruktion kritisiert den Logozentrismus der westlichen Metaphysik und rehabilitiert die Schrift als ursprünglicher als die Stimme."
+    },
+    {
+      "titel": "Die Schrift und die Differenz (L'écriture et la différence)",
+      "jahr": "1967",
+      "beschreibung": "Eine Sammlung von Essays, die die Dekonstruktion auf verschiedene philosophische und literarische Texte anwenden – von Husserl über Lévi-Strauss bis Bataille."
+    },
+    {
+      "titel": "Die Stimme und das Phänomen (La voix et le phénomène)",
+      "jahr": "1967",
+      "beschreibung": "Eine Dekonstruktion von Husserls Zeichentheorie, die zeigt, wie die phänomenologische Präsenzmetaphysik sich selbst untergräbt."
+    },
+    {
+      "titel": "Randgänge der Philosophie (Marges de la philosophie)",
+      "jahr": "1972",
+      "beschreibung": "Eine Sammlung von Essays, die den berühmten Aufsatz 'La différance' enthält und die Dekonstruktion der philosophischen Tradition fortführt."
+    },
+    {
+      "titel": "Gesetzeskraft (Force de loi)",
+      "jahr": "1994",
+      "beschreibung": "Eine Reflexion über das Verhältnis von Recht und Gerechtigkeit, die argumentiert, dass Gerechtigkeit nicht dekonstruierbar ist, während das Recht immer dekonstruktibel bleibt."
+    },
+    {
+      "titel": "Spektren von Marx (Spectres de Marx)",
+      "jahr": "1993",
+      "beschreibung": "Eine dekonstruktive Lektüre von Marx nach dem Ende des Kommunismus, die die 'Gespenster' des Marxismus als unabgegoltene Versprechen der Gerechtigkeit aktualisiert."
+    },
+    {
+      "titel": "Das Tier, das ich also bin (L'Animal que donc je suis)",
+      "jahr": "2006",
+      "beschreibung": "Posthum veröffentlichte Vorlesungen, in denen Derrida die philosophische Tradition der Tiervergessenheit kritisiert und eine neue Ethik des Verhältnisses zum Tier entwirft."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Es gibt nichts außerhalb des Textes.",
+      "quelle": "Grammatologie",
+      "kontext": "Der berühmte und oft missverstandene Satz über die Unentrinnbarkeit der Textualität."
+    },
+    {
+      "text": "Die Dekonstruktion ist die Gerechtigkeit.",
+      "quelle": "Gesetzeskraft",
+      "kontext": "Derridas Identifikation der Dekonstruktion mit einer Gerechtigkeit, die über das bestehende Recht hinausgeht."
+    },
+    {
+      "text": "Jedes Mal, wenn ich sage 'Demokratie', sage ich damit zugleich etwas, das über die Demokratie hinausgeht – eine kommende Demokratie.",
+      "quelle": "Schurken",
+      "kontext": "Derridas Konzept der 'démocratie à venir' – einer noch ausstehenden, wahren Demokratie."
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "edmund-husserl", "michel-foucault", "gilles-deleuze", "jean-francois-lyotard", "friedrich-nietzsche"],
+  "verwandteIsmen": ["dekonstruktion", "poststrukturalismus", "postmoderne"]
+}

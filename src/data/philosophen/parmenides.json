@@ -1,0 +1,79 @@
+{
+  "slug": "parmenides",
+  "name": "Parmenides",
+  "lebensdaten": "515–450 v. Chr.",
+  "geboren": {
+    "jahr": -515,
+    "ort": "Elea",
+    "land": "Griechenland (Magna Graecia)",
+    "lat": 40.16,
+    "lng": 15.16
+  },
+  "gestorben": {
+    "jahr": -450,
+    "ort": "Elea",
+    "land": "Griechenland (Magna Graecia)",
+    "lat": 40.16,
+    "lng": 15.16
+  },
+  "epoche": "Antike",
+  "region": "Magna Graecia (Unteritalien)",
+  "hauptstroemungen": ["Vorsokratik", "Eleatische Schule", "Ontologie"],
+  "kurzbeschreibung": "Parmenides von Elea begründete die Ontologie als Lehre vom Sein und stellte mit seiner These, dass Veränderung unmöglich sei, die gesamte griechische Philosophie vor eine fundamentale Herausforderung. Sein Lehrgedicht ist das erste systematische metaphysische Werk der westlichen Tradition.",
+  "biografie": {
+    "fruehesLeben": "Parmenides wurde um 515 v. Chr. in Elea (dem heutigen Velia in Süditalien) geboren, einer griechischen Kolonie an der tyrrhenischen Küste Lukaniens. Er stammte aus einer wohlhabenden und angesehenen Familie. Diogenes Laertios berichtet, er sei ein Schüler des Xenophanes gewesen, habe aber auch Kontakt zu dem Pythagoreer Ameinias gehabt, der ihn zur Philosophie bekehrte. Als angesehener Bürger von Elea soll er seiner Stadt Gesetze gegeben haben, die so vortrefflich waren, dass die Beamten jedes Jahr schwören mussten, sich an die Gesetze des Parmenides zu halten.",
+    "schaffen": "Parmenides verfasste sein philosophisches Hauptwerk in Form eines Lehrgedichts in Hexametern, von dem bedeutende Fragmente erhalten sind. Das Gedicht beginnt mit einem allegorischen Proömium: Der junge Parmenides fährt auf einem Wagen, gezogen von Stuten und begleitet von den Töchtern der Sonne, zum Tor von Tag und Nacht, wo ihn die Göttin Dike (Gerechtigkeit) empfängt und ihm den 'Weg der Wahrheit' und den 'Weg der Meinung' offenbart. Der Weg der Wahrheit enthält das revolutionäre Argument: Das Seiende ist, und das Nichtseiende ist nicht. Es ist unmöglich, das Nichtseiende zu denken oder auszusprechen. Daraus folgt mit strenger Logik, dass Entstehen und Vergehen, Veränderung und Vielheit bloßer Schein sind. Das wahre Sein ist ewig, unveränderlich, unteilbar, vollkommen und kugelförmig. Bewegung und Wandel, die wir zu beobachten glauben, gehören zum trügerischen 'Weg der Meinung'. Diese These war eine direkte Herausforderung an Heraklits Philosophie des Werdens und zwang alle nachfolgenden Philosophen, sich mit dem Problem des Wandels auseinanderzusetzen. Empedokles, Anaxagoras und die Atomisten Leukipp und Demokrit entwickelten ihre pluralistischen Theorien als Antwort auf Parmenides' Argumente. Parmenides' Methode war ebenso revolutionär wie seine These: Er war der erste Philosoph, der streng deduktiv argumentierte und aus wenigen Grundsätzen weitreichende Schlüsse zog.",
+    "spaetesLeben": "In seinem späteren Leben genoss Parmenides hohes Ansehen als Gesetzgeber und Philosoph. Platon berichtet im Dialog 'Parmenides', dass der alte Parmenides zusammen mit seinem Schüler Zenon um 450 v. Chr. nach Athen reiste und dort den jungen Sokrates traf. Ob diese Begegnung historisch ist, ist umstritten, doch zeigt sie den Respekt, den Platon dem eleatischen Denker entgegenbrachte.",
+    "tod": "Parmenides starb um 450 v. Chr. in Elea. Über die genauen Umstände seines Todes ist nichts bekannt. Er wurde etwa 65 Jahre alt und hinterließ mit der Eleatischen Schule eine der einflussreichsten philosophischen Traditionen der Antike.",
+    "nachwirkung": "Parmenides' Einfluss auf die Philosophiegeschichte ist kaum zu überschätzen. Seine Forderung nach logischer Stringenz und seine Unterscheidung zwischen Wahrheit und Meinung prägten das gesamte philosophische Denken. Platon übernahm wesentliche Elemente seiner Seinslehre und nannte Parmenides in einem gleichnamigen Dialog 'ehrwürdig und zugleich furchtbar'. Aristoteles rang zeitlebens mit den eleatischen Argumenten. In der modernen analytischen Philosophie gilt Parmenides als Begründer der Ontologie und als erster Vertreter eines rein rationalistischen Denkens. Heidegger sah in Parmenides' Seinsfrage den Ursprung der gesamten abendländischen Metaphysik."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Sein ist, das Nichtsein ist nicht",
+      "beschreibung": "Der fundamentale Grundsatz der eleatischen Philosophie: Es gibt nur Sein, kein Nichtsein. Das Nichtseiende kann weder gedacht noch ausgesprochen werden. Daraus folgt, dass Entstehen und Vergehen unmöglich sind."
+    },
+    {
+      "titel": "Unveränderlichkeit des Seins",
+      "beschreibung": "Das wahre Sein ist ewig, unveränderlich, unteilbar, vollkommen und in sich abgeschlossen wie eine wohlgerundete Kugel. Bewegung, Veränderung und Vielheit sind bloßer Schein."
+    },
+    {
+      "titel": "Weg der Wahrheit vs. Weg der Meinung",
+      "beschreibung": "Parmenides unterscheidet streng zwischen dem Weg der Wahrheit (aletheia), der durch reines Denken zum unveränderlichen Sein führt, und dem Weg der Meinung (doxa), der auf trügerischer Sinneswahrnehmung beruht."
+    },
+    {
+      "titel": "Identität von Denken und Sein",
+      "beschreibung": "Denken und Sein sind dasselbe: 'Denn dasselbe ist Denken und Sein.' Nur was ist, kann gedacht werden, und was gedacht wird, muss sein."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Über die Natur (Peri Physeos)",
+      "jahr": "ca. 480 v. Chr.",
+      "beschreibung": "Lehrgedicht in Hexametern, von dem etwa 160 Verse erhalten sind. Es besteht aus einem allegorischen Proömium, dem 'Weg der Wahrheit' (Ontologie) und dem 'Weg der Meinung' (Kosmologie). Das erste systematische metaphysische Werk der westlichen Philosophie."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Denn dasselbe ist Denken und Sein.",
+      "quelle": "Fragment DK 28 B 3",
+      "kontext": "Der berühmteste Satz des Parmenides über die Identität von Denken und Sein."
+    },
+    {
+      "text": "Das Seiende ist, das Nichtseiende ist nicht. Du wirst es nicht bewerkstelligen, dass Nichtseiendes ist.",
+      "quelle": "Fragment DK 28 B 2 und B 7",
+      "kontext": "Der Grundsatz der eleatischen Ontologie."
+    },
+    {
+      "text": "Es ist notwendig zu sagen und zu denken, dass das Seiende ist; denn Sein ist, Nichts dagegen ist nicht.",
+      "quelle": "Fragment DK 28 B 6",
+      "kontext": "Parmenides' fundamentales Argument für die Unmöglichkeit des Nichtseins."
+    },
+    {
+      "text": "Denn niemals wird dies bezwungen, dass Nichtseiendes ist.",
+      "quelle": "Fragment DK 28 B 7",
+      "kontext": "Die Göttin warnt Parmenides davor, den falschen Weg des Nichtseins einzuschlagen."
+    }
+  ],
+  "verwandtePhilosophen": ["zenon-von-elea", "heraklit", "empedokles", "anaxagoras", "demokrit", "platon"],
+  "verwandteIsmen": ["eleatismus", "rationalismus", "monismus", "idealismus"]
+}

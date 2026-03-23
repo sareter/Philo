@@ -1,0 +1,54 @@
+{
+  "slug": "erasmus-von-rotterdam",
+  "name": "Erasmus von Rotterdam",
+  "lebensdaten": "1466–1536",
+  "geboren": { "jahr": 1466, "ort": "Rotterdam", "land": "Niederlande", "lat": 51.9225, "lng": 4.4792 },
+  "gestorben": { "jahr": 1536, "ort": "Basel", "land": "Schweiz", "lat": 47.5596, "lng": 7.5886 },
+  "epoche": "Renaissance",
+  "region": "Niederlande / Europa",
+  "hauptstroemungen": ["Humanismus", "Christlicher Humanismus", "Erasmianismus"],
+  "kurzbeschreibung": "Erasmus von Rotterdam war der bedeutendste Humanist der nördlichen Renaissance und ein einflussreicher Gelehrter, Theologe und Schriftsteller. Sein satirisches Werk 'Lob der Torheit' und seine kritische Ausgabe des griechischen Neuen Testaments revolutionierten das europäische Geistesleben. Er setzte sich zeitlebens für Bildung, Toleranz und einen friedlichen, vernunftgeleiteten Glauben ein.",
+  "biografie": {
+    "fruehesLeben": "Erasmus wurde vermutlich am 28. Oktober 1466 (nach anderen Quellen 1469) in Rotterdam als unehelicher Sohn des Priesters Roger Gerard und der Arzttochter Margaretha geboren. Nach dem frühen Tod beider Eltern durch die Pest wurde er von Vormündern erzogen, die ihn in die Klosterschule der Brüder vom gemeinsamen Leben in Deventer schickten, wo er eine hervorragende humanistische Grundbildung erhielt. Unter dem Druck seiner Vormünder trat er 1487 in das Augustiner-Chorherrenstift Steyn bei Gouda ein, wo er die Priesterweihe empfing. Das Klosterleben behagte ihm jedoch nicht; er nutzte jede Gelegenheit, seine Studien fortzusetzen und Kontakte zu Gelehrten zu knüpfen. 1495 erhielt er die Erlaubnis, die Universität Paris zu besuchen, wo er an der Sorbonne Theologie studierte und sich mit der scholastischen Methode auseinandersetzte, die er zunehmend als unfruchtbar empfand.",
+    "schaffen": "Erasmus' intellektuelles Schaffen war von enormer Produktivität und Vielseitigkeit geprägt. Seine Reisen durch ganz Europa – nach England, Italien, die Niederlande, Deutschland und die Schweiz – brachten ihn mit den führenden Gelehrten seiner Zeit zusammen, darunter Thomas Morus, John Colet und Johannes Reuchlin. 1500 veröffentlichte er die 'Adagia', eine Sammlung antiker Sprichwörter mit gelehrten Kommentaren, die ihn europaweit bekannt machte. 1509 verfasste er während eines Aufenthalts bei Thomas Morus in England das 'Encomium Moriae' (Lob der Torheit), eine brillante Satire auf die Missstände in Kirche und Gesellschaft. Sein philologisches Hauptwerk war die kritische Edition des griechischen Neuen Testaments (Novum Instrumentum, 1516), die erstmals den griechischen Urtext in gedruckter Form zugänglich machte und eine neue lateinische Übersetzung bot. Dieses Werk legte den Grundstein für die protestantische Bibelübersetzung Luthers. Erasmus verfasste darüber hinaus pädagogische Schriften, theologische Abhandlungen und eine umfangreiche Korrespondenz mit den bedeutendsten Persönlichkeiten seiner Zeit.",
+    "spaetesLeben": "Mit dem Ausbruch der Reformation geriet Erasmus in eine zunehmend schwierige Lage. Obwohl er viele Missstände der Kirche kritisiert hatte, wollte er die Einheit der Christenheit nicht zerstören und lehnte Luthers radikalen Bruch mit Rom ab. 1524 veröffentlichte er 'De libero arbitrio' (Über den freien Willen), eine Streitschrift gegen Luthers Prädestinationslehre. Luther antwortete mit 'De servo arbitrio' (Vom unfreien Willen), und die beiden Gelehrten wurden zu erbitterten Gegnern. Erasmus sah sich von beiden Seiten angegriffen: Die Protestanten warfen ihm Feigheit vor, die Katholiken verdächtigten ihn, heimlich mit Luther zu sympathisieren. Er ließ sich 1521 in Basel nieder, wo er mit dem Drucker Johannes Froben zusammenarbeitete, floh aber 1529 vor der Reformation nach Freiburg im Breisgau.",
+    "tod": "1535 kehrte Erasmus nach Basel zurück, obwohl die Stadt inzwischen protestantisch geworden war. Sein Gesundheitszustand verschlechterte sich zunehmend – er litt an Gicht, Nierensteinen und anderen Gebrechen. Am 12. Juli 1536 starb er im Haus des befreundeten Druckers Hieronymus Froben in Basel. Seine letzten überlieferten Worte waren 'Lieve God' (Lieber Gott) auf Niederländisch. Er wurde im Basler Münster beigesetzt, obwohl er zeitlebens Katholik geblieben war. Sein Testament verfügte die Gründung einer Stiftung zur Unterstützung alter und kranker Menschen sowie zur Förderung junger Studenten.",
+    "nachwirkung": "Erasmus' Einfluss auf die europäische Geistesgeschichte ist immens. Er legte den Grundstein für die moderne Textkritik und Philologie, förderte die humanistische Bildung und setzte Maßstäbe für religiöse Toleranz und vernunftgeleiteten Glauben. Sein Ideal des gelehrten, weltoffenen Christen prägte das europäische Bildungsbürgertum für Jahrhunderte. Das Erasmus-Programm der Europäischen Union, das den akademischen Austausch fördert, ist nach ihm benannt und verkörpert seinen kosmopolitischen Geist. Die kritische Gesamtausgabe seiner Werke (Opera Omnia) wird bis heute fortgeführt."
+  },
+  "kernideen": [
+    {
+      "titel": "Christlicher Humanismus",
+      "beschreibung": "Erasmus verband die Wiederentdeckung der antiken Klassiker mit dem Studium der christlichen Quellen. Er strebte eine 'Philosophia Christi' an, die den Geist des Evangeliums mit humanistischer Bildung vereinte und auf innerliche Frömmigkeit statt äußerliche Riten setzte."
+    },
+    {
+      "titel": "Bildung und Erziehung",
+      "beschreibung": "Erasmus war überzeugt, dass Bildung der Schlüssel zur Verbesserung von Individuum und Gesellschaft ist. Er verfasste einflussreiche pädagogische Schriften und setzte sich für eine humanistische Erziehung ein, die Vernunft, Eloquenz und moralisches Urteil schult."
+    },
+    {
+      "titel": "Toleranz und Frieden",
+      "beschreibung": "In einer Zeit religiöser Konflikte plädierte Erasmus unermüdlich für Toleranz, Dialog und friedliche Beilegung von Streitigkeiten. Er lehnte Krieg und Gewalt als unvereinbar mit dem christlichen Geist ab und setzte auf Überzeugung durch Argumente."
+    },
+    {
+      "titel": "Textkritik und Ad-fontes-Prinzip",
+      "beschreibung": "Erasmus förderte die Rückkehr zu den Originalquellen (ad fontes) in Theologie und Wissenschaft. Seine kritische Edition des griechischen Neuen Testaments zeigte, dass die Vulgata-Übersetzung Fehler enthielt, und revolutionierte die biblische Wissenschaft."
+    }
+  ],
+  "werke": [
+    { "titel": "Lob der Torheit (Encomium Moriae)", "jahr": "1511", "beschreibung": "Eine satirische Lobrede der personifizierten Torheit auf sich selbst, die die Missstände in Kirche, Gesellschaft und Gelehrtenwelt mit feiner Ironie bloßstellt und zu einem der meistgelesenen Bücher der Renaissance wurde." },
+    { "titel": "Adagia", "jahr": "1500", "beschreibung": "Eine stetig erweiterte Sammlung antiker Sprichwörter und Redewendungen mit gelehrten Kommentaren, die Erasmus europaweit bekannt machte und als Schatzkammer humanistischer Gelehrsamkeit gilt." },
+    { "titel": "Novum Instrumentum (Griechisches Neues Testament)", "jahr": "1516", "beschreibung": "Die erste gedruckte kritische Ausgabe des griechischen Neuen Testaments mit einer neuen lateinischen Übersetzung und umfangreichen Anmerkungen – ein Meilenstein der biblischen Philologie." },
+    { "titel": "Enchiridion militis Christiani (Handbuch des christlichen Streiters)", "jahr": "1503", "beschreibung": "Ein Leitfaden für christliche Frömmigkeit, der innerliche Spiritualität über äußerliche Riten stellt und die 'Philosophia Christi' als praktische Lebensführung entwickelt." },
+    { "titel": "De libero arbitrio (Über den freien Willen)", "jahr": "1524", "beschreibung": "Eine theologische Streitschrift gegen Luthers Lehre von der Unfreiheit des Willens, in der Erasmus die menschliche Willensfreiheit als vereinbar mit der göttlichen Gnade verteidigt." },
+    { "titel": "Colloquia familiaria (Vertraute Gespräche)", "jahr": "1518", "beschreibung": "Eine Sammlung literarischer Dialoge, ursprünglich als Lateinübungen konzipiert, die sich zu einer satirischen Darstellung des zeitgenössischen Lebens entwickelte." },
+    { "titel": "Institutio principis Christiani (Die Erziehung eines christlichen Fürsten)", "jahr": "1516", "beschreibung": "Ein Fürstenspiegel, der dem jungen Karl V. gewidmet ist und ein Gegenbild zu Machiavellis 'Fürst' entwirft: Der ideale Herrscher soll sich durch Weisheit, Gerechtigkeit und Friedensliebe auszeichnen." },
+    { "titel": "Querela Pacis (Die Klage des Friedens)", "jahr": "1517", "beschreibung": "Eine leidenschaftliche Friedensschrift, in der der personifizierte Frieden über seine Vertreibung aus der Welt klagt und Erasmus gegen den Wahnsinn des Krieges argumentiert." }
+  ],
+  "zitate": [
+    { "text": "Im Land der Blinden ist der Einäugige König.", "quelle": "Adagia", "kontext": "Eines der berühmtesten Sprichwörter aus Erasmus' Sammlung antiker Weisheiten, das die Relativität von Wissen und Fähigkeit illustriert." },
+    { "text": "Dulce bellum inexpertis – Süß ist der Krieg den Unerfahrenen.", "quelle": "Adagia", "kontext": "Erasmus' eindringliche Warnung vor der Romantisierung des Krieges, die nur von denen betrieben wird, die seine Schrecken nicht kennen." },
+    { "text": "Wenn ich Geld hätte, würde ich mir Bücher kaufen – und wenn dann noch etwas übrig bliebe, Essen und Kleidung.", "quelle": "Brief an Jacob Batt, 1498", "kontext": "Ein Ausdruck von Erasmus' lebenslanger Leidenschaft für Bücher und Gelehrsamkeit, die ihm stets wichtiger waren als materielle Annehmlichkeiten." },
+    { "text": "Die größte Torheit ist es, weise Ratschläge zu geben und selbst törichte Fehler zu begehen.", "quelle": "Lob der Torheit", "kontext": "Eine der vielen ironischen Beobachtungen der personifizierten Torheit über die Widersprüchlichkeit menschlichen Verhaltens." }
+  ],
+  "verwandtePhilosophen": ["thomas-morus", "michel-de-montaigne", "martin-luther", "francis-bacon"],
+  "verwandteIsmen": ["humanismus", "pazifismus", "christlicher-humanismus"]
+}

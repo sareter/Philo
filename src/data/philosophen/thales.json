@@ -1,0 +1,75 @@
+{
+  "slug": "thales",
+  "name": "Thales von Milet",
+  "lebensdaten": "624–546 v. Chr.",
+  "geboren": {
+    "jahr": -624,
+    "ort": "Milet",
+    "land": "Griechenland (Ionien)",
+    "lat": 37.53,
+    "lng": 27.28
+  },
+  "gestorben": {
+    "jahr": -546,
+    "ort": "Milet",
+    "land": "Griechenland (Ionien)",
+    "lat": 37.53,
+    "lng": 27.28
+  },
+  "epoche": "Antike",
+  "region": "Ionien (Kleinasien)",
+  "hauptstroemungen": ["Vorsokratik", "Naturphilosophie", "Milesische Schule"],
+  "kurzbeschreibung": "Thales von Milet gilt als der erste Philosoph der westlichen Tradition und Begründer der Milesischen Schule. Er suchte als erster nach einer natürlichen Erklärung der Welt und identifizierte das Wasser als Urgrund aller Dinge.",
+  "biografie": {
+    "fruehesLeben": "Thales wurde um 624 v. Chr. in Milet geboren, der bedeutendsten griechischen Handelsstadt an der ionischen Küste Kleinasiens. Über seine Herkunft gibt es verschiedene Berichte: Nach Herodot stammte er aus einer phönizischen Familie, während Diogenes Laertios berichtet, er sei aus einer vornehmen böotischen Familie. Milet war zu jener Zeit ein blühendes Handelszentrum mit Verbindungen nach Ägypten, Babylon und dem gesamten östlichen Mittelmeerraum. Thales soll ausgedehnte Reisen unternommen haben, insbesondere nach Ägypten, wo er sich mit der Geometrie und Astronomie der ägyptischen Priester vertraut machte. Der Überlieferung nach soll er die Höhe der Pyramiden durch Messung ihres Schattens bestimmt haben, als der Schatten eines Mannes gleich seiner Körpergröße war.",
+    "schaffen": "Thales vollzog den entscheidenden Schritt vom mythischen zum rationalen Denken, indem er als erster versuchte, die Welt aus natürlichen Prinzipien zu erklären, statt auf göttliches Wirken zu verweisen. Seine zentrale These lautete: Das Wasser ist der Urgrund (arche) aller Dinge. Alles entsteht aus dem Wasser und kehrt zum Wasser zurück. Möglicherweise wurde er zu dieser Ansicht durch die Beobachtung inspiriert, dass Wasser in allen drei Aggregatzuständen vorkommt und für alles Leben unverzichtbar ist. Daneben vertrat Thales die Auffassung, dass die Erde auf dem Wasser schwimme. In der Astronomie erlangte er Berühmtheit durch die Vorhersage der Sonnenfinsternis vom 28. Mai 585 v. Chr., die den Krieg zwischen Lydern und Medern beendete. Ob er diese Vorhersage tatsächlich auf eigener Berechnung oder auf babylonischem Wissen basierte, ist umstritten. In der Geometrie werden ihm mehrere Lehrsätze zugeschrieben, darunter der Satz des Thales (jeder Winkel im Halbkreis ist ein rechter Winkel). Aristoteles berichtet, Thales habe auch gelehrt, dass 'alles voll von Göttern' sei, was als eine Form des Hylozoismus gedeutet wird – die Auffassung, dass die gesamte Materie in gewisser Weise belebt ist.",
+    "spaetesLeben": "Thales wurde nicht nur als Denker, sondern auch als praktischer Ratgeber geschätzt. Er gehörte zu den 'Sieben Weisen' des antiken Griechenland. Aristoteles überliefert eine berühmte Anekdote: Als man Thales wegen seiner Armut verspottete und die Nutzlosigkeit der Philosophie beklagte, sagte er aufgrund seiner astronomischen Kenntnisse eine reiche Olivenernte voraus, pachtete rechtzeitig alle Ölpressen und erzielte so großen Gewinn – um zu beweisen, dass Philosophen durchaus reich werden könnten, wenn sie wollten, dies aber nicht ihr Ziel sei. Politisch riet er den ionischen Städten vergeblich, sich zu einem Bundesstaat zusammenzuschließen, um der persischen Bedrohung zu widerstehen.",
+    "tod": "Thales starb um 546 v. Chr. in Milet, angeblich im hohen Alter von 78 Jahren. Nach einer Anekdote des Diogenes Laertios soll er bei der Beobachtung eines Sportfestes vor Hitze, Durst und Altersschwäche gestorben sein. Eine andere Überlieferung besagt, er sei gestorben, als er beim Betrachten der Sterne in einen Brunnen fiel – eine Geschichte, die zum Symbol für den weltfremden Philosophen wurde.",
+    "nachwirkung": "Thales' Bedeutung liegt weniger in seinen konkreten Thesen als in der revolutionären Methode, die er begründete: die rationale Erforschung der Natur ohne Rückgriff auf mythische Erklärungen. Damit gilt er als Begründer sowohl der Philosophie als auch der Naturwissenschaft im westlichen Sinne. Seine beiden Schüler Anaximander und Anaximenes setzten sein Programm fort und bildeten zusammen mit ihm die Milesische Schule, die erste philosophische Schule der Geschichte. Aristoteles nennt ihn den Begründer der Naturphilosophie, und seine Frage nach dem Urgrund (arche) bestimmte die gesamte vorsokratische Philosophie."
+  },
+  "kernideen": [
+    {
+      "titel": "Wasser als Urgrund (Arche)",
+      "beschreibung": "Das Wasser ist der Ursprung und die Grundsubstanz aller Dinge. Alles entsteht aus dem Wasser und kehrt zum Wasser zurück. Die Erde selbst schwimmt auf dem Wasser."
+    },
+    {
+      "titel": "Rationale Naturerklärung",
+      "beschreibung": "Thales vollzog als erster den Übergang vom Mythos zum Logos – er erklärte Naturphänomene nicht durch das Wirken der Götter, sondern durch natürliche Ursachen und Prinzipien."
+    },
+    {
+      "titel": "Hylozoismus",
+      "beschreibung": "Die gesamte Materie ist in gewisser Weise belebt und beseelt. 'Alles ist voll von Göttern' – selbst der Magnetstein hat eine Seele, da er Eisen bewegen kann."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Keine erhaltenen Schriften",
+      "jahr": "–",
+      "beschreibung": "Von Thales sind keine Schriften erhalten. Es ist umstritten, ob er überhaupt schriftliche Werke verfasst hat. Sein Denken ist nur durch spätere Berichte überliefert, insbesondere durch Aristoteles und Diogenes Laertios. Ihm werden manchmal die Schriften 'Nautische Astronomie' und 'Über die Sonnenwende und die Tagundnachtgleiche' zugeschrieben."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Wasser ist der Ursprung aller Dinge.",
+      "quelle": "Überliefert bei Aristoteles, Metaphysik 983b",
+      "kontext": "Thales' zentrale These über den Urgrund der Natur."
+    },
+    {
+      "text": "Alles ist voll von Göttern.",
+      "quelle": "Überliefert bei Aristoteles, De Anima 411a",
+      "kontext": "Ausdruck der Auffassung, dass die gesamte Natur belebt und beseelt ist."
+    },
+    {
+      "text": "Erkenne dich selbst.",
+      "quelle": "Zugeschrieben als einer der Sieben Weisen",
+      "kontext": "Dieser Spruch, der auch am Tempel von Delphi stand, wird verschiedenen der Sieben Weisen zugeschrieben, darunter Thales."
+    },
+    {
+      "text": "Am schwierigsten ist es, sich selbst zu erkennen, am leichtesten, anderen Ratschläge zu geben.",
+      "quelle": "Diogenes Laertios, I, 36",
+      "kontext": "Eine der praktischen Lebensweisheiten, die Thales als einem der Sieben Weisen zugeschrieben werden."
+    }
+  ],
+  "verwandtePhilosophen": ["anaximander", "anaximenes", "pythagoras", "heraklit", "parmenides"],
+  "verwandteIsmen": ["naturalismus", "materialismus", "hylozoismus", "monismus"]
+}

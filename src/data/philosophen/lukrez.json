@@ -1,0 +1,79 @@
+{
+  "slug": "lukrez",
+  "name": "Lukrez",
+  "lebensdaten": "99–55 v. Chr.",
+  "geboren": {
+    "jahr": -99,
+    "ort": "Rom (vermutlich)",
+    "land": "Römische Republik",
+    "lat": 41.90,
+    "lng": 12.50
+  },
+  "gestorben": {
+    "jahr": -55,
+    "ort": "Rom (vermutlich)",
+    "land": "Römische Republik",
+    "lat": 41.90,
+    "lng": 12.50
+  },
+  "epoche": "Antike",
+  "region": "Römische Republik",
+  "hauptstroemungen": ["Epikureismus", "Atomismus", "Materialismus", "Naturphilosophie"],
+  "kurzbeschreibung": "Titus Lucretius Carus war ein römischer Dichter und Philosoph, der Epikurs Atomismus in seinem gewaltigen Lehrgedicht 'De rerum natura' verbreitete. Sein Werk ist die vollständigste Darstellung der epikureischen Naturphilosophie und ein Meisterwerk der lateinischen Dichtung.",
+  "biografie": {
+    "fruehesLeben": "Über Lukrez' Leben ist fast nichts Gesichertes bekannt. Er wurde vermutlich um 99 v. Chr. geboren, möglicherweise in Rom oder Kampanien. Sein vollständiger Name Titus Lucretius Carus deutet auf eine vornehme Familie hin. Hieronymus berichtet in seiner Chronik, Lukrez sei durch einen Liebestrank wahnsinnig geworden, habe sein Werk in lichten Augenblicken geschrieben und sich schließlich das Leben genommen – eine Geschichte, die von den meisten modernen Forschern als christliche Verleumdung eines materialistischen Philosophen angesehen wird.",
+    "schaffen": "Lukrez' einziges bekanntes Werk ist das Lehrgedicht 'De rerum natura' (Über die Natur der Dinge) in sechs Büchern und etwa 7400 Hexametern, gewidmet dem römischen Aristokraten Gaius Memmius. Es ist die vollständigste erhaltene Darstellung der epikureischen Philosophie und verbindet philosophische Tiefe mit poetischer Brillanz. Buch I und II behandeln die Atomlehre: Alles besteht aus ewigen, unteilbaren Atomen und leerem Raum. Nichts entsteht aus dem Nichts, und nichts vergeht ins Nichts. Die Clinamen-Lehre – die spontane minimale Abweichung der Atome – ermöglicht die Freiheit des Willens. Buch III behandelt die Seele als sterbliche Verbindung von Atomen und enthält Lukrez' berühmte Argumente gegen die Todesfurcht. Buch IV behandelt die Sinneswahrnehmung und die Erkenntnistheorie. Buch V enthält eine großartige Geschichte der Erde, des Lebens und der menschlichen Zivilisation – von der Entstehung der Welt bis zur Entwicklung von Sprache, Recht und Religion. Buch VI behandelt atmosphärische und geologische Phänomene und endet mit der erschütternden Beschreibung der Pest von Athen. Lukrez' erklärtes Ziel ist es, die Menschen von der Todesfurcht und der Angst vor den Göttern zu befreien. Die Götter existieren zwar, kümmern sich aber nicht um die Menschen. Die Religion sei eine Quelle des Unglücks und der Grausamkeit.",
+    "spaetesLeben": "Über Lukrez' spätes Leben gibt es keine gesicherten Informationen. Das Werk scheint bei seinem Tod nicht ganz fertig gewesen zu sein – es fehlt an manchen Stellen die letzte Überarbeitung.",
+    "tod": "Lukrez starb vermutlich um 55 v. Chr. Cicero berichtet in einem Brief an seinen Bruder Quintus, Lukrez' Gedicht zeige 'viel Geist, aber auch viel Kunst'. Ob er sich tatsächlich das Leben nahm, wie Hieronymus behauptet, ist höchst zweifelhaft. Sein Werk wurde angeblich von Cicero posthum herausgegeben.",
+    "nachwirkung": "De rerum natura geriet im Mittelalter weitgehend in Vergessenheit, wurde aber 1417 vom Humanisten Poggio Bracciolini in einem deutschen Kloster wiederentdeckt – ein Ereignis, das Stephen Greenblatt in 'The Swerve' als Wendepunkt der Geistesgeschichte beschrieb. Das Werk beeinflusste die Renaissance-Philosophie, Galilei, Gassendi, Newton und die gesamte Aufklärung. Lukrez' atomistische Welterklärung wurde zur Grundlage der modernen Naturwissenschaft."
+  },
+  "kernideen": [
+    {
+      "titel": "Atomismus als Befreiung",
+      "beschreibung": "Die atomistische Naturerklärung befreit den Menschen von abergläubischer Furcht. Alles in der Natur hat natürliche Ursachen – es gibt keine göttliche Intervention, kein Schicksal und keine Strafe nach dem Tod."
+    },
+    {
+      "titel": "Sterblichkeit der Seele",
+      "beschreibung": "Die Seele ist eine sterbliche Verbindung feiner Atome. Mit dem Tod löst sie sich auf. Daher gibt es kein Leben nach dem Tod und keine Strafe in der Unterwelt – und folglich keinen Grund, den Tod zu fürchten."
+    },
+    {
+      "titel": "Religionskritik",
+      "beschreibung": "Die Religion ist eine Quelle des Unglücks und der Grausamkeit. Sie beruht auf Unwissenheit und Angst. Die Aufklärung durch die Naturphilosophie befreit den Menschen von diesem Joch."
+    },
+    {
+      "titel": "Naturgeschichte der Zivilisation",
+      "beschreibung": "Die menschliche Zivilisation hat sich schrittweise aus primitiven Anfängen entwickelt – durch Erfahrung, Not und Erfindungsgeist, nicht durch göttliche Eingebung."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "De rerum natura (Über die Natur der Dinge)",
+      "jahr": "ca. 60–55 v. Chr.",
+      "beschreibung": "Lehrgedicht in sechs Büchern und ca. 7400 Hexametern. Vollständige Darstellung der epikureischen Naturphilosophie: Atomlehre, Seelenlehre, Sinneswahrnehmung, Kosmologie, Kulturgeschichte und Naturphänomene. Eines der größten Werke der lateinischen Literatur."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "So viel Unheil vermochte die Religion einzuflößen.",
+      "quelle": "De rerum natura, I, 101 (Tantum religio potuit suadere malorum)",
+      "kontext": "Lukrez' berühmtester Vers – über die Opferung der Iphigenie als Beispiel religiöser Grausamkeit."
+    },
+    {
+      "text": "Nichts wird je durch göttliche Macht aus dem Nichts erzeugt.",
+      "quelle": "De rerum natura, I, 150",
+      "kontext": "Das fundamentale Prinzip der atomistischen Physik."
+    },
+    {
+      "text": "Der Tod geht uns nichts an: Denn was aufgelöst ist, hat keine Empfindung; was aber keine Empfindung hat, geht uns nichts an.",
+      "quelle": "De rerum natura, III, 830 ff.",
+      "kontext": "Lukrez' Version des epikureischen Arguments gegen die Todesfurcht."
+    },
+    {
+      "text": "Es ist süß, vom festen Land aus die große Mühe eines anderen auf dem Meer zu betrachten.",
+      "quelle": "De rerum natura, II, 1 (Suave mari magno)",
+      "kontext": "Berühmter Vergleich: Der Epikureer betrachtet gelassen die Stürme des Lebens von der sicheren Warte der Philosophie aus."
+    }
+  ],
+  "verwandtePhilosophen": ["epikur", "demokrit", "cicero", "seneca"],
+  "verwandteIsmen": ["epikureismus", "atomismus", "materialismus", "naturalismus"]
+}

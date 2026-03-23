@@ -1,0 +1,93 @@
+{
+  "slug": "slavoj-zizek",
+  "name": "Slavoj Žižek",
+  "lebensdaten": "1949–",
+  "geboren": {
+    "jahr": 1949,
+    "ort": "Ljubljana",
+    "land": "Jugoslawien",
+    "lat": 46.0569,
+    "lng": 14.5058
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": ""
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Lacanianische Psychoanalyse", "Marxismus", "Hegelianismus", "Kulturkritik"],
+  "kurzbeschreibung": "Slavoj Žižek ist ein slowenischer Philosoph und Kulturkritiker, der als einer der provokantesten und populärsten Intellektuellen der Gegenwart gilt. Durch seine einzigartige Verbindung von Hegelscher Dialektik, Lacanscher Psychoanalyse und marxistischer Ideologiekritik analysiert er Phänomene der Populärkultur, Politik und Gesellschaft auf überraschende und kontroverse Weise.",
+  "biografie": {
+    "fruehesLeben": "Slavoj Žižek wurde am 21. März 1949 in Ljubljana, der Hauptstadt der Sozialistischen Republik Slowenien innerhalb Jugoslawiens, geboren. Seine Eltern waren aus der Untersteiermark zugezogen und gehörten der atheistischen Mittelschicht an. Er studierte Philosophie und Soziologie an der Universität Ljubljana, wo er 1981 promovierte. Eine geplante akademische Karriere wurde zunächst durch die kommunistischen Behörden blockiert, die ihn als ideologisch unzuverlässig einstuften. Er studierte Psychoanalyse in Paris bei Jacques-Alain Miller, dem Schwiegersohn und Nachlassverwalter Jacques Lacans.",
+    "schaffen": "Žižeks internationaler Durchbruch kam mit 'The Sublime Object of Ideology' (1989), das Lacans Psychoanalyse auf die marxistische Ideologiekritik anwandte. Er argumentierte, dass Ideologie nicht als 'falsches Bewusstsein' verstanden werden sollte, sondern als eine Struktur, die das Genießen (jouissance) organisiert. Seitdem hat er über 50 Bücher veröffentlicht, in denen er mit verblüffender Produktivität und provokanter Brillanz Philosophie, Psychoanalyse, Filmkritik und politische Analyse verbindet. 'The Ticklish Subject' (1999) verteidigte das cartesische Subjekt gegen seine postmodernen Kritiker. 'The Parallax View' (2006) entwickelte eine ontologische Theorie des Parallaxen-Blicks. 'Less Than Nothing' (2012), sein umfangsreichstes Werk, ist eine monumentale Neuinterpretation Hegels im Licht der Lacanschen Psychoanalyse. Žižek ist bekannt für seinen Gebrauch von Beispielen aus Film, Witzen und Populärkultur, um komplexe philosophische Punkte zu illustrieren.",
+    "spaetesLeben": "Žižek ist Direktor des Birkbeck Institute for the Humanities in London und Forscher am Institut für Soziologie und Philosophie an der Universität Ljubljana. Er ist ein gefragter Vortragsreisender und Medienstar, der regelmäßig in Zeitungen, im Fernsehen und in sozialen Medien präsent ist. Seine chaotische Vortragsstile, seine Witze und seine provokanten Thesen haben ihm eine große internationale Anhängerschaft eingebracht. Er kandidierte 1990 bei den ersten freien Wahlen in Slowenien für die Präsidentschaft.",
+    "tod": "Slavoj Žižek lebt und arbeitet weiterhin in Ljubljana und London.",
+    "nachwirkung": "Žižek hat die Lacansche Psychoanalyse und die Hegelsche Philosophie für eine neue Generation zugänglich und relevant gemacht. Seine Ideologiekritik und seine Kulturanalysen haben die Cultural Studies, die Filmwissenschaft und die politische Theorie beeinflusst. Er ist der bekannteste lebende Vertreter einer marxistischen Philosophie und hat gezeigt, dass anspruchsvolles philosophisches Denken ein breites Publikum erreichen kann."
+  },
+  "kernideen": [
+    {
+      "titel": "Ideologie und Genießen",
+      "beschreibung": "Ideologie funktioniert nicht primär auf der Ebene des Wissens ('falsches Bewusstsein'), sondern auf der Ebene des Tuns und Genießens. Wir handeln ideologisch, auch wenn wir es besser wissen – die ideologische Illusion liegt nicht im Wissen, sondern in der Praxis selbst."
+    },
+    {
+      "titel": "Das erhabene Objekt der Ideologie",
+      "beschreibung": "Jede Ideologie braucht ein 'erhabenes Objekt' – einen leeren Signifikanten (Nation, Freiheit, Volk), der verschiedene Bedeutungen zusammenhält und die gesellschaftlichen Antagonismen verdeckt."
+    },
+    {
+      "titel": "Der Parallaxen-Blick",
+      "beschreibung": "Die Parallaxe ist die Verschiebung eines Objekts, die durch eine Veränderung der Beobachterposition verursacht wird. Žižek nutzt dieses Konzept, um zu zeigen, dass scheinbare Widersprüche oft Effekte verschiedener Perspektiven auf dasselbe sind – der Widerspruch liegt im Gegenstand selbst."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Das erhabene Objekt der Ideologie (The Sublime Object of Ideology)",
+      "jahr": "1989",
+      "beschreibung": "Žižeks Durchbruchswerk verbindet Lacansche Psychoanalyse mit marxistischer Ideologiekritik und zeigt, wie Ideologie auf der Ebene des Genießens funktioniert."
+    },
+    {
+      "titel": "The Ticklish Subject",
+      "jahr": "1999",
+      "beschreibung": "Eine Verteidigung des cartesischen Subjekts gegen seine postmodernen, dekonstruktivistischen und habermasianischen Kritiker."
+    },
+    {
+      "titel": "The Parallax View",
+      "jahr": "2006",
+      "beschreibung": "Žižeks philosophischstes Werk entwickelt den Parallaxen-Blick als ontologisches Konzept und wendet es auf Politik, Wissenschaft und Ästhetik an."
+    },
+    {
+      "titel": "Weniger als Nichts (Less Than Nothing)",
+      "jahr": "2012",
+      "beschreibung": "Eine monumentale Neuinterpretation Hegels im Licht der Lacanschen Psychoanalyse, die Hegel als Denker des Mangels und der Negativität liest."
+    },
+    {
+      "titel": "Die Pest der Phantasmen",
+      "jahr": "1997",
+      "beschreibung": "Eine Sammlung von Essays, die Ideologiekritik auf Phänomene der Populärkultur, Cyberspace und multikulturelle Politik anwenden."
+    },
+    {
+      "titel": "Auf verlorenem Posten",
+      "jahr": "2008",
+      "beschreibung": "Eine politische Analyse der Gegenwart, die für eine Erneuerung des kommunistischen Projekts argumentiert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wir wissen, was wir tun, aber wir tun es trotzdem.",
+      "quelle": "Das erhabene Objekt der Ideologie (nach Peter Sloterdijk)",
+      "kontext": "Die zynische Formel der modernen Ideologie – wir handeln ideologisch, obwohl wir die Ideologie durchschauen."
+    },
+    {
+      "text": "Es ist leichter, sich das Ende der Welt vorzustellen als das Ende des Kapitalismus.",
+      "quelle": "Zugeschrieben / Living in the End Times",
+      "kontext": "Die oft zitierte Diagnose der ideologischen Vormacht des Kapitalismus in der Gegenwartskultur."
+    },
+    {
+      "text": "Die wahre Aufgabe besteht nicht darin, die Welt zu interpretieren, sondern sie zu interpretieren – auf die richtige Weise.",
+      "quelle": "The Parallax View",
+      "kontext": "Žižeks Variation von Marx' elfter Feuerbach-These – die richtige Interpretation ist bereits eine Form des Handelns."
+    }
+  ],
+  "verwandtePhilosophen": ["theodor-w-adorno", "gilles-deleuze", "jacques-derrida", "juergen-habermas"],
+  "verwandteIsmen": ["marxismus", "psychoanalyse", "hegelianismus", "ideologiekritik"]
+}

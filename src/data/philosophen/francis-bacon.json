@@ -1,0 +1,52 @@
+{
+  "slug": "francis-bacon",
+  "name": "Francis Bacon",
+  "lebensdaten": "1561–1626",
+  "geboren": { "jahr": 1561, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "gestorben": { "jahr": 1626, "ort": "Highgate, London", "land": "England", "lat": 51.5714, "lng": -0.1462 },
+  "epoche": "Renaissance",
+  "region": "England",
+  "hauptstroemungen": ["Empirismus", "Wissenschaftstheorie", "Induktive Methode"],
+  "kurzbeschreibung": "Francis Bacon war ein englischer Philosoph, Staatsmann und Wissenschaftstheoretiker, der als Vater des modernen Empirismus gilt. Mit seinem Programm einer 'Großen Erneuerung' der Wissenschaften und seiner induktiven Methode legte er die theoretischen Grundlagen für die moderne Naturwissenschaft. Sein berühmter Ausspruch 'Wissen ist Macht' wurde zum Leitmotiv der wissenschaftlichen Revolution.",
+  "biografie": {
+    "fruehesLeben": "Francis Bacon wurde am 22. Januar 1561 in London als Sohn von Sir Nicholas Bacon, dem Lordsiegelbewahrer unter Königin Elisabeth I., und seiner zweiten Frau Anne Cooke geboren, die eine hochgebildete Frau und Übersetzerin war. Im Alter von zwölf Jahren trat er in das Trinity College in Cambridge ein, wo er drei Jahre lang studierte, sich aber von der scholastischen Methode abwandte, die er als unfruchtbar empfand. Anschließend studierte er Rechtswissenschaften am Gray's Inn in London und verbrachte einige Jahre in diplomatischen Diensten in Frankreich. Der plötzliche Tod seines Vaters 1579 hinterließ ihn in schwieriger finanzieller Lage, da er als jüngster Sohn nur ein bescheidenes Erbe erhielt. Er verfolgte daraufhin sowohl eine juristische als auch eine politische Karriere.",
+    "schaffen": "Bacons intellektuelles Lebenswerk war das Projekt einer umfassenden Reform der Wissenschaften, das er 'Instauratio Magna' (Große Erneuerung) nannte. In seinem Hauptwerk 'Novum Organum' (1620) entwickelte er die induktive Methode als Alternative zur aristotelischen Deduktion: Statt von allgemeinen Prinzipien auszugehen, sollte die Wissenschaft systematisch Einzelbeobachtungen sammeln und daraus schrittweise allgemeine Gesetze ableiten. Er identifizierte vier Arten von Irrtümern (Idole), die das menschliche Denken verzerren: die Idola tribus (Idole des Stammes – Vorurteile der menschlichen Natur), die Idola specus (Idole der Höhle – individuelle Vorurteile), die Idola fori (Idole des Marktes – durch Sprache verursachte Irrtümer) und die Idola theatri (Idole des Theaters – durch philosophische Systeme verursachte Irrtümer). In 'The Advancement of Learning' (1605) entwarf er eine systematische Klassifikation des Wissens, und in der utopischen Erzählung 'Neu-Atlantis' (1627) beschrieb er eine Gesellschaft, die auf wissenschaftlicher Forschung gegründet ist. Seine 'Essays' (1597, erweitert 1612 und 1625) sind Meisterwerke der englischen Prosa und behandeln Themen wie Wahrheit, Tod, Rache, Freundschaft und Studien.",
+    "spaetesLeben": "Politisch stieg Bacon unter König Jakob I. bis zum Lordkanzler auf (1618), dem höchsten Justizamt des Landes. Doch sein Sturz kam abrupt: 1621 wurde er der Bestechlichkeit angeklagt, bekannte sich schuldig und wurde zu einer hohen Geldstrafe, dem Verlust aller Ämter und einer kurzzeitigen Inhaftierung im Tower verurteilt. Der König begnadigte ihn zwar rasch, doch seine politische Karriere war beendet. Die letzten fünf Jahre seines Lebens widmete er sich ganz der Wissenschaft und dem Schreiben, wobei er fieberhaft an der Verwirklichung seiner 'Instauratio Magna' arbeitete.",
+    "tod": "Francis Bacon starb am 9. April 1626 in Highgate bei London. Der Legende nach erkältete er sich tödlich bei einem Experiment: Er hatte ein Huhn mit Schnee ausgestopft, um die konservierende Wirkung von Kälte zu erforschen, und zog sich dabei eine Lungenentzündung zu. Ob diese Geschichte wahr ist, wird von Historikern bezweifelt, doch sie passt zum Bild eines Mannes, der sich der empirischen Forschung mit ganzem Einsatz widmete. Er wurde in der St.-Michael-Kirche in St Albans beigesetzt.",
+    "nachwirkung": "Bacons Einfluss auf die Entwicklung der modernen Wissenschaft und Philosophie ist fundamental. Seine Forderung nach systematischer empirischer Forschung und seine Kritik an den 'Idolen' des Denkens bereiteten den Boden für die wissenschaftliche Revolution des 17. Jahrhunderts. Die Royal Society, 1660 gegründet, berief sich ausdrücklich auf sein Programm. Die Enzyklopädisten des 18. Jahrhunderts – Diderot und d'Alembert – übernahmen seine Wissensklassifikation als Grundlage der 'Encyclopédie'. In der Wissenschaftstheorie gilt er als Wegbereiter des Falsifikationismus und der experimentellen Methode."
+  },
+  "kernideen": [
+    {
+      "titel": "Wissen ist Macht",
+      "beschreibung": "Bacons berühmtestes Diktum fasst seine Überzeugung zusammen, dass wissenschaftliches Wissen dem Menschen die Herrschaft über die Natur verleiht. Wissen ist kein Selbstzweck, sondern dient der praktischen Verbesserung der menschlichen Lebensbedingungen."
+    },
+    {
+      "titel": "Induktive Methode",
+      "beschreibung": "Bacon entwickelte eine systematische Methode der Induktion als Alternative zur aristotelischen Deduktion. Durch sorgfältige Sammlung und Vergleichung von Beobachtungen sollen schrittweise allgemeine Naturgesetze abgeleitet werden."
+    },
+    {
+      "titel": "Idolenlehre",
+      "beschreibung": "Bacon identifizierte vier Typen von Erkenntnishindernissen (Idole), die das menschliche Denken systematisch verzerren: die Idole des Stammes (menschliche Natur), der Höhle (individuelle Vorurteile), des Marktes (sprachliche Verwirrung) und des Theaters (philosophische Dogmen)."
+    },
+    {
+      "titel": "Große Erneuerung der Wissenschaften",
+      "beschreibung": "Bacons Lebensprojekt war die 'Instauratio Magna' – eine umfassende Reform der Wissenschaften, die alle bisherigen Irrtümer überwinden und ein neues, auf Erfahrung gegründetes Wissensgebäude errichten sollte."
+    }
+  ],
+  "werke": [
+    { "titel": "Novum Organum (Neues Organon)", "jahr": "1620", "beschreibung": "Bacons methodologisches Hauptwerk, das die induktive Methode als neues wissenschaftliches Instrument entwickelt und die vier Arten der Idole (Erkenntnishindernisse) beschreibt." },
+    { "titel": "The Advancement of Learning", "jahr": "1605", "beschreibung": "Eine systematische Bestandsaufnahme und Klassifikation des menschlichen Wissens, die die Defizite der bestehenden Wissenschaften aufzeigt und ein Programm zu ihrer Überwindung entwirft." },
+    { "titel": "Essays", "jahr": "1597/1625", "beschreibung": "Eine Sammlung von 58 kurzen Abhandlungen über Themen wie Wahrheit, Tod, Rache, Freundschaft und Studien – Meisterwerke der englischen Prosa, die praktische Lebensweisheit mit philosophischer Tiefe verbinden." },
+    { "titel": "Neu-Atlantis (New Atlantis)", "jahr": "1627", "beschreibung": "Eine unvollendete utopische Erzählung über die Insel Bensalem, deren Gesellschaft auf wissenschaftlicher Forschung und dem Streben nach Wissen gegründet ist. Das 'Haus Salomons' gilt als Vorbild für die spätere Royal Society." },
+    { "titel": "De dignitate et augmentis scientiarum", "jahr": "1623", "beschreibung": "Die erweiterte lateinische Fassung von 'The Advancement of Learning', die als erster Teil der 'Instauratio Magna' konzipiert war." },
+    { "titel": "Sylva Sylvarum", "jahr": "1627", "beschreibung": "Eine posthum veröffentlichte Sammlung von Naturbeobachtungen und Experimenten, die Bacons empirische Methode in der Praxis zeigt." }
+  ],
+  "zitate": [
+    { "text": "Wissen ist Macht.", "quelle": "Meditationes Sacrae (1597)", "kontext": "Bacons berühmtester Ausspruch, der seine Überzeugung vom praktischen Nutzen des Wissens ausdrückt und zum Leitspruch der wissenschaftlichen Moderne wurde." },
+    { "text": "Die Natur lässt sich nur beherrschen, indem man ihr gehorcht.", "quelle": "Novum Organum", "kontext": "Bacon betont, dass die Herrschaft über die Natur nur durch das Verständnis ihrer Gesetze möglich ist – nicht durch willkürliche Eingriffe." },
+    { "text": "Lesen macht einen vollständigen Menschen, Diskutieren einen schlagfertigen und Schreiben einen genauen.", "quelle": "Essays, 'Of Studies'", "kontext": "Eine der bekanntesten Passagen aus Bacons Essays über den Wert der Bildung und verschiedener intellektueller Tätigkeiten." },
+    { "text": "Wer mit Philosophieren anfangen will, muss zunächst an allem zweifeln.", "quelle": "De augmentis scientiarum", "kontext": "Bacon betont die Notwendigkeit des methodischen Zweifels als Ausgangspunkt wissenschaftlicher Erkenntnis." }
+  ],
+  "verwandtePhilosophen": ["john-locke", "thomas-hobbes", "rene-descartes", "david-hume", "denis-diderot"],
+  "verwandteIsmen": ["empirismus", "rationalismus", "szientismus"]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "gilles-deleuze",
+  "name": "Gilles Deleuze",
+  "lebensdaten": "1925–1995",
+  "geboren": {
+    "jahr": 1925,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "gestorben": {
+    "jahr": 1995,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Poststrukturalismus", "Differenzphilosophie", "Immanenzphilosophie"],
+  "kurzbeschreibung": "Gilles Deleuze war einer der originellsten und einflussreichsten Philosophen des 20. Jahrhunderts. Seine Philosophie der Differenz und der Immanenz, seine Zusammenarbeit mit Félix Guattari und seine Beiträge zur Filmphilosophie, Literaturtheorie und politischen Philosophie haben das zeitgenössische Denken grundlegend transformiert. Er dachte Philosophie als Schöpfung neuer Begriffe.",
+  "biografie": {
+    "fruehesLeben": "Gilles Deleuze wurde am 18. Januar 1925 in Paris geboren und wuchs in einer bürgerlichen Familie auf. Sein Bruder Georges war im Widerstand aktiv und wurde von den Nazis deportiert und ermordet. Deleuze studierte Philosophie an der Sorbonne, wo er von Jean Hyppolite und Ferdinand Alquié unterrichtet wurde. Er bestand 1948 die Agrégation in Philosophie und unterrichtete an verschiedenen Gymnasien und Universitäten.",
+    "schaffen": "Deleuzes frühes Werk bestand aus innovativen Monografien über einzelne Philosophen: Hume, Nietzsche, Kant, Bergson, Spinoza und Leibniz, die er jeweils auf überraschende Weise neu las. Sein philosophisches Hauptwerk 'Differenz und Wiederholung' (1968) und 'Logik des Sinns' (1969) entwickelten eine radikale Philosophie der Differenz, die gegen die platonische Tradition der Identität und Repräsentation gerichtet war. Die Zusammenarbeit mit dem Psychoanalytiker und politischen Aktivisten Félix Guattari ab 1969 führte zu den monumentalen Werken 'Anti-Ödipus' (1972) und 'Tausend Plateaus' (1980), die zusammen das Projekt 'Kapitalismus und Schizophrenie' bilden. Der 'Anti-Ödipus' kritisierte die Psychoanalyse und den Kapitalismus und führte das Konzept der 'Wunschmaschinen' ein. 'Tausend Plateaus' entwickelte eine radikal neue Ontologie mit Begriffen wie Rhizom, Deterritorialisierung, Fluchtlinie und Körper ohne Organe. Deleuze schrieb zudem bahnbrechende Werke zur Filmphilosophie – 'Das Bewegungs-Bild' (1983) und 'Das Zeit-Bild' (1985) – sowie zur Malerei ('Francis Bacon: Logik der Sensation', 1981) und zur Literatur ('Kafka: Für eine kleine Literatur', 1975, mit Guattari). 'Was ist Philosophie?' (1991, mit Guattari) definierte Philosophie als die Kunst, Begriffe zu schaffen.",
+    "spaetesLeben": "Deleuze lehrte von 1969 bis zu seiner Emeritierung 1987 an der Universität Paris VIII (Vincennes/Saint-Denis), einer experimentellen Universität, die nach 1968 gegründet wurde. Er war kein öffentlicher Intellektueller im Stil Sartres, sondern zog das Denken und Schreiben dem medialen Auftritt vor. In seinen letzten Lebensjahren litt er zunehmend unter einer schweren Lungenerkrankung, die ihm das Atmen und Schreiben erschwerte.",
+    "tod": "Am 4. November 1995 stürzte sich Gilles Deleuze aus dem Fenster seiner Wohnung in Paris. Er war 70 Jahre alt und konnte aufgrund seiner Lungenerkrankung nicht mehr arbeiten – für einen Denker, der das Denken als Lebensform verstand, ein unerträglicher Zustand.",
+    "nachwirkung": "Deleuzes Einfluss wächst stetig und erstreckt sich über Philosophie, Kunst, Film, Architektur, Politikwissenschaft, Biologie und Informatik. Seine Begriffe – Rhizom, Deterritorialisierung, Immanenzebene, Fluchtlinie – sind zu Grundbegriffen der zeitgenössischen Theorie geworden. Er beeinflusste die Actor-Network-Theory (Latour), die Assemblage-Theorie (DeLanda), die Affect-Theory, die Kunsttheorie und die Medientheorie. Zusammen mit Guattari gilt er als einer der wichtigsten Denker der Postmoderne und des Posthumanismus."
+  },
+  "kernideen": [
+    {
+      "titel": "Differenz und Wiederholung",
+      "beschreibung": "Gegen die platonische Tradition, die die Identität über die Differenz stellt, denkt Deleuze die Differenz an sich – eine Differenz, die nicht auf Identität zurückgeführt werden kann. Die Wiederholung ist nicht die Wiederkehr des Gleichen, sondern die Produktion des Neuen."
+    },
+    {
+      "titel": "Rhizom",
+      "beschreibung": "Das Rhizom ist ein Gegenmodell zum hierarchischen Baum. Es hat keine Wurzel und kein Zentrum, sondern besteht aus heterogenen Verbindungen, die sich in alle Richtungen ausbreiten. Jeder Punkt kann mit jedem anderen verbunden werden."
+    },
+    {
+      "titel": "Deterritorialisierung und Fluchtlinien",
+      "beschreibung": "Deterritorialisierung bezeichnet den Prozess, durch den Systeme (soziale, psychische, biologische) ihre feste Ordnung verlassen und sich in Bewegung setzen. Fluchtlinien sind die Linien, entlang derer Systeme sich transformieren und Neues entsteht."
+    },
+    {
+      "titel": "Immanenzebene",
+      "beschreibung": "Die Philosophie operiert auf einer 'Immanenzebene' – einem Feld reiner Immanenz ohne Transzendenz, auf dem Begriffe geschaffen werden. Es gibt keine höhere Instanz jenseits der Immanenz."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Differenz und Wiederholung",
+      "jahr": "1968",
+      "beschreibung": "Deleuzes philosophisches Hauptwerk entwickelt eine Ontologie der Differenz, die gegen die Metaphysik der Identität und Repräsentation gerichtet ist."
+    },
+    {
+      "titel": "Logik des Sinns",
+      "jahr": "1969",
+      "beschreibung": "Eine strukturalistische Analyse des Sinns als Oberflächenereignis, inspiriert von Lewis Carroll und den Stoikern."
+    },
+    {
+      "titel": "Anti-Ödipus (mit Félix Guattari)",
+      "jahr": "1972",
+      "beschreibung": "Der erste Band von 'Kapitalismus und Schizophrenie' kritisiert die Psychoanalyse und den Kapitalismus und führt das Konzept der Wunschmaschinen und der Schizoanalyse ein."
+    },
+    {
+      "titel": "Tausend Plateaus (mit Félix Guattari)",
+      "jahr": "1980",
+      "beschreibung": "Der zweite Band von 'Kapitalismus und Schizophrenie' entwickelt eine radikal neue Ontologie mit den Begriffen Rhizom, Deterritorialisierung und Körper ohne Organe."
+    },
+    {
+      "titel": "Das Bewegungs-Bild / Das Zeit-Bild",
+      "jahr": "1983/1985",
+      "beschreibung": "Eine zweibändige Filmphilosophie, die das Kino als eigenständige Form des Denkens begreift und eine Taxonomie der filmischen Bildtypen entwickelt."
+    },
+    {
+      "titel": "Was ist Philosophie? (mit Félix Guattari)",
+      "jahr": "1991",
+      "beschreibung": "Das Spätwerk definiert Philosophie als die Kunst, Begriffe zu schaffen, und unterscheidet sie von Wissenschaft (die Funktionen schafft) und Kunst (die Wahrnehmungsblöcke schafft)."
+    },
+    {
+      "titel": "Nietzsche und die Philosophie",
+      "jahr": "1962",
+      "beschreibung": "Eine bahnbrechende Nietzsche-Interpretation, die den Willen zur Macht als affirmative Kraft und die ewige Wiederkehr als selektives Prinzip versteht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Philosophie ist die Kunst, Begriffe zu bilden, zu erfinden, herzustellen.",
+      "quelle": "Was ist Philosophie?",
+      "kontext": "Deleuzes Definition der Philosophie als schöpferische Tätigkeit."
+    },
+    {
+      "text": "Ein Buch hat weder ein Objekt noch ein Subjekt, es besteht aus verschiedenartig geformten Materien.",
+      "quelle": "Tausend Plateaus, Einleitung: Rhizom",
+      "kontext": "Die rhizomatische Konzeption des Buches als offenes, nicht-hierarchisches System."
+    },
+    {
+      "text": "Fliehen heißt nicht der Welt entsagen, sondern die Welt fliehen lassen.",
+      "quelle": "Dialoge",
+      "kontext": "Die Fluchtlinie als kreative Transformation statt passiver Rückzug."
+    }
+  ],
+  "verwandtePhilosophen": ["friedrich-nietzsche", "michel-foucault", "jacques-derrida", "jean-francois-lyotard", "slavoj-zizek"],
+  "verwandteIsmen": ["poststrukturalismus", "differenzphilosophie", "immanenzphilosophie", "postmoderne"]
+}

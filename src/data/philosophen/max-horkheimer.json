@@ -1,0 +1,85 @@
+{
+  "slug": "max-horkheimer",
+  "name": "Max Horkheimer",
+  "lebensdaten": "1895–1973",
+  "geboren": {
+    "jahr": 1895,
+    "ort": "Stuttgart",
+    "land": "Deutschland",
+    "lat": 48.7758,
+    "lng": 9.1829
+  },
+  "gestorben": {
+    "jahr": 1973,
+    "ort": "Nürnberg",
+    "land": "Deutschland",
+    "lat": 49.4521,
+    "lng": 11.0767
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Kritische Theorie", "Frankfurter Schule", "Sozialphilosophie"],
+  "kurzbeschreibung": "Max Horkheimer war der Begründer und langjährige Direktor des Instituts für Sozialforschung und damit das organisatorische und intellektuelle Zentrum der Frankfurter Schule. Zusammen mit Adorno verfasste er die 'Dialektik der Aufklärung', eines der einflussreichsten philosophischen Werke des 20. Jahrhunderts. Seine Unterscheidung von traditioneller und kritischer Theorie definierte das Programm der gesamten Kritischen Theorie.",
+  "biografie": {
+    "fruehesLeben": "Max Horkheimer wurde am 14. Februar 1895 in Stuttgart-Zuffenhausen als Sohn des wohlhabenden jüdischen Textilfabrikanten Moritz Horkheimer geboren. Sein Vater bestimmte ihn zum Nachfolger in der Fabrik, doch der junge Max widersetzte sich und strebte nach einer akademischen Karriere. Die Erfahrung sozialer Ungerechtigkeit in der Fabrik seines Vaters prägte sein späteres Engagement für eine kritische Gesellschaftstheorie. Er studierte Philosophie, Psychologie und Nationalökonomie in München, Freiburg und Frankfurt, wo er 1922 bei Hans Cornelius promovierte und sich 1925 habilitierte.",
+    "schaffen": "1930 wurde Horkheimer zum Direktor des Instituts für Sozialforschung in Frankfurt berufen und definierte dessen interdisziplinäres Forschungsprogramm. Sein programmatischer Aufsatz 'Traditionelle und kritische Theorie' (1937) formulierte den Unterschied zwischen einer Wissenschaft, die das Bestehende beschreibt, und einer Theorie, die auf die Veränderung der Gesellschaft abzielt. Nach der Machtergreifung der Nationalsozialisten emigrierte das Institut zunächst nach Genf und Paris, dann nach New York und schließlich nach Los Angeles. In der Emigration verfasste Horkheimer zusammen mit Adorno die 'Dialektik der Aufklärung' (1947), die die Selbstzerstörung der instrumentellen Vernunft und die Entstehung der Kulturindustrie analysiert. 'Eclipse of Reason' (1947) setzte diese Analyse fort und unterschied zwischen objektiver und subjektiver Vernunft. 1950 kehrte Horkheimer nach Frankfurt zurück, wurde erneut Direktor des Instituts und Rektor der Universität Frankfurt (1951–1953).",
+    "spaetesLeben": "In der Bundesrepublik wurde Horkheimer zu einem angesehenen öffentlichen Intellektuellen. Er engagierte sich für die Demokratisierung der deutschen Gesellschaft und die Aufarbeitung der NS-Vergangenheit. In seinen späteren Schriften wandte er sich zunehmend religiösen Fragen zu und sprach von einer 'Sehnsucht nach dem ganz Anderen'. Seine politischen Positionen verschoben sich nach rechts; er unterstützte die westliche Demokratie gegen den Kommunismus und distanzierte sich von der Studentenbewegung.",
+    "tod": "Max Horkheimer starb am 7. Juli 1973 in Nürnberg im Alter von 78 Jahren. Er wurde auf dem Jüdischen Friedhof in Bern beigesetzt.",
+    "nachwirkung": "Horkheimers Bedeutung liegt vor allem in der Begründung und institutionellen Verankerung der Kritischen Theorie. Seine Unterscheidung von traditioneller und kritischer Theorie bildet das theoretische Fundament der Frankfurter Schule. Die 'Dialektik der Aufklärung' ist einer der meistdiskutierten philosophischen Texte des 20. Jahrhunderts. Sein Einfluss auf Adorno, Marcuse, Habermas und die gesamte kritische Sozialwissenschaft ist kaum zu überschätzen."
+  },
+  "kernideen": [
+    {
+      "titel": "Kritische Theorie vs. traditionelle Theorie",
+      "beschreibung": "Traditionelle Theorie beschreibt die Wirklichkeit von einem scheinbar neutralen Standpunkt aus. Kritische Theorie hingegen reflektiert ihre eigene gesellschaftliche Situiertheit und zielt auf die Veränderung der Verhältnisse ab, die Unfreiheit und Leid produzieren."
+    },
+    {
+      "titel": "Instrumentelle Vernunft",
+      "beschreibung": "Die moderne Vernunft ist zur bloßen instrumentellen Vernunft verkommen – sie kann nur noch Mittel für vorgegebene Zwecke berechnen, aber keine vernünftigen Zwecke mehr bestimmen. Diese Verkümmerung der Vernunft ist die Wurzel der modernen Katastrophen."
+    },
+    {
+      "titel": "Sehnsucht nach dem ganz Anderen",
+      "beschreibung": "Im Spätwerk äußert Horkheimer eine 'Sehnsucht nach dem ganz Anderen' – die Hoffnung, dass das Leid der Opfer der Geschichte nicht das letzte Wort sei. Dies ist keine Rückkehr zur Religion, sondern ein Ausdruck der Unmöglichkeit, sich mit der bestehenden Ungerechtigkeit abzufinden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Traditionelle und kritische Theorie",
+      "jahr": "1937",
+      "beschreibung": "Der programmatische Aufsatz definiert den Unterschied zwischen einer affirmativen Wissenschaft und einer Theorie, die auf gesellschaftliche Veränderung abzielt."
+    },
+    {
+      "titel": "Dialektik der Aufklärung",
+      "jahr": "1947",
+      "beschreibung": "Das zusammen mit Adorno verfasste Hauptwerk analysiert die Selbstzerstörung der Aufklärungsvernunft und die Entstehung autoritärer Gesellschaftsformen."
+    },
+    {
+      "titel": "Zur Kritik der instrumentellen Vernunft (Eclipse of Reason)",
+      "jahr": "1947",
+      "beschreibung": "Eine Analyse der Verkümmerung der Vernunft zur bloßen Zweck-Mittel-Rationalität und der daraus resultierenden Krise der modernen Gesellschaft."
+    },
+    {
+      "titel": "Notizen 1950–1969 und Dämmerung",
+      "jahr": "1974",
+      "beschreibung": "Posthum veröffentlichte Aphorismen und Reflexionen, die Horkheimers Denken in komprimierter Form zugänglich machen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wer aber vom Kapitalismus nicht reden will, sollte auch vom Faschismus schweigen.",
+      "quelle": "Die Juden und Europa, 1939",
+      "kontext": "Horkheimers berühmteste Formulierung über den Zusammenhang von Kapitalismus und Faschismus."
+    },
+    {
+      "text": "Die Sehnsucht, daß es bei dem Unrecht, durch das die Welt gekennzeichnet ist, nicht bleiben soll, daß das Unrecht nicht das letzte Wort sein möge.",
+      "quelle": "Die Sehnsucht nach dem ganz Anderen, 1970",
+      "kontext": "Horkheimers späte Formulierung einer negativen Theologie als Ausdruck der Hoffnung auf Gerechtigkeit."
+    },
+    {
+      "text": "Kritisches Denken ist der Versuch, im Bestehenden das Andere zu entdecken.",
+      "quelle": "Traditionelle und kritische Theorie",
+      "kontext": "Die Aufgabe der Kritischen Theorie, im Gegebenen die Möglichkeit einer besseren Welt zu erkennen."
+    }
+  ],
+  "verwandtePhilosophen": ["theodor-w-adorno", "herbert-marcuse", "walter-benjamin", "juergen-habermas"],
+  "verwandteIsmen": ["kritische-theorie", "frankfurter-schule", "marxismus", "sozialphilosophie"]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "john-dewey",
+  "name": "John Dewey",
+  "lebensdaten": "1859–1952",
+  "geboren": {
+    "jahr": 1859,
+    "ort": "Burlington",
+    "land": "USA",
+    "lat": 44.4759,
+    "lng": -73.2121
+  },
+  "gestorben": {
+    "jahr": 1952,
+    "ort": "New York City",
+    "land": "USA",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Pragmatismus", "Instrumentalismus", "Progressivismus"],
+  "kurzbeschreibung": "John Dewey war der einflussreichste amerikanische Philosoph des 20. Jahrhunderts und Begründer des Instrumentalismus. Er revolutionierte die Pädagogik durch seine Philosophie des 'Learning by Doing' und setzte sich leidenschaftlich für Demokratie als Lebensform ein. Sein Werk umfasst Beiträge zu Erkenntnistheorie, Ästhetik, Ethik, politischer Philosophie und Erziehungswissenschaft.",
+  "biografie": {
+    "fruehesLeben": "John Dewey wurde am 20. Oktober 1859 in Burlington, Vermont, als Sohn eines Kaufmanns geboren. Er wuchs in einer bescheidenen, demokratisch gesinnten Familie Neuenglands auf. Nach dem Studium an der University of Vermont (Abschluss 1879) unterrichtete er zunächst an einer Highschool in Oil City, Pennsylvania. 1882 begann er sein Graduiertenstudium an der Johns Hopkins University, wo er bei Charles Sanders Peirce Logik und bei G. Stanley Hall Psychologie studierte. Zunächst stand er unter dem Einfluss des Hegelianismus, den er jedoch später zugunsten des Pragmatismus aufgab. Er promovierte 1884 mit einer Arbeit über Kants Psychologie.",
+    "schaffen": "Dewey lehrte zunächst an der University of Michigan (1884–1894), dann an der University of Chicago (1894–1904), wo er seine berühmte Laborschule (Dewey School) gründete, in der er seine pädagogischen Theorien praktisch erprobte. Ab 1904 wirkte er an der Columbia University in New York, wo er bis zu seiner Emeritierung 1930 lehrte und danach als emeritierter Professor aktiv blieb. Sein pädagogisches Hauptwerk 'Democracy and Education' (1916) verband Erziehungstheorie mit demokratischer Philosophie. In 'Experience and Nature' (1925) und 'The Quest for Certainty' (1929) entwickelte er seinen naturalistischen Empirismus. 'Art as Experience' (1934) revolutionierte die Ästhetik, und 'Logic: The Theory of Inquiry' (1938) formulierte seine instrumentalistische Logik. Dewey verstand Denken als Problemlösung und Philosophie als Werkzeug zur Verbesserung der menschlichen Lebensbedingungen.",
+    "spaetesLeben": "Auch nach seiner Emeritierung blieb Dewey ein engagierter öffentlicher Intellektueller. Er reiste nach China, Japan, die Türkei, Mexiko und die Sowjetunion und beriet Regierungen in Bildungsfragen. 1937 leitete er die unabhängige Kommission, die die Anklagen gegen Leo Trotzki in den Moskauer Schauprozessen untersuchte und Trotzki für unschuldig erklärte. Er engagierte sich für Bürgerrechte, Frauenwahlrecht und Gewerkschaftsrechte. In seinen letzten Lebensjahrzehnten schrieb er weiterhin produktiv und veröffentlichte 'Freedom and Culture' (1939) und 'Knowing and the Known' (1949, mit Arthur Bentley).",
+    "tod": "John Dewey starb am 1. Juni 1952 im Alter von 92 Jahren in New York City an einer Lungenentzündung. Er hatte bis fast zum Ende seines langen Lebens publiziert und sich öffentlich engagiert. Sein Tod markierte das Ende einer Ära des amerikanischen Pragmatismus.",
+    "nachwirkung": "Deweys Einfluss auf die moderne Pädagogik ist weltweit spürbar. Seine Idee des erfahrungsbasierten Lernens prägt Bildungssysteme bis heute. In der Philosophie wirkte er auf Richard Rorty, Hilary Putnam und Jürgen Habermas. Seine demokratietheoretischen Arbeiten inspirierten die deliberative Demokratietheorie. Die Dewey-Forschung erlebt seit den 1990er Jahren eine Renaissance, und seine Verbindung von Philosophie, Demokratie und Erziehung wird als Modell für engagiertes intellektuelles Wirken geschätzt."
+  },
+  "kernideen": [
+    {
+      "titel": "Instrumentalismus",
+      "beschreibung": "Deweys Version des Pragmatismus versteht Ideen und Theorien als Instrumente (Werkzeuge) zur Lösung praktischer Probleme. Denken ist kein Spiegel der Realität, sondern eine aktive, experimentelle Auseinandersetzung mit problematischen Situationen."
+    },
+    {
+      "titel": "Demokratie als Lebensform",
+      "beschreibung": "Demokratie ist für Dewey nicht nur eine Regierungsform, sondern eine Lebensweise, die auf gemeinschaftlicher Kommunikation, geteilter Erfahrung und kooperativem Problemlösen beruht. Erziehung ist das zentrale Mittel zur Verwirklichung demokratischer Ideale."
+    },
+    {
+      "titel": "Learning by Doing",
+      "beschreibung": "Deweys pädagogische Philosophie betont, dass Lernen durch aktives Handeln und Erfahrung geschieht, nicht durch passives Aufnehmen von Wissen. Der Lernprozess soll an die Interessen und Lebenswelt der Schüler anknüpfen."
+    },
+    {
+      "titel": "Erfahrung als Grundkategorie",
+      "beschreibung": "Erfahrung ist für Dewey die umfassendste philosophische Kategorie. Sie umfasst das gesamte Wechselspiel zwischen Organismus und Umwelt und überwindet die traditionellen Dualismen von Subjekt und Objekt, Theorie und Praxis."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "The School and Society",
+      "jahr": "1899",
+      "beschreibung": "Eine programmatische Schrift zur Reform der Schule, die das Kind ins Zentrum des Bildungsprozesses stellt und die Schule als Miniaturgesellschaft versteht."
+    },
+    {
+      "titel": "Democracy and Education",
+      "jahr": "1916",
+      "beschreibung": "Deweys pädagogisches Hauptwerk verbindet Erziehungstheorie mit demokratischer Philosophie und argumentiert, dass Bildung der Schlüssel zur demokratischen Gesellschaft ist."
+    },
+    {
+      "titel": "Reconstruction in Philosophy",
+      "jahr": "1920",
+      "beschreibung": "Eine Neubestimmung der Aufgabe der Philosophie: Statt ewige Wahrheiten zu suchen, soll sie praktische Probleme der Gegenwart lösen."
+    },
+    {
+      "titel": "Experience and Nature",
+      "jahr": "1925",
+      "beschreibung": "Deweys metaphysisches Hauptwerk entwickelt einen naturalistischen Empirismus, der Erfahrung als fundamentale Kategorie versteht und die traditionellen Dualismen der Philosophie überwindet."
+    },
+    {
+      "titel": "The Quest for Certainty",
+      "jahr": "1929",
+      "beschreibung": "Eine Kritik der philosophischen Suche nach absoluter Gewissheit und ein Plädoyer für experimentelles, fallibilistisches Denken."
+    },
+    {
+      "titel": "Art as Experience",
+      "jahr": "1934",
+      "beschreibung": "Eine revolutionäre Ästhetik, die Kunst als intensivierte Form der alltäglichen Erfahrung versteht und die Trennung zwischen Kunst und Leben überwindet."
+    },
+    {
+      "titel": "Logic: The Theory of Inquiry",
+      "jahr": "1938",
+      "beschreibung": "Deweys systematische Logik versteht logische Formen als Produkte des Forschungsprozesses und Denken als instrumentelle Problemlösung."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Education is not preparation for life; education is life itself.",
+      "quelle": "Democracy and Education",
+      "kontext": "Deweys zentrale pädagogische Überzeugung, dass Bildung kein Mittel für ein späteres Leben, sondern selbst eine Lebensform ist."
+    },
+    {
+      "text": "We do not learn from experience... we learn from reflecting on experience.",
+      "quelle": "How We Think",
+      "kontext": "Die Bedeutung der Reflexion im Lernprozess – bloße Erfahrung allein genügt nicht."
+    },
+    {
+      "text": "Democracy has to be born anew every generation, and education is its midwife.",
+      "quelle": "The School and Society",
+      "kontext": "Die untrennbare Verbindung von Demokratie und Erziehung in Deweys Denken."
+    }
+  ],
+  "verwandtePhilosophen": ["william-james", "charles-sanders-peirce", "richard-rorty", "juergen-habermas"],
+  "verwandteIsmen": ["pragmatismus", "instrumentalismus", "naturalismus", "progressivismus"]
+}

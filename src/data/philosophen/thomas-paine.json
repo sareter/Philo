@@ -1,0 +1,46 @@
+{
+  "slug": "thomas-paine",
+  "name": "Thomas Paine",
+  "lebensdaten": "1737–1809",
+  "geboren": { "jahr": 1737, "ort": "Thetford, Norfolk", "land": "England", "lat": 52.4165, "lng": 0.7449 },
+  "gestorben": { "jahr": 1809, "ort": "New York", "land": "USA", "lat": 40.7128, "lng": -74.0060 },
+  "epoche": "Aufklärung",
+  "region": "England / USA / Frankreich",
+  "hauptstroemungen": ["Republikanismus", "Liberalismus", "Deismus"],
+  "kurzbeschreibung": "Thomas Paine war ein englisch-amerikanischer politischer Philosoph und Revolutionär, dessen Pamphlet 'Common Sense' den Anstoß zur amerikanischen Unabhängigkeitserklärung gab. Er war an beiden großen Revolutionen des 18. Jahrhunderts beteiligt – der amerikanischen und der französischen – und setzte sich für Menschenrechte, Demokratie und soziale Gerechtigkeit ein. Seine klare, volksnahe Prosa machte aufklärerische Ideen einem breiten Publikum zugänglich.",
+  "biografie": {
+    "fruehesLeben": "Thomas Paine wurde am 29. Januar 1737 in Thetford in Norfolk als Sohn eines Quäker-Korsettmachers geboren. Er besuchte die örtliche Schule bis zum Alter von dreizehn Jahren und erlernte dann das Handwerk seines Vaters. Es folgten Jahre der Unstetigkeit: Er arbeitete als Korsettmacher, Seemann, Lehrer, Steuerbeamter und Tabakhändler, scheiterte in zwei Ehen und geriet in finanzielle Not. 1774, nach einer Entlassung als Steuerbeamter, lernte er Benjamin Franklin in London kennen, der ihm Empfehlungsschreiben für Amerika gab. Im November 1774 wanderte Paine nach Philadelphia aus – mit 37 Jahren und ohne besondere Aussichten.",
+    "schaffen": "In Amerika fand Paine seine Berufung als politischer Schriftsteller. Im Januar 1776 veröffentlichte er das Pamphlet 'Common Sense', das in einer einfachen, kraftvollen Sprache für die Unabhängigkeit der amerikanischen Kolonien von Großbritannien argumentierte. Es wurde zu einem der meistverkauften Werke der amerikanischen Geschichte (geschätzt 500.000 Exemplare bei einer Bevölkerung von 2,5 Millionen) und trug maßgeblich dazu bei, die öffentliche Meinung zugunsten der Unabhängigkeit zu wenden. Während des Unabhängigkeitskrieges schrieb er die 'American Crisis'-Pamphlete, deren berühmter Eröffnungssatz – 'These are the times that try men's souls' – zum geflügelten Wort wurde. Nach der Revolution ging Paine nach Europa und veröffentlichte 'Rights of Man' (1791–1792) als Antwort auf Edmund Burkes Kritik der Französischen Revolution. Das Werk verteidigt die Menschenrechte, die Volkssouveränität und das Recht auf Revolution und enthält bemerkenswert progressive sozialpolitische Vorschläge: öffentliche Bildung, Altersrenten, Kinderzulagen und progressive Besteuerung. In Frankreich wurde er in den Nationalkonvent gewählt, geriet aber in Konflikt mit den Jakobinern und wurde unter der Schreckensherrschaft inhaftiert. Im Gefängnis schrieb er 'The Age of Reason' (1794–1807), eine Verteidigung des Deismus und eine scharfe Kritik der organisierten Religion und der Bibel.",
+    "spaetesLeben": "Paines Haftzeit in Luxemburg dauerte zehn Monate; er entging der Guillotine nur knapp. Nach seiner Freilassung durch den amerikanischen Gesandten James Monroe lebte er einige Jahre in Frankreich, zunehmend isoliert und verbittert. 1802 kehrte er nach Amerika zurück, wo er feststellen musste, dass sein deistisches Werk 'The Age of Reason' ihn in den Augen vieler Amerikaner zum Atheisten und Feind der Religion gemacht hatte. Er wurde gesellschaftlich geächtet und lebte seine letzten Jahre in Armut.",
+    "tod": "Thomas Paine starb am 8. Juni 1809 in New York in ärmlichen Verhältnissen. Nur sechs Personen folgten seinem Sarg zum Grab. Die Quäker verweigerten ihm eine Beisetzung auf ihrem Friedhof, und er wurde auf seiner Farm in New Rochelle beerdigt. 1819 grub der englische Journalist William Cobbett seine Gebeine aus und brachte sie nach England, wo sie verschollen sind.",
+    "nachwirkung": "Paines Bedeutung als politischer Denker wurde erst im 20. Jahrhundert voll gewürdigt. Sein Einfluss auf die amerikanische und französische Revolution, auf die Menschenrechtsbewegung und den Sozialstaat ist immens. Seine Ideen einer progressiven Besteuerung und sozialer Sicherungssysteme waren ihrer Zeit weit voraus. Abraham Lincoln, Thomas Edison, Theodore Roosevelt und Barack Obama beriefen sich auf sein Erbe."
+  },
+  "kernideen": [
+    {
+      "titel": "Natürliche Rechte und Volkssouveränität",
+      "beschreibung": "Alle Menschen besitzen unveräußerliche natürliche Rechte. Die politische Macht geht vom Volk aus, und jede Generation hat das Recht, ihre eigene Verfassung zu gestalten."
+    },
+    {
+      "titel": "Republikanismus",
+      "beschreibung": "Paine war ein leidenschaftlicher Verfechter der Republik und lehnte die Monarchie als irrational und ungerecht ab. Er argumentierte, dass erbliche Herrschaft ebenso absurd sei wie erbliche Mathematik."
+    },
+    {
+      "titel": "Sozialer Liberalismus",
+      "beschreibung": "Paine verband den Schutz individueller Rechte mit sozialpolitischen Forderungen: öffentliche Bildung, Altersversorgung, Kinderzulagen und progressive Besteuerung – Vorläufer des modernen Sozialstaats."
+    }
+  ],
+  "werke": [
+    { "titel": "Common Sense", "jahr": "1776", "beschreibung": "Das Pamphlet, das den Anstoß zur amerikanischen Unabhängigkeit gab. In einfacher, kraftvoller Sprache argumentiert Paine für die Trennung von England und für eine republikanische Verfassung." },
+    { "titel": "Rights of Man", "jahr": "1791–1792", "beschreibung": "Eine Verteidigung der Französischen Revolution und der Menschenrechte gegen Edmund Burkes konservative Kritik, mit progressiven sozialpolitischen Vorschlägen." },
+    { "titel": "The Age of Reason", "jahr": "1794–1807", "beschreibung": "Eine Verteidigung des Deismus und eine scharfe Kritik der organisierten Religion und der biblischen Offenbarung, die Paine viele Feinde einbrachte." },
+    { "titel": "The American Crisis", "jahr": "1776–1783", "beschreibung": "Eine Serie von Pamphleten, die während des Unabhängigkeitskrieges die Moral der Truppen stärken sollten." },
+    { "titel": "Agrarian Justice", "jahr": "1797", "beschreibung": "Eine Schrift über Grundeigentum und soziale Gerechtigkeit, die ein bedingungsloses Grundeinkommen für alle Bürger vorschlägt." }
+  ],
+  "zitate": [
+    { "text": "Dies sind Zeiten, die die Seelen der Menschen auf die Probe stellen.", "quelle": "The American Crisis, Nr. 1 (1776)", "kontext": "Der berühmte Eröffnungssatz, den Washington seinen Truppen vor der Schlacht von Trenton vorlesen ließ." },
+    { "text": "Die Regierung ist bestenfalls ein notwendiges Übel, schlimmstenfalls ein unerträgliches.", "quelle": "Common Sense", "kontext": "Paines skeptische Haltung gegenüber staatlicher Macht, die den Liberalismus und Libertarianismus beeinflusste." },
+    { "text": "Mein Vaterland ist die Welt, und meine Religion ist es, Gutes zu tun.", "quelle": "Rights of Man, Teil II", "kontext": "Paines kosmopolitisches Credo, das seinen universalistischen Humanismus zum Ausdruck bringt." }
+  ],
+  "verwandtePhilosophen": ["john-locke", "jean-jacques-rousseau", "voltaire", "mary-wollstonecraft", "thomas-hobbes"],
+  "verwandteIsmen": ["republikanismus", "liberalismus", "deismus"]
+}

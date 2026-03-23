@@ -1,0 +1,99 @@
+{
+  "slug": "meister-eckhart",
+  "name": "Meister Eckhart",
+  "lebensdaten": "1260–1328",
+  "geboren": {
+    "jahr": 1260,
+    "ort": "Hochheim",
+    "land": "Heiliges Römisches Reich (heute Deutschland)",
+    "lat": 51.0,
+    "lng": 10.45
+  },
+  "gestorben": {
+    "jahr": 1328,
+    "ort": "Avignon (oder Köln)",
+    "land": "Frankreich (oder Deutschland)",
+    "lat": 43.95,
+    "lng": 4.81
+  },
+  "epoche": "Mittelalter",
+  "region": "Deutschland / Frankreich",
+  "hauptstroemungen": ["Mystik", "Neuplatonismus", "Scholastik", "Deutsche Mystik"],
+  "kurzbeschreibung": "Meister Eckhart war der bedeutendste Vertreter der deutschen Mystik und einer der tiefgründigsten Denker des Mittelalters. Seine revolutionäre Lehre von der Gottesgeburt in der Seele und dem Durchbruch zur Gottheit jenseits Gottes verbindet scholastische Gelehrsamkeit mit mystischer Erfahrung.",
+  "biografie": {
+    "fruehesLeben": "Eckhart von Hochheim, bekannt als Meister Eckhart, wurde um 1260 in Hochheim bei Gotha in Thüringen geboren. Er trat als junger Mann in den Dominikanerorden ein und studierte in Köln, möglicherweise noch unter Albertus Magnus oder dessen Schülern. Um 1293 las er als Bakkalaureus die Sentenzen in Paris. 1294 wurde er Prior des Dominikanerklosters in Erfurt und Vikar von Thüringen.",
+    "schaffen": "1302 erhielt Eckhart den Magister-Titel an der Universität Paris – eine der höchsten akademischen Ehren seiner Zeit, die nur wenigen Dominikanern zuteil wurde (vor ihm Thomas von Aquin und Albertus Magnus). Daher der Ehrentitel 'Meister'. Er lehrte zweimal in Paris (1302–1303 und 1311–1313) und war zugleich einer der höchsten Verwaltungsbeamten des Dominikanerordens: Provinzial der Saxonia (1303–1311), der größten Ordensprovinz. Ab 1314 lehrte er am Studium Generale in Straßburg und ab 1323 in Köln. Eckharts Philosophie kreist um die mystische Vereinigung der Seele mit Gott. Sein zentraler Gedanke ist die 'Gottesgeburt in der Seele': Im innersten Grund der Seele – dem 'Seelenfünklein' (scintilla animae) oder dem 'Seelengrund' – wird der Sohn Gottes ebenso geboren wie in der Ewigkeit. Diese Geburt geschieht, wenn die Seele sich von allen Bildern, Vorstellungen und selbst von Gott als Gegenstand der Verehrung löst – Eckhart nennt dies 'Gelassenheit' (Abgeschiedenheit). Jenseits des dreifaltigen Gottes, den wir in Bildern verehren, liegt die 'Gottheit' – der unergründliche Abgrund, der alles Sein übersteigt. Die Seele soll durch den 'Durchbruch' (Eckhart: 'durchbrechen') über Gott hinaus in die Gottheit gelangen. Diese Lehre war so radikal, dass Eckhart 1326 in Köln der Häresie angeklagt wurde. In der Bulle 'In agro dominico' (1329) wurden 28 seiner Sätze verurteilt – 17 als häretisch und 11 als der Häresie verdächtig. Eckhart hatte sich vor seinem Tod der kirchlichen Autorität unterworfen und erklärt, er widerrufe alles, was als irrig befunden werde. Neben seinen lateinischen akademischen Werken schuf Eckhart eine bedeutende deutschsprachige Predigtliteratur, die ihn zum Schöpfer der deutschen philosophischen Sprache machte. Begriffe wie 'Gelassenheit', 'Abgeschiedenheit', 'Seelengrund' und 'Durchbruch' wurden von ihm geprägt.",
+    "spaetesLeben": "Die letzten Jahre Eckharts waren vom Inquisitionsprozess überschattet. Der Erzbischof von Köln, Heinrich von Virneburg, leitete 1326 ein Verfahren gegen ihn ein. Eckhart verteidigte sich energisch und appellierte an den Papst. Er reiste nach Avignon, um sich vor der päpstlichen Kommission zu rechtfertigen.",
+    "tod": "Meister Eckhart starb vermutlich Anfang 1328 in Avignon oder auf dem Rückweg nach Köln, bevor das päpstliche Urteil erging. Die Verurteilungsbulle 'In agro dominico' wurde erst nach seinem Tod am 27. März 1329 veröffentlicht. Er war etwa 68 Jahre alt. Der genaue Ort und die Umstände seines Todes sind unbekannt.",
+    "nachwirkung": "Eckharts Einfluss ist gewaltig, wenn auch lange Zeit unterirdisch. Seine Schüler Heinrich Seuse und Johannes Tauler führten die deutsche Mystik fort. Die 'Theologia Deutsch', die Martin Luther herausgab, ist von Eckhart beeinflusst. In der Neuzeit wurde er von Hegel, Schopenhauer und Heidegger rezipiert. Die Kyoto-Schule des japanischen Zen-Buddhismus (Nishida, Nishitani) entdeckte erstaunliche Parallelen zwischen Eckhart und der buddhistischen Sunyata-Lehre. Heute wird Eckhart als einer der originellsten Denker des Mittelalters und als Brückenbauer zwischen westlicher und östlicher Spiritualität geschätzt."
+  },
+  "kernideen": [
+    {
+      "titel": "Gottesgeburt in der Seele",
+      "beschreibung": "Im innersten Grund der Seele – dem 'Seelenfünklein' – wird der Sohn Gottes ebenso geboren wie in der Ewigkeit. Dieser Vorgang geschieht ständig und in jedem Menschen, der sich dafür öffnet."
+    },
+    {
+      "titel": "Gelassenheit (Abgeschiedenheit)",
+      "beschreibung": "Die Seele muss sich von allen Bildern, Vorstellungen und Anhaftungen lösen – selbst von der Vorstellung Gottes. Diese radikale Gelassenheit (Abgeschiedenheit) ist für Eckhart die höchste Tugend, höher noch als die Liebe."
+    },
+    {
+      "titel": "Gottheit jenseits Gottes",
+      "beschreibung": "Jenseits des persönlichen, dreifaltigen Gottes liegt die 'Gottheit' – der unergründliche, namenlose Abgrund, der alles Sein übersteigt. Die Seele soll über Gott hinaus in die Gottheit 'durchbrechen'."
+    },
+    {
+      "titel": "Seelenfünklein (Scintilla Animae)",
+      "beschreibung": "Im tiefsten Grund der Seele gibt es einen 'Funken', der ungeschaffen und unerschaffbar ist – eine göttliche Instanz im Menschen, die mit der Gottheit selbst identisch ist."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Deutsche Predigten",
+      "jahr": "ca. 1305–1327",
+      "beschreibung": "Über 80 erhaltene Predigten in deutscher Sprache, die zu den bedeutendsten Texten der deutschen Literatur und Philosophie gehören. Sie enthalten Eckharts mystische Hauptgedanken in eindrucksvoller, bilderreicher Sprache."
+    },
+    {
+      "titel": "Opus tripartitum (Dreiteiliges Werk)",
+      "jahr": "ca. 1302–1327",
+      "beschreibung": "Eckharts lateinisches Hauptwerk, geplant als Opus propositionum (Thesen), Opus quaestionum (Fragen) und Opus expositionum (Auslegungen). Nur teilweise vollendet und erhalten."
+    },
+    {
+      "titel": "Buch der göttlichen Tröstung",
+      "jahr": "ca. 1308–1311",
+      "beschreibung": "Deutsche Trostschrift, verfasst für die Königin Agnes von Ungarn. Enthält Eckharts Lehre von der Gelassenheit und der Überwindung des Leidens."
+    },
+    {
+      "titel": "Reden der Unterweisung",
+      "jahr": "ca. 1294–1298",
+      "beschreibung": "Eckharts frühestes deutschsprachiges Werk: Ansprachen an die Novizen im Erfurter Dominikanerkloster über die geistliche Praxis."
+    },
+    {
+      "titel": "Von Abgeschiedenheit",
+      "jahr": "ca. 1320",
+      "beschreibung": "Traktat über die Abgeschiedenheit als höchste Tugend. Die vollkommene Gelassenheit übersteigt sogar die Liebe, Demut und Barmherzigkeit."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Auge, mit dem ich Gott sehe, ist dasselbe Auge, mit dem Gott mich sieht.",
+      "quelle": "Predigt 12 (Qui audit me)",
+      "kontext": "Der berühmteste Satz Eckharts über die Einheit von Seele und Gott im Akt der Erkenntnis."
+    },
+    {
+      "text": "Wenn ich einen Gott hätte, den ich verstehen könnte, würde ich ihn nie für Gott halten.",
+      "quelle": "Predigt 56",
+      "kontext": "Eckharts Betonung der absoluten Unbegreiflichkeit Gottes."
+    },
+    {
+      "text": "Wäre ich allein in einer Wüste, und es ängstigte mich, so würde ich wünschen, ich hätte ein Kind bei mir, damit das Kind allein mein Herz erweichte und mich froh machte.",
+      "quelle": "Buch der göttlichen Tröstung",
+      "kontext": "Eine der seltenen zarten, menschlichen Äußerungen Eckharts."
+    },
+    {
+      "text": "Gott ist ein Wort, ein ungesprochenes Wort.",
+      "quelle": "Predigt 53",
+      "kontext": "Eckhart über die Namenlosigkeit und Unaussprechlichkeit Gottes."
+    }
+  ],
+  "verwandtePhilosophen": ["plotin", "augustinus", "thomas-von-aquin", "albertus-magnus", "hildegard-von-bingen"],
+  "verwandteIsmen": ["mystizismus", "neuplatonismus", "idealismus", "negative-theologie"]
+}

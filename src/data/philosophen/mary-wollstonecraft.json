@@ -1,0 +1,46 @@
+{
+  "slug": "mary-wollstonecraft",
+  "name": "Mary Wollstonecraft",
+  "lebensdaten": "1759–1797",
+  "geboren": { "jahr": 1759, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "gestorben": { "jahr": 1797, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "epoche": "Aufklärung",
+  "region": "England / Frankreich",
+  "hauptstroemungen": ["Feminismus", "Liberalismus", "Aufklärung"],
+  "kurzbeschreibung": "Mary Wollstonecraft war eine englische Schriftstellerin, Philosophin und Frauenrechtlerin, die mit ihrem Werk 'A Vindication of the Rights of Woman' den modernen Feminismus begründete. Sie forderte gleiche Bildungsrechte für Frauen, politische Gleichberechtigung und die Anerkennung der Frau als vernunftbegabtes Wesen. Ihr kurzes, stürmisches Leben wurde zum Symbol für den Kampf um Frauenrechte.",
+  "biografie": {
+    "fruehesLeben": "Mary Wollstonecraft wurde am 27. April 1759 in London als Tochter eines gescheiterten Farmers geboren, der das Familienvermögen vergeudete und seine Frau misshandelte. Die Erfahrung häuslicher Gewalt und weiblicher Hilflosigkeit prägte Marys Denken nachhaltig. Sie erhielt kaum formale Bildung und bildete sich weitgehend autodidaktisch. Um ihren Lebensunterhalt zu verdienen, arbeitete sie als Gesellschafterin, Lehrerin und Gouvernante. 1784 gründete sie zusammen mit ihrer Schwester und einer Freundin eine Schule in Newington Green, wo sie den dissidentischen Prediger Richard Price kennenlernte und in den Kreis aufklärerischer Intellektueller eintrat.",
+    "schaffen": "Ihr erstes bedeutendes Werk, 'Thoughts on the Education of Daughters' (1787), behandelte die weibliche Erziehung. Der Durchbruch kam mit 'A Vindication of the Rights of Men' (1790), einer der ersten Antworten auf Edmund Burkes konservative Kritik der Französischen Revolution. Das Werk, das sie in nur drei Wochen verfasste, machte sie in den radikalen intellektuellen Kreisen Londons bekannt. 1792 folgte ihr Hauptwerk 'A Vindication of the Rights of Woman', das als Gründungsdokument des modernen Feminismus gilt. Wollstonecraft argumentierte, dass die scheinbare intellektuelle Unterlegenheit der Frauen nicht natürlich, sondern das Ergebnis mangelhafter Erziehung sei. Wenn Frauen dieselbe Bildung erhielten wie Männer, würden sie sich als ebenso vernunftbegabt erweisen. Sie forderte Koedukation, berufliche Möglichkeiten für Frauen und eine Ehe auf der Grundlage gegenseitiger Achtung statt weiblicher Unterwürfigkeit. Sie ging nach Paris, um die Französische Revolution aus nächster Nähe zu erleben, und schrieb 'An Historical and Moral View of the Origin and Progress of the French Revolution' (1794). In Paris hatte sie eine Beziehung mit dem amerikanischen Geschäftsmann Gilbert Imlay, von dem sie eine Tochter (Fanny) bekam. Nach Imlays Verlassenheit unternahm sie zwei Selbstmordversuche.",
+    "spaetesLeben": "Nach ihrer Rückkehr nach London begann Wollstonecraft eine Beziehung mit dem Philosophen William Godwin, den sie 1797 heiratete, als sie schwanger war. Ihre Ehe war eine Partnerschaft zwischen Gleichgestellten – sie behielten getrennte Wohnungen und arbeiteten unabhängig voneinander. In ihren letzten Lebensjahren schrieb sie den autobiografischen Roman 'Maria, or The Wrongs of Woman', der die rechtliche und soziale Unterdrückung von Frauen schildert.",
+    "tod": "Mary Wollstonecraft starb am 10. September 1797 in London, elf Tage nach der Geburt ihrer Tochter Mary (der späteren Mary Shelley, Autorin von 'Frankenstein'), an Kindbettfieber. Sie war 38 Jahre alt. Ihr Ehemann William Godwin veröffentlichte nach ihrem Tod die 'Memoirs of the Author of A Vindication of the Rights of Woman' (1798), in der er offen über ihre Liebesaffären und Selbstmordversuche berichtete. Die gutgemeinte Ehrlichkeit schadete ihrem Ruf für Jahrzehnte.",
+    "nachwirkung": "Wollstonecrafts Ruf litt nach Godwins Memoiren fast ein Jahrhundert lang unter dem Vorwurf der Unmoral. Erst die Suffragetten des späten 19. Jahrhunderts und die feministische Bewegung des 20. Jahrhunderts rehabilitierten sie. Heute gilt sie als Begründerin des liberalen Feminismus und als eine der wichtigsten politischen Denkerinnen der Aufklärung. Ihre Tochter Mary Shelley wurde als Autorin von 'Frankenstein' berühmt. Virginia Woolf widmete ihr einen Essay, und ihr Werk wird in der feministischen Philosophie, der Pädagogik und der politischen Theorie intensiv studiert."
+  },
+  "kernideen": [
+    {
+      "titel": "Vernunft als Grundlage der Gleichberechtigung",
+      "beschreibung": "Frauen sind ebenso vernunftbegabt wie Männer. Ihre scheinbare Unterlegenheit ist das Ergebnis mangelhafter Erziehung und gesellschaftlicher Unterdrückung, nicht natürlicher Verschiedenheit."
+    },
+    {
+      "titel": "Bildung als Emanzipation",
+      "beschreibung": "Der Schlüssel zur Befreiung der Frauen liegt in der gleichen Bildung. Wollstonecraft forderte Koedukation und gleichen Zugang zu Wissen, Beruf und öffentlichem Leben."
+    },
+    {
+      "titel": "Kritik der Weiblichkeitsideologie",
+      "beschreibung": "Wollstonecraft kritisierte die Erziehung von Frauen zu Schwäche, Eitelkeit und Unterwürfigkeit als künstliches Konstrukt, das Frauen zu 'hübschen Spielzeugen' degradiert statt sie als vollwertige Menschen zu behandeln."
+    }
+  ],
+  "werke": [
+    { "titel": "A Vindication of the Rights of Woman", "jahr": "1792", "beschreibung": "Das Gründungsdokument des modernen Feminismus, das gleiche Bildungsrechte für Frauen fordert und die Unterdrückung der Frau als Ergebnis gesellschaftlicher Verhältnisse entlarvt." },
+    { "titel": "A Vindication of the Rights of Men", "jahr": "1790", "beschreibung": "Eine der ersten Antworten auf Edmund Burkes Kritik der Französischen Revolution, die die natürlichen Rechte und die politische Gleichheit verteidigt." },
+    { "titel": "Thoughts on the Education of Daughters", "jahr": "1787", "beschreibung": "Eine frühe Schrift über die Erziehung von Mädchen, die bereits zentrale Themen von Wollstonecrafts Denken vorwegnimmt." },
+    { "titel": "Maria, or The Wrongs of Woman", "jahr": "1798 (posthum, unvollendet)", "beschreibung": "Ein autobiografischer Roman über die rechtliche und soziale Unterdrückung von Frauen, der Wollstonecrafts Ideen in literarischer Form darstellt." },
+    { "titel": "Letters Written During a Short Residence in Sweden, Norway, and Denmark", "jahr": "1796", "beschreibung": "Ein Reisebericht, der persönliche Reflexion mit sozialer Beobachtung verbindet und als Meisterwerk der Reiseliteratur gilt." }
+  ],
+  "zitate": [
+    { "text": "Ich möchte die Frauen nicht über die Männer erheben, sondern sie sich selbst erheben sehen.", "quelle": "A Vindication of the Rights of Woman", "kontext": "Wollstonecrafts Zusammenfassung ihres feministischen Programms: Nicht Herrschaft über Männer, sondern Gleichberechtigung und Selbstbestimmung." },
+    { "text": "Ich möchte nicht, dass Frauen Macht über Männer haben, sondern über sich selbst.", "quelle": "A Vindication of the Rights of Woman", "kontext": "Wollstonecraft betont, dass Feminismus nicht auf weibliche Vorherrschaft, sondern auf Autonomie und Selbstbestimmung abzielt." },
+    { "text": "Die Erziehung der Frauen macht sie zu künstlichen, schwachen Wesen.", "quelle": "A Vindication of the Rights of Woman, Kapitel 2", "kontext": "Wollstonecrafts zentrale These, dass die Schwäche der Frauen nicht natürlich, sondern anerzogen ist." }
+  ],
+  "verwandtePhilosophen": ["jean-jacques-rousseau", "john-locke", "thomas-paine", "john-stuart-mill", "jeremy-bentham"],
+  "verwandteIsmen": ["feminismus", "liberalismus", "aufklaerung"]
+}

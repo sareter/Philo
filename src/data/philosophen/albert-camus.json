@@ -1,0 +1,109 @@
+{
+  "slug": "albert-camus",
+  "name": "Albert Camus",
+  "lebensdaten": "1913–1960",
+  "geboren": {
+    "jahr": 1913,
+    "ort": "Mondovi",
+    "land": "Französisch-Algerien",
+    "lat": 36.2675,
+    "lng": 7.1353
+  },
+  "gestorben": {
+    "jahr": 1960,
+    "ort": "Villeblevin",
+    "land": "Frankreich",
+    "lat": 48.3297,
+    "lng": 3.0986
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Absurdismus", "Existenzialismus", "Humanismus"],
+  "kurzbeschreibung": "Albert Camus war ein französisch-algerischer Schriftsteller und Philosoph, der 1957 den Nobelpreis für Literatur erhielt. Mit seinen Werken zum Absurden – dem Gefühl der Sinnlosigkeit angesichts einer gleichgültigen Welt – schuf er eine der wirkmächtigsten philosophischen Positionen des 20. Jahrhunderts. Trotz seiner Nähe zum Existenzialismus lehnte er diese Bezeichnung für sein Denken stets ab.",
+  "biografie": {
+    "fruehesLeben": "Albert Camus wurde am 7. November 1913 in Mondovi (heute Dréan) in Französisch-Algerien als Sohn eines elsässischen Landarbeiters und einer Spanierin geboren. Sein Vater Lucien fiel im Oktober 1914 in der Schlacht an der Marne. Albert wuchs in ärmlichsten Verhältnissen im Arbeiterviertel Belcourt in Algier auf, bei seiner fast tauben, analphabetischen Mutter und seiner strengen Großmutter. Sein Lehrer Louis Germain erkannte seine Begabung und ermöglichte ihm den Besuch des Gymnasiums. Camus studierte Philosophie an der Universität Algier, musste jedoch wegen einer Tuberkuloseerkrankung (diagnostiziert 1930) auf eine akademische Karriere verzichten. Diese frühe Konfrontation mit Krankheit und Tod prägte sein Denken über das Absurde zutiefst.",
+    "schaffen": "In Algier gründete Camus eine Theatergruppe und arbeitete als Journalist. Sein erster bedeutender Essay 'Der Mythos des Sisyphos' (1942) formulierte seine Philosophie des Absurden: Das Leben hat keinen übergeordneten Sinn, doch gerade in der bewussten Annahme dieser Absurdität liegt die menschliche Größe. Parallel erschien der Roman 'Der Fremde' (1942), der die Geschichte des Meursault erzählt, eines Mannes, der die gesellschaftlichen Konventionen der Trauer und Empathie verweigert. Beide Werke machten Camus schlagartig berühmt. Während der deutschen Besatzung leitete er die Résistance-Zeitung 'Combat'. 'Die Pest' (1947), sein allegorischer Roman über eine Epidemie in Oran, wurde als Parabel auf die Besatzung und als universelle Meditation über menschliche Solidarität gelesen. 'Der Mensch in der Revolte' (1951) analysierte die Geschichte der Rebellion und verurteilte sowohl den Nihilismus als auch den totalitären Revolutionarismus – was zum endgültigen Bruch mit Sartre und der politischen Linken führte. 'Der Fall' (1956) und die Erzählungen 'Das Exil und das Reich' (1957) zeigten eine zunehmend selbstkritische und komplexere literarische Stimme.",
+    "spaetesLeben": "Der Bruch mit Sartre nach der Veröffentlichung von 'Der Mensch in der Revolte' isolierte Camus von weiten Teilen der Pariser Intellektuellen. Der Algerienkrieg (1954–1962) brachte ihn in eine qualvolle Lage: Als in Algerien geborener Franzose versuchte er zwischen den Fronten zu vermitteln und wurde von beiden Seiten angegriffen. 1957 erhielt er den Nobelpreis für Literatur 'für sein bedeutendes literarisches Schaffen, das mit scharfsinnigem Ernst menschliche Gewissensprobleme unserer Zeit beleuchtet'. Er war der zweitjüngste Nobelpreisträger für Literatur. In seiner Nobelpreisrede betonte er die Verantwortung des Künstlers gegenüber Wahrheit und Freiheit.",
+    "tod": "Am 4. Januar 1960 kam Albert Camus bei einem Autounfall in Villeblevin in Burgund ums Leben. Er war 46 Jahre alt. Der Fahrgemeinschaft mit seinem Verleger Michel Gallimard wurde ein geplatzter Reifen zum Verhängnis. In seiner Manteltasche fand man das unvollendete autobiografische Manuskript 'Der erste Mensch', das erst 1994 posthum veröffentlicht wurde und als eines seiner besten Werke gilt. Die Absurdität seines plötzlichen Todes schien seine eigene Philosophie auf tragische Weise zu bestätigen.",
+    "nachwirkung": "Camus' Werk hat nichts von seiner Aktualität eingebüßt. Seine Philosophie des Absurden und der Revolte bietet Orientierung in einer Welt ohne absolute Gewissheiten. 'Der Fremde' und 'Die Pest' gehören zu den meistgelesenen literarischen Werken des 20. Jahrhunderts. Seine ethische Position – die Verbindung von Absurditätsbewusstsein und humanistischem Engagement – wird heute oft als Alternative zum Nihilismus und zum ideologischen Dogmatismus geschätzt. Die posthume Veröffentlichung von 'Der erste Mensch' und seiner Briefe hat ein neues Interesse an seinem Werk geweckt."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Absurde",
+      "beschreibung": "Das Absurde entsteht aus dem Widerspruch zwischen dem menschlichen Verlangen nach Sinn und der gleichgültigen Stummheit der Welt. Es ist weder im Menschen noch in der Welt allein, sondern in ihrer Konfrontation. Das Absurde anzuerkennen, ohne ihm durch Selbstmord oder Glaubenssprung auszuweichen, ist der Ausgangspunkt von Camus' Philosophie."
+    },
+    {
+      "titel": "Sisyphos und die Revolte gegen das Absurde",
+      "beschreibung": "Sisyphos, der seinen Stein ewig den Berg hinaufwälzen muss, ist das Sinnbild des absurden Menschen. Doch 'wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen' – in der bewussten Revolte gegen die Sinnlosigkeit findet der Mensch seine Würde und sein Glück."
+    },
+    {
+      "titel": "Revolte und Maß",
+      "beschreibung": "Die Revolte ist der Widerstand gegen Ungerechtigkeit und Unterdrückung, der jedoch das Maß nicht überschreiten darf. Camus kritisiert die revolutionäre Gewalt, die im Namen der Geschichte oder der Zukunft das Gegenwärtige opfert, und plädiert für eine Revolte, die das Leben bejaht."
+    },
+    {
+      "titel": "Solidarität und Humanismus",
+      "beschreibung": "Trotz der Absurdität des Lebens findet Camus in der menschlichen Solidarität und im gemeinsamen Kampf gegen Leid und Ungerechtigkeit einen Sinn. Die Pest-Metapher zeigt, dass die Menschlichkeit im gemeinsamen Widerstand gegen das Übel liegt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Der Fremde (L'Étranger)",
+      "jahr": "1942",
+      "beschreibung": "Camus' berühmtester Roman erzählt die Geschichte des Meursault, der nach dem Tod seiner Mutter gefühllos erscheint und einen Araber am Strand von Algier erschießt. Ein Meisterwerk der Literatur des Absurden."
+    },
+    {
+      "titel": "Der Mythos des Sisyphos (Le Mythe de Sisyphe)",
+      "jahr": "1942",
+      "beschreibung": "Der philosophische Essay, der mit dem Satz beginnt 'Es gibt nur ein wirklich ernstes philosophisches Problem: den Selbstmord' und Camus' Philosophie des Absurden systematisch entfaltet."
+    },
+    {
+      "titel": "Die Pest (La Peste)",
+      "jahr": "1947",
+      "beschreibung": "Der allegorische Roman über eine Pestepidemie in Oran, der als Parabel auf die Nazi-Besatzung und als universelle Meditation über menschliche Solidarität angesichts des Leidens gelesen wird."
+    },
+    {
+      "titel": "Der Mensch in der Revolte (L'Homme révolté)",
+      "jahr": "1951",
+      "beschreibung": "Eine umfassende Analyse der metaphysischen und historischen Rebellion, die sowohl den Nihilismus als auch den totalitären Revolutionarismus kritisiert und für eine maßvolle Revolte plädiert."
+    },
+    {
+      "titel": "Der Fall (La Chute)",
+      "jahr": "1956",
+      "beschreibung": "Ein raffinierter Monolog des ehemaligen Pariser Anwalts Jean-Baptiste Clamence, der in einer Amsterdamer Bar seine Scheinheiligkeit beichtet. Eine selbstkritische Meditation über Schuld und Unschuld."
+    },
+    {
+      "titel": "Das Exil und das Reich (L'Exil et le Royaume)",
+      "jahr": "1957",
+      "beschreibung": "Eine Sammlung von sechs Erzählungen, die Themen wie Entfremdung, Solidarität und die Suche nach Zugehörigkeit in einer absurden Welt behandeln."
+    },
+    {
+      "titel": "Der erste Mensch (Le Premier Homme)",
+      "jahr": "1994",
+      "beschreibung": "Camus' unvollendeter, posthum veröffentlichter autobiografischer Roman über seine Kindheit in Algerien, der als sein persönlichstes und möglicherweise bestes Werk gilt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Man muss sich Sisyphos als einen glücklichen Menschen vorstellen.",
+      "quelle": "Der Mythos des Sisyphos",
+      "kontext": "Der berühmte Schlusssatz des Essays – die Bejahung des Lebens trotz seiner Absurdität."
+    },
+    {
+      "text": "Es gibt nur ein wirklich ernstes philosophisches Problem: den Selbstmord.",
+      "quelle": "Der Mythos des Sisyphos",
+      "kontext": "Der provokante Eröffnungssatz, der die Frage nach dem Sinn des Lebens ins Zentrum stellt."
+    },
+    {
+      "text": "Mitten im Winter habe ich erfahren, dass es in mir einen unbesiegbaren Sommer gibt.",
+      "quelle": "Retour à Tipasa",
+      "kontext": "Camus' lyrische Bejahung der Lebenskraft auch in den dunkelsten Zeiten."
+    },
+    {
+      "text": "Ich empöre mich, also sind wir.",
+      "quelle": "Der Mensch in der Revolte",
+      "kontext": "Die solidarische Dimension der Revolte – im Widerstand gegen Ungerechtigkeit entsteht Gemeinschaft."
+    }
+  ],
+  "verwandtePhilosophen": ["jean-paul-sartre", "simone-de-beauvoir", "friedrich-nietzsche", "martin-heidegger"],
+  "verwandteIsmen": ["absurdismus", "existenzialismus", "humanismus"]
+}

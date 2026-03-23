@@ -1,0 +1,51 @@
+{
+  "slug": "giordano-bruno",
+  "name": "Giordano Bruno",
+  "lebensdaten": "1548–1600",
+  "geboren": { "jahr": 1548, "ort": "Nola", "land": "Italien", "lat": 40.9262, "lng": 14.5278 },
+  "gestorben": { "jahr": 1600, "ort": "Rom", "land": "Italien", "lat": 41.8955, "lng": 12.4823 },
+  "epoche": "Renaissance",
+  "region": "Italien / Europa",
+  "hauptstroemungen": ["Pantheismus", "Kosmologie", "Hermetik", "Naturphilosophie"],
+  "kurzbeschreibung": "Giordano Bruno war ein italienischer Philosoph, Dichter und Kosmologe, der die kopernikanische Theorie radikalisierte und ein unendliches Universum mit unzähligen Welten postulierte. Sein pantheistisches Weltbild, das Gott und Natur gleichsetzte, brachte ihn in Konflikt mit der katholischen Kirche. Er wurde 1600 als Ketzer auf dem Campo de' Fiori in Rom verbrannt und gilt seither als Märtyrer der Gedankenfreiheit.",
+  "biografie": {
+    "fruehesLeben": "Giordano Bruno wurde 1548 als Filippo Bruno in Nola bei Neapel geboren, wo sein Vater Giovanni als Soldat diente. Mit vierzehn Jahren kam er nach Neapel, um Philosophie und Logik zu studieren, und trat 1565 in das Dominikanerkloster San Domenico Maggiore ein, wo er den Ordensnamen Giordano annahm. Im Kloster erwies er sich als brillanter, aber aufsässiger Geist, der schon früh unorthodoxe Ansichten vertrat. Er las verbotene Bücher, darunter die Schriften des Erasmus, und stellte die Trinitätslehre infrage. 1576, nach einem Ketzereiprozess, floh er aus dem Kloster und begann ein ruheloses Wanderleben, das ihn durch ganz Europa führen sollte – nach Genf, Toulouse, Paris, London, Wittenberg, Prag, Helmstedt und Frankfurt.",
+    "schaffen": "Brunos philosophisches Schaffen war von atemberaubender Originalität und Kühnheit. In seinen kosmologischen Dialogen – 'De l'infinito, universo e mondi' (Über das Unendliche, das Universum und die Welten, 1584) und 'La cena de le ceneri' (Das Aschermittwochsmahl, 1584) – ging er weit über Kopernikus hinaus: Er postulierte ein unendliches Universum ohne Zentrum, in dem unzählige Sonnen von bewohnten Planeten umkreist werden. Diese Idee war für die damalige Zeit revolutionär und verstörend. In 'De la causa, principio et uno' (Über die Ursache, das Prinzip und das Eine, 1584) entwickelte er eine pantheistische Metaphysik, die Gott als unendliche Substanz auffasste, die sich in der Natur manifestiert. In seinen ethischen Dialogen, besonders 'De gli eroici furori' (Über die heroischen Leidenschaften, 1585), beschrieb er die philosophische Suche nach Wahrheit als einen heroischen Akt der Selbstüberschreitung. Bruno war auch ein Meister der Gedächtniskunst und verfasste mehrere Werke über Mnemotechnik, die auf hermetischen und magischen Traditionen aufbauten.",
+    "spaetesLeben": "1591 kehrte Bruno auf Einladung des venezianischen Adligen Giovanni Mocenigo nach Italien zurück – ein fataler Fehler. Mocenigo, der sich von Bruno Unterricht in der Gedächtniskunst erhofft hatte, denunzierte ihn enttäuscht bei der venezianischen Inquisition. Bruno wurde verhaftet und 1593 nach Rom überstellt, wo ein langwieriger Inquisitionsprozess begann. Sieben Jahre lang versuchte die Inquisition, ihn zum Widerruf seiner Lehren zu bewegen, doch Bruno blieb standhaft. Die Hauptanklagepunkte betrafen seine Leugnung der Transsubstantiation, seine Lehre von der Seelenwanderung, seine Behauptung einer Vielzahl von Welten und seine pantheistische Identifikation von Gott und Natur.",
+    "tod": "Am 17. Februar 1600 wurde Giordano Bruno auf dem Campo de' Fiori in Rom als unbelehrbarer Ketzer bei lebendigem Leibe verbrannt. Der Überlieferung nach wandte er sein Gesicht von dem ihm vorgehaltenen Kruzifix ab. Vor der Urteilsverkündung soll er seinen Richtern entgegnet haben: 'Vielleicht zittert ihr mehr vor dem Urteil, das ihr sprecht, als ich, der es empfängt.' Seine Werke wurden auf den Index der verbotenen Bücher gesetzt, wo sie bis 1966 verblieben. 1889 wurde auf dem Campo de' Fiori ein Denkmal zu seinen Ehren errichtet, das ihn als Märtyrer der Gedankenfreiheit zeigt.",
+    "nachwirkung": "Brunos Bedeutung für die Geistesgeschichte wurde erst im 19. Jahrhundert voll erkannt, als Freidenker und Republikaner ihn als Vorkämpfer der Gedankenfreiheit feierten. Seine kosmologischen Ideen – das unendliche Universum, die Vielzahl der Welten, die Auflösung des geozentrischen Weltbildes – nahmen Erkenntnisse vorweg, die erst Jahrhunderte später wissenschaftlich bestätigt wurden. Sein Pantheismus beeinflusste Spinoza und die deutsche Idealisten. In der Astronomie ist ein Mondkrater und ein Asteroid nach ihm benannt. Er gilt als Symbol des Widerstands gegen geistige Bevormundung und als einer der kühnsten Denker der europäischen Geistesgeschichte."
+  },
+  "kernideen": [
+    {
+      "titel": "Unendliches Universum",
+      "beschreibung": "Bruno postulierte als Erster ein unendliches Universum ohne Zentrum und ohne Grenzen, in dem es unzählige Sonnensysteme mit bewohnten Planeten gibt. Er überwand damit die antike und mittelalterliche Vorstellung eines geschlossenen Kosmos."
+    },
+    {
+      "titel": "Pantheismus",
+      "beschreibung": "Bruno identifizierte Gott mit der Natur: Gott ist die unendliche Substanz, die sich in allen Dingen manifestiert. Die Natur ist nicht Gottes Schöpfung, sondern Gott selbst in seiner Selbstentfaltung. Diese Lehre wurde von der Kirche als Häresie verurteilt."
+    },
+    {
+      "titel": "Coincidentia oppositorum",
+      "beschreibung": "In Anlehnung an Nikolaus von Kues entwickelte Bruno die Idee des Zusammenfalls der Gegensätze: Im Unendlichen fallen Minimum und Maximum, Einheit und Vielheit, Materie und Form zusammen. Das Unendliche überwindet alle endlichen Unterscheidungen."
+    },
+    {
+      "titel": "Heroischer Enthusiasmus",
+      "beschreibung": "Bruno beschrieb die philosophische Suche nach Wahrheit als einen heroischen Akt der Leidenschaft (furore eroico), der den Menschen über seine gewöhnlichen Grenzen hinausführt und ihn dem Göttlichen annähert."
+    }
+  ],
+  "werke": [
+    { "titel": "De l'infinito, universo e mondi", "jahr": "1584", "beschreibung": "Das kosmologische Hauptwerk, in dem Bruno ein unendliches Universum mit unzähligen Welten postuliert und die Grenzen des kopernikanischen Systems sprengt." },
+    { "titel": "La cena de le ceneri (Das Aschermittwochsmahl)", "jahr": "1584", "beschreibung": "Ein Dialog, in dem Bruno die kopernikanische Astronomie verteidigt und weiterentwickelt, eingebettet in die Erzählung eines Abendessens in London." },
+    { "titel": "De la causa, principio et uno", "jahr": "1584", "beschreibung": "Brunos metaphysisches Hauptwerk, in dem er seine pantheistische Philosophie entwickelt und Gott als unendliche Ursache, Prinzip und Einheit aller Dinge bestimmt." },
+    { "titel": "De gli eroici furori (Über die heroischen Leidenschaften)", "jahr": "1585", "beschreibung": "Ein philosophisch-poetischer Dialog über die leidenschaftliche Suche der Seele nach Wahrheit und Schönheit als höchste Form menschlicher Selbstverwirklichung." },
+    { "titel": "Spaccio de la bestia trionfante", "jahr": "1584", "beschreibung": "Eine allegorische Satire, in der die Götter die Sternbilder von ihren Lastern befreien – eine Kritik an der moralischen Verdorbenheit der zeitgenössischen Gesellschaft und Kirche." },
+    { "titel": "De monade, numero et figura", "jahr": "1591", "beschreibung": "Eine lateinische Schrift über die Monade als metaphysisches Grundprinzip, die pythagorische Zahlenmystik mit Brunos kosmologischer Philosophie verbindet." }
+  ],
+  "zitate": [
+    { "text": "Vielleicht zittert ihr mehr vor dem Urteil, das ihr sprecht, als ich, der es empfängt.", "quelle": "Antwort an das Inquisitionsgericht, 1600", "kontext": "Brunos berühmteste Worte, gesprochen zu seinen Richtern nach der Verkündung des Todesurteils, zeugen von seinem unbeugsamen Geist." },
+    { "text": "Es gibt kein Oben und Unten, kein Innen und Außen im unendlichen Universum.", "quelle": "De l'infinito, universo e mondi", "kontext": "Bruno formuliert die revolutionäre Einsicht, dass ein unendliches Universum kein Zentrum und keine bevorzugte Richtung kennt." },
+    { "text": "Die Natur ist entweder Gott oder die göttliche Kraft, die sich in den Dingen selbst offenbart.", "quelle": "De la causa, principio et uno", "kontext": "Brunos pantheistische Grundthese, die Gott nicht als transzendenten Schöpfer, sondern als immanentes Prinzip der Natur begreift." }
+  ],
+  "verwandtePhilosophen": ["baruch-spinoza", "gottfried-wilhelm-leibniz", "rene-descartes", "niccolo-machiavelli"],
+  "verwandteIsmen": ["pantheismus", "rationalismus", "naturalismus"]
+}

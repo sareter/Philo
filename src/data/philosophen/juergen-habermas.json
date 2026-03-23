@@ -1,0 +1,97 @@
+{
+  "slug": "juergen-habermas",
+  "name": "Jürgen Habermas",
+  "lebensdaten": "1929–",
+  "geboren": {
+    "jahr": 1929,
+    "ort": "Düsseldorf",
+    "land": "Deutschland",
+    "lat": 51.2277,
+    "lng": 6.7735
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": ""
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Kritische Theorie", "Diskursethik", "Deliberative Demokratietheorie"],
+  "kurzbeschreibung": "Jürgen Habermas ist der bedeutendste lebende Philosoph Deutschlands und einer der einflussreichsten Denker der Gegenwart. Als Erbe der Frankfurter Schule entwickelte er die Kritische Theorie weiter und begründete mit der Theorie des kommunikativen Handelns und der Diskursethik eine umfassende Gesellschaftstheorie. Sein Konzept der deliberativen Demokratie und der Öffentlichkeit prägt die politische Philosophie weltweit.",
+  "biografie": {
+    "fruehesLeben": "Jürgen Habermas wurde am 18. Juni 1929 in Düsseldorf geboren und wuchs in Gummersbach auf. Als Jugendlicher erlebte er das Ende des Nationalsozialismus und die Nürnberger Prozesse – Erfahrungen, die sein lebenslanges Engagement für Demokratie und Aufklärung prägten. Er wurde mit einer Gaumenspalte geboren, die mehrere Operationen erforderte und seine Kindheit beeinflusste. Er studierte Philosophie, Geschichte, Psychologie und Literaturwissenschaft in Göttingen, Zürich und Bonn und promovierte 1954 über Schelling. 1956 wurde er Assistent von Theodor W. Adorno am Institut für Sozialforschung in Frankfurt.",
+    "schaffen": "Habermas' Habilitationsschrift 'Strukturwandel der Öffentlichkeit' (1962) analysierte die Entstehung und den Verfall der bürgerlichen Öffentlichkeit und wurde zu einem Klassiker der politischen Theorie. Er lehrte in Heidelberg, Frankfurt und am Max-Planck-Institut in Starnberg. Sein Hauptwerk 'Theorie des kommunikativen Handelns' (1981) begründete eine umfassende Gesellschaftstheorie auf der Basis einer Theorie der Verständigung: Sprache ist das Medium, durch das sich Subjekte über die objektive, soziale und subjektive Welt verständigen. Kommunikatives Handeln – auf Verständigung gerichtetes Handeln – ist die Grundlage sozialer Integration. Die 'Diskursethik' (mit Karl-Otto Apel) begründet moralische Normen durch den herrschaftsfreien Diskurs: Nur diejenigen Normen sind gültig, denen alle Betroffenen in einem rationalen Diskurs zustimmen könnten. In 'Faktizität und Geltung' (1992) entwickelte Habermas seine Rechts- und Demokratietheorie, die Volkssouveränität und Menschenrechte als gleichursprünglich versteht.",
+    "spaetesLeben": "Auch nach seiner Emeritierung 1994 blieb Habermas einer der produktivsten und einflussreichsten Intellektuellen weltweit. Er engagierte sich in öffentlichen Debatten über die europäische Integration, den Irakkrieg, die Gentechnologie und die Rolle der Religion in säkularen Gesellschaften. Sein Werk 'Auch eine Geschichte der Philosophie' (2019) ist eine monumentale zweibändige Philosophiegeschichte, die die Genealogie des nachmetaphysischen Denkens nachzeichnet. Er erhielt zahlreiche Auszeichnungen, darunter den Friedenspreis des Deutschen Buchhandels (2001), den Kyoto-Preis und den Erasmus-Preis.",
+    "tod": "Jürgen Habermas lebt und arbeitet weiterhin in Starnberg bei München.",
+    "nachwirkung": "Habermas ist einer der meistzitierten Geistes- und Sozialwissenschaftler der Welt. Seine Theorie des kommunikativen Handelns, die Diskursethik und die deliberative Demokratietheorie haben die Philosophie, Soziologie, Politikwissenschaft und Rechtswissenschaft grundlegend beeinflusst. Er hat die Kritische Theorie der Frankfurter Schule in eine neue Phase überführt und sie für die Bedingungen der modernen pluralistischen Gesellschaft aktualisiert. Sein Konzept der Öffentlichkeit und des herrschaftsfreien Diskurses sind unverzichtbare Bezugspunkte der politischen Theorie."
+  },
+  "kernideen": [
+    {
+      "titel": "Kommunikatives Handeln",
+      "beschreibung": "Kommunikatives Handeln ist auf wechselseitige Verständigung gerichtet und bildet die Grundlage sozialer Integration. Im Gegensatz zum strategischen Handeln, das auf Erfolg ausgerichtet ist, zielt es auf das Einverständnis aller Beteiligten durch rationale Argumentation."
+    },
+    {
+      "titel": "Diskursethik",
+      "beschreibung": "Moralische Normen können nur in einem herrschaftsfreien Diskurs begründet werden, in dem alle Betroffenen gleichberechtigt teilnehmen. Eine Norm ist gültig, wenn ihr alle Betroffenen in einem rationalen Diskurs zustimmen könnten."
+    },
+    {
+      "titel": "Strukturwandel der Öffentlichkeit",
+      "beschreibung": "Die bürgerliche Öffentlichkeit entstand im 18. Jahrhundert als Raum der kritischen Diskussion zwischen Privatleuten. Im 20. Jahrhundert verfiel sie durch Kommerzialisierung, Massenmedien und die Vermischung von Staat und Gesellschaft."
+    },
+    {
+      "titel": "Deliberative Demokratie",
+      "beschreibung": "Demokratische Legitimität entsteht nicht allein durch Wahlen, sondern durch öffentliche Deliberation – den argumentativen Austausch in einer Öffentlichkeit, die allen Bürgern offen steht. Volkssouveränität und Menschenrechte sind gleichursprünglich."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Strukturwandel der Öffentlichkeit",
+      "jahr": "1962",
+      "beschreibung": "Die Habilitationsschrift analysiert die Entstehung der bürgerlichen Öffentlichkeit im 18. Jahrhundert und ihren Verfall in der modernen Massendemokratie."
+    },
+    {
+      "titel": "Erkenntnis und Interesse",
+      "jahr": "1968",
+      "beschreibung": "Eine erkenntnistheoretische Grundlegung der Kritischen Theorie, die drei erkenntnisleitende Interessen identifiziert: das technische, das praktische und das emanzipatorische Interesse."
+    },
+    {
+      "titel": "Theorie des kommunikativen Handelns",
+      "jahr": "1981",
+      "beschreibung": "Habermas' zweibändiges Hauptwerk begründet eine Gesellschaftstheorie auf der Basis einer Theorie sprachlicher Verständigung und analysiert die Pathologien der modernen Gesellschaft als Kolonialisierung der Lebenswelt durch System-Imperative."
+    },
+    {
+      "titel": "Der philosophische Diskurs der Moderne",
+      "jahr": "1985",
+      "beschreibung": "Eine kritische Auseinandersetzung mit dem Poststrukturalismus und der Postmoderne, in der Habermas das Projekt der Moderne gegen seine Kritiker verteidigt."
+    },
+    {
+      "titel": "Faktizität und Geltung",
+      "jahr": "1992",
+      "beschreibung": "Habermas' Rechts- und Demokratietheorie verbindet Rechtsphilosophie und Demokratietheorie und begründet die deliberative Demokratie."
+    },
+    {
+      "titel": "Auch eine Geschichte der Philosophie",
+      "jahr": "2019",
+      "beschreibung": "Ein monumentales zweibändiges Werk, das die Geschichte der westlichen Philosophie als Genealogie des nachmetaphysischen Denkens erzählt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Moderne – ein unvollendetes Projekt.",
+      "quelle": "Kleine Politische Schriften",
+      "kontext": "Habermas' programmatische These, dass das Projekt der Aufklärung fortgesetzt und nicht aufgegeben werden muss."
+    },
+    {
+      "text": "In den Strukturen der sprachlichen Kommunikation ist immer schon die Idee einer vernünftigen Einigung angelegt.",
+      "quelle": "Theorie des kommunikativen Handelns",
+      "kontext": "Die Grundthese, dass Sprache selbst auf Verständigung und Rationalität angelegt ist."
+    },
+    {
+      "text": "Nur die Regeln und kommunikativen Voraussetzungen, die eine gleichberechtigte Teilnahme aller ermöglichen, haben Anspruch auf Geltung.",
+      "quelle": "Moralbewußtsein und kommunikatives Handeln",
+      "kontext": "Der Grundsatz der Diskursethik als Verfahren zur Begründung moralischer Normen."
+    }
+  ],
+  "verwandtePhilosophen": ["theodor-w-adorno", "max-horkheimer", "karl-popper", "john-rawls", "john-dewey", "hannah-arendt"],
+  "verwandteIsmen": ["kritische-theorie", "diskursethik", "deliberative-demokratie", "frankfurter-schule"]
+}

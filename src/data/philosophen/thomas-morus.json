@@ -1,0 +1,50 @@
+{
+  "slug": "thomas-morus",
+  "name": "Thomas Morus",
+  "lebensdaten": "1478–1535",
+  "geboren": { "jahr": 1478, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "gestorben": { "jahr": 1535, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "epoche": "Renaissance",
+  "region": "England",
+  "hauptstroemungen": ["Humanismus", "Utopismus", "Politische Philosophie"],
+  "kurzbeschreibung": "Thomas Morus war ein englischer Staatsmann, Humanist und Schriftsteller, der als Lordkanzler unter Heinrich VIII. diente. Sein Werk 'Utopia' begründete das Genre der utopischen Literatur und entwarf das Bild einer idealen Gesellschaft. Er wurde hingerichtet, weil er sich weigerte, die Suprematsakte anzuerkennen, und 1935 von der katholischen Kirche heiliggesprochen.",
+  "biografie": {
+    "fruehesLeben": "Thomas More (lateinisch Morus) wurde am 7. Februar 1478 in London als Sohn des angesehenen Juristen Sir John More geboren. Er besuchte die St.-Anthony-Schule und wurde im Alter von zwölf Jahren als Page in den Haushalt von Erzbischof John Morton aufgenommen, der sein Talent erkannte und ihn förderte. Ab 1492 studierte er an der Universität Oxford, wo er sich intensiv mit den lateinischen und griechischen Klassikern beschäftigte und die Bekanntschaft führender Humanisten machte. Auf Wunsch seines Vaters wechselte er zum Jurastudium an die Inns of Court in London. Während dieser Zeit erwog er ernsthaft, in ein Kartäuserkloster einzutreten und lebte mehrere Jahre in strenger asketischer Disziplin. Schließlich entschied er sich für eine weltliche Laufbahn und heiratete 1505 Jane Colt, mit der er vier Kinder hatte.",
+    "schaffen": "Morus' literarisches und politisches Schaffen war eng miteinander verwoben. Sein Hauptwerk 'Utopia', 1516 in lateinischer Sprache veröffentlicht, beschreibt eine fiktive Inselgesellschaft, in der Privateigentum abgeschafft ist, religiöse Toleranz herrscht und das Gemeinwohl oberste Priorität genießt. Das Werk ist sowohl eine scharfsinnige Kritik an den sozialen Missständen des zeitgenössischen England als auch ein philosophisches Gedankenexperiment über die Möglichkeit einer gerechten Gesellschaft. Morus pflegte eine enge Freundschaft mit Erasmus von Rotterdam, der ihm das 'Lob der Torheit' widmete (der lateinische Titel 'Moriae Encomium' ist ein Wortspiel mit Morus' Namen). Als Jurist und Parlamentsmitglied erwarb sich Morus einen Ruf für Integrität und Gelehrsamkeit. König Heinrich VIII. schätzte ihn als Berater und Humanisten und erhob ihn 1529 zum Lordkanzler – das höchste Amt nach dem König. In dieser Funktion ging Morus allerdings auch streng gegen protestantische Ketzer vor.",
+    "spaetesLeben": "Die Krise in Morus' Leben begann mit Heinrichs VIII. Wunsch, seine Ehe mit Katharina von Aragon annullieren zu lassen, um Anne Boleyn heiraten zu können. Als der Papst die Annullierung verweigerte, brach Heinrich mit Rom und erklärte sich zum Oberhaupt der Kirche von England. Morus konnte diesen Schritt aus Gewissensgründen nicht mittragen. 1532 trat er als Lordkanzler zurück und zog sich ins Privatleben zurück. Er versuchte, durch Schweigen einer direkten Konfrontation mit dem König auszuweichen, doch 1534 weigerte er sich, den Eid auf die Suprematsakte zu leisten. Er wurde im Tower von London eingekerkert, wo er über ein Jahr in Haft verbrachte und mehrere seiner tiefgründigsten Werke verfasste, darunter den 'Dialog des Trostes in Trübsal'.",
+    "tod": "Am 6. Juli 1535 wurde Thomas Morus auf dem Tower Hill in London wegen Hochverrats enthauptet. Auf dem Schafott soll er erklärt haben, er sterbe als 'des Königs guter Diener, aber zuerst als Diener Gottes'. Seine letzte Geste war es, seinen Bart zur Seite zu legen, da dieser, wie er scherzte, keinen Verrat begangen habe. Sein Haupt wurde auf der London Bridge aufgespießt. 1886 wurde er von der katholischen Kirche seliggesprochen und 1935 heiliggesprochen. Im Jahr 2000 erklärte Papst Johannes Paul II. ihn zum Patron der Regierenden und Politiker.",
+    "nachwirkung": "Thomas Morus' 'Utopia' schuf ein völlig neues literarisches Genre und prägte den Begriff 'Utopie' (wörtlich: Nicht-Ort), der seither für Entwürfe idealer Gesellschaften verwendet wird. Sein Einfluss erstreckt sich von der politischen Philosophie über die Sozialtheorie bis zur Science-Fiction. Denker wie Karl Marx, Friedrich Engels und Ernst Bloch sahen in ihm einen Vorläufer des Sozialismus. Robert Bolt verewigte sein Schicksal im preisgekrönten Drama 'A Man for All Seasons' (1960). Morus gilt bis heute als Symbol für die Unantastbarkeit des Gewissens gegenüber staatlicher Macht."
+  },
+  "kernideen": [
+    {
+      "titel": "Utopie als Gesellschaftskritik",
+      "beschreibung": "Morus nutzte die Beschreibung einer idealen Gesellschaft als Spiegel zur Kritik realer Missstände. Die Utopie dient nicht als konkreter Bauplan, sondern als Denkwerkzeug, um bestehende Verhältnisse zu hinterfragen und Alternativen vorstellbar zu machen."
+    },
+    {
+      "titel": "Gemeinschaftliches Eigentum",
+      "beschreibung": "In Utopia ist Privateigentum abgeschafft und alle Güter werden gemeinschaftlich genutzt. Morus sah im Privatbesitz die Wurzel sozialer Ungleichheit und argumentierte, dass erst die Aufhebung des Eigentums wahre Gerechtigkeit ermöglicht."
+    },
+    {
+      "titel": "Gewissensfreiheit",
+      "beschreibung": "Morus verteidigte das Recht des Einzelnen, seinem Gewissen zu folgen, selbst gegen die Macht des Staates. Sein Martyrium wurde zum Symbol für den Vorrang des individuellen Gewissens vor staatlichen Loyalitätsforderungen."
+    },
+    {
+      "titel": "Religiöse Toleranz",
+      "beschreibung": "In Utopia herrscht weitgehende Religionsfreiheit – verschiedene Glaubensrichtungen werden toleriert, solange sie die öffentliche Ordnung nicht gefährden. Dies war für die Zeit ein revolutionärer Gedanke, der allerdings im Widerspruch zu Morus' eigener Verfolgung von Ketzern stand."
+    }
+  ],
+  "werke": [
+    { "titel": "Utopia", "jahr": "1516", "beschreibung": "Morus' Hauptwerk beschreibt die fiktive Inselrepublik Utopia, in der Privateigentum abgeschafft ist, alle Bürger arbeiten und religiöse Toleranz herrscht. Es begründete das Genre der utopischen Literatur und den Begriff 'Utopie'." },
+    { "titel": "Geschichte König Richards III.", "jahr": "1513", "beschreibung": "Eine historische Darstellung der Herrschaft Richards III., die als Meisterwerk der Tudor-Geschichtsschreibung gilt und Shakespeares Drama über den König maßgeblich beeinflusste." },
+    { "titel": "Dialog des Trostes in Trübsal", "jahr": "1534", "beschreibung": "Ein im Tower von London verfasster Dialog über das Ertragen von Leid und Verfolgung um des Gewissens willen – Morus' persönlichstes und tiefsinniges Spätwerk." },
+    { "titel": "Vier letzte Dinge", "jahr": "1522", "beschreibung": "Eine Meditation über Tod, Gericht, Hölle und Himmel – die vier letzten Dinge der christlichen Eschatologie." },
+    { "titel": "Responsio ad Lutherum", "jahr": "1523", "beschreibung": "Eine polemische Antwort auf Martin Luthers Angriffe auf König Heinrich VIII., in der Morus die katholische Lehre verteidigt." }
+  ],
+  "zitate": [
+    { "text": "Ich sterbe als des Königs guter Diener, aber zuerst als Diener Gottes.", "quelle": "Letzte Worte auf dem Schafott, 1535", "kontext": "Morus' berühmtester Ausspruch, der seinen Vorrang des göttlichen Gesetzes vor der weltlichen Macht zum Ausdruck bringt." },
+    { "text": "Überall wo Privatbesitz herrscht, wo alles an Geld gemessen wird, da wird kaum jemals eine gerechte und glückliche Politik möglich sein.", "quelle": "Utopia, Buch I", "kontext": "Eine der zentralen Thesen der Utopia, die das Privateigentum als Quelle sozialer Ungerechtigkeit identifiziert." },
+    { "text": "Der gewöhnliche Mensch ist der Friede des Geistes weit mehr wert als ein Finger des Heiligen Petrus.", "quelle": "Dialog des Trostes in Trübsal", "kontext": "Morus betont die Bedeutung des inneren Friedens gegenüber äußerlichen religiösen Praktiken." }
+  ],
+  "verwandtePhilosophen": ["erasmus-von-rotterdam", "niccolo-machiavelli", "francis-bacon", "karl-marx"],
+  "verwandteIsmen": ["humanismus", "utopismus", "sozialismus"]
+}

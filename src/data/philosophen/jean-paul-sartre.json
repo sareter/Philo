@@ -1,0 +1,123 @@
+{
+  "slug": "jean-paul-sartre",
+  "name": "Jean-Paul Sartre",
+  "lebensdaten": "1905–1980",
+  "geboren": {
+    "jahr": 1905,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "gestorben": {
+    "jahr": 1980,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Existenzialismus", "Phänomenologie", "Marxismus"],
+  "kurzbeschreibung": "Jean-Paul Sartre war der bekannteste Vertreter des Existenzialismus und einer der einflussreichsten Intellektuellen des 20. Jahrhunderts. Mit seinem Grundsatz 'Die Existenz geht der Essenz voraus' formulierte er eine radikal freiheitliche Philosophie der menschlichen Selbstbestimmung. Als Philosoph, Romancier, Dramatiker und politischer Aktivist verkörperte er das Ideal des engagierten Intellektuellen.",
+  "biografie": {
+    "fruehesLeben": "Jean-Paul Charles Aymard Sartre wurde am 21. Juni 1905 in Paris geboren. Sein Vater, ein Marineoffizier, starb, als Sartre zwei Jahre alt war. Er wuchs bei seiner Mutter Anne-Marie und seinem Großvater mütterlicherseits, dem Elsässer Charles Schweitzer (einem Onkel von Albert Schweitzer), auf. Seine Kindheit beschrieb er später in der Autobiografie 'Die Wörter' als eine Welt der Bücher und der Einbildungskraft. Er besuchte das Lycée Henri-IV und das Lycée Louis-le-Grand und studierte an der École Normale Supérieure (1924–1929), wo er Simone de Beauvoir kennenlernte, die seine lebenslange Gefährtin wurde. 1929 bestand er die Agrégation in Philosophie als Jahrgangsbester. Ein Studienjahr am Institut Français in Berlin (1933–1934) brachte ihm die Phänomenologie Husserls und Heideggers nahe.",
+    "schaffen": "Sartres philosophisches Hauptwerk 'Das Sein und das Nichts' (1943) entwickelte eine phänomenologische Ontologie, die den Menschen als radikal frei und zur Freiheit verurteilt bestimmte. Die zentrale Unterscheidung zwischen dem 'An-sich-Sein' (der Dingwelt) und dem 'Für-sich-Sein' (dem Bewusstsein als Nichtung) bildet das Fundament seiner Philosophie. Der berühmte Vortrag 'Der Existenzialismus ist ein Humanismus' (1945) machte den Existenzialismus zur populärsten philosophischen Strömung der Nachkriegszeit. Als Literat verfasste er den Roman 'Der Ekel' (1938), die Romantrilogie 'Die Wege der Freiheit' (1945–1949) und bedeutende Dramen wie 'Die Fliegen' (1943), 'Geschlossene Gesellschaft' (1944), 'Die schmutzigen Hände' (1948) und 'Der Teufel und der liebe Gott' (1951). In seiner späten Philosophie wandte er sich dem Marxismus zu und versuchte in der 'Kritik der dialektischen Vernunft' (1960) eine Synthese von Existenzialismus und Marxismus. Er gründete die Zeitschrift 'Les Temps Modernes' (1945) und engagierte sich politisch gegen den Algerienkrieg, den Vietnamkrieg und für die Studentenbewegung von 1968.",
+    "spaetesLeben": "In seinen letzten Lebensjahrzehnten war Sartre eine der prominentesten öffentlichen Figuren Frankreichs und der Welt. 1964 lehnte er den Nobelpreis für Literatur ab – ein beispielloser Akt, mit dem er seine Unabhängigkeit demonstrierte. Er engagierte sich für die 68er-Bewegung, verteilte maoistische Flugblätter auf der Straße und übernahm die Herausgeberschaft linksradikaler Zeitungen. Sein monumentales Werk über Gustave Flaubert, 'Der Idiot der Familie' (1971–1972), blieb unvollendet. Ab Mitte der 1970er Jahre erblindete er fast vollständig und konnte nicht mehr schreiben – ein für ihn vernichtender Zustand. In seinen letzten Jahren arbeitete er mit seinem jungen Sekretär Benny Lévy an Gesprächen, die posthum kontrovers aufgenommen wurden.",
+    "tod": "Jean-Paul Sartre starb am 15. April 1980 in Paris an einem Lungenödem. Sein Begräbnis auf dem Friedhof Montparnasse wurde zu einem Massenereignis: Über 50.000 Menschen folgten dem Sarg durch die Straßen von Paris – ein letztes Zeugnis der enormen Wirkung, die dieser Denker auf seine Zeit ausgeübt hatte.",
+    "nachwirkung": "Sartres Einfluss auf die Philosophie, Literatur und politische Kultur des 20. Jahrhunderts ist enorm. Er machte den Existenzialismus zur weltweit bekannten philosophischen Bewegung und prägte das Bild des engagierten Intellektuellen. Sein Freiheitsbegriff, seine Analyse der Unaufrichtigkeit (mauvaise foi) und seine Theorie des Blicks wirkten auf die gesamte Nachkriegsphilosophie. Obwohl der Poststrukturalismus sich kritisch von Sartre abgrenzte, bleibt sein Werk ein unverzichtbarer Bezugspunkt der modernen Philosophie."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Existenz geht der Essenz voraus",
+      "beschreibung": "Der Mensch hat kein vorgegebenes Wesen – er existiert zuerst und bestimmt dann durch seine Handlungen, wer er ist. Es gibt keine menschliche Natur, die den Menschen determiniert; er ist das, was er aus sich macht."
+    },
+    {
+      "titel": "Radikale Freiheit und Verantwortung",
+      "beschreibung": "Der Mensch ist zur Freiheit verurteilt. Er kann nicht nicht wählen – auch die Verweigerung der Wahl ist eine Wahl. Mit dieser absoluten Freiheit geht eine ebenso absolute Verantwortung einher: Der Mensch ist verantwortlich für alles, was er ist und tut."
+    },
+    {
+      "titel": "Unaufrichtigkeit (Mauvaise foi)",
+      "beschreibung": "Die Unaufrichtigkeit ist die Flucht vor der eigenen Freiheit. Der Mensch täuscht sich selbst, indem er so tut, als sei er durch äußere Umstände, seine Natur oder gesellschaftliche Rollen determiniert, um der Angst vor seiner Freiheit zu entkommen."
+    },
+    {
+      "titel": "Der Blick (Le regard)",
+      "beschreibung": "Im Blick des Anderen werde ich zum Objekt – ich erfahre mich als Ding unter dem Urteil eines fremden Bewusstseins. Die Beziehung zu anderen ist daher grundlegend konflikthaft: 'Die Hölle, das sind die anderen.'"
+    },
+    {
+      "titel": "Engagement",
+      "beschreibung": "Der Intellektuelle hat die Pflicht, sich politisch zu engagieren. Philosophie darf nicht im Elfenbeinturm verharren, sondern muss auf die Veränderung der Welt abzielen. Sartre verstand Literatur und Philosophie als Formen politischen Handelns."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Der Ekel (La Nausée)",
+      "jahr": "1938",
+      "beschreibung": "Sartres erster Roman schildert die existenzielle Krise des Antoine Roquentin, der die Kontingenz und Absurdität der Existenz in der 'Übelkeit' erfährt – dem Gefühl der grundlosen Faktizität aller Dinge."
+    },
+    {
+      "titel": "Das Sein und das Nichts (L'Être et le Néant)",
+      "jahr": "1943",
+      "beschreibung": "Sartres philosophisches Hauptwerk entwickelt eine phänomenologische Ontologie des Bewusstseins als Nichtung (néantisation) und begründet die existenzialistische Philosophie der radikalen Freiheit."
+    },
+    {
+      "titel": "Die Fliegen (Les Mouches)",
+      "jahr": "1943",
+      "beschreibung": "Ein Drama, das den antiken Orest-Mythos als Allegorie auf die Situation im besetzten Frankreich nutzt und die existenzialistische Freiheitsphilosophie dramatisch inszeniert."
+    },
+    {
+      "titel": "Geschlossene Gesellschaft (Huis clos)",
+      "jahr": "1944",
+      "beschreibung": "Sartres berühmtestes Drama: Drei Tote finden sich in einem Hotelzimmer in der Hölle wieder und erkennen, dass 'die Hölle die anderen sind' – eine dramatische Inszenierung der Philosophie des Blicks."
+    },
+    {
+      "titel": "Der Existenzialismus ist ein Humanismus",
+      "jahr": "1946",
+      "beschreibung": "Der berühmte Vortrag, in dem Sartre den Existenzialismus gegen seine Kritiker verteidigt und die Grundthesen seiner Philosophie populär zusammenfasst."
+    },
+    {
+      "titel": "Kritik der dialektischen Vernunft",
+      "jahr": "1960",
+      "beschreibung": "Sartres Versuch einer Synthese von Existenzialismus und Marxismus, in dem er eine Theorie der geschichtlichen Praxis und der sozialen Gruppen entwickelt."
+    },
+    {
+      "titel": "Die Wörter (Les Mots)",
+      "jahr": "1964",
+      "beschreibung": "Sartres autobiografisches Meisterwerk beschreibt seine Kindheit und die Entstehung seiner Berufung zum Schriftsteller mit brillanter Selbstironie und existenzialistischer Selbstanalyse."
+    },
+    {
+      "titel": "Der Idiot der Familie (L'Idiot de la famille)",
+      "jahr": "1971–1972",
+      "beschreibung": "Sartres monumentale, unvollendete Studie über Gustave Flaubert, in der er seine existenzialistische Psychoanalyse und marxistische Gesellschaftsanalyse zu einer umfassenden Methode der Biografik vereint."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Existenz geht der Essenz voraus.",
+      "quelle": "Der Existenzialismus ist ein Humanismus",
+      "kontext": "Der Grundsatz des Existenzialismus: Der Mensch existiert zuerst und bestimmt sich dann selbst."
+    },
+    {
+      "text": "Der Mensch ist verurteilt, frei zu sein.",
+      "quelle": "Der Existenzialismus ist ein Humanismus",
+      "kontext": "Die paradoxe Formulierung der menschlichen Freiheit als unausweichliches Schicksal."
+    },
+    {
+      "text": "Die Hölle, das sind die anderen.",
+      "quelle": "Geschlossene Gesellschaft",
+      "kontext": "Der berühmteste Satz Sartres, oft missverstanden als Misanthropie, meint die Abhängigkeit vom Urteil der anderen."
+    },
+    {
+      "text": "Der Mensch ist nichts anderes als das, wozu er sich macht.",
+      "quelle": "Der Existenzialismus ist ein Humanismus",
+      "kontext": "Die existenzialistische Grundüberzeugung, dass der Mensch durch seine Handlungen definiert wird."
+    },
+    {
+      "text": "Jede Wahl impliziert den ganzen Menschen.",
+      "quelle": "Das Sein und das Nichts",
+      "kontext": "Jede Entscheidung betrifft nicht nur eine isolierte Handlung, sondern das gesamte Selbstverständnis des Menschen."
+    }
+  ],
+  "verwandtePhilosophen": ["simone-de-beauvoir", "albert-camus", "martin-heidegger", "edmund-husserl", "maurice-merleau-ponty", "michel-foucault"],
+  "verwandteIsmen": ["existenzialismus", "phaenomenologie", "marxismus", "humanismus"]
+}

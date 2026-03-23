@@ -1,0 +1,99 @@
+{
+  "slug": "alfred-north-whitehead",
+  "name": "Alfred North Whitehead",
+  "lebensdaten": "1861–1947",
+  "geboren": {
+    "jahr": 1861,
+    "ort": "Ramsgate",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.3361,
+    "lng": 1.4165
+  },
+  "gestorben": {
+    "jahr": 1947,
+    "ort": "Cambridge",
+    "land": "USA",
+    "lat": 42.3736,
+    "lng": -71.1097
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Prozessphilosophie", "Logik", "Metaphysik"],
+  "kurzbeschreibung": "Alfred North Whitehead war ein britisch-amerikanischer Mathematiker und Philosoph, der zusammen mit Bertrand Russell die 'Principia Mathematica' verfasste und im Spätwerk eine der originellsten metaphysischen Systeme des 20. Jahrhunderts entwickelte – die Prozessphilosophie. Seine Vision einer dynamischen, relationalen Wirklichkeit beeinflusst bis heute Philosophie, Theologie, Ökologie und theoretische Physik.",
+  "biografie": {
+    "fruehesLeben": "Alfred North Whitehead wurde am 15. Februar 1861 in Ramsgate, Kent, als Sohn eines anglikanischen Geistlichen und Schulleiters geboren. Er besuchte die Sherborne School und studierte ab 1880 Mathematik am Trinity College in Cambridge, wo er Fellow und Dozent wurde. Er heiratete 1890 Evelyn Wade, mit der er drei Kinder hatte. Sein ältester Sohn Eric fiel 1918 im Ersten Weltkrieg – ein Verlust, der sein späteres metaphysisches Denken über das Vergehen und die Bewahrung des Vergangenen in Gott tief beeinflusste.",
+    "schaffen": "Whiteheads intellektuelles Leben gliedert sich in drei Phasen. In der ersten Phase (Cambridge, 1884–1910) widmete er sich der Mathematik und Logik. Zusammen mit seinem Schüler Bertrand Russell verfasste er das monumentale Werk 'Principia Mathematica' (1910–1913), das die Mathematik auf logische Grundlagen zu stellen versuchte. In der zweiten Phase (London, 1910–1924) lehrte er am Imperial College und University College London und wandte sich der Naturphilosophie und Wissenschaftstheorie zu. Er kritisierte die 'Bifurkation der Natur' – die Trennung in eine 'wirkliche' physische und eine 'bloß subjektive' Erfahrungswelt – als philosophischen Irrtum. In der dritten Phase (Harvard, 1924–1947) entwickelte er seine Prozessphilosophie. Sein Hauptwerk 'Process and Reality' (1929) entwarf eine umfassende spekulative Kosmologie, in der die Wirklichkeit aus 'aktualen Entitäten' (actual entities) besteht – momentanen Erfahrungsereignissen, die entstehen und vergehen. Alles Wirkliche ist Prozess; Substanzen sind Abstraktionen.",
+    "spaetesLeben": "Whitehead lehrte bis 1937 in Harvard und blieb auch nach seiner Emeritierung intellektuell aktiv. Er pflegte ein offenes Haus, in dem Studenten und Kollegen zu anregenden Gesprächen eingeladen waren. Seine Frau Evelyn war eine zentrale Figur in diesem intellektuellen Salon. In seinen letzten Lebensjahren veröffentlichte er 'Adventures of Ideas' (1933) und 'Modes of Thought' (1938).",
+    "tod": "Alfred North Whitehead starb am 30. Dezember 1947 in Cambridge, Massachusetts, im Alter von 86 Jahren. Gemäß seinem Wunsch wurde sein gesamter Nachlass von seiner Frau vernichtet – ein unwiederbringlicher Verlust für die Philosophie.",
+    "nachwirkung": "Whiteheads Prozessphilosophie begründete eine eigenständige philosophische Tradition, die in der Prozesstheologie (Charles Hartshorne, John Cobb), der Ökophilosophie und der theoretischen Biologie fortlebt. Seine Kritik an der mechanistischen Naturauffassung und seine relational-prozessuale Ontologie gewinnen in der Ära der Quantenphysik und der Ökologiekrise neue Aktualität. Denker wie Isabelle Stengers, Bruno Latour und Donna Haraway knüpfen an sein Werk an."
+  },
+  "kernideen": [
+    {
+      "titel": "Prozessphilosophie",
+      "beschreibung": "Die Wirklichkeit besteht nicht aus statischen Substanzen, sondern aus Prozessen des Werdens. Die elementaren Einheiten der Wirklichkeit sind 'aktuale Entitäten' – momentane Erfahrungsereignisse, die entstehen, andere Erfahrungen aufnehmen ('Prehension') und vergehen."
+    },
+    {
+      "titel": "Der Trugschluss der fehlplatzierten Konkretheit",
+      "beschreibung": "Whitehead warnt vor dem Irrtum, Abstraktionen für konkrete Wirklichkeit zu halten. Die mechanistische Naturauffassung verwechselt ihre mathematischen Abstraktionen mit der lebendigen Erfahrungswirklichkeit."
+    },
+    {
+      "titel": "Kreativität als letzte Kategorie",
+      "beschreibung": "Kreativität ist die 'Kategorie des Letzten' – das universale Prinzip, durch das das Viele zu einer neuen Einheit wird. Jede aktuale Entität ist ein schöpferischer Akt der Synthese."
+    },
+    {
+      "titel": "Gott und die Welt",
+      "beschreibung": "Gott hat zwei Naturen: die 'Urnatur' (primordial nature), die alle ewigen Objekte (Möglichkeiten) umfasst, und die 'Folgenatur' (consequent nature), die das Vergangene aufbewahrt und in der nichts verloren geht."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Principia Mathematica (mit Bertrand Russell)",
+      "jahr": "1910–1913",
+      "beschreibung": "Das dreibändige Monumentalwerk versucht, die gesamte Mathematik aus logischen Axiomen abzuleiten – eines der ambitioniertesten intellektuellen Projekte der Geschichte."
+    },
+    {
+      "titel": "Science and the Modern World",
+      "jahr": "1925",
+      "beschreibung": "Eine Geschichte der Naturwissenschaft und ihrer philosophischen Voraussetzungen, die die Grenzen der mechanistischen Weltanschauung aufzeigt."
+    },
+    {
+      "titel": "Process and Reality",
+      "jahr": "1929",
+      "beschreibung": "Whiteheads spekulatives Hauptwerk entwickelt eine umfassende Kosmologie auf der Grundlage der Prozessphilosophie. Es gilt als eines der schwierigsten und originellsten philosophischen Werke des 20. Jahrhunderts."
+    },
+    {
+      "titel": "Adventures of Ideas",
+      "jahr": "1933",
+      "beschreibung": "Eine kultur- und ideengeschichtliche Darstellung, die die Wirkung philosophischer und wissenschaftlicher Ideen auf die Entwicklung der Zivilisation untersucht."
+    },
+    {
+      "titel": "Modes of Thought",
+      "jahr": "1938",
+      "beschreibung": "Eine zugängliche Sammlung von Vorlesungen, die die Grundideen der Prozessphilosophie in kompakter Form darstellt."
+    },
+    {
+      "titel": "The Concept of Nature",
+      "jahr": "1920",
+      "beschreibung": "Eine Naturphilosophie, die die 'Bifurkation der Natur' in eine physische und eine subjektive Welt kritisiert und für eine einheitliche Naturauffassung argumentiert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die sicherste allgemeine Kennzeichnung der europäischen philosophischen Tradition besteht darin, daß sie eine Reihe von Fußnoten zu Platon darstellt.",
+      "quelle": "Process and Reality",
+      "kontext": "Whiteheads berühmteste Formulierung über die Dominanz des platonischen Denkens in der westlichen Philosophie."
+    },
+    {
+      "text": "Es verlangt ein sehr ungewöhnliches Denken, das Selbstverständliche zu analysieren.",
+      "quelle": "Science and the Modern World",
+      "kontext": "Die Aufgabe der Philosophie, die selbstverständlichen Voraussetzungen unseres Denkens zu hinterfragen."
+    },
+    {
+      "text": "Die Kunst des Fortschritts besteht darin, inmitten des Wandels Ordnung zu bewahren und inmitten der Ordnung Wandel zu bewahren.",
+      "quelle": "Process and Reality",
+      "kontext": "Whiteheads Verständnis von Fortschritt als dialektisches Zusammenspiel von Ordnung und Kreativität."
+    }
+  ],
+  "verwandtePhilosophen": ["bertrand-russell", "william-james", "gottlob-frege", "willard-van-orman-quine", "ernst-cassirer"],
+  "verwandteIsmen": ["prozessphilosophie", "logizismus", "organismus-philosophie", "metaphysik"]
+}

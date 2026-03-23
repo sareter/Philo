@@ -1,0 +1,52 @@
+{
+  "slug": "thomas-hobbes",
+  "name": "Thomas Hobbes",
+  "lebensdaten": "1588–1679",
+  "geboren": { "jahr": 1588, "ort": "Westport bei Malmesbury", "land": "England", "lat": 51.5859, "lng": -2.0991 },
+  "gestorben": { "jahr": 1679, "ort": "Hardwick Hall, Derbyshire", "land": "England", "lat": 53.1691, "lng": -1.3145 },
+  "epoche": "Aufklärung",
+  "region": "England",
+  "hauptstroemungen": ["Kontraktualismus", "Materialismus", "Politische Philosophie"],
+  "kurzbeschreibung": "Thomas Hobbes war ein englischer Philosoph, der mit seinem Werk 'Leviathan' die moderne politische Philosophie begründete. Seine Theorie des Gesellschaftsvertrags, die den Staat als rationale Übereinkunft zur Überwindung des chaotischen Naturzustandes deutet, wurde zum Fundament der neuzeitlichen Staatstheorie. Sein berühmter Ausspruch, das Leben im Naturzustand sei 'einsam, armselig, schmutzig, tierisch und kurz', ist zu einem Schlüsselzitat der politischen Philosophie geworden.",
+  "biografie": {
+    "fruehesLeben": "Thomas Hobbes wurde am 5. April 1588 in Westport bei Malmesbury in Wiltshire geboren. Seine Mutter wurde durch die Nachricht von der herannahenden Spanischen Armada so erschreckt, dass sie vorzeitig niederkam – Hobbes selbst bemerkte später, dass 'die Furcht und ich als Zwillinge geboren wurden'. Sein Vater, ein ungebildeter Dorfpfarrer, verließ die Familie nach einer Schlägerei und verschwand spurlos. Der begabte Junge wurde von einem wohlhabenden Onkel aufgezogen und gefördert. Mit vierzehn Jahren trat er in das Magdalen College in Oxford ein, wo er fünf Jahre lang die scholastische Philosophie studierte, die ihn jedoch nicht befriedigte. 1608 wurde er Hauslehrer des jungen William Cavendish, des späteren Earl of Devonshire, und blieb der Familie Cavendish sein ganzes Leben lang verbunden. In dieser Stellung unternahm er mehrere Grand Tours durch Europa, die ihm den Kontakt mit führenden Gelehrten ermöglichten.",
+    "schaffen": "Hobbes' intellektuelle Entwicklung war ein langer Reifungsprozess. Auf seiner dritten Europatour (1634–1637) traf er in Paris Marin Mersenne und dessen gelehrten Kreis, zu dem auch Descartes und Gassendi gehörten, und in Florenz den greisen Galilei. Diese Begegnungen festigten seine materialistische und mechanistische Weltanschauung. Im englischen Bürgerkrieg floh er 1640 nach Paris, wo er elf Jahre im Exil lebte und sein Hauptwerk 'Leviathan' (1651) verfasste. Das Werk entwickelt eine umfassende politische Theorie aus materialistischen Grundannahmen: Im Naturzustand, einem hypothetischen Zustand ohne staatliche Ordnung, herrscht ein 'Krieg aller gegen alle', da die Menschen von Natur aus gleichartig und gleichermassen verletzlich sind und um knappe Ressourcen konkurrieren. Um diesem elenden Zustand zu entkommen, schließen die Menschen einen Gesellschaftsvertrag und übertragen ihre Rechte auf einen souveränen Herrscher (den 'Leviathan'), der im Gegenzug für Frieden und Sicherheit sorgt. Neben der politischen Philosophie leistete Hobbes bedeutende Beiträge zur Erkenntnistheorie, Sprachphilosophie und Psychologie. Seine materialistische Philosophie, die alle Phänomene – einschließlich des Denkens und Fühlens – auf Bewegungen materieller Körper zurückführte, war für seine Zeit radikal.",
+    "spaetesLeben": "Nach der Veröffentlichung des 'Leviathan' geriet Hobbes in Konflikt sowohl mit den royalistischen Emigranten in Paris (die seine Lehre von der Unterwerfung unter die faktische Macht ablehnten) als auch mit der Kirche (die seinen Materialismus als atheistisch verurteilte). Er kehrte 1651 nach England zurück und unterwarf sich dem Commonwealth Oliver Cromwells. Nach der Restauration der Stuarts 1660 genoss er die Gunst Karls II., der ihn als Hauslehrer geschätzt hatte, doch seine Werke blieben umstritten. 1666, nach der Großen Pest und dem Großen Brand von London, wurde im Parlament ein Gesetz gegen Atheismus und Blasphemie diskutiert, bei dem Hobbes' 'Leviathan' ausdrücklich genannt wurde. Er durfte fortan in England keine Schriften zur Politik mehr veröffentlichen. In seinen letzten Jahren widmete er sich der Übersetzung von Homers 'Ilias' und 'Odyssee' und führte einen langwierigen Streit mit dem Mathematiker John Wallis über die Quadratur des Kreises.",
+    "tod": "Thomas Hobbes starb am 4. Dezember 1679 auf Hardwick Hall in Derbyshire, dem Landsitz der Familie Cavendish, im hohen Alter von 91 Jahren. Seine letzten überlieferten Worte sollen gewesen sein: 'Ich bin dabei, den letzten großen Sprung ins Dunkel zu tun.' Er wurde in der Kirche von Ault Hucknall in Derbyshire beigesetzt. Auf seinem Grabstein steht lediglich: 'Vir probus et fama eruditionis domi forisque bene cognitus' (Ein rechtschaffener Mann, bekannt für seine Gelehrsamkeit in der Heimat und im Ausland).",
+    "nachwirkung": "Hobbes gilt als einer der Begründer der modernen politischen Philosophie. Seine Idee des Gesellschaftsvertrags wurde von Locke, Rousseau und Kant weiterentwickelt und bildet bis heute die theoretische Grundlage des liberalen Staatsverständnisses. Sein Materialismus und sein mechanistisches Menschenbild beeinflussten die Aufklärung und die Entwicklung der Verhaltenswissenschaften. In der zeitgenössischen politischen Philosophie sind seine Ideen durch John Rawls und David Gauthier aktualisiert worden. Die Spieltheorie und die Theorie der rationalen Entscheidung greifen direkt auf Hobbes'sche Problemstellungen zurück."
+  },
+  "kernideen": [
+    {
+      "titel": "Naturzustand und Krieg aller gegen alle",
+      "beschreibung": "Hobbes beschreibt den hypothetischen Naturzustand als einen Zustand ohne staatliche Ordnung, in dem ein 'bellum omnium contra omnes' (Krieg aller gegen alle) herrscht. Das Leben ist hier 'einsam, armselig, schmutzig, tierisch und kurz'."
+    },
+    {
+      "titel": "Gesellschaftsvertrag",
+      "beschreibung": "Um dem Elend des Naturzustands zu entkommen, schließen die Menschen einen Vertrag, durch den sie ihre natürlichen Rechte auf einen Souverän übertragen. Dieser Souverän – ob Einzelperson oder Versammlung – sorgt im Gegenzug für Frieden und Ordnung."
+    },
+    {
+      "titel": "Materialismus und Mechanizismus",
+      "beschreibung": "Hobbes vertrat einen konsequenten Materialismus: Alles, was existiert, ist Materie in Bewegung. Auch das Denken und Fühlen sind nichts anderes als Bewegungen im Gehirn. Es gibt keine immateriellen Substanzen – auch die Seele ist materiell."
+    },
+    {
+      "titel": "Souveränität und absolute Macht",
+      "beschreibung": "Der Souverän muss nach Hobbes über absolute und unteilbare Macht verfügen, da jede Teilung der Gewalt den Rückfall in den Naturzustand riskiert. Die Untertanen haben kein Recht auf Widerstand, solange der Souverän ihre Sicherheit gewährleistet."
+    }
+  ],
+  "werke": [
+    { "titel": "Leviathan", "jahr": "1651", "beschreibung": "Hobbes' politisches Hauptwerk, das den Staat als sterblichen Gott (Leviathan) beschreibt, der durch den Gesellschaftsvertrag der Menschen geschaffen wird, um den chaotischen Naturzustand zu überwinden." },
+    { "titel": "De Cive (Vom Bürger)", "jahr": "1642", "beschreibung": "Eine systematische Darstellung der politischen Philosophie, die die Grundlagen des Leviathan vorwegnimmt und den Staat als rationale Konstruktion zur Friedenssicherung begründet." },
+    { "titel": "De Corpore (Vom Körper)", "jahr": "1655", "beschreibung": "Der erste Teil von Hobbes' philosophischem System, der seine materialistische Metaphysik und Naturphilosophie entwickelt." },
+    { "titel": "De Homine (Vom Menschen)", "jahr": "1658", "beschreibung": "Der zweite Teil des Systems, der die Natur des Menschen aus materialistischer Perspektive analysiert." },
+    { "titel": "Behemoth", "jahr": "1668", "beschreibung": "Eine Analyse des Englischen Bürgerkriegs, in der Hobbes die Ursachen des Konflikts in religiösem Fanatismus und mangelnder Souveränität des Staates sieht." },
+    { "titel": "The Elements of Law", "jahr": "1640", "beschreibung": "Ein frühes Werk, das als Manuskript zirkulierte und Hobbes' erste systematische Darstellung seiner politischen Philosophie enthält." }
+  ],
+  "zitate": [
+    { "text": "Das Leben des Menschen ist einsam, armselig, schmutzig, tierisch und kurz.", "quelle": "Leviathan, Kapitel 13", "kontext": "Hobbes' berühmteste Beschreibung des Naturzustands, in dem keine staatliche Ordnung existiert und ein Krieg aller gegen alle herrscht." },
+    { "text": "Der Mensch ist dem Menschen ein Wolf.", "quelle": "De Cive, Widmung", "kontext": "Hobbes greift das antike Sprichwort 'Homo homini lupus' auf, um die Bedrohlichkeit des Naturzustands zu illustrieren." },
+    { "text": "Verträge ohne das Schwert sind bloße Worte und haben keine Kraft, einem Menschen Sicherheit zu geben.", "quelle": "Leviathan, Kapitel 17", "kontext": "Hobbes betont die Notwendigkeit einer starken Staatsgewalt, die Verträge durchsetzen kann." },
+    { "text": "Freiheit ist die Abwesenheit äußerer Hindernisse der Bewegung.", "quelle": "Leviathan, Kapitel 21", "kontext": "Hobbes' Definition von Freiheit als negative Freiheit – das Fehlen äußerer Zwänge – wurde grundlegend für die liberale Tradition." }
+  ],
+  "verwandtePhilosophen": ["niccolo-machiavelli", "john-locke", "jean-jacques-rousseau", "baruch-spinoza", "rene-descartes"],
+  "verwandteIsmen": ["kontraktualismus", "materialismus", "absolutismus"]
+}

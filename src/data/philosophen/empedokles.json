@@ -1,0 +1,79 @@
+{
+  "slug": "empedokles",
+  "name": "Empedokles",
+  "lebensdaten": "490–430 v. Chr.",
+  "geboren": {
+    "jahr": -490,
+    "ort": "Akragas (Agrigent)",
+    "land": "Griechenland (Sizilien)",
+    "lat": 37.31,
+    "lng": 13.58
+  },
+  "gestorben": {
+    "jahr": -430,
+    "ort": "Peloponnes",
+    "land": "Griechenland",
+    "lat": 37.5,
+    "lng": 22.0
+  },
+  "epoche": "Antike",
+  "region": "Magna Graecia (Sizilien)",
+  "hauptstroemungen": ["Vorsokratik", "Pluralismus", "Naturphilosophie"],
+  "kurzbeschreibung": "Empedokles von Akragas war Philosoph, Arzt, Dichter und Wundertäter. Er lehrte die Vier-Elemente-Lehre (Erde, Wasser, Luft, Feuer) und erklärte den Wandel durch die kosmischen Kräfte Liebe und Streit.",
+  "biografie": {
+    "fruehesLeben": "Empedokles wurde um 490 v. Chr. in Akragas (dem heutigen Agrigent) auf Sizilien geboren, einer der reichsten und prächtigsten griechischen Städte seiner Zeit. Er entstammte einer wohlhabenden und einflussreichen Familie – sein Großvater Empedokles soll bei den Olympischen Spielen einen Sieg im Pferderennen errungen haben. Empedokles soll Schüler des Parmenides und des Pythagoras gewesen sein und war mit dem Arzt Akron befreundet. Er war eine schillernde Persönlichkeit, die sich als Heiler, Wundertäter und nahezu göttliches Wesen inszenierte – er trug angeblich purpurne Gewänder, goldene Sandalen und einen delphischen Kranz und gab vor, Krankheiten heilen, Winde beherrschen und Tote erwecken zu können.",
+    "schaffen": "Empedokles' philosophisches Hauptwerk war die Antwort auf Parmenides' Herausforderung: Wie kann es Veränderung geben, wenn das Seiende unveränderlich ist? Seine geniale Lösung: Es gibt vier ewige, unveränderliche Grundelemente – Erde, Wasser, Luft und Feuer (die er poetisch als Nestis, Hera, Aidoneus und Zeus bezeichnete). Diese 'Wurzeln aller Dinge' werden nicht geschaffen oder zerstört, sondern nur gemischt und getrennt. Die treibenden Kräfte sind Liebe (Philia) und Streit (Neikos): Die Liebe vereint die Elemente, der Streit trennt sie. Der kosmische Kreislauf durchläuft vier Phasen: vollständige Vereinigung durch Liebe (Sphairos), zunehmende Trennung durch Streit, vollständige Trennung und erneute Vereinigung. In der Erkenntnistheorie vertrat Empedokles die Lehre, dass Gleiches durch Gleiches erkannt wird: Das Feuer in unserem Auge erkennt das Feuer in der Welt, die Erde in uns die Erde draußen. Er entwickelte eine Theorie des Sehens, wonach von den Dingen Ausflüsse (aporroai) ausgehen, die in die Poren der Sinnesorgane eindringen. In der Biologie entwarf er eine proto-darwinistische Theorie: In einer frühen Phase der Kosmogonie entstanden zunächst einzelne Gliedmaßen, die sich zufällig verbanden. Nur die lebensfähigen Kombinationen überlebten – ein erstaunlicher Vorgriff auf das Prinzip der natürlichen Selektion.",
+    "spaetesLeben": "Politisch war Empedokles ein Verfechter der Demokratie. Er soll die Oligarchie in Akragas gestürzt und die Königswürde abgelehnt haben. Angeblich verhinderte er durch den Bau eines Windschutzes eine Pestepidemie und trocknete ein Sumpfgebiet, um die Malaria zu bekämpfen. Sein Ruf als Wundertäter war so groß, dass ihm die Bevölkerung göttliche Ehren erweisen wollte. In seinen späteren Jahren geriet er jedoch politisch in Ungnade und ging ins Exil auf den Peloponnes.",
+    "tod": "Über den Tod des Empedokles ranken sich die berühmtesten Legenden der antiken Philosophie. Die bekannteste Version berichtet, er habe sich in den Krater des Ätna gestürzt, um seinen Anspruch auf Göttlichkeit zu beweisen – der Vulkan habe aber eine seiner bronzenen Sandalen wieder ausgeworfen und so seinen sterblichen Charakter entlarvt. Andere Quellen berichten prosaischer, er sei während seines Exils auf dem Peloponnes um 430 v. Chr. gestorben, im Alter von etwa 60 Jahren.",
+    "nachwirkung": "Empedokles' Vier-Elemente-Lehre wurde zur Grundlage der Naturphilosophie für über zwei Jahrtausende. Aristoteles übernahm sie und ergänzte sie um ein fünftes Element (Äther). In der mittelalterlichen Medizin lebte sie in der Vier-Säfte-Lehre (Humoralpathologie) fort. Seine Theorie der Mischung und Trennung beeinflusste die Entwicklung der Chemie. Die proto-evolutionäre Idee des 'Überlebens der Tauglichsten' macht ihn zu einem Vorläufer Darwins. In der Poesie wurde Friedrich Hölderlin von ihm inspiriert und schrieb den Trauerspielentwurf 'Der Tod des Empedokles'."
+  },
+  "kernideen": [
+    {
+      "titel": "Vier-Elemente-Lehre",
+      "beschreibung": "Es gibt vier ewige, unveränderliche Grundelemente: Erde, Wasser, Luft und Feuer. Alle Dinge entstehen durch die Mischung und Trennung dieser 'Wurzeln aller Dinge'. Kein Element wird geschaffen oder zerstört."
+    },
+    {
+      "titel": "Liebe und Streit",
+      "beschreibung": "Zwei kosmische Kräfte treiben den Wandel an: Liebe (Philia) vereint die Elemente zu harmonischen Mischungen, Streit (Neikos) trennt sie wieder. Der ewige Kreislauf zwischen Vereinigung und Trennung bestimmt die Kosmosgeschichte."
+    },
+    {
+      "titel": "Gleiches erkennt Gleiches",
+      "beschreibung": "Erkenntnis beruht darauf, dass die Elemente in uns die gleichen Elemente in der Außenwelt erkennen. Mit der Erde in uns sehen wir die Erde, mit dem Wasser das Wasser."
+    },
+    {
+      "titel": "Seelenwanderung",
+      "beschreibung": "Die Seele durchwandert verschiedene Körper – menschliche, tierische und pflanzliche. Empedokles behauptete, er selbst sei schon einmal ein Knabe, ein Mädchen, ein Strauch, ein Vogel und ein Fisch gewesen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Über die Natur (Peri Physeos)",
+      "jahr": "ca. 450 v. Chr.",
+      "beschreibung": "Lehrgedicht in Hexametern über die Naturphilosophie. Enthält die Vier-Elemente-Lehre, die Theorie von Liebe und Streit und die Kosmogonie. Etwa 450 Verse sind erhalten."
+    },
+    {
+      "titel": "Reinigungen (Katharmoi)",
+      "jahr": "ca. 450 v. Chr.",
+      "beschreibung": "Religiös-mystisches Lehrgedicht über die Seelenwanderung, die Sünde und die Reinigung der Seele. Enthält pythagoreische und orphische Elemente. Nur Fragmente sind erhalten."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Freunde, die ihr die große Stadt am gelblichen Akragas bewohnt, an der Höhe der Burg: Seid mir gegrüßt! Ein unsterblicher Gott, nicht mehr ein Sterblicher, wandle ich unter euch.",
+      "quelle": "Fragment DK 31 B 112",
+      "kontext": "Der berühmte Anfang der Katharmoi, in dem Empedokles sich als Gott unter den Menschen präsentiert."
+    },
+    {
+      "text": "Denn einst war ich schon ein Knabe und ein Mädchen, ein Strauch und ein Vogel und ein stummer Fisch im Meer.",
+      "quelle": "Fragment DK 31 B 117",
+      "kontext": "Empedokles über die Seelenwanderung und seine eigenen früheren Inkarnationen."
+    },
+    {
+      "text": "Mit der Erde sehen wir die Erde, mit dem Wasser das Wasser, mit dem Äther den göttlichen Äther, mit dem Feuer das vernichtende Feuer, die Liebe mit der Liebe und den Streit mit dem traurigen Streit.",
+      "quelle": "Fragment DK 31 B 109",
+      "kontext": "Das Prinzip 'Gleiches erkennt Gleiches' als Grundlage der Erkenntnistheorie."
+    }
+  ],
+  "verwandtePhilosophen": ["parmenides", "heraklit", "anaxagoras", "demokrit", "pythagoras"],
+  "verwandteIsmen": ["pluralismus", "naturalismus", "mystizismus"]
+}

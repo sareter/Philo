@@ -1,0 +1,48 @@
+{
+  "slug": "john-stuart-mill",
+  "name": "John Stuart Mill",
+  "lebensdaten": "1806–1873",
+  "geboren": { "jahr": 1806, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "gestorben": { "jahr": 1873, "ort": "Avignon", "land": "Frankreich", "lat": 43.9493, "lng": 4.8055 },
+  "epoche": "19. Jahrhundert",
+  "region": "England",
+  "hauptstroemungen": ["Utilitarismus", "Liberalismus", "Empirismus"],
+  "kurzbeschreibung": "John Stuart Mill war ein englischer Philosoph, Ökonom und Sozialreformer, der den Utilitarismus seines Vorgängers Jeremy Bentham verfeinerte und die liberale politische Philosophie maßgeblich prägte. Sein Essay 'On Liberty' ist ein Grundtext des politischen Liberalismus, und sein 'Utilitarianism' die klassische Darstellung der utilitaristischen Ethik. Er war einer der frühesten Verfechter der Frauenrechte und des allgemeinen Wahlrechts.",
+  "biografie": {
+    "fruehesLeben": "John Stuart Mill wurde am 20. Mai 1806 in London als ältester Sohn des Philosophen und Historikers James Mill geboren, der ihn nach einem radikalen Erziehungsexperiment im Geiste Jeremy Benthams aufzog. Mills Kindheit war eine der außergewöhnlichsten der Geistesgeschichte: Mit drei Jahren lernte er Griechisch, mit acht hatte er Herodot, Xenophon und Platon im Original gelesen, mit zwölf studierte er Logik und politische Ökonomie, mit dreizehn las er Adam Smith und Ricardo. Lateinunterricht, Geometrie und höhere Mathematik kamen hinzu. Diese Erziehung machte Mill zu einem der gebildetsten Menschen seiner Zeit, führte aber auch zu einer schweren psychischen Krise: Mit zwanzig Jahren erlitt er einen Zusammenbruch, den er in seiner 'Autobiography' eindrucksvoll schildert. Er fand Heilung in der Poesie Wordsworths und erkannte, dass eine rein intellektuelle Bildung die emotionale Seite des Menschen verkümmern lässt.",
+    "schaffen": "Mill arbeitete 35 Jahre lang für die Ostindien-Kompanie (1823–1858) und verfasste nebenher ein beeindruckendes philosophisches Œuvre. Sein 'System der deduktiven und induktiven Logik' (1843) wurde zum Standardwerk der empiristischen Wissenschaftstheorie. In 'Utilitarianism' (1863) verfeinerte er Benthams Utilitarismus: Nicht nur die Quantität, sondern auch die Qualität der Freuden zählt – 'Es ist besser, ein unzufriedener Sokrates zu sein als ein zufriedener Narr.' In 'On Liberty' (1859) formulierte er das berühmte Schadensprinzip: Der einzige Grund, aus dem die Gesellschaft die Freiheit eines Individuums einschränken darf, ist die Verhinderung von Schaden für andere. Das Werk ist eine der leidenschaftlichsten Verteidigungen individueller Freiheit in der gesamten politischen Philosophie. In 'The Subjection of Women' (1869), das er zusammen mit seiner Frau Harriet Taylor Mill verfasste, argumentierte er für die vollständige rechtliche und politische Gleichstellung der Frauen – eine für die Zeit revolutionäre Position. In 'Considerations on Representative Government' (1861) entwickelte er seine Theorie der repräsentativen Demokratie.",
+    "spaetesLeben": "Nach dem Tod seiner Frau Harriet 1858 in Avignon kaufte Mill ein Haus in der Nähe ihres Grabes und verbrachte fortan einen großen Teil seiner Zeit dort. 1865–1868 war er Abgeordneter im britischen Unterhaus, wo er sich für das Frauenwahlrecht, proportionale Repräsentation und Landreform einsetzte. Er brachte als erster Abgeordneter einen Antrag auf Frauenwahlrecht ein.",
+    "tod": "John Stuart Mill starb am 8. Mai 1873 in Avignon im Alter von 66 Jahren an einer Wundrose (Erysipel). Er wurde neben seiner Frau in Avignon beigesetzt.",
+    "nachwirkung": "Mills Einfluss auf die politische Philosophie, die Ethik und die Logik ist immens. 'On Liberty' ist bis heute einer der meistgelesenen Texte der politischen Philosophie und wird in Debatten über Redefreiheit, Zensur und die Grenzen staatlicher Macht regelmäßig herangezogen. Sein Utilitarismus wurde von Henry Sidgwick, R.M. Hare und Peter Singer weiterentwickelt. In der Wissenschaftstheorie beeinflusste er Karl Popper und die logischen Empiristen. Sein Feminismus war seiner Zeit weit voraus und macht ihn zu einem Vorläufer der modernen Gleichstellungsbewegung."
+  },
+  "kernideen": [
+    {
+      "titel": "Schadensprinzip (Harm Principle)",
+      "beschreibung": "Der einzige Grund, aus dem die Gesellschaft die Freiheit eines Individuums einschränken darf, ist die Verhinderung von Schaden für andere. In Bezug auf sich selbst ist jeder Mensch souverän."
+    },
+    {
+      "titel": "Qualitativer Utilitarismus",
+      "beschreibung": "Mill unterschied zwischen höheren und niederen Freuden: Geistige Freuden sind qualitativ wertvoller als körperliche. 'Es ist besser, ein unzufriedener Sokrates zu sein als ein zufriedener Narr.'"
+    },
+    {
+      "titel": "Individuelle Freiheit und Meinungsfreiheit",
+      "beschreibung": "Die Freiheit der Meinung und deren Äußerung ist von fundamentaler Bedeutung für den gesellschaftlichen Fortschritt. Auch falsche Meinungen müssen gehört werden, da sie zur Überprüfung und Klärung der wahren Meinungen beitragen."
+    }
+  ],
+  "werke": [
+    { "titel": "On Liberty (Über die Freiheit)", "jahr": "1859", "beschreibung": "Mills klassische Verteidigung der individuellen Freiheit, die das Schadensprinzip als einzige Grenze der Freiheit formuliert." },
+    { "titel": "Utilitarianism (Der Utilitarismus)", "jahr": "1863", "beschreibung": "Die klassische Darstellung der utilitaristischen Ethik, die zwischen höheren und niederen Freuden unterscheidet." },
+    { "titel": "A System of Logic", "jahr": "1843", "beschreibung": "Mills wissenschaftstheoretisches Hauptwerk, das die Methoden der empirischen Wissenschaft systematisch darstellt." },
+    { "titel": "The Subjection of Women (Die Hörigkeit der Frau)", "jahr": "1869", "beschreibung": "Eine leidenschaftliche Argumentation für die rechtliche und politische Gleichstellung der Frauen." },
+    { "titel": "Considerations on Representative Government", "jahr": "1861", "beschreibung": "Mills Theorie der repräsentativen Demokratie, die proportionale Repräsentation und Minderheitenschutz fordert." },
+    { "titel": "Autobiography", "jahr": "1873 (posthum)", "beschreibung": "Mills eindrucksvolle Autobiografie, die seine außergewöhnliche Erziehung und seine geistige Krise schildert." },
+    { "titel": "Principles of Political Economy", "jahr": "1848", "beschreibung": "Mills umfassendes Werk zur politischen Ökonomie, das lange als Standardwerk galt und liberale mit sozialistischen Elementen verband." }
+  ],
+  "zitate": [
+    { "text": "Es ist besser, ein unzufriedener Sokrates zu sein als ein zufriedener Narr.", "quelle": "Utilitarianism, Kapitel 2", "kontext": "Mills berühmte Unterscheidung zwischen höheren und niederen Freuden, die den Utilitarismus qualitativ verfeinert." },
+    { "text": "Über sich selbst, über seinen eigenen Körper und Geist, ist der Einzelne souverän.", "quelle": "On Liberty, Kapitel 1", "kontext": "Die Kernthese von Mills Liberalismus: In Bezug auf sich selbst hat jeder Mensch volle Freiheit." },
+    { "text": "Wenn die ganze Menschheit minus einer Person einer Meinung wäre und nur eine einzige Person der entgegengesetzten Meinung, so wäre die Menschheit nicht mehr berechtigt, diese eine Person zum Schweigen zu bringen, als diese, wenn sie die Macht dazu hätte, die ganze Menschheit.", "quelle": "On Liberty, Kapitel 2", "kontext": "Mills leidenschaftliches Plädoyer für die Meinungsfreiheit, das keine Mehrheitsdiktatur duldet." }
+  ],
+  "verwandtePhilosophen": ["jeremy-bentham", "adam-smith", "david-hume", "mary-wollstonecraft", "karl-marx"],
+  "verwandteIsmen": ["utilitarismus", "liberalismus", "empirismus", "feminismus"]
+}
