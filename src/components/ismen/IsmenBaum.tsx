@@ -14,7 +14,7 @@ function BaumKnoten({
   tiefe: number;
   ismenMap: Map<string, Ismus>;
 }) {
-  const [offen, setOffen] = useState(tiefe < 1);
+  const [offen, setOffen] = useState(false);
   const hatKinder = knoten.children && knoten.children.length > 0;
   const ismus = knoten.slug ? ismenMap.get(knoten.slug) : null;
 
