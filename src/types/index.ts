@@ -31,6 +31,13 @@ export interface Zitat {
   kontext?: string;
 }
 
+export interface PhilosophEinfach {
+  kurzbeschreibung: string;
+  biografie: BiografieAbschnitt;
+  kernideen: Kernidee[];
+  werke: Werk[];
+}
+
 export interface Philosoph {
   slug: string;
   name: string;
@@ -47,12 +54,21 @@ export interface Philosoph {
   zitate: Zitat[];
   verwandtePhilosophen: string[];
   verwandteIsmen: string[];
+  einfach?: PhilosophEinfach;
 }
 
 export interface Schluesselwerk {
   titel: string;
   autor: string;
   jahr: string;
+}
+
+export interface IsmusEinfach {
+  kurzbeschreibung: string;
+  ausfuehrlicheBeschreibung: string;
+  kernthesen: string[];
+  entstehung: string;
+  kritik: string;
 }
 
 export interface Ismus {
@@ -67,6 +83,7 @@ export interface Ismus {
   kritik: string;
   verwandteIsmen: string[];
   schluesselwerke: Schluesselwerk[];
+  einfach?: IsmusEinfach;
 }
 
 export type Epoche =
