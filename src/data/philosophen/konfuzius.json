@@ -1,0 +1,84 @@
+{
+  "slug": "konfuzius",
+  "name": "Konfuzius",
+  "lebensdaten": "551–479 v. Chr.",
+  "geboren": {
+    "jahr": -551,
+    "ort": "Qufu",
+    "land": "China",
+    "lat": 35.59,
+    "lng": 116.99
+  },
+  "gestorben": {
+    "jahr": -479,
+    "ort": "Qufu",
+    "land": "China",
+    "lat": 35.59,
+    "lng": 116.99
+  },
+  "epoche": "Antike",
+  "region": "Asien",
+  "hauptstroemungen": ["Konfuzianismus", "Tugendethik"],
+  "kurzbeschreibung": "Konfuzius war ein chinesischer Philosoph und Lehrer, dessen Lehren die ostasiatische Zivilisation über mehr als zwei Jahrtausende hinweg tiefgreifend geprägt haben. Seine Ethik der menschlichen Beziehungen, der Tugendhaftigkeit und des richtigen Handelns bildet das Fundament des Konfuzianismus. Er gilt als einer der einflussreichsten Denker der Menschheitsgeschichte.",
+  "biografie": {
+    "fruehesLeben": "Konfuzius wurde 551 v. Chr. in Qufu im Staat Lu (heutiges Shandong) geboren. Sein Vater starb, als er drei Jahre alt war, und er wuchs in bescheidenen Verhältnissen auf. Schon früh zeigte er großes Interesse an Lernen, Ritualen und den alten Überlieferungen.",
+    "schaffen": "Konfuzius arbeitete zunächst als Verwalter und stieg zum Justizminister des Staates Lu auf. Enttäuscht von der politischen Realität wanderte er viele Jahre durch verschiedene chinesische Staaten, um Herrscher von seinen ethischen Prinzipien zu überzeugen. Er sammelte eine große Schar von Schülern um sich und lehrte die Bedeutung von Tugend, Menschlichkeit (Ren) und rituellem Verhalten (Li).",
+    "spaetesLeben": "Nach Jahren des Wanderns kehrte Konfuzius in seine Heimat Lu zurück und widmete sich dem Unterrichten und der Redaktion klassischer Texte. Er soll die Fünf Klassiker bearbeitet haben, darunter das Buch der Lieder und das Buch der Wandlungen. Seine letzten Jahre waren von persönlichen Verlusten geprägt, darunter der Tod seines Sohnes.",
+    "tod": "Konfuzius starb 479 v. Chr. in Qufu im Alter von 73 Jahren. Sein Grab in Qufu wurde zu einer bedeutenden Pilgerstätte. Der Tempel des Konfuzius in seiner Heimatstadt gehört heute zum UNESCO-Weltkulturerbe.",
+    "nachwirkung": "Die Lehren des Konfuzius, gesammelt in den Gesprächen (Lunyu) durch seine Schüler, wurden zur offiziellen Staatsphilosophie des chinesischen Kaiserreichs. Der Konfuzianismus prägte das Bildungssystem, die Ethik und die Gesellschaftsordnung Ostasiens über Jahrhunderte. Bis heute ist sein Einfluss in China, Japan, Korea und Vietnam spürbar."
+  },
+  "kernideen": [
+    {
+      "titel": "Ren (Menschlichkeit)",
+      "beschreibung": "Ren ist die zentrale Tugend im konfuzianischen Denken und bezeichnet die Menschlichkeit, das Wohlwollen und die Nächstenliebe. Sie drückt sich in der Fähigkeit aus, andere mit Mitgefühl und Respekt zu behandeln. Wer Ren verwirklicht, wird zum Edlen Menschen (Junzi)."
+    },
+    {
+      "titel": "Li (Rituelle Ordnung)",
+      "beschreibung": "Li umfasst die Rituale, Sitten und gesellschaftlichen Normen, die das harmonische Zusammenleben ermöglichen. Die Einhaltung der Riten ist nicht bloße Formalität, sondern Ausdruck innerer Tugendhaftigkeit. Durch Li wird die soziale Ordnung aufrechterhalten und verfeinert."
+    },
+    {
+      "titel": "Junzi (Der Edle Mensch)",
+      "beschreibung": "Das Ideal des Junzi ist das Leitbild konfuzianischer Ethik: ein Mensch, der durch Bildung, Selbstkultivierung und moralische Integrität zum Vorbild für andere wird. Der Junzi strebt nach Vollkommenheit nicht um des Ruhmes willen, sondern aus innerer Überzeugung."
+    },
+    {
+      "titel": "Zhengming (Richtigstellung der Namen)",
+      "beschreibung": "Konfuzius lehrte, dass gesellschaftliche Ordnung mit der korrekten Benennung der Dinge beginnt. Wenn Vater, Sohn, Herrscher und Untertan ihre Rollen richtig verstehen und ausfüllen, herrscht Harmonie. Die Verwirrung der Begriffe führt zum Verfall der Gesellschaft."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Lunyu (Gespräche des Konfuzius)",
+      "jahr": "ca. 475 v. Chr.",
+      "beschreibung": "Die von Schülern zusammengetragene Sammlung von Aussprüchen und Dialogen des Konfuzius ist das wichtigste Dokument seiner Lehre. Es enthält seine ethischen Grundsätze und praktische Lebensweisheit."
+    },
+    {
+      "titel": "Chunqiu (Frühlings- und Herbstannalen)",
+      "jahr": "ca. 480 v. Chr.",
+      "beschreibung": "Eine Konfuzius zugeschriebene Chronik des Staates Lu, die durch ihre moralische Bewertung historischer Ereignisse als Leitfaden für gerechtes Regieren diente."
+    },
+    {
+      "titel": "Yijing-Kommentare (Buch der Wandlungen)",
+      "jahr": "ca. 500 v. Chr.",
+      "beschreibung": "Konfuzius soll die philosophischen Anhänge zum Buch der Wandlungen verfasst haben, die kosmologische und ethische Deutungen enthalten."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Was du selbst nicht wünschst, das tue auch anderen nicht an.",
+      "quelle": "Lunyu (Gespräche)",
+      "kontext": "Die Goldene Regel des Konfuzius, die das Prinzip der Gegenseitigkeit (Shu) ausdrückt."
+    },
+    {
+      "text": "Der Weg ist das Ziel.",
+      "quelle": "Lunyu (Gespräche)",
+      "kontext": "Ein Ausdruck der konfuzianischen Überzeugung, dass die ständige Selbstkultivierung wichtiger ist als das Erreichen eines Endziels."
+    },
+    {
+      "text": "Lernen ohne zu denken ist eitel; denken ohne zu lernen ist gefährlich.",
+      "quelle": "Lunyu (Gespräche)",
+      "kontext": "Konfuzius' Betonung der Verbindung von Studium und kritischem Nachdenken."
+    }
+  ],
+  "verwandtePhilosophen": ["laozi", "siddhartha-gautama"],
+  "verwandteIsmen": ["konfuzianismus", "tugendethik"]
+}

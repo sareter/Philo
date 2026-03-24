@@ -1,0 +1,80 @@
+{
+  "slug": "emma-goldman",
+  "name": "Emma Goldman",
+  "lebensdaten": "1869–1940",
+  "geboren": {
+    "jahr": 1869,
+    "ort": "Kaunas",
+    "land": "Litauen",
+    "lat": 54.9,
+    "lng": 23.9
+  },
+  "gestorben": {
+    "jahr": 1940,
+    "ort": "Toronto",
+    "land": "Kanada",
+    "lat": 43.65,
+    "lng": -79.38
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Anarchismus", "Feminismus"],
+  "kurzbeschreibung": "Emma Goldman war eine litauisch-amerikanische Anarchistin, politische Aktivistin und Feministin, die zu den einflussreichsten radikalen Denkerinnen des frühen 20. Jahrhunderts gehört. Sie kämpfte für die Freiheit des Individuums gegen staatliche und kapitalistische Unterdrückung und setzte sich für Frauenrechte, Geburtenkontrolle und freie Liebe ein. Ihr leidenschaftlicher Aktivismus brachte ihr den Beinamen 'die gefährlichste Frau Amerikas' ein.",
+  "biografie": {
+    "fruehesLeben": "Emma Goldman wurde 1869 in Kaunas im Russischen Reich in eine jüdische Familie geboren. Nach einer harten Kindheit emigrierte sie 1885 in die USA und arbeitete in Textilfabriken in Rochester, New York. Die Hinrichtung der Haymarket-Anarchisten 1887 radikalisierte sie politisch.",
+    "schaffen": "Goldman wurde zur führenden Anarchistin Amerikas und hielt Vorträge im ganzen Land über Anarchismus, Frauenrechte, Geburtenkontrolle und freie Liebe. Sie gab die Zeitschrift 'Mother Earth' heraus und verfasste zahlreiche Aufsätze und Bücher. Mehrfach wurde sie verhaftet, und ihre Redefreiheit wurde regelmäßig unterdrückt.",
+    "spaetesLeben": "1919 wurde Goldman zusammen mit Alexander Berkman aus den USA nach Russland deportiert. Die Erfahrung der bolschewistischen Diktatur desillusionierte sie zutiefst, und sie verfasste eine scharfe Kritik an der Sowjetunion. Sie lebte danach in verschiedenen europäischen Ländern und unterstützte die Anarchisten im Spanischen Bürgerkrieg.",
+    "tod": "Emma Goldman starb am 14. Mai 1940 in Toronto nach einem Schlaganfall. Auf ihren Wunsch hin wurde sie auf dem Waldheim-Friedhof in Chicago beigesetzt, nahe den Gräbern der Haymarket-Märtyrer. Ihr Grab wurde zu einem Pilgerort der anarchistischen Bewegung.",
+    "nachwirkung": "Goldman gilt als Pionierin des Anarchafeminismus und als eine der wichtigsten Stimmen für individuelle Freiheit im 20. Jahrhundert. Ihre Schriften über die Verbindung von persönlicher und politischer Befreiung beeinflussten die Neue Linke und die feministische Bewegung der 1960er und 1970er Jahre."
+  },
+  "kernideen": [
+    {
+      "titel": "Anarchismus als Philosophie der Freiheit",
+      "beschreibung": "Anarchismus bedeutet die Befreiung des menschlichen Geistes von der Herrschaft der Religion, des Eigentums und des Staates. Eine freie Gesellschaft basiert auf der freiwilligen Kooperation freier Individuen ohne Zwang und Hierarchie."
+    },
+    {
+      "titel": "Feminismus und freie Liebe",
+      "beschreibung": "Die Befreiung der Frau erfordert nicht nur politische Gleichberechtigung, sondern auch die Befreiung von den Fesseln der bürgerlichen Sexualmoral. Wahre Emanzipation bedeutet das Recht auf freie Liebe, Geburtenkontrolle und die Unabhängigkeit von der Institution der Ehe."
+    },
+    {
+      "titel": "Kritik am Staat und der repräsentativen Demokratie",
+      "beschreibung": "Der Staat ist ein Instrument der Unterdrückung, unabhängig von seiner Regierungsform. Auch die parlamentarische Demokratie dient den Interessen der herrschenden Klasse. Wahre Demokratie kann nur in der direkten Selbstverwaltung der Menschen verwirklicht werden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Anarchismus und andere Essays",
+      "jahr": "1910",
+      "beschreibung": "Eine Sammlung von Goldmans wichtigsten Vorträgen und Essays über Anarchismus, Feminismus, Bildung und die Emanzipation der Frau."
+    },
+    {
+      "titel": "Gelebtes Leben (Living My Life)",
+      "jahr": "1931",
+      "beschreibung": "Goldmans umfangreiche Autobiographie, die ein lebendiges Bild der anarchistischen Bewegung und des politischen Aktivismus um die Jahrhundertwende zeichnet."
+    },
+    {
+      "titel": "Meine Desillusionierung in Russland (My Disillusionment in Russia)",
+      "jahr": "1923",
+      "beschreibung": "Eine scharfe Kritik an der bolschewistischen Diktatur, die Goldman nach ihrem Aufenthalt in Sowjetrussland verfasste."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wenn ich nicht tanzen kann, ist es nicht meine Revolution.",
+      "quelle": "Zugeschrieben",
+      "kontext": "Goldmans berühmtestes Zitat, das ihre Überzeugung ausdrückt, dass Revolution und Lebensfreude zusammengehören."
+    },
+    {
+      "text": "Die gefährlichste Frau Amerikas – das bin ich, und ich bin stolz darauf.",
+      "quelle": "Gelebtes Leben",
+      "kontext": "Goldmans selbstbewusste Annahme des ihr von der Presse verliehenen Titels."
+    },
+    {
+      "text": "Wahre Emanzipation beginnt weder an der Wahlurne noch vor Gericht, sondern in der Seele der Frau.",
+      "quelle": "Anarchismus und andere Essays",
+      "kontext": "Goldmans Überzeugung, dass äußere Gleichberechtigung ohne innere Befreiung unvollständig bleibt."
+    }
+  ],
+  "verwandtePhilosophen": ["peter-kropotkin", "michail-bakunin", "rosa-luxemburg", "pierre-joseph-proudhon"],
+  "verwandteIsmen": ["anarchismus", "feminismus"]
+}

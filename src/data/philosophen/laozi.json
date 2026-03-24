@@ -1,0 +1,84 @@
+{
+  "slug": "laozi",
+  "name": "Laozi",
+  "lebensdaten": "ca. 600 v. Chr.",
+  "geboren": {
+    "jahr": -600,
+    "ort": "Luyi",
+    "land": "China",
+    "lat": 33.73,
+    "lng": 115.53
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Antike",
+  "region": "Asien",
+  "hauptstroemungen": ["Daoismus"],
+  "kurzbeschreibung": "Laozi gilt als der legendäre Begründer des Daoismus und Verfasser des Daodejing, eines der einflussreichsten philosophischen Werke der Menschheitsgeschichte. Seine Lehre vom Dao als dem unbenennbaren Urgrund aller Dinge und vom Wu Wei als dem Prinzip des Nicht-Eingreifens prägte das chinesische Denken nachhaltig. Ob Laozi eine historische Person war oder eine mythische Gestalt, ist bis heute umstritten.",
+  "biografie": {
+    "fruehesLeben": "Nach der Überlieferung wurde Laozi im 6. Jahrhundert v. Chr. in der Provinz Henan geboren. Er soll als Archivar am Hof der Zhou-Dynastie gearbeitet haben. Über sein frühes Leben gibt es kaum gesicherte historische Informationen.",
+    "schaffen": "Die Legende berichtet, dass Laozi das Daodejing verfasste, als er China in Richtung Westen verlassen wollte. Ein Grenzwächter bat ihn, seine Weisheit niederzuschreiben, woraufhin er das Werk in 81 kurzen Kapiteln verfasste. Das Daodejing verbindet kosmologische Betrachtungen mit politischer Philosophie und Lebensweisheit.",
+    "spaetesLeben": "Der Legende nach verließ Laozi China auf einem Wasserbüffel reitend durch den westlichen Pass. Was danach geschah, ist unbekannt. In späteren Jahrhunderten wurde er im religiösen Daoismus als Gottheit verehrt.",
+    "tod": "Über den Tod des Laozi gibt es keine historischen Berichte. Die Tradition schweigt sich über die Umstände seines Ablebens aus. In der daoistischen Religion gilt er teilweise als unsterblich.",
+    "nachwirkung": "Das Daodejing wurde zu einem der meistübersetzten Bücher der Weltliteratur und beeinflusste neben dem chinesischen Daoismus auch den Zen-Buddhismus. Laozis Gedanken über Natürlichkeit, Bescheidenheit und das Nicht-Handeln finden bis heute weltweite Beachtung in Philosophie, Kunst und Lebensführung."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Dao (Der Weg)",
+      "beschreibung": "Das Dao ist der unbenennbare, unfassbare Urgrund aller Dinge, der allem zugrunde liegt und alles durchdringt. Es lässt sich nicht in Worte fassen – 'Das Dao, das man aussprechen kann, ist nicht das ewige Dao'. Es ist zugleich Quelle und Ziel aller Existenz."
+    },
+    {
+      "titel": "Wu Wei (Nicht-Handeln)",
+      "beschreibung": "Wu Wei bedeutet nicht Passivität, sondern das Handeln im Einklang mit dem natürlichen Lauf der Dinge. Der Weise greift nicht gewaltsam in die Ordnung der Natur ein, sondern folgt ihr wie das Wasser, das den Weg des geringsten Widerstands nimmt."
+    },
+    {
+      "titel": "Die Kraft des Weichen",
+      "beschreibung": "Laozi lehrt, dass das Weiche und Nachgiebige das Harte und Starre überwindet. Wasser ist das Sinnbild dieser Kraft: Es ist das Nachgiebigste aller Dinge und doch vermag es den härtesten Stein zu höhlen."
+    },
+    {
+      "titel": "Rückkehr zur Einfachheit",
+      "beschreibung": "Der Daoismus plädiert für eine Rückkehr zur natürlichen Einfachheit und Bescheidenheit. Überflüssiges Wissen, übermäßiger Besitz und künstliche Konventionen entfernen den Menschen von seiner wahren Natur."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Daodejing (Tao Te King)",
+      "jahr": "ca. 600 v. Chr.",
+      "beschreibung": "Das Hauptwerk des Daoismus in 81 Kapiteln verbindet mystische Kosmologie mit politischer Philosophie und Lebensweisheit. Es ist eines der meistübersetzten Bücher der Weltliteratur."
+    },
+    {
+      "titel": "Hua Hu Jing",
+      "jahr": "ca. 300 v. Chr.",
+      "beschreibung": "Ein Laozi zugeschriebener Text, dessen Authentizität umstritten ist, der aber wichtige daoistische Lehren über die Kultivierung des Geistes enthält."
+    },
+    {
+      "titel": "Qingjing Jing",
+      "jahr": "unbekannt",
+      "beschreibung": "Ein kurzer, Laozi zugeschriebener daoistischer Text über die Reinheit und Stille des Geistes als Weg zur Erleuchtung."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Dao, das man aussprechen kann, ist nicht das ewige Dao.",
+      "quelle": "Daodejing, Kapitel 1",
+      "kontext": "Der berühmte Eröffnungssatz des Daodejing, der die Unaussprechlichkeit des höchsten Prinzips betont."
+    },
+    {
+      "text": "Eine Reise von tausend Meilen beginnt mit dem ersten Schritt.",
+      "quelle": "Daodejing, Kapitel 64",
+      "kontext": "Eine der bekanntesten Lebensweisheiten über die Bedeutung des Anfangens."
+    },
+    {
+      "text": "Wer andere kennt, ist klug. Wer sich selbst kennt, ist weise.",
+      "quelle": "Daodejing, Kapitel 33",
+      "kontext": "Die daoistische Betonung der Selbsterkenntnis als höchste Form der Weisheit."
+    }
+  ],
+  "verwandtePhilosophen": ["konfuzius", "siddhartha-gautama"],
+  "verwandteIsmen": ["daoismus"]
+}

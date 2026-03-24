@@ -1,0 +1,84 @@
+{
+  "slug": "david-benatar",
+  "name": "David Benatar",
+  "lebensdaten": "1966–",
+  "geboren": {
+    "jahr": 1966,
+    "ort": "Kapstadt",
+    "land": "Südafrika",
+    "lat": -33.93,
+    "lng": 18.42
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Afrika",
+  "hauptstroemungen": ["Antinatalism", "Pessimismus"],
+  "kurzbeschreibung": "David Benatar ist ein südafrikanischer Philosoph und Professor an der Universität Kapstadt, der vor allem für seine antinatalistischen Positionen bekannt ist. Er vertritt die Auffassung, dass es besser wäre, nie geboren worden zu sein, und begründet dies mit einer asymmetrischen Bewertung von Leid und Freude. Sein Werk hat eine breite Debatte über die Ethik der Fortpflanzung und den Wert menschlicher Existenz ausgelöst.",
+  "biografie": {
+    "fruehesLeben": "David Benatar wurde 1966 in Kapstadt, Südafrika, geboren. Er studierte Philosophie an der Universität Kapstadt und setzte seine akademische Ausbildung fort, bis er dort selbst eine Professur erhielt.",
+    "schaffen": "Benatar wurde durch sein Hauptwerk 'Better Never to Have Been' (2006) international bekannt, in dem er argumentiert, dass Existenz stets ein Nachteil gegenüber Nichtexistenz sei. Er entwickelte die sogenannte Asymmetrie-These, wonach die Abwesenheit von Leid gut, die Abwesenheit von Freude jedoch nicht schlecht sei. Sein zweites Hauptwerk 'The Human Predicament' (2017) erweiterte seine pessimistischen Thesen.",
+    "spaetesLeben": "Benatar ist weiterhin als Professor und Leiter der Philosophieabteilung an der Universität Kapstadt tätig. Er hält seine Identität bewusst weitgehend aus der Öffentlichkeit heraus und gibt nur selten Interviews.",
+    "tod": "David Benatar lebt und arbeitet weiterhin in Kapstadt.",
+    "nachwirkung": "Benatars Werk hat den Antinatalismus als ernstzunehmende philosophische Position etabliert. Seine Argumente werden in der analytischen Ethik breit diskutiert und haben eine neue Generation von Denkern beeinflusst, die sich mit den Grundlagen der Fortpflanzungsethik befassen."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Asymmetrie zwischen Leid und Freude",
+      "beschreibung": "Benatar argumentiert, dass die Abwesenheit von Leid gut ist, auch wenn niemand da ist, der dieses Gut genießt, während die Abwesenheit von Freude nur dann schlecht ist, wenn jemand dieser Freude beraubt wird. Diese Asymmetrie führt zu dem Schluss, dass Nichtexistenz der Existenz vorzuziehen ist."
+    },
+    {
+      "titel": "Antinatalismus",
+      "beschreibung": "Aus der Asymmetrie-These folgt für Benatar, dass es moralisch falsch ist, neue Menschen in die Existenz zu bringen. Jede Geburt fügt unvermeidlich Leid hinzu, während die nicht realisierten Freuden eines nie geborenen Wesens keinen Verlust darstellen."
+    },
+    {
+      "titel": "Die menschliche Misere",
+      "beschreibung": "In 'The Human Predicament' argumentiert Benatar, dass die Qualität menschlichen Lebens systematisch überschätzt wird. Menschen unterliegen kognitiven Verzerrungen wie dem Optimismus-Bias, die sie daran hindern, die wahre Menge an Leid in ihrem Leben zu erkennen."
+    },
+    {
+      "titel": "Die Zweite Sexismus-These",
+      "beschreibung": "Benatar hat auch über Diskriminierung von Männern geschrieben und argumentiert, dass es neben dem weithin anerkannten Sexismus gegen Frauen auch systematische Benachteiligungen von Männern gibt, die philosophisch ernst genommen werden sollten."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Better Never to Have Been: The Harm of Coming into Existence",
+      "jahr": "2006",
+      "beschreibung": "Benatars Hauptwerk, in dem er die These verteidigt, dass es für jeden Menschen besser gewesen wäre, nie geboren worden zu sein. Ein Meilenstein der antinatalistischen Philosophie."
+    },
+    {
+      "titel": "The Human Predicament",
+      "jahr": "2017",
+      "beschreibung": "Eine Erweiterung seiner pessimistischen Philosophie, in der Benatar argumentiert, dass menschliches Leben unvermeidlich schlecht ist und der Tod keine Lösung, sondern nur ein weiteres Übel darstellt."
+    },
+    {
+      "titel": "The Second Sexism: Discrimination Against Men and Boys",
+      "jahr": "2012",
+      "beschreibung": "Eine kontroverse Untersuchung von Formen der Diskriminierung, die Männer und Jungen betreffen, und ein Plädoyer für eine umfassendere Sicht auf Geschlechtergerechtigkeit."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Obwohl es für jedes existierende Wesen besser gewesen wäre, nie existiert zu haben, folgt daraus nicht, dass es besser wäre, aufzuhören zu existieren.",
+      "quelle": "Better Never to Have Been",
+      "kontext": "Benatar unterscheidet zwischen dem Beginn der Existenz und ihrer Fortführung – Selbstmord folgt nicht aus dem Antinatalismus."
+    },
+    {
+      "text": "Die Abwesenheit von Schmerz ist gut, auch wenn dieses Gute von niemandem genossen wird; die Abwesenheit von Freude ist nicht schlecht, es sei denn, es gibt jemanden, dem diese Freude vorenthalten wird.",
+      "quelle": "Better Never to Have Been",
+      "kontext": "Die zentrale Asymmetrie-These, auf der Benatars gesamte antinatalistische Argumentation aufbaut."
+    },
+    {
+      "text": "Das Leben ist zwar nicht gut genug, um es zu beginnen, aber es ist normalerweise nicht schlecht genug, um es zu beenden.",
+      "quelle": "The Human Predicament",
+      "kontext": "Benatars Position zwischen Antinatalismus und der Ablehnung des Suizids als Lösung."
+    }
+  ],
+  "verwandtePhilosophen": ["arthur-schopenhauer", "peter-wessel-zapffe", "thomas-ligotti", "julius-bahnsen"],
+  "verwandteIsmen": ["pessimismus", "nihilismus"]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "alain-badiou",
+  "name": "Alain Badiou",
+  "lebensdaten": "1937–",
+  "geboren": {
+    "jahr": 1937,
+    "ort": "Rabat",
+    "land": "Marokko",
+    "lat": 34.02,
+    "lng": -6.84
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Marxismus", "Ontologie"],
+  "kurzbeschreibung": "Alain Badiou ist ein französischer Philosoph, Mathematiker und Dramatiker, der die Mengenlehre zur Grundlage einer neuen Ontologie macht. Sein Hauptwerk 'Das Sein und das Ereignis' verbindet Mathematik, Philosophie und Politik zu einem der ambitioniertesten philosophischen Systeme der Gegenwart. Er vertritt einen radikalen Universalismus und verteidigt die kommunistische Idee gegen den postmodernen Relativismus.",
+  "biografie": {
+    "fruehesLeben": "Alain Badiou wurde 1937 in Rabat, Marokko, als Sohn eines französischen Mathematiklehrers geboren. Er studierte an der École Normale Supérieure in Paris, wo er Louis Althusser und Jacques Lacan begegnete. Diese beiden Denker prägten sein philosophisches und politisches Denken nachhaltig.",
+    "schaffen": "Badiou lehrte an der Universität Paris VIII (Vincennes) und an der École Normale Supérieure. Sein Hauptwerk 'Das Sein und das Ereignis' (1988) begründet die Ontologie auf der Mengenlehre: Das Sein ist reine Mannigfaltigkeit, und Wahrheiten entstehen durch Ereignisse, die die bestehende Ordnung durchbrechen. Die Fortsetzung 'Logiken der Welten' (2006) entwickelt eine Erscheinungslehre.",
+    "spaetesLeben": "Badiou engagiert sich weiterhin als öffentlicher Intellektueller und verteidigt die kommunistische Hypothese gegen die postmoderne Skepsis. Er schreibt Romane, Theaterstücke und philosophische Werke. Seine Vorlesungen ziehen ein großes internationales Publikum an.",
+    "tod": "Alain Badiou lebt und arbeitet weiterhin in Paris. Er gilt als einer der bedeutendsten lebenden Philosophen Frankreichs.",
+    "nachwirkung": "Badious Werk hat eine neue Generation von Philosophen inspiriert, die Wahrheit, Universalismus und politisches Engagement gegen den postmodernen Relativismus verteidigen. Sein mathematischer Ansatz zur Ontologie und seine Ereignisphilosophie werden weltweit intensiv diskutiert."
+  },
+  "kernideen": [
+    {
+      "titel": "Mathematik als Ontologie",
+      "beschreibung": "Die Mengenlehre ist die wahre Ontologie: Das Sein ist reine Mannigfaltigkeit ohne Einheit. Die Mathematik sagt uns, was das Sein ist – nämlich inkonsistente Vielheit. Philosophie beginnt dort, wo die Mathematik an ihre Grenzen stößt: beim Ereignis."
+    },
+    {
+      "titel": "Das Ereignis",
+      "beschreibung": "Ein Ereignis ist ein Bruch in der bestehenden Ordnung, der etwas radikal Neues hervorbringt. Wahrheiten entstehen nur durch Ereignisse – in der Politik, der Kunst, der Liebe und der Wissenschaft. Das Subjekt entsteht durch seine Treue zu einem Ereignis."
+    },
+    {
+      "titel": "Die kommunistische Hypothese",
+      "beschreibung": "Die Idee der Gleichheit und der kollektiven Emanzipation ist keine historische Utopie, sondern eine ewige Hypothese, die in jeder Epoche neu formuliert werden muss. Der Zusammenbruch des Sowjetsystems widerlegt nicht die kommunistische Idee, sondern nur eine bestimmte Form ihrer Verwirklichung."
+    },
+    {
+      "titel": "Universalismus der Wahrheit",
+      "beschreibung": "Wahrheiten sind universal und für alle gültig, unabhängig von Kultur, Identität oder Partikularinteressen. Der postmoderne Relativismus, der alle Wahrheitsansprüche als Machtstrategien entlarvt, zerstört die Grundlage für emanzipatorische Politik."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Das Sein und das Ereignis (L'Être et l'Événement)",
+      "jahr": "1988",
+      "beschreibung": "Badious philosophisches Hauptwerk, das die Mengenlehre zur Grundlage der Ontologie macht und eine Theorie des Ereignisses als Quelle von Wahrheit entwickelt."
+    },
+    {
+      "titel": "Logiken der Welten (Logiques des mondes)",
+      "jahr": "2006",
+      "beschreibung": "Die Fortsetzung von 'Das Sein und das Ereignis', die eine Erscheinungslehre entwickelt und die Frage behandelt, wie Wahrheiten in konkreten Welten erscheinen."
+    },
+    {
+      "titel": "Die kommunistische Hypothese (L'Hypothèse communiste)",
+      "jahr": "2009",
+      "beschreibung": "Eine politisch-philosophische Verteidigung der kommunistischen Idee als ewiger Hypothese der menschlichen Emanzipation."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Mathematik ist die Ontologie.",
+      "quelle": "Das Sein und das Ereignis",
+      "kontext": "Die provokante Grundthese, dass die Mengenlehre die wahre Wissenschaft vom Sein ist."
+    },
+    {
+      "text": "Ein Ereignis ist das, was uns zwingt, neu zu entscheiden.",
+      "quelle": "Das Sein und das Ereignis",
+      "kontext": "Die Definition des Ereignisses als Bruch, der neue Wahrheiten und Subjekte hervorbringt."
+    },
+    {
+      "text": "Die Idee des Kommunismus ist ewig, auch wenn ihre Formen sich wandeln.",
+      "quelle": "Die kommunistische Hypothese",
+      "kontext": "Badious Verteidigung der kommunistischen Idee gegen ihre historische Diskreditierung."
+    }
+  ],
+  "verwandtePhilosophen": ["jacques-lacan", "louis-althusser", "platon", "giorgio-agamben"],
+  "verwandteIsmen": ["marxismus", "ontologie"]
+}

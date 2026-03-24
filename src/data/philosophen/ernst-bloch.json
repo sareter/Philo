@@ -1,0 +1,84 @@
+{
+  "slug": "ernst-bloch",
+  "name": "Ernst Bloch",
+  "lebensdaten": "1885–1977",
+  "geboren": {
+    "jahr": 1885,
+    "ort": "Ludwigshafen",
+    "land": "Deutschland",
+    "lat": 49.48,
+    "lng": 8.44
+  },
+  "gestorben": {
+    "jahr": 1977,
+    "ort": "Tübingen",
+    "land": "Deutschland",
+    "lat": 48.52,
+    "lng": 9.06
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Marxismus", "Utopismus"],
+  "kurzbeschreibung": "Ernst Bloch war ein deutscher Philosoph, der mit seinem monumentalen Hauptwerk 'Das Prinzip Hoffnung' eine Philosophie der Utopie und des Noch-Nicht-Bewussten entwarf. Er verband marxistisches Denken mit messianischer Hoffnung und sah in Tagträumen, Kunst und Religion Vorscheine einer besseren Welt. Sein Denken der konkreten Utopie bleibt ein einzigartiger Beitrag zur Philosophie des 20. Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "Ernst Bloch wurde 1885 in Ludwigshafen am Rhein als Sohn eines jüdischen Eisenbahnbeamten geboren. Er studierte Philosophie, Physik und Musik in München und Würzburg. Früh schloss er Freundschaft mit Georg Lukács und Walter Benjamin.",
+    "schaffen": "Blochs erstes bedeutendes Werk 'Geist der Utopie' (1918) verband expressionistische Ästhetik mit revolutionärer Hoffnung. Im amerikanischen Exil (1938-1949) schrieb er sein monumentales Hauptwerk 'Das Prinzip Hoffnung'. Nach seiner Rückkehr lehrte er in Leipzig (DDR), geriet aber wegen seiner Kritik am Stalinismus in Konflikt mit dem Regime.",
+    "spaetesLeben": "1961 blieb Bloch während eines Aufenthalts in Westdeutschland und nahm eine Gastprofessur in Tübingen an, die zu einer dauerhaften Stelle wurde. In Tübingen wurde er zum intellektuellen Mentor der Studentenbewegung. Bis ins hohe Alter schrieb und lehrte er unermüdlich.",
+    "tod": "Ernst Bloch starb am 4. August 1977 in Tübingen im Alter von 92 Jahren. Sein Werk, lange Zeit von der akademischen Philosophie vernachlässigt, erlebt in den letzten Jahren eine Renaissance.",
+    "nachwirkung": "Blochs Philosophie der Hoffnung und der konkreten Utopie hat die Theologie der Befreiung, die kritische Theorie und die ökologische Bewegung beeinflusst. Sein Konzept des 'Noch-Nicht' als ontologische Kategorie und seine Analyse der Tagträume und Wunschlandschaften sind einzigartige Beiträge zur Philosophie. Jürgen Moltmanns Theologie der Hoffnung wäre ohne Bloch nicht denkbar."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Prinzip Hoffnung",
+      "beschreibung": "Hoffnung ist nicht bloßes Wünschen, sondern eine ontologische Kategorie: Die Welt ist unabgeschlossen, und das Noch-Nicht-Gewordene drängt auf Verwirklichung. In Tagträumen, Kunst und utopischen Entwürfen scheint eine bessere Zukunft vor."
+    },
+    {
+      "titel": "Das Noch-Nicht-Bewusste",
+      "beschreibung": "Neben dem Unbewussten der Psychoanalyse (verdrängte Vergangenheit) gibt es ein Noch-Nicht-Bewusstes: die Ahnung des Kommenden, das Dämmernde der Zukunft. In Tagträumen und utopischen Visionen wird dieses Noch-Nicht-Bewusste greifbar."
+    },
+    {
+      "titel": "Konkrete Utopie",
+      "beschreibung": "Bloch unterscheidet abstrakte von konkreter Utopie. Die konkrete Utopie ist keine bloße Phantasie, sondern gründet in realen Möglichkeiten der Gegenwart. Sie erkennt die Tendenzen und Latenzen der Wirklichkeit und treibt ihre Verwirklichung voran."
+    },
+    {
+      "titel": "Vorschein",
+      "beschreibung": "In der Kunst, der Musik, der Architektur und der Religion scheint die utopische Zukunft vor. Kunstwerke sind nicht bloße Abbilder der Wirklichkeit, sondern Vorscheine des Noch-Nicht-Gewordenen. Beethovens Musik enthält den Vorschein einer befreiten Menschheit."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Das Prinzip Hoffnung",
+      "jahr": "1959",
+      "beschreibung": "Blochs monumentales Hauptwerk in drei Bänden, das eine enzyklopädische Philosophie der Hoffnung und der Utopie entfaltet – von den Tagträumen bis zu den großen Weltentwürfen."
+    },
+    {
+      "titel": "Geist der Utopie",
+      "jahr": "1918",
+      "beschreibung": "Blochs visionäres Frühwerk, das expressionistische Ästhetik mit revolutionärer und messianischer Hoffnung verbindet."
+    },
+    {
+      "titel": "Thomas Münzer als Theologe der Revolution",
+      "jahr": "1921",
+      "beschreibung": "Eine Darstellung des Bauernkriegsführers als Vorläufer des revolutionären Utopismus, die Theologie und Revolution verbindet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Denken heißt Überschreiten.",
+      "quelle": "Das Prinzip Hoffnung",
+      "kontext": "Blochs Grundüberzeugung, dass wahres Denken immer über das Gegebene hinausweist."
+    },
+    {
+      "text": "Die Wurzel der Geschichte ist der arbeitende, schaffende, die Gegebenheiten umbildende und überholende Mensch.",
+      "quelle": "Das Prinzip Hoffnung",
+      "kontext": "Blochs marxistisch-humanistische Überzeugung, dass der Mensch als schaffendes Wesen Geschichte macht."
+    },
+    {
+      "text": "Es kommt darauf an, das Hoffen zu lernen.",
+      "quelle": "Das Prinzip Hoffnung",
+      "kontext": "Der berühmte Eröffnungssatz des Hauptwerks, der Hoffnung als erlernbare Haltung versteht."
+    }
+  ],
+  "verwandtePhilosophen": ["karl-marx", "erich-fromm", "walter-benjamin", "georg-lukacs"],
+  "verwandteIsmen": ["marxismus", "utopismus"]
+}

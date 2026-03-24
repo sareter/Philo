@@ -1,0 +1,84 @@
+{
+  "slug": "hans-georg-gadamer",
+  "name": "Hans-Georg Gadamer",
+  "lebensdaten": "1900–2002",
+  "geboren": {
+    "jahr": 1900,
+    "ort": "Marburg",
+    "land": "Deutschland",
+    "lat": 50.81,
+    "lng": 8.77
+  },
+  "gestorben": {
+    "jahr": 2002,
+    "ort": "Heidelberg",
+    "land": "Deutschland",
+    "lat": 49.4,
+    "lng": 8.69
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Hermeneutik"],
+  "kurzbeschreibung": "Hans-Georg Gadamer war ein deutscher Philosoph, der mit seinem Hauptwerk 'Wahrheit und Methode' die philosophische Hermeneutik als eigenständige Disziplin begründete. Er zeigte, dass Verstehen kein methodisches Verfahren, sondern ein Grundzug des menschlichen Daseins ist. Sein Konzept der 'Horizontverschmelzung' und der 'Wirkungsgeschichte' veränderte das Verständnis von Interpretation und Tradition grundlegend.",
+  "biografie": {
+    "fruehesLeben": "Hans-Georg Gadamer wurde 1900 in Marburg geboren und wuchs in Breslau auf. Er studierte Philosophie in Breslau, Marburg und Freiburg. In Marburg wurde er Schüler Martin Heideggers, der sein Denken entscheidend prägte. Er promovierte 1922 und habilitierte sich 1929.",
+    "schaffen": "Gadamer überstand die NS-Zeit als Privatdozent und Professor in Marburg und Leipzig, ohne dem Regime nahe zu stehen. 1949 folgte er dem Ruf nach Heidelberg, wo er bis zu seiner Emeritierung lehrte. Sein Hauptwerk 'Wahrheit und Methode' (1960) erschien, als er 60 Jahre alt war, und begründete die philosophische Hermeneutik. Es löste eine breite Debatte aus, unter anderem mit Habermas und Derrida.",
+    "spaetesLeben": "Gadamer blieb bis ins höchste Alter intellektuell aktiv. Er führte bedeutende Dialoge mit Jacques Derrida über Dekonstruktion und Hermeneutik. Noch als über Hundertjähriger empfing er Besucher und diskutierte philosophische Fragen.",
+    "tod": "Hans-Georg Gadamer starb am 13. März 2002 in Heidelberg im Alter von 102 Jahren. Er war einer der langlebigsten bedeutenden Philosophen der Geschichte und hinterließ ein Werk, das die Geisteswissenschaften grundlegend veränderte.",
+    "nachwirkung": "Gadamers philosophische Hermeneutik hat die Literaturwissenschaft, die Rechtswissenschaft, die Theologie und die Sozialwissenschaften tiefgreifend beeinflusst. Sein Dialog mit Habermas über die Möglichkeit einer kritischen Hermeneutik und mit Derrida über die Grenzen des Verstehens gehören zu den wichtigsten philosophischen Debatten des 20. Jahrhunderts."
+  },
+  "kernideen": [
+    {
+      "titel": "Horizontverschmelzung",
+      "beschreibung": "Verstehen geschieht als Verschmelzung des Horizonts des Interpreten mit dem Horizont des Textes. Wir verstehen nie 'objektiv', sondern immer aus unserem eigenen geschichtlichen Horizont heraus. Im Verstehen entsteht ein neuer, erweiterter Horizont."
+    },
+    {
+      "titel": "Wirkungsgeschichte",
+      "beschreibung": "Jedes Verstehen steht in einer Wirkungsgeschichte: Die Tradition wirkt in uns, noch bevor wir sie reflektieren. Das 'wirkungsgeschichtliche Bewusstsein' erkennt diese Vorprägung an, statt sie zu leugnen. Vorurteile sind nicht nur Hindernisse, sondern auch Bedingungen des Verstehens."
+    },
+    {
+      "titel": "Das Gespräch als Modell des Verstehens",
+      "beschreibung": "Verstehen ist kein einseitiger Akt der Subjektivität, sondern gleicht einem Gespräch, in dem sich die Gesprächspartner der Sache unterordnen. Im echten Gespräch weiß keiner vorher, was herauskommen wird. Die Sache führt das Gespräch."
+    },
+    {
+      "titel": "Rehabilitierung der Vorurteile",
+      "beschreibung": "Die Aufklärung hat das Vorurteil diskreditiert. Gadamer zeigt, dass Vorurteile (Vorverständnisse) unvermeidlich und zum Teil berechtigt sind. Ohne Vorverständnis ist Verstehen unmöglich. Die Aufgabe ist nicht die Eliminierung, sondern die Überprüfung der Vorurteile."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Wahrheit und Methode",
+      "jahr": "1960",
+      "beschreibung": "Das Hauptwerk der philosophischen Hermeneutik, das Verstehen als Grundzug des menschlichen Daseins analysiert und die Grenzen der wissenschaftlichen Methode aufzeigt."
+    },
+    {
+      "titel": "Die Aktualität des Schönen",
+      "jahr": "1977",
+      "beschreibung": "Eine philosophische Ästhetik, die Kunst als Spiel, Symbol und Fest deutet und ihre Bedeutung für das menschliche Selbstverständnis herausarbeitet."
+    },
+    {
+      "titel": "Wer bin ich und wer bist du? Kommentar zu Celans 'Atemkristall'",
+      "jahr": "1973",
+      "beschreibung": "Ein hermeneutischer Kommentar zu Paul Celans hermetischer Lyrik, der die Grenzen des Verstehens auslotet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Sein, das verstanden werden kann, ist Sprache.",
+      "quelle": "Wahrheit und Methode",
+      "kontext": "Gadamers berühmtester Satz, der die universale Sprachlichkeit des Verstehens betont."
+    },
+    {
+      "text": "Verstehen heißt immer auch anders verstehen.",
+      "quelle": "Wahrheit und Methode",
+      "kontext": "Die hermeneutische Einsicht, dass jede Interpretation immer auch eine neue, andere Perspektive eröffnet."
+    },
+    {
+      "text": "Ein Gespräch setzt voraus, dass der andere recht haben könnte.",
+      "quelle": "Wahrheit und Methode",
+      "kontext": "Gadamers Ethik des Gesprächs: Die Bereitschaft, sich vom Anderen belehren zu lassen."
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "wilhelm-dilthey", "paul-ricoeur", "platon"],
+  "verwandteIsmen": ["hermeneutik"]
+}

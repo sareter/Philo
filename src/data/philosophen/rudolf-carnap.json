@@ -1,0 +1,89 @@
+{
+  "slug": "rudolf-carnap",
+  "name": "Rudolf Carnap",
+  "lebensdaten": "1891–1970",
+  "geboren": {
+    "jahr": 1891,
+    "ort": "Ronsdorf",
+    "land": "Deutschland",
+    "lat": 51.21,
+    "lng": 7.18
+  },
+  "gestorben": {
+    "jahr": 1970,
+    "ort": "Santa Monica",
+    "land": "USA",
+    "lat": 34.02,
+    "lng": -118.49
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Logischer Positivismus"],
+  "kurzbeschreibung": "Rudolf Carnap war ein deutsch-amerikanischer Philosoph und einer der führenden Vertreter des logischen Positivismus und des Wiener Kreises. Er entwickelte eine wissenschaftliche Philosophie, die metaphysische Aussagen als sinnlos verwarf und die Logik zur Grundlage der Erkenntnis machte. Seine Arbeiten zur Sprachanalyse, Induktionslogik und Wissenschaftstheorie gehören zu den bedeutendsten philosophischen Leistungen des 20. Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "Rudolf Carnap wurde 1891 in Ronsdorf (heute Wuppertal) geboren. Er studierte Philosophie, Mathematik und Physik in Jena und Freiburg. In Jena hörte er Gottlob Frege, dessen logische Arbeiten ihn tief beeindruckten. Im Ersten Weltkrieg diente er an der Front.",
+    "schaffen": "Ab 1926 lehrte Carnap an der Universität Wien und wurde zu einem zentralen Mitglied des Wiener Kreises. Sein Werk 'Der logische Aufbau der Welt' (1928) versuchte, alle Begriffe auf elementare Erlebnisse zurückzuführen. 'Überwindung der Metaphysik durch logische Analyse der Sprache' (1932) wurde zum Manifest des logischen Positivismus. Nach seiner Emigration in die USA (1935) lehrte er in Chicago und Los Angeles.",
+    "spaetesLeben": "In den USA wandte sich Carnap der Semantik, der Induktionslogik und der Wahrscheinlichkeitstheorie zu. Sein Projekt einer induktiven Logik blieb unvollendet. Er wurde amerikanischer Staatsbürger und lehrte bis zu seiner Emeritierung an der UCLA.",
+    "tod": "Rudolf Carnap starb am 14. September 1970 in Santa Monica, Kalifornien. Sein Werk hat die analytische Philosophie, die Wissenschaftstheorie und die formale Logik nachhaltig geprägt.",
+    "nachwirkung": "Carnap gilt als einer der wichtigsten Philosophen des 20. Jahrhunderts. Obwohl der logische Positivismus in seiner strengen Form aufgegeben wurde, haben Carnaps Methoden der logischen Analyse und Sprachphilosophie die analytische Philosophie dauerhaft geprägt. Quine, Kuhn und die gesamte moderne Wissenschaftsphilosophie stehen in kritischem Dialog mit seinem Werk."
+  },
+  "kernideen": [
+    {
+      "titel": "Überwindung der Metaphysik",
+      "beschreibung": "Metaphysische Aussagen sind weder wahr noch falsch, sondern sinnlos, weil sie nicht empirisch überprüfbar sind. Sätze wie 'Das Nichts nichtet' (Heidegger) haben keinen kognitiven Gehalt, sondern drücken bestenfalls ein Lebensgefühl aus."
+    },
+    {
+      "titel": "Verifikationsprinzip",
+      "beschreibung": "Der Sinn eines Satzes besteht in der Methode seiner Verifikation. Ein Satz ist nur dann sinnvoll, wenn angegeben werden kann, welche Beobachtungen ihn bestätigen oder widerlegen würden. Dieses Prinzip trennt sinnvolle von sinnlosen Aussagen."
+    },
+    {
+      "titel": "Der logische Aufbau der Welt",
+      "beschreibung": "Alle wissenschaftlichen Begriffe lassen sich durch logische Konstruktion auf elementare Erlebnisse zurückführen. Carnaps 'Konstitutionssystem' versuchte, ausgehend von der 'Ähnlichkeitserinnerung' die gesamte Begriffswelt der Wissenschaft aufzubauen."
+    },
+    {
+      "titel": "Toleranzprinzip der Sprachformen",
+      "beschreibung": "In der Logik gibt es keine Moral. Jeder kann seine Sprachform frei wählen, solange er ihre Regeln klar formuliert. Es gibt keine einzig richtige Sprache, sondern verschiedene Rahmenwerke für verschiedene Zwecke."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Der logische Aufbau der Welt",
+      "jahr": "1928",
+      "beschreibung": "Carnaps Versuch, alle Begriffe durch logische Konstruktion auf elementare Erlebnisse zurückzuführen – ein Meilenstein der analytischen Philosophie."
+    },
+    {
+      "titel": "Überwindung der Metaphysik durch logische Analyse der Sprache",
+      "jahr": "1932",
+      "beschreibung": "Der programmatische Aufsatz, der metaphysische Aussagen als sinnlos verwirft und die logische Analyse als Methode der Philosophie proklamiert."
+    },
+    {
+      "titel": "Logische Syntax der Sprache",
+      "jahr": "1934",
+      "beschreibung": "Eine formale Analyse der Sprache der Wissenschaft, die das Toleranzprinzip einführt und Philosophie auf Sprachanalyse reduziert."
+    },
+    {
+      "titel": "Meaning and Necessity",
+      "jahr": "1947",
+      "beschreibung": "Eine Grundlegung der modalen Logik und Semantik, die die Unterscheidung von Extension und Intension systematisch entwickelt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "In der Logik gibt es keine Moral.",
+      "quelle": "Logische Syntax der Sprache",
+      "kontext": "Das Toleranzprinzip: Jeder darf die Sprachform frei wählen, die seinen Zwecken dient."
+    },
+    {
+      "text": "Die Metaphysiker sind Musiker ohne musikalische Fähigkeiten.",
+      "quelle": "Überwindung der Metaphysik",
+      "kontext": "Carnaps polemische Charakterisierung der Metaphysik als gescheiterter Versuch, ein Lebensgefühl auszudrücken."
+    },
+    {
+      "text": "Der Sinn eines Satzes liegt in der Methode seiner Verifikation.",
+      "quelle": "Scheinprobleme in der Philosophie",
+      "kontext": "Die zentrale These des logischen Positivismus über den Zusammenhang von Bedeutung und Überprüfbarkeit."
+    }
+  ],
+  "verwandtePhilosophen": ["ludwig-wittgenstein", "bertrand-russell", "gottlob-frege", "karl-popper"],
+  "verwandteIsmen": ["logischer-positivismus"]
+}

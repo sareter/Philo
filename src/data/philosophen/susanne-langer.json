@@ -1,0 +1,84 @@
+{
+  "slug": "susanne-langer",
+  "name": "Susanne Langer",
+  "lebensdaten": "1895–1985",
+  "geboren": {
+    "jahr": 1895,
+    "ort": "New York",
+    "land": "USA",
+    "lat": 40.71,
+    "lng": -74.0
+  },
+  "gestorben": {
+    "jahr": 1985,
+    "ort": "Old Lyme",
+    "land": "USA",
+    "lat": 41.32,
+    "lng": -72.33
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Symbolphilosophie"],
+  "kurzbeschreibung": "Susanne Langer war eine amerikanische Philosophin, die eine bahnbrechende Theorie der symbolischen Formen entwickelte. Ihr Hauptwerk 'Philosophie auf neuem Wege' verband Erkenntnistheorie mit Ästhetik und machte sie zu einer der meistgelesenen Philosophinnen des 20. Jahrhunderts. Sie argumentierte, dass der Mensch grundlegend ein Symbol schaffendes Wesen ist und dass Kunst eine Form nicht-diskursiver Erkenntnis darstellt.",
+  "biografie": {
+    "fruehesLeben": "Susanne Katharina Knauth wurde 1895 in New York als Tochter deutscher Einwanderer geboren. Sie studierte Philosophie am Radcliffe College bei Alfred North Whitehead, der ihr Denken nachhaltig prägte.",
+    "schaffen": "Langers Hauptwerk 'Philosophy in a New Key' (1942) wurde ein Bestseller und erreichte ein Millionenpublikum. Sie entwickelte eine Theorie der symbolischen Transformation, die zwischen diskursiven (sprachlichen) und präsentativen (künstlerischen) Symbolformen unterscheidet. Ihr Spätwerk 'Mind: An Essay on Human Feeling' versuchte eine umfassende Philosophie des Geistes auf biologischer Grundlage.",
+    "spaetesLeben": "Langer lehrte am Connecticut College und widmete sich in ihren letzten Jahrzehnten dem monumentalen Werk 'Mind', das in drei Bänden erschien. Sie wurde 1960 als erste Frau in die American Academy of Arts and Sciences gewählt.",
+    "tod": "Susanne Langer starb 1985 in Old Lyme, Connecticut, im Alter von 89 Jahren. Ihr Spätwerk blieb unvollendet.",
+    "nachwirkung": "Langers Symbolphilosophie hat die Ästhetik, die Musikphilosophie und die Kulturwissenschaften nachhaltig beeinflusst. Ihre Verbindung von Kunst und Erkenntnis wird in der zeitgenössischen Philosophie wiederentdeckt."
+  },
+  "kernideen": [
+    {
+      "titel": "Symbolische Transformation",
+      "beschreibung": "Der Mensch verwandelt alle Erfahrung in Symbole. Diese symbolische Transformation ist die grundlegende Tätigkeit des menschlichen Geistes und unterscheidet den Menschen fundamental vom Tier. Symbolbildung ist ein Grundbedürfnis, nicht nur ein Werkzeug."
+    },
+    {
+      "titel": "Diskursive und präsentative Symbolik",
+      "beschreibung": "Langer unterscheidet zwischen diskursiver Symbolik (Sprache, Logik), die Bedeutung sukzessiv vermittelt, und präsentativer Symbolik (Kunst, Musik, Ritual), die Bedeutung als unteilbares Ganzes präsentiert. Beide sind gleichwertige Formen der Erkenntnis."
+    },
+    {
+      "titel": "Kunst als symbolische Form des Gefühls",
+      "beschreibung": "Kunst ist nicht Ausdruck individueller Emotionen, sondern die symbolische Artikulation der Formen des menschlichen Fühlens. Ein Musikstück drückt nicht die Gefühle des Komponisten aus, sondern zeigt die Struktur emotionaler Erfahrung überhaupt."
+    },
+    {
+      "titel": "Philosophie des Geistes auf biologischer Grundlage",
+      "beschreibung": "In ihrem Spätwerk versucht Langer, das Bewusstsein und das Fühlen aus den Grundprozessen des organischen Lebens zu erklären. Das Gefühl ist die subjektive Phase biologischer Aktivität."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Philosophy in a New Key (Philosophie auf neuem Wege)",
+      "jahr": "1942",
+      "beschreibung": "Langers Hauptwerk und Bestseller, das ihre Theorie der symbolischen Transformation als Grundlage einer neuen Philosophie des Geistes und der Kultur darstellt."
+    },
+    {
+      "titel": "Feeling and Form",
+      "jahr": "1953",
+      "beschreibung": "Eine systematische Ästhetik, die Kunst als die Schaffung von Formen versteht, die menschliches Fühlen symbolisch artikulieren."
+    },
+    {
+      "titel": "Mind: An Essay on Human Feeling",
+      "jahr": "1967",
+      "beschreibung": "Langers monumentales Spätwerk in drei Bänden, das eine umfassende Philosophie des Geistes auf biologischer Grundlage zu entwickeln versucht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Bedürfnis nach Symbolisierung ist ein Grundbedürfnis des Menschen, so grundlegend wie Essen und Schlafen.",
+      "quelle": "Philosophy in a New Key",
+      "kontext": "Langers zentrale These über die fundamentale Bedeutung der Symbolbildung für das menschliche Wesen."
+    },
+    {
+      "text": "Musik ist die tonale Analogie des emotionalen Lebens.",
+      "quelle": "Philosophy in a New Key",
+      "kontext": "Langers berühmte Definition der Musik als symbolische Form des menschlichen Gefühlslebens."
+    },
+    {
+      "text": "Kunst ist die Schaffung von Formen, die das menschliche Fühlen symbolisieren.",
+      "quelle": "Feeling and Form",
+      "kontext": "Langers Grunddefinition der Kunst als symbolische Artikulation des Gefühls."
+    }
+  ],
+  "verwandtePhilosophen": ["alfred-north-whitehead", "ernst-cassirer", "ludwig-wittgenstein"],
+  "verwandteIsmen": ["symbolphilosophie"]
+}

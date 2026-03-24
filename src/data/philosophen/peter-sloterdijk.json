@@ -1,0 +1,89 @@
+{
+  "slug": "peter-sloterdijk",
+  "name": "Peter Sloterdijk",
+  "lebensdaten": "1947–",
+  "geboren": {
+    "jahr": 1947,
+    "ort": "Karlsruhe",
+    "land": "Deutschland",
+    "lat": 49.0,
+    "lng": 8.4
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Postmodernismus"],
+  "kurzbeschreibung": "Peter Sloterdijk ist ein deutscher Philosoph und Kulturkritiker, der zu den meistgelesenen und kontroversesten Denkern der Gegenwart gehört. Mit seiner 'Kritik der zynischen Vernunft' schrieb er das meistverkaufte deutschsprachige philosophische Werk des 20. Jahrhunderts. Seine monumentale Sphären-Trilogie entwirft eine philosophische Geschichte der menschlichen Raumschöpfung von der intimen Blase bis zur globalisierten Welt.",
+  "biografie": {
+    "fruehesLeben": "Peter Sloterdijk wurde 1947 in Karlsruhe geboren. Er studierte Philosophie, Germanistik und Geschichte in München und Hamburg. In den 1970er Jahren verbrachte er Zeit im Bhagwan-Ashram in Poona (Indien), eine Erfahrung, die seine spätere philosophische Offenheit für östliches Denken beeinflusste.",
+    "schaffen": "Mit der 'Kritik der zynischen Vernunft' (1983) wurde Sloterdijk schlagartig berühmt. Das Werk analysiert den modernen Zynismus als aufgeklärtes falsches Bewusstsein. Seine Sphären-Trilogie ('Blasen', 'Globen', 'Schäume', 1998-2004) ist ein monumentaler Versuch, die menschliche Existenz als Raumschöpfung zu begreifen. Als Rektor der Staatlichen Hochschule für Gestaltung Karlsruhe und Moderator des 'Philosophischen Quartetts' im ZDF wurde er zum öffentlichen Intellektuellen.",
+    "spaetesLeben": "Sloterdijk lebt weiterhin in Karlsruhe und veröffentlicht regelmäßig neue Werke. Seine Äußerungen zu Migration, Steuerpolitik und dem Zustand der Demokratie lösen regelmäßig öffentliche Kontroversen aus. Er gilt als einer der produktivsten und vielseitigsten deutschsprachigen Philosophen der Gegenwart.",
+    "tod": "Peter Sloterdijk lebt und arbeitet weiterhin in Karlsruhe. Sein umfangreiches Werk umfasst über 50 Bücher zu den verschiedensten philosophischen und kulturkritischen Themen.",
+    "nachwirkung": "Sloterdijks Werk hat die deutsche Gegenwartsphilosophie maßgeblich geprägt und wird international breit rezipiert. Sein Begriff des 'Anthropotechnik' – der bewussten Selbstformung des Menschen durch Übung – hat Debatten über Bildung, Ethik und Technologie angestoßen. Die Sphären-Trilogie gilt als einer der ambitioniertesten philosophischen Entwürfe des 21. Jahrhunderts."
+  },
+  "kernideen": [
+    {
+      "titel": "Zynische Vernunft",
+      "beschreibung": "Der moderne Zynismus ist 'aufgeklärtes falsches Bewusstsein': Die Menschen wissen, dass ihre Ideale falsch sind, handeln aber trotzdem nach ihnen. Die klassische Ideologiekritik greift nicht mehr, weil die Zyniker ihre Illusionen bereits durchschaut haben."
+    },
+    {
+      "titel": "Sphärologie",
+      "beschreibung": "Menschen sind Wesen, die Sphären schaffen – Räume des gemeinsamen Lebens und der gegenseitigen Beseeltheit. Von der intimen Blase (Mutter-Kind) über die Globen der Imperien und Religionen bis zu den Schäumen der modernen Gesellschaft durchzieht die Raumschöpfung die gesamte Menschheitsgeschichte."
+    },
+    {
+      "titel": "Anthropotechnik",
+      "beschreibung": "Der Mensch ist ein übendes Wesen, das sich durch bewusste Praxis selbst formt und übersteigt. Von der asketischen Übung über das sportliche Training bis zur Meditation – 'Du musst dein Leben ändern' ist der Imperativ der Selbstverbesserung durch Übung."
+    },
+    {
+      "titel": "Thymos und Zorn",
+      "beschreibung": "Neben dem Eros (Begehren) ist der Thymos (Stolz, Zorn, Ehrgeiz) eine fundamentale Antriebskraft des Menschen. Die moderne Politik und Ökonomie hat den Thymos vernachlässigt, was zu einer Thymotisierung der Gesellschaft durch Populismus und Ressentiment führt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Kritik der zynischen Vernunft",
+      "jahr": "1983",
+      "beschreibung": "Das meistverkaufte philosophische Werk der deutschen Nachkriegszeit, eine Analyse des modernen Zynismus als 'aufgeklärtes falsches Bewusstsein'."
+    },
+    {
+      "titel": "Sphären I: Blasen",
+      "jahr": "1998",
+      "beschreibung": "Der erste Band der Sphären-Trilogie über die Mikrosphärologie: die intimen Räume menschlicher Beziehungen von der vorgeburtlichen Symbiose bis zur Paarbeziehung."
+    },
+    {
+      "titel": "Du musst dein Leben ändern",
+      "jahr": "2009",
+      "beschreibung": "Eine philosophische Anthropologie der Übung und Selbstformung, die Religion als vertikale Spannung und asketische Praxis neu deutet."
+    },
+    {
+      "titel": "Zorn und Zeit",
+      "jahr": "2006",
+      "beschreibung": "Eine politisch-philosophische Untersuchung des Thymos (Zorn, Stolz) als vernachlässigter Antriebskraft der Geschichte und Politik."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Zynismus ist aufgeklärtes falsches Bewusstsein.",
+      "quelle": "Kritik der zynischen Vernunft",
+      "kontext": "Die zentrale Diagnose der modernen Mentalität: Man weiß, dass es falsch ist, aber macht trotzdem weiter."
+    },
+    {
+      "text": "Du musst dein Leben ändern.",
+      "quelle": "Du musst dein Leben ändern",
+      "kontext": "Der titelgebende Imperativ, den Sloterdijk von Rilkes Gedicht 'Archaischer Torso Apollos' übernimmt und zur philosophischen Maxime der Selbstformung erhebt."
+    },
+    {
+      "text": "Leben heißt, in Sphären leben.",
+      "quelle": "Sphären I: Blasen",
+      "kontext": "Die Grundthese der Sphärologie: Menschliches Dasein ist wesentlich Raumschöpfung und Sphärenbildung."
+    }
+  ],
+  "verwandtePhilosophen": ["friedrich-nietzsche", "martin-heidegger", "byung-chul-han"],
+  "verwandteIsmen": ["postmodernismus"]
+}

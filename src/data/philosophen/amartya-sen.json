@@ -1,0 +1,84 @@
+{
+  "slug": "amartya-sen",
+  "name": "Amartya Sen",
+  "lebensdaten": "1933–",
+  "geboren": {
+    "jahr": 1933,
+    "ort": "Santiniketan",
+    "land": "Indien",
+    "lat": 23.68,
+    "lng": 87.69
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Asien",
+  "hauptstroemungen": ["Utilitarismus", "Humanismus"],
+  "kurzbeschreibung": "Amartya Sen ist ein indischer Ökonom und Philosoph, der 1998 den Nobelpreis für Wirtschaftswissenschaften erhielt. Sein Fähigkeitenansatz definiert Entwicklung nicht über das Bruttoinlandsprodukt, sondern über die realen Freiheiten und Fähigkeiten der Menschen. Seine Arbeiten zu Hungersnöten, Gerechtigkeit und Demokratie haben die internationale Entwicklungspolitik tiefgreifend verändert.",
+  "biografie": {
+    "fruehesLeben": "Amartya Sen wurde 1933 in Santiniketan in Bengalen geboren, wo sein Großvater an Rabindranath Tagores Universität lehrte. Als Neunjähriger erlebte er die bengalische Hungersnot von 1943, bei der drei Millionen Menschen starben. Diese Erfahrung prägte sein lebenslanges Engagement für die Erforschung von Armut und Ungleichheit.",
+    "schaffen": "Sen studierte in Kalkutta und Cambridge und lehrte an den renommiertesten Universitäten der Welt, darunter Oxford, Harvard und Cambridge. Sein bahnbrechendes Werk über Hungersnöte bewies, dass diese nicht durch Nahrungsmangel, sondern durch ungleiche Verteilung und fehlende Demokratie verursacht werden. Zusammen mit Martha Nussbaum entwickelte er den Fähigkeitenansatz als Alternative zu rein ökonomischen Wohlstandsmessungen.",
+    "spaetesLeben": "Sen ist weiterhin als Professor an der Harvard University tätig und engagiert sich in internationalen Debatten über Gerechtigkeit und Entwicklung. Sein Werk 'Die Idee der Gerechtigkeit' (2009) bietet eine Alternative zu idealen Gerechtigkeitstheorien und plädiert für einen vergleichenden Ansatz zur Bekämpfung von Ungerechtigkeit.",
+    "tod": "Amartya Sen lebt und arbeitet weiterhin an der Harvard University. Er gilt als einer der einflussreichsten lebenden Intellektuellen und erhielt zahlreiche internationale Auszeichnungen.",
+    "nachwirkung": "Sens Arbeiten haben die Entwicklungsökonomie und die politische Philosophie grundlegend verändert. Der Human Development Index der Vereinten Nationen basiert auf seinem Fähigkeitenansatz. Seine These, dass Demokratie die beste Versicherung gegen Hungersnöte ist, hat die internationale Politik beeinflusst."
+  },
+  "kernideen": [
+    {
+      "titel": "Der Fähigkeitenansatz (Capability Approach)",
+      "beschreibung": "Entwicklung sollte nicht am Bruttoinlandsprodukt gemessen werden, sondern an den realen Freiheiten und Fähigkeiten der Menschen. Entscheidend ist nicht, was Menschen besitzen, sondern was sie tun und sein können – ihre Fähigkeiten zu einem guten Leben."
+    },
+    {
+      "titel": "Demokratie als Schutz vor Hungersnöten",
+      "beschreibung": "In keiner funktionierenden Demokratie hat es je eine große Hungersnot gegeben. Pressefreiheit und politischer Wettbewerb zwingen Regierungen zum Handeln. Hungersnöte sind keine Naturkatastrophen, sondern das Ergebnis politischen Versagens."
+    },
+    {
+      "titel": "Die Idee der Gerechtigkeit",
+      "beschreibung": "Anstatt eine ideale gerechte Gesellschaft zu entwerfen, sollten wir uns auf die Beseitigung konkreter Ungerechtigkeiten konzentrieren. Ein vergleichender Ansatz, der verschiedene Gerechtigkeitsperspektiven berücksichtigt, ist praktisch fruchtbarer als die Suche nach der perfekten Theorie."
+    },
+    {
+      "titel": "Identität und Gewalt",
+      "beschreibung": "Die Reduktion von Menschen auf eine einzige Identität (Religion, Ethnie, Nation) ist eine Quelle von Gewalt und Konflikten. Jeder Mensch hat multiple Identitäten, und die Anerkennung dieser Vielfalt ist entscheidend für ein friedliches Zusammenleben."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Ökonomie für den Menschen (Development as Freedom)",
+      "jahr": "1999",
+      "beschreibung": "Sens Hauptwerk, das Entwicklung als Erweiterung menschlicher Freiheiten definiert und den Fähigkeitenansatz als Alternative zu rein ökonomischen Entwicklungsmodellen präsentiert."
+    },
+    {
+      "titel": "Die Idee der Gerechtigkeit (The Idea of Justice)",
+      "jahr": "2009",
+      "beschreibung": "Eine Alternative zu idealen Gerechtigkeitstheorien, die für einen vergleichenden, praxisorientierten Ansatz zur Bekämpfung von Ungerechtigkeit plädiert."
+    },
+    {
+      "titel": "Poverty and Famines",
+      "jahr": "1981",
+      "beschreibung": "Die bahnbrechende Studie, die nachwies, dass Hungersnöte nicht durch Nahrungsmangel, sondern durch Verteilungsprobleme und politisches Versagen verursacht werden."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Entwicklung bedeutet Freiheit.",
+      "quelle": "Ökonomie für den Menschen",
+      "kontext": "Die Kernthese von Sens Entwicklungsphilosophie in einem Satz."
+    },
+    {
+      "text": "In keiner funktionierenden Demokratie hat es je eine Hungersnot gegeben.",
+      "quelle": "Poverty and Famines",
+      "kontext": "Sens einflussreiche These über den Zusammenhang von Demokratie und Nahrungssicherheit."
+    },
+    {
+      "text": "Die Reduktion der Menschen auf eine einzige Identität ist eine Brutstätte der Gewalt.",
+      "quelle": "Die Identitätsfalle",
+      "kontext": "Sens Warnung vor der Vereinfachung menschlicher Identität als Quelle von Konflikten."
+    }
+  ],
+  "verwandtePhilosophen": ["martha-nussbaum", "john-rawls"],
+  "verwandteIsmen": ["utilitarismus", "humanismus"]
+}

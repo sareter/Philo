@@ -1,0 +1,75 @@
+{
+  "slug": "julius-bahnsen",
+  "name": "Julius Bahnsen",
+  "lebensdaten": "1830–1881",
+  "geboren": {
+    "jahr": 1830,
+    "ort": "Tondern",
+    "land": "Dänemark",
+    "lat": 54.93,
+    "lng": 8.87
+  },
+  "gestorben": {
+    "jahr": 1881,
+    "ort": "Lauenburg",
+    "land": "Deutschland",
+    "lat": 53.37,
+    "lng": 10.56
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Pessimismus"],
+  "kurzbeschreibung": "Julius Bahnsen war ein deutscher Philosoph, der als Schüler Schopenhauers eine eigenständige pessimistische Philosophie entwickelte, die er als 'Realdialektik' bezeichnete. Er radikalisierte Schopenhauers Willensmetaphysik, indem er den Willen als in sich selbst widersprüchlich und daher unheilbar zerrissen darstellte. Sein Werk geriet nach seinem Tod weitgehend in Vergessenheit, wird aber in jüngster Zeit als Beitrag zum philosophischen Pessimismus wiederentdeckt.",
+  "biografie": {
+    "fruehesLeben": "Julius Bahnsen wurde 1830 in Tondern im damals dänischen Schleswig geboren. Er studierte Philosophie und wurde ein begeisterter Anhänger Arthur Schopenhauers, dessen Willensmetaphysik er weiterentwickelte.",
+    "schaffen": "Bahnsen entwickelte seine 'Realdialektik', die im Gegensatz zu Hegels Dialektik keinen Fortschritt oder Synthese kennt, sondern einen unauflösbaren Widerspruch im Wesen der Wirklichkeit behauptet. Sein Hauptwerk 'Der Widerspruch im Wissen und Wesen der Welt' (1880/82) entfaltet diese These systematisch.",
+    "spaetesLeben": "Bahnsen arbeitete als Gymnasiallehrer in Lauenburg und blieb zeitlebens ein akademischer Außenseiter. Sein düsterer Pessimismus und sein schwieriger Charakter trugen zu seiner Isolation bei.",
+    "tod": "Julius Bahnsen starb 1881 in Lauenburg, kurz nach der Veröffentlichung des ersten Bandes seines Hauptwerks. Der zweite Band erschien posthum.",
+    "nachwirkung": "Bahnsens Werk geriet nach seinem Tod fast vollständig in Vergessenheit. In jüngerer Zeit wird er als radikaler Pessimist wiederentdeckt, der den Widerspruch nicht als Motor des Fortschritts, sondern als unüberwindliche Tragödie verstand."
+  },
+  "kernideen": [
+    {
+      "titel": "Realdialektik",
+      "beschreibung": "Im Gegensatz zu Hegels Dialektik, die Widersprüche in einer höheren Synthese aufhebt, behauptet Bahnsens Realdialektik, dass die Widersprüche in der Wirklichkeit real und unauflösbar sind. Es gibt keinen Fortschritt, keine Versöhnung – nur ewigen Konflikt."
+    },
+    {
+      "titel": "Der Wille als Selbstwiderspruch",
+      "beschreibung": "Bahnsen radikalisiert Schopenhauers Willensmetaphysik: Der Wille ist nicht nur blind und ziellos, sondern in sich selbst widersprüchlich. Er will und will sich zugleich nicht, was zu einem unaufhebbaren inneren Konflikt führt."
+    },
+    {
+      "titel": "Charakterologie",
+      "beschreibung": "Bahnsen entwickelte eine philosophische Charakterlehre, die den individuellen Charakter als unveränderlich und durch innere Widersprüche geprägt versteht. Der Mensch kann seinem Charakter nicht entkommen und ist in seiner Zerrissenheit gefangen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Der Widerspruch im Wissen und Wesen der Welt",
+      "jahr": "1880",
+      "beschreibung": "Bahnsens philosophisches Hauptwerk, in dem er seine Realdialektik systematisch entfaltet und den unauflösbaren Widerspruch als Grundprinzip der Wirklichkeit darstellt."
+    },
+    {
+      "titel": "Beiträge zur Charakterologie",
+      "jahr": "1867",
+      "beschreibung": "Eine philosophische Untersuchung des menschlichen Charakters als unveränderliche, in sich widersprüchliche Grundstruktur der Persönlichkeit."
+    },
+    {
+      "titel": "Das Tragische als Weltgesetz und der Humor als ästhetische Gestalt des Metaphysischen",
+      "jahr": "1877",
+      "beschreibung": "Eine Ästhetik des Tragischen, die das Tragische nicht als literarische Gattung, sondern als metaphysisches Grundprinzip der Wirklichkeit begreift."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Widerspruch ist nicht eine Schwäche unseres Denkens, sondern das Wesen der Wirklichkeit selbst.",
+      "quelle": "Der Widerspruch im Wissen und Wesen der Welt",
+      "kontext": "Die Grundthese der Realdialektik gegen Hegels Aufhebung des Widerspruchs."
+    },
+    {
+      "text": "Es gibt keine Erlösung, weder durch Erkenntnis noch durch Askese – der Wille ist in sich selbst zerrissen und bleibt es.",
+      "quelle": "Der Widerspruch im Wissen und Wesen der Welt",
+      "kontext": "Bahnsens Radikalisierung von Schopenhauers Pessimismus, der noch eine Erlösung durch Willensverneinung kannte."
+    }
+  ],
+  "verwandtePhilosophen": ["arthur-schopenhauer", "eduard-von-hartmann", "georg-wilhelm-friedrich-hegel"],
+  "verwandteIsmen": ["pessimismus", "idealismus"]
+}

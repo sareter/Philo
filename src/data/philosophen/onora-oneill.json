@@ -1,0 +1,82 @@
+{
+  "slug": "onora-oneill",
+  "name": "Onora O'Neill",
+  "lebensdaten": "1941–",
+  "geboren": {
+    "jahr": 1941,
+    "ort": "Aughafatten",
+    "land": "Nordirland",
+    "lat": 54.87,
+    "lng": -6.14
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Kantianismus"],
+  "kurzbeschreibung": "Onora O'Neill ist eine britisch-irische Philosophin, die als eine der führenden Vertreterinnen des zeitgenössischen Kantianismus gilt. Ihr Denken verbindet Kants praktische Philosophie mit Fragen der Gerechtigkeit, der Bioethik und des Vertrauens. Als Mitglied des House of Lords hat sie philosophisches Denken direkt in die politische Praxis eingebracht.",
+  "biografie": {
+    "fruehesLeben": "Onora O'Neill wurde 1941 in Aughafatten in Nordirland geboren und studierte an der Oxford University und der Harvard University, wo sie bei John Rawls promovierte. Ihre philosophische Ausbildung verband die britische analytische Tradition mit dem politischen Liberalismus.",
+    "schaffen": "O'Neill lehrte an der University of Essex und war von 1992 bis 2006 Rektorin des Newnham College in Cambridge. Sie entwickelte eine einflussreiche kantische Theorie der Gerechtigkeit, die sich von Rawls' Ansatz unterscheidet und stärker auf Pflichten als auf Rechte fokussiert. Ihre Reith Lectures über Vertrauen (2002) machten sie einem breiten Publikum bekannt.",
+    "spaetesLeben": "O'Neill wurde 1999 als Baroness O'Neill of Bengarve in den Adelsstand erhoben und sitzt seitdem im House of Lords. Sie war Vorsitzende des Nuffield Council on Bioethics und der British Academy. Ihr philosophisches Engagement für Gerechtigkeit und Vertrauen verbindet sie direkt mit der politischen Praxis.",
+    "tod": "Onora O'Neill lebt und arbeitet in Cambridge und London. Sie verbindet akademische Philosophie mit öffentlichem Engagement auf eine Weise, die in der zeitgenössischen Philosophie selten ist.",
+    "nachwirkung": "O'Neills kantische Gerechtigkeitstheorie hat die politische Philosophie und die Bioethik nachhaltig beeinflusst. Ihre Analyse von Vertrauen und Rechenschaftspflicht ist in der politischen Theorie und der Ethik der Institutionen weit rezipiert. Sie gilt als Vorbild für die Verbindung von Philosophie und öffentlichem Engagement."
+  },
+  "kernideen": [
+    {
+      "titel": "Kantische Gerechtigkeit ohne Rawls",
+      "beschreibung": "O'Neill entwickelt eine kantische Gerechtigkeitstheorie, die sich von Rawls' idealem Ansatz unterscheidet. Statt von idealen Institutionen auszugehen, fragt sie, was konkrete Akteure hier und jetzt tun können, um Gerechtigkeit zu verwirklichen. Der Fokus liegt auf Pflichten, nicht auf Rechten."
+    },
+    {
+      "titel": "Vertrauen und Rechenschaftspflicht",
+      "beschreibung": "Vertrauen kann nicht verordnet werden – es muss durch transparente und rechenschaftspflichtige Institutionen verdient werden. Die moderne Kultur des Misstrauens entsteht nicht durch zu wenig Kontrolle, sondern durch die falsche Art von Kontrolle, die Vertrauen gerade untergräbt."
+    },
+    {
+      "titel": "Konstruktiver Kantianismus",
+      "beschreibung": "Moralische Prinzipien werden nicht aus der reinen Vernunft abgeleitet, sondern konstruktiv entwickelt, indem man fragt, welche Handlungsmaximen von allen Betroffenen vernünftigerweise akzeptiert werden können. Dies ist ein praktischer, nicht ein metaphysischer Ansatz."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Gesichter des Hungers (Faces of Hunger)",
+      "jahr": "1986",
+      "beschreibung": "Eine kantische Analyse globaler Gerechtigkeit und der Pflicht zur Bekämpfung von Hunger und Armut."
+    },
+    {
+      "titel": "Grenzen der Gerechtigkeit (Bounds of Justice)",
+      "jahr": "2000",
+      "beschreibung": "Eine Sammlung von Essays über Gerechtigkeit, die den Fokus von Rechten auf Pflichten verschiebt und kantische Prinzipien auf globale Fragen anwendet."
+    },
+    {
+      "titel": "Autonomie und Vertrauen in der Bioethik (Autonomy and Trust in Bioethics)",
+      "jahr": "2002",
+      "beschreibung": "Eine Kritik der individualisierten Autonomie in der Bioethik und ein Plädoyer für ein Verständnis von Autonomie als vernünftige Selbstgesetzgebung."
+    },
+    {
+      "titel": "Vernunft zur Geltung bringen (Acting on Principle)",
+      "jahr": "1975",
+      "beschreibung": "O'Neills Doktorarbeit, die Kants Kategorischen Imperativ als handlungsleitenden Grundsatz für reale moralische Entscheidungen interpretiert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Gerechtigkeit beginnt nicht mit Rechten, sondern mit Pflichten – denn Rechte ohne Pflichtträger sind leer.",
+      "quelle": "Grenzen der Gerechtigkeit"
+    },
+    {
+      "text": "Vertrauen ist kein Gefühl, das man erzeugen kann, sondern eine vernünftige Reaktion auf Vertrauenswürdigkeit.",
+      "quelle": "Reith Lectures"
+    },
+    {
+      "text": "Wir brauchen nicht mehr Transparenz, sondern bessere Rechenschaftspflicht.",
+      "quelle": "Reith Lectures"
+    }
+  ],
+  "verwandtePhilosophen": ["immanuel-kant", "john-rawls", "christine-korsgaard"],
+  "verwandteIsmen": ["kantianismus"]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "edith-stein",
+  "name": "Edith Stein",
+  "lebensdaten": "1891–1942",
+  "geboren": {
+    "jahr": 1891,
+    "ort": "Breslau",
+    "land": "Deutschland",
+    "lat": 51.1,
+    "lng": 17.04
+  },
+  "gestorben": {
+    "jahr": 1942,
+    "ort": "Auschwitz",
+    "land": "Deutschland",
+    "lat": 50.04,
+    "lng": 19.18
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Phänomenologie"],
+  "kurzbeschreibung": "Edith Stein war eine deutsche Philosophin, Phänomenologin und Karmelitin, die als Schülerin Edmund Husserls zu einer bedeutenden Denkerin der Phänomenologie wurde. Ihre Arbeiten zur Einfühlung, zur Frauenfrage und zum Verhältnis von Phänomenologie und Thomismus gehören zu den wichtigsten philosophischen Beiträgen des 20. Jahrhunderts. Als konvertierte Jüdin wurde sie 1942 in Auschwitz ermordet und 1998 heiliggesprochen.",
+  "biografie": {
+    "fruehesLeben": "Edith Stein wurde 1891 in Breslau als jüngstes von elf Kindern einer jüdischen Familie geboren. Sie studierte Philosophie, Psychologie und Geschichte in Breslau und Göttingen. In Göttingen wurde sie Schülerin Edmund Husserls und folgte ihm nach Freiburg, wo sie 1916 mit einer Arbeit über das Problem der Einfühlung promovierte.",
+    "schaffen": "Stein arbeitete als Assistentin Husserls und ordnete seine Manuskripte. Nach ihrer Konversion zum Katholizismus 1922 lehrte sie an einer Dominikanerinnenschule in Speyer und am Deutschen Institut für wissenschaftliche Pädagogik in Münster. Sie verfasste bedeutende Werke über Phänomenologie, thomistische Philosophie, die Stellung der Frau und die christliche Mystik.",
+    "spaetesLeben": "1933 trat Edith Stein in den Kölner Karmel ein und nahm den Ordensnamen Teresia Benedicta a Cruce an. Im Kloster setzte sie ihre philosophische Arbeit fort und verfasste ihr Hauptwerk 'Endliches und ewiges Sein'. 1938 wurde sie in den Karmel im niederländischen Echt verlegt.",
+    "tod": "Am 2. August 1942 wurde Edith Stein zusammen mit ihrer Schwester Rosa von der Gestapo in Echt verhaftet und nach Auschwitz deportiert. Sie wurde am 9. August 1942 in der Gaskammer ermordet. 1987 wurde sie seliggesprochen und 1998 von Papst Johannes Paul II. heiliggesprochen.",
+    "nachwirkung": "Edith Steins philosophisches Werk wird zunehmend als eigenständiger Beitrag zur Phänomenologie und zur philosophischen Anthropologie gewürdigt. Ihre Verbindung von Phänomenologie und Thomismus, ihre Arbeiten zur Einfühlung und ihre Reflexionen über die Frauenfrage finden wachsendes Interesse. Ihre Heiligsprechung als Märtyrerin würdigt auch ihr Schicksal als Opfer des Holocaust."
+  },
+  "kernideen": [
+    {
+      "titel": "Einfühlung (Empathie)",
+      "beschreibung": "In ihrer Dissertation analysierte Stein die Einfühlung als eine eigenständige Erkenntnisform, durch die wir das Erleben anderer Menschen erfassen. Einfühlung ist weder bloße Projektion noch Nachahmung, sondern ein genuiner Zugang zum Bewusstsein des Anderen."
+    },
+    {
+      "titel": "Verbindung von Phänomenologie und Thomismus",
+      "beschreibung": "Stein versuchte eine Synthese zwischen der Phänomenologie Husserls und der Philosophie des Thomas von Aquin. Die phänomenologische Methode und die thomistische Metaphysik ergänzen sich: Die Phänomenologie beschreibt die Erfahrung, der Thomismus deutet ihren metaphysischen Grund."
+    },
+    {
+      "titel": "Philosophische Anthropologie der Frau",
+      "beschreibung": "Stein entwickelte eine differenzierte Theorie der weiblichen Eigenart, die weder auf biologischen Determinismus noch auf die Leugnung geschlechtlicher Unterschiede hinausläuft. Sie plädierte für gleiche Bildungschancen und die volle Entfaltung der weiblichen Begabungen."
+    },
+    {
+      "titel": "Endliches und ewiges Sein",
+      "beschreibung": "In ihrem philosophischen Hauptwerk analysiert Stein die Seinsfrage von der Phänomenologie und vom Thomismus her. Das endliche Sein verweist auf das ewige Sein Gottes. Die menschliche Person ist ein leib-seelisch-geistiges Wesen, das in seiner Endlichkeit auf die Unendlichkeit hin angelegt ist."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Zum Problem der Einfühlung",
+      "jahr": "1917",
+      "beschreibung": "Steins Dissertation, die eine phänomenologische Analyse der Einfühlung als eigenständige Erkenntnisform des fremden Bewusstseins bietet."
+    },
+    {
+      "titel": "Endliches und ewiges Sein",
+      "jahr": "1950",
+      "beschreibung": "Steins philosophisches Hauptwerk, das eine Synthese von Phänomenologie und Thomismus versucht und die Seinsfrage umfassend behandelt. Posthum veröffentlicht."
+    },
+    {
+      "titel": "Die Frau",
+      "jahr": "1959",
+      "beschreibung": "Eine Sammlung von Vorträgen und Aufsätzen über die Stellung und Berufung der Frau aus philosophischer und theologischer Perspektive."
+    },
+    {
+      "titel": "Kreuzeswissenschaft",
+      "jahr": "1950",
+      "beschreibung": "Steins letztes, unvollendetes Werk über die Mystik des Johannes vom Kreuz, das die Verbindung von Philosophie und christlicher Kontemplation darstellt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wer die Wahrheit sucht, der sucht Gott, ob es ihm klar ist oder nicht.",
+      "quelle": "Endliches und ewiges Sein",
+      "kontext": "Steins Überzeugung, dass die philosophische Wahrheitssuche letztlich auf Gott verweist."
+    },
+    {
+      "text": "Die Einfühlung ist der Grundakt, durch den wir fremdes Erleben erfassen.",
+      "quelle": "Zum Problem der Einfühlung",
+      "kontext": "Die Kernthese ihrer Dissertation über die phänomenologische Struktur der Empathie."
+    },
+    {
+      "text": "Jede Frau hat ihre besondere Berufung, und zwar jede eine andere.",
+      "quelle": "Die Frau",
+      "kontext": "Steins differenzierte Position zur Individualität der weiblichen Berufung gegen jede Pauschalisierung."
+    }
+  ],
+  "verwandtePhilosophen": ["edmund-husserl", "thomas-von-aquin", "max-scheler"],
+  "verwandteIsmen": ["phaenomenologie"]
+}

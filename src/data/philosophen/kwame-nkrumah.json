@@ -1,0 +1,82 @@
+{
+  "slug": "kwame-nkrumah",
+  "name": "Kwame Nkrumah",
+  "lebensdaten": "1909–1972",
+  "geboren": {
+    "jahr": 1909,
+    "ort": "Nkroful",
+    "land": "Ghana",
+    "lat": 5.27,
+    "lng": -2.33
+  },
+  "gestorben": {
+    "jahr": 1972,
+    "ort": "Bukarest",
+    "land": "Rumänien",
+    "lat": 44.43,
+    "lng": 26.1
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Afrika",
+  "hauptstroemungen": ["Sozialismus"],
+  "kurzbeschreibung": "Kwame Nkrumah war ein ghanaischer Staatsmann und politischer Philosoph, der als Vater der ghanaischen Unabhängigkeit und Vordenker des Panafrikanismus gilt. Er entwickelte die Philosophie des Consciencismus als Synthese aus afrikanischen Traditionen, westlicher Philosophie und sozialistischer Theorie. Sein Denken prägte die afrikanische Unabhängigkeitsbewegung nachhaltig.",
+  "biografie": {
+    "fruehesLeben": "Kwame Nkrumah wurde 1909 in Nkroful in der britischen Goldküste geboren und studierte zunächst am Achimota College. Er ging in die USA und studierte an der Lincoln University und der University of Pennsylvania Philosophie und Theologie. In London schloss er sich der panafrikanischen Bewegung an.",
+    "schaffen": "Nach seiner Rückkehr nach Ghana führte Nkrumah die Unabhängigkeitsbewegung an und wurde 1957 der erste Premierminister des unabhängigen Ghana. Er entwickelte seine Philosophie des Consciencismus als intellektuelle Grundlage für den afrikanischen Sozialismus. Als Staatsoberhaupt trieb er die panafrikanische Einigung voran und gründete die Organisation für Afrikanische Einheit mit.",
+    "spaetesLeben": "Nkrumahs zunehmend autoritäre Herrschaft führte 1966 zu einem Militärputsch, während er sich auf einer Auslandsreise befand. Er ging ins Exil nach Guinea, wo ihn Präsident Sékou Touré als Ko-Staatsoberhaupt aufnahm. Im Exil schrieb er weiter über Neokolonialismus und afrikanische Einheit.",
+    "tod": "Kwame Nkrumah starb am 27. April 1972 in Bukarest, wo er sich zur medizinischen Behandlung aufhielt. Sein Leichnam wurde nach Ghana überführt und in einem Mausoleum in Accra beigesetzt. Trotz der Kontroversen um seine Herrschaft wird er als Visionär der afrikanischen Befreiung verehrt.",
+    "nachwirkung": "Nkrumahs Ideen des Panafrikanismus und des afrikanischen Sozialismus inspirierten Generationen afrikanischer Intellektueller und Politiker. Seine Analyse des Neokolonialismus bleibt ein Schlüsseltext der postkolonialen Theorie. Die Afrikanische Union ist die Verwirklichung seiner Vision kontinentaler Einheit."
+  },
+  "kernideen": [
+    {
+      "titel": "Consciencismus",
+      "beschreibung": "Der Consciencismus ist Nkrumahs Versuch, eine eigenständige afrikanische Philosophie zu formulieren, die traditionelle afrikanische Werte mit den Errungenschaften des westlichen Denkens und des Sozialismus verbindet. Er soll die intellektuelle Grundlage für die Dekolonisierung bilden."
+    },
+    {
+      "titel": "Panafrikanismus",
+      "beschreibung": "Afrika kann seine wahre Freiheit nur als vereinigter Kontinent erreichen. Die von den Kolonialisten gezogenen Grenzen sind künstlich und müssen durch eine kontinentale politische Union überwunden werden. Nur ein geeintes Afrika kann dem Neokolonialismus widerstehen."
+    },
+    {
+      "titel": "Neokolonialismus als letzte Stufe des Imperialismus",
+      "beschreibung": "Die politische Unabhängigkeit allein befreit Afrika nicht, solange die wirtschaftliche Abhängigkeit fortbesteht. Der Neokolonialismus kontrolliert die ehemaligen Kolonien durch wirtschaftliche Mechanismen, internationale Organisationen und militärische Interventionen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Consciencismus – Philosophie und Ideologie der Entkolonisierung",
+      "jahr": "1964",
+      "beschreibung": "Nkrumahs philosophisches Hauptwerk, in dem er seine Synthese aus afrikanischen Traditionen, westlicher Philosophie und sozialistischem Denken entfaltet."
+    },
+    {
+      "titel": "Afrika muss sich vereinigen",
+      "jahr": "1963",
+      "beschreibung": "Ein leidenschaftliches Plädoyer für die politische Einigung des afrikanischen Kontinents als Voraussetzung für wahre Freiheit und Entwicklung."
+    },
+    {
+      "titel": "Neokolonialismus – Die letzte Stufe des Imperialismus",
+      "jahr": "1965",
+      "beschreibung": "Eine Analyse der subtilen Formen der Kontrolle, die die ehemaligen Kolonialmächte über die unabhängig gewordenen Staaten ausüben."
+    },
+    {
+      "titel": "Die Autobiographie von Kwame Nkrumah",
+      "jahr": "1957",
+      "beschreibung": "Nkrumahs persönlicher Bericht über seinen Werdegang und den Kampf um die Unabhängigkeit Ghanas."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wir blicken weder nach Westen noch nach Osten; wir blicken nach vorn.",
+      "quelle": "Reden"
+    },
+    {
+      "text": "Die Befreiung Ghanas ist bedeutungslos, wenn sie nicht mit der Befreiung ganz Afrikas verbunden ist.",
+      "quelle": "Unabhängigkeitserklärung Ghanas"
+    },
+    {
+      "text": "Der Neokolonialismus ist die schlimmste Form des Imperialismus. Für die, die ihn praktizieren, bedeutet er Macht ohne Verantwortung.",
+      "quelle": "Neokolonialismus"
+    }
+  ],
+  "verwandtePhilosophen": ["karl-marx", "leopold-sedar-senghor", "achille-mbembe"],
+  "verwandteIsmen": ["sozialismus"]
+}

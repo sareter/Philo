@@ -1,0 +1,86 @@
+{
+  "slug": "nishida-kitaro",
+  "name": "Nishida Kitarō",
+  "lebensdaten": "1870–1945",
+  "geboren": {
+    "jahr": 1870,
+    "ort": "Kahoku",
+    "land": "Japan",
+    "lat": 36.72,
+    "lng": 136.71
+  },
+  "gestorben": {
+    "jahr": 1945,
+    "ort": "Kamakura",
+    "land": "Japan",
+    "lat": 35.32,
+    "lng": 139.55
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Asien",
+  "hauptstroemungen": ["Buddhistische Philosophie", "Phänomenologie"],
+  "kurzbeschreibung": "Nishida Kitarō war der bedeutendste japanische Philosoph des 20. Jahrhunderts und Begründer der Kyoto-Schule. Er schuf eine originelle Synthese aus westlicher Philosophie und östlicher Zen-Tradition. Sein Konzept des 'absoluten Nichts' und der 'reinen Erfahrung' stellt einen einzigartigen Beitrag zur Weltphilosophie dar.",
+  "biografie": {
+    "fruehesLeben": "Nishida Kitarō wurde 1870 in der Provinz Kaga (heute Kahoku) in eine Lehrerfamilie geboren. Er studierte Philosophie an der Kaiserlichen Universität Tokio und war dort Kommilitone von D.T. Suzuki. Früh wandte er sich sowohl der westlichen Philosophie als auch der Zen-Meditation zu.",
+    "schaffen": "Mit seiner 'Studie über das Gute' (1911) begründete Nishida die erste originäre japanische Philosophie, die westliches und östliches Denken verband. Als Professor an der Universität Kyoto entwickelte er seine Philosophie des 'Ortes' (Basho) und des 'absoluten Nichts', die zu einer einflussreichen philosophischen Schule heranwuchs. Seine Spätphilosophie kreiste um die 'Logik des Ortes' und die dialektische Weltanschauung.",
+    "spaetesLeben": "In den 1930er und 1940er Jahren geriet Nishida in ein Spannungsfeld zwischen seiner universalistischen Philosophie und dem japanischen Nationalismus. Er versuchte, eine kosmopolitische Position zu vertreten, wurde aber von Militaristen für ihre Zwecke vereinnahmt. Seine späten Schriften reflektieren diese schwierige Lage.",
+    "tod": "Nishida starb am 7. Juni 1945 in Kamakura, wenige Monate vor dem Ende des Zweiten Weltkriegs. Sein Tod markierte das Ende einer Ära der japanischen Philosophie. Die Kyoto-Schule, die er begründet hatte, blieb jedoch lebendig und einflussreich.",
+    "nachwirkung": "Nishidas Philosophie wird heute als einer der bedeutendsten Versuche gewürdigt, östliches und westliches Denken in Dialog zu bringen. Die Kyoto-Schule, zu der Tanabe Hajime und Nishitani Keiji gehörten, ist international anerkannt. Sein Konzept des absoluten Nichts wird in der vergleichenden Philosophie und interkulturellen Hermeneutik intensiv diskutiert."
+  },
+  "kernideen": [
+    {
+      "titel": "Reine Erfahrung (Junsui Keiken)",
+      "beschreibung": "Die reine Erfahrung ist die unmittelbare Erfahrung vor jeder Unterscheidung von Subjekt und Objekt. In ihr fallen Denken und Sein, Erkennen und Handeln zusammen. Sie bildet den Ausgangspunkt von Nishidas gesamter Philosophie."
+    },
+    {
+      "titel": "Absolutes Nichts (Zettai Mu)",
+      "beschreibung": "Das absolute Nichts ist kein bloßes Fehlen von Sein, sondern der grundlegende Ort, in dem alles Seiende erscheint. Es ist das formlose Feld, das alle Formen ermöglicht. Nishida verbindet hier die buddhistische Leerheitslehre mit westlicher Ontologie."
+    },
+    {
+      "titel": "Logik des Ortes (Basho no Ronri)",
+      "beschreibung": "Jedes Urteil und jede Erkenntnis findet in einem 'Ort' statt – einem umfassenden Feld, das Subjekt und Objekt umgreift. Der tiefste Ort ist das absolute Nichts, in dem sich die Selbstbestimmung der Wirklichkeit vollzieht."
+    },
+    {
+      "titel": "Widersprüchliche Selbstidentität",
+      "beschreibung": "Die Wirklichkeit hat die Struktur einer 'widersprüchlichen Selbstidentität': Gegensätze wie Eines und Vieles, Ewigkeit und Augenblick sind nicht aufzulösen, sondern in ihrer Spannung zu begreifen. Dies ist Nishidas originelle Dialektik."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Über das Gute (Zen no Kenkyū)",
+      "jahr": "1911",
+      "beschreibung": "Nishidas erstes und berühmtestes Werk, das ausgehend vom Begriff der 'reinen Erfahrung' eine originelle Metaphysik und Ethik entwickelt."
+    },
+    {
+      "titel": "Vom Wirkenden zum Sehenden",
+      "jahr": "1927",
+      "beschreibung": "In diesem Werk entwickelt Nishida die Logik des Ortes und wendet sich von einem handlungstheoretischen zu einem kontemplativen Philosophieansatz."
+    },
+    {
+      "titel": "Die Logik des Ortes und die religiöse Weltanschauung",
+      "jahr": "1945",
+      "beschreibung": "Nishidas letztes bedeutendes Werk, in dem er seine Philosophie des absoluten Nichts mit religiösen Fragen verbindet."
+    },
+    {
+      "titel": "Grundprobleme der Philosophie",
+      "jahr": "1933",
+      "beschreibung": "Eine systematische Darstellung seiner Philosophie, in der er die Dialektik der widersprüchlichen Selbstidentität entfaltet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die wahre Wirklichkeit ist nicht etwas, das dem Individuum gegenübersteht, sondern etwas, in dem das Individuum lebt.",
+      "quelle": "Über das Gute"
+    },
+    {
+      "text": "Das absolute Nichts ist nicht das Gegenteil des Seins, sondern der Ort, an dem das Sein sich selbst bestimmt.",
+      "quelle": "Die Logik des Ortes"
+    },
+    {
+      "text": "Wahre Religion entsteht dort, wo das Selbst in seinen tiefsten Grund blickt.",
+      "quelle": "Die Logik des Ortes und die religiöse Weltanschauung"
+    }
+  ],
+  "verwandtePhilosophen": ["edmund-husserl", "martin-heidegger", "dogen"],
+  "verwandteIsmen": ["buddhistische-philosophie", "phaenomenologie"]
+}

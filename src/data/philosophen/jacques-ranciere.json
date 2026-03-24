@@ -1,0 +1,89 @@
+{
+  "slug": "jacques-ranciere",
+  "name": "Jacques Rancière",
+  "lebensdaten": "1940–",
+  "geboren": {
+    "jahr": 1940,
+    "ort": "Algier",
+    "land": "Algerien",
+    "lat": 36.75,
+    "lng": 3.06
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Politische Philosophie"],
+  "kurzbeschreibung": "Jacques Rancière ist ein französischer Philosoph, der für seine radikale Neubestimmung von Politik und Ästhetik bekannt ist. Er unterscheidet zwischen 'Polizei' (der bestehenden Ordnung der Gesellschaft) und 'Politik' (der Unterbrechung dieser Ordnung durch die, die keinen Anteil haben). Sein Konzept der 'Aufteilung des Sinnlichen' verbindet politische Philosophie und Ästhetik auf originelle Weise.",
+  "biografie": {
+    "fruehesLeben": "Jacques Rancière wurde 1940 in Algier geboren. Er studierte an der École Normale Supérieure in Paris bei Louis Althusser und war Mitautor von 'Das Kapital lesen' (1965).",
+    "schaffen": "Nach seinem Bruch mit Althusser wandte sich Rancière der Geschichte der Arbeiteremanzipation zu. In 'La Nuit des prolétaires' (1981) untersuchte er die intellektuellen Aspirationen von Arbeitern im 19. Jahrhundert. Seine politische Philosophie, die in 'La Mésentente' (1995) ihren klarsten Ausdruck fand, definiert Politik als den Moment, in dem die Ausgeschlossenen die bestehende Ordnung in Frage stellen.",
+    "spaetesLeben": "Rancière war Professor an der Universität Paris VIII (Saint-Denis) und hat nach seiner Emeritierung weiter publiziert. Seine Arbeiten zur Ästhetik und zum Kino haben in den letzten Jahrzehnten große internationale Aufmerksamkeit erlangt.",
+    "tod": "Jacques Rancière lebt und arbeitet weiterhin in Paris.",
+    "nachwirkung": "Rancière hat die zeitgenössische politische Philosophie und Ästhetik tiefgreifend beeinflusst. Seine Begriffe der 'Aufteilung des Sinnlichen' und des 'Unvernehmens' sind zu Schlüsselbegriffen der politischen Theorie geworden."
+  },
+  "kernideen": [
+    {
+      "titel": "Politik und Polizei",
+      "beschreibung": "Rancière unterscheidet scharf zwischen 'Polizei' – der bestehenden Ordnung, die jedem seinen Platz zuweist – und 'Politik' – dem Moment, in dem die, die in dieser Ordnung nicht zählen, ihre Gleichheit geltend machen und die Ordnung damit unterbrechen."
+    },
+    {
+      "titel": "Die Aufteilung des Sinnlichen",
+      "beschreibung": "Jede Gesellschaftsordnung beruht auf einer 'Aufteilung des Sinnlichen': Sie bestimmt, was sichtbar und unsichtbar, sagbar und unsagbar, hörbar und unhörbar ist. Politik und Kunst können diese Aufteilung verändern."
+    },
+    {
+      "titel": "Die Gleichheit der Intelligenzen",
+      "beschreibung": "Rancière vertritt die radikale These, dass alle Menschen gleich intelligent sind. Ungleichheit ist nicht naturgegeben, sondern wird durch gesellschaftliche Institutionen – insbesondere das Bildungssystem – erzeugt und aufrechterhalten."
+    },
+    {
+      "titel": "Der emanzipierte Zuschauer",
+      "beschreibung": "Gegen die Tradition, die den Zuschauer als passiv betrachtet, argumentiert Rancière, dass Zuschauen bereits eine aktive Tätigkeit ist. Emanzipation bedeutet nicht, den Zuschauer zum Handelnden zu machen, sondern die Opposition zwischen Zuschauen und Handeln aufzuheben."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "La Mésentente (Das Unvernehmen)",
+      "jahr": "1995",
+      "beschreibung": "Rancières politisch-philosophisches Hauptwerk, das Politik als den Konflikt zwischen der bestehenden Ordnung und dem Anspruch der Ausgeschlossenen auf Gleichheit definiert."
+    },
+    {
+      "titel": "Le Partage du sensible (Die Aufteilung des Sinnlichen)",
+      "jahr": "2000",
+      "beschreibung": "Ein einflussreicher Essay, der die Verbindung von Ästhetik und Politik über den Begriff der 'Aufteilung des Sinnlichen' herstellt."
+    },
+    {
+      "titel": "Le Maître ignorant (Der unwissende Lehrmeister)",
+      "jahr": "1987",
+      "beschreibung": "Eine philosophische Erzählung über den französischen Pädagogen Joseph Jacotot, die Rancières These von der Gleichheit der Intelligenzen darstellt."
+    },
+    {
+      "titel": "Le Spectateur émancipé (Der emanzipierte Zuschauer)",
+      "jahr": "2008",
+      "beschreibung": "Eine Sammlung von Essays über das Verhältnis von Kunst, Politik und Zuschauerschaft."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Politik findet statt, wenn diejenigen, die keinen Anteil haben, den Anteil der Anteillosen geltend machen.",
+      "quelle": "La Mésentente",
+      "kontext": "Rancières Grunddefinition von Politik als Unterbrechung der bestehenden Ordnung durch die Ausgeschlossenen."
+    },
+    {
+      "text": "Es gibt keine Kluft zwischen Intellektuellen und Arbeitern; es gibt nur die Ordnung, die diese Kluft behauptet.",
+      "quelle": "Le Maître ignorant",
+      "kontext": "Rancières radikale Gleichheitsthese gegen alle Formen intellektueller Hierarchie."
+    },
+    {
+      "text": "Die Kunst ist politisch, nicht weil sie politische Botschaften vermittelt, sondern weil sie die Aufteilung des Sinnlichen verändert.",
+      "quelle": "Le Partage du sensible",
+      "kontext": "Rancières Neubestimmung des Verhältnisses von Kunst und Politik."
+    }
+  ],
+  "verwandtePhilosophen": ["louis-althusser", "michel-foucault", "jean-paul-sartre"],
+  "verwandteIsmen": ["politische-philosophie"]
+}

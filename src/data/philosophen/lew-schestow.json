@@ -1,0 +1,80 @@
+{
+  "slug": "lew-schestow",
+  "name": "Lew Schestow",
+  "lebensdaten": "1866–1938",
+  "geboren": {
+    "jahr": 1866,
+    "ort": "Kiew",
+    "land": "Ukraine",
+    "lat": 50.45,
+    "lng": 30.52
+  },
+  "gestorben": {
+    "jahr": 1938,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.86,
+    "lng": 2.35
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Irrationalismus", "Existenzialismus"],
+  "kurzbeschreibung": "Lew Schestow war ein russisch-jüdischer Philosoph, der eine radikale Kritik der Vernunft und der abendländischen Philosophie entwickelte. Er stellte den biblischen Glauben gegen die griechische Vernunft und argumentierte, dass die wahre Freiheit nur jenseits der Vernunft und ihrer Notwendigkeiten zu finden sei. Sein Werk beeinflusste den Existenzialismus und die existenzielle Theologie des 20. Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "Lew Isaakovich Schwarzmann, bekannt als Lew Schestow, wurde 1866 in Kiew in eine wohlhabende jüdische Kaufmannsfamilie geboren. Er studierte Jura und Mathematik in Moskau und Kiew.",
+    "schaffen": "Schestow begann als Literaturkritiker mit Studien über Shakespeare, Tolstoi und Dostojewski. Sein philosophisches Hauptwerk 'Athen und Jerusalem' (1938) stellt die Frage: Soll die Vernunft (Athen) oder der Glaube (Jerusalem) das letzte Wort haben? Er argumentiert leidenschaftlich für Jerusalem – für den Glauben, der die Grenzen der Vernunft sprengt.",
+    "spaetesLeben": "Nach der Russischen Revolution emigrierte Schestow 1920 nach Paris, wo er an der Sorbonne lehrte und mit Husserl, Heidegger und dem jungen Camus in Kontakt stand.",
+    "tod": "Lew Schestow starb 1938 in Paris. Sein Hauptwerk 'Athen und Jerusalem' erschien posthum im selben Jahr.",
+    "nachwirkung": "Schestow beeinflusste Camus, der ihm 'Der Mythos des Sisyphos' widmete, sowie die existenzielle Theologie. Sein radikaler Irrationalismus wird als Gegenposition zur rationalistischen Tradition der westlichen Philosophie geschätzt."
+  },
+  "kernideen": [
+    {
+      "titel": "Athen gegen Jerusalem",
+      "beschreibung": "Die abendländische Philosophie (Athen) hat den Menschen der Herrschaft der Vernunft und der Notwendigkeit unterworfen. Der biblische Glaube (Jerusalem) dagegen kennt einen Gott, für den nichts unmöglich ist und der die Ketten der Notwendigkeit sprengen kann."
+    },
+    {
+      "titel": "Kritik der Vernunft",
+      "beschreibung": "Die Vernunft ist nicht die Befreierin des Menschen, sondern seine Gefangenenwärterin. Sie zwingt ihn, die 'ewigen Wahrheiten' der Logik und Mathematik als unumstößlich anzuerkennen und sich damit in ein System der Notwendigkeit einzufügen."
+    },
+    {
+      "titel": "Die Philosophie der Tragödie",
+      "beschreibung": "Die wahren philosophischen Einsichten entstehen nicht aus ruhiger Kontemplation, sondern aus der Erschütterung durch Leid und Verzweiflung. In der Grenzerfahrung der Tragödie bricht die selbstverständliche Ordnung der Vernunft zusammen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Athen und Jerusalem",
+      "jahr": "1938",
+      "beschreibung": "Schestows philosophisches Hauptwerk, das den Gegensatz zwischen griechischer Vernunft und biblischem Glauben als Grundkonflikt der abendländischen Kultur darstellt."
+    },
+    {
+      "titel": "Kierkegaard und die Existenzphilosophie",
+      "jahr": "1936",
+      "beschreibung": "Eine Interpretation Kierkegaards als des Denkers, der die Herrschaft der Vernunft am radikalsten in Frage gestellt hat."
+    },
+    {
+      "titel": "Potestas Clavium (Die Macht der Schlüssel)",
+      "jahr": "1923",
+      "beschreibung": "Eine Sammlung philosophischer Essays, die die Allmacht der Vernunft in Frage stellen und die Freiheit des Glaubens verteidigen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Aufgabe der Philosophie ist es nicht, die Menschen zu beruhigen, sondern sie zu beunruhigen.",
+      "quelle": "Athen und Jerusalem",
+      "kontext": "Schestows Verständnis von Philosophie als Erschütterung der Gewissheiten, nicht als Trost."
+    },
+    {
+      "text": "Für Gott ist nichts unmöglich – auch nicht, das Geschehene ungeschehen zu machen.",
+      "quelle": "Athen und Jerusalem",
+      "kontext": "Schestows radikale Gegenposition zur Vernunft: Der Glaube kennt keine logische Notwendigkeit."
+    },
+    {
+      "text": "Die Vernunft ist der Baum der Erkenntnis – und der Baum der Erkenntnis ist nicht der Baum des Lebens.",
+      "quelle": "Athen und Jerusalem",
+      "kontext": "Schestows biblische Metapher für den Gegensatz zwischen rationalem Wissen und lebendiger Freiheit."
+    }
+  ],
+  "verwandtePhilosophen": ["soeren-kierkegaard", "friedrich-nietzsche", "albert-camus"],
+  "verwandteIsmen": ["existenzialismus", "irrationalismus"]
+}

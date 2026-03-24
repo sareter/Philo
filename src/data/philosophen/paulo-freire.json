@@ -1,0 +1,84 @@
+{
+  "slug": "paulo-freire",
+  "name": "Paulo Freire",
+  "lebensdaten": "1921–1997",
+  "geboren": {
+    "jahr": 1921,
+    "ort": "Recife",
+    "land": "Brasilien",
+    "lat": -8.05,
+    "lng": -34.87
+  },
+  "gestorben": {
+    "jahr": 1997,
+    "ort": "São Paulo",
+    "land": "Brasilien",
+    "lat": -23.55,
+    "lng": -46.63
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Südamerika",
+  "hauptstroemungen": ["Marxismus", "Humanismus"],
+  "kurzbeschreibung": "Paulo Freire war ein brasilianischer Pädagoge und Philosoph, dessen 'Pädagogik der Unterdrückten' zu den einflussreichsten Bildungsschriften des 20. Jahrhunderts gehört. Er entwickelte eine Theorie der befreienden Bildung, die Alphabetisierung und politische Bewusstmachung verbindet. Sein Konzept der 'Bewusstseinsbildung' (Conscientização) veränderte das Verständnis von Bildung weltweit.",
+  "biografie": {
+    "fruehesLeben": "Paulo Freire wurde 1921 in Recife im Nordosten Brasiliens geboren. Die Weltwirtschaftskrise stürzte seine Familie in Armut, und er erlebte als Kind Hunger und soziale Ausgrenzung. Diese Erfahrungen prägten sein lebenslanges Engagement für die Armen und Unterdrückten.",
+    "schaffen": "Freire entwickelte in den 1960er Jahren eine revolutionäre Alphabetisierungsmethode, die Lesen und Schreiben mit politischer Bewusstmachung verband. Sein Hauptwerk 'Pädagogik der Unterdrückten' (1968) wurde zu einem der meistgelesenen pädagogischen Werke weltweit. Er kritisierte das traditionelle 'Bankiers-Konzept' der Bildung, bei dem Wissen einseitig eingefüllt wird, und setzte ihm eine dialogische, emanzipatorische Pädagogik entgegen.",
+    "spaetesLeben": "Nach dem Militärputsch 1964 wurde Freire verhaftet und ins Exil gezwungen. Er lebte in Chile, den USA und der Schweiz und arbeitete für den Ökumenischen Rat der Kirchen. 1980 kehrte er nach Brasilien zurück und wurde 1989 Bildungsminister der Stadt São Paulo.",
+    "tod": "Paulo Freire starb am 2. Mai 1997 in São Paulo an einem Herzinfarkt. Er hinterließ ein Werk, das die Bildungsphilosophie und die Befreiungspädagogik weltweit veränderte. 2012 wurde er in Brasilien zum 'Patron der brasilianischen Erziehung' erklärt.",
+    "nachwirkung": "Freires Pädagogik hat die Bildungsarbeit in der ganzen Welt beeinflusst, von den Alphabetisierungskampagnen in Lateinamerika und Afrika bis zur kritischen Pädagogik in Europa und Nordamerika. Sein Konzept des Dialogs als Grundlage emanzipatorischer Bildung ist aktueller denn je."
+  },
+  "kernideen": [
+    {
+      "titel": "Pädagogik der Unterdrückten",
+      "beschreibung": "Bildung kann entweder ein Instrument der Unterdrückung oder ein Werkzeug der Befreiung sein. Die befreiende Pädagogik basiert auf dem Dialog zwischen Lehrenden und Lernenden und zielt auf die kritische Bewusstmachung der eigenen Situation."
+    },
+    {
+      "titel": "Bankiers-Konzept vs. problemformulierende Bildung",
+      "beschreibung": "Das traditionelle 'Bankiers-Konzept' behandelt Lernende als passive Behälter, in die Wissen eingefüllt wird. Die problemformulierende Bildung dagegen geht von den Erfahrungen der Lernenden aus und fördert kritisches Denken und aktive Teilnahme."
+    },
+    {
+      "titel": "Conscientização (Bewusstseinsbildung)",
+      "beschreibung": "Conscientização ist der Prozess, durch den Menschen ein kritisches Bewusstsein für ihre soziale Situation entwickeln und erkennen, dass sie die Macht haben, ihre Welt zu verändern. Bildung und politische Befreiung sind untrennbar miteinander verbunden."
+    },
+    {
+      "titel": "Dialog als Grundlage der Bildung",
+      "beschreibung": "Wahre Bildung basiert auf dem gleichberechtigten Dialog zwischen Lehrenden und Lernenden. Niemand ist nur Lehrer oder nur Schüler – alle sind zugleich Lehrende und Lernende. Der Dialog setzt gegenseitigen Respekt, Vertrauen und Liebe voraus."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Pädagogik der Unterdrückten (Pedagogia do Oprimido)",
+      "jahr": "1968",
+      "beschreibung": "Das weltberühmte Hauptwerk, das eine Theorie der befreienden Bildung entwickelt und das 'Bankiers-Konzept' der traditionellen Pädagogik kritisiert."
+    },
+    {
+      "titel": "Erziehung als Praxis der Freiheit (Educação como Prática da Liberdade)",
+      "jahr": "1967",
+      "beschreibung": "Freires erstes Buch, das seine Alphabetisierungsmethode und ihre theoretischen Grundlagen darstellt."
+    },
+    {
+      "titel": "Pädagogik der Hoffnung (Pedagogia da Esperança)",
+      "jahr": "1992",
+      "beschreibung": "Eine Reflexion über die 'Pädagogik der Unterdrückten' zwanzig Jahre nach ihrer Veröffentlichung, die das Werk aktualisiert und vertieft."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Niemand befreit sich allein, niemand wird von anderen befreit – die Menschen befreien sich in Gemeinschaft.",
+      "quelle": "Pädagogik der Unterdrückten",
+      "kontext": "Freires Betonung der gemeinsamen, dialogischen Natur des Befreiungsprozesses."
+    },
+    {
+      "text": "Die Welt lesen lernen heißt, die Welt verändern lernen.",
+      "quelle": "Erziehung als Praxis der Freiheit",
+      "kontext": "Die Verbindung von Alphabetisierung und politischer Bewusstmachung in Freires Pädagogik."
+    },
+    {
+      "text": "Bildung ist nicht das Befüllen von Fässern, sondern das Entzünden von Flammen.",
+      "quelle": "Pädagogik der Unterdrückten",
+      "kontext": "Freires Kritik am passiven Bildungskonzept und sein Plädoyer für aktivierende Pädagogik."
+    }
+  ],
+  "verwandtePhilosophen": ["karl-marx", "frantz-fanon", "erich-fromm", "antonio-gramsci"],
+  "verwandteIsmen": ["marxismus", "humanismus"]
+}

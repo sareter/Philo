@@ -1,0 +1,84 @@
+{
+  "slug": "siddhartha-gautama",
+  "name": "Siddhartha Gautama",
+  "lebensdaten": "563–483 v. Chr.",
+  "geboren": {
+    "jahr": -563,
+    "ort": "Lumbini",
+    "land": "Nepal",
+    "lat": 27.47,
+    "lng": 83.27
+  },
+  "gestorben": {
+    "jahr": -483,
+    "ort": "Kushinagar",
+    "land": "Indien",
+    "lat": 26.74,
+    "lng": 83.89
+  },
+  "epoche": "Antike",
+  "region": "Asien",
+  "hauptstroemungen": ["Buddhistische Philosophie"],
+  "kurzbeschreibung": "Siddhartha Gautama, bekannt als der Buddha (der Erwachte), war ein indischer Weiser, dessen Lehren den Buddhismus begründeten. Seine Analyse des menschlichen Leidens und der Weg zu dessen Überwindung durch Erkenntnis, Ethik und Meditation gehört zu den tiefgründigsten philosophischen Systemen der Welt. Heute folgen etwa 500 Millionen Menschen seinen Lehren.",
+  "biografie": {
+    "fruehesLeben": "Siddhartha wurde als Sohn eines Fürsten der Shakya-Dynastie in Lumbini im heutigen Nepal geboren. Er wuchs in großem Wohlstand und abgeschirmt von den Leiden der Welt auf. Die legendären vier Ausfahrten – die Begegnungen mit einem Alten, einem Kranken, einem Toten und einem Asketen – bewegten ihn dazu, den Palast zu verlassen und nach der Wahrheit zu suchen.",
+    "schaffen": "Nach Jahren strenger Askese und Meditation erlangte Siddhartha unter einem Bodhi-Baum in Bodh Gaya die Erleuchtung. Er formulierte die Vier Edlen Wahrheiten und den Achtfachen Pfad als Weg zur Befreiung vom Leiden. Über 45 Jahre lang lehrte er in Nordindien und gründete den Sangha, die Gemeinschaft der Mönche und Nonnen.",
+    "spaetesLeben": "Der Buddha setzte seine Lehrtätigkeit bis ins hohe Alter fort und wanderte durch die Gangesebene. Er organisierte den Sangha mit detaillierten Ordensregeln und unterwies Menschen aller Stände. Seine Lehrreden (Sutras) wurden von seinen Schülern auswendig gelernt und nach seinem Tod schriftlich festgehalten.",
+    "tod": "Der Buddha starb im Alter von etwa 80 Jahren in Kushinagar, nachdem er eine verdorbene Mahlzeit zu sich genommen hatte. Seine letzten Worte waren: 'Alle zusammengesetzten Dinge sind vergänglich. Strebt mit Eifer.' Sein Leichnam wurde eingeäschert und die Reliquien auf acht Stupas verteilt.",
+    "nachwirkung": "Der Buddhismus verbreitete sich über ganz Asien und wurde zu einer der großen Weltreligionen. Die verschiedenen Schulen – Theravada, Mahayana und Vajrayana – entwickelten sich in unterschiedlichen Kulturräumen weiter. Im 20. Jahrhundert fand der Buddhismus auch im Westen zunehmend Beachtung als philosophisches und meditatives System."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Vier Edlen Wahrheiten",
+      "beschreibung": "Das Kernstück der buddhistischen Lehre: Das Leben ist von Leiden (Dukkha) durchzogen, die Ursache des Leidens ist das Begehren (Tanha), es gibt ein Ende des Leidens (Nirvana), und der Weg dorthin ist der Achtfache Pfad. Diese Diagnose des menschlichen Daseins bildet das Fundament des Buddhismus."
+    },
+    {
+      "titel": "Der Achtfache Pfad",
+      "beschreibung": "Der praktische Weg zur Überwindung des Leidens umfasst rechte Erkenntnis, rechte Gesinnung, rechte Rede, rechtes Handeln, rechten Lebenserwerb, rechtes Streben, rechte Achtsamkeit und rechte Sammlung. Er verbindet Ethik, Meditation und Weisheit zu einem ganzheitlichen Übungsweg."
+    },
+    {
+      "titel": "Anatta (Nicht-Selbst)",
+      "beschreibung": "Der Buddha lehrte, dass es kein unveränderliches, permanentes Selbst gibt. Was wir als 'Ich' erleben, ist ein ständig wechselnder Strom von fünf Daseinsgruppen (Skandhas). Diese Einsicht ist zentral für die Befreiung vom Leiden."
+    },
+    {
+      "titel": "Pratityasamutpada (Bedingtes Entstehen)",
+      "beschreibung": "Alle Phänomene entstehen in Abhängigkeit von Bedingungen und vergehen, wenn diese Bedingungen sich ändern. Nichts existiert unabhängig und aus sich selbst heraus. Dieses Prinzip der wechselseitigen Bedingtheit ist die philosophische Grundlage der buddhistischen Weltsicht."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Dhammapada",
+      "jahr": "ca. 300 v. Chr.",
+      "beschreibung": "Eine Sammlung von Aussprüchen des Buddha in Versform, die zu den populärsten und meistübersetzten buddhistischen Texten gehört."
+    },
+    {
+      "titel": "Sutta Pitaka",
+      "jahr": "ca. 250 v. Chr.",
+      "beschreibung": "Die umfangreiche Sammlung der Lehrreden des Buddha, aufgeteilt in fünf Sammlungen (Nikayas), bildet das Herzstück des Pali-Kanons."
+    },
+    {
+      "titel": "Vinaya Pitaka",
+      "jahr": "ca. 250 v. Chr.",
+      "beschreibung": "Die Sammlung der Ordensregeln für Mönche und Nonnen, die auch zahlreiche Erzählungen über das Leben des Buddha enthält."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Leiden hat eine Ursache, und es gibt einen Weg, es zu überwinden.",
+      "quelle": "Erste Lehrrede (Dhammacakkappavattana Sutta)",
+      "kontext": "Die Essenz der Vier Edlen Wahrheiten in Buddhas erster Lehrrede nach der Erleuchtung."
+    },
+    {
+      "text": "Du selbst, genauso wie jeder andere im ganzen Universum, verdienst deine Liebe und Zuneigung.",
+      "quelle": "Dhammapada",
+      "kontext": "Eine Aussage über Selbstmitgefühl als Grundlage des Mitgefühls für andere."
+    },
+    {
+      "text": "Alle zusammengesetzten Dinge sind vergänglich. Strebt mit Eifer.",
+      "quelle": "Mahaparinibbana Sutta",
+      "kontext": "Die letzten Worte des Buddha vor seinem Tod, die die Vergänglichkeit und die Notwendigkeit eigener Anstrengung betonen."
+    }
+  ],
+  "verwandtePhilosophen": ["konfuzius", "laozi"],
+  "verwandteIsmen": ["buddhistische-philosophie"]
+}

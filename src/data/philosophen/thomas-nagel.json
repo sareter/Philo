@@ -1,0 +1,82 @@
+{
+  "slug": "thomas-nagel",
+  "name": "Thomas Nagel",
+  "lebensdaten": "1937–",
+  "geboren": {
+    "jahr": 1937,
+    "ort": "Belgrad",
+    "land": "Serbien",
+    "lat": 44.79,
+    "lng": 20.47
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Philosophie des Geistes"],
+  "kurzbeschreibung": "Thomas Nagel ist ein amerikanischer Philosoph, der grundlegende Beiträge zur Philosophie des Geistes, zur Ethik und zur politischen Philosophie geleistet hat. Sein berühmter Aufsatz 'Wie ist es, eine Fledermaus zu sein?' wurde zum Klassiker der Bewusstseinsphilosophie. Nagel vertritt einen anti-reduktionistischen Standpunkt und argumentiert, dass das Bewusstsein nicht vollständig physikalisch erklärt werden kann.",
+  "biografie": {
+    "fruehesLeben": "Thomas Nagel wurde 1937 in Belgrad geboren und emigrierte als Kind in die USA. Er studierte an der Cornell University, der Oxford University und der Harvard University, wo er bei John Rawls promovierte. Früh zeigte sich sein Interesse an grundlegenden philosophischen Fragen.",
+    "schaffen": "Nagel lehrte an der Princeton University und ab 1980 an der New York University. Sein Aufsatz 'What Is It Like to Be a Bat?' (1974) wurde zum einflussreichsten Text der Bewusstseinsphilosophie. Darin argumentiert er, dass subjektive Erfahrung einen irreduziblen Aspekt der Wirklichkeit darstellt, der durch keine physikalische Theorie eingefangen werden kann.",
+    "spaetesLeben": "Mit 'Mind and Cosmos' (2012) provozierte Nagel eine heftige Debatte, indem er den reduktiven Materialismus als philosophisch unzureichend kritisierte und für einen natürlichen Teleologismus plädierte. Obwohl selbst Atheist, argumentierte er, dass die materialistische Weltsicht das Bewusstsein nicht erklären kann.",
+    "tod": "Thomas Nagel lebt in New York und ist emeritierter Professor der New York University. Er gilt als einer der bedeutendsten analytischen Philosophen der Gegenwart.",
+    "nachwirkung": "Nagels Argument gegen den Reduktionismus hat die Philosophie des Geistes nachhaltig geprägt. Sein Fledermaus-Aufsatz ist der meistzitierte Text der Bewusstseinsphilosophie. Seine Verbindung von analytischer Philosophie mit existentiellen Fragen hat neue Wege in der Philosophie eröffnet."
+  },
+  "kernideen": [
+    {
+      "titel": "Subjektive Erfahrung und das Fledermaus-Problem",
+      "beschreibung": "Es gibt etwas, wie es ist, eine Fledermaus zu sein – eine subjektive Erfahrung, die wir nicht vollständig verstehen können, auch wenn wir alles über die Neurobiologie der Fledermaus wissen. Das Bewusstsein hat eine irreduzibel subjektive Dimension, die keine objektive Wissenschaft einfangen kann."
+    },
+    {
+      "titel": "Der Blick von nirgendwo (The View from Nowhere)",
+      "beschreibung": "Die Philosophie steht in einem Spannungsverhältnis zwischen der subjektiven Perspektive des Einzelnen und dem Streben nach objektiver Wahrheit. Wir können nie ganz vom 'Blick von nirgendwo' aus denken, aber wir können auch nicht bei der reinen Subjektivität stehenbleiben."
+    },
+    {
+      "titel": "Kritik des Reduktionismus",
+      "beschreibung": "Der materialistische Reduktionismus kann das Bewusstsein nicht erklären. Die Existenz subjektiver Erfahrung zeigt, dass die Wirklichkeit mehr enthält als das, was die Physik beschreibt. Dies bedeutet nicht, dass es Geister gibt, sondern dass unsere Naturwissenschaft unvollständig ist."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Wie ist es, eine Fledermaus zu sein? (What Is It Like to Be a Bat?)",
+      "jahr": "1974",
+      "beschreibung": "Der berühmteste Aufsatz der Bewusstseinsphilosophie, der die Irreduzibilität subjektiver Erfahrung argumentiert."
+    },
+    {
+      "titel": "Der Blick von nirgendwo (The View from Nowhere)",
+      "jahr": "1986",
+      "beschreibung": "Nagels philosophisches Hauptwerk über das Spannungsverhältnis zwischen subjektiver und objektiver Perspektive in Erkenntnistheorie, Ethik und Philosophie des Geistes."
+    },
+    {
+      "titel": "Geist und Kosmos (Mind and Cosmos)",
+      "jahr": "2012",
+      "beschreibung": "Eine provokante Kritik des materialistischen Naturalismus, die argumentiert, dass Bewusstsein und Werte natürliche Teleologie voraussetzen."
+    },
+    {
+      "titel": "Die Möglichkeit des Altruismus (The Possibility of Altruism)",
+      "jahr": "1970",
+      "beschreibung": "Nagels erstes Buch, das die rationale Grundlage des Altruismus und der unparteiischen moralischen Erwägung untersucht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Ein Organismus hat bewusste geistige Zustände dann und nur dann, wenn es etwas gibt, wie es ist, dieser Organismus zu sein.",
+      "quelle": "Wie ist es, eine Fledermaus zu sein?"
+    },
+    {
+      "text": "Das Absurde entsteht aus der Kollision zwischen dem Ernst, mit dem wir unser Leben nehmen, und der ewigen Möglichkeit, es als willkürlich zu betrachten.",
+      "quelle": "Das Absurde"
+    },
+    {
+      "text": "Die Philosophie wird nie damit aufhören, ihre eigenen Grundlagen in Frage zu stellen.",
+      "quelle": "Der Blick von nirgendwo"
+    }
+  ],
+  "verwandtePhilosophen": ["john-rawls", "daniel-dennett", "derek-parfit", "frank-jackson"],
+  "verwandteIsmen": ["philosophie-des-geistes"]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "ernst-junger",
+  "name": "Ernst Jünger",
+  "lebensdaten": "1895–1998",
+  "geboren": {
+    "jahr": 1895,
+    "ort": "Heidelberg",
+    "land": "Deutschland",
+    "lat": 49.4,
+    "lng": 8.69
+  },
+  "gestorben": {
+    "jahr": 1998,
+    "ort": "Riedlingen",
+    "land": "Deutschland",
+    "lat": 48.15,
+    "lng": 9.47
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Konservatismus"],
+  "kurzbeschreibung": "Ernst Jünger war ein deutscher Schriftsteller und Denker, dessen über ein Jahrhundert spannendes Leben und Werk zu den umstrittensten der deutschen Geistesgeschichte gehören. Sein Denken über Technik, Krieg und den 'Arbeiter' als neue Menschentypus beeinflusste sowohl konservative als auch linke Intellektuelle. Er gilt als einer der bedeutendsten deutschen Stilisten des 20. Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "Ernst Jünger wurde 1895 in Heidelberg als Sohn eines Apothekers geboren. Als Siebzehnjähriger floh er zur Fremdenlegion, wurde aber zurückgeholt. Im Ersten Weltkrieg diente er als Stoßtruppführer und wurde vierzehnmal verwundet und mit dem Pour le Mérite ausgezeichnet.",
+    "schaffen": "Jüngers Kriegstagebuch 'In Stahlgewittern' (1920) machte ihn berühmt und begründete seinen Ruf als scharfer Beobachter extremer Situationen. In 'Der Arbeiter' (1932) entwarf er eine Philosophie der totalen Mobilmachung und des technischen Zeitalters. Nach anfänglicher Nähe zum Nationalismus distanzierte er sich vom Nationalsozialismus; sein Roman 'Auf den Marmorklippen' (1939) wurde als verhüllte Kritik der Diktatur gelesen.",
+    "spaetesLeben": "Nach dem Krieg wandelte sich Jünger vom kriegerischen Nationalisten zum kontemplativen Naturbetrachter und Tagebuchschreiber. Er wurde zu einem europäischen Denker und empfing Besucher aus aller Welt in seinem Haus in Wilflingen. 1982 erhielt er den Goethe-Preis der Stadt Frankfurt.",
+    "tod": "Ernst Jünger starb am 17. Februar 1998 in Riedlingen im Alter von 102 Jahren. Er war einer der letzten lebenden Pour-le-Mérite-Träger und hatte ein ganzes Jahrhundert durchlebt. Sein Tod beendete eines der längsten und kontroversesten Schriftstellerleben der deutschen Geschichte.",
+    "nachwirkung": "Jüngers Werk wird bis heute kontrovers diskutiert – zwischen Bewunderung für seine stilistische Meisterschaft und Kritik an seinem ästhetisierenden Umgang mit Gewalt. Seine Analyse der Technik und der modernen Arbeitswelt beeinflusste Heidegger und die Postmoderne. Sein Konzept des 'Waldgangs' als innerer Widerstand gegen totalitäre Systeme bleibt aktuell."
+  },
+  "kernideen": [
+    {
+      "titel": "Der Arbeiter als Gestalt",
+      "beschreibung": "Die bürgerliche Epoche geht zu Ende und wird vom Zeitalter des 'Arbeiters' abgelöst – einer neuen Menschengestalt, die Technik nicht nur nutzt, sondern verkörpert. Der Arbeiter ist kein Proletarier, sondern der Typus des technischen Zeitalters, der die Welt nach dem Prinzip der totalen Mobilmachung umgestaltet."
+    },
+    {
+      "titel": "Totale Mobilmachung",
+      "beschreibung": "Die moderne Gesellschaft tendiert zur totalen Mobilmachung aller Kräfte – im Krieg wie im Frieden. Arbeit, Freizeit, Wirtschaft und Politik werden einem einheitlichen Prinzip der Effizienz und Produktivität unterworfen. Der Erste Weltkrieg war die erste Manifestation dieses Prozesses."
+    },
+    {
+      "titel": "Der Waldgang",
+      "beschreibung": "Der Waldgänger ist der Mensch, der sich der totalitären Vereinnahmung durch inneren Rückzug entzieht, ohne sich äußerlich anzupassen. Er bewahrt seine Freiheit in einer unfreien Welt durch die Pflege eines inneren Raums der Souveränität."
+    },
+    {
+      "titel": "Stereoskopisches Sehen",
+      "beschreibung": "Jünger entwickelte eine Methode des 'stereoskopischen Sehens', das hinter den oberflächlichen Erscheinungen tiefere Muster und Zusammenhänge erkennt. Diese Haltung des distanzierten Beobachters prägt sein gesamtes Werk – von den Kriegsberichten bis zu den Naturbetrachtungen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "In Stahlgewittern",
+      "jahr": "1920",
+      "beschreibung": "Jüngers Kriegstagebuch aus dem Ersten Weltkrieg, das in seiner nüchternen Intensität zu den bedeutendsten Kriegsdarstellungen der Weltliteratur gehört."
+    },
+    {
+      "titel": "Der Arbeiter – Herrschaft und Gestalt",
+      "jahr": "1932",
+      "beschreibung": "Jüngers philosophisches Hauptwerk, das den 'Arbeiter' als neue Menschengestalt des technischen Zeitalters entwirft."
+    },
+    {
+      "titel": "Auf den Marmorklippen",
+      "jahr": "1939",
+      "beschreibung": "Ein allegorischer Roman, der als verhüllte Kritik des Nationalsozialismus gelesen wurde und die Zerstörung einer Kulturlandschaft durch einen Tyrannen beschreibt."
+    },
+    {
+      "titel": "Der Waldgang",
+      "jahr": "1951",
+      "beschreibung": "Ein Essay über die Möglichkeit innerer Freiheit in einer unfreien Welt und das Konzept des Waldgängers als souveräner Einzelner."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Perfektion der Technik ist identisch mit der Perfektion der Zerstörung.",
+      "quelle": "Der Arbeiter"
+    },
+    {
+      "text": "Der Waldgang ist kein Weg für viele – doch auch auf dem Schlachtfeld waren nicht alle Helden.",
+      "quelle": "Der Waldgang"
+    },
+    {
+      "text": "Der Schmerz ist einer der Schlüssel, die nicht nur zum Innersten, sondern zugleich zur Welt öffnen.",
+      "quelle": "Über den Schmerz"
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "friedrich-nietzsche", "carl-schmitt"],
+  "verwandteIsmen": ["konservatismus"]
+}

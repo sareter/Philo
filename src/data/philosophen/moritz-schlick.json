@@ -1,0 +1,80 @@
+{
+  "slug": "moritz-schlick",
+  "name": "Moritz Schlick",
+  "lebensdaten": "1882–1936",
+  "geboren": {
+    "jahr": 1882,
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "lat": 52.52,
+    "lng": 13.41
+  },
+  "gestorben": {
+    "jahr": 1936,
+    "ort": "Wien",
+    "land": "Österreich",
+    "lat": 48.21,
+    "lng": 16.37
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Logischer Positivismus"],
+  "kurzbeschreibung": "Moritz Schlick war ein deutsch-österreichischer Philosoph und Begründer des Wiener Kreises, der einflussreichsten Gruppe des logischen Positivismus. Er vertrat die Auffassung, dass nur empirisch überprüfbare Aussagen sinnvoll sind, und formulierte das Verifikationsprinzip als Kriterium der Bedeutsamkeit. Sein gewaltsamer Tod durch einen ehemaligen Studenten 1936 markierte das Ende des Wiener Kreises.",
+  "biografie": {
+    "fruehesLeben": "Moritz Schlick wurde 1882 in Berlin in eine wohlhabende Familie geboren. Er studierte Physik bei Max Planck in Berlin und promovierte 1904 über die Reflexion des Lichts. Von der Physik wandte er sich der Philosophie zu.",
+    "schaffen": "Schlick wurde 1922 auf den Lehrstuhl für Naturphilosophie an der Universität Wien berufen, wo er den Wiener Kreis gründete. Er war einer der ersten Philosophen, die Einsteins Relativitätstheorie philosophisch interpretierten. Als Leiter des Wiener Kreises formulierte er das Verifikationsprinzip und die Grundlagen des logischen Positivismus.",
+    "spaetesLeben": "In den 1930er Jahren geriet der Wiener Kreis unter zunehmenden politischen Druck. Viele Mitglieder emigrierten, doch Schlick blieb in Wien.",
+    "tod": "Am 22. Juni 1936 wurde Moritz Schlick auf der Philosophenstiege der Universität Wien von seinem ehemaligen Studenten Johann Nelböck erschossen. Der Mord wurde von der austrofaschistischen Presse als Tat gegen einen 'jüdischen' Philosophen gebilligt, obwohl Schlick kein Jude war.",
+    "nachwirkung": "Schlick und der Wiener Kreis haben die analytische Philosophie des 20. Jahrhunderts tiefgreifend geprägt. Das Verifikationsprinzip, obwohl vielfach kritisiert und modifiziert, bleibt ein Meilenstein der Wissenschaftsphilosophie."
+  },
+  "kernideen": [
+    {
+      "titel": "Verifikationsprinzip",
+      "beschreibung": "Eine Aussage ist nur dann sinnvoll, wenn sie prinzipiell durch Erfahrung überprüft werden kann. Metaphysische, theologische und ethische Aussagen, die dieser Bedingung nicht genügen, sind nicht falsch, sondern sinnlos."
+    },
+    {
+      "titel": "Philosophie als Klärung der Sprache",
+      "beschreibung": "Philosophie ist keine Wissenschaft, die eigene Erkenntnisse produziert, sondern eine Tätigkeit der logischen Klärung von Aussagen. Philosophische Probleme sind in Wirklichkeit Scheinprobleme, die durch die Analyse der Sprache aufgelöst werden können."
+    },
+    {
+      "titel": "Wissenschaftliche Weltauffassung",
+      "beschreibung": "Schlick und der Wiener Kreis vertraten eine einheitliche wissenschaftliche Weltauffassung: Alle echten Erkenntnisfragen sind durch die Methoden der empirischen Wissenschaften zu beantworten. Was sich nicht empirisch klären lässt, ist keine echte Frage."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Allgemeine Erkenntnislehre",
+      "jahr": "1918",
+      "beschreibung": "Schlicks frühes erkenntnistheoretisches Hauptwerk, das eine realistische Position mit einer Theorie der Erkenntnis als Zuordnung verbindet."
+    },
+    {
+      "titel": "Fragen der Ethik",
+      "jahr": "1930",
+      "beschreibung": "Eine empiristische Ethik, die moralische Urteile als Ausdruck von Lust und Unlust deutet und die Frage nach dem guten Leben psychologisch zu beantworten versucht."
+    },
+    {
+      "titel": "Raum und Zeit in der gegenwärtigen Physik",
+      "jahr": "1917",
+      "beschreibung": "Eine der ersten und klarsten philosophischen Darstellungen von Einsteins Relativitätstheorie, die Schlick international bekannt machte."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Bedeutung einer Aussage ist die Methode ihrer Verifikation.",
+      "quelle": "Positivismus und Realismus",
+      "kontext": "Die klassische Formulierung des Verifikationsprinzips als Bedeutungstheorie."
+    },
+    {
+      "text": "Die Philosophie ist keine Wissenschaft, sondern eine Tätigkeit: die Tätigkeit der Klärung von Gedanken.",
+      "quelle": "Die Wende der Philosophie",
+      "kontext": "Schlicks Bestimmung der Philosophie als Klärungstätigkeit im Sinne des logischen Positivismus."
+    },
+    {
+      "text": "Die metaphysischen Sätze sind nicht falsch, sondern sinnlos.",
+      "quelle": "Allgemeine Erkenntnislehre",
+      "kontext": "Die provokante These des logischen Positivismus, dass Metaphysik kein Irrtum, sondern Unsinn ist."
+    }
+  ],
+  "verwandtePhilosophen": ["ludwig-wittgenstein", "rudolf-carnap", "ernst-mach"],
+  "verwandteIsmen": ["logischer-positivismus", "empirismus"]
+}

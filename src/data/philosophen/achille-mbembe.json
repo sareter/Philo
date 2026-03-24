@@ -1,0 +1,86 @@
+{
+  "slug": "achille-mbembe",
+  "name": "Achille Mbembe",
+  "lebensdaten": "1957–",
+  "geboren": {
+    "jahr": 1957,
+    "ort": "Otélé",
+    "land": "Kamerun",
+    "lat": 3.75,
+    "lng": 11.3
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Afrika",
+  "hauptstroemungen": ["Postkolonialismus"],
+  "kurzbeschreibung": "Achille Mbembe ist ein kamerunischer Politikwissenschaftler und Philosoph, der als einer der bedeutendsten postkolonialen Denker der Gegenwart gilt. Sein Konzept der 'Nekropolitik' analysiert die Macht über Leben und Tod als zentrale Dimension moderner Herrschaft. Er lehrt an der University of the Witwatersrand in Johannesburg und prägt den globalen Diskurs über Afrika, Rassismus und Dekolonisierung.",
+  "biografie": {
+    "fruehesLeben": "Achille Mbembe wurde 1957 in Otélé in Kamerun geboren und wuchs in einer frankophonen afrikanischen Umgebung auf. Er studierte Geschichte an der Universität von Yaoundé und promovierte an der Sorbonne in Paris. Früh entwickelte er ein Interesse an den Machtstrukturen postkolonialer Gesellschaften.",
+    "schaffen": "Mbembe wurde mit seinem Werk 'De la postcolonie' (2000) international bekannt, das eine scharfe Analyse der postkolonialen Machtverhältnisse in Afrika lieferte. Sein einflussreichster Beitrag ist das Konzept der 'Nekropolitik' (2003), das Foucaults Biopolitik-Begriff weiterentwickelt. Er verbindet postkoloniale Theorie mit Fragen der Globalisierung, des Rassismus und der digitalen Transformation.",
+    "spaetesLeben": "Mbembe ist Professor an der University of the Witwatersrand in Johannesburg und einer der gefragtesten öffentlichen Intellektuellen Afrikas. Er setzt sich für eine Dekolonisierung der Universitäten und des Wissens ein. Seine jüngsten Arbeiten befassen sich mit der Zukunft des Planeten und der Brutalität des Kapitalismus.",
+    "tod": "Achille Mbembe lebt und arbeitet in Johannesburg, Südafrika. Er setzt seine Forschungs- und Lehrtätigkeit an der Schnittstelle von Philosophie, Politikwissenschaft und postkolonialer Theorie fort.",
+    "nachwirkung": "Mbembes Denken hat die postkoloniale Theorie und die kritische Rassismusforschung weltweit geprägt. Sein Begriff der Nekropolitik ist zu einem Schlüsselkonzept der zeitgenössischen politischen Philosophie geworden. Er gilt als einer der wichtigsten öffentlichen Intellektuellen Afrikas."
+  },
+  "kernideen": [
+    {
+      "titel": "Nekropolitik",
+      "beschreibung": "Die Nekropolitik beschreibt die souveräne Macht, zu entscheiden, wer leben darf und wer sterben muss. Sie geht über Foucaults Biopolitik hinaus und analysiert, wie in kolonialen und postkolonialen Kontexten ganze Bevölkerungsgruppen dem Tod ausgesetzt werden. Sklaverei, Apartheid und moderne Grenzzonen sind Beispiele nekropolitischer Ordnungen."
+    },
+    {
+      "titel": "Postkolonie",
+      "beschreibung": "Die Postkolonie ist nicht einfach die Zeit nach der Kolonie, sondern ein spezifischer Zustand, in dem koloniale Machtstrukturen in veränderter Form fortbestehen. Mbembe analysiert die groteske und gewaltsame Natur postkolonialer Herrschaft, die durch Spektakel, Gewalt und Obszönität gekennzeichnet ist."
+    },
+    {
+      "titel": "Kritik des schwarzen Vernunft",
+      "beschreibung": "Mbembe analysiert, wie der Begriff des 'Negers' als Produkt der kolonialen Moderne konstruiert wurde, um Ausbeutung und Unterdrückung zu legitimieren. Die 'schwarze Vernunft' ist das Denksystem, das bestimmte Menschen zu Anderen macht und vom vollen Menschsein ausschließt."
+    },
+    {
+      "titel": "Brutalismus",
+      "beschreibung": "In seinen jüngsten Arbeiten analysiert Mbembe die Brutalität des zeitgenössischen Kapitalismus, der Körper, Umwelt und soziale Bindungen gleichermaßen zerstört. Der Brutalismus ist die globale Verallgemeinerung kolonialer Gewaltformen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "De la postcolonie",
+      "jahr": "2000",
+      "beschreibung": "Mbembes einflussreiches Werk über die Funktionsweise postkolonialer Macht in Afrika, das die Groteske und Gewalt postkolonialer Herrschaftsformen analysiert."
+    },
+    {
+      "titel": "Nekropolitik",
+      "jahr": "2003",
+      "beschreibung": "Der wegweisende Essay, der die souveräne Macht über Leben und Tod als zentrale Kategorie moderner Herrschaft analysiert und den gleichnamigen Begriff prägte."
+    },
+    {
+      "titel": "Kritik der schwarzen Vernunft",
+      "jahr": "2013",
+      "beschreibung": "Eine umfassende Genealogie des Rassismus und der kolonialen Konstruktion des 'Negers' als Grundfigur der Moderne."
+    },
+    {
+      "titel": "Brutalismus",
+      "jahr": "2020",
+      "beschreibung": "Mbembes jüngste Diagnose der Gegenwart, die die Brutalität des Spätkapitalismus als Verallgemeinerung kolonialer Gewalt analysiert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die letztendliche Äußerung von Souveränität liegt weitgehend in der Macht und der Fähigkeit zu bestimmen, wer leben darf und wer sterben muss.",
+      "quelle": "Nekropolitik"
+    },
+    {
+      "text": "Die Postkolonie ist eine besondere Zeitlichkeit, eine Zeit der Einbettung, in der verschiedene Formen der Gewalt gleichzeitig existieren.",
+      "quelle": "De la postcolonie"
+    },
+    {
+      "text": "Afrika wird nicht zu dem zurückkehren, was es einmal war. Aber es muss auch nicht zu dem werden, was andere für es vorgesehen haben.",
+      "quelle": "Reden"
+    }
+  ],
+  "verwandtePhilosophen": ["michel-foucault", "jacques-derrida", "kwame-nkrumah", "leopold-sedar-senghor"],
+  "verwandteIsmen": ["postkolonialismus"]
+}

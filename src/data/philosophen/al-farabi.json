@@ -1,0 +1,79 @@
+{
+  "slug": "al-farabi",
+  "name": "Al-Farabi",
+  "lebensdaten": "872–950",
+  "geboren": {
+    "jahr": 872,
+    "ort": "Farab",
+    "land": "Kasachstan",
+    "lat": 42.3,
+    "lng": 68.2
+  },
+  "gestorben": {
+    "jahr": 950,
+    "ort": "Damaskus",
+    "land": "Syrien",
+    "lat": 33.51,
+    "lng": 36.29
+  },
+  "epoche": "Mittelalter",
+  "region": "Naher Osten",
+  "hauptstroemungen": ["Aristotelismus", "Rationalismus"],
+  "kurzbeschreibung": "Al-Farabi, auch als 'Zweiter Lehrer' (nach Aristoteles) bekannt, war einer der bedeutendsten Philosophen der islamischen Welt. Er verband die aristotelische und neuplatonische Philosophie mit dem islamischen Denken und legte die Grundlagen für die gesamte spätere arabische Philosophie. Sein Werk über den Idealstaat beeinflusste sowohl die islamische als auch die westliche politische Philosophie.",
+  "biografie": {
+    "fruehesLeben": "Al-Farabi wurde um 872 in Farab (im heutigen Kasachstan) in einer turkstämmigen Familie geboren. Er zog nach Bagdad, dem Zentrum der islamischen Gelehrsamkeit, wo er Logik, Philosophie und Musik studierte.",
+    "schaffen": "In Bagdad entwickelte Al-Farabi ein umfassendes philosophisches System, das Aristoteles' Logik und Metaphysik mit neuplatonischen Emanationslehren und islamischer Theologie verband. Sein Werk 'Die Musterstadt' entwirft eine politische Philosophie nach dem Vorbild von Platons 'Staat'. Er verfasste Kommentare zu fast allen Werken des Aristoteles.",
+    "spaetesLeben": "Al-Farabi verließ Bagdad und lebte am Hof des Hamdaniden-Herrschers Sayf al-Dawla in Aleppo. Trotz seines Ruhmes soll er ein bescheidenes, asketisches Leben geführt haben.",
+    "tod": "Al-Farabi starb 950 in Damaskus. Die genauen Umstände seines Todes sind umstritten; einige Quellen berichten von einem Überfall auf einer Reise.",
+    "nachwirkung": "Al-Farabi gilt als Begründer der islamischen Philosophie im eigentlichen Sinne. Sein Einfluss auf Ibn Sina (Avicenna), Ibn Rushd (Averroes) und die gesamte scholastische Tradition des Mittelalters ist kaum zu überschätzen."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Musterstadt (al-Madina al-Fadila)",
+      "beschreibung": "In Anlehnung an Platons 'Staat' entwirft Al-Farabi eine ideale Stadtgemeinschaft, in der ein philosophischer Herrscher die Bürger zur Glückseligkeit führt. Die Ordnung der Stadt spiegelt die kosmische Ordnung wider."
+    },
+    {
+      "titel": "Emanationslehre",
+      "beschreibung": "Al-Farabi verbindet die neuplatonische Emanationslehre mit der aristotelischen Kosmologie: Aus dem Einen (Gott) fließen in einer Kaskade die zehn Intellekte hervor, die die himmlischen Sphären bewegen. Der letzte dieser Intellekte ist der 'Aktive Intellekt', der dem Menschen die Erkenntnis ermöglicht."
+    },
+    {
+      "titel": "Harmonisierung von Philosophie und Religion",
+      "beschreibung": "Al-Farabi argumentiert, dass Philosophie und Religion dieselben Wahrheiten auf unterschiedliche Weise ausdrücken: Die Philosophie durch rationale Beweise, die Religion durch Symbole und Bilder. Beide haben denselben Ursprung und dasselbe Ziel."
+    },
+    {
+      "titel": "Klassifikation der Wissenschaften",
+      "beschreibung": "Al-Farabi entwarf eine systematische Klassifikation aller Wissenschaften, die die Grundlage für die mittelalterliche Wissenschaftsordnung bildete. Er unterschied Sprach-, Logik-, Mathematik-, Natur- und Politikwissenschaften sowie Metaphysik."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Kitab al-Madina al-Fadila (Die Musterstadt)",
+      "jahr": "942",
+      "beschreibung": "Al-Farabis politisch-philosophisches Hauptwerk, das eine ideale Staatsordnung nach dem Vorbild der kosmischen Ordnung entwirft."
+    },
+    {
+      "titel": "Ihsa al-Ulum (Aufzählung der Wissenschaften)",
+      "jahr": "940",
+      "beschreibung": "Eine einflussreiche Klassifikation aller Wissenschaften, die die mittelalterliche Wissenschaftsordnung sowohl in der islamischen als auch in der christlichen Welt prägte."
+    },
+    {
+      "titel": "Kitab al-Huruf (Buch der Buchstaben)",
+      "jahr": "945",
+      "beschreibung": "Eine Untersuchung über das Verhältnis von Sprache, Logik und Metaphysik, die zugleich eine Analyse der Entstehung von Philosophie und Religion enthält."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Zweck der menschlichen Existenz in diesem Leben und im nächsten ist die Erlangung der höchsten Glückseligkeit.",
+      "quelle": "Die Musterstadt",
+      "kontext": "Al-Farabis aristotelisch geprägte Bestimmung des menschlichen Lebenszwecks."
+    },
+    {
+      "text": "Die Religion ist ein Abbild der Philosophie; was die Philosophie durch Beweise erkennt, stellt die Religion durch Symbole dar.",
+      "quelle": "Kitab al-Huruf",
+      "kontext": "Al-Farabis einflussreiche These von der Parallelität zwischen philosophischer und religiöser Erkenntnis."
+    }
+  ],
+  "verwandtePhilosophen": ["aristoteles", "platon", "ibn-khaldun", "al-kindi", "al-ghazali"],
+  "verwandteIsmen": ["aristotelismus", "rationalismus", "neoplatonismus"]
+}

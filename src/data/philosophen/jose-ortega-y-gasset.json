@@ -1,0 +1,89 @@
+{
+  "slug": "jose-ortega-y-gasset",
+  "name": "José Ortega y Gasset",
+  "lebensdaten": "1883–1955",
+  "geboren": {
+    "jahr": 1883,
+    "ort": "Madrid",
+    "land": "Spanien",
+    "lat": 40.42,
+    "lng": -3.7
+  },
+  "gestorben": {
+    "jahr": 1955,
+    "ort": "Madrid",
+    "land": "Spanien",
+    "lat": 40.42,
+    "lng": -3.7
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Perspektivismus"],
+  "kurzbeschreibung": "José Ortega y Gasset war ein spanischer Philosoph und Essayist, der als einflussreichster spanischer Denker des 20. Jahrhunderts gilt. Er entwickelte eine Philosophie des Perspektivismus und der 'vitalen Vernunft', die das Leben als grundlegende Wirklichkeit begreift. Sein Werk 'Der Aufstand der Massen' wurde zu einem der meistgelesenen philosophischen Bücher des Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "José Ortega y Gasset wurde 1883 in Madrid in eine Familie von Journalisten und Intellektuellen geboren. Er studierte Philosophie in Madrid und Marburg, wo er vom Neukantianismus beeinflusst wurde.",
+    "schaffen": "Ortega entwickelte seine Philosophie der 'vitalen Vernunft' (razón vital), die das abstrakte Denken im konkreten Leben verankert. 'Der Aufstand der Massen' (1929) analysierte die Krise der europäischen Kultur durch den Aufstieg des 'Massenmenschen'. Seine Philosophie des Perspektivismus argumentiert, dass jede Wahrheit nur von einem bestimmten Standpunkt aus zugänglich ist.",
+    "spaetesLeben": "Der Spanische Bürgerkrieg zwang Ortega ins Exil nach Frankreich, den Niederlanden und Argentinien. Er kehrte 1945 nach Spanien zurück, lebte aber in innerer Distanz zum Franco-Regime.",
+    "tod": "José Ortega y Gasset starb 1955 in Madrid. Sein Tod wurde vom Regime für propagandistische Zwecke genutzt, obwohl er zeitlebens ein Verteidiger der liberalen Demokratie gewesen war.",
+    "nachwirkung": "Ortegas Einfluss auf die spanischsprachige Welt ist kaum zu überschätzen. Er hat die spanische Philosophie internationalisiert und mit seinem brillanten Essaystil das philosophische Denken einem breiten Publikum zugänglich gemacht."
+  },
+  "kernideen": [
+    {
+      "titel": "Vitale Vernunft (Razón vital)",
+      "beschreibung": "Die Vernunft ist nicht abstrakt und zeitlos, sondern im konkreten Leben verwurzelt. 'Ich bin ich und mein Umstand' – der Mensch existiert immer in einer bestimmten Lebenssituation, und sein Denken muss von dieser Situation ausgehen."
+    },
+    {
+      "titel": "Perspektivismus",
+      "beschreibung": "Jeder Standpunkt bietet einen einzigartigen und unersetzlichen Zugang zur Wirklichkeit. Die volle Wahrheit ergibt sich nicht aus einem einzelnen Blickwinkel, sondern aus der Summe aller möglichen Perspektiven. Falscher Universalismus ist ebenso verfehlt wie Relativismus."
+    },
+    {
+      "titel": "Der Aufstand der Massen",
+      "beschreibung": "Die moderne Gesellschaft wird vom 'Massenmenschen' beherrscht – einem Typus, der die Errungenschaften der Zivilisation für selbstverständlich hält und keine Verantwortung für ihre Erhaltung übernimmt. Die Demokratie droht durch die Tyrannei der Mehrheit zerstört zu werden."
+    },
+    {
+      "titel": "Das Leben als Grundwirklichkeit",
+      "beschreibung": "Das menschliche Leben ist die radikale Wirklichkeit, in der alle anderen Wirklichkeiten verankert sind. Leben bedeutet, sich ständig entscheiden zu müssen, in einer Welt, die uns keine fertigen Antworten gibt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "La rebelión de las masas (Der Aufstand der Massen)",
+      "jahr": "1929",
+      "beschreibung": "Ortegas berühmtestes Werk, eine brillante Analyse der Krise der europäischen Kultur durch den Aufstieg des Massenmenschen."
+    },
+    {
+      "titel": "Meditaciones del Quijote (Betrachtungen über Don Quijote)",
+      "jahr": "1914",
+      "beschreibung": "Ortegas erstes philosophisches Werk, in dem er seinen berühmten Satz 'Ich bin ich und mein Umstand' formuliert."
+    },
+    {
+      "titel": "El tema de nuestro tiempo (Die Aufgabe unserer Zeit)",
+      "jahr": "1923",
+      "beschreibung": "Eine programmatische Schrift, die die 'vitale Vernunft' als Überwindung sowohl des Rationalismus als auch des Relativismus vorstellt."
+    },
+    {
+      "titel": "¿Qué es filosofía? (Was ist Philosophie?)",
+      "jahr": "1957",
+      "beschreibung": "Posthum veröffentlichte Vorlesungen, die Ortegas Philosophie des Lebens als Grundwirklichkeit systematisch darstellen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Ich bin ich und mein Umstand, und wenn ich ihn nicht rette, rette ich mich nicht.",
+      "quelle": "Betrachtungen über Don Quijote",
+      "kontext": "Ortegas berühmtester Satz, der die untrennbare Verbindung von Individuum und Lebenswelt ausdrückt."
+    },
+    {
+      "text": "Das Leben ist eine Serie von Zusammenstößen mit der Zukunft; es ist keine Summe dessen, was wir gewesen sind, sondern dessen, was wir zu werden trachten.",
+      "quelle": "Was ist Philosophie?",
+      "kontext": "Ortegas zukunftsorientierte Bestimmung des menschlichen Lebens."
+    },
+    {
+      "text": "Europa wurde ohne Führung geboren – und das ist zugleich seine Größe und seine Tragödie.",
+      "quelle": "Der Aufstand der Massen",
+      "kontext": "Ortegas Analyse der europäischen Zivilisation als eines Projekts ohne feste Grundlage."
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "wilhelm-windelband", "friedrich-nietzsche"],
+  "verwandteIsmen": ["perspektivismus", "existenzialismus"]
+}

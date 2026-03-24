@@ -1,0 +1,81 @@
+{
+  "slug": "b-r-ambedkar",
+  "name": "B. R. Ambedkar",
+  "lebensdaten": "1891–1956",
+  "geboren": {
+    "jahr": 1891,
+    "ort": "Mhow",
+    "land": "Indien",
+    "lat": 22.55,
+    "lng": 75.76
+  },
+  "gestorben": {
+    "jahr": 1956,
+    "ort": "Delhi",
+    "land": "Indien",
+    "lat": 28.61,
+    "lng": 77.21
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Asien",
+  "hauptstroemungen": ["Buddhistische Philosophie", "Egalitarismus"],
+  "kurzbeschreibung": "Bhimrao Ramji Ambedkar war ein indischer Jurist, Politiker und Sozialphilosoph, der als Architekt der indischen Verfassung gilt. Als Angehöriger der 'Unberührbaren' kämpfte er zeitlebens gegen das Kastensystem und für die Gleichberechtigung aller Menschen. Sein Übertritt zum Buddhismus war zugleich ein philosophischer und politischer Akt der Befreiung.",
+  "biografie": {
+    "fruehesLeben": "Ambedkar wurde 1891 in Mhow als Angehöriger der Mahar-Kaste geboren, die als 'unberührbar' galt. Trotz extremer Diskriminierung erwarb er als einer der ersten Dalits akademische Abschlüsse und studierte an der Columbia University in New York sowie an der London School of Economics. Diese Bildung machte ihn zum intellektuellen Vorkämpfer der Dalits.",
+    "schaffen": "Als Jurist und Politiker setzte sich Ambedkar unermüdlich für die Abschaffung des Kastensystems ein. Er leitete den Verfassungsausschuss des unabhängigen Indien und schuf eine der fortschrittlichsten Verfassungen der Welt. Seine philosophischen Schriften analysieren die Verbindung von Religion, Kaste und sozialer Unterdrückung.",
+    "spaetesLeben": "In seinen letzten Lebensjahren wandte sich Ambedkar dem Buddhismus zu, den er als egalitäre Alternative zum Hinduismus betrachtete. Am 14. Oktober 1956 konvertierte er zusammen mit Hunderttausenden seiner Anhänger zum Buddhismus. Diese Massenkonversion war die größte Religionsübertritt in der Geschichte.",
+    "tod": "Ambedkar starb am 6. Dezember 1956 in Delhi, nur wenige Wochen nach seiner Konversion zum Buddhismus. Sein Vermächtnis als Verfassungsvater und Befreiungskämpfer ist in Indien bis heute lebendig. Er wird von Millionen Dalits als Befreier verehrt.",
+    "nachwirkung": "Ambedkar wird in Indien als einer der größten Söhne des Landes verehrt und sein Geburtstag ist ein nationaler Feiertag. Die neo-buddhistische Bewegung, die er begründete, hat Millionen von Anhängern. Sein Denken über soziale Gerechtigkeit und Menschenwürde inspiriert weltweit Bewegungen gegen Diskriminierung."
+  },
+  "kernideen": [
+    {
+      "titel": "Vernichtung der Kaste",
+      "beschreibung": "Das Kastensystem ist nicht bloß eine soziale Ordnung, sondern ein System der Unterdrückung, das die Menschenwürde verletzt. Es kann nicht reformiert, sondern muss vollständig zerstört werden. Die religiöse Legitimation der Kastenordnung ist die Wurzel des Übels."
+    },
+    {
+      "titel": "Sozialer Buddhismus (Navayana)",
+      "beschreibung": "Ambedkar reinterpretierte den Buddhismus als eine rationalistisch und egalitäre Philosophie, die sich von metaphysischen Spekulationen befreit. Der Buddha war in seinen Augen vor allem ein Sozialreformer, der gegen die brahmanische Kastenordnung kämpfte."
+    },
+    {
+      "titel": "Verfassungsmäßige Moral",
+      "beschreibung": "Eine gerechte Gesellschaft braucht nicht nur Gesetze, sondern eine moralische Grundhaltung, die Gleichheit, Freiheit und Brüderlichkeit als oberste Werte anerkennt. Die Verfassung ist das Instrument, um soziale Gerechtigkeit gegen traditionelle Hierarchien durchzusetzen."
+    },
+    {
+      "titel": "Bildung als Befreiung",
+      "beschreibung": "Bildung ist das wichtigste Mittel zur Befreiung der Unterdrückten. Sie ermöglicht den Zugang zu Wissen, wirtschaftlicher Selbstständigkeit und politischer Teilhabe. Ohne Bildung kann es keine wahre Gleichheit geben."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Vernichtung der Kaste (Annihilation of Caste)",
+      "jahr": "1936",
+      "beschreibung": "Ambedkars radikalste Schrift gegen das Kastensystem, ursprünglich als Rede verfasst, die jedoch vom Veranstalter abgelehnt wurde. Eine scharfe Analyse der religiösen Grundlagen der Kastenordnung."
+    },
+    {
+      "titel": "Der Buddha und sein Dhamma",
+      "jahr": "1957",
+      "beschreibung": "Ambedkars posthum veröffentlichtes Hauptwerk, in dem er den Buddhismus als rationale, egalitäre und humanistische Philosophie neu interpretiert."
+    },
+    {
+      "titel": "Wer waren die Shudras?",
+      "jahr": "1946",
+      "beschreibung": "Eine historische Untersuchung der Entstehung des Kastensystems und der vierten Kaste (Shudras), die Ambedkars These untermauert, dass die Kastenordnung ein historisches Konstrukt ist."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Ich messe den Fortschritt einer Gemeinschaft am Grad der Fortschrittlichkeit, den die Frauen erreicht haben.",
+      "quelle": "Reden und Schriften"
+    },
+    {
+      "text": "Erziehe, agitiere, organisiere – habt Vertrauen in euch selbst.",
+      "quelle": "Reden und Schriften"
+    },
+    {
+      "text": "Die Kaste ist eine Mauer, die den Hinduismus zusammenhält und zugleich das indische Volk spaltet.",
+      "quelle": "Vernichtung der Kaste"
+    }
+  ],
+  "verwandtePhilosophen": ["swami-vivekananda", "john-rawls", "karl-marx"],
+  "verwandteIsmen": ["buddhistische-philosophie", "egalitarismus"]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "paul-ricoeur",
+  "name": "Paul Ricœur",
+  "lebensdaten": "1913–2005",
+  "geboren": {
+    "jahr": 1913,
+    "ort": "Valence",
+    "land": "Frankreich",
+    "lat": 44.93,
+    "lng": 4.89
+  },
+  "gestorben": {
+    "jahr": 2005,
+    "ort": "Châtenay-Malabry",
+    "land": "Frankreich",
+    "lat": 48.77,
+    "lng": 2.27
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Hermeneutik", "Phänomenologie"],
+  "kurzbeschreibung": "Paul Ricœur war ein französischer Philosoph, der Phänomenologie, Hermeneutik und analytische Philosophie in einem einzigartigen Denken verband. Seine Arbeiten zur Metapher, zur narrativen Identität und zur Frage des Bösen gehören zu den bedeutendsten philosophischen Beiträgen des 20. Jahrhunderts. Er vermittelte zwischen der kontinentalen und der analytischen Tradition und suchte stets den Dialog zwischen gegensätzlichen Positionen.",
+  "biografie": {
+    "fruehesLeben": "Paul Ricœur wurde 1913 in Valence als Waise geboren und wuchs bei seinen Großeltern in Rennes auf. Er studierte Philosophie in Rennes und Paris. Im Zweiten Weltkrieg geriet er in deutsche Kriegsgefangenschaft, wo er Husserl und Jaspers studierte und Husserls 'Ideen I' ins Französische übersetzte.",
+    "schaffen": "Ricœur lehrte an den Universitäten Straßburg, Paris-Nanterre und Chicago. Sein umfangreiches Werk umfasst eine Phänomenologie des Willens, eine Hermeneutik der Symbole, eine Theorie der Metapher ('Die lebendige Metapher', 1975) und eine Philosophie der Erzählung ('Zeit und Erzählung', 1983-85). Er suchte stets den Dialog zwischen verschiedenen philosophischen Traditionen.",
+    "spaetesLeben": "In seinen späten Jahren widmete sich Ricœur der Frage der Anerkennung, der Gerechtigkeit und der Erinnerung. Sein letztes großes Werk 'Gedächtnis, Geschichte, Vergessen' (2000) verbindet Geschichtsphilosophie mit Gedächtnistheorie. Er blieb bis kurz vor seinem Tod intellektuell produktiv.",
+    "tod": "Paul Ricœur starb am 20. Mai 2005 in Châtenay-Malabry bei Paris. Er hinterließ eines der umfangreichsten und vielseitigsten philosophischen Werke des 20. Jahrhunderts.",
+    "nachwirkung": "Ricœurs Werk hat die Hermeneutik, die Narratologie, die Religionsphilosophie und die Ethik nachhaltig beeinflusst. Seine Theorie der narrativen Identität – wir verstehen uns selbst durch die Geschichten, die wir über uns erzählen – hat weitreichende Wirkung in Psychologie, Literaturwissenschaft und Philosophie entfaltet."
+  },
+  "kernideen": [
+    {
+      "titel": "Narrative Identität",
+      "beschreibung": "Wir verstehen uns selbst durch die Geschichten, die wir über unser Leben erzählen. Identität ist keine feste Substanz, sondern ein narratives Konstrukt, das sich im Erzählen ständig fortschreibt. Zwischen dem unveränderlichen Selbst (idem) und dem sich wandelnden Selbst (ipse) vermittelt die Erzählung."
+    },
+    {
+      "titel": "Die lebendige Metapher",
+      "beschreibung": "Die Metapher ist nicht bloßer rhetorischer Schmuck, sondern eine kreative Sprachleistung, die neue Bedeutungen und Wirklichkeiten erschließt. In der Metapher wird die Sprache produktiv: Sie zeigt uns die Welt auf neue Weise."
+    },
+    {
+      "titel": "Hermeneutik des Verdachts und des Vertrauens",
+      "beschreibung": "Ricœur unterscheidet eine Hermeneutik des Verdachts (Marx, Nietzsche, Freud), die verborgene Motive entlarvt, von einer Hermeneutik des Vertrauens, die den Sinn von Texten und Symbolen ernst nimmt. Beide sind notwendig und ergänzen einander."
+    },
+    {
+      "titel": "Das Böse und die Fehlbarkeit",
+      "beschreibung": "Der Mensch ist fehlbar: Er kann das Böse wollen. Das Böse lässt sich nicht rational erklären, sondern nur symbolisch und narrativ erschließen. Die Mythen und Symbole des Bösen enthalten eine Weisheit, die die rationale Philosophie nicht ersetzen kann."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Zeit und Erzählung (Temps et Récit)",
+      "jahr": "1983",
+      "beschreibung": "Das dreiteilige Hauptwerk, das die Beziehung zwischen der menschlichen Zeiterfahrung und der narrativen Konfiguration analysiert."
+    },
+    {
+      "titel": "Die lebendige Metapher (La Métaphore vive)",
+      "jahr": "1975",
+      "beschreibung": "Eine Theorie der Metapher als kreative Sprachleistung, die neue Wirklichkeiten erschließt."
+    },
+    {
+      "titel": "Das Selbst als ein Anderer (Soi-même comme un autre)",
+      "jahr": "1990",
+      "beschreibung": "Eine philosophische Anthropologie, die das Selbst durch die Beziehung zum Anderen und durch die narrative Identität bestimmt."
+    },
+    {
+      "titel": "Gedächtnis, Geschichte, Vergessen (La Mémoire, l'histoire, l'oubli)",
+      "jahr": "2000",
+      "beschreibung": "Eine umfassende Untersuchung des Gedächtnisses, der Geschichtsschreibung und des Vergessens aus phänomenologischer und hermeneutischer Perspektive."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Symbol gibt zu denken.",
+      "quelle": "Die Symbolik des Bösen",
+      "kontext": "Ricœurs programmatischer Satz, dass Symbole und Mythen einen Überschuss an Bedeutung enthalten, der das philosophische Denken anregt."
+    },
+    {
+      "text": "Wir verstehen uns selbst nur auf dem Umweg über die Zeichen und Werke der Kultur.",
+      "quelle": "Das Selbst als ein Anderer",
+      "kontext": "Ricœurs hermeneutische These, dass Selbsterkenntnis immer über kulturelle Vermittlung geschieht."
+    },
+    {
+      "text": "Die Erzählung ist die privilegierte Form der Zeiterfahrung.",
+      "quelle": "Zeit und Erzählung",
+      "kontext": "Die Kernthese, dass wir die Zeit nur durch das Erzählen von Geschichten erfahren und gestalten können."
+    }
+  ],
+  "verwandtePhilosophen": ["hans-georg-gadamer", "edmund-husserl", "emmanuel-levinas", "martin-heidegger"],
+  "verwandteIsmen": ["hermeneutik", "phaenomenologie"]
+}

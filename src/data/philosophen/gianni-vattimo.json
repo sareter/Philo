@@ -1,0 +1,84 @@
+{
+  "slug": "gianni-vattimo",
+  "name": "Gianni Vattimo",
+  "lebensdaten": "1936–2023",
+  "geboren": {
+    "jahr": 1936,
+    "ort": "Turin",
+    "land": "Italien",
+    "lat": 45.07,
+    "lng": 7.69
+  },
+  "gestorben": {
+    "jahr": 2023,
+    "ort": "Rivoli",
+    "land": "Italien",
+    "lat": 45.07,
+    "lng": 7.52
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Postmodernismus", "Nihilismus"],
+  "kurzbeschreibung": "Gianni Vattimo war ein italienischer Philosoph, der als einer der wichtigsten Vertreter der postmodernen Philosophie in Europa gilt. Er entwickelte das Konzept des 'schwachen Denkens' (pensiero debole), das gegen die starken metaphysischen Wahrheitsansprüche der Tradition eine bescheidenere, hermeneutische Philosophie setzt. Sein Werk verbindet Heidegger und Nietzsche mit einer Philosophie der Emanzipation.",
+  "biografie": {
+    "fruehesLeben": "Gianni Vattimo wurde 1936 in Turin geboren. Er studierte Philosophie in Turin bei Luigi Pareyson und ging nach Heidelberg, wo er bei Hans-Georg Gadamer Hermeneutik studierte.",
+    "schaffen": "Vattimo entwickelte in den 1980er Jahren das Konzept des 'schwachen Denkens' (pensiero debole), das die postmoderne Kritik an den großen Erzählungen philosophisch fundierte. In 'Das Ende der Moderne' (1985) interpretiert er Heidegger und Nietzsche als Denker der Überwindung der Metaphysik. In späteren Werken verband er sein schwaches Denken mit einer Philosophie der Religion und der politischen Emanzipation.",
+    "spaetesLeben": "Vattimo war Professor für Philosophie an der Universität Turin und Mitglied des Europäischen Parlaments. In seinen letzten Jahren kehrte er zum Katholizismus zurück und entwickelte eine Theologie der 'Schwächung Gottes'.",
+    "tod": "Gianni Vattimo starb 2023 in Rivoli bei Turin nach langer Krankheit.",
+    "nachwirkung": "Vattimos 'schwaches Denken' ist zu einem Schlüsselbegriff der postmodernen Philosophie geworden. Seine Verbindung von Hermeneutik, Nihilismus und Emanzipation bietet eine eigenständige europäische Alternative zur amerikanischen und französischen Postmoderne."
+  },
+  "kernideen": [
+    {
+      "titel": "Schwaches Denken (Pensiero debole)",
+      "beschreibung": "Das 'schwache Denken' verzichtet auf die starken Wahrheitsansprüche der Metaphysik. Es versteht Wahrheit nicht als Übereinstimmung mit der Wirklichkeit, sondern als Ergebnis eines interpretierenden Dialogs. Diese Schwächung der Metaphysik ist keine Niederlage, sondern eine Befreiung."
+    },
+    {
+      "titel": "Verwindung der Metaphysik",
+      "beschreibung": "In Anlehnung an Heidegger spricht Vattimo von einer 'Verwindung' der Metaphysik – nicht ihrer Überwindung oder Zerstörung, sondern ihrer Verwandlung und Abschwächung. Die Metaphysik wird nicht widerlegt, sondern hinterlassen wie eine überwundene Krankheit."
+    },
+    {
+      "titel": "Nihilismus als Chance",
+      "beschreibung": "Vattimo deutet den Nihilismus nicht als Krise, sondern als emanzipatorische Chance: Das Ende der absoluten Wahrheiten befreit den Menschen von dogmatischer Herrschaft und eröffnet den Raum für Toleranz und Dialog."
+    },
+    {
+      "titel": "Kenosis und schwache Theologie",
+      "beschreibung": "In seiner Religionsphilosophie deutet Vattimo die christliche Kenosis (Selbstentäußerung Gottes) als Modell des schwachen Denkens: Gott schwächt sich selbst, indem er Mensch wird, und legitimiert damit die Abschwächung aller absoluten Ansprüche."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "La fine della modernità (Das Ende der Moderne)",
+      "jahr": "1985",
+      "beschreibung": "Vattimos philosophisches Hauptwerk, das Heidegger und Nietzsche als Denker der Überwindung der Metaphysik interpretiert und das Programm des schwachen Denkens entfaltet."
+    },
+    {
+      "titel": "Il pensiero debole (Das schwache Denken)",
+      "jahr": "1983",
+      "beschreibung": "Der programmatische Sammelband, der das Konzept des 'schwachen Denkens' einführte und zu einem Manifest der italienischen Postmoderne wurde."
+    },
+    {
+      "titel": "Credere di credere (Glauben – Philosophieren)",
+      "jahr": "1996",
+      "beschreibung": "Vattimos persönlichstes Werk, eine philosophische Reflexion über seine Rückkehr zum christlichen Glauben im Rahmen des schwachen Denkens."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das schwache Denken ist kein schwaches Denken – es ist ein Denken, das die Schwäche ernst nimmt.",
+      "quelle": "Il pensiero debole",
+      "kontext": "Vattimos Verteidigung des schwachen Denkens als bewusste philosophische Haltung, nicht als Mangel an intellektueller Kraft."
+    },
+    {
+      "text": "Der Nihilismus ist unsere Chance: Er befreit uns von der Tyrannei der absoluten Wahrheit.",
+      "quelle": "Das Ende der Moderne",
+      "kontext": "Vattimos positive Umdeutung des Nihilismus als emanzipatorische Möglichkeit."
+    },
+    {
+      "text": "Gott schwächt sich, damit der Mensch frei sein kann.",
+      "quelle": "Glauben – Philosophieren",
+      "kontext": "Vattimos theologische Deutung der Kenosis als Modell für das schwache Denken."
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "friedrich-nietzsche", "hans-georg-gadamer", "umberto-eco"],
+  "verwandteIsmen": ["postmodernismus", "nihilismus", "hermeneutik"]
+}

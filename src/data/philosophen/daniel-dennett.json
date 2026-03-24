@@ -1,0 +1,86 @@
+{
+  "slug": "daniel-dennett",
+  "name": "Daniel Dennett",
+  "lebensdaten": "1942–2024",
+  "geboren": {
+    "jahr": 1942,
+    "ort": "Boston",
+    "land": "USA",
+    "lat": 42.36,
+    "lng": -71.06
+  },
+  "gestorben": {
+    "jahr": 2024,
+    "ort": "Portland",
+    "land": "USA",
+    "lat": 43.66,
+    "lng": -70.26
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Philosophie des Geistes", "Naturalismus"],
+  "kurzbeschreibung": "Daniel Dennett war ein amerikanischer Philosoph und Kognitionswissenschaftler, der als einer der einflussreichsten Denker über Bewusstsein, Willensfreiheit und Evolution gilt. Er vertrat eine naturalistische Philosophie des Geistes, die Bewusstsein als biologisches Phänomen erklärt. Als einer der 'Neuen Atheisten' setzte er sich für einen wissenschaftlichen Zugang zu religiösen Phänomenen ein.",
+  "biografie": {
+    "fruehesLeben": "Daniel Dennett wurde 1942 in Boston geboren und wuchs in einem akademischen Umfeld auf. Er studierte Philosophie in Harvard bei Willard Van Orman Quine und promovierte in Oxford bei Gilbert Ryle. Diese Ausbildung verband die analytische Tradition Amerikas mit der Oxforder Philosophie des Geistes.",
+    "schaffen": "Als Professor an der Tufts University entwickelte Dennett über Jahrzehnte hinweg eine naturalistische Theorie des Bewusstseins. Sein Werk 'Consciousness Explained' (1991) wurde zum Bestseller und provozierte heftige Debatten. In 'Darwin's Dangerous Idea' (1995) argumentierte er, dass die Evolution durch natürliche Selektion die wichtigste Idee der Menschheitsgeschichte sei.",
+    "spaetesLeben": "In seinen späten Jahren widmete sich Dennett der Frage der Willensfreiheit und der Religionskritik. Sein Buch 'Breaking the Spell' (2006) analysierte Religion als natürliches Phänomen. Trotz eines schweren Herzinfarkts 2006 blieb er bis zuletzt intellektuell aktiv und produktiv.",
+    "tod": "Daniel Dennett starb am 19. April 2024 in Portland, Maine, im Alter von 82 Jahren. Er hinterließ ein umfangreiches Werk, das die Philosophie des Geistes, die Kognitionswissenschaft und die öffentliche Debatte über Religion nachhaltig geprägt hat.",
+    "nachwirkung": "Dennetts naturalistische Philosophie des Bewusstseins hat die Kognitionswissenschaft und die Philosophie des Geistes tiefgreifend beeinflusst. Seine zugängliche Schreibweise machte komplexe philosophische Fragen einem breiten Publikum zugänglich. Als öffentlicher Intellektueller prägte er die Debatte über Wissenschaft, Religion und Willensfreiheit."
+  },
+  "kernideen": [
+    {
+      "titel": "Bewusstsein als Multiple Drafts",
+      "beschreibung": "Bewusstsein ist kein einheitlicher Strom, der von einem zentralen Beobachter im Gehirn erlebt wird. Es besteht aus vielen parallelen Entwürfen (Multiple Drafts) neuronaler Verarbeitung, die ständig überarbeitet werden. Es gibt kein 'Cartesisches Theater' – keinen Ort, an dem alles zusammenkommt."
+    },
+    {
+      "titel": "Intentionale Einstellung (Intentional Stance)",
+      "beschreibung": "Wir können Verhalten auf drei Ebenen vorhersagen: physisch, funktional und intentional. Die intentionale Einstellung behandelt ein System so, als hätte es Überzeugungen und Wünsche. Diese Strategie ist nützlich und gerechtfertigt, auch wenn es keine 'echten' mentalen Zustände jenseits dieser Beschreibung gibt."
+    },
+    {
+      "titel": "Darwins gefährliche Idee",
+      "beschreibung": "Die Evolution durch natürliche Selektion ist ein universeller Algorithmus – ein 'universelle Säure', die alle traditionellen Konzepte auflöst. Sie erklärt nicht nur biologische Vielfalt, sondern auch die Entstehung von Bewusstsein, Kultur und Moralität ohne einen göttlichen Designer."
+    },
+    {
+      "titel": "Kompatibilistische Willensfreiheit",
+      "beschreibung": "Willensfreiheit ist mit dem Determinismus vereinbar. Frei zu sein bedeutet nicht, von den Naturgesetzen unabhängig zu sein, sondern die Fähigkeit zu besitzen, auf Gründe zu reagieren und das eigene Verhalten zu kontrollieren. Diese Art von Freiheit ist es wert, gewollt zu werden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Bewusstsein erklärt (Consciousness Explained)",
+      "jahr": "1991",
+      "beschreibung": "Dennetts Hauptwerk über das Bewusstsein, das die Multiple-Drafts-Theorie entwickelt und das Cartesische Theater des Bewusstseins ablehnt."
+    },
+    {
+      "titel": "Darwins gefährliche Idee (Darwin's Dangerous Idea)",
+      "jahr": "1995",
+      "beschreibung": "Eine umfassende Darstellung der Evolution als universellen Algorithmus, der alle Bereiche des Lebens und des Geistes erklärt."
+    },
+    {
+      "titel": "Ellenbogenfreiheit (Freedom Evolves)",
+      "jahr": "2003",
+      "beschreibung": "Dennetts Verteidigung einer kompatibilistischen Willensfreiheit, die zeigt, wie Freiheit ein natürliches Produkt der Evolution ist."
+    },
+    {
+      "titel": "Den Bann brechen (Breaking the Spell)",
+      "jahr": "2006",
+      "beschreibung": "Eine naturwissenschaftliche Analyse religiöser Phänomene, die Religion als natürliches Phänomen betrachtet, das wissenschaftlich untersucht werden kann und soll."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Es gibt kein bewusstes Ich, das im Kontrollraum des Gehirns sitzt und die Show beobachtet.",
+      "quelle": "Bewusstsein erklärt"
+    },
+    {
+      "text": "Die Frage ist nicht, ob Maschinen denken können, sondern ob Menschen es können.",
+      "quelle": "Vorträge"
+    },
+    {
+      "text": "Darwins Idee der natürlichen Selektion ist die beste Idee, die je jemand hatte.",
+      "quelle": "Darwins gefährliche Idee"
+    }
+  ],
+  "verwandtePhilosophen": ["willard-van-orman-quine", "richard-rorty", "patricia-churchland", "john-searle"],
+  "verwandteIsmen": ["philosophie-des-geistes", "naturalismus"]
+}

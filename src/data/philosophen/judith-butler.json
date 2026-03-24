@@ -1,0 +1,89 @@
+{
+  "slug": "judith-butler",
+  "name": "Judith Butler",
+  "lebensdaten": "1956–",
+  "geboren": {
+    "jahr": 1956,
+    "ort": "Cleveland",
+    "land": "USA",
+    "lat": 41.5,
+    "lng": -81.69
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Poststrukturalismus", "Feminismus"],
+  "kurzbeschreibung": "Judith Butler ist eine amerikanische Philosophin und eine der einflussreichsten Theoretikerinnen der Geschlechterforschung und der politischen Philosophie. Mit ihrer Theorie der Performativität des Geschlechts revolutionierte sie das Verständnis von Gender und Identität. Ihre Arbeiten verbinden poststrukturalistische Philosophie mit feministischer Theorie und politischem Aktivismus.",
+  "biografie": {
+    "fruehesLeben": "Judith Butler wurde 1956 in Cleveland, Ohio, in eine jüdische Familie geboren. Sie studierte Philosophie an der Yale University, wo sie über Hegels Rezeption in der französischen Philosophie promovierte. Früh setzte sie sich mit Fragen der Identität, des Geschlechts und der Macht auseinander.",
+    "schaffen": "Mit 'Das Unbehagen der Geschlechter' (1990) wurde Butler zu einer der meistdiskutierten Philosophinnen der Welt. Sie lehrte an der Johns Hopkins University und der University of California, Berkeley. Ihre Theorie der Performativität revolutionierte die Gender Studies und beeinflusste zahlreiche akademische Disziplinen. Spätere Werke widmeten sich der politischen Philosophie, der Ethik der Gewaltlosigkeit und der Prekaritätstheorie.",
+    "spaetesLeben": "Butler ist weiterhin als Professorin in Berkeley tätig und engagiert sich in öffentlichen Debatten über Menschenrechte, Krieg und politische Ethik. Sie erhielt zahlreiche internationale Auszeichnungen und ist eine der meistzitierten Geisteswissenschaftlerinnen weltweit.",
+    "tod": "Judith Butler lebt und arbeitet weiterhin in Berkeley, Kalifornien. Sie publiziert regelmäßig zu aktuellen politischen und philosophischen Fragen.",
+    "nachwirkung": "Butlers Performativitätstheorie hat die Gender Studies, die Queer-Theorie und die feministische Philosophie grundlegend verändert. Ihr Einfluss reicht weit über die Philosophie hinaus in die Kultur-, Literatur- und Sozialwissenschaften. Die Debatte um ihre Thesen ist bis heute lebendig und kontrovers."
+  },
+  "kernideen": [
+    {
+      "titel": "Performativität des Geschlechts",
+      "beschreibung": "Geschlecht (Gender) ist keine natürliche Gegebenheit, sondern wird durch wiederholte performative Akte hergestellt und aufrechterhalten. Es gibt kein 'wahres' Geschlecht hinter den Handlungen – die Performanz selbst erzeugt die Illusion einer stabilen Geschlechtsidentität."
+    },
+    {
+      "titel": "Subversion der Geschlechternormen",
+      "beschreibung": "Da Geschlecht performativ hergestellt wird, kann es auch subversiv verändert werden. Parodistische Wiederholungen wie Drag zeigen die Konstruiertheit der Geschlechternormen auf und eröffnen Möglichkeiten des Widerstands gegen normative Zwänge."
+    },
+    {
+      "titel": "Prekarität und Verletzbarkeit",
+      "beschreibung": "Alle Menschen sind grundlegend verletzbar und aufeinander angewiesen. Prekarität – die ungleiche Verteilung von Verletzbarkeit – ist ein politisches Problem. Bestimmte Leben werden als betrauerbar anerkannt, andere nicht, was ethische und politische Fragen aufwirft."
+    },
+    {
+      "titel": "Ethik der Gewaltlosigkeit",
+      "beschreibung": "Butler plädiert für eine Ethik der Gewaltlosigkeit, die aus der Anerkennung unserer gegenseitigen Abhängigkeit und Verletzbarkeit erwächst. Gewaltlosigkeit ist kein passives Hinnehmen, sondern eine aktive politische Praxis des Widerstands."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Das Unbehagen der Geschlechter (Gender Trouble)",
+      "jahr": "1990",
+      "beschreibung": "Das bahnbrechende Werk, das die Performativitätstheorie des Geschlechts einführte und die Gender Studies revolutionierte."
+    },
+    {
+      "titel": "Körper von Gewicht (Bodies That Matter)",
+      "jahr": "1993",
+      "beschreibung": "Eine Vertiefung der Performativitätstheorie, die sich mit der Materialität des Körpers und der Frage der Naturalisierung von Geschlecht auseinandersetzt."
+    },
+    {
+      "titel": "Gefährdetes Leben (Precarious Life)",
+      "jahr": "2004",
+      "beschreibung": "Eine Sammlung von Essays über Trauer, Verletzbarkeit und politische Gewalt nach dem 11. September 2001."
+    },
+    {
+      "titel": "Die Macht der Gewaltlosigkeit (The Force of Nonviolence)",
+      "jahr": "2020",
+      "beschreibung": "Eine philosophische Verteidigung der Gewaltlosigkeit als politische Praxis, die auf der Anerkennung wechselseitiger Abhängigkeit beruht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Geschlecht ist keine Tatsache, sondern eine Performanz.",
+      "quelle": "Das Unbehagen der Geschlechter",
+      "kontext": "Die Kernthese der Butlerschen Geschlechtertheorie in pointierter Zusammenfassung."
+    },
+    {
+      "text": "Die Frage ist nicht, ob wir verletzbar sind, sondern wie wir mit unserer Verletzbarkeit umgehen.",
+      "quelle": "Gefährdetes Leben",
+      "kontext": "Butlers Reflexion über die politische Bedeutung menschlicher Verletzbarkeit."
+    },
+    {
+      "text": "Wir können die Normen nicht einfach abwerfen, aber wir können sie verschieben und umarbeiten.",
+      "quelle": "Körper von Gewicht",
+      "kontext": "Butlers Position zur Möglichkeit subversiver Veränderung innerhalb bestehender Machtstrukturen."
+    }
+  ],
+  "verwandtePhilosophen": ["michel-foucault", "jacques-derrida", "simone-de-beauvoir", "donna-haraway"],
+  "verwandteIsmen": ["poststrukturalismus", "feminismus"]
+}

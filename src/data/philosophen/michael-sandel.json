@@ -1,0 +1,86 @@
+{
+  "slug": "michael-sandel",
+  "name": "Michael Sandel",
+  "lebensdaten": "1953–",
+  "geboren": {
+    "jahr": 1953,
+    "ort": "Minneapolis",
+    "land": "USA",
+    "lat": 44.98,
+    "lng": -93.27
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Kommunitarismus"],
+  "kurzbeschreibung": "Michael Sandel ist ein amerikanischer politischer Philosoph, der als einer der bekanntesten öffentlichen Philosophen der Gegenwart gilt. Seine Harvard-Vorlesung 'Justice' wurde von Millionen Menschen weltweit verfolgt. Er vertritt eine kommunitaristische Kritik des Liberalismus und warnt vor der Tyrannei der Leistungsgesellschaft.",
+  "biografie": {
+    "fruehesLeben": "Michael Sandel wurde 1953 in Minneapolis, Minnesota, geboren und wuchs in einer jüdischen Familie auf. Er studierte an der Brandeis University und promovierte als Rhodes-Stipendiat in Oxford bei Charles Taylor. Bereits seine Dissertation über den Liberalismus erregte große Aufmerksamkeit.",
+    "schaffen": "Sandel lehrte seit 1980 an der Harvard University, wo seine Vorlesung 'Justice' zur legendärsten Veranstaltung der Universität wurde. Sein Buch 'Liberalism and the Limits of Justice' (1982) wurde zu einem Gründungstext des Kommunitarismus. In späteren Werken wandte er sich der Frage zu, was Geld nicht kaufen können sollte und welche moralischen Grenzen dem Markt gesetzt werden müssen.",
+    "spaetesLeben": "Sandel wurde durch seine öffentlichen Vorträge, Bücher und Fernsehsendungen zum weltweit bekanntesten Philosophen der Gegenwart. Sein Buch 'Tyrannei der Leistung' (2020) diagnostiziert die zerstörerischen Folgen des meritokratischen Denkens. Er setzt sich für eine Erneuerung des öffentlichen Diskurses und des Gemeinsinns ein.",
+    "tod": "Michael Sandel lebt und lehrt an der Harvard University. Er gilt als einer der einflussreichsten öffentlichen Intellektuellen der Welt und hat die politische Philosophie einem breiten Publikum zugänglich gemacht.",
+    "nachwirkung": "Sandels kommunitaristische Kritik des Liberalismus hat die politische Philosophie nachhaltig beeinflusst. Seine Kritik der Marktgesellschaft und der Meritokratie findet weltweite Resonanz. Als öffentlicher Philosoph hat er gezeigt, dass philosophisches Denken gesellschaftlich relevant sein kann."
+  },
+  "kernideen": [
+    {
+      "titel": "Grenzen des Liberalismus",
+      "beschreibung": "Der politische Liberalismus, wie ihn Rawls vertritt, kann nicht neutral gegenüber verschiedenen Konzeptionen des guten Lebens sein. Gerechtigkeit erfordert eine öffentliche Debatte über das Gute, nicht bloß die Sicherung individueller Rechte. Die liberale Trennung von Recht und Moral ist eine Illusion."
+    },
+    {
+      "titel": "Was Geld nicht kaufen kann",
+      "beschreibung": "Die zunehmende Vermarktlichung aller Lebensbereiche korrumpiert wichtige soziale Güter. Wenn alles käuflich wird – von Bildung über Gesundheit bis zur Staatsbürgerschaft –, verlieren diese Güter ihren moralischen Wert. Es gibt moralische Grenzen des Marktes."
+    },
+    {
+      "titel": "Tyrannei der Leistung",
+      "beschreibung": "Die meritokratische Überzeugung, dass Erfolg verdient und Misserfolg selbstverschuldet ist, vergiftet die Gesellschaft. Sie führt bei Gewinnern zu Hochmut und bei Verlierern zu Demütigung. Die meritokratische Ethik untergräbt Solidarität und Gemeinsinn."
+    },
+    {
+      "titel": "Tugendethik und Gemeinwohl",
+      "beschreibung": "Politik soll nicht nur Rechte schützen, sondern auch das Gemeinwohl fördern und die Tugenden der Bürger kultivieren. Eine lebendige Demokratie braucht Bürger, die sich als Mitglieder einer Gemeinschaft verstehen, nicht nur als Träger individueller Rechte."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Liberalismus und die Grenzen der Gerechtigkeit (Liberalism and the Limits of Justice)",
+      "jahr": "1982",
+      "beschreibung": "Sandels einflussreiche Kritik an Rawls' 'Theorie der Gerechtigkeit', die den Kommunitarismus als philosophische Strömung mitbegründete."
+    },
+    {
+      "titel": "Gerechtigkeit: Wie wir das Richtige tun (Justice: What's the Right Thing to Do?)",
+      "jahr": "2009",
+      "beschreibung": "Die Buchfassung seiner berühmten Harvard-Vorlesung, die philosophische Gerechtigkeitstheorien anhand konkreter Fälle diskutiert."
+    },
+    {
+      "titel": "Was man für Geld nicht kaufen kann (What Money Can't Buy)",
+      "jahr": "2012",
+      "beschreibung": "Eine Kritik der Marktgesellschaft, die zeigt, wie die Kommerzialisierung aller Lebensbereiche moralische Werte korrumpiert."
+    },
+    {
+      "titel": "Vom Ende des Gemeinwohls (The Tyranny of Merit)",
+      "jahr": "2020",
+      "beschreibung": "Eine scharfe Analyse der meritokratischen Überzeugung und ihrer zerstörerischen Folgen für Solidarität und demokratische Kultur."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Frage ist nicht nur, wie wir Güter verteilen, sondern welche Güter überhaupt auf den Markt gehören.",
+      "quelle": "Was man für Geld nicht kaufen kann"
+    },
+    {
+      "text": "Die Meritokratie erzeugt Hochmut bei den Gewinnern und Demütigung bei den Verlierern.",
+      "quelle": "Vom Ende des Gemeinwohls"
+    },
+    {
+      "text": "Gerechtigkeit ist nicht nur eine Frage der Verteilung, sondern auch der Anerkennung.",
+      "quelle": "Gerechtigkeit"
+    }
+  ],
+  "verwandtePhilosophen": ["john-rawls", "michael-walzer", "aristoteles"],
+  "verwandteIsmen": ["kommunitarismus"]
+}

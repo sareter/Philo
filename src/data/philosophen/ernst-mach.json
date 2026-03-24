@@ -1,0 +1,80 @@
+{
+  "slug": "ernst-mach",
+  "name": "Ernst Mach",
+  "lebensdaten": "1838–1916",
+  "geboren": {
+    "jahr": 1838,
+    "ort": "Chirlitz",
+    "land": "Österreich",
+    "lat": 49.23,
+    "lng": 16.65
+  },
+  "gestorben": {
+    "jahr": 1916,
+    "ort": "Haar",
+    "land": "Deutschland",
+    "lat": 48.11,
+    "lng": 11.73
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Positivismus", "Empirismus"],
+  "kurzbeschreibung": "Ernst Mach war ein österreichischer Physiker und Philosoph, der mit seiner radikalen empiristischen Erkenntnistheorie die Philosophie des 20. Jahrhunderts entscheidend beeinflusste. Er lehnte alle metaphysischen Konzepte ab, die nicht auf Sinnesempfindungen zurückführbar sind, einschließlich des Atoms, des absoluten Raums und des Ich. Sein Denken beeinflusste sowohl den logischen Positivismus als auch Einsteins Relativitätstheorie.",
+  "biografie": {
+    "fruehesLeben": "Ernst Mach wurde 1838 in Chirlitz bei Brünn (heute Chrlice bei Brno) in Mähren geboren. Er studierte Physik und Mathematik an der Universität Wien und begann seine Karriere als Experimentalphysiker.",
+    "schaffen": "Mach leistete bedeutende Beiträge zur Physik (die Mach-Zahl in der Aerodynamik ist nach ihm benannt) und zur Sinnesphysiologie. Philosophisch vertrat er einen radikalen Empirismus, der alle wissenschaftlichen Begriffe auf Sinnesempfindungen ('Elemente') zurückführen will. Sein Hauptwerk 'Die Analyse der Empfindungen' (1886) legt diese Philosophie systematisch dar.",
+    "spaetesLeben": "Mach wurde 1895 auf den neu geschaffenen Lehrstuhl für Philosophie der induktiven Wissenschaften an der Universität Wien berufen. Ein Schlaganfall 1901 beeinträchtigte seine Arbeitsfähigkeit, doch er publizierte bis zu seinem Tod.",
+    "tod": "Ernst Mach starb 1916 in Haar bei München. Er erlebte den Triumph seiner Ideen im logischen Positivismus nicht mehr, hatte aber Einstein und den Wiener Kreis bereits entscheidend beeinflusst.",
+    "nachwirkung": "Machs empiristische Philosophie war ein Wegbereiter sowohl der Relativitätstheorie als auch des logischen Positivismus. Der Wiener Kreis nannte sich zunächst 'Ernst-Mach-Verein'. Sein Einfluss auf die Wissenschaftsphilosophie ist bis heute spürbar."
+  },
+  "kernideen": [
+    {
+      "titel": "Elementenlehre",
+      "beschreibung": "Mach reduziert die gesamte Wirklichkeit auf 'Elemente' – Sinnesempfindungen wie Farben, Töne und Druckempfindungen. Sowohl physische Körper als auch das Ich sind keine eigenständigen Substanzen, sondern Bündel von Elementen."
+    },
+    {
+      "titel": "Denkökonomie",
+      "beschreibung": "Der Zweck der Wissenschaft ist nicht die Erkenntnis einer verborgenen Wirklichkeit, sondern die ökonomische Zusammenfassung von Erfahrungen. Theorien und Gesetze sind keine Abbilder der Natur, sondern Werkzeuge zur effizienten Ordnung der Empfindungen."
+    },
+    {
+      "titel": "Kritik der Mechanik",
+      "beschreibung": "Mach kritisierte Newtons Konzepte des absoluten Raums und der absoluten Zeit als metaphysische Fiktionen ohne empirische Grundlage. Diese Kritik beeinflusste Einstein bei der Entwicklung der Relativitätstheorie."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Analyse der Empfindungen",
+      "jahr": "1886",
+      "beschreibung": "Machs philosophisches Hauptwerk, das alle Wirklichkeit auf Empfindungen ('Elemente') zurückführt und die Unterscheidung zwischen physischer und psychischer Welt aufhebt."
+    },
+    {
+      "titel": "Die Mechanik in ihrer Entwicklung",
+      "jahr": "1883",
+      "beschreibung": "Eine historisch-kritische Darstellung der Mechanik, die Newtons absolute Konzepte in Frage stellt und Einstein zur Relativitätstheorie inspirierte."
+    },
+    {
+      "titel": "Erkenntnis und Irrtum",
+      "jahr": "1905",
+      "beschreibung": "Eine Sammlung erkenntnistheoretischer Aufsätze, die Machs empiristische Wissenschaftsphilosophie zusammenfasst."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Ich ist unrettbar.",
+      "quelle": "Die Analyse der Empfindungen",
+      "kontext": "Machs berühmte These, dass das Ich keine Substanz, sondern ein veränderliches Bündel von Empfindungen ist."
+    },
+    {
+      "text": "Die Wissenschaft kann nur als die Aufgabe betrachtet werden, Tatsachen in Gedanken ökonomisch nachzubilden.",
+      "quelle": "Die Mechanik in ihrer Entwicklung",
+      "kontext": "Machs instrumentalistische Wissenschaftsauffassung als Denkökonomie."
+    },
+    {
+      "text": "Nicht Körper erzeugen Empfindungen, sondern Empfindungskomplexe bilden die Körper.",
+      "quelle": "Die Analyse der Empfindungen",
+      "kontext": "Machs radikale Umkehrung der gewöhnlichen Auffassung von Materie und Wahrnehmung."
+    }
+  ],
+  "verwandtePhilosophen": ["moritz-schlick", "ludwig-wittgenstein", "david-hume"],
+  "verwandteIsmen": ["positivismus", "empirismus"]
+}

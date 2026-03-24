@@ -1,0 +1,89 @@
+{
+  "slug": "iris-murdoch",
+  "name": "Iris Murdoch",
+  "lebensdaten": "1919–1999",
+  "geboren": {
+    "jahr": 1919,
+    "ort": "Dublin",
+    "land": "Irland",
+    "lat": 53.35,
+    "lng": -6.26
+  },
+  "gestorben": {
+    "jahr": 1999,
+    "ort": "Oxford",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.75,
+    "lng": -1.25
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Tugendethik", "Platonismus"],
+  "kurzbeschreibung": "Iris Murdoch war eine britisch-irische Philosophin und Schriftstellerin, die Moralphilosophie und Literatur auf einzigartige Weise verband. Sie plädierte für eine Rückkehr zur platonischen Idee des Guten und betonte die moralische Bedeutung der Aufmerksamkeit gegenüber der Realität. Ihre 26 Romane erkunden philosophische Themen wie Freiheit, Liebe und das Gute.",
+  "biografie": {
+    "fruehesLeben": "Iris Murdoch wurde 1919 in Dublin als Tochter eines anglo-irischen Ehepaars geboren und wuchs in London auf. Sie studierte Klassische Philologie und Philosophie am Somerville College in Oxford, wo sie Elizabeth Anscombe und Philippa Foot kennenlernte. Nach dem Krieg arbeitete sie für die UNRRA und studierte in Cambridge bei Ludwig Wittgenstein.",
+    "schaffen": "Murdoch lehrte Philosophie am St Anne's College in Oxford und veröffentlichte 1953 eine der ersten englischsprachigen Studien über Jean-Paul Sartre. Ihr philosophisches Hauptwerk 'Die Souveränität des Guten' (1970) kritisierte die vorherrschende analytische Moralphilosophie und forderte eine Rückkehr zum platonischen Begriff des Guten. Parallel verfasste sie 26 Romane, die philosophische Fragen literarisch erkundeten.",
+    "spaetesLeben": "In den 1990er Jahren erkrankte Murdoch an Alzheimer, was ihren geistigen Verfall und schließlich ihre Unfähigkeit zu schreiben zur Folge hatte. Ihr letzter Roman 'Jackson's Dilemma' (1995) zeigt bereits Spuren der Krankheit. Ihr Ehemann John Bayley beschrieb ihren Kampf mit der Krankheit in seinen bewegenden Erinnerungen.",
+    "tod": "Iris Murdoch starb am 8. Februar 1999 in Oxford. Ihre Alzheimer-Erkrankung und ihr Tod wurden in John Bayleys Memoiren und dem Film 'Iris' (2001) einem breiten Publikum bekannt. Sie hinterließ ein reiches philosophisches und literarisches Werk.",
+    "nachwirkung": "Murdochs philosophisches Werk erlebt eine Renaissance in der zeitgenössischen Ethik. Ihre Betonung der moralischen Aufmerksamkeit, der Liebe als Form des Sehens und des platonischen Guten beeinflusst aktuelle Debatten in der Tugendethik. Ihre Romane werden als bedeutende Verbindung von Philosophie und Literatur geschätzt."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Souveränität des Guten",
+      "beschreibung": "Murdoch argumentierte, dass die platonische Idee des Guten das zentrale Konzept der Moralphilosophie sein sollte. Das Gute ist eine transzendente Realität, die unser moralisches Streben leitet und der Moral ihre Orientierung gibt."
+    },
+    {
+      "titel": "Moralische Aufmerksamkeit",
+      "beschreibung": "Moralisches Handeln beginnt nicht mit der Entscheidung, sondern mit dem aufmerksamen, liebevollen Blick auf die Realität. 'Attention' – die liebende Aufmerksamkeit – ist die zentrale moralische Fähigkeit, die uns ermöglicht, andere Menschen in ihrer Wirklichkeit wahrzunehmen."
+    },
+    {
+      "titel": "Kritik des existenzialistischen Freiheitsbegriffs",
+      "beschreibung": "Murdoch kritisierte die existenzialistische Vorstellung einer absoluten Wahlfreiheit als unrealistisch und moralisch irreführend. Moralische Veränderung geschieht nicht durch dramatische Entscheidungen, sondern durch die langsame Arbeit der Aufmerksamkeit und Selbsttransformation."
+    },
+    {
+      "titel": "Unselfing – Überwindung des Egoismus",
+      "beschreibung": "Das moralische Leben erfordert die Überwindung des Egoismus durch die Hinwendung zur Realität außerhalb des Selbst. Kunst, Natur und die Liebe zu anderen können uns aus der Befangenheit im eigenen Ich befreien."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Souveränität des Guten (The Sovereignty of Good)",
+      "jahr": "1970",
+      "beschreibung": "Murdochs philosophisches Hauptwerk, das für eine Rückkehr zum platonischen Begriff des Guten und zur moralischen Aufmerksamkeit plädiert."
+    },
+    {
+      "titel": "Sartre: Romantic Rationalist",
+      "jahr": "1953",
+      "beschreibung": "Eine der ersten englischsprachigen Studien über Jean-Paul Sartres Philosophie und Literatur."
+    },
+    {
+      "titel": "Metaphysics as a Guide to Morals",
+      "jahr": "1992",
+      "beschreibung": "Ein umfangreiches Spätwerk, das Murdochs philosophische Überlegungen zu Moral, Kunst, Religion und Metaphysik zusammenfasst."
+    },
+    {
+      "titel": "The Sea, the Sea",
+      "jahr": "1978",
+      "beschreibung": "Murdochs mit dem Booker Prize ausgezeichneter Roman über Obsession, Egoismus und die Schwierigkeit, andere Menschen wirklich zu sehen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Aufmerksamkeit ist die natürliche Gebetshaltung der Seele.",
+      "quelle": "Die Souveränität des Guten",
+      "kontext": "Murdochs zentrale These, dass liebende Aufmerksamkeit die Grundlage des moralischen Lebens ist."
+    },
+    {
+      "text": "Liebe ist die äußerst schwierige Erkenntnis, dass etwas anderes als man selbst wirklich ist.",
+      "quelle": "Die Souveränität des Guten",
+      "kontext": "Die Verbindung von Liebe und Realitätswahrnehmung in Murdochs Moralphilosophie."
+    },
+    {
+      "text": "Die wahre moralische Arbeit geschieht im Stillen, in der Qualität unserer Aufmerksamkeit.",
+      "quelle": "Die Souveränität des Guten",
+      "kontext": "Murdochs Ablehnung einer Ethik der dramatischen Entscheidungen zugunsten einer Ethik der alltäglichen Aufmerksamkeit."
+    }
+  ],
+  "verwandtePhilosophen": ["philippa-foot", "elizabeth-anscombe", "platon", "simone-weil"],
+  "verwandteIsmen": ["tugendethik", "platonismus"]
+}

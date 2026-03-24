@@ -1,0 +1,84 @@
+{
+  "slug": "benedetto-croce",
+  "name": "Benedetto Croce",
+  "lebensdaten": "1866–1952",
+  "geboren": {
+    "jahr": 1866,
+    "ort": "Pescasseroli",
+    "land": "Italien",
+    "lat": 41.81,
+    "lng": 13.79
+  },
+  "gestorben": {
+    "jahr": 1952,
+    "ort": "Neapel",
+    "land": "Italien",
+    "lat": 40.85,
+    "lng": 14.27
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Idealismus", "Ästhetik"],
+  "kurzbeschreibung": "Benedetto Croce war ein italienischer Philosoph, Historiker und Literaturkritiker, der als bedeutendster italienischer Denker des 20. Jahrhunderts gilt. Er entwickelte eine Philosophie des Geistes, die alle Wirklichkeit als Ausdruck des Geistes in vier Formen – Ästhetik, Logik, Ökonomik und Ethik – begreift. Als liberaler Antifaschist war er zugleich eine der wichtigsten moralischen Autoritäten Italiens.",
+  "biografie": {
+    "fruehesLeben": "Benedetto Croce wurde 1866 in Pescasseroli in den Abruzzen geboren. Bei einem Erdbeben auf Ischia 1883 verlor er seine Eltern und seine Schwester. Er studierte in Rom und widmete sich als unabhängiger Gelehrter der Philosophie, Geschichte und Literaturkritik.",
+    "schaffen": "Croce entwickelte seine 'Filosofia dello Spirito' (Philosophie des Geistes) in vier Bänden: Ästhetik (1902), Logik (1905), Philosophie der Praxis (1909) und Theorie und Geschichte der Historiographie (1917). Er gründete die einflussreiche Zeitschrift 'La Critica' und war einer der produktivsten Denker seiner Epoche.",
+    "spaetesLeben": "Croce war zunächst Senator und Bildungsminister, wandte sich aber nach Mussolinis Machtergreifung entschieden gegen den Faschismus. Sein 'Manifest der antifaschistischen Intellektuellen' (1925) machte ihn zum Symbol des geistigen Widerstands.",
+    "tod": "Benedetto Croce starb 1952 in Neapel, wo er als der 'ungekrönte König' des italienischen Geisteslebens galt. Sein Palazzo in Neapel beherbergt heute das Istituto Italiano per gli Studi Storici.",
+    "nachwirkung": "Croces Ästhetik hat die Kunsttheorie und Literaturkritik des 20. Jahrhunderts nachhaltig beeinflusst. Seine Geschichtsphilosophie – dass alle Geschichte Zeitgeschichte ist – bleibt ein zentraler Topos der Historiographie."
+  },
+  "kernideen": [
+    {
+      "titel": "Kunst als Intuition und Ausdruck",
+      "beschreibung": "Kunst ist die intuitive Erkenntnis des Individuellen, die sich im Ausdruck verwirklicht. Intuition und Ausdruck sind identisch: Was nicht ausgedrückt werden kann, ist nicht wirklich erkannt. Kunst ist keine Nachahmung der Natur, sondern eine eigenständige Form der Erkenntnis."
+    },
+    {
+      "titel": "Die vier Formen des Geistes",
+      "beschreibung": "Der Geist verwirklicht sich in vier Formen: der ästhetischen (Intuition des Individuellen), der logischen (Erkenntnis des Universellen), der ökonomischen (Nützlichkeit) und der ethischen (das Gute). Diese Formen bilden einen Kreislauf, in dem jede die andere voraussetzt."
+    },
+    {
+      "titel": "Alle Geschichte ist Zeitgeschichte",
+      "beschreibung": "Geschichte ist nicht die Rekonstruktion einer toten Vergangenheit, sondern das lebendige Denken der Gegenwart über die Vergangenheit. Jede Epoche schreibt die Geschichte neu, weil sie neue Fragen an die Vergangenheit stellt."
+    },
+    {
+      "titel": "Liberalismus als Religiosität",
+      "beschreibung": "Croce versteht den Liberalismus nicht als bloße politische Doktrin, sondern als eine ethische Haltung, eine 'Religiosität der Freiheit', die die autonome Entfaltung des menschlichen Geistes als höchsten Wert begreift."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Estetica come scienza dell'espressione (Ästhetik als Wissenschaft des Ausdrucks)",
+      "jahr": "1902",
+      "beschreibung": "Croces ästhetisches Hauptwerk, das Kunst als intuitiven Ausdruck definiert und die Ästhetik als eigenständige philosophische Disziplin begründet."
+    },
+    {
+      "titel": "Logica come scienza del concetto puro (Logik als Wissenschaft des reinen Begriffs)",
+      "jahr": "1905",
+      "beschreibung": "Der zweite Band der Philosophie des Geistes, der die Logik als Wissenschaft der universellen Begriffe darstellt."
+    },
+    {
+      "titel": "La storia come pensiero e come azione (Die Geschichte als Gedanke und als Tat)",
+      "jahr": "1938",
+      "beschreibung": "Croces geschichtsphilosophisches Hauptwerk, das die These vertritt, dass alle Geschichte Zeitgeschichte ist und der Freiheit dient."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Alle Geschichte ist Zeitgeschichte.",
+      "quelle": "Theorie und Geschichte der Historiographie",
+      "kontext": "Croces berühmteste These, die die Geschichtsschreibung als Ausdruck gegenwärtiger Interessen und Fragen versteht."
+    },
+    {
+      "text": "Kunst ist Intuition, Intuition ist Ausdruck, und Ausdruck ist Sprache.",
+      "quelle": "Ästhetik als Wissenschaft des Ausdrucks",
+      "kontext": "Croces Definition der Kunst als identisch mit intuitiver Erkenntnis und ihrem sprachlichen Ausdruck."
+    },
+    {
+      "text": "Die Freiheit ist kein Faktum, sondern ein Akt – sie muss in jedem Augenblick neu errungen werden.",
+      "quelle": "Die Geschichte als Gedanke und als Tat",
+      "kontext": "Croces Verständnis der Freiheit als ständiger Aufgabe, nicht als gegebener Zustand."
+    }
+  ],
+  "verwandtePhilosophen": ["georg-wilhelm-friedrich-hegel", "gianni-vattimo", "umberto-eco"],
+  "verwandteIsmen": ["idealismus", "aesthetik"]
+}

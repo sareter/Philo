@@ -1,0 +1,75 @@
+{
+  "slug": "wilhelm-windelband",
+  "name": "Wilhelm Windelband",
+  "lebensdaten": "1848–1915",
+  "geboren": {
+    "jahr": 1848,
+    "ort": "Potsdam",
+    "land": "Deutschland",
+    "lat": 52.4,
+    "lng": 13.07
+  },
+  "gestorben": {
+    "jahr": 1915,
+    "ort": "Heidelberg",
+    "land": "Deutschland",
+    "lat": 49.4,
+    "lng": 8.69
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Neukantianismus"],
+  "kurzbeschreibung": "Wilhelm Windelband war ein deutscher Philosoph und Begründer der Südwestdeutschen Schule des Neukantianismus. Er führte die einflussreiche Unterscheidung zwischen nomothetischen (gesetzsuchenden) und idiographischen (das Einzelne beschreibenden) Wissenschaften ein. Als bedeutender Philosophiehistoriker verfasste er ein Lehrbuch der Geschichte der Philosophie, das Generationen von Studenten prägte.",
+  "biografie": {
+    "fruehesLeben": "Wilhelm Windelband wurde 1848 in Potsdam geboren. Er studierte Philosophie und Geschichte in Jena, Berlin und Göttingen, unter anderem bei Hermann Lotze und Kuno Fischer.",
+    "schaffen": "Windelband begründete die Südwestdeutsche oder Badische Schule des Neukantianismus, die sich auf die Wertphilosophie und die Methodologie der Geisteswissenschaften konzentrierte. Seine Rektoratsrede 'Geschichte und Naturwissenschaft' (1894) formulierte die berühmte Unterscheidung zwischen nomothetischen und idiographischen Methoden.",
+    "spaetesLeben": "Windelband lehrte in Zürich, Freiburg, Straßburg und ab 1903 in Heidelberg, wo er Heinrich Rickert als seinen Nachfolger aufbaute.",
+    "tod": "Wilhelm Windelband starb 1915 in Heidelberg während des Ersten Weltkriegs. Sein Schüler Heinrich Rickert führte die Badische Schule fort.",
+    "nachwirkung": "Windelbands Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften prägt die Wissenschaftstheorie bis heute. Seine Philosophiegeschichte blieb über Jahrzehnte das maßgebliche Lehrbuch."
+  },
+  "kernideen": [
+    {
+      "titel": "Nomothetisch und Idiographisch",
+      "beschreibung": "Windelband unterscheidet zwei grundlegende wissenschaftliche Methoden: Die nomothetische Methode sucht allgemeine Gesetze (Naturwissenschaften), die idiographische beschreibt das Einmalige und Individuelle (Geschichtswissenschaften). Beide sind gleichwertig, aber methodisch verschieden."
+    },
+    {
+      "titel": "Wertphilosophie",
+      "beschreibung": "In Anknüpfung an Lotze versteht Windelband die Philosophie als Wissenschaft von den allgemeingültigen Werten. Das Wahre, Gute und Schöne sind nicht Dinge, sondern Werte, die gelten und an denen sich menschliches Urteilen orientiert."
+    },
+    {
+      "titel": "Philosophie als Geschichte ihrer Probleme",
+      "beschreibung": "Die Geschichte der Philosophie ist nicht eine Abfolge von Systemen, sondern die fortschreitende Klärung grundlegender Probleme. Windelband ordnet die Philosophiegeschichte nach Problemen, nicht nach Personen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Lehrbuch der Geschichte der Philosophie",
+      "jahr": "1892",
+      "beschreibung": "Windelbands einflussreichstes Werk, ein umfassendes Lehrbuch der Philosophiegeschichte, das nach Problemen statt nach Personen geordnet ist und Generationen von Studenten prägte."
+    },
+    {
+      "titel": "Geschichte und Naturwissenschaft (Rektoratsrede)",
+      "jahr": "1894",
+      "beschreibung": "Die berühmte Rede, in der Windelband die Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften einführte."
+    },
+    {
+      "titel": "Präludien",
+      "jahr": "1884",
+      "beschreibung": "Eine Sammlung philosophischer Aufsätze und Reden, die Windelbands wertphilosophischen Neukantianismus in verschiedenen Anwendungsfeldern darstellt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die einen sind Gesetzeswissenschaften, die anderen Ereigniswissenschaften; jene lehren, was immer ist, diese, was einmal war.",
+      "quelle": "Geschichte und Naturwissenschaft",
+      "kontext": "Windelbands klassische Formulierung der Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften."
+    },
+    {
+      "text": "Philosophie lernen heißt philosophieren lernen, und philosophieren lernen heißt, die Geschichte der Philosophie studieren.",
+      "quelle": "Lehrbuch der Geschichte der Philosophie",
+      "kontext": "Windelbands Überzeugung von der untrennbaren Verbindung zwischen Philosophie und Philosophiegeschichte."
+    }
+  ],
+  "verwandtePhilosophen": ["heinrich-rickert", "hermann-lotze", "immanuel-kant", "ernst-troeltsch"],
+  "verwandteIsmen": ["neukantianismus"]
+}

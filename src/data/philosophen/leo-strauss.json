@@ -1,0 +1,86 @@
+{
+  "slug": "leo-strauss",
+  "name": "Leo Strauss",
+  "lebensdaten": "1899–1973",
+  "geboren": {
+    "jahr": 1899,
+    "ort": "Kirchhain",
+    "land": "Deutschland",
+    "lat": 50.83,
+    "lng": 8.92
+  },
+  "gestorben": {
+    "jahr": 1973,
+    "ort": "Annapolis",
+    "land": "USA",
+    "lat": 38.98,
+    "lng": -76.49
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Konservatismus", "Platonismus"],
+  "kurzbeschreibung": "Leo Strauss war ein deutsch-amerikanischer politischer Philosoph, der durch seine Wiederentdeckung der klassischen politischen Philosophie und seine Kunst der esoterischen Lektüre großen Einfluss auf die amerikanische politische Theorie ausübte. Er diagnostizierte eine Krise der Moderne, die nur durch die Rückkehr zu den Fragen der Alten überwunden werden könne. Seine Schüler – die 'Straussianer' – bilden eine einflussreiche intellektuelle Strömung.",
+  "biografie": {
+    "fruehesLeben": "Leo Strauss wurde 1899 in Kirchhain, Hessen, in eine orthodoxe jüdische Familie geboren. Er studierte Philosophie in Marburg und Hamburg und promovierte 1921 über Jacobi. Als junger Gelehrter arbeitete er an der Akademie für die Wissenschaft des Judentums in Berlin.",
+    "schaffen": "Vor dem Nationalsozialismus flüchtend, ging Strauss über Paris und Cambridge in die USA, wo er ab 1949 an der University of Chicago lehrte. Dort entwickelte er seine einflussreiche Methode der textnahen Lektüre klassischer philosophischer Werke. Er argumentierte, dass die großen Philosophen zwischen einer exoterischen (öffentlichen) und einer esoterischen (verborgenen) Lehre unterschieden.",
+    "spaetesLeben": "Nach seiner Emeritierung 1968 lehrte Strauss am Claremont Men's College und am St. John's College in Annapolis. Er zog eine außergewöhnlich loyale Schülerschaft heran, die seinen Einfluss in der amerikanischen Politikwissenschaft und Politik verbreitete.",
+    "tod": "Leo Strauss starb am 18. Oktober 1973 in Annapolis, Maryland. Sein Vermächtnis ist umstritten – von Bewunderern als Retter der politischen Philosophie gefeiert, von Kritikern als Vordenker des Neokonservatismus angegriffen.",
+    "nachwirkung": "Strauss' Einfluss auf die amerikanische politische Philosophie und Politik ist enorm. Seine Schüler besetzten einflussreiche Positionen in der Akademie und in der Politik. Seine Methode der esoterischen Lektüre hat die Interpretationsgeschichte der Philosophie verändert. Die Debatte über sein Erbe – zwischen Wiederentdeckung der Klassik und Kritik des politischen Straussianismus – dauert an."
+  },
+  "kernideen": [
+    {
+      "titel": "Esoterisches Schreiben (Persecution and the Art of Writing)",
+      "beschreibung": "Unter Bedingungen der Verfolgung haben Philosophen ihre wahren Gedanken zwischen den Zeilen verborgen. Diese esoterische Schreibweise richtet sich an aufmerksame Leser, während die exoterische Oberfläche den Anforderungen der gesellschaftlichen Ordnung genügt. Die Kunst des Lesens muss diese Technik berücksichtigen."
+    },
+    {
+      "titel": "Die Krise der Moderne",
+      "beschreibung": "Die Moderne hat die Frage nach dem guten Leben aufgegeben und durch die Frage nach dem bequemen Leben ersetzt. Der Historismus und der Positivismus haben die Möglichkeit objektiver Werte und natürlichen Rechts untergraben. Nur die Rückkehr zu den Fragen der klassischen politischen Philosophie kann diese Krise überwinden."
+    },
+    {
+      "titel": "Naturrecht und Geschichte",
+      "beschreibung": "Die klassische Tradition des Naturrechts – von Platon und Aristoteles über Thomas von Aquin – erkennt eine natürliche Ordnung des Guten an, die unabhängig von menschlicher Konvention besteht. Der moderne Historismus hat diese Tradition zerstört und damit die Grundlage rationaler politischer Ordnung untergraben."
+    },
+    {
+      "titel": "Athen und Jerusalem",
+      "beschreibung": "Die westliche Zivilisation gründet auf dem unauflösbaren Spannungsverhältnis zwischen Athen (Vernunft, Philosophie) und Jerusalem (Glaube, Offenbarung). Weder die Vernunft noch der Glaube kann den anderen widerlegen. Diese Spannung ist produktiv und darf nicht zugunsten einer Seite aufgelöst werden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Naturrecht und Geschichte (Natural Right and History)",
+      "jahr": "1953",
+      "beschreibung": "Strauss' Hauptwerk, das die Geschichte des Naturrechts von den Alten bis zur Moderne nachzeichnet und den modernen Historismus als Krise diagnostiziert."
+    },
+    {
+      "titel": "Verfolgung und die Kunst des Schreibens (Persecution and the Art of Writing)",
+      "jahr": "1952",
+      "beschreibung": "Die Begründung der Methode der esoterischen Lektüre, die zeigt, wie Philosophen unter Verfolgungsbedingungen ihre wahren Gedanken verbargen."
+    },
+    {
+      "titel": "Die Stadt und der Mensch (The City and Man)",
+      "jahr": "1964",
+      "beschreibung": "Interpretationen von Aristoteles' 'Politik', Platons 'Staat' und Thukydides' Geschichtswerk als Grundlagen der klassischen politischen Philosophie."
+    },
+    {
+      "titel": "Gedanken über Machiavelli (Thoughts on Machiavelli)",
+      "jahr": "1958",
+      "beschreibung": "Eine kontroverse Interpretation Machiavellis als Begründer der modernen politischen Philosophie und 'Lehrer des Bösen'."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Krise der Moderne ist die Krise der Möglichkeit, zwischen gut und böse zu unterscheiden.",
+      "quelle": "Naturrecht und Geschichte"
+    },
+    {
+      "text": "Zwischen den Zeilen zu lesen ist streng genommen die einzige Form des Lesens, die Lesen im eigentlichen Sinne ist.",
+      "quelle": "Verfolgung und die Kunst des Schreibens"
+    },
+    {
+      "text": "Die größte Gefahr für die Philosophie ist nicht die Verfolgung, sondern die Gleichgültigkeit.",
+      "quelle": "Vorträge"
+    }
+  ],
+  "verwandtePhilosophen": ["platon", "aristoteles", "niccolo-machiavelli", "carl-schmitt"],
+  "verwandteIsmen": ["konservatismus", "platonismus"]
+}

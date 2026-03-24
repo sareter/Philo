@@ -1,0 +1,79 @@
+{
+  "slug": "peter-wessel-zapffe",
+  "name": "Peter Wessel Zapffe",
+  "lebensdaten": "1899–1990",
+  "geboren": {
+    "jahr": 1899,
+    "ort": "Tromsø",
+    "land": "Norwegen",
+    "lat": 69.65,
+    "lng": 18.96
+  },
+  "gestorben": {
+    "jahr": 1990,
+    "ort": "Asker",
+    "land": "Norwegen",
+    "lat": 59.83,
+    "lng": 10.44
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Pessimismus", "Nihilismus"],
+  "kurzbeschreibung": "Peter Wessel Zapffe war ein norwegischer Philosoph, Schriftsteller und Bergsteiger, der für seine radikal pessimistische Sicht auf die menschliche Existenz bekannt ist. In seinem Hauptwerk 'Om det tragiske' argumentiert er, dass das menschliche Bewusstsein ein evolutionärer Fehler sei, der zu einem tragischen Übermaß an Einsicht führe. Sein Essay 'Den sidste Messias' beeinflusste spätere antinatalistische und pessimistische Denker erheblich.",
+  "biografie": {
+    "fruehesLeben": "Peter Wessel Zapffe wurde 1899 in Tromsø, im hohen Norden Norwegens, geboren. Er studierte Jura und Philosophie und war ein begeisterter Bergsteiger und Naturliebhaber, der trotz seiner pessimistischen Philosophie ein aktives Leben führte.",
+    "schaffen": "Zapffes philosophisches Hauptwerk 'Om det tragiske' (Über das Tragische, 1941) entwickelt die These, dass das menschliche Bewusstsein eine Überentwicklung darstellt, die den Menschen zum Leiden verurteilt. In seinem einflussreichen Essay 'Den sidste Messias' (Der letzte Messias, 1933) beschreibt er vier Mechanismen, mit denen Menschen ihre tragische Einsicht verdrängen: Isolation, Verankerung, Ablenkung und Sublimierung.",
+    "spaetesLeben": "Zapffe blieb zeitlebens ein Außenseiter der akademischen Philosophie, war aber in Norwegen als vielseitiger Intellektueller bekannt. Er betätigte sich als Bergsteiger, Dramatiker und Humorist und lebte ein langes, produktives Leben trotz seiner düsteren Philosophie.",
+    "tod": "Peter Wessel Zapffe starb 1990 im Alter von 91 Jahren in Asker bei Oslo. Die Ironie eines so langen Lebens bei einem Philosophen des Pessimismus entging weder ihm noch seinen Lesern.",
+    "nachwirkung": "Zapffes Werk blieb lange auf den skandinavischen Raum beschränkt, gewann aber durch die Rezeption bei Thomas Ligotti und David Benatar internationale Bekanntheit. Sein Essay 'Den sidste Messias' gilt heute als Schlüsseltext des philosophischen Pessimismus."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Bewusstsein als tragische Überentwicklung",
+      "beschreibung": "Zapffe argumentiert, dass das menschliche Bewusstsein eine biologische Überentwicklung ist – ein Organ, das über seine nützliche Funktion hinausgewachsen ist und den Menschen mit einem unerträglichen Übermaß an Einsicht in die Sinnlosigkeit seiner Existenz belastet."
+    },
+    {
+      "titel": "Die vier Verdrängungsmechanismen",
+      "beschreibung": "Um mit dem tragischen Bewusstsein umzugehen, nutzt der Mensch vier Strategien: Isolation (Verdrängung beunruhigender Gedanken), Verankerung (Bindung an feste Werte und Institutionen), Ablenkung (Beschäftigung mit Banalem) und Sublimierung (künstlerische Verarbeitung)."
+    },
+    {
+      "titel": "Kosmischer Pessimismus",
+      "beschreibung": "Für Zapffe ist die menschliche Existenz grundlegend tragisch, weil der Mensch nach Sinn verlangt, den das Universum nicht bieten kann. Diese kosmische Tragödie ist nicht durch individuelle oder gesellschaftliche Verbesserungen aufhebbar, sondern der menschlichen Natur eingeschrieben."
+    },
+    {
+      "titel": "Antinatalistische Konsequenz",
+      "beschreibung": "Zapffe zieht aus seiner Analyse die Konsequenz, dass die Menschheit aus freiem Willen aufhören sollte, sich fortzupflanzen, um das Leiden zu beenden. Der 'letzte Messias' wäre derjenige, der diese Einsicht verkündet."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Om det tragiske (Über das Tragische)",
+      "jahr": "1941",
+      "beschreibung": "Zapffes philosophisches Hauptwerk, eine systematische Analyse der tragischen Dimension menschlicher Existenz und der Mechanismen, mit denen der Mensch sein übermäßiges Bewusstsein zu bewältigen versucht."
+    },
+    {
+      "titel": "Den sidste Messias (Der letzte Messias)",
+      "jahr": "1933",
+      "beschreibung": "Ein kurzer, aber äußerst einflussreicher Essay, der Zapffes pessimistische Philosophie in konzentrierter Form darstellt und später zu einem Schlüsseltext des philosophischen Pessimismus wurde."
+    },
+    {
+      "titel": "Lykkens mur (Die Mauer des Glücks)",
+      "jahr": "1952",
+      "beschreibung": "Eine Sammlung von Essays und Texten, in denen Zapffe seine philosophischen Ideen in literarischer und humoristischer Form weiterentwickelt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Mensch ist ein Tier, das sein eigenes Grab gräbt und dabei die Grabinschrift verfasst.",
+      "quelle": "Den sidste Messias",
+      "kontext": "Zapffes bildhafte Zusammenfassung der tragischen Lage des bewussten Menschen."
+    },
+    {
+      "text": "Jede neue Generation stellt die alte Frage aufs Neue – und erhält dieselbe leere Antwort.",
+      "quelle": "Om det tragiske",
+      "kontext": "Die zyklische Wiederholung der menschlichen Sinnsuche ohne Ergebnis."
+    }
+  ],
+  "verwandtePhilosophen": ["arthur-schopenhauer", "david-benatar", "thomas-ligotti", "friedrich-nietzsche"],
+  "verwandteIsmen": ["pessimismus", "nihilismus"]
+}

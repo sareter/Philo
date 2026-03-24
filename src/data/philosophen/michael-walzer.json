@@ -1,0 +1,82 @@
+{
+  "slug": "michael-walzer",
+  "name": "Michael Walzer",
+  "lebensdaten": "1935–",
+  "geboren": {
+    "jahr": 1935,
+    "ort": "New York",
+    "land": "USA",
+    "lat": 40.71,
+    "lng": -74.0
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Kommunitarismus"],
+  "kurzbeschreibung": "Michael Walzer ist ein amerikanischer politischer Philosoph, der als einer der wichtigsten Vertreter des Kommunitarismus und der Theorie des gerechten Krieges gilt. Sein pluralistischer Ansatz betont, dass verschiedene Güter nach verschiedenen Gerechtigkeitsprinzipien verteilt werden müssen. Er verbindet akademische Philosophie mit öffentlichem politischem Engagement.",
+  "biografie": {
+    "fruehesLeben": "Michael Walzer wurde 1935 in New York City in eine jüdische Familie geboren. Er studierte an der Brandeis University und promovierte in Harvard in Politikwissenschaft. Früh engagierte er sich in der amerikanischen Bürgerrechtsbewegung und der Antikriegsbewegung.",
+    "schaffen": "Walzer lehrte in Princeton und Harvard, bevor er als Dauermitglied ans Institute for Advanced Study in Princeton berufen wurde. Sein Hauptwerk 'Sphären der Gerechtigkeit' (1983) entwickelte eine pluralistische Gerechtigkeitstheorie als Alternative zu Rawls' liberalem Ansatz. Mit 'Gibt es den gerechten Krieg?' (1977) erneuerte er die Tradition des gerechten Krieges.",
+    "spaetesLeben": "Walzer blieb bis ins hohe Alter intellektuell produktiv und engagiert. Er war langjähriger Herausgeber der Zeitschrift 'Dissent' und kommentierte regelmäßig aktuelle politische Fragen. Seine Arbeiten zur Toleranz und zur jüdischen politischen Tradition ergänzen sein philosophisches Werk.",
+    "tod": "Michael Walzer lebt in den USA und setzt seine publizistische und philosophische Tätigkeit fort. Er gilt als einer der einflussreichsten politischen Philosophen der Nachkriegszeit.",
+    "nachwirkung": "Walzers pluralistische Gerechtigkeitstheorie hat die politische Philosophie nachhaltig beeinflusst und eine wichtige Alternative zum liberalen Universalismus eröffnet. Seine Theorie des gerechten Krieges wird in der internationalen Politik und im Völkerrecht breit rezipiert. Sein Engagement für eine Verbindung von intellektueller Reflexion und politischer Praxis hat ihn zu einem Vorbild des öffentlichen Intellektuellen gemacht."
+  },
+  "kernideen": [
+    {
+      "titel": "Sphären der Gerechtigkeit",
+      "beschreibung": "Es gibt kein einziges Gerechtigkeitsprinzip für alle Bereiche des Lebens. Verschiedene soziale Güter – Geld, Macht, Bildung, Gesundheit – gehören verschiedenen Sphären an und müssen nach je eigenen Kriterien verteilt werden. Ungerechtigkeit entsteht, wenn die Dominanz in einer Sphäre auf andere übergreift."
+    },
+    {
+      "titel": "Komplexe Gleichheit",
+      "beschreibung": "Wahre Gleichheit besteht nicht darin, dass jeder dasselbe hat, sondern darin, dass kein Gut die Verteilung anderer Güter dominiert. Reichtum darf nicht politische Macht kaufen, politische Macht nicht Bildungschancen bestimmen. Jede Sphäre muss autonom bleiben."
+    },
+    {
+      "titel": "Theorie des gerechten Krieges",
+      "beschreibung": "Krieg kann unter bestimmten Umständen moralisch gerechtfertigt sein, wenn er den Kriterien des ius ad bellum (gerechter Kriegsgrund) und des ius in bello (gerechte Kriegsführung) genügt. Diese Tradition bietet einen Mittelweg zwischen Pazifismus und Kriegstreiberei."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Gibt es den gerechten Krieg? (Just and Unjust Wars)",
+      "jahr": "1977",
+      "beschreibung": "Eine einflussreiche Erneuerung der Theorie des gerechten Krieges, die moralische Kriterien für die Beurteilung von Kriegen und Kriegshandlungen entwickelt."
+    },
+    {
+      "titel": "Sphären der Gerechtigkeit (Spheres of Justice)",
+      "jahr": "1983",
+      "beschreibung": "Walzers Hauptwerk, das eine pluralistische Gerechtigkeitstheorie als Alternative zu Rawls' 'Theorie der Gerechtigkeit' entwickelt."
+    },
+    {
+      "titel": "Über Toleranz (On Toleration)",
+      "jahr": "1997",
+      "beschreibung": "Eine Analyse verschiedener historischer und zeitgenössischer Modelle der Toleranz in multikulturellen Gesellschaften."
+    },
+    {
+      "titel": "Kritik und Gemeinsinn (Interpretation and Social Criticism)",
+      "jahr": "1987",
+      "beschreibung": "Eine Verteidigung der immanenten Gesellschaftskritik gegen den universalistischen Ansatz – Kritik soll von den gemeinsamen Werten einer Gesellschaft ausgehen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Gerechtigkeit ist eine menschliche Konstruktion, und es ist zweifelhaft, ob sie nur auf eine Weise konstruiert werden kann.",
+      "quelle": "Sphären der Gerechtigkeit"
+    },
+    {
+      "text": "Kein soziales Gut soll als Mittel der Beherrschung dienen.",
+      "quelle": "Sphären der Gerechtigkeit"
+    },
+    {
+      "text": "Der gerechte Krieg ist nicht der gute Krieg; er ist der weniger ungerechte Krieg.",
+      "quelle": "Gibt es den gerechten Krieg?"
+    }
+  ],
+  "verwandtePhilosophen": ["john-rawls", "michael-sandel", "chantal-mouffe"],
+  "verwandteIsmen": ["kommunitarismus"]
+}

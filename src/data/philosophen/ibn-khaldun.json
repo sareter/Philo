@@ -1,0 +1,84 @@
+{
+  "slug": "ibn-khaldun",
+  "name": "Ibn Khaldun",
+  "lebensdaten": "1332–1406",
+  "geboren": {
+    "jahr": 1332,
+    "ort": "Tunis",
+    "land": "Tunesien",
+    "lat": 36.81,
+    "lng": 10.17
+  },
+  "gestorben": {
+    "jahr": 1406,
+    "ort": "Kairo",
+    "land": "Ägypten",
+    "lat": 30.04,
+    "lng": 31.24
+  },
+  "epoche": "Mittelalter",
+  "region": "Naher Osten",
+  "hauptstroemungen": ["Historismus"],
+  "kurzbeschreibung": "Ibn Khaldun war ein arabischer Historiker, Soziologe und Philosoph, der als Begründer der modernen Geschichtswissenschaft und Soziologie gilt. Seine 'Muqaddima' ist eine bahnbrechende Analyse der Gesetzmäßigkeiten historischer Entwicklung und des Aufstiegs und Niedergangs von Zivilisationen. Er entwickelte das Konzept der 'Asabiyya' (Gruppenzusammenhalt) als treibende Kraft der Geschichte.",
+  "biografie": {
+    "fruehesLeben": "Ibn Khaldun wurde 1332 in Tunis in eine angesehene Familie arabischer Gelehrter und Politiker geboren. Er erhielt eine umfassende Ausbildung in islamischen Wissenschaften, Philosophie und Literatur.",
+    "schaffen": "Nach einer bewegten politischen Karriere in Nordafrika und Spanien zog sich Ibn Khaldun zurück und verfasste in der Einsamkeit einer algerischen Festung die 'Muqaddima' (1377), seine bahnbrechende Einführung in die Geschichtswissenschaft. Darin analysiert er die zyklischen Muster von Aufstieg und Niedergang der Zivilisationen.",
+    "spaetesLeben": "Ibn Khaldun übersiedelte nach Kairo, wo er als Richter und Gelehrter wirkte. Er begegnete dem Eroberer Timur Lenk bei der Belagerung von Damaskus 1401 und verhandelte mit ihm.",
+    "tod": "Ibn Khaldun starb 1406 in Kairo, wo er als hoch angesehener Richter und Gelehrter gewirkt hatte. Seine 'Muqaddima' geriet in der arabischen Welt zunächst in Vergessenheit.",
+    "nachwirkung": "Ibn Khaldun wird heute als Vorläufer der modernen Soziologie, Geschichtswissenschaft und Ökonomie betrachtet. Seine Analysen von Zivilisationszyklen und sozialer Kohäsion werden in den Sozialwissenschaften nach wie vor diskutiert."
+  },
+  "kernideen": [
+    {
+      "titel": "Asabiyya (Gruppenzusammenhalt)",
+      "beschreibung": "Asabiyya bezeichnet den sozialen Zusammenhalt und das Solidaritätsgefühl einer Gruppe. Ibn Khaldun sieht darin die entscheidende Kraft, die den Aufstieg und Niedergang von Dynastien und Zivilisationen bestimmt. Nomadische Gruppen mit starker Asabiyya erobern sesshafte Zivilisationen, verlieren aber durch den Luxus des städtischen Lebens ihren Zusammenhalt."
+    },
+    {
+      "titel": "Zyklische Geschichtstheorie",
+      "beschreibung": "Zivilisationen durchlaufen nach Ibn Khaldun einen natürlichen Zyklus von Aufstieg, Blüte und Niedergang in etwa drei bis vier Generationen. Jede Dynastie trägt den Keim ihres Untergangs in sich, da der Wohlstand den Zusammenhalt untergräbt."
+    },
+    {
+      "titel": "Wissenschaftliche Geschichtsschreibung",
+      "beschreibung": "Ibn Khaldun fordert eine Geschichtsschreibung, die nicht bloß Ereignisse aufzählt, sondern die tieferen Ursachen und Gesetzmäßigkeiten historischer Prozesse erforscht. Geschichte muss als Wissenschaft betrieben werden, nicht als Anekdotensammlung."
+    },
+    {
+      "titel": "Ökonomische Theorie",
+      "beschreibung": "Ibn Khaldun entwickelte eine bemerkenswert moderne ökonomische Theorie, die den Zusammenhang zwischen Arbeitsteilung, Steuerlast und wirtschaftlicher Produktivität analysiert. Seine Steuerthese – niedrige Steuern führen zu höheren Einnahmen – wird oft als Vorläufer der Laffer-Kurve betrachtet."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Al-Muqaddima (Die Einführung)",
+      "jahr": "1377",
+      "beschreibung": "Ibn Khalduns Hauptwerk und eine der bedeutendsten Schriften der Weltliteratur: eine systematische Analyse der Gesetzmäßigkeiten historischer Entwicklung, die als Begründung der Soziologie und modernen Geschichtswissenschaft gilt."
+    },
+    {
+      "titel": "Kitab al-Ibar (Buch der Lehren)",
+      "jahr": "1377",
+      "beschreibung": "Eine umfassende Weltgeschichte, deren Einleitung die berühmte 'Muqaddima' bildet. Das Werk behandelt die Geschichte der arabischen, berberischen und anderer Völker."
+    },
+    {
+      "titel": "Al-Tarif (Die Autobiografie)",
+      "jahr": "1405",
+      "beschreibung": "Ibn Khalduns Autobiografie, die einen faszinierenden Einblick in das politische und intellektuelle Leben des 14. Jahrhunderts in Nordafrika und dem Nahen Osten bietet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Geschichte ist eine Wissenschaft, die die Ursachen und den Ursprung der Dinge erforscht.",
+      "quelle": "Al-Muqaddima",
+      "kontext": "Ibn Khalduns programmatische Forderung nach einer wissenschaftlichen Geschichtsschreibung."
+    },
+    {
+      "text": "Dynastien haben eine natürliche Lebensdauer wie Individuen. Sie entstehen, wachsen, reifen und vergehen.",
+      "quelle": "Al-Muqaddima",
+      "kontext": "Die Grundthese von Ibn Khalduns zyklischer Geschichtstheorie."
+    },
+    {
+      "text": "Luxus ist das Grab der Zivilisation.",
+      "quelle": "Al-Muqaddima",
+      "kontext": "Ibn Khalduns Analyse des Zusammenhangs zwischen materiellem Wohlstand und dem Verfall sozialer Kohäsion."
+    }
+  ],
+  "verwandtePhilosophen": ["al-farabi", "al-ghazali", "al-kindi", "arnold-toynbee"],
+  "verwandteIsmen": ["historismus", "rationalismus"]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "martha-nussbaum",
+  "name": "Martha Nussbaum",
+  "lebensdaten": "1947–",
+  "geboren": {
+    "jahr": 1947,
+    "ort": "New York",
+    "land": "USA",
+    "lat": 40.71,
+    "lng": -74.0
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Tugendethik", "Humanismus"],
+  "kurzbeschreibung": "Martha Nussbaum ist eine amerikanische Philosophin, die zu den einflussreichsten Denkerinnen der Gegenwart gehört. Ihr Fähigkeitenansatz (Capabilities Approach) definiert menschliche Würde über eine Liste grundlegender Fähigkeiten, die jeder Mensch verwirklichen können sollte. Sie verbindet antike Tugendethik mit zeitgenössischen Fragen der Gerechtigkeit, Emotionstheorie und Menschenrechte.",
+  "biografie": {
+    "fruehesLeben": "Martha Craven Nussbaum wurde 1947 in New York City in eine wohlhabende Familie geboren. Sie studierte Theaterwissenschaft am New York University und wechselte dann zur Philosophie und Klassischen Philologie an der Harvard University. Dort wurde sie die erste Frau, die in der Society of Fellows aufgenommen wurde.",
+    "schaffen": "Nussbaum lehrte an der Harvard University, der Brown University und seit 1995 an der University of Chicago. In Zusammenarbeit mit dem Ökonomen Amartya Sen entwickelte sie den Fähigkeitenansatz als Alternative zu rein ökonomischen Entwicklungsmaßstäben. Sie veröffentlichte bahnbrechende Werke über die Rolle der Emotionen in der Ethik und die Bedeutung der Geisteswissenschaften für die Demokratie.",
+    "spaetesLeben": "Nussbaum ist weiterhin als Professorin für Recht und Ethik an der University of Chicago tätig und veröffentlicht regelmäßig neue Werke. Sie engagiert sich in öffentlichen Debatten über Gerechtigkeit, Tierrechte und die Qualität der Bildung. Zahlreiche Ehrendoktorwürden und Preise würdigen ihr umfangreiches Schaffen.",
+    "tod": "Martha Nussbaum lebt und arbeitet weiterhin in Chicago. Ihr Werk wächst stetig, und sie gilt als eine der produktivsten und einflussreichsten Philosophinnen unserer Zeit.",
+    "nachwirkung": "Nussbaums Fähigkeitenansatz hat die internationale Entwicklungspolitik und die Menschenrechtsdiskussion maßgeblich beeinflusst. Der Human Development Index der Vereinten Nationen basiert teilweise auf ihren Ideen. Ihre Arbeiten zur Emotionstheorie und zur Bedeutung der Geisteswissenschaften haben breite akademische und öffentliche Resonanz gefunden."
+  },
+  "kernideen": [
+    {
+      "titel": "Der Fähigkeitenansatz",
+      "beschreibung": "Menschliche Würde wird durch eine Liste von zehn zentralen Fähigkeiten definiert, die jeder Mensch verwirklichen können sollte, darunter Leben, Gesundheit, Bildung, Emotionen und politische Teilhabe. Aufgabe des Staates ist es, die Bedingungen für diese Fähigkeiten zu schaffen."
+    },
+    {
+      "titel": "Emotionen als Urteile",
+      "beschreibung": "Emotionen sind nicht bloß irrationale Regungen, sondern enthalten kognitive Bewertungen und moralische Urteile. Angst, Mitleid und Empörung informieren uns über die Welt und sind für das ethische Handeln unverzichtbar. Eine Ethik ohne Emotionen wäre unvollständig."
+    },
+    {
+      "titel": "Kosmopolitismus und Weltbürgertum",
+      "beschreibung": "Nussbaum plädiert für eine kosmopolitische Erziehung, die die Grenzen nationaler Identität überwindet. Jeder Mensch verdient Achtung und Gerechtigkeit, unabhängig von Staatsangehörigkeit oder Herkunft. Die Geisteswissenschaften sind für die Bildung demokratischer Weltbürger unverzichtbar."
+    },
+    {
+      "titel": "Gerechtigkeit für Tiere",
+      "beschreibung": "Nussbaum erweitert ihren Fähigkeitenansatz auf nichtmenschliche Tiere und argumentiert, dass auch sie ein Recht auf die Entfaltung ihrer artspezifischen Fähigkeiten haben. Dies begründet starke moralische Pflichten gegenüber Tieren."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Grenzen der Gerechtigkeit (Frontiers of Justice)",
+      "jahr": "2006",
+      "beschreibung": "Eine Erweiterung der Gerechtigkeitstheorie auf drei vernachlässigte Bereiche: Menschen mit Behinderungen, globale Gerechtigkeit und Tierrechte."
+    },
+    {
+      "titel": "Gerechtigkeit oder Das gute Leben (Sex and Social Justice)",
+      "jahr": "1999",
+      "beschreibung": "Eine feministische Anwendung des Fähigkeitenansatzes, die für universelle Menschenrechte und die Gleichberechtigung der Geschlechter argumentiert."
+    },
+    {
+      "titel": "Politische Emotionen (Political Emotions)",
+      "jahr": "2013",
+      "beschreibung": "Eine Untersuchung der Rolle von Liebe und Emotionen in der politischen Kultur einer gerechten Gesellschaft."
+    },
+    {
+      "titel": "Nicht für den Profit (Not for Profit)",
+      "jahr": "2010",
+      "beschreibung": "Ein leidenschaftliches Plädoyer für die Geisteswissenschaften als unverzichtbare Grundlage demokratischer Bildung gegen den Trend zur reinen Ökonomisierung der Bildung."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Sich nicht zu schämen, an die Öffentlichkeit zu treten – das ist eine zentrale menschliche Fähigkeit.",
+      "quelle": "Die Grenzen der Gerechtigkeit",
+      "kontext": "Nussbaums Betonung der Würde und Schamfreiheit als grundlegende menschliche Fähigkeit."
+    },
+    {
+      "text": "Die Geisteswissenschaften sind keine Luxusgüter, sondern lebenswichtig für die Demokratie.",
+      "quelle": "Nicht für den Profit",
+      "kontext": "Ihre Verteidigung der humanistischen Bildung gegen die zunehmende Ökonomisierung der Universitäten."
+    },
+    {
+      "text": "Emotionen sind nicht der Feind der Vernunft, sondern ein wesentlicher Teil des ethischen Denkens.",
+      "quelle": "Upheavals of Thought",
+      "kontext": "Nussbaums zentrale These zur Verbindung von Emotion und moralischem Urteil."
+    }
+  ],
+  "verwandtePhilosophen": ["amartya-sen", "aristoteles", "john-rawls", "philippa-foot"],
+  "verwandteIsmen": ["tugendethik", "humanismus"]
+}

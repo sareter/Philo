@@ -1,0 +1,89 @@
+{
+  "slug": "ivan-illich",
+  "name": "Ivan Illich",
+  "lebensdaten": "1926–2002",
+  "geboren": {
+    "jahr": 1926,
+    "ort": "Wien",
+    "land": "Österreich",
+    "lat": 48.21,
+    "lng": 16.37
+  },
+  "gestorben": {
+    "jahr": 2002,
+    "ort": "Bremen",
+    "land": "Deutschland",
+    "lat": 53.08,
+    "lng": 8.8
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Gesellschaftskritik"],
+  "kurzbeschreibung": "Ivan Illich war ein österreichisch-amerikanischer Denker, Priester und Gesellschaftskritiker, der die Institutionen der modernen Gesellschaft radikal in Frage stellte. Seine Kritik an Schule, Medizin und Verkehr als kontraproduktiven Institutionen machte ihn zu einem der einflussreichsten Querdenker des 20. Jahrhunderts. Er argumentierte, dass diese Institutionen ab einem bestimmten Punkt genau das Gegenteil dessen bewirken, wofür sie geschaffen wurden.",
+  "biografie": {
+    "fruehesLeben": "Ivan Illich wurde 1926 in Wien als Sohn eines kroatischen Vaters und einer sephardisch-jüdischen Mutter geboren. Er studierte Kristallografie, Philosophie und Theologie in Florenz und Rom und wurde zum katholischen Priester geweiht.",
+    "schaffen": "Illich arbeitete zunächst als Priester in New York und Puerto Rico, bevor er in Cuernavaca, Mexiko, das Centro Intercultural de Documentación (CIDOC) gründete. Seine wichtigsten Werke – 'Deschooling Society' (1971), 'Medical Nemesis' (1975) und 'Energy and Equity' (1974) – kritisieren die kontraproduktiven Wirkungen moderner Institutionen.",
+    "spaetesLeben": "Illich löste sich von der institutionellen Kirche und lebte als wandernder Gelehrter zwischen Mexiko, den USA und Deutschland. In seinen letzten Jahren befasste er sich mit der Geschichte der Sinne und des Lesens.",
+    "tod": "Ivan Illich starb 2002 in Bremen an den Folgen eines Gesichtstumors, den er aus philosophischer Überzeugung nicht behandeln ließ – eine konsequente Anwendung seiner Kritik an der modernen Medizin.",
+    "nachwirkung": "Illichs Gesellschaftskritik hat die Entschulungsbewegung, die Alternativmedizin und die Wachstumskritik inspiriert. Seine Analyse kontraproduktiver Institutionen wird in Zeiten der Klimakrise und der Bildungsdebatte neu gelesen."
+  },
+  "kernideen": [
+    {
+      "titel": "Entschulung der Gesellschaft",
+      "beschreibung": "Das Schulsystem erzeugt Abhängigkeit statt Bildung und verwechselt den Konsum von Lehrleistungen mit wirklichem Lernen. Illich plädiert für die Abschaffung der Schulpflicht und die Schaffung von 'Lernnetzwerken', die selbstbestimmtes Lernen ermöglichen."
+    },
+    {
+      "titel": "Kontraproduktivität",
+      "beschreibung": "Moderne Institutionen werden ab einem bestimmten Entwicklungsstand kontraproduktiv: Krankenhäuser machen krank (Iatrogenesis), Schulen verhindern Bildung, Verkehrssysteme verlangsamen die Fortbewegung. Je mehr die Institution wächst, desto stärker wirkt sie gegen ihren ursprünglichen Zweck."
+    },
+    {
+      "titel": "Konvivialität",
+      "beschreibung": "Illich entwirft als Alternative zur industriellen Gesellschaft eine 'konviviale' Gesellschaft, in der die Menschen die Werkzeuge kontrollieren, statt von ihnen kontrolliert zu werden. Konvivialität bedeutet produktive Autonomie und kreative Zwischenmenschlichkeit."
+    },
+    {
+      "titel": "Radikales Monopol",
+      "beschreibung": "Bestimmte Güter und Dienstleistungen erlangen ein 'radikales Monopol', indem sie die Alternativen eliminieren: Das Auto zerstört die fußgängerfreundliche Stadt, die professionelle Medizin delegitimiert die Selbstfürsorge."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Deschooling Society (Entschulung der Gesellschaft)",
+      "jahr": "1971",
+      "beschreibung": "Illichs bekanntestes Werk, eine radikale Kritik des Schulsystems als einer Institution, die Lernen verhindert statt fördert."
+    },
+    {
+      "titel": "Medical Nemesis (Die Nemesis der Medizin)",
+      "jahr": "1975",
+      "beschreibung": "Eine Analyse der kontraproduktiven Wirkungen der modernen Medizin, die nach Illich mehr Krankheit erzeugt als sie heilt."
+    },
+    {
+      "titel": "Tools for Conviviality (Selbstbegrenzung)",
+      "jahr": "1973",
+      "beschreibung": "Illichs Entwurf einer konvivialen Gesellschaft, in der die Werkzeuge dem Menschen dienen statt umgekehrt."
+    },
+    {
+      "titel": "Energy and Equity (Energie und Gerechtigkeit)",
+      "jahr": "1974",
+      "beschreibung": "Eine Analyse des Zusammenhangs zwischen Energieverbrauch und sozialer Ungleichheit, die zeigt, dass schneller Verkehr die Gesellschaft insgesamt verlangsamt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Schule ist die Werbeagentur, die uns glauben macht, wir bräuchten die Gesellschaft so, wie sie ist.",
+      "quelle": "Entschulung der Gesellschaft",
+      "kontext": "Illichs provokante These über die ideologische Funktion des Schulsystems."
+    },
+    {
+      "text": "Die medizinische Einrichtung ist zur größten Bedrohung der Gesundheit geworden.",
+      "quelle": "Die Nemesis der Medizin",
+      "kontext": "Illichs zentrale These über die kontraproduktiven Wirkungen der modernen Medizin."
+    },
+    {
+      "text": "Jenseits einer bestimmten Geschwindigkeit wird der Verkehr zum Zeitdieb.",
+      "quelle": "Energie und Gerechtigkeit",
+      "kontext": "Illichs paradoxe Analyse, dass schneller Verkehr die Gesellschaft insgesamt mehr Zeit kostet als er spart."
+    }
+  ],
+  "verwandtePhilosophen": ["gustavo-gutierrez", "michel-foucault"],
+  "verwandteIsmen": ["gesellschaftskritik"]
+}

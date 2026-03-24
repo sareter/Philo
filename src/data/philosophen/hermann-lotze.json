@@ -1,0 +1,75 @@
+{
+  "slug": "hermann-lotze",
+  "name": "Hermann Lotze",
+  "lebensdaten": "1817–1881",
+  "geboren": {
+    "jahr": 1817,
+    "ort": "Bautzen",
+    "land": "Deutschland",
+    "lat": 51.18,
+    "lng": 14.42
+  },
+  "gestorben": {
+    "jahr": 1881,
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "lat": 52.52,
+    "lng": 13.41
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Idealismus"],
+  "kurzbeschreibung": "Hermann Lotze war ein deutscher Philosoph und Mediziner, der als Vermittler zwischen Naturwissenschaft und Philosophie zu den einflussreichsten Denkern des 19. Jahrhunderts gehörte. Er entwickelte eine Wertphilosophie, die den Begriff des Werts in die Philosophie einführte, und beeinflusste damit sowohl den Neukantianismus als auch die Phänomenologie. Sein teleologischer Idealismus verband naturwissenschaftliche Erklärung mit der Idee eines sinnvollen Ganzen.",
+  "biografie": {
+    "fruehesLeben": "Hermann Lotze wurde 1817 in Bautzen, Sachsen, geboren. Er studierte Philosophie und Medizin in Leipzig und habilitierte sich in beiden Fächern – eine für seine Zeit ungewöhnliche Doppelkompetenz.",
+    "schaffen": "Lotze wurde 1844 als Nachfolger Herbarts auf den Lehrstuhl für Philosophie in Göttingen berufen, wo er fast vier Jahrzehnte lehrte. Sein Hauptwerk 'Mikrokosmus' (1856-64) entwirft eine Gesamtschau der Welt, die Naturwissenschaft, Psychologie und Philosophie verbindet. Er führte den Wertbegriff als eigenständige philosophische Kategorie ein.",
+    "spaetesLeben": "Lotze nahm 1881 einen Ruf an die Universität Berlin an, konnte dort aber nur wenige Wochen lehren.",
+    "tod": "Hermann Lotze starb 1881 in Berlin, nur wenige Monate nach seinem Antritt an der Berliner Universität. Sein Tod hinterließ eine Lücke in der deutschen Philosophie.",
+    "nachwirkung": "Lotzes Einfluss war enorm, obwohl er heute weniger bekannt ist als seine Schüler und Nachfolger. Er beeinflusste den Neukantianismus (Windelband, Rickert), die Phänomenologie (Husserl), den amerikanischen Pragmatismus und die analytische Philosophie (Frege)."
+  },
+  "kernideen": [
+    {
+      "titel": "Wertphilosophie",
+      "beschreibung": "Lotze führte den Begriff des Werts als eigenständige philosophische Kategorie neben Sein und Werden ein. Werte gelten, sie existieren nicht wie Dinge. Diese Unterscheidung zwischen Sein und Gelten wurde grundlegend für die spätere Wertphilosophie."
+    },
+    {
+      "titel": "Teleologischer Idealismus",
+      "beschreibung": "Die mechanischen Naturgesetze beschreiben nur, wie die Dinge geschehen, nicht warum. Hinter dem mechanischen Ablauf steht ein teleologischer Sinn: Die Welt ist ein sinnvolles Ganzes, in dem die Naturgesetze dem Guten dienen."
+    },
+    {
+      "titel": "Mikrokosmus",
+      "beschreibung": "Der Mensch ist ein Mikrokosmos, der die gesamte Wirklichkeit in sich spiegelt. Leib und Seele, Natur und Geist sind keine getrennten Bereiche, sondern Aspekte einer einheitlichen Wirklichkeit, die letztlich in Werten gründet."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Mikrokosmus",
+      "jahr": "1856",
+      "beschreibung": "Lotzes dreibändiges Hauptwerk, das eine umfassende Weltanschauung entwirft, die Naturwissenschaft, Anthropologie und Geschichtsphilosophie verbindet."
+    },
+    {
+      "titel": "Logik",
+      "jahr": "1874",
+      "beschreibung": "Der erste Band von Lotzes 'System der Philosophie', der die Logik als Lehre vom Denken mit der Wertfrage verbindet und Husserl wie Frege beeinflusste."
+    },
+    {
+      "titel": "Metaphysik",
+      "jahr": "1879",
+      "beschreibung": "Der zweite Band des 'Systems der Philosophie', der Lotzes teleologischen Idealismus in systematischer Form darstellt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Werte existieren nicht, sie gelten.",
+      "quelle": "Logik",
+      "kontext": "Lotzes grundlegende Unterscheidung zwischen dem Sein der Dinge und dem Gelten der Werte."
+    },
+    {
+      "text": "Der Mechanismus der Natur ist das Mittel, durch das die Idee des Guten sich verwirklicht.",
+      "quelle": "Mikrokosmus",
+      "kontext": "Lotzes Versöhnung von naturwissenschaftlicher Erklärung und teleologischem Sinn."
+    }
+  ],
+  "verwandtePhilosophen": ["wilhelm-windelband", "heinrich-rickert", "nicolai-hartmann", "edmund-husserl"],
+  "verwandteIsmen": ["idealismus"]
+}

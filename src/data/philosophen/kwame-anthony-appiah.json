@@ -1,0 +1,89 @@
+{
+  "slug": "kwame-anthony-appiah",
+  "name": "Kwame Anthony Appiah",
+  "lebensdaten": "1954–",
+  "geboren": {
+    "jahr": 1954,
+    "ort": "London",
+    "land": "UK",
+    "lat": 51.51,
+    "lng": -0.13
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Kosmopolitismus"],
+  "kurzbeschreibung": "Kwame Anthony Appiah ist ein ghanaisch-britisch-amerikanischer Philosoph, der für seine Arbeiten zum Kosmopolitismus, zur Identität und zur Moralphilosophie bekannt ist. Er verbindet analytische Philosophie mit einer tiefen Kenntnis afrikanischer Kulturen und plädiert für einen Kosmopolitismus, der universelle Werte mit dem Respekt vor kultureller Vielfalt vereint. Er lehrt an der New York University und schreibt die Kolumne 'The Ethicist' in der New York Times.",
+  "biografie": {
+    "fruehesLeben": "Kwame Anthony Appiah wurde 1954 in London als Sohn eines ghanaischen Politikers und einer britischen Kunsthistorikerin geboren. Er wuchs in Ghana auf und studierte Philosophie in Cambridge, wo er promovierte.",
+    "schaffen": "Appiah entwickelte eine philosophische Position des 'verwurzelten Kosmopolitismus', die in 'Cosmopolitanism: Ethics in a World of Strangers' (2006) ihren klarsten Ausdruck fand. In 'The Honor Code' (2010) analysiert er die Rolle der Ehre bei moralischen Revolutionen. Seine Arbeiten zur afrikanischen Philosophie und Identitätspolitik sind ebenfalls einflussreich.",
+    "spaetesLeben": "Appiah lehrt an der New York University und ist als öffentlicher Intellektueller in den USA weit bekannt. Seine Kolumne 'The Ethicist' in der New York Times macht philosophische Ethik einem breiten Publikum zugänglich.",
+    "tod": "Kwame Anthony Appiah lebt und arbeitet weiterhin in New York.",
+    "nachwirkung": "Appiah hat den Kosmopolitismus als praktische Philosophie für eine globalisierte Welt neu formuliert. Seine Arbeiten zur Identitätspolitik und zum Verhältnis von universellen Werten und kultureller Vielfalt prägen die zeitgenössische Debatte."
+  },
+  "kernideen": [
+    {
+      "titel": "Kosmopolitismus",
+      "beschreibung": "Appiah vertritt einen Kosmopolitismus, der zwei Grundsätze verbindet: die Verpflichtung gegenüber allen Menschen, nicht nur den Angehörigen der eigenen Gruppe, und den Respekt vor der Vielfalt menschlicher Lebensformen. Universalismus und Partikularismus sind keine Gegensätze."
+    },
+    {
+      "titel": "Gegen die Identitätspolitik",
+      "beschreibung": "Appiah kritisiert die Essentialisierung von Identitätskategorien wie Rasse, Religion oder Ethnizität. Identitäten sind nicht feststehende Wesenheiten, sondern historisch gewachsene und veränderbare soziale Konstruktionen."
+    },
+    {
+      "titel": "Ehre und moralische Revolution",
+      "beschreibung": "Große moralische Veränderungen – wie die Abschaffung der Sklaverei oder des Fußbindens – werden nicht nur durch rationale Argumente bewirkt, sondern durch Verschiebungen im Ehrgefühl einer Gesellschaft. Was als ehrenhaft oder ehrlos gilt, ist ein mächtiger Motor moralischen Wandels."
+    },
+    {
+      "titel": "Konversation über Grenzen hinweg",
+      "beschreibung": "Moralischer Fortschritt entsteht nicht durch theoretische Übereinstimmung, sondern durch Konversation und Begegnung über kulturelle Grenzen hinweg. Man muss nicht dieselben Werte teilen, um miteinander auszukommen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Cosmopolitanism: Ethics in a World of Strangers",
+      "jahr": "2006",
+      "beschreibung": "Appiahs zugänglichstes und einflussreichstes Werk, das den Kosmopolitismus als praktische Ethik für eine globalisierte Welt darstellt."
+    },
+    {
+      "titel": "The Honor Code: How Moral Revolutions Happen",
+      "jahr": "2010",
+      "beschreibung": "Eine faszinierende Analyse der Rolle der Ehre bei großen moralischen Umwälzungen, vom Ende des Duells bis zur Abschaffung des Fußbindens."
+    },
+    {
+      "titel": "The Lies That Bind: Rethinking Identity",
+      "jahr": "2018",
+      "beschreibung": "Eine kritische Untersuchung der Identitätskategorien Rasse, Religion, Nation, Klasse und Kultur und ihrer Rolle in der modernen Welt."
+    },
+    {
+      "titel": "In My Father's House: Africa in the Philosophy of Culture",
+      "jahr": "1992",
+      "beschreibung": "Eine philosophische Auseinandersetzung mit dem Panafrikanismus und der Frage, was es bedeutet, Afrikaner zu sein."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Man muss sich nicht auf Werte einigen, um miteinander auszukommen. Man muss lernen, mit dem Dissens zu leben.",
+      "quelle": "Cosmopolitanism",
+      "kontext": "Appiahs pragmatische Grundeinsicht des Kosmopolitismus gegen die Forderung nach universeller Übereinstimmung."
+    },
+    {
+      "text": "Identitäten sind nicht Dinge, die man hat, sondern Geschichten, die man erzählt.",
+      "quelle": "The Lies That Bind",
+      "kontext": "Appiahs konstruktivistische Kritik an der Essentialisierung von Identitäten."
+    },
+    {
+      "text": "Wir sind dafür verantwortlich, was wir tun und was wir zulassen – nicht nur gegenüber unseren Nachbarn, sondern gegenüber allen Menschen.",
+      "quelle": "Cosmopolitanism",
+      "kontext": "Die kosmopolitische Erweiterung moralischer Verantwortung über die Grenzen der eigenen Gemeinschaft hinaus."
+    }
+  ],
+  "verwandtePhilosophen": ["cornel-west", "kwasi-wiredu", "peter-singer"],
+  "verwandteIsmen": ["kosmopolitismus"]
+}

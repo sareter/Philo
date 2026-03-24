@@ -1,0 +1,82 @@
+{
+  "slug": "swami-vivekananda",
+  "name": "Swami Vivekananda",
+  "lebensdaten": "1863–1902",
+  "geboren": {
+    "jahr": 1863,
+    "ort": "Kalkutta",
+    "land": "Indien",
+    "lat": 22.57,
+    "lng": 88.36
+  },
+  "gestorben": {
+    "jahr": 1902,
+    "ort": "Belur Math",
+    "land": "Indien",
+    "lat": 22.63,
+    "lng": 88.35
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Asien",
+  "hauptstroemungen": ["Hinduistische Philosophie"],
+  "kurzbeschreibung": "Swami Vivekananda war ein indischer Mönch und Philosoph, der die Vedanta-Philosophie und den Hinduismus im Westen bekannt machte. Sein Auftritt beim Weltparlament der Religionen 1893 in Chicago machte ihn zu einer internationalen Persönlichkeit. Er verband die klassische indische Philosophie mit modernem sozialem Engagement.",
+  "biografie": {
+    "fruehesLeben": "Swami Vivekananda wurde 1863 als Narendranath Datta in eine wohlhabende bengalische Familie in Kalkutta geboren. Als junger Mann studierte er westliche Philosophie und schloss sich dann dem Mystiker Ramakrishna an, der sein spiritueller Lehrer wurde. Nach Ramakrishnas Tod 1886 wurde er zum Oberhaupt des Mönchsordens.",
+    "schaffen": "Vivekanandas berühmte Rede beim Weltparlament der Religionen 1893 in Chicago, die mit den Worten 'Schwestern und Brüder Amerikas' begann, machte ihn weltberühmt. Er reiste durch Amerika und Europa und hielt Vorträge über Vedanta und Yoga. Nach seiner Rückkehr nach Indien gründete er die Ramakrishna-Mission, die Bildung und soziale Arbeit mit spiritueller Praxis verband.",
+    "spaetesLeben": "In seinen letzten Lebensjahren widmete sich Vivekananda dem Aufbau der Ramakrishna-Mission und der Ausbildung seiner Schüler. Trotz zunehmender gesundheitlicher Probleme setzte er seine Lehrtätigkeit fort. Er betonte die Notwendigkeit einer Verbindung von Spiritualität und sozialer Verantwortung.",
+    "tod": "Swami Vivekananda starb am 4. Juli 1902 in Belur Math bei Kalkutta im Alter von nur 39 Jahren. Der Überlieferung nach ging er in tiefe Meditation und verließ bewusst seinen Körper. Sein früher Tod beendete ein kurzes, aber außerordentlich wirkmächtiges Leben.",
+    "nachwirkung": "Vivekananda gilt als einer der Begründer des modernen Hinduismus und als Wegbereiter des interreligiösen Dialogs. Seine Lehren inspirierten Mahatma Gandhi und die indische Unabhängigkeitsbewegung. Die Ramakrishna-Mission ist bis heute eine der größten humanitären Organisationen Indiens."
+  },
+  "kernideen": [
+    {
+      "titel": "Praktischer Vedanta",
+      "beschreibung": "Vivekananda transformierte die klassische Vedanta-Philosophie von einer kontemplativen Lehre in ein Programm sozialen Handelns. Die Erkenntnis der göttlichen Einheit aller Wesen muss sich im Dienst an den Armen und Unterdrückten verwirklichen."
+    },
+    {
+      "titel": "Einheit aller Religionen",
+      "beschreibung": "Alle Religionen sind verschiedene Wege zum selben Ziel und enthalten Teilwahrheiten einer universellen Wahrheit. Religiöse Intoleranz beruht auf Unwissenheit, denn im Kern lehren alle Traditionen dieselbe göttliche Wirklichkeit."
+    },
+    {
+      "titel": "Göttlichkeit des Menschen",
+      "beschreibung": "Jeder Mensch trägt das Göttliche in sich, unabhängig von Kaste, Geschlecht oder Religion. Das Ziel des Lebens ist die Verwirklichung dieser inneren Göttlichkeit durch Arbeit, Wissen, Hingabe oder psychische Disziplin."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Raja Yoga",
+      "jahr": "1896",
+      "beschreibung": "Eine systematische Darstellung der Yoga-Philosophie nach Patanjali, die die Grundlage für das westliche Verständnis von Yoga als spiritueller Disziplin legte."
+    },
+    {
+      "titel": "Jnana Yoga",
+      "jahr": "1899",
+      "beschreibung": "Vorträge über den Weg der Erkenntnis, in denen Vivekananda die Vedanta-Philosophie als rationale und universelle Weltsicht darstellt."
+    },
+    {
+      "titel": "Karma Yoga",
+      "jahr": "1896",
+      "beschreibung": "Eine Abhandlung über den Weg des selbstlosen Handelns als spirituelle Praxis und Grundlage des sozialen Engagements."
+    },
+    {
+      "titel": "Reden und Schriften (Gesammelte Werke)",
+      "jahr": "1907",
+      "beschreibung": "Die posthume Sammlung aller Vorträge, Briefe und Schriften Vivekanandas in neun Bänden."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Erhebt euch, seid wach, und hört nicht auf, bis das Ziel erreicht ist.",
+      "quelle": "Vorträge"
+    },
+    {
+      "text": "Die Bildung ist die Manifestation der bereits im Menschen vorhandenen Vollkommenheit.",
+      "quelle": "Reden und Schriften"
+    },
+    {
+      "text": "Jede Seele ist potentiell göttlich. Das Ziel ist es, diese Göttlichkeit zu manifestieren.",
+      "quelle": "Raja Yoga"
+    }
+  ],
+  "verwandtePhilosophen": ["rabindranath-tagore", "b-r-ambedkar"],
+  "verwandteIsmen": ["hinduistische-philosophie"]
+}

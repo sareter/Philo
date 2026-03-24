@@ -1,0 +1,89 @@
+{
+  "slug": "nick-bostrom",
+  "name": "Nick Bostrom",
+  "lebensdaten": "1973–",
+  "geboren": {
+    "jahr": 1973,
+    "ort": "Helsingborg",
+    "land": "Schweden",
+    "lat": 56.05,
+    "lng": 12.69
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Transhumanismus"],
+  "kurzbeschreibung": "Nick Bostrom ist ein schwedischer Philosoph, der an der Universität Oxford lehrt und für seine Arbeiten zu existenziellen Risiken und Transhumanismus bekannt ist. Er gründete das Future of Humanity Institute und hat mit seinem Buch 'Superintelligenz' die globale Debatte über die Gefahren künstlicher Intelligenz maßgeblich geprägt. Seine Simulationshypothese gehört zu den meistdiskutierten philosophischen Gedankenexperimenten der Gegenwart.",
+  "biografie": {
+    "fruehesLeben": "Nick Bostrom wurde 1973 als Niklas Boström in Helsingborg, Schweden, geboren. Er studierte Philosophie, Mathematik und Logik an verschiedenen Universitäten in Skandinavien und London, bevor er an der London School of Economics promovierte.",
+    "schaffen": "An der Universität Oxford gründete Bostrom 2005 das Future of Humanity Institute, das sich mit existenziellen Risiken für die Menschheit befasst. Seine Simulationshypothese (2003) argumentiert, dass es wahrscheinlich ist, dass wir in einer Computersimulation leben. Sein Hauptwerk 'Superintelligenz' (2014) warnt vor den Gefahren einer unkontrollierten künstlichen Intelligenz.",
+    "spaetesLeben": "Bostrom hat sich als einer der einflussreichsten Denker im Bereich der KI-Sicherheit und der Zukunftsforschung etabliert. Er berät Regierungen und internationale Organisationen zu Fragen technologischer Risiken.",
+    "tod": "Nick Bostrom lebt und arbeitet weiterhin in Oxford.",
+    "nachwirkung": "Bostroms Arbeiten haben die Debatte über KI-Sicherheit und existenzielle Risiken maßgeblich geprägt. Sein Einfluss reicht weit über die akademische Philosophie hinaus in die Technologiebranche und die internationale Politik."
+  },
+  "kernideen": [
+    {
+      "titel": "Simulationshypothese",
+      "beschreibung": "Bostrom argumentiert in einem Trilemma, dass mindestens eine von drei Aussagen wahr sein muss: Entweder sterben fast alle Zivilisationen aus, bevor sie Simulationen erstellen können, oder sie haben kein Interesse daran, oder wir leben höchstwahrscheinlich bereits in einer Simulation."
+    },
+    {
+      "titel": "Superintelligenz und Kontrollproblem",
+      "beschreibung": "Eine künstliche Superintelligenz könnte die Menschheit existenziell gefährden, wenn ihre Ziele nicht mit menschlichen Werten übereinstimmen. Das Kontrollproblem – wie man eine solche Intelligenz sicher gestaltet – ist für Bostrom eine der dringendsten Aufgaben der Gegenwart."
+    },
+    {
+      "titel": "Existenzielle Risiken",
+      "beschreibung": "Bostrom hat die systematische Erforschung existenzieller Risiken als philosophische Disziplin etabliert. Er unterscheidet verschiedene Kategorien von Risiken, die die Menschheit als Ganzes bedrohen könnten, und plädiert für eine vorausschauende Risikominimierung."
+    },
+    {
+      "titel": "Transhumanismus",
+      "beschreibung": "Als Mitbegründer der transhumanistischen Bewegung vertritt Bostrom die Ansicht, dass die menschliche Natur durch Technologie verbessert werden kann und soll. Er sieht in der Überwindung biologischer Grenzen eine ethische Möglichkeit, nicht eine Bedrohung."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Superintelligenz: Szenarien einer kommenden Revolution",
+      "jahr": "2014",
+      "beschreibung": "Bostroms einflussreichstes Werk analysiert die möglichen Folgen einer künstlichen Superintelligenz und hat die globale Debatte über KI-Sicherheit entscheidend geprägt."
+    },
+    {
+      "titel": "Are You Living in a Computer Simulation?",
+      "jahr": "2003",
+      "beschreibung": "Der bahnbrechende Aufsatz, in dem Bostrom sein Simulationsargument vorstellt, das zu einem der meistdiskutierten Gedankenexperimente der zeitgenössischen Philosophie wurde."
+    },
+    {
+      "titel": "Anthropic Bias: Observation Selection Effects in Science and Philosophy",
+      "jahr": "2002",
+      "beschreibung": "Eine systematische Untersuchung von Beobachtungsselektionseffekten und ihrer Bedeutung für wissenschaftliche und philosophische Schlussfolgerungen."
+    },
+    {
+      "titel": "Deep Utopia: Life and Meaning in a Solved World",
+      "jahr": "2024",
+      "beschreibung": "Eine Untersuchung der Frage, welchen Sinn und welche Bedeutung das menschliche Leben in einer Zukunft haben könnte, in der alle praktischen Probleme gelöst sind."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wir sollten die Möglichkeit ernst nehmen, dass wir in einer Computersimulation leben.",
+      "quelle": "Are You Living in a Computer Simulation?",
+      "kontext": "Die provokante Schlussfolgerung aus Bostroms Simulationsargument."
+    },
+    {
+      "text": "Das Kontrollproblem der Superintelligenz könnte die letzte Erfindung sein, die die Menschheit jemals machen muss – oder die letzte, die sie je machen wird.",
+      "quelle": "Superintelligenz",
+      "kontext": "Bostroms Warnung vor den existenziellen Gefahren einer unkontrollierten künstlichen Superintelligenz."
+    },
+    {
+      "text": "Existenzielle Risiken sind solche, bei denen ein ungünstiger Ausgang entweder die Vernichtung intelligenten Lebens auf der Erde oder eine dauerhafte und drastische Einschränkung seines Potenzials bedeuten würde.",
+      "quelle": "Existential Risks",
+      "kontext": "Bostroms Definition existenzieller Risiken als eigener Risikokategorie."
+    }
+  ],
+  "verwandtePhilosophen": ["ray-kurzweil", "peter-singer", "derek-parfit"],
+  "verwandteIsmen": ["transhumanismus", "utilitarismus"]
+}

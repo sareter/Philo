@@ -1,0 +1,89 @@
+{
+  "slug": "byung-chul-han",
+  "name": "Byung-Chul Han",
+  "lebensdaten": "1959–",
+  "geboren": {
+    "jahr": 1959,
+    "ort": "Seoul",
+    "land": "Südkorea",
+    "lat": 37.57,
+    "lng": 126.98
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Europa",
+  "hauptstroemungen": ["Kulturkritik", "Postmodernismus"],
+  "kurzbeschreibung": "Byung-Chul Han ist ein südkoreanisch-deutscher Philosoph und Kulturkritiker, der mit seinen prägnanten Analysen der digitalen Gesellschaft internationale Bekanntheit erlangte. Seine Konzepte der 'Müdigkeitsgesellschaft' und der 'Transparenzgesellschaft' diagnostizieren die Pathologien einer Gesellschaft der Selbstausbeutung und der digitalen Überwachung. Er verbindet westliche Philosophie mit östlichem Denken zu einer eigenständigen Gegenwartsdiagnose.",
+  "biografie": {
+    "fruehesLeben": "Byung-Chul Han wurde 1959 in Seoul, Südkorea, geboren. Er studierte zunächst Metallurgie in Korea, bevor er nach Deutschland kam und in Freiburg und München Philosophie, Germanistik und katholische Theologie studierte. Er promovierte 1994 an der Universität Freiburg über Martin Heidegger.",
+    "schaffen": "Han lehrte an der Universität Basel und der Hochschule für Gestaltung in Karlsruhe, bevor er 2012 an die Universität der Künste Berlin berufen wurde. Mit 'Müdigkeitsgesellschaft' (2010) gelang ihm der internationale Durchbruch. In kurzen, pointierten Essays analysiert er die Pathologien der spätmodernen Gesellschaft: Selbstausbeutung, digitale Überwachung, den Verlust des Anderen und die Krise der Negativität.",
+    "spaetesLeben": "Han lebt zurückgezogen in Berlin und meidet öffentliche Auftritte und soziale Medien konsequent. Er veröffentlicht regelmäßig neue Bücher, die in zahlreiche Sprachen übersetzt werden und internationale Bestseller sind. Seine Diagnosen der digitalen Gesellschaft treffen einen Nerv der Zeit.",
+    "tod": "Byung-Chul Han lebt und arbeitet weiterhin in Berlin. Er ist einer der meistgelesenen Philosophen der Gegenwart, besonders in Europa und Lateinamerika.",
+    "nachwirkung": "Hans Werk hat die Debatte über die Auswirkungen der Digitalisierung, des Neoliberalismus und der Leistungsgesellschaft maßgeblich geprägt. Seine Begriffe wie 'Müdigkeitsgesellschaft', 'Transparenzgesellschaft' und 'Palliativgesellschaft' sind in den allgemeinen Sprachgebrauch übergegangen. Sein Einfluss reicht weit über die akademische Philosophie hinaus."
+  },
+  "kernideen": [
+    {
+      "titel": "Müdigkeitsgesellschaft",
+      "beschreibung": "Die moderne Leistungsgesellschaft hat die Disziplinargesellschaft abgelöst. Der Mensch beutet sich nun selbst aus, angetrieben vom Imperativ des 'Du kannst'. Depression und Burnout sind nicht Zeichen individuellen Versagens, sondern systemische Pathologien einer Gesellschaft der Selbstoptimierung."
+    },
+    {
+      "titel": "Transparenzgesellschaft",
+      "beschreibung": "Die Forderung nach totaler Transparenz zerstört das Vertrauen und die Privatheit. Die digitale Überwachung verwandelt die Gesellschaft in ein Panoptikum, in dem sich jeder freiwillig exponiert. Transparenz ist keine Befreiung, sondern eine neue Form der Kontrolle."
+    },
+    {
+      "titel": "Verschwinden der Negativität",
+      "beschreibung": "Die Positivgesellschaft eliminiert alles Negative: Schmerz, Trauer, Widerspruch. Doch gerade die Negativität ist konstitutiv für menschliche Erfahrung. Ohne sie gibt es keine Tiefe, keine Transformation, kein echtes Denken."
+    },
+    {
+      "titel": "Erosion des Anderen",
+      "beschreibung": "Die digitale Gesellschaft zerstört die Erfahrung des Anderen, des wirklich Fremden. Algorithmen filtern alles Andersartige heraus und schaffen eine narzisstische Echokammer. Der Verlust des Anderen führt zur Verarmung der Erfahrung und des Denkens."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Müdigkeitsgesellschaft",
+      "jahr": "2010",
+      "beschreibung": "Die einflussreiche Diagnose einer Gesellschaft, in der Depression und Burnout aus der Selbstausbeutung des Leistungssubjekts resultieren."
+    },
+    {
+      "titel": "Transparenzgesellschaft",
+      "jahr": "2012",
+      "beschreibung": "Eine Kritik der totalen Transparenz als neuer Form der Kontrolle und Überwachung in der digitalen Gesellschaft."
+    },
+    {
+      "titel": "Psychopolitik",
+      "jahr": "2014",
+      "beschreibung": "Eine Analyse der neoliberalen Machttechniken, die nicht mehr auf Disziplinierung, sondern auf die Optimierung und Ausbeutung der Psyche abzielen."
+    },
+    {
+      "titel": "Die Austreibung des Anderen",
+      "jahr": "2016",
+      "beschreibung": "Eine Diagnose der zunehmenden Gleichförmigkeit und des Verlusts der Erfahrung des Fremden in der digitalen Gesellschaft."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Nicht das Verbot, sondern das Können führt in die Depression.",
+      "quelle": "Müdigkeitsgesellschaft",
+      "kontext": "Die Kernthese, dass die Leistungsgesellschaft krank macht, weil sie das Subjekt zur permanenten Selbstoptimierung zwingt."
+    },
+    {
+      "text": "Transparenz ist die neue Gewalt.",
+      "quelle": "Transparenzgesellschaft",
+      "kontext": "Hans These, dass die Forderung nach totaler Transparenz eine destruktive Kraft ist, die Privatheit und Vertrauen zerstört."
+    },
+    {
+      "text": "Wir beuten uns heute selbst aus und glauben, wir verwirklichten uns.",
+      "quelle": "Psychopolitik",
+      "kontext": "Die Diagnose der neoliberalen Selbstausbeutung, die als Selbstverwirklichung missverstanden wird."
+    }
+  ],
+  "verwandtePhilosophen": ["peter-sloterdijk", "michel-foucault", "martin-heidegger", "giorgio-agamben"],
+  "verwandteIsmen": ["kulturkritik", "postmodernismus"]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "al-ghazali",
+  "name": "Al-Ghazali",
+  "lebensdaten": "1058–1111",
+  "geboren": {
+    "jahr": 1058,
+    "ort": "Tus",
+    "land": "Persien",
+    "lat": 36.49,
+    "lng": 59.45
+  },
+  "gestorben": {
+    "jahr": 1111,
+    "ort": "Tus",
+    "land": "Persien",
+    "lat": 36.49,
+    "lng": 59.45
+  },
+  "epoche": "Mittelalter",
+  "region": "Naher Osten",
+  "hauptstroemungen": ["Mystizismus", "Skeptizismus"],
+  "kurzbeschreibung": "Al-Ghazali war einer der einflussreichsten islamischen Theologen und Philosophen, der durch seine radikale Kritik an der aristotelischen Philosophie und seine Hinwendung zum Sufismus die gesamte islamische Geistesgeschichte umgestaltete. Sein Werk 'Die Inkohärenz der Philosophen' stellte die Vereinbarkeit von griechischer Philosophie und islamischem Glauben grundlegend in Frage. Zugleich begründete er mit seiner 'Wiederbelebung der Religionswissenschaften' eine Synthese von Theologie und Mystik.",
+  "biografie": {
+    "fruehesLeben": "Al-Ghazali wurde 1058 in Tus im heutigen Iran geboren. Er erhielt eine hervorragende Ausbildung in islamischer Jurisprudenz und Theologie und wurde bereits in jungen Jahren zum angesehensten Professor an der Nizamiyya-Hochschule in Bagdad ernannt.",
+    "schaffen": "Auf dem Höhepunkt seiner akademischen Karriere erlitt Al-Ghazali eine tiefe persönliche und intellektuelle Krise, die ihn dazu brachte, seine Professur aufzugeben und sich dem Sufismus zuzuwenden. Seine 'Inkohärenz der Philosophen' kritisierte die arabischen Aristoteliker scharf, während seine 'Wiederbelebung der Religionswissenschaften' eine neue Synthese von Theologie, Ethik und Mystik schuf.",
+    "spaetesLeben": "Nach Jahren des Wanderns und der mystischen Praxis kehrte Al-Ghazali nach Tus zurück, wo er eine kleine Sufi-Gemeinschaft gründete. Er lehrte dort bis zu seinem Tod.",
+    "tod": "Al-Ghazali starb 1111 in seiner Geburtsstadt Tus. Seine letzten Worte sollen gewesen sein, dass er bereit sei, dem Herrn zu begegnen.",
+    "nachwirkung": "Al-Ghazalis Einfluss auf die islamische Welt ist mit dem Augustinus' auf das Christentum verglichen worden. Seine Kritik an der griechischen Philosophie veränderte die Richtung des islamischen Denkens nachhaltig, und seine mystische Theologie prägt den Islam bis heute."
+  },
+  "kernideen": [
+    {
+      "titel": "Kritik der aristotelischen Philosophie",
+      "beschreibung": "In der 'Inkohärenz der Philosophen' greift Al-Ghazali zwanzig Thesen der arabischen Aristoteliker an, darunter die Ewigkeit der Welt und die Leugnung der leiblichen Auferstehung. Er zeigt, dass diese Thesen weder rational beweisbar noch mit dem Islam vereinbar sind."
+    },
+    {
+      "titel": "Skeptizismus und Gewissheit",
+      "beschreibung": "Al-Ghazali durchlief eine Phase radikalen Zweifels an allen Erkenntnisquellen – Sinneswahrnehmung, Vernunft und Autorität. Die Gewissheit fand er letztlich nicht durch rationale Argumente, sondern durch mystische Erfahrung und göttliche Erleuchtung."
+    },
+    {
+      "titel": "Synthese von Theologie und Mystik",
+      "beschreibung": "Al-Ghazali integrierte den Sufismus in die orthodoxe islamische Theologie und machte die mystische Gotteserfahrung zu einem legitimen Teil der religiösen Praxis. Diese Synthese prägte die islamische Frömmigkeit nachhaltig."
+    },
+    {
+      "titel": "Kritik der Kausalität",
+      "beschreibung": "Al-Ghazali bestritt die notwendige Verknüpfung von Ursache und Wirkung: Feuer verbrennt Baumwolle nicht aufgrund einer in ihm liegenden Kraft, sondern weil Gott es in jedem Augenblick so will. Diese Lehre wurde von David Hume aufgegriffen und weiterentwickelt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Tahafut al-Falasifa (Die Inkohärenz der Philosophen)",
+      "jahr": "1095",
+      "beschreibung": "Al-Ghazalis einflussreichstes philosophisches Werk, eine systematische Widerlegung der arabischen Aristoteliker, die die Stellung der Philosophie in der islamischen Welt grundlegend veränderte."
+    },
+    {
+      "titel": "Ihya Ulum al-Din (Wiederbelebung der Religionswissenschaften)",
+      "jahr": "1106",
+      "beschreibung": "Ein monumentales Werk in vierzig Büchern, das eine umfassende Synthese von islamischer Theologie, Ethik, Mystik und Lebenspraxis darstellt."
+    },
+    {
+      "titel": "Al-Munqidh min al-Dalal (Der Erretter aus dem Irrtum)",
+      "jahr": "1108",
+      "beschreibung": "Al-Ghazalis philosophische Autobiografie, die seinen Weg durch den Skeptizismus zur mystischen Gewissheit nachzeichnet und oft mit Descartes' 'Meditationen' verglichen wird."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Zweifel führt zur Wahrheit. Wer nicht zweifelt, denkt nicht; wer nicht denkt, sieht nicht; wer nicht sieht, bleibt blind und verwirrt.",
+      "quelle": "Al-Munqidh min al-Dalal",
+      "kontext": "Al-Ghazalis Verteidigung des methodischen Zweifels als Weg zur Erkenntnis."
+    },
+    {
+      "text": "Zwischen Ursache und Wirkung besteht keine notwendige Verbindung; ihre Verknüpfung beruht allein auf dem Willen Gottes.",
+      "quelle": "Tahafut al-Falasifa",
+      "kontext": "Al-Ghazalis einflussreiche Kritik des Kausalitätsprinzips, die später Hume beeinflusste."
+    },
+    {
+      "text": "Wissen ohne Handeln ist Wahnsinn, und Handeln ohne Wissen ist Nichtigkeit.",
+      "quelle": "Ihya Ulum al-Din",
+      "kontext": "Al-Ghazalis Insistieren auf der Einheit von theoretischer Erkenntnis und praktischer Lebensführung."
+    }
+  ],
+  "verwandtePhilosophen": ["al-farabi", "al-kindi", "ibn-khaldun", "david-hume"],
+  "verwandteIsmen": ["mystizismus", "skeptizismus"]
+}

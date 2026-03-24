@@ -1,0 +1,89 @@
+{
+  "slug": "thomas-ligotti",
+  "name": "Thomas Ligotti",
+  "lebensdaten": "1953–",
+  "geboren": {
+    "jahr": 1953,
+    "ort": "Detroit",
+    "land": "USA",
+    "lat": 42.33,
+    "lng": -83.05
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Pessimismus", "Nihilismus"],
+  "kurzbeschreibung": "Thomas Ligotti ist ein amerikanischer Autor und philosophischer Pessimist, der vor allem für seine Horrorliteratur und sein philosophisches Werk 'Die Verschwörung gegen die menschliche Rasse' bekannt ist. Er verbindet literarischen Horror mit einer systematischen pessimistischen Philosophie, die stark von Zapffe und Schopenhauer beeinflusst ist. Sein Werk hat den Antinatalismus und den kosmischen Pessimismus in der zeitgenössischen Kultur populär gemacht.",
+  "biografie": {
+    "fruehesLeben": "Thomas Ligotti wurde 1953 in Detroit, Michigan, geboren. Er litt seit seiner Jugend unter schweren Angststörungen und Depressionen, die sein Werk und seine philosophische Weltsicht entscheidend prägten.",
+    "schaffen": "Ligotti begann als Autor übernatürlicher Horrorgeschichten in der Tradition von Lovecraft und Poe. Mit 'Die Verschwörung gegen die menschliche Rasse' (2010) legte er ein systematisches philosophisches Werk vor, das Zapffes Pessimismus, Schopenhauers Willensmetaphysik und buddhistische Einsichten zu einer radikalen Kritik der menschlichen Existenz verbindet.",
+    "spaetesLeben": "Ligotti lebt zurückgezogen und gibt nur selten Interviews. Sein philosophisches Werk hat durch die Fernsehserie 'True Detective' breitere Aufmerksamkeit erlangt, da der Drehbuchautor Nic Pizzolatto von Ligottis Ideen beeinflusst wurde.",
+    "tod": "Thomas Ligotti lebt und schreibt weiterhin.",
+    "nachwirkung": "Ligotti hat den philosophischen Pessimismus in die populäre Kultur eingeführt und eine Brücke zwischen literarischem Horror und ernsthafter Philosophie geschlagen. Sein Einfluss auf die zeitgenössische Horrortradition und die pessimistische Philosophie ist beträchtlich."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Verschwörung gegen die menschliche Rasse",
+      "beschreibung": "Die Menschheit hält sich durch eine stillschweigende Übereinkunft davon ab, die Wahrheit über ihre Existenz zu erkennen: dass Bewusstsein ein Fluch ist und die Existenz keinen Wert hat. Alle Kulturen und Religionen sind Teil dieser 'Verschwörung' der Selbsttäuschung."
+    },
+    {
+      "titel": "Bewusstsein als kosmischer Irrtum",
+      "beschreibung": "In Anlehnung an Zapffe sieht Ligotti das menschliche Bewusstsein als eine maladaptive Überentwicklung, die den Menschen von der Natur entfremdet und mit einem unerträglichen Wissen über seine eigene Bedeutungslosigkeit belastet."
+    },
+    {
+      "titel": "Der Mensch als Marionette",
+      "beschreibung": "Ligotti verwendet das Motiv der Marionette als Metapher für die menschliche Existenz: Wir sind nicht die Herren unseres Schicksals, sondern werden von biologischen und kosmischen Kräften bewegt, während wir die Illusion der Autonomie aufrechterhalten."
+    },
+    {
+      "titel": "Übernatürlicher Horror als philosophische Erkenntnis",
+      "beschreibung": "Für Ligotti ist das Gefühl des Übernatürlichen Horrors keine bloße Unterhaltung, sondern ein Moment der Wahrheit, in dem die schützenden Illusionen des Alltagsbewusstseins durchbrochen werden und die wahre Natur der Existenz aufscheint."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Verschwörung gegen die menschliche Rasse (The Conspiracy against the Human Race)",
+      "jahr": "2010",
+      "beschreibung": "Ligottis philosophisches Hauptwerk, eine systematische Darstellung seines pessimistischen Weltbilds, das Zapffe, Schopenhauer und die Horror-Tradition zu einer radikalen Kritik der Existenz verbindet."
+    },
+    {
+      "titel": "Songs of a Dead Dreamer",
+      "jahr": "1986",
+      "beschreibung": "Ligottis erste Sammlung von Horrorgeschichten, die seinen einzigartigen Stil etablierte – eine Verbindung von übernatürlichem Horror mit philosophischer Reflexion."
+    },
+    {
+      "titel": "Grimscribe: His Lives and Works",
+      "jahr": "1991",
+      "beschreibung": "Eine weitere einflussreiche Sammlung von Horrorgeschichten, die Ligottis Themen der kosmischen Sinnlosigkeit und des Bewusstseins als Fluch weiterentwickelt."
+    },
+    {
+      "titel": "Teatro Grottesco",
+      "jahr": "2006",
+      "beschreibung": "Eine Sammlung von Erzählungen, die das Groteske und Unheimliche als Ausdruck einer fundamental gestörten Wirklichkeit erkunden."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wir sind Wesen, die nicht sein sollten – durch die Natur und gegen die Natur.",
+      "quelle": "Die Verschwörung gegen die menschliche Rasse",
+      "kontext": "Ligottis Zusammenfassung der tragischen Lage des bewussten Menschen in einer gleichgültigen Natur."
+    },
+    {
+      "text": "Der Optimismus ist die Madame eines geistigen Bordells, in dem der Schmerz der Welt als Vergnügen verkauft wird.",
+      "quelle": "Die Verschwörung gegen die menschliche Rasse",
+      "kontext": "Ligottis polemische Kritik am Optimismus als einer Form der Selbsttäuschung."
+    },
+    {
+      "text": "Das Bewusstsein ist der Geburtsort des Horrors.",
+      "quelle": "Die Verschwörung gegen die menschliche Rasse",
+      "kontext": "Die Verbindung von Ligottis Horror-Ästhetik mit seiner pessimistischen Philosophie."
+    }
+  ],
+  "verwandtePhilosophen": ["peter-wessel-zapffe", "arthur-schopenhauer", "david-benatar", "julius-bahnsen"],
+  "verwandteIsmen": ["pessimismus", "nihilismus"]
+}

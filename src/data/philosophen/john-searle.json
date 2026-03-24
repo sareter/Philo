@@ -1,0 +1,86 @@
+{
+  "slug": "john-searle",
+  "name": "John Searle",
+  "lebensdaten": "1932–",
+  "geboren": {
+    "jahr": 1932,
+    "ort": "Denver",
+    "land": "USA",
+    "lat": 39.74,
+    "lng": -104.99
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Sprachphilosophie", "Philosophie des Geistes"],
+  "kurzbeschreibung": "John Searle ist ein amerikanischer Philosoph, der grundlegende Beiträge zur Sprachphilosophie und Philosophie des Geistes geleistet hat. Sein Gedankenexperiment des 'Chinesischen Zimmers' gilt als eines der einflussreichsten Argumente gegen starke Künstliche Intelligenz. Mit der Sprechakttheorie erweiterte er das Verständnis davon, was wir mit Sprache tun.",
+  "biografie": {
+    "fruehesLeben": "John Searle wurde 1932 in Denver, Colorado, geboren und studierte als Rhodes-Stipendiat in Oxford bei J. L. Austin. Die Begegnung mit der Oxforder Ordinary Language Philosophy und Austins Sprechakttheorie wurde prägend für sein gesamtes philosophisches Schaffen.",
+    "schaffen": "Als Professor an der University of California, Berkeley, entwickelte Searle Austins Sprechakttheorie systematisch weiter. Mit dem Gedankenexperiment des Chinesischen Zimmers (1980) argumentierte er, dass Computer nicht wirklich denken können, weil Syntaxallein keine Semantik erzeugt. Er entwickelte zudem eine Theorie der sozialen Ontologie, die institutionelle Tatsachen als kollektive Intentionalität erklärt.",
+    "spaetesLeben": "Searle setzte seine philosophische Arbeit an der UC Berkeley fort und wandte sich zunehmend Fragen der sozialen Wirklichkeit und der Willensfreiheit zu. Sein Buch 'Making the Social World' (2010) erweiterte seine Theorie institutioneller Tatsachen zu einer umfassenden Sozialontologie.",
+    "tod": "John Searle lebt in Kalifornien. Seine philosophische Karriere erstreckt sich über mehr als sechs Jahrzehnte und umfasst fundamentale Beiträge zu mehreren philosophischen Disziplinen.",
+    "nachwirkung": "Searles Chinesisches Zimmer gehört zu den meistdiskutierten Gedankenexperimenten der Philosophie und hat die Debatte über Künstliche Intelligenz nachhaltig geprägt. Seine Sprechakttheorie ist ein Standardthema der Sprachphilosophie und Linguistik. Seine Sozialontologie beeinflusst die Wirtschaftswissenschaften und die Soziologie."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Chinesische Zimmer",
+      "beschreibung": "Ein Mensch in einem Zimmer manipuliert chinesische Zeichen nach Regeln, ohne Chinesisch zu verstehen. Ebenso verarbeiten Computer Symbole ohne Verständnis. Das zeigt: Syntaktische Verarbeitung (Berechnung) erzeugt allein kein semantisches Verständnis. Starke KI ist daher unmöglich."
+    },
+    {
+      "titel": "Sprechakttheorie",
+      "beschreibung": "Sprechen ist Handeln. Wenn wir sprechen, führen wir Sprechakte aus – wir versprechen, befehlen, behaupten, fragen. Searle klassifizierte diese Sprechakte systematisch und zeigte, wie sie durch konstitutive Regeln ermöglicht werden."
+    },
+    {
+      "titel": "Kollektive Intentionalität und institutionelle Tatsachen",
+      "beschreibung": "Soziale Institutionen wie Geld, Ehe oder Staaten existieren, weil wir kollektiv akzeptieren, dass bestimmte Dinge bestimmte Funktionen haben. Die Formel 'X gilt als Y im Kontext C' ist die Grundstruktur aller institutionellen Tatsachen."
+    },
+    {
+      "titel": "Biologischer Naturalismus",
+      "beschreibung": "Bewusstsein ist ein reales, subjektives Phänomen, das durch neuronale Prozesse im Gehirn verursacht wird. Es ist weder auf physische Prozesse reduzierbar noch von ihnen unabhängig. Bewusstsein ist eine biologische Eigenschaft des Gehirns, so wie Verdauung eine Eigenschaft des Magens ist."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Sprechakte (Speech Acts)",
+      "jahr": "1969",
+      "beschreibung": "Searles grundlegendes Werk zur Sprechakttheorie, das J. L. Austins Ansatz systematisch weiterentwickelt und formalisiert."
+    },
+    {
+      "titel": "Geist, Gehirn und Wissenschaft (Minds, Brains and Science)",
+      "jahr": "1984",
+      "beschreibung": "Eine allgemeinverständliche Darstellung des Leib-Seele-Problems und der Argumentation gegen starke KI."
+    },
+    {
+      "titel": "Die Konstruktion der gesellschaftlichen Wirklichkeit (The Construction of Social Reality)",
+      "jahr": "1995",
+      "beschreibung": "Searles Theorie der institutionellen Tatsachen, die zeigt, wie die soziale Wirklichkeit durch kollektive Intentionalität konstruiert wird."
+    },
+    {
+      "titel": "Die Wiederentdeckung des Geistes (The Rediscovery of the Mind)",
+      "jahr": "1992",
+      "beschreibung": "Eine kritische Auseinandersetzung mit dem Materialismus in der Philosophie des Geistes und ein Plädoyer für die irreduzible Subjektivität des Bewusstseins."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Syntax allein ist nicht hinreichend für Semantik, und Programme sind rein syntaktisch definiert.",
+      "quelle": "Geist, Gehirn und Wissenschaft"
+    },
+    {
+      "text": "Bewusstsein ist ein biologisches Phänomen wie die Photosynthese, die Verdauung oder die Zellteilung.",
+      "quelle": "Die Wiederentdeckung des Geistes"
+    },
+    {
+      "text": "Institutionelle Tatsachen existieren nur innerhalb von Systemen konstitutiver Regeln.",
+      "quelle": "Die Konstruktion der gesellschaftlichen Wirklichkeit"
+    }
+  ],
+  "verwandtePhilosophen": ["ludwig-wittgenstein", "daniel-dennett", "hilary-putnam"],
+  "verwandteIsmen": ["sprachphilosophie", "philosophie-des-geistes"]
+}

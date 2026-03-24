@@ -1,0 +1,86 @@
+{
+  "slug": "christine-korsgaard",
+  "name": "Christine Korsgaard",
+  "lebensdaten": "1952–",
+  "geboren": {
+    "jahr": 1952,
+    "ort": "Chicago",
+    "land": "USA",
+    "lat": 41.88,
+    "lng": -87.63
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Kantianismus", "Deontologie"],
+  "kurzbeschreibung": "Christine Korsgaard ist eine amerikanische Philosophin und eine der einflussreichsten Vertreterinnen des zeitgenössischen Kantianismus. Ihr Werk kreist um die Frage, worin die Autorität moralischer Normen gründet, und sie findet die Antwort in der Struktur praktischer Vernunft und Selbstgesetzgebung. Sie hat Kants Ethik für die zeitgenössische Moralphilosophie fruchtbar gemacht.",
+  "biografie": {
+    "fruehesLeben": "Christine Korsgaard wurde 1952 in Chicago geboren und studierte an der University of Illinois und der Harvard University, wo sie bei John Rawls promovierte. Rawls' kantische Moralphilosophie wurde zur Grundlage ihres eigenen Denkens.",
+    "schaffen": "Korsgaard lehrte an der University of California, Santa Barbara, der Yale University und der University of Chicago, bevor sie 1991 an die Harvard University berufen wurde. Ihr Hauptwerk 'The Sources of Normativity' (1996) analysiert die verschiedenen Antworten auf die Frage, warum moralische Normen verbindlich sind. Ihre konstruktivistische Interpretation Kants hat die Debatte über moralische Normativität nachhaltig geprägt.",
+    "spaetesLeben": "In ihren jüngeren Arbeiten hat Korsgaard ihre kantische Ethik auf Fragen der Tierethik ausgedehnt. Ihr Buch 'Fellow Creatures' (2018) argumentiert, dass wir auch gegenüber Tieren moralische Pflichten haben, die sich aus Kants Ethik ableiten lassen.",
+    "tod": "Christine Korsgaard lebt und lehrt an der Harvard University. Sie ist eine der einflussreichsten Moralphilosophinnen der Gegenwart und hat die kantische Tradition für neue Fragestellungen geöffnet.",
+    "nachwirkung": "Korsgaards konstruktivistischer Kantianismus hat die zeitgenössische Moralphilosophie nachhaltig beeinflusst. Ihre Analyse der Quellen der Normativität ist ein Standardtext der Ethik. Ihre Erweiterung der kantischen Ethik auf die Tierethik hat neue Perspektiven eröffnet."
+  },
+  "kernideen": [
+    {
+      "titel": "Quellen der Normativität",
+      "beschreibung": "Die Verbindlichkeit moralischer Normen gründet nicht in göttlichen Geboten, natürlichen Tatsachen oder gesellschaftlichen Konventionen, sondern in der Struktur der praktischen Vernunft selbst. Wenn wir handeln, müssen wir unseren Willen als autonom gesetzgebend begreifen – darin liegt die Quelle aller Normativität."
+    },
+    {
+      "titel": "Praktische Identität",
+      "beschreibung": "Jeder Mensch handelt unter einer Beschreibung seiner selbst – als Elternteil, als Bürger, als Mitglied einer Gemeinschaft. Diese praktischen Identitäten sind die Quelle unserer Verpflichtungen. Die moralische Identität als vernünftiges Wesen ist die grundlegendste dieser Identitäten."
+    },
+    {
+      "titel": "Moralischer Konstruktivismus",
+      "beschreibung": "Moralische Wahrheiten werden nicht entdeckt, sondern durch die Tätigkeit der praktischen Vernunft konstruiert. Dies bedeutet nicht, dass Moral willkürlich ist – die Konstruktion folgt den notwendigen Bedingungen rationaler Selbstgesetzgebung."
+    },
+    {
+      "titel": "Kantische Tierethik",
+      "beschreibung": "Tiere sind wie Menschen Wesen, für die Dinge gut oder schlecht sein können – sie haben ein natürliches Gut. Die kantische Pflicht, andere als Zwecke zu behandeln, erstreckt sich daher auch auf Tiere, die als Mitgeschöpfe moralische Berücksichtigung verdienen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Quellen der Normativität (The Sources of Normativity)",
+      "jahr": "1996",
+      "beschreibung": "Korsgaards Hauptwerk, das die verschiedenen Antworten auf die Frage nach der Verbindlichkeit moralischer Normen analysiert und eine kantische Antwort entwickelt."
+    },
+    {
+      "titel": "Autonomie schaffen (Creating the Kingdom of Ends)",
+      "jahr": "1996",
+      "beschreibung": "Eine Sammlung von Essays, die Kants Moralphilosophie für die zeitgenössische Ethik neu interpretieren."
+    },
+    {
+      "titel": "Selbstkonstitution (Self-Constitution)",
+      "jahr": "2009",
+      "beschreibung": "Eine Theorie des Handelns, die zeigt, wie wir uns durch unsere Handlungen als autonome Wesen konstituieren."
+    },
+    {
+      "titel": "Mitgeschöpfe (Fellow Creatures)",
+      "jahr": "2018",
+      "beschreibung": "Eine kantische Begründung moralischer Pflichten gegenüber Tieren, die die Grenzen der traditionellen kantischen Ethik erweitert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Normativität moralischer Forderungen gründet in unserer praktischen Identität als vernünftige Wesen.",
+      "quelle": "Die Quellen der Normativität"
+    },
+    {
+      "text": "Wir sind Wesen, die sich selbst das Gesetz geben müssen – darin liegt unsere Würde und unsere Bürde.",
+      "quelle": "Selbstkonstitution"
+    },
+    {
+      "text": "Tiere sind Wesen, für die Dinge gut oder schlecht sein können, und das gibt uns Grund, sie zu berücksichtigen.",
+      "quelle": "Mitgeschöpfe"
+    }
+  ],
+  "verwandtePhilosophen": ["immanuel-kant", "john-rawls", "onora-oneill", "derek-parfit"],
+  "verwandteIsmen": ["kantianismus", "deontologie"]
+}

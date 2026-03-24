@@ -1,0 +1,86 @@
+{
+  "slug": "bernard-williams",
+  "name": "Bernard Williams",
+  "lebensdaten": "1929–2003",
+  "geboren": {
+    "jahr": 1929,
+    "ort": "Westcliff-on-Sea",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.54,
+    "lng": 0.68
+  },
+  "gestorben": {
+    "jahr": 2003,
+    "ort": "Rom",
+    "land": "Italien",
+    "lat": 41.9,
+    "lng": 12.5
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Moralphilosophie"],
+  "kurzbeschreibung": "Bernard Williams war ein britischer Philosoph, der als einer der bedeutendsten Moralphilosophen des 20. Jahrhunderts gilt. Er war ein scharfer Kritiker des Utilitarismus und systematischer Moraltheorien und betonte die Rolle von Emotionen, persönlicher Integrität und moralischem Glück in der Ethik. Sein Denken zeichnet sich durch außergewöhnliche Klarheit und intellektuelle Unabhängigkeit aus.",
+  "biografie": {
+    "fruehesLeben": "Bernard Williams wurde 1929 in Westcliff-on-Sea, Essex, geboren und studierte am Balliol College in Oxford Philosophie und Altphilologie. Er diente in der Royal Air Force und wurde dann Fellow am All Souls College. Er galt früh als einer der brillantesten Geister seiner Generation.",
+    "schaffen": "Williams lehrte an den Universitäten London, Cambridge und Oxford sowie an der UC Berkeley. Seine Kritik des Utilitarismus und des Kantianismus formulierte er in zahlreichen einflussreichen Aufsätzen und Büchern. 'Ethics and the Limits of Philosophy' (1985) stellte die Grundlagen systematischer Moralphilosophie radikal in Frage.",
+    "spaetesLeben": "In seinen späteren Jahren wandte sich Williams verstärkt der griechischen Philosophie und der Frage zu, was die Alten uns über Ethik lehren können. Er war Mitglied zahlreicher Regierungskommissionen und eine einflussreiche öffentliche Stimme in ethischen Fragen.",
+    "tod": "Bernard Williams starb am 10. Juni 2003 in Rom im Alter von 73 Jahren an einem Myelom. Er hinterließ ein Werk, das die analytische Moralphilosophie nachhaltig verändert hat. Sein posthum veröffentlichter Band 'Philosophy as a Humanistic Discipline' fasst seine Vision der Philosophie zusammen.",
+    "nachwirkung": "Williams' Kritik systematischer Moraltheorien hat die Ethik nachhaltig beeinflusst und zu einer stärkeren Beachtung von Emotionen, Charakter und Kontingenz in der Moralphilosophie geführt. Seine Konzepte des moralischen Glücks und der internen Gründe gehören zum Standardrepertoire der zeitgenössischen Ethik."
+  },
+  "kernideen": [
+    {
+      "titel": "Kritik des Utilitarismus",
+      "beschreibung": "Der Utilitarismus fordert von Menschen, ihre eigenen Projekte und Überzeugungen zugunsten des größten allgemeinen Nutzens aufzugeben. Dies verletzt die persönliche Integrität, denn es macht Menschen zu bloßen Kanälen für das allgemeine Wohl. Eine Moral, die Integrität zerstört, kann nicht richtig sein."
+    },
+    {
+      "titel": "Moralisches Glück (Moral Luck)",
+      "beschreibung": "Unser moralisches Urteil hängt oft von Umständen ab, die außerhalb unserer Kontrolle liegen – von Glück. Dies stellt die gängige Annahme in Frage, dass moralische Bewertung nur von dem abhängen darf, was in unserer Macht steht. Das Konzept des moralischen Glücks untergräbt die Grundlagen der kantischen Ethik."
+    },
+    {
+      "titel": "Interne Gründe",
+      "beschreibung": "Ein Grund zum Handeln muss in Verbindung mit der bestehenden Motivation des Handelnden stehen. Es gibt keine externen Gründe, die unabhängig von den Wünschen, Überzeugungen und dem Charakter einer Person gültig wären. Dies stellt universalistische Moraltheorien in Frage."
+    },
+    {
+      "titel": "Grenzen der Philosophie",
+      "beschreibung": "Die Moralphilosophie kann und soll nicht ein umfassendes System moralischer Regeln liefern. Das ethische Denken muss die Kontingenz, Komplexität und Tragik des menschlichen Lebens anerkennen. Systematische Theorien verfehlen gerade das, was in der Ethik wirklich zählt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Utilitarismus: Für und Wider (Utilitarianism: For and Against)",
+      "jahr": "1973",
+      "beschreibung": "Williams' einflussreiche Kritik des Utilitarismus, die das Konzept der persönlichen Integrität gegen den utilitaristischen Anspruch auf unparteiische Nutzenmaximierung verteidigt."
+    },
+    {
+      "titel": "Ethik und die Grenzen der Philosophie (Ethics and the Limits of Philosophy)",
+      "jahr": "1985",
+      "beschreibung": "Williams' Hauptwerk, das die Grenzen systematischer Moraltheorie aufzeigt und für ein ethisches Denken plädiert, das der Komplexität des Lebens gerecht wird."
+    },
+    {
+      "titel": "Moralisches Glück (Moral Luck)",
+      "jahr": "1981",
+      "beschreibung": "Eine Sammlung philosophischer Aufsätze, die das Konzept des moralischen Glücks einführt und die Grundlagen der modernen Moralphilosophie hinterfragt."
+    },
+    {
+      "titel": "Scham und Notwendigkeit (Shame and Necessity)",
+      "jahr": "1993",
+      "beschreibung": "Eine Auseinandersetzung mit der griechischen Ethik, die zeigt, dass die Alten in mancher Hinsicht klarer über Ethik dachten als wir Modernen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Es gibt ein Maß an Unparteilichkeit, das schlicht unmenschlich ist.",
+      "quelle": "Utilitarismus: Für und Wider"
+    },
+    {
+      "text": "Die Philosophie muss die Welt erklären, nicht sie in ein System pressen.",
+      "quelle": "Ethik und die Grenzen der Philosophie"
+    },
+    {
+      "text": "Moralisches Glück zeigt, dass unsere ethischen Überzeugungen weniger kohärent sind, als wir gerne glauben würden.",
+      "quelle": "Moralisches Glück"
+    }
+  ],
+  "verwandtePhilosophen": ["derek-parfit", "john-rawls", "peter-singer", "immanuel-kant"],
+  "verwandteIsmen": ["moralphilosophie"]
+}

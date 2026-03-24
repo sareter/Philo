@@ -1,0 +1,82 @@
+{
+  "slug": "carl-schmitt",
+  "name": "Carl Schmitt",
+  "lebensdaten": "1888–1985",
+  "geboren": {
+    "jahr": 1888,
+    "ort": "Plettenberg",
+    "land": "Deutschland",
+    "lat": 51.21,
+    "lng": 7.88
+  },
+  "gestorben": {
+    "jahr": 1985,
+    "ort": "Plettenberg",
+    "land": "Deutschland",
+    "lat": 51.21,
+    "lng": 7.88
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Dezisionismus"],
+  "kurzbeschreibung": "Carl Schmitt war ein deutscher Staats- und Verfassungsrechtler und politischer Philosoph, der zu den umstrittensten Denkern des 20. Jahrhunderts gehört. Seine Theorien über Souveränität, den Ausnahmezustand und die Freund-Feind-Unterscheidung sind ebenso einflussreich wie sein Engagement für den Nationalsozialismus moralisch belastet. Trotz seiner politischen Verstrickungen werden seine Analysen in der politischen Theorie weltweit rezipiert.",
+  "biografie": {
+    "fruehesLeben": "Carl Schmitt wurde 1888 in Plettenberg, Westfalen, als Sohn einer katholischen Kleinbürgerfamilie geboren. Er studierte Rechtswissenschaften in Berlin, München und Straßburg und habilitierte sich 1916. In der Weimarer Republik wurde er zum einflussreichsten Staatsrechtslehrer Deutschlands.",
+    "schaffen": "Schmitts Hauptwerke 'Politische Theologie' (1922) und 'Der Begriff des Politischen' (1932) formulierten seine Theorien der Souveränität und der Freund-Feind-Unterscheidung. Er war ein scharfer Kritiker des Parlamentarismus und des Liberalismus. Ab 1933 unterstützte er aktiv den Nationalsozialismus und lieferte juristische Rechtfertigungen für die Diktatur.",
+    "spaetesLeben": "Nach dem Krieg wurde Schmitt interniert und von der Universität ausgeschlossen. Er kehrte nach Plettenberg zurück und lebte dort als privater Gelehrter. Trotz seiner Isolation empfing er zahlreiche Besucher – darunter Juristen, Philosophen und Politiker aus aller Welt. Eine Reue oder Distanzierung vom Nationalsozialismus blieb aus.",
+    "tod": "Carl Schmitt starb am 7. April 1985 in seinem Geburtsort Plettenberg im Alter von 96 Jahren. Er hatte nie öffentlich Reue für seine Unterstützung des NS-Regimes gezeigt. Die Kontroverse um sein Werk – zwischen intellektueller Brillanz und moralischer Verfehlungen – dauert bis heute an.",
+    "nachwirkung": "Schmitts politische Theorie wird weltweit rezipiert und hat sowohl rechte als auch linke Denker beeinflusst – von Leo Strauss über Walter Benjamin bis zu Chantal Mouffe und Giorgio Agamben. Seine Konzepte des Ausnahmezustands und der Freund-Feind-Unterscheidung sind zu Schlüsselbegriffen der politischen Theorie geworden."
+  },
+  "kernideen": [
+    {
+      "titel": "Souveränität und Ausnahmezustand",
+      "beschreibung": "Souverän ist, wer über den Ausnahmezustand entscheidet. Die wahre Natur der Souveränität zeigt sich nicht im Normalfall, sondern in der Krise, wenn das bestehende Recht suspendiert werden muss. Diese Dezision kann nicht aus Normen abgeleitet werden – sie ist ein Akt reiner Entscheidung."
+    },
+    {
+      "titel": "Die Freund-Feind-Unterscheidung",
+      "beschreibung": "Das Politische hat sein eigenes Kriterium: die Unterscheidung von Freund und Feind. Der Feind ist nicht der persönliche Gegner, sondern der existentielle Andere, gegen den im Ernstfall gekämpft werden muss. Jeder Versuch, das Politische zu eliminieren, scheitert an dieser unaufhebbaren Unterscheidung."
+    },
+    {
+      "titel": "Kritik des Parlamentarismus",
+      "beschreibung": "Der moderne Parlamentarismus hat seine geistige Grundlage verloren. Er beruht auf dem Prinzip der öffentlichen Diskussion und der Wahrheitsfindung durch Debatte – doch die Realität der Parteipolitik hat dieses Prinzip ausgehöhlt. Die Parlamente sind zu Schauplätzen von Interessenkoalitionen geworden."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Politische Theologie",
+      "jahr": "1922",
+      "beschreibung": "Der berühmte Traktat, der mit dem Satz 'Souverän ist, wer über den Ausnahmezustand entscheidet' beginnt und die Analogie von theologischen und juristischen Begriffen aufzeigt."
+    },
+    {
+      "titel": "Der Begriff des Politischen",
+      "jahr": "1932",
+      "beschreibung": "Schmitts einflussreichstes Werk, das die Freund-Feind-Unterscheidung als Grundkategorie des Politischen etabliert."
+    },
+    {
+      "titel": "Die geistesgeschichtliche Lage des heutigen Parlamentarismus",
+      "jahr": "1923",
+      "beschreibung": "Eine scharfe Analyse der Krise des parlamentarischen Systems, die die Diskrepanz zwischen liberaler Theorie und demokratischer Praxis aufzeigt."
+    },
+    {
+      "titel": "Der Nomos der Erde",
+      "jahr": "1950",
+      "beschreibung": "Schmitts Spätwerk über die Ordnung des Raumes im internationalen Recht, das die Entstehung und den Zerfall des europäischen Völkerrechts analysiert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Souverän ist, wer über den Ausnahmezustand entscheidet.",
+      "quelle": "Politische Theologie"
+    },
+    {
+      "text": "Die spezifisch politische Unterscheidung, auf die sich die politischen Handlungen und Motive zurückführen lassen, ist die Unterscheidung von Freund und Feind.",
+      "quelle": "Der Begriff des Politischen"
+    },
+    {
+      "text": "Alle prägnanten Begriffe der modernen Staatslehre sind säkularisierte theologische Begriffe.",
+      "quelle": "Politische Theologie"
+    }
+  ],
+  "verwandtePhilosophen": ["thomas-hobbes", "ernst-junger", "leo-strauss", "chantal-mouffe"],
+  "verwandteIsmen": ["dezisionismus"]
+}

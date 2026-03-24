@@ -1,0 +1,75 @@
+{
+  "slug": "elizabeth-anscombe",
+  "name": "Elizabeth Anscombe",
+  "lebensdaten": "1919–2001",
+  "geboren": {
+    "jahr": 1919,
+    "ort": "Limerick",
+    "land": "Irland",
+    "lat": 52.66,
+    "lng": -8.63
+  },
+  "gestorben": {
+    "jahr": 2001,
+    "ort": "Cambridge",
+    "land": "Vereinigtes Königreich",
+    "lat": 52.2,
+    "lng": 0.12
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Analytische Philosophie", "Tugendethik"],
+  "kurzbeschreibung": "G. E. M. Anscombe war eine britische Philosophin, die zu den bedeutendsten analytischen Philosophinnen des 20. Jahrhunderts zählt. Als Schülerin und Nachlassverwalterin Ludwig Wittgensteins übersetzte sie seine 'Philosophischen Untersuchungen' ins Englische. Ihr Aufsatz 'Modern Moral Philosophy' leitete die Wiederbelebung der Tugendethik ein.",
+  "biografie": {
+    "fruehesLeben": "Gertrude Elizabeth Margaret Anscombe wurde 1919 in Limerick, Irland, geboren und wuchs in England auf. Sie studierte am St Hugh's College in Oxford und konvertierte als Studentin zum Katholizismus. Diese Konversion prägte ihr gesamtes philosophisches Denken.",
+    "schaffen": "Anscombe wurde eine enge Schülerin Ludwig Wittgensteins in Cambridge und eine seiner literarischen Nachlassverwalterinnen. Ihr Werk 'Intention' (1957) gilt als Grundlagenwerk der Handlungstheorie. Mit ihrem einflussreichen Aufsatz 'Modern Moral Philosophy' (1958) kritisierte sie die moderne Moralphilosophie und forderte eine Rückkehr zur aristotelischen Tugendethik.",
+    "spaetesLeben": "Anscombe lehrte von 1970 bis 1986 als Professorin für Philosophie in Cambridge. Sie war bekannt für ihre streitbaren öffentlichen Positionen, etwa ihren Protest gegen die Verleihung der Ehrendoktorwürde an Harry Truman wegen des Atombombenabwurfs. Sie heiratete den Philosophen Peter Geach und hatte sieben Kinder.",
+    "tod": "Elizabeth Anscombe starb am 5. Januar 2001 in Cambridge. Ihr philosophisches Erbe ist immens: Sie gilt als eine der Begründerinnen der modernen Handlungstheorie und als Auslöserin der tugendethischen Renaissance in der analytischen Philosophie.",
+    "nachwirkung": "Anscombes 'Intention' gilt als eines der wichtigsten Werke der Handlungstheorie und wird bis heute intensiv diskutiert. Ihre Kritik an der modernen Moralphilosophie ebnete den Weg für die tugendethische Bewegung. Als Wittgenstein-Übersetzerin und -Interpretin hat sie das Verständnis seines Werkes entscheidend geprägt."
+  },
+  "kernideen": [
+    {
+      "titel": "Handlung und Intention",
+      "beschreibung": "Anscombe analysierte den Begriff der Absicht (Intention) und unterschied zwischen der Absicht in der Handlung, der Absicht als Vorsatz und dem absichtlichen Handeln. Eine Handlung kann unter verschiedenen Beschreibungen absichtlich oder unabsichtlich sein."
+    },
+    {
+      "titel": "Kritik der modernen Moralphilosophie",
+      "beschreibung": "In 'Modern Moral Philosophy' argumentierte Anscombe, dass Begriffe wie 'moralische Pflicht' und 'moralisches Sollen' ohne einen göttlichen Gesetzgeber sinnlos seien. Die moderne Moralphilosophie solle stattdessen zur aristotelischen Tugendethik zurückkehren."
+    },
+    {
+      "titel": "Das Brute-Fact-Argument",
+      "beschreibung": "Anscombe argumentierte, dass institutionelle Tatsachen auf 'rohen Tatsachen' beruhen. Die Tatsache, dass jemand Geld schuldet, beruht auf der rohen Tatsache, dass Waren geliefert wurden. Diese Analyse beeinflusste John Searles Theorie der institutionellen Tatsachen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Intention",
+      "jahr": "1957",
+      "beschreibung": "Das grundlegende Werk der modernen Handlungstheorie, das den Begriff der Absicht analysiert und zwischen verschiedenen Formen absichtlichen Handelns unterscheidet."
+    },
+    {
+      "titel": "Modern Moral Philosophy",
+      "jahr": "1958",
+      "beschreibung": "Der einflussreiche Aufsatz, der die moderne Moralphilosophie kritisierte und die Rückkehr zur Tugendethik forderte."
+    },
+    {
+      "titel": "An Introduction to Wittgenstein's Tractatus",
+      "jahr": "1959",
+      "beschreibung": "Eine Einführung in Wittgensteins frühes Hauptwerk, die Anscombes tiefes Verständnis seines Denkens dokumentiert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Wort 'sollen' hat in der Moralphilosophie nur noch eine emphatische Kraft, ohne klaren Inhalt.",
+      "quelle": "Modern Moral Philosophy",
+      "kontext": "Anscombes zentrale Kritik an der Verwendung deontischer Begriffe in der modernen Ethik ohne religiöse Grundlage."
+    },
+    {
+      "text": "Die Frage 'Warum?' ist das Kennzeichen absichtlichen Handelns.",
+      "quelle": "Intention",
+      "kontext": "Anscombes Methode zur Unterscheidung absichtlicher von unabsichtlichen Handlungen."
+    }
+  ],
+  "verwandtePhilosophen": ["ludwig-wittgenstein", "philippa-foot", "iris-murdoch", "aristoteles"],
+  "verwandteIsmen": ["analytische-philosophie", "tugendethik"]
+}

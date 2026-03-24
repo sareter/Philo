@@ -1,0 +1,86 @@
+{
+  "slug": "rabindranath-tagore",
+  "name": "Rabindranath Tagore",
+  "lebensdaten": "1861–1941",
+  "geboren": {
+    "jahr": 1861,
+    "ort": "Kalkutta",
+    "land": "Indien",
+    "lat": 22.57,
+    "lng": 88.36
+  },
+  "gestorben": {
+    "jahr": 1941,
+    "ort": "Kalkutta",
+    "land": "Indien",
+    "lat": 22.57,
+    "lng": 88.36
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Asien",
+  "hauptstroemungen": ["Humanismus"],
+  "kurzbeschreibung": "Rabindranath Tagore war ein bengalischer Dichter, Philosoph und Nobelpreisträger, der als erster Nicht-Europäer den Literaturnobelpreis erhielt. Sein Denken verband indische Spiritualität mit einem universellen Humanismus und setzte sich für einen Dialog der Kulturen ein. Er war zugleich Erzieher, Maler und Sozialreformer.",
+  "biografie": {
+    "fruehesLeben": "Rabindranath Tagore wurde 1861 als jüngstes von vierzehn Kindern in eine prominente bengalische Brahmanenfamilie in Kalkutta geboren. Sein Vater Debendranath Tagore war ein bedeutender Reformer der Hindu-Religion. Schon als Kind zeigte Rabindranath außergewöhnliches literarisches Talent und veröffentlichte mit acht Jahren seine ersten Gedichte.",
+    "schaffen": "Tagore verfasste ein gewaltiges Œuvre aus Lyrik, Romanen, Dramen, Essays und philosophischen Schriften. Mit der Gedichtsammlung 'Gitanjali' gewann er 1913 den Nobelpreis für Literatur. Er gründete 1901 die Reformschule Shantiniketan und später die Universität Visva-Bharati, die seinen Bildungsidealen gewidmet war.",
+    "spaetesLeben": "In seinen späten Jahren unternahm Tagore ausgedehnte Weltreisen und trat als Botschafter des kulturellen Dialogs zwischen Ost und West auf. Er kritisierte zunehmend den aggressiven Nationalismus, auch den indischen, und plädierte für einen universellen Humanismus. Ab den 1930er Jahren widmete er sich verstärkt der Malerei.",
+    "tod": "Rabindranath Tagore starb am 7. August 1941 in seinem Geburtshaus in Kalkutta nach langer Krankheit. Sein Tod wurde in ganz Indien und der Welt betrauert. Er hinterließ eines der umfangreichsten und vielseitigsten Lebenswerke der Weltliteratur.",
+    "nachwirkung": "Tagore gilt als einer der bedeutendsten Kulturschaffenden Indiens und prägte das moderne bengalische Bewusstsein nachhaltig. Seine Gedichte wurden zu Nationalhymnen zweier Länder – Indiens und Bangladeschs. Sein Bildungskonzept und sein Plädoyer für interkulturelle Verständigung sind bis heute aktuell."
+  },
+  "kernideen": [
+    {
+      "titel": "Universeller Humanismus",
+      "beschreibung": "Tagore vertrat einen Humanismus, der über nationale und kulturelle Grenzen hinausreicht. Er sah die Menschheit als eine Einheit und lehnte jeden Nationalismus ab, der die Trennung zwischen den Völkern vertieft. Die wahre Zivilisation liegt in der Harmonie zwischen den Kulturen."
+    },
+    {
+      "titel": "Einheit von Natur und Geist",
+      "beschreibung": "In Tagores Philosophie ist die Natur nicht bloße Materie, sondern Ausdruck einer göttlichen Kreativität. Der Mensch findet sein wahres Selbst nicht in der Abkehr von der Natur, sondern in der liebenden Verbindung mit ihr. Die Schönheit der Natur ist ein Weg zur spirituellen Erkenntnis."
+    },
+    {
+      "titel": "Kreative Erziehung",
+      "beschreibung": "Bildung soll nicht Wissen eintrichtern, sondern die kreative und spirituelle Entfaltung des ganzen Menschen fördern. Tagores Schulkonzept in Shantiniketan verband Unterricht im Freien mit Kunst, Musik und Naturerfahrung. Lernen soll Freude bereiten und zur Freiheit führen."
+    },
+    {
+      "titel": "Religion der Menschlichkeit",
+      "beschreibung": "Tagore entwickelte eine undogmatische Spiritualität, die das Göttliche in der menschlichen Beziehung und in der Natur sucht. Er lehnte religiösen Dogmatismus ab und plädierte für eine Religion, die in Liebe, Mitgefühl und schöpferischer Freiheit gründet."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Gitanjali (Liedopfer)",
+      "jahr": "1910",
+      "beschreibung": "Eine Sammlung mystischer Gedichte, für die Tagore 1913 als erster Nicht-Europäer den Nobelpreis für Literatur erhielt. Die Gedichte verbinden tiefe Spiritualität mit schlichter Schönheit."
+    },
+    {
+      "titel": "Sadhana – Der Weg zur Vollendung",
+      "jahr": "1913",
+      "beschreibung": "Eine Sammlung philosophischer Vorträge über die Beziehung des Menschen zum Unendlichen, die Tagore vor westlichem Publikum hielt."
+    },
+    {
+      "titel": "Der Nationalismus",
+      "jahr": "1917",
+      "beschreibung": "Eine scharfe Kritik des westlichen Nationalismus und Imperialismus, in der Tagore vor den Gefahren eines aggressiven Nationalbewusstseins warnt."
+    },
+    {
+      "titel": "Die Religion des Menschen",
+      "jahr": "1931",
+      "beschreibung": "Tagores philosophisches Spätwerk, in dem er seine Vision einer universellen Spiritualität entfaltet, die im Menschen selbst ihre Grundlage findet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Glaube ist der Vogel, der das Licht spürt, wenn die Morgenröte noch dunkel ist.",
+      "quelle": "Verirrte Vögel"
+    },
+    {
+      "text": "Die Menschheit hat sich ihr Lager nicht in der Festung der Gewissheit, sondern im offenen Feld der Unendlichkeit aufgeschlagen.",
+      "quelle": "Die Religion des Menschen"
+    },
+    {
+      "text": "Nationalismus ist eine grausame Epidemie des Übels, die über die menschliche Gesellschaft der Gegenwart hereingebrochen ist.",
+      "quelle": "Der Nationalismus"
+    }
+  ],
+  "verwandtePhilosophen": ["swami-vivekananda", "konfuzius"],
+  "verwandteIsmen": ["humanismus"]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "max-weber",
+  "name": "Max Weber",
+  "lebensdaten": "1864–1920",
+  "geboren": {
+    "jahr": 1864,
+    "ort": "Erfurt",
+    "land": "Deutschland",
+    "lat": 50.98,
+    "lng": 11.03
+  },
+  "gestorben": {
+    "jahr": 1920,
+    "ort": "München",
+    "land": "Deutschland",
+    "lat": 48.14,
+    "lng": 11.58
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Soziologie"],
+  "kurzbeschreibung": "Max Weber war ein deutscher Soziologe, Jurist und Nationalökonom, der als einer der Begründer der modernen Soziologie gilt. Seine Analyse des Zusammenhangs von protestantischer Ethik und Kapitalismus sowie seine Theorie der Rationalisierung und Bürokratisierung gehören zu den einflussreichsten sozialwissenschaftlichen Beiträgen überhaupt. Sein Konzept der 'Entzauberung der Welt' wurde zur Schlüsseldiagnose der Moderne.",
+  "biografie": {
+    "fruehesLeben": "Max Weber wurde 1864 in Erfurt als Sohn eines nationalliberalen Politikers geboren. Er studierte Jura, Geschichte und Nationalökonomie in Heidelberg, Berlin und Göttingen. Früh zeigte er sich als brillanter Gelehrter mit enormer Arbeitskraft und breitem Wissenshorizont.",
+    "schaffen": "Weber habilitierte sich 1891 und wurde Professor für Nationalökonomie in Freiburg und Heidelberg. 'Die protestantische Ethik und der Geist des Kapitalismus' (1905) begründete die Religionssoziologie und analysierte den Zusammenhang zwischen calvinistischer Berufungsethik und kapitalistischem Geist. 'Wirtschaft und Gesellschaft' (posthum) enthält seine Herrschaftssoziologie und die Theorie der Bürokratie.",
+    "spaetesLeben": "Weber litt ab 1898 unter schweren Depressionen und konnte jahrelang nicht arbeiten. Nach seiner Genesung entfaltete er eine immense Produktivität. In seinen letzten Lebensjahren hielt er die berühmten Vorträge 'Wissenschaft als Beruf' und 'Politik als Beruf' und engagierte sich politisch in der Weimarer Republik.",
+    "tod": "Max Weber starb am 14. Juni 1920 in München an der Spanischen Grippe. Er war 56 Jahre alt. Sein Hauptwerk 'Wirtschaft und Gesellschaft' blieb unvollendet und wurde posthum von seiner Frau Marianne Weber herausgegeben.",
+    "nachwirkung": "Weber gilt als einer der einflussreichsten Sozialwissenschaftler der Geschichte. Seine Begriffe – Charisma, Bürokratie, Entzauberung, Idealtyp, Wertfreiheit – sind Grundbegriffe der modernen Sozialwissenschaften. Talcott Parsons, Jürgen Habermas und Pierre Bourdieu stehen in seiner Tradition."
+  },
+  "kernideen": [
+    {
+      "titel": "Protestantische Ethik und Kapitalismus",
+      "beschreibung": "Die calvinistische Berufungsethik mit ihrem Konzept der innerweltlichen Askese hat den 'Geist des Kapitalismus' hervorgebracht. Die rastlose Berufsarbeit als Zeichen der göttlichen Erwählung schuf die mentale Grundlage für die kapitalistische Wirtschaftsordnung."
+    },
+    {
+      "titel": "Entzauberung der Welt",
+      "beschreibung": "Die Rationalisierung hat die Welt 'entzaubert': Mystische und magische Erklärungen werden durch wissenschaftliche ersetzt. Dieser Prozess führt zu einem Sinnverlust, da die Wissenschaft keine Antwort auf die Frage nach dem Sinn des Lebens geben kann."
+    },
+    {
+      "titel": "Herrschaftssoziologie",
+      "beschreibung": "Weber unterschied drei Typen legitimer Herrschaft: die traditionelle (Gewohnheit), die charismatische (außergewöhnliche Person) und die rational-legale (Gesetze und Bürokratie). Die moderne Gesellschaft tendiert zur bürokratischen Herrschaft als 'stahlhartem Gehäuse'."
+    },
+    {
+      "titel": "Wertfreiheit der Wissenschaft",
+      "beschreibung": "Die Wissenschaft soll wertfrei sein: Sie kann sagen, was ist, aber nicht, was sein soll. Werturteile sind subjektiv und gehören nicht in die wissenschaftliche Analyse. Der Wissenschaftler muss seine persönlichen Wertungen von seiner Forschung trennen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die protestantische Ethik und der Geist des Kapitalismus",
+      "jahr": "1905",
+      "beschreibung": "Die bahnbrechende Studie über den Zusammenhang zwischen calvinistischer Berufsethik und der Entstehung des modernen Kapitalismus."
+    },
+    {
+      "titel": "Wirtschaft und Gesellschaft",
+      "jahr": "1922",
+      "beschreibung": "Webers posthum veröffentlichtes Hauptwerk, das eine umfassende Soziologie der Herrschaft, des Rechts, der Religion und der Wirtschaft enthält."
+    },
+    {
+      "titel": "Wissenschaft als Beruf / Politik als Beruf",
+      "jahr": "1919",
+      "beschreibung": "Zwei berühmte Vorträge über die Berufung des Wissenschaftlers und des Politikers, die die Ethik der Verantwortung und der Gesinnung unterscheiden."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Entzauberung der Welt ist das Schicksal unserer Zeit.",
+      "quelle": "Wissenschaft als Beruf",
+      "kontext": "Webers berühmte Diagnose des Rationalisierungsprozesses und des damit verbundenen Sinnverlusts."
+    },
+    {
+      "text": "Politik bedeutet ein starkes langsames Bohren von harten Brettern mit Leidenschaft und Augenmaß zugleich.",
+      "quelle": "Politik als Beruf",
+      "kontext": "Webers Definition des politischen Handelns als Verbindung von Leidenschaft und Verantwortungsbewusstsein."
+    },
+    {
+      "text": "Der Staat ist diejenige Gemeinschaft, die das Monopol legitimer physischer Gewaltsamkeit für sich beansprucht.",
+      "quelle": "Politik als Beruf",
+      "kontext": "Webers klassische Definition des modernen Staates, die zum Grundbegriff der Politikwissenschaft wurde."
+    }
+  ],
+  "verwandtePhilosophen": ["georg-simmel", "karl-marx", "wilhelm-dilthey"],
+  "verwandteIsmen": ["soziologie"]
+}

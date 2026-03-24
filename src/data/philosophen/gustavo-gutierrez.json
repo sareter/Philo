@@ -1,0 +1,80 @@
+{
+  "slug": "gustavo-gutierrez",
+  "name": "Gustavo Gutiérrez",
+  "lebensdaten": "1928–2024",
+  "geboren": {
+    "jahr": 1928,
+    "ort": "Lima",
+    "land": "Peru",
+    "lat": -12.05,
+    "lng": -77.04
+  },
+  "gestorben": {
+    "jahr": 2024,
+    "ort": "Lima",
+    "land": "Peru",
+    "lat": -12.05,
+    "lng": -77.04
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Südamerika",
+  "hauptstroemungen": ["Befreiungstheologie"],
+  "kurzbeschreibung": "Gustavo Gutiérrez war ein peruanischer Theologe und Dominikaner, der als Begründer der Befreiungstheologie gilt. Sein Hauptwerk 'Theologie der Befreiung' (1971) argumentiert, dass die christliche Theologie von der Perspektive der Armen und Unterdrückten ausgehen muss. Er verband christlichen Glauben mit der Forderung nach sozialer Gerechtigkeit und beeinflusste damit die katholische Kirche Lateinamerikas tiefgreifend.",
+  "biografie": {
+    "fruehesLeben": "Gustavo Gutiérrez wurde 1928 in Lima, Peru, in eine mestizische Familie geboren. Er studierte Medizin, Philosophie und Theologie in Lima, Löwen, Lyon und Rom und wurde 1959 zum Priester geweiht.",
+    "schaffen": "Gutiérrez' Hauptwerk 'Teología de la liberación' (1971) begründete die Befreiungstheologie als eigenständige theologische Richtung. Er argumentierte, dass Gott eine 'vorrangige Option für die Armen' hat und dass Theologie von der konkreten Praxis der Befreiung ausgehen muss. Sein Werk löste eine weltweite Debatte aus und beeinflusste die lateinamerikanische Bischofskonferenz.",
+    "spaetesLeben": "Gutiérrez trat 1998 dem Dominikanerorden bei und lehrte an der University of Notre Dame in den USA. Trotz anfänglicher Konflikte mit dem Vatikan wurde seine Theologie unter Papst Franziskus zunehmend anerkannt.",
+    "tod": "Gustavo Gutiérrez starb 2024 in seiner Heimatstadt Lima. Papst Franziskus würdigte ihn als einen der bedeutendsten Theologen des 20. Jahrhunderts.",
+    "nachwirkung": "Die Befreiungstheologie hat die katholische Kirche in Lateinamerika und weltweit transformiert. Gutiérrez' Insistieren auf der Verbindung von Glaube und Gerechtigkeit prägt die kirchliche Soziallehre bis heute."
+  },
+  "kernideen": [
+    {
+      "titel": "Vorrangige Option für die Armen",
+      "beschreibung": "Gott steht auf der Seite der Armen und Unterdrückten. Theologie muss von der Erfahrung der Armut ausgehen und die Befreiung der Armen als zentrales Anliegen des christlichen Glaubens verstehen."
+    },
+    {
+      "titel": "Theologie als kritische Reflexion der Praxis",
+      "beschreibung": "Theologie ist nicht abstrakte Spekulation, sondern die kritische Reflexion der gelebten Praxis der Befreiung. Sie kommt nach der Praxis, nicht vor ihr, und muss an ihren Früchten gemessen werden."
+    },
+    {
+      "titel": "Strukturelle Sünde",
+      "beschreibung": "Sünde manifestiert sich nicht nur in individuellen Verfehlungen, sondern auch in ungerechten sozialen, ökonomischen und politischen Strukturen. Die Überwindung der Sünde erfordert daher auch die Veränderung dieser Strukturen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Teología de la liberación (Theologie der Befreiung)",
+      "jahr": "1971",
+      "beschreibung": "Das Gründungswerk der Befreiungstheologie, das die christliche Botschaft konsequent aus der Perspektive der Armen und Unterdrückten interpretiert."
+    },
+    {
+      "titel": "Beber en su propio pozo (Aus der eigenen Quelle trinken)",
+      "jahr": "1984",
+      "beschreibung": "Eine Spiritualität der Befreiung, die zeigt, dass die Option für die Armen nicht nur eine politische, sondern eine zutiefst geistliche Haltung ist."
+    },
+    {
+      "titel": "Hablar de Dios desde el sufrimiento del inocente (Von Gott sprechen in einer leidenden Welt)",
+      "jahr": "1986",
+      "beschreibung": "Eine Auseinandersetzung mit dem Buch Hiob, die die Frage nach dem Leid der Unschuldigen in den Mittelpunkt der Theologie stellt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Theologie ist die kritische Reflexion der geschichtlichen Praxis im Licht des Wortes Gottes.",
+      "quelle": "Theologie der Befreiung",
+      "kontext": "Gutiérrez' programmatische Neudefinition der Theologie als Reflexion der Befreiungspraxis."
+    },
+    {
+      "text": "Die vorrangige Option für die Armen ist kein ideologisches Programm, sondern das Herzstück des Evangeliums.",
+      "quelle": "Theologie der Befreiung",
+      "kontext": "Gutiérrez' theologische Begründung der Solidarität mit den Armen."
+    },
+    {
+      "text": "Man kann nicht von Gott sprechen und dabei das Leid der Armen ignorieren.",
+      "quelle": "Von Gott sprechen in einer leidenden Welt",
+      "kontext": "Die zentrale Einsicht der Befreiungstheologie über die Untrennbarkeit von Gottesfrage und Gerechtigkeitsfrage."
+    }
+  ],
+  "verwandtePhilosophen": ["enrique-dussel", "ivan-illich"],
+  "verwandteIsmen": ["befreiungstheologie"]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "alasdair-macintyre",
+  "name": "Alasdair MacIntyre",
+  "lebensdaten": "1929–",
+  "geboren": {
+    "jahr": 1929,
+    "ort": "Glasgow",
+    "land": "UK",
+    "lat": 55.86,
+    "lng": -4.25
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Tugendethik", "Kommunitarismus"],
+  "kurzbeschreibung": "Alasdair MacIntyre ist ein schottisch-amerikanischer Philosoph, der mit seinem Hauptwerk 'Der Verlust der Tugend' die Wiederbelebung der aristotelischen Tugendethik in der zeitgenössischen Moralphilosophie angestoßen hat. Er argumentiert, dass die moderne Moral in einer tiefen Krise steckt, weil sie den Zusammenhang zwischen Tugend, Gemeinschaft und Lebenssinn verloren hat. Sein Denken verbindet aristotelische Ethik mit thomistischer Philosophie und einer radikalen Kritik der liberalen Moderne.",
+  "biografie": {
+    "fruehesLeben": "Alasdair MacIntyre wurde 1929 in Glasgow, Schottland, geboren. Er studierte Philosophie in London und Manchester und begann seine akademische Karriere in Großbritannien, bevor er in die USA übersiedelte.",
+    "schaffen": "MacIntyres intellektuelle Entwicklung führte vom Marxismus über den analytischen Liberalismus zur aristotelisch-thomistischen Tradition. Sein Hauptwerk 'After Virtue' (1981) diagnostiziert eine fundamentale Krise der modernen Moralphilosophie und plädiert für eine Rückkehr zur Tugendethik. In 'Whose Justice? Which Rationality?' (1988) und 'Three Rival Versions of Moral Enquiry' (1990) vertiefte er seine Analyse.",
+    "spaetesLeben": "MacIntyre lehrte an der University of Notre Dame und anderen amerikanischen Universitäten. Er konvertierte 1983 zum Katholizismus und integrierte die thomistische Tradition in sein philosophisches Werk.",
+    "tod": "Alasdair MacIntyre lebt und arbeitet weiterhin.",
+    "nachwirkung": "MacIntyre hat die Tugendethik als ernstzunehmende Alternative zum Utilitarismus und zur deontologischen Ethik neu etabliert. Seine Kritik der modernen Moralphilosophie hat eine breite akademische Debatte ausgelöst und den Kommunitarismus als politische Philosophie mitbegründet."
+  },
+  "kernideen": [
+    {
+      "titel": "Die Krise der modernen Moral",
+      "beschreibung": "MacIntyre argumentiert, dass die moderne Moralphilosophie nur noch Fragmente früherer ethischer Traditionen besitzt, deren ursprünglicher Zusammenhang verloren gegangen ist. Moralische Debatten sind daher endlos und unauflösbar, weil die Parteien von inkommensurablen Prämissen ausgehen."
+    },
+    {
+      "titel": "Tugendethik und Praxis",
+      "beschreibung": "Tugenden sind erworbene menschliche Eigenschaften, deren Besitz und Ausübung es ermöglicht, die einer Praxis innewohnenden Güter zu verwirklichen. Eine Praxis ist eine kooperative menschliche Tätigkeit mit eigenen Maßstäben der Vortrefflichkeit."
+    },
+    {
+      "titel": "Narrative Identität",
+      "beschreibung": "Das menschliche Leben kann nur als Einheit verstanden werden, wenn es als Erzählung begriffen wird. Die Tugenden sind die Eigenschaften, die es einem Menschen ermöglichen, sein Leben als kohärente Geschichte zu führen und dem Guten nachzustreben."
+    },
+    {
+      "titel": "Tradition und Rationalität",
+      "beschreibung": "Vernünftiges Denken findet immer innerhalb einer Tradition statt. Es gibt keine traditionsunabhängige Rationalität. Traditionen können sich jedoch als mehr oder weniger rational erweisen, indem sie ihre eigenen internen Widersprüche besser oder schlechter lösen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "After Virtue (Der Verlust der Tugend)",
+      "jahr": "1981",
+      "beschreibung": "MacIntyres einflussreichstes Werk, das die Krise der modernen Moralphilosophie diagnostiziert und eine Rückkehr zur aristotelischen Tugendethik fordert."
+    },
+    {
+      "titel": "Whose Justice? Which Rationality?",
+      "jahr": "1988",
+      "beschreibung": "Eine Untersuchung der Tradition-gebundenen Natur von Gerechtigkeit und Rationalität, die zeigt, dass verschiedene philosophische Traditionen unterschiedliche, aber rational vergleichbare Konzeptionen des Gerechten entwickeln."
+    },
+    {
+      "titel": "Three Rival Versions of Moral Enquiry",
+      "jahr": "1990",
+      "beschreibung": "Eine Analyse dreier konkurrierender Ansätze der Moralphilosophie – Enzyklopädie, Genealogie und Tradition – und eine Verteidigung des thomistischen Ansatzes."
+    },
+    {
+      "titel": "Dependent Rational Animals",
+      "jahr": "1999",
+      "beschreibung": "Eine Revision seiner Tugendethik, die die menschliche Verletzlichkeit und Abhängigkeit stärker betont und die Tugenden der Fürsorge in den Mittelpunkt stellt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die entscheidende Frage für die moderne Moral lautet: Aristoteles oder Nietzsche?",
+      "quelle": "After Virtue",
+      "kontext": "MacIntyres These, dass die Wahl zwischen Tugendethik und Nihilismus die grundlegende Alternative der modernen Moralphilosophie darstellt."
+    },
+    {
+      "text": "Ich bin, was ich geerbt habe: ein Teil einer Geschichte, und der Versuch, mein Leben von dieser Geschichte zu trennen, bedeutet, mein gegenwärtiges Selbst zu verstümmeln.",
+      "quelle": "After Virtue",
+      "kontext": "MacIntyres Verteidigung der narrativen Identität gegen den Individualismus der Moderne."
+    },
+    {
+      "text": "Der Barbarei haben wir uns schon lange ausgeliefert. Was wir brauchen, ist ein neuer Benedikt.",
+      "quelle": "After Virtue",
+      "kontext": "Der berühmte Schlusssatz von 'After Virtue', der für kleine Gemeinschaften der Tugend in einer moralisch verfallenen Welt plädiert."
+    }
+  ],
+  "verwandtePhilosophen": ["aristoteles", "thomas-von-aquin", "charles-taylor"],
+  "verwandteIsmen": ["tugendethik", "kommunitarismus"]
+}

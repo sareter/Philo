@@ -1,0 +1,75 @@
+{
+  "slug": "ernst-troeltsch",
+  "name": "Ernst Troeltsch",
+  "lebensdaten": "1865–1923",
+  "geboren": {
+    "jahr": 1865,
+    "ort": "Haunstetten",
+    "land": "Deutschland",
+    "lat": 48.33,
+    "lng": 10.87
+  },
+  "gestorben": {
+    "jahr": 1923,
+    "ort": "Berlin",
+    "land": "Deutschland",
+    "lat": 52.52,
+    "lng": 13.41
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Historismus"],
+  "kurzbeschreibung": "Ernst Troeltsch war ein deutscher Theologe, Philosoph und Historiker, der als einer der bedeutendsten Denker des Historismus gilt. Er analysierte die Krise des Historismus – die Frage, wie man aus der Erkenntnis der geschichtlichen Bedingtheit aller Werte noch allgemeingültige Normen gewinnen kann. Sein Werk über die Soziallehren der christlichen Kirchen ist ein Meilenstein der Religionssoziologie.",
+  "biografie": {
+    "fruehesLeben": "Ernst Troeltsch wurde 1865 in Haunstetten bei Augsburg geboren. Er studierte Theologie in Erlangen, Göttingen und Berlin und wurde ein enger Freund Max Webers.",
+    "schaffen": "Troeltsch entwickelte eine historische Theologie, die die geschichtliche Bedingtheit aller religiösen und ethischen Normen ernst nahm. Sein monumentales Werk 'Die Soziallehren der christlichen Kirchen und Gruppen' (1912) analysiert die soziale Wirkung des Christentums. In 'Der Historismus und seine Probleme' (1922) setzte er sich mit der philosophischen Krise des Historismus auseinander.",
+    "spaetesLeben": "Troeltsch wechselte 1915 von der Theologie zur Philosophie und übernahm einen philosophischen Lehrstuhl in Berlin. Er engagierte sich politisch als liberaler Demokrat in der Weimarer Republik.",
+    "tod": "Ernst Troeltsch starb 1923 in Berlin an einem Herzinfarkt, mitten in der Arbeit an seinem unvollendeten Hauptwerk über den Historismus.",
+    "nachwirkung": "Troeltschs Analyse des Historismus-Problems – wie man angesichts der geschichtlichen Relativität aller Werte zu gültigen Normen gelangen kann – bleibt eine zentrale Herausforderung der Philosophie. Seine Religionssoziologie beeinflusste Max Weber und die gesamte spätere Disziplin."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Problem des Historismus",
+      "beschreibung": "Wenn alle Werte, Normen und Wahrheiten geschichtlich bedingt sind, wie kann man dann noch allgemeingültige Maßstäbe behaupten? Troeltsch sah in dieser Frage das zentrale Problem der modernen Kultur und suchte nach einem Weg zwischen absolutem Relativismus und naivem Universalismus."
+    },
+    {
+      "titel": "Kirche, Sekte und Mystik",
+      "beschreibung": "Troeltsch unterscheidet drei Grundtypen religiöser Sozialformen: die Kirche (Masseninstitution), die Sekte (freiwillige Gemeinschaft der Entschiedenen) und die Mystik (individuelle Innerlichkeit). Diese Typologie wurde grundlegend für die Religionssoziologie."
+    },
+    {
+      "titel": "Kultursynthese",
+      "beschreibung": "Als Antwort auf den Historismus schlug Troeltsch eine 'Kultursynthese' vor: die bewusste Gestaltung einer europäischen Kultureinheit, die die verschiedenen historischen Traditionen in einer gegenwärtigen Synthese zusammenführt."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Soziallehren der christlichen Kirchen und Gruppen",
+      "jahr": "1912",
+      "beschreibung": "Troeltschs monumentales Werk über die soziale Wirkung des Christentums von der Antike bis zur Gegenwart, das die Religionssoziologie als Disziplin mitbegründete."
+    },
+    {
+      "titel": "Der Historismus und seine Probleme",
+      "jahr": "1922",
+      "beschreibung": "Eine umfassende Auseinandersetzung mit dem Historismus und der Frage, wie angesichts der geschichtlichen Relativität aller Werte noch gültige Normen möglich sind."
+    },
+    {
+      "titel": "Die Absolutheit des Christentums und die Religionsgeschichte",
+      "jahr": "1902",
+      "beschreibung": "Eine Untersuchung der Frage, ob das Christentum einen absoluten Wahrheitsanspruch erheben kann, wenn alle Religionen geschichtlich bedingt sind."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Historismus ist die Auflösung aller festen Maßstäbe in den Strom der Geschichte.",
+      "quelle": "Der Historismus und seine Probleme",
+      "kontext": "Troeltschs Diagnose der Krise des Historismus als zentrales Problem der modernen Kultur."
+    },
+    {
+      "text": "Jede Epoche hat ihre eigene Beziehung zu Gott.",
+      "quelle": "Die Absolutheit des Christentums",
+      "kontext": "Troeltschs historistische Einsicht in die geschichtliche Bedingtheit religiöser Erfahrung."
+    }
+  ],
+  "verwandtePhilosophen": ["wilhelm-windelband", "heinrich-rickert", "arnold-toynbee"],
+  "verwandteIsmen": ["historismus", "neukantianismus"]
+}

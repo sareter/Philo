@@ -1,0 +1,84 @@
+{
+  "slug": "arnold-toynbee",
+  "name": "Arnold J. Toynbee",
+  "lebensdaten": "1889–1975",
+  "geboren": {
+    "jahr": 1889,
+    "ort": "London",
+    "land": "UK",
+    "lat": 51.51,
+    "lng": -0.13
+  },
+  "gestorben": {
+    "jahr": 1975,
+    "ort": "York",
+    "land": "UK",
+    "lat": 53.96,
+    "lng": -1.08
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Historismus"],
+  "kurzbeschreibung": "Arnold J. Toynbee war ein britischer Historiker und Geschichtsphilosoph, der mit seinem monumentalen Werk 'A Study of History' eine der umfassendsten vergleichenden Zivilisationsanalysen vorlegte. Er identifizierte Muster von Aufstieg und Niedergang in 21 Zivilisationen und entwickelte die Theorie von 'Herausforderung und Antwort' als treibender Kraft der Geschichte. Sein Werk machte ihn zu einem der bekanntesten Intellektuellen des 20. Jahrhunderts.",
+  "biografie": {
+    "fruehesLeben": "Arnold Joseph Toynbee wurde 1889 in London geboren. Er studierte Altertumswissenschaften in Oxford und arbeitete während des Ersten Weltkriegs im britischen Geheimdienst.",
+    "schaffen": "Toynbees Lebenswerk 'A Study of History' erschien in zwölf Bänden zwischen 1934 und 1961. Er verglich 21 Zivilisationen und identifizierte wiederkehrende Muster ihres Aufstiegs und Niedergangs. Von 1925 bis 1955 leitete er die Forschungsabteilung des Royal Institute of International Affairs in London.",
+    "spaetesLeben": "Toynbee wurde in den 1950er Jahren zu einem der bekanntesten Intellektuellen der Welt, der auf dem Cover des Time Magazine erschien. In seinen späteren Jahren wandte er sich zunehmend religiösen und spirituellen Fragen zu.",
+    "tod": "Arnold Toynbee starb 1975 in York im Alter von 86 Jahren. Sein Werk wurde in der akademischen Geschichtswissenschaft kontrovers diskutiert, blieb aber in der breiteren Öffentlichkeit einflussreich.",
+    "nachwirkung": "Toynbees vergleichende Zivilisationsanalyse beeinflusste Samuel Huntingtons 'Clash of Civilizations' und bleibt ein Referenzpunkt für die Diskussion über den Aufstieg und Niedergang von Zivilisationen."
+  },
+  "kernideen": [
+    {
+      "titel": "Herausforderung und Antwort",
+      "beschreibung": "Zivilisationen entstehen und wachsen durch ihre kreative Antwort auf Herausforderungen – seien es natürliche, soziale oder externe Bedrohungen. Eine Zivilisation, die keine Herausforderungen mehr zu bewältigen hat oder die falschen Antworten gibt, verfällt."
+    },
+    {
+      "titel": "Vergleichende Zivilisationsanalyse",
+      "beschreibung": "Toynbee identifiziert 21 Zivilisationen in der Weltgeschichte und vergleicht ihre Entstehung, Blüte und ihren Niedergang. Die Einheit der historischen Analyse ist nicht der Nationalstaat, sondern die Zivilisation als kulturelle Gesamtheit."
+    },
+    {
+      "titel": "Kreative Minderheit und innerer Proletariat",
+      "beschreibung": "Zivilisationen werden von kreativen Minderheiten aufgebaut, die die Mehrheit durch ihr Vorbild inspirieren. Wenn die kreative Minderheit zur herrschenden Minderheit wird und ihre Kreativität verliert, entsteht ein inneres Proletariat, das sich von der Zivilisation abwendet."
+    },
+    {
+      "titel": "Universalstaat und Universalkirche",
+      "beschreibung": "Am Ende einer Zivilisation entstehen typischerweise ein Universalstaat (der letzte Versuch der herrschenden Minderheit, die Ordnung aufrechtzuerhalten) und eine Universalkirche (der spirituelle Ausdruck des inneren Proletariats), die den Übergang zu einer neuen Zivilisation einleitet."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "A Study of History",
+      "jahr": "1934",
+      "beschreibung": "Toynbees monumentales Lebenswerk in zwölf Bänden, eine vergleichende Analyse von 21 Zivilisationen und ihrer Muster von Aufstieg und Niedergang."
+    },
+    {
+      "titel": "Civilization on Trial",
+      "jahr": "1948",
+      "beschreibung": "Eine Sammlung von Essays, die Toynbees Geschichtsphilosophie auf die zeitgenössischen Herausforderungen der westlichen Zivilisation anwendet."
+    },
+    {
+      "titel": "Mankind and Mother Earth",
+      "jahr": "1976",
+      "beschreibung": "Toynbees letztes Werk, eine narrative Weltgeschichte, die die Beziehung der Menschheit zur Natur in den Mittelpunkt stellt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Zivilisationen sterben nicht durch Mord, sondern durch Selbstmord.",
+      "quelle": "A Study of History",
+      "kontext": "Toynbees zentrale These, dass Zivilisationen an ihren eigenen inneren Widersprüchen zugrunde gehen, nicht an äußeren Feinden."
+    },
+    {
+      "text": "Die größte Strafe der Geschichte ist nicht der Untergang, sondern die Erstarrung.",
+      "quelle": "A Study of History",
+      "kontext": "Toynbees Warnung vor der Stagnation als schlimmerem Schicksal als dem Zusammenbruch."
+    },
+    {
+      "text": "Geschichte ist eine Reihe von Herausforderungen und Antworten, und eine Zivilisation wird an ihren Antworten gemessen.",
+      "quelle": "A Study of History",
+      "kontext": "Die Grundformel von Toynbees Geschichtsphilosophie."
+    }
+  ],
+  "verwandtePhilosophen": ["ibn-khaldun", "ernst-troeltsch", "georg-wilhelm-friedrich-hegel"],
+  "verwandteIsmen": ["historismus"]
+}

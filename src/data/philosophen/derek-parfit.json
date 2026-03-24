@@ -1,0 +1,81 @@
+{
+  "slug": "derek-parfit",
+  "name": "Derek Parfit",
+  "lebensdaten": "1942–2017",
+  "geboren": {
+    "jahr": 1942,
+    "ort": "Chengdu",
+    "land": "China",
+    "lat": 30.57,
+    "lng": 104.07
+  },
+  "gestorben": {
+    "jahr": 2017,
+    "ort": "Oxford",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.75,
+    "lng": -1.25
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Utilitarismus", "Personalismus"],
+  "kurzbeschreibung": "Derek Parfit war ein britischer Philosoph, der als einer der bedeutendsten Moralphilosophen des 20. Jahrhunderts gilt. Sein Werk 'Reasons and Persons' revolutionierte das Denken über personale Identität, Rationalität und Ethik. Mit 'On What Matters' versuchte er, die großen moralphilosophischen Traditionen in einer einheitlichen Theorie zusammenzuführen.",
+  "biografie": {
+    "fruehesLeben": "Derek Parfit wurde 1942 in Chengdu, China, geboren, wo seine Eltern als Ärzte arbeiteten. Er wuchs in Oxford auf und studierte am Balliol College Geschichte. Ein Harkness Fellowship brachte ihn an die Columbia und Harvard University, bevor er nach Oxford zurückkehrte.",
+    "schaffen": "Als Fellow des All Souls College in Oxford widmete sich Parfit jahrzehntelang der Erforschung fundamentaler philosophischer Fragen. 'Reasons and Persons' (1984) stellte die gängige Auffassung personaler Identität radikal in Frage und zeigte, dass unsere Identität weniger bestimmt ist, als wir glauben. Sein Spätwerk 'On What Matters' suchte die Konvergenz von Kantianismus, Kontraktualismus und Konsequentialismus.",
+    "spaetesLeben": "Parfit arbeitete über dreißig Jahre an 'On What Matters', das schließlich in drei Bänden erschien. Er lehrte regelmäßig an der Harvard, NYU und Rutgers University. Neben der Philosophie widmete er sich leidenschaftlich der Architekturfotografie.",
+    "tod": "Derek Parfit starb am 1. Januar 2017 in Oxford im Alter von 74 Jahren. Sein Tod wurde als großer Verlust für die Moralphilosophie betrauert. Er galt als einer der originellsten und einflussreichsten Ethiker seiner Generation.",
+    "nachwirkung": "Parfits Werk hat die Moralphilosophie, die Theorie personaler Identität und die Populationsethik nachhaltig verändert. Seine Argumente über die Nicht-Identität und das 'Repugnant Conclusion' sind zentrale Referenzpunkte der modernen Ethik. Sein Versuch, die großen moralphilosophischen Traditionen zu vereinen, bleibt ein bedeutendes philosophisches Projekt."
+  },
+  "kernideen": [
+    {
+      "titel": "Personale Identität als Illusion",
+      "beschreibung": "Was wir für unsere persönliche Identität halten, ist weniger bestimmt und weniger wichtig, als wir glauben. Es gibt kein tiefes Faktum, das bestimmt, ob eine zukünftige Person 'ich' ist. Personale Identität besteht in psychologischer Kontinuität und Verbundenheit – und diese kann in Graden variieren."
+    },
+    {
+      "titel": "Konvergenz der Moraltheorien",
+      "beschreibung": "Die drei großen moralphilosophischen Traditionen – Kantianismus, Kontraktualismus und Konsequentialismus – konvergieren in ihren Ergebnissen weit mehr, als üblicherweise angenommen wird. Parfit argumentiert, dass sie bei richtiger Interpretation im Wesentlichen zum selben Ergebnis kommen."
+    },
+    {
+      "titel": "Das Abstoßende Ergebnis (Repugnant Conclusion)",
+      "beschreibung": "Wenn wir glauben, dass die Summe des Glücks zählt, müssen wir akzeptieren, dass eine riesige Bevölkerung mit minimal positivem Wohlbefinden besser ist als eine kleinere Bevölkerung mit hohem Wohlbefinden. Diese 'abstoßende Schlussfolgerung' ist eines der hartnäckigsten Probleme der Populationsethik."
+    },
+    {
+      "titel": "Das Nicht-Identitäts-Problem",
+      "beschreibung": "Unsere heutigen Entscheidungen bestimmen, welche Menschen in der Zukunft existieren werden. Daher können wir zukünftigen Menschen nicht schaden, indem wir die Umwelt zerstören, denn ohne unsere Entscheidungen hätten genau diese Menschen nie existiert. Dieses Paradox stellt die herkömmliche Ethik vor große Herausforderungen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Gründe und Personen (Reasons and Persons)",
+      "jahr": "1984",
+      "beschreibung": "Parfits revolutionäres Hauptwerk, das die Theorie personaler Identität, der Rationalität und der Populationsethik grundlegend erneuerte."
+    },
+    {
+      "titel": "Worauf es ankommt (On What Matters)",
+      "jahr": "2011",
+      "beschreibung": "Parfits monumentales Spätwerk in drei Bänden, das die Konvergenz der großen moralphilosophischen Traditionen nachzuweisen versucht."
+    },
+    {
+      "titel": "Gleichheit und Priorität (Equality and Priority)",
+      "jahr": "1997",
+      "beschreibung": "Ein einflussreicher Aufsatz, der die Unterscheidung zwischen Egalitarismus und Prioritarismus einführt und die Debatte über Verteilungsgerechtigkeit neu strukturiert."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Persönliche Identität ist nicht das, was wichtig ist. Was wichtig ist, ist psychologische Verbundenheit und Kontinuität.",
+      "quelle": "Gründe und Personen"
+    },
+    {
+      "text": "Wir leben in der aufregendsten Zeit der Menschheitsgeschichte für die Moralphilosophie.",
+      "quelle": "Worauf es ankommt"
+    },
+    {
+      "text": "Wenn wir zusammenklettern, könnten wir den Gipfel erreichen.",
+      "quelle": "Worauf es ankommt"
+    }
+  ],
+  "verwandtePhilosophen": ["john-rawls", "peter-singer", "immanuel-kant", "bernard-williams"],
+  "verwandteIsmen": ["utilitarismus", "personalismus"]
+}

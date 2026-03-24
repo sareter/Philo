@@ -1,0 +1,85 @@
+{
+  "slug": "edward-said",
+  "name": "Edward Said",
+  "lebensdaten": "1935–2003",
+  "geboren": {
+    "jahr": 1935,
+    "ort": "Jerusalem",
+    "land": "Palästina",
+    "lat": 31.77,
+    "lng": 35.23
+  },
+  "gestorben": {
+    "jahr": 2003,
+    "ort": "New York",
+    "land": "USA",
+    "lat": 40.71,
+    "lng": -74.0
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Postkolonialismus"],
+  "kurzbeschreibung": "Edward Said war ein palästinensisch-amerikanischer Literaturwissenschaftler und Kulturkritiker, dessen Werk 'Orientalismus' die postkoloniale Theorie begründete. Er zeigte, wie der Westen den 'Orient' als sein kulturelles Gegenbild konstruierte, um koloniale Herrschaft zu legitimieren. Als öffentlicher Intellektueller setzte er sich für die Rechte der Palästinenser und den interkulturellen Dialog ein.",
+  "biografie": {
+    "fruehesLeben": "Edward Wadie Said wurde 1935 in Jerusalem in eine wohlhabende palästinensische christliche Familie geboren. Nach der Nakba 1948 ging die Familie ins Exil nach Kairo. Said besuchte Eliteschulen in Kairo und den USA und studierte an Princeton und Harvard englische und vergleichende Literaturwissenschaft.",
+    "schaffen": "Said lehrte ab 1963 als Professor für Englische und Vergleichende Literaturwissenschaft an der Columbia University in New York. Sein Hauptwerk 'Orientalismus' (1978) analysierte, wie der Westen den Orient als sein exotisches, primitives Gegenbild konstruierte. 'Kultur und Imperialismus' (1993) erweiterte diese Analyse auf die europäische Literatur. Said war auch ein bedeutender Musikkritiker und enger Freund des Dirigenten Daniel Barenboim.",
+    "spaetesLeben": "Said setzte sich öffentlich für die Rechte der Palästinenser ein, kritisierte aber auch die PLO-Führung. Zusammen mit Daniel Barenboim gründete er das West-Eastern Divan Orchestra als Projekt der musikalischen Verständigung zwischen Israelis und Arabern. 1991 wurde bei ihm Leukämie diagnostiziert, gegen die er über ein Jahrzehnt kämpfte.",
+    "tod": "Edward Said starb am 25. September 2003 in New York an Leukämie. Er hinterließ ein Werk, das die Geisteswissenschaften grundlegend veränderte und die postkoloniale Theorie als eigenständige Disziplin begründete.",
+    "nachwirkung": "Saids 'Orientalismus' ist eines der meistzitierten geisteswissenschaftlichen Werke des 20. Jahrhunderts. Es hat eine neue Sensibilität für die Machtdimensionen kultureller Repräsentationen geschaffen. Die postkoloniale Theorie, die Cultural Studies und die Literaturwissenschaft sind ohne sein Werk nicht denkbar. Das West-Eastern Divan Orchestra setzt sein Vermächtnis des interkulturellen Dialogs fort."
+  },
+  "kernideen": [
+    {
+      "titel": "Orientalismus als Diskurs",
+      "beschreibung": "Der 'Orient' ist keine geographische Realität, sondern eine Konstruktion des westlichen Diskurses. Der Westen hat den Orient als sein exotisches, irrationales, rückständiges Gegenbild erschaffen, um die eigene Überlegenheit zu behaupten und koloniale Herrschaft zu legitimieren."
+    },
+    {
+      "titel": "Kultur und Imperialismus",
+      "beschreibung": "Die europäische Hochkultur – Literatur, Musik, Kunst – ist nicht unschuldig, sondern mit dem imperialen Projekt verflochten. Romane wie 'Mansfield Park' legitimieren die koloniale Ordnung durch ihre stillschweigende Akzeptanz. Kultur und Macht sind untrennbar verbunden."
+    },
+    {
+      "titel": "Der Intellektuelle als Exilant",
+      "beschreibung": "Der wahre Intellektuelle ist ein Exilant – jemand, der sich nirgendwo ganz zu Hause fühlt und deshalb die Fähigkeit besitzt, kritische Distanz zu wahren. Das Exil, ob wörtlich oder metaphorisch, schärft den Blick für Ungerechtigkeiten."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Orientalismus (Orientalism)",
+      "jahr": "1978",
+      "beschreibung": "Das Gründungswerk der postkolonialen Theorie, das die westliche Konstruktion des 'Orients' als Machtdiskurs analysiert."
+    },
+    {
+      "titel": "Kultur und Imperialismus (Culture and Imperialism)",
+      "jahr": "1993",
+      "beschreibung": "Eine Erweiterung der Orientalismus-These auf die europäische Literatur und die kulturellen Dimensionen des Imperialismus."
+    },
+    {
+      "titel": "Am falschen Ort (Out of Place)",
+      "jahr": "1999",
+      "beschreibung": "Saids Autobiographie, die seine Kindheit zwischen Jerusalem, Kairo und den USA schildert und die Erfahrung des Exils reflektiert."
+    },
+    {
+      "titel": "Götter, die keine sind (Representations of the Intellectual)",
+      "jahr": "1994",
+      "beschreibung": "Eine Reflexion über die Rolle des Intellektuellen als Stimme der Wahrheit gegenüber der Macht."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Der Orient ist eine europäische Erfindung.",
+      "quelle": "Orientalismus",
+      "kontext": "Die Kernthese des Orientalismus: Der Orient existiert nicht als objektive Realität, sondern als westliche Konstruktion."
+    },
+    {
+      "text": "Jeder Intellektuelle hat ein Publikum und eine Sache, für die er eintritt.",
+      "quelle": "Götter, die keine sind",
+      "kontext": "Saids Überzeugung, dass Intellektuelle die Pflicht haben, sich gegen Unrecht einzusetzen."
+    },
+    {
+      "text": "Das Exil ist eines der traurigsten Schicksale – und eines der lehrreichsten.",
+      "quelle": "Am falschen Ort",
+      "kontext": "Saids Reflexion über die Erfahrung des Exils als Quelle kritischer Erkenntnis."
+    }
+  ],
+  "verwandtePhilosophen": ["frantz-fanon", "michel-foucault", "antonio-gramsci"],
+  "verwandteIsmen": ["postkolonialismus"]
+}

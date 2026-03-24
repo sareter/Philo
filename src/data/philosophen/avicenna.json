@@ -1,0 +1,79 @@
+{
+  "slug": "avicenna",
+  "name": "Avicenna (Ibn Sina)",
+  "lebensdaten": "980–1037",
+  "geboren": {
+    "jahr": 980,
+    "ort": "Afshana",
+    "land": "Persien",
+    "lat": 39.6,
+    "lng": 64.4
+  },
+  "gestorben": {
+    "jahr": 1037,
+    "ort": "Hamadan",
+    "land": "Persien",
+    "lat": 34.8,
+    "lng": 48.5
+  },
+  "epoche": "Mittelalter",
+  "region": "Naher Osten",
+  "hauptstroemungen": ["Aristotelismus", "Rationalismus"],
+  "kurzbeschreibung": "Avicenna (Ibn Sina) war ein persischer Universalgelehrter, Arzt und Philosoph, der als einer der bedeutendsten Denker der islamischen Welt gilt. Sein 'Kanon der Medizin' war über Jahrhunderte das maßgebliche medizinische Lehrbuch in Europa und der islamischen Welt. Philosophisch verband er aristotelisches Denken mit neuplatonischen und islamischen Elementen zu einer einflussreichen Synthese.",
+  "biografie": {
+    "fruehesLeben": "Ibn Sina wurde 980 in Afshana bei Buchara im heutigen Usbekistan geboren. Er war ein Wunderkind, das bereits mit zehn Jahren den Koran auswendig kannte und mit sechzehn als praktizierender Arzt arbeitete. Mit achtzehn hatte er sich das gesamte verfügbare Wissen seiner Zeit angeeignet.",
+    "schaffen": "Avicenna verfasste über 450 Werke, von denen etwa 240 erhalten sind. Sein 'Buch der Heilung' (Kitab al-Shifa) ist eine umfassende philosophische Enzyklopädie, die Logik, Physik, Mathematik und Metaphysik behandelt. Der 'Kanon der Medizin' systematisierte das gesamte medizinische Wissen seiner Zeit und blieb bis ins 17. Jahrhundert ein Standardwerk.",
+    "spaetesLeben": "Avicenna führte ein unruhiges Leben am Hof verschiedener persischer Herrscher, diente als Wesir und wurde mehrfach inhaftiert. Trotz politischer Wirren schrieb er unermüdlich weiter. Seine letzten Jahre verbrachte er in Hamadan, wo er als Arzt und Berater tätig war.",
+    "tod": "Avicenna starb 1037 im Alter von 57 Jahren in Hamadan, möglicherweise an einer Darmerkrankung. Sein Grab in Hamadan ist bis heute eine bedeutende Gedenkstätte. Er hinterließ ein gewaltiges Werk, das sowohl die islamische als auch die europäische Geistesgeschichte nachhaltig prägte.",
+    "nachwirkung": "Avicennas philosophische und medizinische Werke wurden ins Lateinische übersetzt und beeinflussten das europäische Mittelalter tiefgreifend. Thomas von Aquin setzte sich intensiv mit seinen Gedanken auseinander. In der islamischen Welt gilt er als einer der größten Denker, und sein medizinisches Erbe wirkt bis heute nach."
+  },
+  "kernideen": [
+    {
+      "titel": "Unterscheidung von Wesen und Existenz",
+      "beschreibung": "Avicenna unterschied zwischen dem Wesen (Essenz) eines Dinges und seiner tatsächlichen Existenz. Nur bei Gott fallen Wesen und Existenz zusammen – er ist das notwendig Existierende. Alle anderen Dinge sind in ihrem Wesen nur möglich und bedürfen einer Ursache für ihre Existenz."
+    },
+    {
+      "titel": "Der schwebende Mensch",
+      "beschreibung": "Avicennas berühmtes Gedankenexperiment: Ein Mensch, der schwebend und ohne Sinneseindrücke erschaffen wird, würde dennoch seiner eigenen Existenz gewiss sein. Dies beweist, dass das Selbstbewusstsein unabhängig vom Körper und den Sinnen ist."
+    },
+    {
+      "titel": "Emanationslehre",
+      "beschreibung": "Die Welt geht aus Gott durch einen Prozess der Emanation hervor – aus dem notwendig Existierenden fließen die verschiedenen Intelligenzen und Sphären. Diese neuplatonisch inspirierte Kosmologie versuchte Avicenna mit dem aristotelischen und islamischen Weltbild zu verbinden."
+    },
+    {
+      "titel": "Stufenlehre des Intellekts",
+      "beschreibung": "Avicenna unterschied verschiedene Stufen des menschlichen Intellekts, vom potentiellen über den aktuellen bis zum erworbenen Intellekt. Durch den aktiven Intellekt, der die höchste kosmische Intelligenz ist, empfängt der Mensch Erkenntnis und kann zur philosophischen Vollkommenheit gelangen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Kanon der Medizin (Al-Qanun fi al-Tibb)",
+      "jahr": "1025",
+      "beschreibung": "Das umfassendste medizinische Lehrbuch der vormodernen Welt, das über Jahrhunderte an europäischen und islamischen Universitäten als Standardwerk diente."
+    },
+    {
+      "titel": "Buch der Heilung (Kitab al-Shifa)",
+      "jahr": "1027",
+      "beschreibung": "Eine enzyklopädische Darstellung der Philosophie, die Logik, Naturphilosophie, Mathematik und Metaphysik umfasst und Avicennas philosophisches Hauptwerk darstellt."
+    },
+    {
+      "titel": "Buch der Hinweise und Bemerkungen (Al-Isharat wa-l-Tanbihat)",
+      "jahr": "1034",
+      "beschreibung": "Ein Spätwerk, das Avicennas reifste philosophische Gedanken in komprimierter Form präsentiert, einschließlich seiner mystischen Philosophie."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Breite der Seele eines Menschen kann man an drei Dingen messen: der Fähigkeit zu lieben, der Fähigkeit zu leiden und der Fähigkeit zu vergeben.",
+      "quelle": "Buch der Heilung",
+      "kontext": "Avicennas Reflexion über die menschliche Seele und ihre Fähigkeiten."
+    },
+    {
+      "text": "Der Arzt betrachtet den Körper als ein Ganzes, dessen Teile miteinander verbunden sind.",
+      "quelle": "Kanon der Medizin",
+      "kontext": "Ein Grundprinzip der avicennischen Medizin, das den ganzheitlichen Ansatz betont."
+    }
+  ],
+  "verwandtePhilosophen": ["averroes", "maimonides", "aristoteles", "thomas-von-aquin"],
+  "verwandteIsmen": ["aristotelismus", "rationalismus"]
+}

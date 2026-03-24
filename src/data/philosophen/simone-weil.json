@@ -1,0 +1,86 @@
+{
+  "slug": "simone-weil",
+  "name": "Simone Weil",
+  "lebensdaten": "1909–1943",
+  "geboren": {
+    "jahr": 1909,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.86,
+    "lng": 2.35
+  },
+  "gestorben": {
+    "jahr": 1943,
+    "ort": "Ashford",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.15,
+    "lng": 0.87
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Mystizismus", "Sozialismus"],
+  "kurzbeschreibung": "Simone Weil war eine französische Philosophin, Mystikerin und politische Aktivistin, die in ihrem kurzen Leben ein außergewöhnlich tiefes Werk hinterließ. Ihr Denken verbindet soziale Gerechtigkeit mit mystischer Spiritualität und stellt die Aufmerksamkeit und das Mitleiden ins Zentrum der Philosophie. Albert Camus nannte sie 'den einzigen großen Geist unserer Zeit'.",
+  "biografie": {
+    "fruehesLeben": "Simone Weil wurde 1909 in Paris in eine säkulare jüdische Familie geboren; ihr Bruder André wurde ein bedeutender Mathematiker. Sie studierte Philosophie an der École Normale Supérieure bei Alain und war eine brillante Studentin. Schon früh engagierte sie sich in der Arbeiterbewegung und der Gewerkschaftsbewegung.",
+    "schaffen": "Weil arbeitete als Fabrikarbeiterin, um die Lage der Arbeiterklasse am eigenen Leib zu erfahren, und kämpfte im Spanischen Bürgerkrieg. Ihre philosophischen Schriften kreisen um die Themen Aufmerksamkeit, Schwerkraft und Gnade, Entwurzelung und die Bedürfnisse der Seele. Ab 1938 hatte sie mystische Erfahrungen, die ihr Denken zutiefst verwandelten, ohne dass sie der Kirche beitrat.",
+    "spaetesLeben": "Nach der deutschen Besetzung Frankreichs floh Weil mit ihrer Familie nach New York und dann nach London, wo sie für die Freie Französische Regierung arbeitete. In London schrieb sie ihr Hauptwerk 'Die Einwurzelung'. Sie weigerte sich, mehr zu essen als die Rationen der Bevölkerung im besetzten Frankreich.",
+    "tod": "Simone Weil starb am 24. August 1943 in einem Sanatorium in Ashford, Kent, im Alter von nur 34 Jahren an Tuberkulose, verschärft durch ihre Weigerung, ausreichend Nahrung zu sich zu nehmen. Der Gerichtsmediziner stellte 'Selbstmord durch Nahrungsverweigerung bei gestörtem Geisteszustand' fest. Ihr fast vollständig posthum veröffentlichtes Werk entfaltete eine enorme Wirkung.",
+    "nachwirkung": "Simone Weils Werk wurde fast ausschließlich posthum veröffentlicht und hat Denker wie Albert Camus, T.S. Eliot und Iris Murdoch tief beeinflusst. Ihre Philosophie der Aufmerksamkeit wird in der Ethik, der Religionsphilosophie und der politischen Theorie intensiv rezipiert. Sie gilt als eine der originellsten Denkerinnen des 20. Jahrhunderts."
+  },
+  "kernideen": [
+    {
+      "titel": "Aufmerksamkeit (Attention)",
+      "beschreibung": "Die Aufmerksamkeit ist die reinste und seltenste Form der Großzügigkeit. Sie besteht darin, das eigene Denken auszusetzen und sich dem anderen oder der Wahrheit vollkommen zu öffnen. Aufmerksamkeit ist zugleich eine intellektuelle, ethische und spirituelle Tugend."
+    },
+    {
+      "titel": "Schwerkraft und Gnade (Pesanteur et Grâce)",
+      "beschreibung": "Das menschliche Leben steht unter dem Gesetz der Schwerkraft – der natürlichen Tendenz zur Trägheit, zur Gewalt und zur Selbstbezogenheit. Die Gnade ist die übernatürliche Kraft, die diese Schwerkraft überwindet. Nur durch die Gnade kann der Mensch zu wahrer Aufmerksamkeit und Liebe fähig werden."
+    },
+    {
+      "titel": "Das Unglück (Le Malheur)",
+      "beschreibung": "Das Unglück ist mehr als Leid – es ist die Zerstörung der menschlichen Person durch soziale Degradierung, physischen Schmerz und seelische Erschütterung zugleich. Wahre Aufmerksamkeit für das Unglück anderer ist die schwierigste und wichtigste moralische Leistung."
+    },
+    {
+      "titel": "Entwurzelung und Einwurzelung",
+      "beschreibung": "Die Entwurzelung ist die gefährlichste Krankheit der modernen Gesellschaft. Jeder Mensch braucht Wurzeln – in einer Gemeinschaft, einer Tradition, einem Beruf. Die Einwurzelung ist das wichtigste und am meisten vernachlässigte Bedürfnis der menschlichen Seele."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Schwerkraft und Gnade (La Pesanteur et la Grâce)",
+      "jahr": "1947",
+      "beschreibung": "Eine posthume Auswahl aus Weils Notizbüchern, zusammengestellt von Gustave Thibon, die ihre mystisch-philosophischen Reflexionen über Schwerkraft, Gnade und Aufmerksamkeit enthält."
+    },
+    {
+      "titel": "Die Einwurzelung (L'Enracinement)",
+      "jahr": "1949",
+      "beschreibung": "Weils letztes und umfassendstes Werk, ein Entwurf für den Wiederaufbau Frankreichs nach dem Krieg, der die Bedürfnisse der menschlichen Seele analysiert."
+    },
+    {
+      "titel": "Warten auf Gott (Attente de Dieu)",
+      "jahr": "1950",
+      "beschreibung": "Eine Sammlung von Briefen und Essays über Weils mystische Erfahrungen und ihr Verhältnis zum Christentum, dem sie sich nahe fühlte, ohne der Kirche beizutreten."
+    },
+    {
+      "titel": "Fabriktagebuch (La condition ouvrière)",
+      "jahr": "1951",
+      "beschreibung": "Weils Aufzeichnungen über ihre Erfahrungen als Fabrikarbeiterin, die eine eindringliche Analyse der Entfremdung und Entmenschlichung in der industriellen Arbeit darstellen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Aufmerksamkeit ist die seltenste und reinste Form der Großzügigkeit.",
+      "quelle": "Briefe"
+    },
+    {
+      "text": "Alle Sünden sind Versuche, eine Leere zu füllen.",
+      "quelle": "Schwerkraft und Gnade"
+    },
+    {
+      "text": "Die Einwurzelung ist vielleicht das wichtigste und am meisten verkannte Bedürfnis der menschlichen Seele.",
+      "quelle": "Die Einwurzelung"
+    }
+  ],
+  "verwandtePhilosophen": ["albert-camus", "simone-de-beauvoir", "maria-zambrano", "karl-marx"],
+  "verwandteIsmen": ["mystizismus", "sozialismus"]
+}

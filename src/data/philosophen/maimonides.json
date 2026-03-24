@@ -1,0 +1,84 @@
+{
+  "slug": "maimonides",
+  "name": "Moses Maimonides",
+  "lebensdaten": "1138–1204",
+  "geboren": {
+    "jahr": 1138,
+    "ort": "Córdoba",
+    "land": "Spanien",
+    "lat": 37.88,
+    "lng": -4.77
+  },
+  "gestorben": {
+    "jahr": 1204,
+    "ort": "Kairo",
+    "land": "Ägypten",
+    "lat": 30.04,
+    "lng": 31.24
+  },
+  "epoche": "Mittelalter",
+  "region": "Naher Osten",
+  "hauptstroemungen": ["Rationalismus", "Thomismus"],
+  "kurzbeschreibung": "Moses Maimonides (Mose ben Maimon) war ein jüdischer Philosoph, Rechtsgelehrter und Arzt, der als einer der bedeutendsten jüdischen Denker aller Zeiten gilt. Sein 'Führer der Unschlüssigen' versuchte, die aristotelische Philosophie mit dem jüdischen Glauben zu versöhnen. Als Leibarzt des ägyptischen Sultans Saladin verband er praktische Medizin mit tiefgründiger religiöser Philosophie.",
+  "biografie": {
+    "fruehesLeben": "Maimonides wurde 1138 in Córdoba in eine angesehene jüdische Familie geboren. Als die Almohaden 1148 Córdoba eroberten und die jüdische Gemeinde vor die Wahl zwischen Konversion und Vertreibung stellten, floh die Familie. Nach Jahren der Wanderschaft durch Spanien und Nordafrika ließ sich die Familie schließlich in Fes (Marokko) nieder.",
+    "schaffen": "In Ägypten stieg Maimonides zum Oberhaupt der jüdischen Gemeinde und zum Leibarzt des Sultans Saladin auf. Er verfasste sein religionsgesetzliches Hauptwerk 'Mischne Tora', eine systematische Kodifizierung des jüdischen Rechts. Sein philosophisches Meisterwerk 'Führer der Unschlüssigen' (Moreh Nevuchim) versöhnte aristotelische Philosophie mit dem jüdischen Glauben.",
+    "spaetesLeben": "In seinen späten Jahren war Maimonides als Arzt so gefragt, dass er kaum Zeit für seine philosophischen und religiösen Studien fand. Er beschrieb seinen erschöpfenden Tagesablauf in berühmten Briefen. Trotzdem verfasste er weiterhin medizinische und philosophische Schriften.",
+    "tod": "Maimonides starb 1204 in Fustat (Alt-Kairo) und wurde in Tiberias am See Genezareth beigesetzt. Sein Tod wurde in der gesamten jüdischen Welt betrauert. Über seinem Grab steht die Inschrift: 'Von Moses bis Moses gab es keinen wie Moses.'",
+    "nachwirkung": "Maimonides' Einfluss auf die jüdische Philosophie und das Religionsrecht ist unermesslich. Sein 'Führer der Unschlüssigen' beeinflusste nicht nur jüdische, sondern auch christliche Denker wie Thomas von Aquin. Seine rationale Methodik und sein Versuch der Harmonisierung von Glauben und Vernunft sind bis heute relevant."
+  },
+  "kernideen": [
+    {
+      "titel": "Negative Theologie",
+      "beschreibung": "Maimonides argumentierte, dass wir nur sagen können, was Gott nicht ist, nicht was er ist. Jede positive Aussage über Gott würde ihn begrenzen und vermenschlichen. Diese radikale negative Theologie schützt die absolute Transzendenz Gottes."
+    },
+    {
+      "titel": "Harmonie von Philosophie und Offenbarung",
+      "beschreibung": "Vernunft und göttliche Offenbarung können einander nicht widersprechen, da beide von Gott stammen. Wo scheinbare Widersprüche auftreten, muss die biblische Aussage allegorisch gedeutet werden. Die Philosophie dient der tieferen Erkenntnis der religiösen Wahrheit."
+    },
+    {
+      "titel": "Dreizehn Glaubensgrundsätze",
+      "beschreibung": "Maimonides formulierte dreizehn grundlegende Prinzipien des jüdischen Glaubens, darunter die Existenz und Einheit Gottes, die Prophetie des Moses und die Auferstehung der Toten. Diese wurden zu einer wichtigen Grundlage jüdischer Theologie."
+    },
+    {
+      "titel": "Stufen der Vollkommenheit",
+      "beschreibung": "Maimonides unterschied vier Stufen menschlicher Vollkommenheit: Besitz, körperliche Vorzüge, moralische Tugend und intellektuelle Tugend. Nur die intellektuelle Erkenntnis Gottes führt zur höchsten Vollkommenheit und zum wahren Glück."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Führer der Unschlüssigen (Moreh Nevuchim)",
+      "jahr": "1190",
+      "beschreibung": "Das philosophische Hauptwerk, das die aristotelische Philosophie mit dem jüdischen Glauben versöhnt und tiefgreifend über Gottesbeweise, Prophetie und das Problem des Bösen reflektiert."
+    },
+    {
+      "titel": "Mischne Tora",
+      "jahr": "1180",
+      "beschreibung": "Eine systematische Kodifizierung des gesamten jüdischen Religionsgesetzes in vierzehn Büchern, die bis heute eine autoritative Quelle des jüdischen Rechts darstellt."
+    },
+    {
+      "titel": "Kommentar zur Mischna",
+      "jahr": "1168",
+      "beschreibung": "Ein umfassender Kommentar zum rabbinischen Gesetzeswerk, der in arabischer Sprache verfasst wurde und die Dreizehn Glaubensgrundsätze enthält."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Lehre deine Zunge zu sagen: Ich weiß es nicht.",
+      "quelle": "Führer der Unschlüssigen",
+      "kontext": "Maimonides' Betonung intellektueller Bescheidenheit als Tugend des wahren Philosophen."
+    },
+    {
+      "text": "Die höchste Stufe der Wohltätigkeit ist, dem Bedürftigen zu helfen, sich selbst zu helfen.",
+      "quelle": "Mischne Tora",
+      "kontext": "Maimonides' berühmte acht Stufen der Wohltätigkeit (Zedaka), die Hilfe zur Selbsthilfe als höchste Form betrachten."
+    },
+    {
+      "text": "Der Mensch soll immer den Mittelweg wählen.",
+      "quelle": "Mischne Tora",
+      "kontext": "Die aristotelisch inspirierte Tugendlehre des Maimonides, die Mäßigung als Ideal betont."
+    }
+  ],
+  "verwandtePhilosophen": ["avicenna", "averroes", "thomas-von-aquin", "aristoteles"],
+  "verwandteIsmen": ["rationalismus", "thomismus"]
+}

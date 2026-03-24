@@ -1,0 +1,80 @@
+{
+  "slug": "cornel-west",
+  "name": "Cornel West",
+  "lebensdaten": "1953–",
+  "geboren": {
+    "jahr": 1953,
+    "ort": "Tulsa",
+    "land": "USA",
+    "lat": 36.15,
+    "lng": -95.99
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Nordamerika",
+  "hauptstroemungen": ["Pragmatismus"],
+  "kurzbeschreibung": "Cornel West ist ein amerikanischer Philosoph, politischer Aktivist und öffentlicher Intellektueller, der den amerikanischen Pragmatismus mit afroamerikanischer Tradition und prophetischem Christentum verbindet. Sein Werk 'Race Matters' machte ihn zu einem der bekanntesten öffentlichen Denker der USA. Er verbindet akademische Philosophie mit leidenschaftlichem politischen Engagement für soziale Gerechtigkeit.",
+  "biografie": {
+    "fruehesLeben": "Cornel West wurde 1953 in Tulsa, Oklahoma, geboren und wuchs in Sacramento, Kalifornien, auf. Er studierte an der Harvard University und promovierte in Princeton, wo er eine Synthese aus amerikanischem Pragmatismus, Marxismus und christlicher Prophetie entwickelte.",
+    "schaffen": "Wests Hauptwerk 'Race Matters' (1993) verbindet philosophische Analyse mit persönlichem Essay und wurde ein Bestseller. In 'The American Evasion of Philosophy' (1989) rekonstruiert er die pragmatistische Tradition als eine spezifisch amerikanische Form des kritischen Denkens. Er hat zahlreiche weitere Bücher, Essays und Vorträge veröffentlicht.",
+    "spaetesLeben": "West lehrte an Harvard, Princeton und der Union Theological Seminary und war als politischer Aktivist und Kommentator in den öffentlichen Medien präsent. Er kandidierte 2024 als unabhängiger Kandidat für das Präsidentenamt der USA.",
+    "tod": "Cornel West lebt und ist weiterhin als Philosoph und Aktivist tätig.",
+    "nachwirkung": "West hat die Rolle des öffentlichen Intellektuellen in den USA neu definiert und gezeigt, dass philosophisches Denken politisch relevant und allgemein zugänglich sein kann. Sein Einfluss reicht weit über die akademische Philosophie hinaus."
+  },
+  "kernideen": [
+    {
+      "titel": "Prophetischer Pragmatismus",
+      "beschreibung": "West verbindet den amerikanischen Pragmatismus von James und Dewey mit der prophetischen Tradition des afroamerikanischen Christentums. Philosophie soll nicht nur die Welt beschreiben, sondern zum Kampf gegen Ungerechtigkeit und Unterdrückung beitragen."
+    },
+    {
+      "titel": "Rassismus als philosophisches Problem",
+      "beschreibung": "West analysiert den Rassismus nicht nur als politisches oder ökonomisches, sondern als tiefes philosophisches und existenzielles Problem, das die gesamte amerikanische Kultur durchdringt und die Menschlichkeit sowohl der Unterdrückten als auch der Unterdrücker verletzt."
+    },
+    {
+      "titel": "Demokratie als Lebensform",
+      "beschreibung": "Demokratie ist für West nicht nur eine politische Ordnung, sondern eine Lebensform, die auf gegenseitigem Respekt, Dialog und dem Engagement für das Gemeinwohl beruht. Echte Demokratie erfordert den ständigen Kampf gegen Armut, Rassismus und Imperialismus."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Race Matters",
+      "jahr": "1993",
+      "beschreibung": "Wests bekanntestes Werk, eine Sammlung von Essays über Rasse, Demokratie und die Krise der afroamerikanischen Gemeinschaft, die zum Bestseller wurde."
+    },
+    {
+      "titel": "The American Evasion of Philosophy",
+      "jahr": "1989",
+      "beschreibung": "Eine genealogische Rekonstruktion der pragmatistischen Tradition als spezifisch amerikanische Form des philosophischen Denkens."
+    },
+    {
+      "titel": "Democracy Matters",
+      "jahr": "2004",
+      "beschreibung": "Eine leidenschaftliche Verteidigung der demokratischen Ideale gegen ihre Aushöhlung durch Imperialismus, Plutokratie und Nihilismus."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Gerechtigkeit ist, wie die Liebe in der Öffentlichkeit aussieht.",
+      "quelle": "Öffentliche Rede",
+      "kontext": "Wests berühmteste Formulierung, die seine Verbindung von Ethik, Politik und prophetischem Engagement zusammenfasst."
+    },
+    {
+      "text": "Rasse ist wichtig – in jedem Bereich des amerikanischen Lebens.",
+      "quelle": "Race Matters",
+      "kontext": "Die Grundthese von Wests einflussreichstem Werk über die Allgegenwart des Rassismus in den USA."
+    },
+    {
+      "text": "Mut ist nicht die Abwesenheit von Verzweiflung, sondern die Fähigkeit, sich trotz der Verzweiflung weiterzubewegen.",
+      "quelle": "Hope on a Tightrope",
+      "kontext": "Wests existenzielle Definition des Mutes als Grundtugend des engagierten Lebens."
+    }
+  ],
+  "verwandtePhilosophen": ["william-james", "john-dewey", "kwame-anthony-appiah"],
+  "verwandteIsmen": ["pragmatismus"]
+}

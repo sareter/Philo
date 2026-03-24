@@ -1,0 +1,82 @@
+{
+  "slug": "maria-zambrano",
+  "name": "María Zambrano",
+  "lebensdaten": "1904–1991",
+  "geboren": {
+    "jahr": 1904,
+    "ort": "Vélez-Málaga",
+    "land": "Spanien",
+    "lat": 36.78,
+    "lng": -4.1
+  },
+  "gestorben": {
+    "jahr": 1991,
+    "ort": "Madrid",
+    "land": "Spanien",
+    "lat": 40.42,
+    "lng": -3.7
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Existenzialismus", "Mystizismus"],
+  "kurzbeschreibung": "María Zambrano war eine spanische Philosophin, die eine einzigartige Verbindung von poetischem Denken, Mystik und politischer Philosophie schuf. Ihr Konzept der 'razón poética' (poetische Vernunft) stellt eine Alternative zum rationalistischen Denken dar. Nach jahrzehntelangem Exil wurde sie 1988 mit dem Cervantes-Preis ausgezeichnet.",
+  "biografie": {
+    "fruehesLeben": "María Zambrano wurde 1904 in Vélez-Málaga als Tochter eines Lehrers und Pädagogen geboren. Sie studierte Philosophie an der Universidad Central de Madrid bei José Ortega y Gasset und Xavier Zubiri. Die intellektuelle Atmosphäre der spanischen Republik prägte ihr frühes Denken.",
+    "schaffen": "Zambrano entwickelte die 'razón poética' als eigenständigen philosophischen Ansatz, der die Grenzen des rationalistischen Denkens durch poetische und mystische Erfahrung überschreitet. Ihre Werke verbinden spanische Mystik, griechische Philosophie und moderne Phänomenologie. Im Exil entstanden ihre wichtigsten Werke, darunter 'El hombre y lo divino' und 'Claros del bosque'.",
+    "spaetesLeben": "Nach fast 45 Jahren im Exil in verschiedenen lateinamerikanischen und europäischen Ländern kehrte Zambrano 1984 nach Spanien zurück. Sie erhielt zahlreiche Ehrungen, darunter 1981 den Príncipe de Asturias-Preis und 1988 als erste Frau den Cervantes-Preis, die höchste literarische Auszeichnung der spanischsprachigen Welt.",
+    "tod": "María Zambrano starb am 6. Februar 1991 in Madrid im Alter von 86 Jahren. Ihr Tod wurde als Verlust einer der bedeutendsten Denkerinnen Spaniens betrauert. Ihr Werk wird heute zunehmend als eigenständiger Beitrag zur europäischen Philosophie anerkannt.",
+    "nachwirkung": "Zambranos Philosophie der poetischen Vernunft gewinnt in der zeitgenössischen Philosophie an Bedeutung, besonders in der Phänomenologie, der feministischen Philosophie und der interkulturellen Hermeneutik. Ihr Denken wird als Alternative zum rationalistischen Mainstream der westlichen Philosophie geschätzt."
+  },
+  "kernideen": [
+    {
+      "titel": "Razón poética (Poetische Vernunft)",
+      "beschreibung": "Die poetische Vernunft ist eine Erkenntnisweise, die über die analytische Rationalität hinausgeht, ohne irrational zu sein. Sie verbindet Denken und Fühlen, Philosophie und Poesie in einer umfassenderen Form des Verstehens. Die Wirklichkeit offenbart sich in der poetischen Erfahrung tiefer als im begrifflichen Denken."
+    },
+    {
+      "titel": "Die Lichtungen des Waldes",
+      "beschreibung": "Zambrano verwendet die Metapher der 'Lichtungen im Wald' für Momente der Offenbarung inmitten der Dunkelheit des Lebens. In diesen Augenblicken der Klarheit zeigt sich das Heilige und die verborgene Ordnung der Dinge. Sie sind Erfahrungen jenseits des begrifflichen Denkens."
+    },
+    {
+      "titel": "Der Mensch und das Göttliche",
+      "beschreibung": "Das Verhältnis des Menschen zum Göttlichen ist keine dogmatische Angelegenheit, sondern eine existentielle Erfahrung, die sich in verschiedenen kulturellen Formen ausdrückt. Die Geschichte der Philosophie ist auch eine Geschichte der Verwandlungen des Göttlichen im menschlichen Bewusstsein."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Philosophie und Poesie (Filosofía y poesía)",
+      "jahr": "1939",
+      "beschreibung": "Zambranos erstes Hauptwerk, in dem sie die Trennung von Philosophie und Poesie seit Platon analysiert und ihre Wiedervereinigung in der poetischen Vernunft fordert."
+    },
+    {
+      "titel": "Der Mensch und das Göttliche (El hombre y lo divino)",
+      "jahr": "1955",
+      "beschreibung": "Eine philosophische Geschichte des Verhältnisses zwischen Mensch und Göttlichem von den griechischen Anfängen bis zur Moderne."
+    },
+    {
+      "titel": "Lichtungen des Waldes (Claros del bosque)",
+      "jahr": "1977",
+      "beschreibung": "Zambranos poetischstes Werk, eine Sammlung meditativer Fragmente über Erkenntnis, Stille und die Erfahrung des Heiligen."
+    },
+    {
+      "titel": "Die Agonie Europas (La agonía de Europa)",
+      "jahr": "1945",
+      "beschreibung": "Eine Reflexion über die geistige Krise Europas, geschrieben aus der Erfahrung des Exils und des Zweiten Weltkriegs."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Das Denken braucht eine Lichtung, eine Öffnung im Dickicht des Lebens, um zu sich selbst zu kommen.",
+      "quelle": "Lichtungen des Waldes"
+    },
+    {
+      "text": "Philosophie und Poesie sind die beiden Formen, in denen der Mensch das Wort findet.",
+      "quelle": "Philosophie und Poesie"
+    },
+    {
+      "text": "Das Exil ist der Ort, an dem man lernt, dass die wahre Heimat im Denken liegt.",
+      "quelle": "Die Beichte als literarische Gattung"
+    }
+  ],
+  "verwandtePhilosophen": ["martin-heidegger", "edmund-husserl", "simone-weil"],
+  "verwandteIsmen": ["existenzialismus", "mystizismus"]
+}

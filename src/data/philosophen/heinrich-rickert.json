@@ -1,0 +1,75 @@
+{
+  "slug": "heinrich-rickert",
+  "name": "Heinrich Rickert",
+  "lebensdaten": "1863–1936",
+  "geboren": {
+    "jahr": 1863,
+    "ort": "Danzig",
+    "land": "Deutschland",
+    "lat": 54.35,
+    "lng": 18.65
+  },
+  "gestorben": {
+    "jahr": 1936,
+    "ort": "Heidelberg",
+    "land": "Deutschland",
+    "lat": 49.4,
+    "lng": 8.69
+  },
+  "epoche": "19. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Neukantianismus"],
+  "kurzbeschreibung": "Heinrich Rickert war ein deutscher Philosoph und neben seinem Lehrer Windelband der wichtigste Vertreter der Südwestdeutschen Schule des Neukantianismus. Er entwickelte eine systematische Wissenschaftstheorie, die zwischen Natur- und Kulturwissenschaften unterscheidet, und eine Wertphilosophie, die Werte als transzendente Geltungen begreift. Als Lehrer Martin Heideggers beeinflusste er auch die Phänomenologie.",
+  "biografie": {
+    "fruehesLeben": "Heinrich Rickert wurde 1863 in Danzig (heute Gdańsk) geboren. Er studierte in Berlin, Zürich und Straßburg bei Wilhelm Windelband, dessen Schüler und philosophischer Erbe er wurde.",
+    "schaffen": "Rickert entwickelte Windelbands Unterscheidung zwischen Natur- und Kulturwissenschaften systematisch weiter. Sein Hauptwerk 'Die Grenzen der naturwissenschaftlichen Begriffsbildung' (1896/1902) argumentiert, dass die Kulturwissenschaften nicht nach allgemeinen Gesetzen, sondern nach individuellen Wertbezügen fragen. In 'Der Gegenstand der Erkenntnis' entwickelte er eine transzendentale Wertphilosophie.",
+    "spaetesLeben": "Rickert folgte Windelband auf den Lehrstuhl in Heidelberg und lehrte dort bis zu seinem Tod. Zu seinen Schülern gehörten Martin Heidegger und Emil Lask.",
+    "tod": "Heinrich Rickert starb 1936 in Heidelberg. Sein Neukantianismus wurde zu diesem Zeitpunkt bereits von der Phänomenologie und dem Existenzialismus verdrängt.",
+    "nachwirkung": "Rickerts Wissenschaftstheorie hat die Methodendiskussion in den Sozial- und Geisteswissenschaften nachhaltig geprägt. Max Webers Konzept der 'Wertbeziehung' ist direkt von Rickert beeinflusst."
+  },
+  "kernideen": [
+    {
+      "titel": "Natur- und Kulturwissenschaften",
+      "beschreibung": "Rickert unterscheidet zwischen Naturwissenschaften, die das Allgemeine durch Gesetze erfassen, und Kulturwissenschaften, die das Individuelle und Einmalige in seiner Wertbedeutung darstellen. Kultur ist dasjenige, dem Werte anhaften."
+    },
+    {
+      "titel": "Wertbeziehung",
+      "beschreibung": "Die Kulturwissenschaften beziehen ihre Gegenstände auf Werte, ohne sie zu bewerten. Diese 'Wertbeziehung' ermöglicht es, das Wesentliche vom Unwesentlichen zu unterscheiden, ohne in subjektive Wertung zu verfallen."
+    },
+    {
+      "titel": "Transzendente Wertgeltung",
+      "beschreibung": "Werte existieren nicht in der Wirklichkeit, sondern gelten jenseits von Sein und Nichtsein. Sie sind weder subjektive Gefühle noch objektive Dinge, sondern transzendente Geltungen, die das Urteil normieren."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Grenzen der naturwissenschaftlichen Begriffsbildung",
+      "jahr": "1896",
+      "beschreibung": "Rickerts wissenschaftstheoretisches Hauptwerk, das die methodologische Eigenständigkeit der Kulturwissenschaften gegenüber den Naturwissenschaften begründet."
+    },
+    {
+      "titel": "Der Gegenstand der Erkenntnis",
+      "jahr": "1892",
+      "beschreibung": "Eine erkenntnistheoretische Grundlegung, die den Gegenstand der Erkenntnis als transzendenten Wert bestimmt."
+    },
+    {
+      "titel": "Kulturwissenschaft und Naturwissenschaft",
+      "jahr": "1899",
+      "beschreibung": "Eine allgemeinverständliche Darstellung von Rickerts Wissenschaftstheorie, die zwischen generalisierender und individualisierender Methode unterscheidet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Kultur ist der Inbegriff der Gegenstände, an denen allgemein anerkannte Werte haften.",
+      "quelle": "Kulturwissenschaft und Naturwissenschaft",
+      "kontext": "Rickerts Definition von Kultur als wertbezogener Wirklichkeit."
+    },
+    {
+      "text": "Die Naturwissenschaft generalisiert, die Kulturwissenschaft individualisiert.",
+      "quelle": "Die Grenzen der naturwissenschaftlichen Begriffsbildung",
+      "kontext": "Die Grundunterscheidung von Rickerts Wissenschaftstheorie."
+    }
+  ],
+  "verwandtePhilosophen": ["wilhelm-windelband", "hermann-lotze", "ernst-troeltsch", "immanuel-kant"],
+  "verwandteIsmen": ["neukantianismus"]
+}

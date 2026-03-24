@@ -1,0 +1,89 @@
+{
+  "slug": "erich-fromm",
+  "name": "Erich Fromm",
+  "lebensdaten": "1900–1980",
+  "geboren": {
+    "jahr": 1900,
+    "ort": "Frankfurt",
+    "land": "Deutschland",
+    "lat": 50.11,
+    "lng": 8.68
+  },
+  "gestorben": {
+    "jahr": 1980,
+    "ort": "Muralto",
+    "land": "Schweiz",
+    "lat": 46.17,
+    "lng": 8.8
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Marxismus", "Humanismus"],
+  "kurzbeschreibung": "Erich Fromm war ein deutsch-amerikanischer Psychoanalytiker, Sozialpsychologe und Philosoph, der Marxismus und Psychoanalyse zu einem humanistischen Sozialismus verband. Sein Bestseller 'Die Kunst des Liebens' und seine Analyse der Flucht vor der Freiheit gehören zu den meistgelesenen Werken der humanistischen Psychologie. Er plädierte für eine Gesellschaft, die das Sein über das Haben stellt.",
+  "biografie": {
+    "fruehesLeben": "Erich Fromm wurde 1900 in Frankfurt am Main in eine orthodox-jüdische Familie geboren. Er studierte Soziologie, Psychologie und Philosophie in Heidelberg und wurde am Berliner Psychoanalytischen Institut ausgebildet. Früh interessierte er sich für die Verbindung von Marx und Freud.",
+    "schaffen": "Fromm war Mitglied des Instituts für Sozialforschung (Frankfurter Schule), emigrierte 1934 in die USA und lehrte an verschiedenen Universitäten. 'Die Furcht vor der Freiheit' (1941) analysierte die psychologischen Wurzeln des Autoritarismus. 'Die Kunst des Liebens' (1956) wurde ein Weltbestseller. 'Haben oder Sein' (1976) stellte zwei fundamentale Existenzweisen gegenüber.",
+    "spaetesLeben": "Fromm lebte von 1950 bis 1973 in Mexiko und engagierte sich politisch gegen den Kalten Krieg und die atomare Aufrüstung. Er unterstützte die Friedensbewegung und die amerikanische Bürgerrechtsbewegung. Seine letzten Lebensjahre verbrachte er in Muralto am Lago Maggiore in der Schweiz.",
+    "tod": "Erich Fromm starb am 18. März 1980 in Muralto fünf Tage vor seinem 80. Geburtstag an einem Herzinfarkt. Seine Werke werden weltweit gelesen und sind in über 30 Sprachen übersetzt.",
+    "nachwirkung": "Fromms humanistische Psychologie und sein demokratischer Sozialismus beeinflussten die Studentenbewegung der 1960er Jahre, die humanistische Psychologie und die Friedensbewegung. Seine Diagnose einer konsumorientierten Gesellschaft, die das Haben über das Sein stellt, ist aktueller denn je. 'Die Kunst des Liebens' ist eines der meistgelesenen Sachbücher des 20. Jahrhunderts."
+  },
+  "kernideen": [
+    {
+      "titel": "Flucht vor der Freiheit",
+      "beschreibung": "Die moderne Freiheit erzeugt Angst und Einsamkeit. Viele Menschen fliehen vor dieser Freiheit in Autoritarismus, Konformismus oder Destruktivität. Der Faschismus ist eine solche Flucht vor der unerträglichen Last der individuellen Freiheit."
+    },
+    {
+      "titel": "Haben oder Sein",
+      "beschreibung": "Es gibt zwei grundlegende Existenzweisen: den Modus des Habens (Besitz, Konsum, Kontrolle) und den Modus des Seins (Erleben, Verbundensein, Kreativität). Die moderne Gesellschaft fördert das Haben auf Kosten des Seins und macht die Menschen unglücklich."
+    },
+    {
+      "titel": "Die Kunst des Liebens",
+      "beschreibung": "Liebe ist nicht ein Gefühl, das einem zufällt, sondern eine Kunst, die erlernt und geübt werden muss. Wahre Liebe erfordert Disziplin, Konzentration, Geduld und die Überwindung des Narzissmus. Sie ist die Antwort auf das Problem der menschlichen Existenz."
+    },
+    {
+      "titel": "Humanistischer Sozialismus",
+      "beschreibung": "Fromm verband die marxistische Analyse der Entfremdung mit der psychoanalytischen Theorie und plädierte für einen demokratischen, humanistischen Sozialismus. Eine gesunde Gesellschaft ermöglicht die produktive Entfaltung aller Menschen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Die Furcht vor der Freiheit (Escape from Freedom)",
+      "jahr": "1941",
+      "beschreibung": "Eine Analyse der psychologischen Mechanismen, die Menschen dazu bringen, vor der Freiheit in Autoritarismus und Konformismus zu fliehen."
+    },
+    {
+      "titel": "Die Kunst des Liebens (The Art of Loving)",
+      "jahr": "1956",
+      "beschreibung": "Der Weltbestseller über die Liebe als Kunst, die erlernt werden muss, und als Antwort auf die menschliche Existenzfrage."
+    },
+    {
+      "titel": "Haben oder Sein (To Have or to Be?)",
+      "jahr": "1976",
+      "beschreibung": "Eine Analyse der zwei Existenzmodi Haben und Sein und ein Plädoyer für eine Gesellschaft, die das Sein über den Besitz stellt."
+    },
+    {
+      "titel": "Die Seele des Menschen (The Heart of Man)",
+      "jahr": "1964",
+      "beschreibung": "Eine Untersuchung der menschlichen Fähigkeit zum Guten und zum Bösen, die zwischen Biophilie (Liebe zum Leben) und Nekrophilie (Liebe zum Toten) unterscheidet."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Lieben heißt nicht, einen anderen Menschen zu besitzen, sondern ihn in seiner Freiheit zu bestätigen.",
+      "quelle": "Die Kunst des Liebens",
+      "kontext": "Fromms Definition der Liebe als Bejahung der Freiheit des Anderen."
+    },
+    {
+      "text": "Die Aufgabe, die wir uns stellen müssen, ist nicht die, Sicherheit zu fühlen, sondern fähig zu sein, Unsicherheit zu ertragen.",
+      "quelle": "Die Furcht vor der Freiheit",
+      "kontext": "Fromms Einsicht, dass die Fähigkeit, mit Unsicherheit zu leben, zur Freiheit gehört."
+    },
+    {
+      "text": "Wer bin ich, wenn ich bin, was ich habe, und dann verliere, was ich habe?",
+      "quelle": "Haben oder Sein",
+      "kontext": "Die existenzielle Frage nach der Identität jenseits des Besitzes."
+    }
+  ],
+  "verwandtePhilosophen": ["karl-marx", "sigmund-freud", "ernst-bloch", "herbert-marcuse"],
+  "verwandteIsmen": ["marxismus", "humanismus"]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "philippa-foot",
+  "name": "Philippa Foot",
+  "lebensdaten": "1920–2010",
+  "geboren": {
+    "jahr": 1920,
+    "ort": "Owston Ferry",
+    "land": "Vereinigtes Königreich",
+    "lat": 53.47,
+    "lng": -0.79
+  },
+  "gestorben": {
+    "jahr": 2010,
+    "ort": "Oxford",
+    "land": "Vereinigtes Königreich",
+    "lat": 51.75,
+    "lng": -1.25
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Tugendethik"],
+  "kurzbeschreibung": "Philippa Foot war eine britische Philosophin, die maßgeblich zur Wiederbelebung der Tugendethik in der analytischen Philosophie beitrug. Ihr berühmtes Trolley-Problem wurde zu einem der meistdiskutierten Gedankenexperimente der Moralphilosophie. Sie argumentierte gegen den moralischen Subjektivismus und für eine naturalistische Tugendethik.",
+  "biografie": {
+    "fruehesLeben": "Philippa Foot, geborene Bosanquet, wurde 1920 in Owston Ferry, Lincolnshire, geboren. Sie war die Enkelin des US-Präsidenten Grover Cleveland. Sie studierte Philosophie, Politik und Wirtschaft am Somerville College in Oxford, wo sie eine lebenslange Freundschaft mit Iris Murdoch schloss.",
+    "schaffen": "Foot lehrte von 1947 bis 1969 am Somerville College in Oxford und anschließend an der University of California, Los Angeles. In den 1950er und 1960er Jahren kritisierte sie den in der analytischen Philosophie vorherrschenden moralischen Subjektivismus und Non-Kognitivismus. 1967 formulierte sie das berühmte Trolley-Problem, das die Debatte über moralische Dilemmata revolutionierte.",
+    "spaetesLeben": "In ihrem Spätwerk 'Natural Goodness' (2001) entwickelte Foot eine naturalistische Tugendethik, die moralische Güte als Form natürlicher Güte versteht, analog zur Gesundheit bei Pflanzen und Tieren. Sie kehrte nach ihrer Emeritierung nach Oxford zurück.",
+    "tod": "Philippa Foot starb am 3. Oktober 2010 in Oxford im Alter von 90 Jahren. Sie hinterließ ein Werk, das die Moralphilosophie nachhaltig veränderte und die Tugendethik als ernstzunehmende Alternative zum Utilitarismus und zur Pflichtethik etablierte.",
+    "nachwirkung": "Foots Trolley-Problem ist zum Standardbeispiel in der Moralphilosophie und der experimentellen Ethik geworden. Ihre Wiederbelebung der aristotelischen Tugendethik inspirierte eine ganze Generation von Philosophen, darunter Alasdair MacIntyre und Rosalind Hursthouse. Ihr naturalistischer Ansatz bleibt einflussreich."
+  },
+  "kernideen": [
+    {
+      "titel": "Das Trolley-Problem",
+      "beschreibung": "Das berühmte Gedankenexperiment: Darf man einen Zug umleiten, um fünf Menschen zu retten, wenn dadurch einer stirbt? Und macht es einen moralischen Unterschied, ob man den Zug umleitet oder einen Menschen von einer Brücke stößt? Dieses Dilemma zeigt die Grenzen utilitaristischer Moraltheorien."
+    },
+    {
+      "titel": "Naturalistische Tugendethik",
+      "beschreibung": "Moralische Güte ist eine Form natürlicher Güte, vergleichbar mit der Gesundheit bei Lebewesen. So wie ein Löwe gute Klauen braucht, braucht ein Mensch Tugenden wie Gerechtigkeit und Tapferkeit, um als Mensch gut zu funktionieren."
+    },
+    {
+      "titel": "Kritik des moralischen Subjektivismus",
+      "beschreibung": "Foot argumentierte gegen die Auffassung, dass moralische Urteile bloße Ausdruck von Gefühlen oder Einstellungen seien. Moralische Aussagen können wahr oder falsch sein und beruhen auf objektiven Merkmalen der menschlichen Natur und des guten Lebens."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Natural Goodness",
+      "jahr": "2001",
+      "beschreibung": "Foots philosophisches Hauptwerk, das eine naturalistische Tugendethik entwickelt und moralische Güte als eine Form natürlicher Güte bei Lebewesen versteht."
+    },
+    {
+      "titel": "Virtues and Vices",
+      "jahr": "1978",
+      "beschreibung": "Eine einflussreiche Aufsatzsammlung, die Foots wichtigste Beiträge zur Moralphilosophie versammelt, darunter ihre Kritik am moralischen Subjektivismus."
+    },
+    {
+      "titel": "Moral Dilemmas",
+      "jahr": "2002",
+      "beschreibung": "Eine Sammlung späterer Aufsätze, die sich mit moralischen Dilemmata, der Rationalität der Moral und dem Verhältnis von Tugend und Glück beschäftigen."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Moralische Güte ist eine Form natürlicher Güte.",
+      "quelle": "Natural Goodness",
+      "kontext": "Die zentrale These ihrer naturalistischen Tugendethik."
+    },
+    {
+      "text": "Tugenden sind für den Menschen, was tiefe Wurzeln für einen Eichenbaum sind.",
+      "quelle": "Natural Goodness",
+      "kontext": "Die Analogie zwischen menschlicher Tugend und natürlicher Güte bei anderen Lebewesen."
+    }
+  ],
+  "verwandtePhilosophen": ["elizabeth-anscombe", "iris-murdoch", "martha-nussbaum", "aristoteles"],
+  "verwandteIsmen": ["tugendethik"]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "enrique-dussel",
+  "name": "Enrique Dussel",
+  "lebensdaten": "1934–",
+  "geboren": {
+    "jahr": 1934,
+    "ort": "La Paz",
+    "land": "Argentinien",
+    "lat": -33.46,
+    "lng": -63.38
+  },
+  "gestorben": {
+    "jahr": 0,
+    "ort": "",
+    "land": "",
+    "lat": 0,
+    "lng": 0
+  },
+  "epoche": "Gegenwart",
+  "region": "Südamerika",
+  "hauptstroemungen": ["Befreiungsphilosophie"],
+  "kurzbeschreibung": "Enrique Dussel ist ein argentinisch-mexikanischer Philosoph, der als Begründer der lateinamerikanischen Befreiungsphilosophie gilt. Er entwickelte eine 'Philosophie der Befreiung', die die europäische Philosophie vom Standpunkt der Peripherie aus kritisiert und die Perspektive der Ausgeschlossenen zum Ausgangspunkt des Denkens macht. Sein Werk verbindet Levinas' Ethik des Anderen mit einer radikalen Kritik des eurozentrischen Denkens.",
+  "biografie": {
+    "fruehesLeben": "Enrique Dussel wurde 1934 in La Paz, einer Kleinstadt in der argentinischen Provinz Mendoza, geboren. Er studierte Philosophie in Buenos Aires, Madrid und Paris und promovierte in Geschichte und Philosophie.",
+    "schaffen": "Dussel entwickelte ab den 1970er Jahren seine Befreiungsphilosophie, die die europäische Tradition von ihrer Peripherie her kritisiert. Sein Hauptwerk 'Philosophie der Befreiung' (1977) argumentiert, dass die europäische Philosophie von Descartes bis Hegel die Unterwerfung der nicht-europäischen Welt legitimiert hat. In späteren Werken entwickelte er eine 'Ethik der Befreiung' und eine 'Politik der Befreiung'.",
+    "spaetesLeben": "Nach einem Bombenanschlag auf sein Haus in Argentinien 1973 ging Dussel ins Exil nach Mexiko, wo er an der UNAM lehrte. Er ist weiterhin als Philosoph und politischer Denker aktiv.",
+    "tod": "Enrique Dussel lebt und arbeitet weiterhin in Mexiko-Stadt.",
+    "nachwirkung": "Dussels Befreiungsphilosophie hat die lateinamerikanische und globale Philosophie tiefgreifend beeinflusst. Sein Konzept der 'Transmoderne' bietet eine Alternative sowohl zur Moderne als auch zur Postmoderne aus der Perspektive des globalen Südens."
+  },
+  "kernideen": [
+    {
+      "titel": "Befreiungsphilosophie",
+      "beschreibung": "Philosophie muss vom Standpunkt der Unterdrückten und Ausgeschlossenen ausgehen, nicht von einem abstrakten, vermeintlich universellen Standpunkt. Die europäische Philosophie hat die Unterwerfung der nicht-europäischen Welt legitimiert und muss daher grundlegend kritisiert werden."
+    },
+    {
+      "titel": "Transmoderne",
+      "beschreibung": "Dussel schlägt eine 'Transmoderne' vor, die weder in die Moderne zurückkehrt noch in die Postmoderne flüchtet, sondern die unterdrückten kulturellen Traditionen der Peripherie als gleichwertige Quellen des Denkens anerkennt."
+    },
+    {
+      "titel": "Analektik",
+      "beschreibung": "Im Gegensatz zur Dialektik, die das Andere in das System integriert, entwickelt Dussel eine 'Analektik', die das radikal Andere jenseits des Systems anerkennt. Der Andere ist nicht das Negativ des Selben, sondern eine eigenständige, irreduzible Wirklichkeit."
+    },
+    {
+      "titel": "Kritik des Eurozentrismus",
+      "beschreibung": "Die europäische Philosophie hat sich fälschlich als universell dargestellt und dabei die philosophischen Traditionen Asiens, Afrikas und Lateinamerikas ausgeblendet. Eine wirklich universelle Philosophie muss alle diese Traditionen einbeziehen."
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Filosofía de la liberación (Philosophie der Befreiung)",
+      "jahr": "1977",
+      "beschreibung": "Dussels programmatisches Hauptwerk, das die Grundlagen einer Philosophie der Befreiung aus der Perspektive der lateinamerikanischen Peripherie entwirft."
+    },
+    {
+      "titel": "Ética de la liberación (Ethik der Befreiung)",
+      "jahr": "1998",
+      "beschreibung": "Eine umfassende Ethik, die von der Verantwortung für die Opfer des bestehenden Systems ausgeht und die Befreiung als ethisches Grundprinzip etabliert."
+    },
+    {
+      "titel": "1492: El encubrimiento del otro (1492: Die Verdeckung des Anderen)",
+      "jahr": "1992",
+      "beschreibung": "Eine kritische Analyse der 'Entdeckung' Amerikas als Beginn der europäischen Moderne und der Unterdrückung der nicht-europäischen Welt."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Die Philosophie der Befreiung beginnt dort, wo die europäische Philosophie aufhört: bei der Erfahrung des Anderen, der ausgeschlossen wurde.",
+      "quelle": "Philosophie der Befreiung",
+      "kontext": "Dussels programmatische Bestimmung des Ausgangspunkts seiner Philosophie."
+    },
+    {
+      "text": "Die Moderne begann nicht mit Descartes, sondern mit der Conquista: 1492, nicht 1637.",
+      "quelle": "1492: Die Verdeckung des Anderen",
+      "kontext": "Dussels Neudatierung der Moderne vom Standpunkt der Kolonisierten aus."
+    },
+    {
+      "text": "Die Stimme des Anderen kommt von jenseits des Systems und stellt es radikal in Frage.",
+      "quelle": "Philosophie der Befreiung",
+      "kontext": "Dussels analektische Methode, die den Ausgangspunkt beim radikal Anderen nimmt."
+    }
+  ],
+  "verwandtePhilosophen": ["emmanuel-levinas", "gustavo-gutierrez", "gayatri-spivak"],
+  "verwandteIsmen": ["befreiungsphilosophie", "postkolonialismus"]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "bruno-latour",
+  "name": "Bruno Latour",
+  "lebensdaten": "1947–2022",
+  "geboren": {
+    "jahr": 1947,
+    "ort": "Beaune",
+    "land": "Frankreich",
+    "lat": 47.02,
+    "lng": 4.84
+  },
+  "gestorben": {
+    "jahr": 2022,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.86,
+    "lng": 2.35
+  },
+  "epoche": "20. Jahrhundert",
+  "region": "Europa",
+  "hauptstroemungen": ["Konstruktivismus"],
+  "kurzbeschreibung": "Bruno Latour war ein französischer Soziologe und Philosoph, der die Akteur-Netzwerk-Theorie mitbegründete und damit die Wissenschaftsforschung revolutionierte. Er hinterfragte die Trennung von Natur und Kultur, Mensch und Ding und plädierte für eine symmetrische Betrachtung menschlicher und nichtmenschlicher Akteure. In seinen letzten Jahren widmete er sich intensiv der ökologischen Krise und der Frage, wie wir auf der Erde leben können.",
+  "biografie": {
+    "fruehesLeben": "Bruno Latour wurde 1947 in Beaune in Burgund in eine Winzerfamilie geboren. Er studierte Philosophie und Theologie und wandte sich dann der Wissenschaftssoziologie zu. Seine ethnographische Studie 'Laboratory Life' (1979), die er im Salk Institute durchführte, revolutionierte die Wissenschaftsforschung.",
+    "schaffen": "Latour lehrte an der École des Mines in Paris und an Sciences Po. Mit der Akteur-Netzwerk-Theorie (ANT) entwickelte er einen Ansatz, der nichtmenschliche Akteure (Bakterien, Maschinen, Texte) als gleichberechtigte Teilnehmer in sozialen Netzwerken begreift. Sein Werk 'Wir sind nie modern gewesen' (1991) kritisiert die moderne Trennung von Natur und Gesellschaft als Illusion.",
+    "spaetesLeben": "In seinen letzten Lebensjahren widmete sich Latour intensiv der ökologischen Krise. Mit 'Das terrestrische Manifest' (2017) und 'Kampf um Gaia' (2015) entwarf er eine neue politische Ökologie, die die Erde als handelnden Akteur ernst nimmt. Er kuratierte auch einflussreiche Kunstausstellungen.",
+    "tod": "Bruno Latour starb am 9. Oktober 2022 in Paris im Alter von 75 Jahren an Bauchspeicheldrüsenkrebs. Sein Tod wurde weltweit als Verlust eines der originellsten Denker unserer Zeit betrauert.",
+    "nachwirkung": "Latours Werk hat die Wissenschaftsforschung, die Soziologie und die politische Ökologie grundlegend verändert. Die Akteur-Netzwerk-Theorie wird in zahlreichen Disziplinen angewandt. Seine Arbeiten zur ökologischen Krise und zum Anthropozän gewinnen zunehmend an Bedeutung."
+  },
+  "kernideen": [
+    {
+      "titel": "Akteur-Netzwerk-Theorie (ANT)",
+      "beschreibung": "Soziale Realität besteht aus Netzwerken, in denen menschliche und nichtmenschliche Akteure (Aktanten) gleichermaßen wirksam sind. Ein Bakterium, eine Maschine oder ein Text können ebenso handeln wie ein Mensch. Die Trennung von Subjekt und Objekt muss überwunden werden."
+    },
+    {
+      "titel": "Wir sind nie modern gewesen",
+      "beschreibung": "Die Moderne behauptet, Natur und Kultur, Wissenschaft und Politik sauber zu trennen. In Wirklichkeit hat sie immer mehr Hybride aus Natur und Kultur produziert. Wir waren nie wirklich modern, weil die behauptete Trennung nie funktioniert hat."
+    },
+    {
+      "titel": "Das Terrestrische als neuer politischer Akteur",
+      "beschreibung": "Angesichts der Klimakrise kann die Erde nicht mehr als passive Ressource betrachtet werden. Sie ist ein handelnder Akteur (Gaia), der auf menschliche Eingriffe reagiert. Politik muss sich an der Frage orientieren: Wo können wir leben?"
+    }
+  ],
+  "werke": [
+    {
+      "titel": "Wir sind nie modern gewesen (Nous n'avons jamais été modernes)",
+      "jahr": "1991",
+      "beschreibung": "Eine grundlegende Kritik der modernen Trennung von Natur und Gesellschaft, die eine symmetrische Anthropologie vorschlägt."
+    },
+    {
+      "titel": "Das terrestrische Manifest (Où atterrir?)",
+      "jahr": "2017",
+      "beschreibung": "Ein politisches Manifest, das die ökologische Krise mit der Krise der Globalisierung verbindet und eine neue politische Orientierung auf das Terrestrische vorschlägt."
+    },
+    {
+      "titel": "Kampf um Gaia (Face à Gaïa)",
+      "jahr": "2015",
+      "beschreibung": "Eine philosophische Auseinandersetzung mit der Gaia-Hypothese und der Frage, wie wir im Zeitalter des Anthropozäns auf der Erde leben können."
+    },
+    {
+      "titel": "Die Pasteurisierung Frankreichs (Les Microbes: Guerre et Paix)",
+      "jahr": "1984",
+      "beschreibung": "Eine Studie über Pasteur und die Mikroben, die zeigt, wie wissenschaftliche Tatsachen in Netzwerken aus menschlichen und nichtmenschlichen Akteuren konstruiert werden."
+    }
+  ],
+  "zitate": [
+    {
+      "text": "Wir sind nie modern gewesen.",
+      "quelle": "Wir sind nie modern gewesen",
+      "kontext": "Die provozierende These, dass die behauptete moderne Trennung von Natur und Gesellschaft immer eine Illusion war."
+    },
+    {
+      "text": "Die Dinge handeln. Wenn wir das nicht anerkennen, verstehen wir die Welt nicht.",
+      "quelle": "Eine neue Soziologie für eine neue Gesellschaft",
+      "kontext": "Die Grundthese der Akteur-Netzwerk-Theorie über die Handlungsfähigkeit nichtmenschlicher Akteure."
+    },
+    {
+      "text": "Wo landen? Das ist die politische Frage unserer Zeit.",
+      "quelle": "Das terrestrische Manifest",
+      "kontext": "Latours Formulierung der ökologischen Grundfrage als politische Orientierungsfrage."
+    }
+  ],
+  "verwandtePhilosophen": ["donna-haraway", "michel-foucault", "alfred-north-whitehead"],
+  "verwandteIsmen": ["konstruktivismus"]
+}
