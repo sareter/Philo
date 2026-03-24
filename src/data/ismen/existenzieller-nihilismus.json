@@ -1,0 +1,23 @@
+{
+  "slug": "existenzieller-nihilismus",
+  "name": "Existenzieller Nihilismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der existenzielle Nihilismus behauptet die grundsätzliche Sinnlosigkeit der menschlichen Existenz. Er sieht den Menschen als in eine gleichgültige Welt geworfen, ohne vorgegebenen Zweck oder Bedeutung.",
+  "ausfuehrlicheBeschreibung": "Der existenzielle Nihilismus radikalisiert die Einsichten des Existenzialismus, indem er die Abwesenheit jedes vorgegebenen Sinns zur zentralen philosophischen These erhebt. Für seine Vertreter ist die menschliche Existenz nicht nur kontingent, sondern fundamental bedeutungslos – es gibt keinen kosmischen Plan, keine göttliche Vorsehung und keine inhärente Bestimmung des Menschen.\n\nJean-Paul Sartre formulierte diese Position mit seinem berühmten Diktum, dass die Existenz der Essenz vorausgeht: Der Mensch existiert zunächst und muss sich dann selbst definieren, ohne auf eine vorgegebene Natur zurückgreifen zu können. Albert Camus ging noch weiter und erklärte das Absurde – den Widerspruch zwischen dem menschlichen Verlangen nach Sinn und der stummen Gleichgültigkeit der Welt – zum Ausgangspunkt allen Philosophierens.\n\nDer existenzielle Nihilismus mündet jedoch nicht zwangsläufig in Verzweiflung. Sowohl Sartre als auch Camus sahen in der Anerkennung der Sinnlosigkeit eine Befreiung: Der Mensch ist verurteilt, frei zu sein, und kann in der bewussten Annahme seiner absurden Lage eine eigene, wenn auch fragile Würde finden.",
+  "kernthesen": [
+    "Die menschliche Existenz hat keinen vorgegebenen Sinn",
+    "Der Mensch ist in eine gleichgültige Welt geworfen",
+    "Die Existenz geht der Essenz voraus",
+    "Das Absurde entsteht aus dem Widerspruch zwischen Sinnverlangen und Weltstummheit",
+    "In der Annahme der Sinnlosigkeit liegt eine paradoxe Freiheit"
+  ],
+  "hauptvertreter": ["jean-paul-sartre", "albert-camus"],
+  "entstehung": "Der existenzielle Nihilismus entwickelte sich im Frankreich der 1940er und 1950er Jahre aus dem Existenzialismus heraus. Er war geprägt von den Erfahrungen des Zweiten Weltkriegs und der Krise traditioneller Wertesysteme.",
+  "kritik": "Kritiker bemängeln, dass der existenzielle Nihilismus trotz seiner Befreiungsrhetorik keine tragfähige Grundlage für Ethik und Gemeinschaft bieten kann. Zudem wird die Frage aufgeworfen, ob die Behauptung der Sinnlosigkeit nicht selbst eine sinnstiftende Erzählung darstellt.",
+  "verwandteIsmen": ["nihilistischer-pessimismus", "absurder-heroismus", "philosophischer-suizidismus", "emotionaler-nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
+    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
+    {"titel": "Der Fremde", "autor": "Albert Camus", "jahr": "1942"}
+  ]
+}

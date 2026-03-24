@@ -1,0 +1,23 @@
+{
+  "slug": "neopragmatismus",
+  "name": "Neopragmatismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Neopragmatismus erneuert den klassischen Pragmatismus und verwirft die Vorstellung einer objektiven Wahrheit zugunsten einer Konzeption von Wahrheit als dem, was sich in der Praxis bewährt.",
+  "ausfuehrlicheBeschreibung": "Der Neopragmatismus greift die Grundideen des klassischen amerikanischen Pragmatismus auf und verbindet sie mit Einsichten der analytischen Philosophie und der Hermeneutik. Seine zentrale These lautet: Wahrheit ist keine Übereinstimmung von Aussagen mit einer bewusstseinsunabhängigen Wirklichkeit, sondern das, was sich in unseren Praktiken als nützlich erweist und Konsens ermöglicht.\n\nRichard Rorty radikalisierte den Pragmatismus, indem er die gesamte erkenntnistheoretische Tradition der westlichen Philosophie als verfehlt zurückwies. Die Vorstellung, dass der menschliche Geist ein Spiegel der Natur sei, der die Wirklichkeit mehr oder weniger genau abbildet, ist für Rorty eine irreführende Metapher. Philosophie sollte nicht nach den Grundlagen des Wissens suchen, sondern als Beitrag zum kulturellen Gespräch der Menschheit verstanden werden.\n\nDer Neopragmatismus hat weitreichende Konsequenzen für die Ethik und die Politik: Wenn es keine objektive Wahrheit gibt, dann können moralische und politische Überzeugungen nicht durch Berufung auf eine höhere Instanz gerechtfertigt werden, sondern nur durch demokratischen Dialog und die Frage, welche Überzeugungen zu einer besseren Praxis führen.",
+  "kernthesen": [
+    "Wahrheit ist das, was sich in der Praxis bewährt",
+    "Die Vorstellung des Geistes als Spiegel der Natur ist verfehlt",
+    "Philosophie ist ein Beitrag zum kulturellen Gespräch, keine Grundlagenwissenschaft",
+    "Es gibt keine erkenntnistheoretischen Fundamente, nur Praktiken",
+    "Demokratischer Dialog ersetzt die Berufung auf objektive Wahrheit"
+  ],
+  "hauptvertreter": ["richard-rorty"],
+  "entstehung": "Der Neopragmatismus wurde in den 1970er und 1980er Jahren von Richard Rorty entwickelt, insbesondere in seinem Werk Der Spiegel der Natur (1979). Er entstand aus der Verbindung des klassischen Pragmatismus von James und Dewey mit der Sprachphilosophie Wittgensteins und der Hermeneutik Gadamers.",
+  "kritik": "Kritiker werfen dem Neopragmatismus Relativismus vor: Wenn Wahrheit nur das ist, was sich bewährt, dann gibt es keinen Maßstab zur Unterscheidung zwischen wahren und bloß nützlichen Überzeugungen. Zudem wird die Aufgabe des Wahrheitsbegriffs als intellektuelle Kapitulation kritisiert.",
+  "verwandteIsmen": ["experimentalismus", "ordinary-language-philosophy", "post-nihilismus", "kulturrelativismus"],
+  "schluesselwerke": [
+    {"titel": "Der Spiegel der Natur", "autor": "Richard Rorty", "jahr": "1979"},
+    {"titel": "Kontingenz, Ironie und Solidarität", "autor": "Richard Rorty", "jahr": "1989"},
+    {"titel": "Hoffnung statt Erkenntnis", "autor": "Richard Rorty", "jahr": "1994"}
+  ]
+}

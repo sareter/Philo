@@ -1,0 +1,23 @@
+{
+  "slug": "biozentrismus",
+  "name": "Biozentrismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Biozentrismus vertritt die Auffassung, dass alle Lebewesen einen inhärenten Eigenwert besitzen und moralische Berücksichtigung verdienen, unabhängig von ihrem Nutzen für den Menschen.",
+  "ausfuehrlicheBeschreibung": "Der Biozentrismus entstand in der zweiten Hälfte des 20. Jahrhunderts als Alternative zum anthropozentrischen Weltbild, das den Menschen als alleinigen Träger moralischen Wertes betrachtet. Paul Taylor formulierte in „Respect for Nature“ (1986) eine systematische biozentrische Ethik, die jedem lebenden Organismus einen inhärenten Wert zuschreibt. Jedes Lebewesen verfolgt sein eigenes Wohl und hat ein „Gut“, das moralische Berücksichtigung verdient.\n\nPeter Singer trug mit seiner Kritik am Speziesismus wesentlich zur Verbreitung biozentrischer Ideen bei. Die Zugehörigkeit zur menschlichen Spezies allein begründet keinen moralischen Sonderstatus – vielmehr ist die Fähigkeit zu leiden das entscheidende Kriterium moralischer Berücksichtigung. Albert Schweitzers Ethik der „Ehrfurcht vor dem Leben“ gilt als wichtiger Vorläufer des Biozentrismus und erweitert die moralische Gemeinschaft auf alles Lebendige.\n\nDer Biozentrismus hat bedeutende Konsequenzen für Umweltethik, Tierschutz und Naturschutzpolitik. Er fordert eine grundlegende Revision des menschlichen Verhältnisses zur Natur und stellt die industrielle Landwirtschaft, Tierversuche und die Zerstörung natürlicher Lebensräume infrage. In der Gegenwart wird der biozentrische Ansatz in Debatten über Biodiversität, Artenschutz und die Rechte der Natur weiterentwickelt.",
+  "kernthesen": [
+    "Alle Lebewesen besitzen einen inhärenten Eigenwert, unabhängig von ihrem Nutzen für den Menschen.",
+    "Die moralische Gemeinschaft umfasst alle Lebewesen, nicht nur den Menschen.",
+    "Speziesismus – die Bevorzugung der eigenen Art – ist moralisch ebenso ungerechtfertigt wie Rassismus.",
+    "Jedes Lebewesen hat ein eigenes Wohl, das moralische Berücksichtigung verdient.",
+    "Der Mensch hat keine moralische Sonderstellung in der Natur."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Der Biozentrismus entwickelte sich in den 1970er und 1980er Jahren aus der Umweltethik und der Tierethik. Albert Schweitzers „Ehrfurcht vor dem Leben“ (1923), Peter Singers „Animal Liberation“ (1975) und Paul Taylors „Respect for Nature“ (1986) bilden die wichtigsten Grundlagentexte.",
+  "kritik": "Kritiker werfen dem Biozentrismus vor, dass er keine praktikablen Handlungsanweisungen bietet, da jede menschliche Existenz unvermeidlich andere Lebewesen beeinträchtigt. Zudem wird bemängelt, dass die Gleichwertigkeit aller Lebewesen in Konfliktfällen zu unlösbaren moralischen Dilemmata führt.",
+  "verwandteIsmen": ["umweltethik", "tierethik"],
+  "schluesselwerke": [
+    {"titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975"},
+    {"titel": "Respect for Nature", "autor": "Paul Taylor", "jahr": "1986"},
+    {"titel": "Kulturphilosophie – Ehrfurcht vor dem Leben", "autor": "Albert Schweitzer", "jahr": "1923"}
+  ]
+}

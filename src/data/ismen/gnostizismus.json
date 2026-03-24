@@ -1,0 +1,23 @@
+{
+  "slug": "gnostizismus",
+  "name": "Gnostizismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Gnostizismus ist eine religiös-philosophische Strömung der Antike, die Erlösung durch geheimes, intuitives Wissen (Gnosis) über die göttliche Natur des Menschen und die Beschaffenheit der Welt verspricht.",
+  "ausfuehrlicheBeschreibung": "Der Gnostizismus ist eine vielgestaltige religiös-philosophische Bewegung, die in den ersten Jahrhunderten nach Christus ihre Blütezeit erlebte. Sein Kerngedanke besagt, dass die materielle Welt nicht von einem guten Gott geschaffen wurde, sondern das Werk eines unwissenden oder böswilligen Demiurgen ist. Der wahre Gott ist transzendent und von der materiellen Welt vollständig getrennt. Die menschliche Seele enthält jedoch einen göttlichen Funken, der aus der höheren Welt stammt und durch Gnosis – intuitives, erlösendes Wissen – befreit werden kann.\n\nPlotins Neuplatonismus steht in einem komplexen Verhältnis zum Gnostizismus. Einerseits teilt er die Vorstellung einer hierarchisch gestuften Wirklichkeit, an deren Spitze das Eine steht, von dem alles ausgeht. Andererseits kritisierte Plotin die Gnostiker scharf für ihre Verachtung der materiellen Welt und des Kosmos, den er als schönes Abbild des Intelligiblen betrachtete. Die neuplatonische Tradition beeinflusste den Gnostizismus ebenso, wie sie sich von ihm abgrenzte.\n\nDer Gnostizismus hat die westliche Geistesgeschichte nachhaltig geprägt, auch wenn er als eigenständige Bewegung im 4. Jahrhundert weitgehend verschwand. Gnostische Motive finden sich in der mittelalterlichen Mystik, in der Kabbala, bei den Katharern und in der modernen Esoterik. In der Philosophie haben Hans Jonas, Eric Voegelin und Hans Blumenberg den Gnostizismus als Schlüssel zum Verständnis moderner Ideologien und existenzieller Haltungen interpretiert.",
+  "kernthesen": [
+    "Die materielle Welt ist das Werk eines unwissenden Demiurgen, nicht des wahren göttlichen Prinzips.",
+    "Die menschliche Seele enthält einen göttlichen Funken, der in der Materie gefangen ist.",
+    "Erlösung erfolgt durch Gnosis – ein intuitives, geheimes Wissen über die wahre Natur der Wirklichkeit.",
+    "Die materielle Existenz ist wesensmäßig mangelhaft und muss überwunden werden.",
+    "Nur wenige Auserwählte (Pneumatiker) sind fähig, die vollständige Gnosis zu erlangen."
+  ],
+  "hauptvertreter": ["plotin"],
+  "entstehung": "Der Gnostizismus entstand im 1. und 2. Jahrhundert n. Chr. im östlichen Mittelmeerraum als synkretistische Verbindung jüdischer, christlicher und hellenistischer Elemente. Die Nag-Hammadi-Texte, 1945 in Ägypten entdeckt, haben das Verständnis der gnostischen Bewegung revolutioniert.",
+  "kritik": "Dem Gnostizismus wird vorgeworfen, dass sein radikaler Dualismus zwischen Geist und Materie zu einer Weltverachtung führt, die ethische Verantwortung für die materielle Welt untergräbt. Zudem wird sein elitärer Charakter kritisiert, der nur wenigen Eingeweihten den Zugang zur Erlösung gewährt.",
+  "verwandteIsmen": ["mystizismus", "neoplatonismus"],
+  "schluesselwerke": [
+    {"titel": "Enneaden", "autor": "Plotin", "jahr": "270"},
+    {"titel": "Gnosis und spätantiker Geist", "autor": "Hans Jonas", "jahr": "1934"},
+    {"titel": "Evangelium der Wahrheit", "autor": "Valentinus", "jahr": "150"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "perspektivismus",
+  "name": "Perspektivismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Perspektivismus ist die philosophische Position, dass alle Erkenntnis standortgebunden und perspektivisch ist. Es gibt keine objektive, perspektivenfreie Wahrheit – jede Erkenntnis ist von den Interessen, Bedürfnissen und der Lebenssituation des Erkennenden geprägt.",
+  "ausfuehrlicheBeschreibung": "Der Perspektivismus wurde von Friedrich Nietzsche als radikale erkenntnistheoretische Position entwickelt. Er besagt, dass es keine Fakten gibt, sondern nur Interpretationen – und auch diese Behauptung ist selbst nur eine Interpretation. Jede Erkenntnis ist perspektivisch bedingt durch die biologische Konstitution, die kulturelle Prägung und die Machtinteressen des Erkennenden. Die Vorstellung einer absoluten, perspektivenfreien Wahrheit, wie sie die traditionelle Philosophie anstrebte, ist eine Illusion.\n\nNietzsche begründet den Perspektivismus sowohl erkenntnistheoretisch als auch physiologisch. Unsere Sinnesorgane und unser Nervensystem haben sich nicht entwickelt, um die Wirklichkeit abzubilden, sondern um das Überleben zu sichern. Die Kategorien unseres Denkens – Substanz, Kausalität, Identität – sind keine Eigenschaften der Welt, sondern Werkzeuge, die der Wille zur Macht hervorgebracht hat. Verschiedene Lebensformen bringen verschiedene Perspektiven hervor, und keine davon ist der anderen grundsätzlich überlegen.\n\nDer Perspektivismus hat tiefgreifende Konsequenzen für die gesamte Philosophie. Er untergräbt den Wahrheitsanspruch jeder einzelnen philosophischen Position und fördert eine pluralistische Haltung, die verschiedene Perspektiven nebeneinander gelten lässt. In der Philosophie des 20. Jahrhunderts haben Denker wie Ortega y Gasset, Foucault und die postmoderne Philosophie perspektivistische Grundgedanken aufgegriffen und weiterentwickelt.",
+  "kernthesen": [
+    "Es gibt keine perspektivenfreie, objektive Wahrheit – alle Erkenntnis ist standortgebunden.",
+    "Es gibt keine Fakten, nur Interpretationen; jede Interpretation ist Ausdruck eines Machtwillens.",
+    "Unsere Denkkategorien sind evolutionäre Werkzeuge, keine Abbilder der Wirklichkeit.",
+    "Verschiedene Perspektiven sind nicht hierarchisch geordnet; keine ist der anderen grundsätzlich überlegen.",
+    "Die Vielfalt der Perspektiven zu mehren ist wertvoller als die Suche nach der einen Wahrheit."
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der Perspektivismus wurde von Nietzsche in den 1880er Jahren entwickelt, insbesondere in seinen Werken 'Jenseits von Gut und Böse' und den nachgelassenen Fragmenten. Er reagierte damit auf den Positivismus seiner Zeit und radikalisierte Kants Einsicht, dass Erkenntnis durch die Struktur des Erkennenden bedingt ist.",
+  "kritik": "Der Perspektivismus sieht sich dem Selbstanwendungsproblem ausgesetzt: Wenn alle Wahrheit perspektivisch ist, gilt dies auch für den Perspektivismus selbst, der damit seinen eigenen universellen Geltungsanspruch untergräbt. Zudem führt er in einen Relativismus, der keine Unterscheidung zwischen besseren und schlechteren Interpretationen mehr erlaubt.",
+  "verwandteIsmen": ["relativismus", "nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"},
+    {"titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882"},
+    {"titel": "Zur Genealogie der Moral", "autor": "Friedrich Nietzsche", "jahr": "1887"}
+  ]
+}

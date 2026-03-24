@@ -1,0 +1,23 @@
+{
+  "slug": "prozessphilosophie",
+  "name": "Prozessphilosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Prozessphilosophie betrachtet die Wirklichkeit als dynamischen Prozess des Werdens statt als Ansammlung statischer Substanzen. Ereignisse und Beziehungen sind fundamentaler als Dinge und Eigenschaften.",
+  "ausfuehrlicheBeschreibung": "Die Prozessphilosophie wurde maßgeblich von Alfred North Whitehead in seinem Hauptwerk „Prozess und Realität“ (1929) entwickelt. Whitehead kritisierte die gesamte westliche Metaphysik seit Aristoteles für ihre Fixierung auf Substanzen und statische Kategorien. Stattdessen schlug er vor, die Wirklichkeit als einen ständigen Prozess des Werdens zu verstehen, in dem „aktuale Ereignisse“ (actual occasions) die grundlegenden Bausteine der Realität bilden.\n\nFür Whitehead ist jedes Ereignis ein Prozess der „Konkreszenz“ – ein Zusammenwachsen vielfältiger Einflüsse zu einer neuen Einheit der Erfahrung. Jedes Ereignis nimmt vergangene Ereignisse in sich auf (Prehension) und bringt etwas genuines Neues hervor. Diese Sicht der Wirklichkeit überwindet die cartesische Trennung von Geist und Materie: Erfahrung ist nicht auf menschliches Bewusstsein beschränkt, sondern durchzieht die gesamte Natur in unterschiedlichen Graden.\n\nDie Prozessphilosophie hat weitreichende Auswirkungen auf Theologie, Naturphilosophie und Ökologie gehabt. Die Prozesstheologie Charles Hartshornes begreift Gott als mitfühlenden Teilnehmer am kosmischen Prozess. In der Ökologie bietet die Prozessphilosophie eine Grundlage für ein relationales Naturverständnis, das die wechselseitige Abhängigkeit aller Lebewesen betont. In der Physik finden prozessphilosophische Ideen Anklang in der Quantenmechanik und der Relativitätstheorie.",
+  "kernthesen": [
+    "Wirklichkeit besteht aus Prozessen und Ereignissen, nicht aus statischen Substanzen.",
+    "Werden ist fundamentaler als Sein – alles Seiende ist im Fluss.",
+    "Jedes Ereignis ist ein kreativer Akt, der Neues in die Welt bringt.",
+    "Erfahrung durchzieht die gesamte Natur und ist nicht auf menschliches Bewusstsein beschränkt.",
+    "Beziehungen und wechselseitige Abhängigkeiten sind konstitutiv für alle Wirklichkeit."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Die Prozessphilosophie entstand in den 1920er Jahren aus Whiteheads Reflexion über die Grundlagen der Naturwissenschaft und der Mathematik. Heraklits antike Lehre vom Fluss aller Dinge, Leibniz' Monadologie und Bergsons Philosophie der Dauer bilden wichtige Vorläufer.",
+  "kritik": "Kritiker bemängeln, dass Whiteheads System extrem abstrakt und schwer verständlich ist und seine spekulative Kosmologie empirisch kaum überprüfbar bleibt. Zudem wird eingewandt, dass die Prozessphilosophie die Beständigkeit und Identität von Dingen nicht angemessen erklären kann.",
+  "verwandteIsmen": ["pragmatismus", "emergentismus"],
+  "schluesselwerke": [
+    {"titel": "Prozess und Realität", "autor": "Alfred North Whitehead", "jahr": "1929"},
+    {"titel": "Wissenschaft und moderne Welt", "autor": "Alfred North Whitehead", "jahr": "1925"},
+    {"titel": "Schöpferische Entwicklung", "autor": "Henri Bergson", "jahr": "1907"}
+  ]
+}

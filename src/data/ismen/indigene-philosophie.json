@@ -1,0 +1,23 @@
+{
+  "slug": "indigene-philosophie",
+  "name": "Indigene Philosophie",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Die indigene Philosophie umfasst die Weisheitstraditionen der Ureinwohner verschiedener Kontinente, die eine tiefe Verbundenheit mit der Natur, zyklisches Zeitverständnis und die Verantwortung gegenüber künftigen Generationen betonen.",
+  "ausfuehrlicheBeschreibung": "Indigene Philosophien sind die ältesten Denktraditionen der Menschheit und umfassen die Weltanschauungen der Ureinwohner Amerikas, Australiens, Afrikas, Asiens und des Pazifikraums. Obwohl sie in ihrer Vielfalt nicht auf einen Nenner gebracht werden können, teilen viele dieser Traditionen grundlegende Einsichten: die Verwandtschaft aller Lebewesen, die Heiligkeit der Erde, ein zyklisches Zeitverständnis und die Pflicht zur Bewahrung der Schöpfung für kommende Generationen. Diese Haltung erinnert an sokratisches Fragen nach dem guten Leben und der richtigen Stellung des Menschen in der Welt.\n\nIm Gegensatz zur westlichen Subjekt-Objekt-Trennung verstehen indigene Philosophien den Menschen als Teil eines umfassenden Beziehungsgeflechts mit der natürlichen und geistigen Welt. Wissen wird nicht als abstraktes Konzept, sondern als gelebte Erfahrung und Praxis verstanden, die in Geschichten, Ritualen und Beziehungen zur Natur weitergegeben wird. Die orale Tradition ist dabei nicht Mangel an Schrift, sondern eine eigene epistemische Form, die Flexibilität und Kontextualität des Wissens ermöglicht.\n\nIn der Gegenwart gewinnen indigene Philosophien zunehmend an Bedeutung für Umweltethik, Nachhaltigkeitsforschung und die Kritik an der westlichen Moderne. Konzepte wie Buen Vivir (das gute Leben) aus der andinen Tradition werden als Alternativen zum Wachstumsparadigma diskutiert. Die Anerkennung indigener Wissensformen stellt die westliche Philosophie vor die Herausforderung, ihren Universalitätsanspruch zu überdenken.",
+  "kernthesen": [
+    "Der Mensch ist Teil eines umfassenden Beziehungsgeflechts mit allen Lebewesen und der Erde.",
+    "Wissen ist gelebte Erfahrung und wird durch Geschichten, Rituale und Praxis weitergegeben.",
+    "Die Verantwortung gegenüber künftigen Generationen ist ein zentrales ethisches Prinzip.",
+    "Die Zeit verläuft zyklisch, nicht linear – alles kehrt wieder und ist miteinander verbunden.",
+    "Die Natur hat einen Eigenwert und darf nicht bloß als Ressource behandelt werden."
+  ],
+  "hauptvertreter": ["sokrates"],
+  "entstehung": "Indigene Philosophien sind so alt wie die Menschheit selbst und haben sich in mündlicher Überlieferung über Jahrtausende entwickelt. Als akademische Disziplin wurde indigene Philosophie erst im 20. Jahrhundert anerkannt, als indigene Denker begannen, ihre Traditionen in den philosophischen Diskurs einzubringen.",
+  "kritik": "Kritiker warnen vor einer Romantisierung indigener Traditionen, die deren interne Vielfalt und Widersprüche übersieht. Zudem wird die Frage gestellt, ob die Systematisierung mündlich überlieferter Weisheitstraditionen in akademischen Kategorien nicht deren Eigenart verfälsche.",
+  "verwandteIsmen": ["oekologische-ethik", "kommunitarismus", "afrikanische-philosophie"],
+  "schluesselwerke": [
+    {"titel": "God Is Red", "autor": "Vine Deloria Jr.", "jahr": "1973"},
+    {"titel": "Braiding Sweetgrass", "autor": "Robin Wall Kimmerer", "jahr": "2013"},
+    {"titel": "Sand Talk", "autor": "Tyson Yunkaporta", "jahr": "2019"}
+  ]
+}

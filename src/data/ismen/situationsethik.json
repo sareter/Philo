@@ -1,0 +1,23 @@
+{
+  "slug": "situationsethik",
+  "name": "Situationsethik",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Situationsethik ist die moralphilosophische Position, dass ethische Entscheidungen nicht durch allgemeine Regeln, sondern durch die konkrete Situation bestimmt werden müssen. Jede moralische Lage ist einzigartig und erfordert eine individuelle Beurteilung.",
+  "ausfuehrlicheBeschreibung": "Die Situationsethik lehnt die Vorstellung ab, dass es universelle moralische Regeln gibt, die in jeder Situation gleichermaßen anwendbar sind. Stattdessen muss jede ethische Entscheidung im Licht der konkreten Umstände, der beteiligten Personen und der zu erwartenden Konsequenzen getroffen werden. Jean-Paul Sartre begründete diese Position existenzphilosophisch: Da es keine vorgegebene menschliche Natur und keine objektive Wertordnung gibt, ist der Mensch zur Freiheit verurteilt und muss in jeder Situation selbst entscheiden, was richtig ist.\n\nSartres Existenzialismus radikalisiert die Situationsethik, indem er zeigt, dass keine allgemeine Regel dem Einzelnen die Last der Entscheidung abnehmen kann. In seinem berühmten Beispiel des jungen Mannes, der zwischen der Pflege seiner kranken Mutter und dem Kampf gegen die Besatzung wählen muss, gibt es keine übergeordnete Regel, die die Entscheidung vorgibt. Der Mensch muss wählen und trägt die volle Verantwortung für seine Wahl, ohne sich hinter Pflichten, Traditionen oder göttlichen Geboten verstecken zu können.\n\nIn der theologischen Ethik wurde die Situationsethik von Joseph Fletcher systematisch ausgearbeitet, der die Liebe (Agape) als einziges situationsübergreifendes Prinzip gelten ließ. Die Situationsethik hat die Diskussion über moralische Rigidität und Flexibilität nachhaltig beeinflusst und findet in der angewandten Ethik – etwa in der medizinischen Ethik – praktische Relevanz, wo standardisierte Regeln oft den Komplexitäten konkreter Fälle nicht gerecht werden.",
+  "kernthesen": [
+    "Moralische Entscheidungen müssen in jeder Situation neu getroffen werden; allgemeine Regeln genügen nicht.",
+    "Es gibt keine vorgegebene menschliche Natur oder objektive Wertordnung, die moralische Entscheidungen vorbestimmt.",
+    "Der Mensch ist zur Freiheit verurteilt und trägt die volle Verantwortung für seine Entscheidungen.",
+    "Keine allgemeine Regel kann dem Einzelnen die Last der konkreten Entscheidung abnehmen.",
+    "Moralische Flexibilität ist keine Schwäche, sondern Ausdruck echter Verantwortung."
+  ],
+  "hauptvertreter": ["jean-paul-sartre"],
+  "entstehung": "Die Situationsethik entwickelte sich im 20. Jahrhundert aus der existenzialistischen Philosophie Sartres und der protestantischen Theologie. Sartre begründete sie in 'L'existentialisme est un humanisme' (1946), während Joseph Fletcher sie 1966 unter dem Titel 'Situation Ethics' theologisch systematisierte.",
+  "kritik": "Kritiker werfen der Situationsethik vor, dass sie in einen moralischen Relativismus führt, der keine verbindlichen Maßstäbe mehr kennt. Ohne allgemeine Regeln droht Willkür, und die Berufung auf die Situation kann zur Rechtfertigung jeder beliebigen Handlung missbraucht werden. Zudem überfordert die Forderung, jede Situation individuell zu beurteilen, die meisten Menschen.",
+  "verwandteIsmen": ["existenzialismus", "relativismus"],
+  "schluesselwerke": [
+    {"titel": "L'existentialisme est un humanisme", "autor": "Jean-Paul Sartre", "jahr": "1946"},
+    {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
+    {"titel": "Situation Ethics", "autor": "Joseph Fletcher", "jahr": "1966"}
+  ]
+}

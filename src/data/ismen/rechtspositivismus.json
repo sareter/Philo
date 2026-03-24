@@ -1,0 +1,23 @@
+{
+  "slug": "rechtspositivismus",
+  "name": "Rechtspositivismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Rechtspositivismus betrachtet Recht als menschliche Setzung, die unabhängig von moralischen Wertungen gilt. Recht ist, was nach den geltenden Verfahren als Recht gesetzt wurde.",
+  "ausfuehrlicheBeschreibung": "Der Rechtspositivismus vertritt die These, dass Recht nicht auf natürlichen oder göttlichen Prinzipien beruht, sondern eine menschliche Setzung ist, die durch bestimmte Verfahren – Gesetzgebung, Gewohnheit, richterliche Entscheidung – zustande kommt. Die Geltung einer Rechtsnorm hängt nicht davon ab, ob sie moralisch richtig ist, sondern ob sie nach den geltenden Regeln korrekt erlassen wurde.\n\nJohn Stuart Mill trug mit seiner Rechts- und Staatsphilosophie zur Entwicklung des Rechtspositivismus bei, indem er die utilitaristische Begründung des Rechts vorantrieb: Gesetze sollen das größtmögliche Glück der größtmöglichen Zahl befördern, aber ihre Geltung beruht auf der staatlichen Setzung, nicht auf einem übergesetzlichen Naturrecht. Die Trennung von Recht und Moral ist für den Rechtspositivismus fundamental.\n\nDer Rechtspositivismus hat weitreichende praktische Konsequenzen: Er ermöglicht eine klare Unterscheidung zwischen der Frage, was das Recht ist, und der Frage, was das Recht sein sollte. Diese Trennung schützt vor der Gefahr, dass politische oder moralische Überzeugungen die Rechtsanwendung verzerren. Gleichzeitig wirft sie die beunruhigende Frage auf, ob auch ungerechte Gesetze als Recht gelten müssen.",
+  "kernthesen": [
+    "Recht ist eine menschliche Setzung, kein Naturprodukt",
+    "Die Geltung des Rechts hängt nicht von seiner moralischen Richtigkeit ab",
+    "Recht und Moral müssen streng getrennt werden",
+    "Was nach geltenden Verfahren als Recht gesetzt wurde, ist Recht",
+    "Die Frage, was Recht ist, ist von der Frage, was Recht sein sollte, zu unterscheiden"
+  ],
+  "hauptvertreter": ["john-stuart-mill"],
+  "entstehung": "Der Rechtspositivismus entwickelte sich im 19. Jahrhundert als Reaktion auf die Naturrechtstradition. Jeremy Bentham und John Austin legten in England die Grundlagen, während im 20. Jahrhundert Hans Kelsen und H. L. A. Hart die Theorie verfeinerten.",
+  "kritik": "Kritiker werfen dem Rechtspositivismus vor, er legitimiere ungerechte Gesetze und mache eine Kritik am positiven Recht unmöglich. Die Erfahrung des Nationalsozialismus zeigte die Gefahren einer Position, die jedes korrekt erlassene Gesetz als gültiges Recht anerkennt, unabhängig von seinem moralischen Gehalt.",
+  "verwandteIsmen": ["naturrechtsphilosophie", "kontraktarianismus", "ethischer-non-naturalismus"],
+  "schluesselwerke": [
+    {"titel": "Über die Freiheit", "autor": "John Stuart Mill", "jahr": "1859"},
+    {"titel": "Der Utilitarismus", "autor": "John Stuart Mill", "jahr": "1863"},
+    {"titel": "Reine Rechtslehre", "autor": "Hans Kelsen", "jahr": "1934"}
+  ]
+}

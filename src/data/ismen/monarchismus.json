@@ -1,0 +1,23 @@
+{
+  "slug": "monarchismus",
+  "name": "Monarchismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Monarchismus ist die politische Philosophie, die die Monarchie als ideale oder notwendige Regierungsform betrachtet. Er begründet die Herrschaft eines Einzelnen durch göttliches Recht, natürliche Ordnung oder pragmatische Überlegenheit.",
+  "ausfuehrlicheBeschreibung": "Der Monarchismus verteidigt die Herrschaft eines einzelnen Souveräns als beste oder notwendige Form der politischen Organisation. Thomas Hobbes lieferte die einflussreichste philosophische Begründung der absoluten Monarchie in seinem Werk 'Leviathan'. Hobbes argumentierte, dass der Naturzustand ein Krieg aller gegen alle ist und dass nur ein allmächtiger Souverän Frieden und Ordnung garantieren kann. Die Menschen übertragen ihre natürlichen Rechte auf den Herrscher, der im Gegenzug ihren Schutz gewährleistet.\n\nHobbes' Monarchismus unterscheidet sich von der traditionellen Legitimation durch göttliches Recht dadurch, dass er die Herrschaft aus einem rationalen Vertrag ableitet. Der Souverän regiert nicht, weil Gott ihn eingesetzt hat, sondern weil die rationale Überlegung zeigt, dass eine starke Zentralgewalt die einzige Alternative zum Chaos des Naturzustands ist. Diese Macht muss ungeteilt sein, da geteilte Souveränität zu Konflikten und letztlich zum Bürgerkrieg führt.\n\nDer Monarchismus hat in der Geschichte verschiedene Formen angenommen: von der absoluten Monarchie Ludwigs XIV. über die konstitutionelle Monarchie Englands bis zu den modernen parlamentarischen Monarchien Europas. In der politischen Philosophie wurde er seit der Aufklärung zunehmend durch demokratische und republikanische Ideen in Frage gestellt. Dennoch existieren bis heute monarchistische Strömungen, die die Vorteile dynastischer Kontinuität, politischer Stabilität und symbolischer Einheit betonen.",
+  "kernthesen": [
+    "Die Herrschaft eines einzelnen Souveräns ist die stabilste und effektivste Regierungsform.",
+    "Nur ein allmächtiger Souverän kann den chaotischen Naturzustand überwinden und Ordnung garantieren.",
+    "Die Souveränität muss ungeteilt sein, da geteilte Macht zu Konflikten und Bürgerkrieg führt.",
+    "Die Menschen übertragen ihre natürlichen Rechte rational auf den Herrscher im Tausch gegen Schutz.",
+    "Dynastische Kontinuität gewährleistet politische Stabilität und langfristiges Denken."
+  ],
+  "hauptvertreter": ["thomas-hobbes"],
+  "entstehung": "Der philosophische Monarchismus hat antike Wurzeln bei Platon und Aristoteles, die die Monarchie als eine mögliche gute Regierungsform betrachteten. Die moderne absolutistische Theorie wurde im 17. Jahrhundert von Hobbes und Bodin systematisch begründet, als Reaktion auf die Bürgerkriege und religiösen Konflikte der Epoche.",
+  "kritik": "Dem Monarchismus wird vorgeworfen, dass er die politische Freiheit und Selbstbestimmung der Bürger zugunsten der Stabilität opfert. Die Konzentration aller Macht in einer Hand birgt das Risiko des Machtmissbrauchs, und die Vererbung der Herrschaft garantiert nicht die Kompetenz des Herrschers. Die demokratische Tradition betont, dass politische Legitimation von den Beherrschten ausgehen muss.",
+  "verwandteIsmen": ["absolutismus", "konservatismus"],
+  "schluesselwerke": [
+    {"titel": "Leviathan", "autor": "Thomas Hobbes", "jahr": "1651"},
+    {"titel": "Sechs Bücher über den Staat", "autor": "Jean Bodin", "jahr": "1576"},
+    {"titel": "Patriarcha", "autor": "Robert Filmer", "jahr": "1680"}
+  ]
+}

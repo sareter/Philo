@@ -1,0 +1,23 @@
+{
+  "slug": "occasionalismus",
+  "name": "Occasionalismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Occasionalismus ist eine metaphysische Theorie, die besagt, dass Gott die einzige wahre Ursache aller Ereignisse ist. Scheinbare Kausalbeziehungen zwischen Dingen sind lediglich Gelegenheiten (occasiones), bei denen Gott direkt eingreift.",
+  "ausfuehrlicheBeschreibung": "Der Occasionalismus entstand als Lösung für das von Descartes hinterlassene Leib-Seele-Problem. Wenn Körper und Geist grundverschiedene Substanzen sind – ausgedehnte Materie einerseits und denkendes Bewusstsein andererseits –, wie können sie dann aufeinander einwirken? Die Occasionalisten antworteten, dass keinerlei kausale Interaktion zwischen geschaffenen Dingen stattfindet. Stattdessen ist Gott die einzige wirkende Ursache, der bei jeder scheinbaren Wechselwirkung direkt eingreift.\n\nDer Hauptvertreter des Occasionalismus war Nicolas Malebranche, der die Theorie im Kontext der cartesianischen Philosophie entwickelte. Leibniz setzte sich intensiv mit dem Occasionalismus auseinander und entwickelte als Alternative seine Lehre der prästabilierten Harmonie, die zwar die occasionalistische Problemstellung teilte, aber die ständige göttliche Intervention durch eine einmalige vorherbestimmte Koordination ersetzte. Beide Positionen bezeugen die Schwierigkeit, das dualistische Erbe Descartes' zu bewältigen.\n\nDer Occasionalismus wirft fundamentale Fragen über Kausalität, göttliches Handeln und die Autonomie der Natur auf. In der islamischen Philosophie, besonders bei al-Ghazali, findet sich eine verwandte Position, die jede natürliche Kausalität leugnet und alle Ereignisse direkt auf Gottes Willen zurückführt. In der modernen Philosophie lebt das occasionalistische Grundproblem in der Debatte über mentale Verursachung und das Verhältnis von Geist und Gehirn fort.",
+  "kernthesen": [
+    "Gott ist die einzige wahre Wirkursache aller Ereignisse in der Welt.",
+    "Geschaffene Dinge besitzen keine genuine kausale Kraft; sie sind lediglich Gelegenheitsursachen.",
+    "Die scheinbare Interaktion zwischen Körper und Geist wird durch ständiges göttliches Eingreifen ermöglicht.",
+    "Naturgesetze sind nichts anderes als die regelmäßigen Handlungsmuster Gottes.",
+    "Das Leib-Seele-Problem lässt sich nur durch den Rekurs auf göttliche Vermittlung lösen."
+  ],
+  "hauptvertreter": ["gottfried-wilhelm-leibniz"],
+  "entstehung": "Der Occasionalismus entwickelte sich in der zweiten Hälfte des 17. Jahrhunderts als Reaktion auf das cartesianische Leib-Seele-Problem. Nicolas Malebranche formulierte die systematischste Version, während Leibniz die Theorie als wichtigste Gegenposition zu seiner prästabilierten Harmonie diskutierte.",
+  "kritik": "Dem Occasionalismus wird vorgeworfen, dass er Gott zu einem permanenten Wundertäter macht und damit die Regelmäßigkeit der Natur auf willkürliches göttliches Eingreifen reduziert. Zudem untergräbt er die Autonomie der Naturwissenschaft, da natürliche Kausalität geleugnet wird und alles Geschehen auf göttlichen Willen zurückgeführt wird.",
+  "verwandteIsmen": ["dualismus", "theismus"],
+  "schluesselwerke": [
+    {"titel": "De la recherche de la vérité", "autor": "Nicolas Malebranche", "jahr": "1674"},
+    {"titel": "Monadologie", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1714"},
+    {"titel": "Theodizee", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1710"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "xenophilosophie",
+  "name": "Xenophilosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Xenophilosophie ist eine Philosophie des Fremden, die das radikal Andere als konstitutiv für Erkenntnis und Ethik versteht und die Begegnung mit dem Unbekannten ins Zentrum philosophischen Denkens stellt.",
+  "ausfuehrlicheBeschreibung": "Die Xenophilosophie entwickelt sich aus der phänomenologischen Tradition der Fremdheitserfahrung und radikalisiert die Einsichten von Emmanuel Levinas und Bernhard Waldenfels über die Begegnung mit dem Anderen. Sie versteht das Fremde nicht als das noch-nicht-Bekannte, das durch Erkenntnis in Eigenes verwandelt werden könnte, sondern als eine irreduzible Dimension der Erfahrung, die jede Totalisierung sprengt. Das Fremde bleibt fremd und fordert gerade dadurch das Denken heraus.\n\nPhilosophisch knüpft die Xenophilosophie an Derridas Dekonstruktion an, die zeigt, dass Identität immer durch den Bezug auf das Andere konstituiert wird. Der Andere geht dem Selbst voraus – eine Einsicht, die Levinas in seiner Ethik des Antlitzes formulierte und die Derrida in seine Philosophie der Gastfreundschaft und der Differenz übersetzte. Die Xenophilosophie erweitert diese Ansätze auf nicht-menschliche Fremdheit: das Fremde der Natur, der Technologie, des Kosmos.\n\nIn der Gegenwart gewinnt die Xenophilosophie Relevanz angesichts von Migration, interkultureller Begegnung und der Konfrontation mit künstlicher Intelligenz. Sie bietet philosophische Werkzeuge, um das Fremde nicht als Bedrohung, sondern als Quelle der Erkenntnis und der ethischen Verantwortung zu verstehen. Die Fähigkeit, dem Fremden zu begegnen, ohne es zu vereinnahmen, wird zur philosophischen Kernkompetenz.",
+  "kernthesen": [
+    "Das Fremde ist eine irreduzible Dimension der Erfahrung, die nicht in Eigenes aufgelöst werden kann.",
+    "Die Begegnung mit dem Anderen geht dem Selbst ontologisch und ethisch voraus.",
+    "Identität wird immer durch den Bezug auf das Fremde konstituiert.",
+    "Das Fremde ist nicht Bedrohung, sondern Quelle von Erkenntnis und ethischer Verantwortung.",
+    "Wahres Denken zeigt sich in der Fähigkeit, dem Unbekannten zu begegnen, ohne es zu vereinnahmen."
+  ],
+  "hauptvertreter": ["jacques-derrida"],
+  "entstehung": "Die Xenophilosophie entwickelte sich ab den 1980er Jahren aus der Phänomenologie der Fremdheit (Waldenfels), der Ethik des Anderen (Levinas) und der Dekonstruktion (Derrida). Sie reagiert auf die zunehmende Globalisierung und die philosophische Herausforderung, das radikal Andere zu denken.",
+  "kritik": "Kritiker bemängeln, dass die Xenophilosophie das Fremde romantisiert und die realen Konflikte und Machtverhältnisse in interkulturellen Begegnungen ausblendet. Zudem wird die Frage gestellt, ob eine Philosophie des radikal Anderen nicht in einen performativen Widerspruch gerät, wenn sie das Fremde begrifflich zu fassen versucht.",
+  "verwandteIsmen": ["alteritaetsphilosophie", "dekonstruktivismus", "phaenomenologie"],
+  "schluesselwerke": [
+    {"titel": "Topographie des Fremden", "autor": "Bernhard Waldenfels", "jahr": "1997"},
+    {"titel": "Totalität und Unendlichkeit", "autor": "Emmanuel Levinas", "jahr": "1961"},
+    {"titel": "Von der Gastfreundschaft", "autor": "Jacques Derrida", "jahr": "1997"}
+  ]
+}

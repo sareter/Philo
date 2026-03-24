@@ -1,0 +1,23 @@
+{
+  "slug": "care-ethik",
+  "name": "Care-Ethik",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Care-Ethik stellt Fürsorge, Beziehung und Verantwortung für Andere in den Mittelpunkt der Moral. Sie kritisiert abstrakte Prinzipienethiken und betont die konkrete Zuwendung zum verletzlichen Anderen.",
+  "ausfuehrlicheBeschreibung": "Die Care-Ethik ist eine ethische Strömung, die Fürsorge – das Sorgen für andere, das Aufmerksamsein für ihre Bedürfnisse, das Eingehen auf ihre Verletzlichkeit – als Grundlage der Moral begreift. Sie wendet sich gegen abstrakte Prinzipienethiken, die moralisches Handeln auf die Befolgung allgemeiner Regeln reduzieren, und betont stattdessen die Bedeutung konkreter Beziehungen und emotionaler Zuwendung.\n\nSimone de Beauvoir leistete mit ihrer Analyse der weiblichen Existenz und der ethischen Bedeutung von Zwischenleiblichkeit und Beziehung einen wichtigen Beitrag zur philosophischen Grundlegung der Care-Ethik. Ihre Reflexionen über die Situation der Frau, die traditionell mit Fürsorgearbeit betraut wird, zeigten sowohl die unterdrückende als auch die ethisch wertvolle Dimension dieser Tätigkeit auf.\n\nDie Care-Ethik hat eine tiefgreifende Kritik an der westlichen Moralphilosophie formuliert: Die traditionelle Ethik, von Kant bis zum Utilitarismus, orientiert sich am Modell des autonomen, rationalen Individuums und übersieht die fundamentale Abhängigkeit und Verletzlichkeit des Menschen. Die Care-Ethik erinnert daran, dass jeder Mensch als hilfloses Kind beginnt und auf die Fürsorge anderer angewiesen ist – und dass diese Grundtatsache die Ethik prägen muss.",
+  "kernthesen": [
+    "Fürsorge ist die Grundlage der Moral",
+    "Konkrete Beziehungen sind wichtiger als abstrakte Prinzipien",
+    "Der Mensch ist fundamental verletzlich und auf andere angewiesen",
+    "Emotionale Zuwendung ist ein wesentlicher Teil moralischen Handelns",
+    "Die traditionelle Ethik übersieht die Bedeutung von Abhängigkeit und Fürsorge"
+  ],
+  "hauptvertreter": ["simone-de-beauvoir"],
+  "entstehung": "Die Care-Ethik entwickelte sich in den 1980er Jahren aus der feministischen Philosophie, insbesondere aus Carol Gilligans Kritik an Kohlbergs Moralentwicklungstheorie. Simone de Beauvoirs Analyse der weiblichen Erfahrung und der ethischen Bedeutung von Beziehung bereitete den Boden.",
+  "kritik": "Kritiker werfen der Care-Ethik vor, sie romantisiere die weibliche Fürsorgearbeit und zementiere traditionelle Geschlechterrollen. Zudem wird bemängelt, dass eine Ethik der Fürsorge keine klaren Kriterien biete, um zwischen berechtigten und unberechtigten Ansprüchen zu unterscheiden.",
+  "verwandteIsmen": ["ethischer-pluralismus", "verantwortungsethik", "diskursethik"],
+  "schluesselwerke": [
+    {"titel": "Das andere Geschlecht", "autor": "Simone de Beauvoir", "jahr": "1949"},
+    {"titel": "Die andere Stimme", "autor": "Carol Gilligan", "jahr": "1982"},
+    {"titel": "Caring", "autor": "Nel Noddings", "jahr": "1984"}
+  ]
+}

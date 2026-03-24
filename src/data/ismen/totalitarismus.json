@@ -1,0 +1,23 @@
+{
+  "slug": "totalitarismus",
+  "name": "Totalitarismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Totalitarismus bezeichnet ein politisches System und eine Ideologie, die die totale Kontrolle des Staates über alle Bereiche des menschlichen Lebens anstrebt. Er vernichtet die Grenze zwischen öffentlicher und privater Sphäre.",
+  "ausfuehrlicheBeschreibung": "Der Totalitarismus ist ein politisches Phänomen des 20. Jahrhunderts, das durch Hannah Arendt seine maßgebliche philosophische Analyse erfahren hat. In ihrem Werk 'Elemente und Ursprünge totaler Herrschaft' untersucht Arendt die strukturellen Gemeinsamkeiten von Nationalsozialismus und Stalinismus und identifiziert den Totalitarismus als eine grundlegend neue Herrschaftsform, die sich von traditionellen Diktaturen unterscheidet. Das totalitäre Regime begnügt sich nicht mit der Kontrolle des Staates, sondern strebt die vollständige Durchdringung und Transformation der Gesellschaft an.\n\nArendt identifiziert mehrere Strukturmerkmale des Totalitarismus: die Rolle der Ideologie als allumfassende Erklärung der Wirklichkeit, den Terror als Mittel der permanenten Mobilisierung, die Auflösung aller sozialen Bindungen zugunsten der atomisierten Masse und die Vernichtung des Raums für politisches Handeln. Besonders bedeutsam ist Arendts Analyse der Rolle der Propaganda und der Geheimpolizei sowie der Konzentrations- und Vernichtungslager als Institutionen, in denen die totale Verfügung über den Menschen experimentell erprobt wurde.\n\nDie philosophische Relevanz des Totalitarismus-Konzepts geht über die historische Analyse hinaus. Arendt zeigt, dass der Totalitarismus eine Möglichkeit darstellt, die der modernen Gesellschaft mit ihrer Massenatomisierung und Traditionslosigkeit innewohnt. Ihre Warnung vor der Zerstörung des politischen Raums und der Pluralität menschlicher Meinungen bleibt auch für die Gegenwart bedeutsam.",
+  "kernthesen": [
+    "Der Totalitarismus strebt die totale Kontrolle über alle Lebensbereiche an und zerstört die Grenze zwischen Öffentlichem und Privatem.",
+    "Totalitäre Herrschaft unterscheidet sich grundlegend von traditioneller Diktatur und Tyrannei.",
+    "Die totalitäre Ideologie beansprucht eine allumfassende Erklärung der Geschichte und der Wirklichkeit.",
+    "Terror und Propaganda dienen der permanenten Mobilisierung und der Zerstörung aller sozialen Bindungen.",
+    "Der Totalitarismus ist eine Möglichkeit, die der modernen Massengesellschaft innewohnt."
+  ],
+  "hauptvertreter": ["hannah-arendt"],
+  "entstehung": "Der Begriff Totalitarismus entstand in den 1920er Jahren zunächst als Selbstbezeichnung des italienischen Faschismus. Hannah Arendts philosophische Analyse in 'Elemente und Ursprünge totaler Herrschaft' (1951) begründete die systematische Totalitarismustheorie. Carl Joachim Friedrich und Zbigniew Brzezinski ergänzten sie durch ihr Sechs-Punkte-Modell.",
+  "kritik": "Kritiker bemängeln, dass die Gleichsetzung von Nationalsozialismus und Stalinismus die fundamentalen Unterschiede beider Systeme verwischt. Zudem wird eingewandt, dass das Totalitarismus-Konzept als politisches Kampfinstrument des Kalten Krieges missbraucht wurde und die sozialen Ursachen der jeweiligen Regime ausblendet.",
+  "verwandteIsmen": ["absolutismus", "nationalismus"],
+  "schluesselwerke": [
+    {"titel": "Elemente und Ursprünge totaler Herrschaft", "autor": "Hannah Arendt", "jahr": "1951"},
+    {"titel": "Über die Revolution", "autor": "Hannah Arendt", "jahr": "1963"},
+    {"titel": "Eichmann in Jerusalem", "autor": "Hannah Arendt", "jahr": "1963"}
+  ]
+}

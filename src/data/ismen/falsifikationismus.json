@@ -1,0 +1,23 @@
+{
+  "slug": "falsifikationismus",
+  "name": "Falsifikationismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Falsifikationismus ist die wissenschaftstheoretische Position Karl Poppers, die besagt, dass eine Theorie nur dann wissenschaftlich ist, wenn sie prinzipiell durch Erfahrung widerlegbar ist. Falsifizierbarkeit ersetzt Verifizierbarkeit als Abgrenzungskriterium.",
+  "ausfuehrlicheBeschreibung": "Der Falsifikationismus wurde von Karl Popper als Lösung für zwei zentrale Probleme der Wissenschaftsphilosophie entwickelt: das Induktionsproblem und das Abgrenzungsproblem. Hume hatte gezeigt, dass induktive Schlüsse logisch nicht gerechtfertigt werden können – aus einer noch so großen Zahl beobachteter weißer Schwäne folgt nicht logisch, dass alle Schwäne weiß sind. Popper akzeptierte diese Einsicht und schlug vor, den Versuch der Verifikation durch den Versuch der Falsifikation zu ersetzen.\n\nDas Abgrenzungskriterium des Falsifikationismus besagt: Eine Theorie ist genau dann wissenschaftlich, wenn es mögliche Beobachtungen gibt, die sie widerlegen könnten. Je mehr potenzielle Falsifikatoren eine Theorie hat, desto gehaltvoller und wissenschaftlicher ist sie. Theorien, die gegen jede mögliche Widerlegung immunisiert sind – wie Poppers Kritik an der Psychoanalyse und dem Marxismus zeigt –, sind pseudowissenschaftlich. Wissenschaftlicher Fortschritt besteht darin, kühne Vermutungen aufzustellen und sie strengen Tests zu unterziehen.\n\nDer Falsifikationismus hat die Wissenschaftsphilosophie und die wissenschaftliche Praxis nachhaltig beeinflusst. Die Forderung nach Falsifizierbarkeit ist zu einem allgemein anerkannten Qualitätskriterium für wissenschaftliche Theorien geworden. Gleichzeitig haben Kuhn, Lakatos und Feyerabend gezeigt, dass die tatsächliche Wissenschaftspraxis komplexer ist als Poppers idealisiertes Modell und dass Wissenschaftler gescheiterte Theorien oft nicht sofort aufgeben.",
+  "kernthesen": [
+    "Eine Theorie ist wissenschaftlich genau dann, wenn sie prinzipiell durch Erfahrung falsifizierbar ist.",
+    "Induktive Verifikation ist logisch unmöglich; Fortschritt erfolgt durch Vermutung und Widerlegung.",
+    "Wissenschaftliche Theorien können nie bewiesen, sondern nur vorläufig bewährt werden.",
+    "Je mehr potenzielle Falsifikatoren eine Theorie hat, desto gehaltvoller ist sie.",
+    "Theorien, die sich gegen jede Widerlegung immunisieren, sind pseudowissenschaftlich."
+  ],
+  "hauptvertreter": ["karl-popper"],
+  "entstehung": "Der Falsifikationismus wurde von Karl Popper in den 1930er Jahren in seinem Hauptwerk 'Logik der Forschung' entwickelt. Er entstand als Kritik am Verifikationismus des Wiener Kreises und als Antwort auf Humes Induktionsproblem. Popper suchte nach einem logisch haltbaren Abgrenzungskriterium zwischen Wissenschaft und Pseudowissenschaft.",
+  "kritik": "Thomas Kuhn wandte ein, dass die Wissenschaftsgeschichte zeigt, dass Wissenschaftler Theorien bei einzelnen Falsifikationen nicht aufgeben, sondern an Hilfshypothesen festhalten. Lakatos argumentierte, dass isolierte Falsifikationen bedeutungslos sind und nur im Rahmen ganzer Forschungsprogramme beurteilt werden können.",
+  "verwandteIsmen": ["kritischer-rationalismus", "empirismus"],
+  "schluesselwerke": [
+    {"titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
+    {"titel": "Vermutungen und Widerlegungen", "autor": "Karl Popper", "jahr": "1963"},
+    {"titel": "Objektive Erkenntnis", "autor": "Karl Popper", "jahr": "1972"}
+  ]
+}

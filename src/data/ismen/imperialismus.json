@@ -1,0 +1,23 @@
+{
+  "slug": "imperialismus",
+  "name": "Imperialismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Imperialismus bezeichnet die politische und ökonomische Herrschaft eines Staates über andere Völker und Territorien. Philosophisch wird er als Ausdruck kapitalistischer Expansion und Machtstrebens analysiert.",
+  "ausfuehrlicheBeschreibung": "Der Imperialismus als historisches Phänomen umfasst die territoriale, wirtschaftliche und kulturelle Unterwerfung fremder Völker durch mächtige Nationalstaaten. Karl Marx und die marxistische Tradition haben die einflussreichste Analyse des Imperialismus geliefert, indem sie ihn als notwendige Konsequenz der kapitalistischen Produktionsweise deuteten. Der Kapitalismus ist gezwungen, ständig neue Märkte, Rohstoffquellen und Anlagesphären für überschüssiges Kapital zu erschließen, was zur kolonialen Expansion führt.\n\nMarx analysierte den Kolonialismus als Prozess der ursprünglichen Akkumulation, durch den das Kapital die Voraussetzungen seiner eigenen Entwicklung auf gewaltsame Weise schafft. Die Plünderung der Kolonien, der Sklavenhandel und die Zerstörung vorkapitalistischer Wirtschaftsformen waren nach Marx keine Abweichungen, sondern konstitutive Bestandteile der kapitalistischen Entwicklung. Lenin erweiterte diese Analyse in seiner Schrift 'Der Imperialismus als höchstes Stadium des Kapitalismus' und deutete den Ersten Weltkrieg als Folge imperialistischer Rivalitäten.\n\nDie philosophische Kritik des Imperialismus hat im 20. Jahrhundert durch die Dekolonisierungsbewegung und die postkoloniale Theorie neue Dimensionen gewonnen. Denker wie Frantz Fanon, Edward Said und Gayatri Spivak haben die kulturellen und psychologischen Dimensionen imperialer Herrschaft analysiert und gezeigt, wie der Imperialismus nicht nur materielle Ressourcen, sondern auch Identitäten, Sprachen und Wissensformen unterwirft.",
+  "kernthesen": [
+    "Der Imperialismus ist eine notwendige Folge der kapitalistischen Produktionsweise und ihres Expansionszwangs.",
+    "Koloniale Plünderung und Ausbeutung sind konstitutive Bestandteile der kapitalistischen Akkumulation.",
+    "Der Imperialismus unterwirft nicht nur materielle Ressourcen, sondern auch Kulturen und Identitäten.",
+    "Imperialistische Rivalitäten zwischen Großmächten führen zu Kriegen und globalen Konflikten.",
+    "Die Überwindung des Imperialismus erfordert die Überwindung der kapitalistischen Produktionsweise."
+  ],
+  "hauptvertreter": ["karl-marx"],
+  "entstehung": "Der moderne Imperialismus als politisches Phänomen entstand im 19. Jahrhundert mit dem Wettlauf der europäischen Mächte um Kolonien in Afrika und Asien. Marx analysierte die ökonomischen Grundlagen bereits in 'Das Kapital', während Lenin 1917 die systematischste marxistische Imperialismustheorie vorlegte.",
+  "kritik": "Der marxistischen Imperialismustheorie wird vorgeworfen, dass sie den Imperialismus zu einseitig ökonomisch erklärt und politische, kulturelle und religiöse Motive der Expansion unterschätzt. Zudem hat der sowjetische Imperialismus gezeigt, dass imperiale Herrschaft nicht auf kapitalistische Gesellschaften beschränkt ist.",
+  "verwandteIsmen": ["nationalismus", "marxismus"],
+  "schluesselwerke": [
+    {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
+    {"titel": "Der Imperialismus als höchstes Stadium des Kapitalismus", "autor": "Wladimir Lenin", "jahr": "1917"},
+    {"titel": "Die Verdammten dieser Erde", "autor": "Frantz Fanon", "jahr": "1961"}
+  ]
+}

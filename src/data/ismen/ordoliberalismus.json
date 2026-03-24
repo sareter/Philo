@@ -1,0 +1,23 @@
+{
+  "slug": "ordoliberalismus",
+  "name": "Ordoliberalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Ordoliberalismus verbindet freie Marktwirtschaft mit einer starken staatlichen Rahmenordnung. Der Staat soll den Wettbewerb sichern und soziale Härten ausgleichen, ohne selbst wirtschaftlich zu handeln.",
+  "ausfuehrlicheBeschreibung": "Der Ordoliberalismus ist eine wirtschaftsphilosophische Strömung, die einen Mittelweg zwischen reinem Laissez-faire-Kapitalismus und Planwirtschaft sucht. Sein Grundprinzip lautet: Der Markt braucht eine Ordnung, die der Staat setzen und durchsetzen muss. Ohne diese Rahmenordnung neigt der Markt zu Monopolbildung, Ausbeutung und sozialer Ungerechtigkeit.\n\nAdam Smiths Einsicht, dass der freie Markt Wohlstand erzeugt, wird vom Ordoliberalismus aufgegriffen, aber durch die Erkenntnis ergänzt, dass der Markt nur dann funktioniert, wenn er in eine gerechte Ordnung eingebettet ist. Der Staat hat die Aufgabe, diese Ordnung zu schaffen und zu bewahren: Er soll den Wettbewerb vor Monopolen schützen, soziale Sicherungssysteme aufbauen und die Chancengleichheit fördern, ohne selbst als Unternehmer aufzutreten.\n\nDer Ordoliberalismus ist die theoretische Grundlage der Sozialen Marktwirtschaft, die nach dem Zweiten Weltkrieg in der Bundesrepublik Deutschland eingeführt wurde. Er verbindet wirtschaftliche Effizienz mit sozialer Gerechtigkeit und Rechtsstaatlichkeit – eine Verbindung, die ihn von sowohl dem Neoliberalismus als auch dem Sozialismus unterscheidet.",
+  "kernthesen": [
+    "Der Markt braucht eine staatliche Rahmenordnung, um zu funktionieren",
+    "Der Staat soll den Wettbewerb schützen und soziale Härten ausgleichen",
+    "Monopolbildung muss aktiv verhindert werden",
+    "Wirtschaftliche Freiheit und soziale Gerechtigkeit sind vereinbar",
+    "Der Staat setzt die Ordnung, greift aber nicht als Unternehmer ein"
+  ],
+  "hauptvertreter": ["adam-smith"],
+  "entstehung": "Der Ordoliberalismus wurde in den 1930er und 1940er Jahren von der Freiburger Schule um Walter Eucken und Franz Böhm entwickelt. Er entstand als Reaktion auf das Scheitern des ungeregelten Kapitalismus in der Weimarer Republik und die Erfahrung totalitärer Wirtschaftslenkung.",
+  "kritik": "Kritiker von links werfen dem Ordoliberalismus vor, er beschönige den Kapitalismus und sei nicht radikal genug in seiner Umverteilung. Kritiker von rechts sehen in der staatlichen Rahmenordnung eine unnötige Beschränkung der Marktfreiheit, die Innovation und Wachstum hemmt.",
+  "verwandteIsmen": ["neoliberalismus", "kontraktarianismus", "demokratischer-sozialismus"],
+  "schluesselwerke": [
+    {"titel": "Der Wohlstand der Nationen", "autor": "Adam Smith", "jahr": "1776"},
+    {"titel": "Grundsätze der Wirtschaftspolitik", "autor": "Walter Eucken", "jahr": "1952"},
+    {"titel": "Wettbewerb und Monopolkampf", "autor": "Franz Böhm", "jahr": "1933"}
+  ]
+}

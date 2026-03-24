@@ -1,0 +1,23 @@
+{
+  "slug": "agentieller-realismus",
+  "name": "Agentieller Realismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Agentielle Realismus ist eine philosophische Position Karen Barads, die Materie und Bedeutung als untrennbar verflochten versteht. Erkenntnis ist kein passives Beobachten, sondern ein aktives, materiell-diskursives Eingreifen in die Welt.",
+  "ausfuehrlicheBeschreibung": "Der Agentielle Realismus wurde von der Physikerin und Philosophin Karen Barad entwickelt und verbindet Einsichten der Quantenphysik mit feministischer Theorie und Wissenschaftsphilosophie. Barads zentrale These lautet, dass die Grenze zwischen beobachtendem Subjekt und beobachtetem Objekt nicht vorgegeben ist, sondern durch 'Intra-Aktionen' – materiell-diskursive Praktiken – erst hervorgebracht wird. Dies steht im Kontrast zu Foucaults Diskursanalyse, die Barad um die materielle Dimension erweitert.\n\nBarad führt den Begriff der 'Intra-Aktion' ein, der sich von der herkömmlichen 'Interaktion' unterscheidet: Während Interaktion voraussetzt, dass die beteiligten Entitäten bereits vor ihrer Begegnung existieren, betont Intra-Aktion, dass Entitäten erst durch ihre wechselseitige Verflechtung konstituiert werden. Das quantenphysikalische Phänomen der Verschränkung dient als Modell für diese ontologische Einsicht. Materie ist nicht passiv, sondern aktiv an der Hervorbringung von Bedeutung und Wissen beteiligt.\n\nDer Agentielle Realismus hat weitreichende Konsequenzen für Ethik, Politik und Wissenschaftstheorie. Er fordert eine Verantwortungsethik, die anerkennt, dass wir durch unsere Erkenntnispraktiken die Welt, die wir untersuchen, mitgestalten. In der feministischen Wissenschaftstheorie, den Science and Technology Studies und der Umweltphilosophie hat er wichtige Impulse gegeben.",
+  "kernthesen": [
+    "Materie und Bedeutung sind untrennbar verflochten – es gibt keine rein diskursive oder rein materielle Ebene.",
+    "Entitäten werden durch Intra-Aktionen konstituiert, nicht durch vorgängige Interaktion fertiger Einheiten.",
+    "Erkenntnis ist kein passives Beobachten, sondern ein materiell-diskursives Eingreifen.",
+    "Die Grenze zwischen Subjekt und Objekt wird durch Messapparate und Praktiken hervorgebracht.",
+    "Ethische Verantwortung entsteht durch unsere konstitutive Verflechtung mit der Welt."
+  ],
+  "hauptvertreter": ["michel-foucault"],
+  "entstehung": "Der Agentielle Realismus wurde von Karen Barad ab den 1990er Jahren entwickelt und in ihrem Hauptwerk 'Meeting the Universe Halfway' (2007) systematisch dargelegt. Er verbindet Niels Bohrs Komplementaritätsphilosophie mit Foucaults Diskursanalyse und feministischer Wissenschaftstheorie.",
+  "kritik": "Kritiker bemängeln, dass der Agentielle Realismus quantenphysikalische Phänomene unzulässig auf makroskopische und soziale Zusammenhänge überträgt. Zudem wird die Frage gestellt, ob die Auflösung der Subjekt-Objekt-Grenze nicht die Möglichkeit kritischer Distanz und damit auch politischer Kritik untergrabe.",
+  "verwandteIsmen": ["neuer-materialismus", "feminismus", "posthumanismus"],
+  "schluesselwerke": [
+    {"titel": "Meeting the Universe Halfway", "autor": "Karen Barad", "jahr": "2007"},
+    {"titel": "Agential Realism", "autor": "Karen Barad", "jahr": "2003"},
+    {"titel": "Diffracting Diffraction", "autor": "Karen Barad", "jahr": "2014"}
+  ]
+}

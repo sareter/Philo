@@ -1,0 +1,23 @@
+{
+  "slug": "defaetismus",
+  "name": "Defätismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Defätismus ist eine philosophische Haltung der Resignation, die angesichts der Absurdität und Hoffnungslosigkeit der menschlichen Situation den Kampf gegen die widrigen Umstände als sinnlos betrachtet.",
+  "ausfuehrlicheBeschreibung": "Der Defätismus als philosophische Haltung entstand im Kontext der existentiellen Krisen des 20. Jahrhunderts – der Weltkriege, des Totalitarismus und des Verlusts traditioneller Sinnstiftungssysteme. Er bezeichnet die resignierte Annahme, dass alle menschlichen Bemühungen letztlich zum Scheitern verurteilt sind und dass Widerstand gegen die absurden Bedingungen der Existenz zwecklos ist. Der Defätist ergibt sich der Sinnlosigkeit, statt sie zu bekämpfen.\n\nAlbert Camus setzte sich intensiv mit dem Defätismus auseinander, lehnte ihn aber als philosophische Position ab. In „Der Mythos des Sisyphos“ argumentierte Camus, dass die Absurdität des Daseins weder zum Selbstmord noch zur Resignation berechtigt, sondern zur Revolte auffordert. Der Defätismus ist für Camus eine Versuchung, der der Mensch widerstehen muss – er ist die „philosophische Selbstaufgabe“, die das Absurde durch Gleichgültigkeit zu bewältigen versucht, statt es auszuhalten.\n\nDer Defätismus steht in engem Zusammenhang mit dem Nihilismus und dem Pessimismus, unterscheidet sich aber von beiden: Während der Nihilismus die Sinnlosigkeit als theoretische These formuliert und der Pessimismus die Welt als im Ganzen schlecht beurteilt, ist der Defätismus primär eine praktische Haltung des Aufgebens. Er verzichtet auf Handlung und Engagement, weil er jeden Versuch der Verbesserung für aussichtslos hält.",
+  "kernthesen": [
+    "Alle menschlichen Bemühungen sind letztlich zum Scheitern verurteilt.",
+    "Widerstand gegen die absurden Bedingungen der Existenz ist zwecklos.",
+    "Resignation ist die einzig ehrliche Antwort auf die Sinnlosigkeit des Daseins.",
+    "Hoffnung ist eine Illusion, die den Menschen vor der Wahrheit seiner Lage abschirmt.",
+    "Engagement und Handeln ändern nichts an den grundlegenden Bedingungen der menschlichen Existenz."
+  ],
+  "hauptvertreter": ["albert-camus"],
+  "entstehung": "Der Defätismus als philosophische Haltung kristallisierte sich im Kontext der Katastrophen des 20. Jahrhunderts heraus. Die Erfahrung der Weltkriege, des Holocaust und der atomaren Bedrohung ließ viele Intellektuelle an der Möglichkeit menschlichen Fortschritts und sinnvollen Handelns zweifeln.",
+  "kritik": "Camus selbst kritisierte den Defätismus als Selbstaufgabe, die das Absurde nicht aushält, sondern vor ihm kapituliert. Zudem wird eingewandt, dass der Defätismus eine selbsterfüllende Prophezeiung darstellt: Wer nicht handelt, kann auch nichts verändern, und bestätigt so seine eigene Resignation.",
+  "verwandteIsmen": ["pessimismus", "nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
+    {"titel": "Der Fremde", "autor": "Albert Camus", "jahr": "1942"},
+    {"titel": "Der Fall", "autor": "Albert Camus", "jahr": "1956"}
+  ]
+}

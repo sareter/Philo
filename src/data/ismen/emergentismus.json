@@ -1,0 +1,23 @@
+{
+  "slug": "emergentismus",
+  "name": "Emergentismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Emergentismus ist die philosophische Position, dass komplexe Systeme Eigenschaften hervorbringen können, die sich nicht aus den Eigenschaften ihrer Einzelteile ableiten lassen. Neue Qualitäten entstehen durch das Zusammenwirken einfacherer Elemente.",
+  "ausfuehrlicheBeschreibung": "Der Emergentismus vertritt die These, dass bei zunehmender Komplexität eines Systems neue Eigenschaften auftreten, die weder aus den Eigenschaften der einzelnen Bestandteile vorhersagbar noch auf diese reduzierbar sind. Das klassische Beispiel ist das Bewusstsein: Aus dem Zusammenwirken von Milliarden Neuronen, die jeweils nur elektrochemische Signale verarbeiten, entsteht subjektives Erleben – eine Qualität, die kein einzelnes Neuron besitzt.\n\nIn der philosophischen Tradition steht der Emergentismus zwischen dem Reduktionismus, der alle höheren Phänomene auf grundlegende physische Prozesse zurückführen will, und dem Dualismus, der verschiedene Seinsebenen als fundamental verschieden betrachtet. Die britischen Emergentisten des frühen 20. Jahrhunderts – Samuel Alexander, C. Lloyd Morgan und C. D. Broad – entwickelten die Position systematisch. Bertrand Russell trug mit seiner Theorie der neutralen Monismen zu verwandten Fragestellungen bei.\n\nDer Emergentismus hat in der gegenwärtigen Philosophie des Geistes, der Systemtheorie und der Komplexitätswissenschaft große Bedeutung erlangt. Er bietet einen Mittelweg zwischen der materialistischen Reduktion des Geistes auf Gehirnprozesse und der dualistischen Trennung von Geist und Materie. Kritisch diskutiert wird, ob Emergenz ein echtes ontologisches Phänomen oder lediglich ein Ausdruck unserer Erkenntnisgrenzen ist.",
+  "kernthesen": [
+    "Komplexe Systeme bringen Eigenschaften hervor, die sich nicht aus den Einzelteilen ableiten lassen.",
+    "Emergente Eigenschaften sind ontologisch real und nicht bloß epistemische Artefakte.",
+    "Das Bewusstsein ist ein paradigmatisches Beispiel für ein emergentes Phänomen.",
+    "Emergenz bietet einen Mittelweg zwischen Reduktionismus und Dualismus.",
+    "Die Wirklichkeit ist in Schichten organisiert, wobei jede höhere Schicht neue, irreduzible Eigenschaften aufweist."
+  ],
+  "hauptvertreter": ["bertrand-russell"],
+  "entstehung": "Der Emergentismus entwickelte sich im frühen 20. Jahrhundert als Reaktion auf die Grenzen des mechanistischen Reduktionismus. Die britischen Emergentisten Samuel Alexander und C. Lloyd Morgan prägten den Begriff in den 1920er Jahren. Die Position gewann durch die Komplexitätsforschung ab den 1990er Jahren erneut an Bedeutung.",
+  "kritik": "Kritiker werfen dem Emergentismus vor, dass der Begriff der Emergenz häufig vage bleibt und als mysteriöses Erklärungsprinzip fungiert, das die eigentliche Erklärung nur verschiebt. Zudem stellt sich die Frage, ob starke Emergenz mit dem kausalen Abgeschlossenheitsprinzip der Physik vereinbar ist.",
+  "verwandteIsmen": ["naturalismus", "holismus"],
+  "schluesselwerke": [
+    {"titel": "The Analysis of Mind", "autor": "Bertrand Russell", "jahr": "1921"},
+    {"titel": "Space, Time, and Deity", "autor": "Samuel Alexander", "jahr": "1920"},
+    {"titel": "Emergent Evolution", "autor": "C. Lloyd Morgan", "jahr": "1923"}
+  ]
+}

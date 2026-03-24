@@ -1,0 +1,23 @@
+{
+  "slug": "sozialdemokratismus",
+  "name": "Sozialdemokratismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Sozialdemokratismus strebt soziale Gerechtigkeit und wirtschaftliche Gleichheit innerhalb des bestehenden demokratischen Systems an. Er setzt auf schrittweise Reform statt auf Revolution und verbindet sozialistische Ideale mit parlamentarischer Demokratie.",
+  "ausfuehrlicheBeschreibung": "Der Sozialdemokratismus entstand im 19. Jahrhundert als reformorientierte Strömung innerhalb der Arbeiterbewegung. Während Marx und Engels die Revolution als Weg zur klassenlosen Gesellschaft proklamierten, argumentierten sozialdemokratische Denker wie Eduard Bernstein, dass der Sozialismus durch schrittweise Reformen innerhalb der parlamentarischen Demokratie erreicht werden könne. Bernsteins berühmte These – 'Das Endziel ist mir nichts, die Bewegung ist mir alles' – formulierte den Kerngedanken des Revisionismus.\n\nPhilosophisch verbindet der Sozialdemokratismus marxistische Analyse der sozialen Ungleichheit mit dem liberalen Bekenntnis zu individuellen Rechten und demokratischen Verfahren. Er akzeptiert die Marktwirtschaft als Produktionsform, besteht aber auf ihrer sozialen Regulierung durch den Wohlfahrtsstaat, Mitbestimmung und progressive Besteuerung. Die skandinavischen Sozialdemokratien – geprägt durch Denker wie Ernst Wigforss und Gunnar Myrdal – gelten als die erfolgreichsten Umsetzungen dieses Modells.\n\nIn der Gegenwart steht der Sozialdemokratismus vor der Herausforderung, seine traditionellen Ziele – soziale Sicherheit, Chancengleichheit, Arbeitnehmerrechte – unter den Bedingungen der Globalisierung, Digitalisierung und ökologischen Krise neu zu formulieren. Anthony Giddens' 'Dritter Weg' der 1990er Jahre war ein umstrittener Versuch, den Sozialdemokratismus an neoliberale Bedingungen anzupassen. Die Debatte über die Zukunft der Sozialdemokratie bleibt offen.",
+  "kernthesen": [
+    "Soziale Gerechtigkeit kann durch schrittweise Reform innerhalb der Demokratie erreicht werden.",
+    "Revolution ist weder notwendig noch wünschenswert – der parlamentarische Weg ist vorzuziehen.",
+    "Die Marktwirtschaft muss durch den Wohlfahrtsstaat sozial reguliert werden.",
+    "Individuelle Freiheit und soziale Gleichheit sind vereinbar und bedingen einander.",
+    "Bildung, Gesundheit und soziale Sicherheit sind grundlegende Rechte, nicht Privilegien."
+  ],
+  "hauptvertreter": ["karl-marx"],
+  "entstehung": "Der Sozialdemokratismus entstand in der zweiten Hälfte des 19. Jahrhunderts als reformistische Strömung der Arbeiterbewegung. Eduard Bernsteins 'Die Voraussetzungen des Sozialismus' (1899) markiert den philosophischen Bruch mit dem revolutionären Marxismus. Die deutschen und skandinavischen Sozialdemokratien wurden zu den einflussreichsten politischen Verwirklichungen.",
+  "kritik": "Marxistische Kritiker werfen dem Sozialdemokratismus vor, den Kapitalismus zu stabilisieren statt zu überwinden und sich mit kosmetischen Reformen zu begnügen. Liberale Kritiker sehen in der Ausweitung des Wohlfahrtsstaates eine Bedrohung individueller Freiheit und wirtschaftlicher Effizienz.",
+  "verwandteIsmen": ["marxismus", "liberalismus", "kommunitaristischer-liberalismus"],
+  "schluesselwerke": [
+    {"titel": "Die Voraussetzungen des Sozialismus", "autor": "Eduard Bernstein", "jahr": "1899"},
+    {"titel": "Der Weg zur Gleichheit", "autor": "Anthony Giddens", "jahr": "1998"},
+    {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"}
+  ]
+}

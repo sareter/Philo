@@ -1,0 +1,23 @@
+{
+  "slug": "informationsphilosophie",
+  "name": "Informationsphilosophie",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Die Informationsphilosophie untersucht Information als grundlegende Kategorie der Wirklichkeit und fragt nach dem Wesen, der Struktur und der ethischen Bedeutung von Information in der digitalen Welt.",
+  "ausfuehrlicheBeschreibung": "Die Informationsphilosophie (Philosophy of Information) wurde maßgeblich durch Luciano Floridi als eigenständige philosophische Disziplin etabliert. Sie versteht Information nicht nur als technischen oder kommunikativen Begriff, sondern als ontologische Grundkategorie: Die Wirklichkeit selbst kann als informationelles Geschehen verstanden werden. Floridi entwickelt eine 'Informationsethik', die das gesamte Infosphere – die Gesamtheit aller Informationsentitäten und -prozesse – als ethisch relevant betrachtet.\n\nPhilosophisch knüpft die Informationsphilosophie an Wittgensteins Sprachphilosophie an, die die Struktur der Sprache als Spiegel der Struktur der Wirklichkeit analysierte. In der Informationsphilosophie wird diese Einsicht auf digitale Informationssysteme übertragen: Die Art, wie wir Information strukturieren und verarbeiten, bestimmt unsere Wirklichkeitsauffassung. Claude Shannons mathematische Informationstheorie, Alan Turings Berechenbarkeitstheorie und Norbert Wieners Kybernetik bilden die wissenschaftlichen Grundlagen.\n\nDie Informationsphilosophie adressiert zentrale Fragen der Gegenwart: Was ist der ontologische Status digitaler Objekte? Haben informationelle Entitäten moralische Rechte? Wie verändert die Digitalisierung unser Verständnis von Wissen, Wahrheit und Privatheit? Sie bietet einen begrifflichen Rahmen für die philosophische Reflexion der digitalen Transformation und die Entwicklung einer Ethik für das Informationszeitalter.",
+  "kernthesen": [
+    "Information ist eine fundamentale ontologische Kategorie, nicht nur ein technischer Begriff.",
+    "Die gesamte Infosphäre – alle Informationsentitäten und -prozesse – ist ethisch relevant.",
+    "Die Art, wie wir Information strukturieren, bestimmt unser Wirklichkeitsverständnis.",
+    "Digitale Objekte haben einen eigenen ontologischen Status und verdienen philosophische Beachtung.",
+    "Eine Ethik des Informationszeitalters muss über menschenzentrierte Ansätze hinausgehen."
+  ],
+  "hauptvertreter": ["ludwig-wittgenstein"],
+  "entstehung": "Die Informationsphilosophie wurde ab den 2000er Jahren durch Luciano Floridi als eigenständige Disziplin etabliert. Sie baut auf der mathematischen Informationstheorie Shannons (1948), Turings Berechenbarkeitstheorie und der Kybernetik Wieners auf und reagiert auf die philosophischen Herausforderungen der digitalen Revolution.",
+  "kritik": "Kritiker bemängeln, dass die Informationsphilosophie den Begriff der Information zu weit fasst und dadurch seine analytische Schärfe verliert. Zudem wird die Frage gestellt, ob die Reduktion der Wirklichkeit auf Information nicht eine neue Form des Reduktionismus darstelle, der die Vielschichtigkeit menschlicher Erfahrung verfehle.",
+  "verwandteIsmen": ["dataismus", "algorithmische-ethik", "analytische-philosophie"],
+  "schluesselwerke": [
+    {"titel": "The Philosophy of Information", "autor": "Luciano Floridi", "jahr": "2011"},
+    {"titel": "The Ethics of Information", "autor": "Luciano Floridi", "jahr": "2013"},
+    {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "post-nihilismus",
+  "name": "Post-Nihilismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Post-Nihilismus sucht nach philosophischen Möglichkeiten jenseits des Nihilismus. Er akzeptiert die nihilistische Diagnose, versucht aber, über die bloße Verneinung hinauszugehen und neue Formen des Sinns zu entwickeln.",
+  "ausfuehrlicheBeschreibung": "Der Post-Nihilismus nimmt den Nihilismus ernst, weigert sich aber, bei ihm stehen zu bleiben. Er akzeptiert, dass die alten metaphysischen Gewissheiten unwiderruflich zerstört sind, dass es keinen Gott, kein vorgegebenes Telos und keine absolute Wahrheit gibt. Doch er fragt: Was kommt nach dem Nihilismus? Wie kann man denken, handeln und leben, nachdem man den Nihilismus durchschritten hat?\n\nGilles Deleuze entwickelte eine Philosophie der Affirmation, die über die nihilistische Negation hinausgeht. Anstatt das Fehlen transzendenter Werte zu beklagen, feierte er die Immanenz und die kreative Kraft des Werdens. Die Welt braucht keinen externen Sinn, weil sie in ihrem ständigen Werden und ihrer unerschöpflichen Differenz bereits reich genug ist. Deleuze ersetzte die nihilistische Frage nach dem Sinn durch die Frage nach der Intensität des Lebens.\n\nDer Post-Nihilismus ist keine Rückkehr zu vornihilistischen Positionen – er geht durch den Nihilismus hindurch, nicht um ihn herum. Die Werte und Bedeutungen, die er schafft, sind bewusst fragil, immanent und vorläufig. Sie beanspruchen keine ewige Geltung, aber sie ermöglichen ein Leben jenseits der nihilistischen Lähmung, ein Leben der schöpferischen Bejahung.",
+  "kernthesen": [
+    "Der Nihilismus muss durchschritten, nicht umgangen werden",
+    "Nach dem Nihilismus sind neue Formen des Sinns möglich",
+    "Immanenz und Werden ersetzen Transzendenz und Sein",
+    "Neue Werte sind bewusst fragil und vorläufig",
+    "Die Intensität des Lebens tritt an die Stelle der Sinnfrage"
+  ],
+  "hauptvertreter": ["gilles-deleuze"],
+  "entstehung": "Der Post-Nihilismus entwickelte sich in der zweiten Hälfte des 20. Jahrhunderts und der Gegenwart als Antwort auf die Erschöpfung nihilistischer und dekonstruktivistischer Positionen. Deleuzes Nietzsche-Interpretation und seine Philosophie der Differenz bilden wichtige Grundlagen.",
+  "kritik": "Kritiker bezweifeln, dass der Post-Nihilismus den Nihilismus wirklich überwinden kann, ohne in vornihilistische Illusionen zurückzufallen. Zudem wird die Frage gestellt, ob die Feier der Immanenz und des Werdens nicht selbst eine metaphysische Position ist, die sich nur als post-metaphysisch tarnt.",
+  "verwandteIsmen": ["aktiver-nihilismus", "existenzieller-nihilismus", "neopragmatismus"],
+  "schluesselwerke": [
+    {"titel": "Nietzsche und die Philosophie", "autor": "Gilles Deleuze", "jahr": "1962"},
+    {"titel": "Differenz und Wiederholung", "autor": "Gilles Deleuze", "jahr": "1968"},
+    {"titel": "Tausend Plateaus", "autor": "Gilles Deleuze", "jahr": "1980"}
+  ]
+}

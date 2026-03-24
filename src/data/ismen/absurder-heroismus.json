@@ -1,0 +1,23 @@
+{
+  "slug": "absurder-heroismus",
+  "name": "Absurder Heroismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der absurde Heroismus bezeichnet das trotzige Weiterkämpfen des Menschen angesichts der erkannten Sinnlosigkeit. Sisyphos wird zum Sinnbild des Menschen, der sein absurdes Schicksal bewusst annimmt.",
+  "ausfuehrlicheBeschreibung": "Der absurde Heroismus ist Albert Camus' Antwort auf das Problem des Absurden: Anstatt sich durch Selbstmord oder Glaubenssprünge dem Absurden zu entziehen, soll der Mensch es bewusst annehmen und dennoch weiterleben. Der absurde Held weiß, dass sein Tun letztlich sinnlos ist, und handelt trotzdem – nicht aus Hoffnung, sondern aus Trotz und Lebenskraft.\n\nDas Urbild des absurden Helden ist Sisyphos, der von den Göttern dazu verdammt wurde, einen Felsbrocken immer wieder den Berg hinaufzurollen, nur um ihn jedes Mal wieder herabrollen zu sehen. Camus fordert uns auf, uns Sisyphos als glücklichen Menschen vorzustellen: In dem Moment, in dem er sein Schicksal erkennt und bewusst annimmt, erhebt er sich über die Götter, die ihn bestrafen wollten.\n\nDer absurde Heroismus verbindet Lucidität mit Leidenschaft: Der absurde Held durchschaut die Sinnlosigkeit seiner Lage, lässt sich aber weder von Verzweiflung noch von falscher Hoffnung leiten. Er findet in der reinen Gegenwart, im bewussten Erleben jedes Augenblicks und in der Solidarität mit anderen Leidenden eine Art von Glück, das jenseits aller metaphysischen Tröstungen liegt.",
+  "kernthesen": [
+    "Der Mensch soll das Absurde bewusst annehmen statt davor zu fliehen",
+    "Sisyphos ist das Sinnbild des absurden Helden",
+    "Trotziges Weiterleben ist die angemessene Antwort auf die Sinnlosigkeit",
+    "Lucidität und Leidenschaft müssen vereint werden",
+    "Glück ist auch ohne metaphysischen Sinn möglich"
+  ],
+  "hauptvertreter": ["albert-camus"],
+  "entstehung": "Der absurde Heroismus wurde von Albert Camus in den 1940er Jahren entwickelt, insbesondere in seinem Essay Der Mythos des Sisyphos. Er entstand als positive Gegenbewegung zum destruktiven Nihilismus und als Alternative zum religiösen Existenzialismus Kierkegaards.",
+  "kritik": "Kritiker sehen im absurden Heroismus eine letztlich unbegründete Haltung, die aus der bloßen Verneinung des Sinns keine überzeugende Ethik ableiten kann. Zudem wird bezweifelt, ob die Vorstellung eines glücklichen Sisyphos nicht selbst eine Form jener Illusion ist, die Camus ablehnt.",
+  "verwandteIsmen": ["philosophischer-suizidismus", "existenzieller-nihilismus", "aktiver-nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
+    {"titel": "Der Mensch in der Revolte", "autor": "Albert Camus", "jahr": "1951"},
+    {"titel": "Die Pest", "autor": "Albert Camus", "jahr": "1947"}
+  ]
+}

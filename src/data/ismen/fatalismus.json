@@ -1,0 +1,23 @@
+{
+  "slug": "fatalismus",
+  "name": "Fatalismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Fatalismus ist die philosophische Überzeugung, dass alle Ereignisse unausweichlich vorherbestimmt sind und menschliches Handeln keinen Einfluss auf den Lauf der Dinge nehmen kann. Er fordert die Akzeptanz des Schicksals als höchste Tugend.",
+  "ausfuehrlicheBeschreibung": "Der Fatalismus gehört zu den ältesten philosophischen Positionen der Menschheitsgeschichte und findet sich bereits in der griechischen Antike, wo die Moiren als Schicksalsgöttinnen den Lebensfaden jedes Menschen spannen und durchtrennen. Die philosophische Grundüberzeugung besagt, dass alles Geschehen durch eine unabänderliche Verkettung von Ursachen oder durch einen göttlichen Plan festgelegt ist, sodass menschliche Willensfreiheit eine Illusion darstellt.\n\nIn der stoischen Philosophie wurde der Fatalismus zu einer elaborierten Lebenshaltung weiterentwickelt. Seneca und Marcus Aurelius lehrten, dass der Weise sein Schicksal nicht nur hinnimmt, sondern aktiv bejaht. Die amor fati – die Liebe zum Schicksal – wird zur höchsten Tugend erklärt. Dabei unterscheidet sich der stoische Fatalismus von einem passiven Fatalismus dadurch, dass er die innere Haltung des Menschen als den einzigen Bereich echter Freiheit anerkennt.\n\nDer Fatalismus hat in verschiedenen Kulturen und Epochen unterschiedliche Ausprägungen erfahren. Im islamischen Denken manifestiert er sich als Inshallah-Haltung, im Hinduismus als Karma-Lehre. In der modernen Philosophie lebt der Fatalismus in der Debatte um Determinismus und freien Willen fort. Kritiker sehen im Fatalismus eine Gefahr für moralische Verantwortung, da er die Grundlage für Schuld und Verdienst zu untergraben droht.",
+  "kernthesen": [
+    "Alle Ereignisse sind durch das Schicksal oder eine kosmische Ordnung vorherbestimmt.",
+    "Menschliche Willensfreiheit ist eine Illusion; unsere Entscheidungen sind Teil der vorbestimmten Kausalkette.",
+    "Die Akzeptanz des Unvermeidlichen ist die höchste Form der Weisheit.",
+    "Innere Gelassenheit entsteht durch die Einsicht in die Notwendigkeit aller Dinge.",
+    "Moralische Verantwortung muss im Kontext der Vorherbestimmung neu gedacht werden."
+  ],
+  "hauptvertreter": ["seneca", "marcus-aurelius"],
+  "entstehung": "Der Fatalismus hat seine Wurzeln in den mythologischen Schicksalsvorstellungen der antiken Griechen und wurde von den Stoikern im 3. Jahrhundert v. Chr. philosophisch systematisiert. Die Lehre vom Logos als alles durchdringendem Weltgesetz bildete die metaphysische Grundlage für die stoische Schicksalsbejahung.",
+  "kritik": "Dem Fatalismus wird vorgeworfen, dass er moralische Verantwortung und menschliche Handlungsfähigkeit untergrabe, da in einer vollständig vorherbestimmten Welt weder Lob noch Tadel gerechtfertigt wären. Zudem widerspricht die alltägliche Erfahrung des Entscheidens der fatalistischen These von der Illusion der Willensfreiheit.",
+  "verwandteIsmen": ["determinismus", "stoizismus"],
+  "schluesselwerke": [
+    {"titel": "Briefe an Lucilius", "autor": "Seneca", "jahr": "65"},
+    {"titel": "Selbstbetrachtungen", "autor": "Marcus Aurelius", "jahr": "180"},
+    {"titel": "Von der Vorsehung", "autor": "Seneca", "jahr": "64"}
+  ]
+}

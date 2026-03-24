@@ -1,0 +1,23 @@
+{
+  "slug": "phaenomenalismus",
+  "name": "Phänomenalismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Phänomenalismus vertritt die These, dass nur Erscheinungen (Phänomene) Gegenstand unserer Erkenntnis sein können. Die Wirklichkeit besteht für uns ausschließlich aus Sinneseindrücken und deren Zusammenhängen.",
+  "ausfuehrlicheBeschreibung": "Der Phänomenalismus entwickelte sich im 18. Jahrhundert als radikale Konsequenz des britischen Empirismus. George Berkeley argumentierte, dass materielle Gegenstände nichts anderes seien als Bündel von Sinneseindrücken – ihr Sein besteht in ihrem Wahrgenommenwerden (esse est percipi). David Hume radikalisierte diese Position, indem er auch das Ich auf ein Bündel von Wahrnehmungen reduzierte und die Vorstellung einer dahinterliegenden Substanz als unbegründet verwarf.\n\nFür den Phänomenalismus gibt es keinen Zugang zu einer Wirklichkeit jenseits der Erscheinungen. Aussagen über materielle Gegenstände lassen sich vollständig in Aussagen über tatsächliche und mögliche Sinneserfahrungen übersetzen. Ein Tisch ist nichts anderes als eine bestimmte Konstellation visueller, taktiler und anderer Eindrücke, die unter bestimmten Bedingungen auftreten. Die Annahme einer materiellen Substanz hinter den Erscheinungen ist eine unbegründete metaphysische Zutat.\n\nIm 20. Jahrhundert wurde der Phänomenalismus im logischen Positivismus wiederaufgegriffen. Rudolf Carnap versuchte in seinem „Logischen Aufbau der Welt“, alle wissenschaftlichen Begriffe aus elementaren Erlebnissen zu konstruieren. A. J. Ayer verteidigte den Phänomenalismus als Theorie der Wahrnehmung. Obwohl der strenge Phänomenalismus heute weitgehend aufgegeben ist, bleibt die Frage nach dem Verhältnis von Erscheinung und Wirklichkeit erkenntnistheoretisch virulent.",
+  "kernthesen": [
+    "Nur Erscheinungen (Phänomene) sind Gegenstand unserer Erkenntnis – eine Wirklichkeit an sich bleibt unzugänglich.",
+    "Materielle Gegenstände sind Bündel tatsächlicher und möglicher Sinneseindrücke.",
+    "Die Annahme einer materiellen Substanz hinter den Erscheinungen ist metaphysisch unbegründet.",
+    "Aussagen über die Außenwelt lassen sich in Aussagen über Sinneserfahrungen übersetzen.",
+    "Sein heißt wahrgenommen werden – ohne Wahrnehmung gibt es keine Existenz für uns."
+  ],
+  "hauptvertreter": ["david-hume"],
+  "entstehung": "Der Phänomenalismus entstand im 18. Jahrhundert aus dem britischen Empirismus. George Berkeleys Immaterialismus und David Humes radikaler Empirismus bilden die Grundlagen. Im 20. Jahrhundert wurde der Phänomenalismus durch den logischen Positivismus erneuert.",
+  "kritik": "Kritiker werfen dem Phänomenalismus vor, dass er die Unabhängigkeit der Außenwelt von unserer Wahrnehmung nicht erklären kann und in einen Solipsismus mündet. Zudem scheitert die vollständige Übersetzung von Gegenstandsaussagen in Erfahrungsaussagen an der Unerschöpflichkeit möglicher Sinneseindrücke.",
+  "verwandteIsmen": ["empirismus", "idealismus"],
+  "schluesselwerke": [
+    {"titel": "Eine Abhandlung über die Prinzipien der menschlichen Erkenntnis", "autor": "George Berkeley", "jahr": "1710"},
+    {"titel": "Ein Traktat über die menschliche Natur", "autor": "David Hume", "jahr": "1739"},
+    {"titel": "Der logische Aufbau der Welt", "autor": "Rudolf Carnap", "jahr": "1928"}
+  ]
+}

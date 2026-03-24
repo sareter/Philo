@@ -1,0 +1,23 @@
+{
+  "slug": "gruener-anarchismus",
+  "name": "Grüner Anarchismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Grüne Anarchismus verbindet anarchistische Herrschaftskritik mit ökologischem Denken. Er sieht die Zerstörung der Natur als Folge hierarchischer Gesellschaftsstrukturen und fordert eine dezentrale, naturverbundene Lebensweise.",
+  "ausfuehrlicheBeschreibung": "Der Grüne Anarchismus entstand in der zweiten Hälfte des 20. Jahrhunderts als Synthese von anarchistischem Denken und ökologischer Bewegung. Er argumentiert, dass die Herrschaft des Menschen über die Natur und die Herrschaft von Menschen über Menschen strukturell zusammenhängen: Hierarchische Gesellschaften neigen dazu, die Natur als Ressource auszubeuten, während egalitäre, dezentrale Gemeinschaften ein nachhaltigeres Verhältnis zur Natur entwickeln. Henry David Thoreaus Verbindung von zivilem Ungehorsam und Naturphilosophie bildet einen wichtigen Vorläufer.\n\nMurray Bookchins 'Soziale Ökologie' ist die philosophisch elaborierteste Variante des Grünen Anarchismus. Bookchin argumentiert, dass ökologische Probleme im Kern soziale Probleme sind und nur durch die Überwindung von Hierarchie, Kapitalismus und Staatsmacht gelöst werden können. Er entwirft eine Vision des 'libertären Kommunalismus', in dem dezentrale Gemeinden demokratisch über ihre Angelegenheiten entscheiden und in einem nachhaltigen Verhältnis zur Natur leben.\n\nRadikalere Varianten wie der Anarcho-Primitivismus (John Zerzan) fordern eine Rückkehr zu vorzivilisatorischen Lebensformen, während gemäßigtere Ansätze auf Permakultur, Gemeinschaftsgärten und alternative Ökonomien setzen. Der Grüne Anarchismus hat die Umweltbewegung, die Degrowth-Bewegung und die Transition-Town-Bewegung beeinflusst und bietet eine radikale Alternative zu marktbasierten und staatlichen Lösungen der Klimakrise.",
+  "kernthesen": [
+    "Die Zerstörung der Natur wurzelt in hierarchischen Gesellschaftsstrukturen.",
+    "Ökologische Probleme sind im Kern soziale Probleme und erfordern soziale Lösungen.",
+    "Dezentrale, egalitäre Gemeinschaften leben nachhaltiger als hierarchische Gesellschaften.",
+    "Staat und Kapitalismus sind die Hauptursachen der ökologischen Krise.",
+    "Ein naturverbundenes Leben in Freiheit erfordert die Überwindung aller Formen der Herrschaft."
+  ],
+  "hauptvertreter": ["henry-david-thoreau"],
+  "entstehung": "Der Grüne Anarchismus entwickelte sich ab den 1960er Jahren aus der Verbindung von anarchistischer Tradition und entstehender Umweltbewegung. Murray Bookchins 'Our Synthetic Environment' (1962) erschien im selben Jahr wie Rachel Carsons 'Silent Spring'. In den 1980er und 1990er Jahren gewannen radikalere Varianten wie Earth First! und Anarcho-Primitivismus an Bedeutung.",
+  "kritik": "Kritiker werfen dem Grünen Anarchismus vor, keine realistischen Alternativen für komplexe moderne Gesellschaften zu bieten. Insbesondere der Anarcho-Primitivismus wird als romantische Verklärung vormoderner Lebensverhältnisse kritisiert, die Krankheit, Gewalt und kurze Lebenserwartung ignoriere.",
+  "verwandteIsmen": ["anarchismus", "oekologische-ethik", "postanarchismus"],
+  "schluesselwerke": [
+    {"titel": "Die Ökologie der Freiheit", "autor": "Murray Bookchin", "jahr": "1982"},
+    {"titel": "Walden", "autor": "Henry David Thoreau", "jahr": "1854"},
+    {"titel": "Über die Pflicht zum Ungehorsam gegen den Staat", "autor": "Henry David Thoreau", "jahr": "1849"}
+  ]
+}

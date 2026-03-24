@@ -1,0 +1,23 @@
+{
+  "slug": "spekulativer-realismus",
+  "name": "Spekulativer Realismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Spekulative Realismus ist eine Strömung der Gegenwartsphilosophie, die die kantische Korrelation von Denken und Sein überwindet und den Zugang zu einer vom Menschen unabhängigen Realität beansprucht.",
+  "ausfuehrlicheBeschreibung": "Der Spekulative Realismus entstand 2007 mit einer Konferenz an der Goldsmiths University in London, an der Quentin Meillassoux, Graham Harman, Ray Brassier und Iain Hamilton Grant teilnahmen. Trotz ihrer Unterschiede einte sie die Kritik am 'Korrelationismus' – der seit Kant dominierenden Position, dass wir nur das Verhältnis zwischen Denken und Sein erkennen können, nie aber das Sein an sich. Meillassoux argumentiert in 'Nach der Endlichkeit', dass die mathematisierte Naturwissenschaft sehr wohl Aussagen über eine vom Denken unabhängige Realität machen kann.\n\nPhilosophisch knüpft der Spekulative Realismus an Heideggers Fundamentalontologie an, überwindet diese aber, indem er die anthropozentrische Perspektive aufgibt. Harman entwickelte die Objektorientierte Ontologie, Brassier radikalisierte den Nihilismus, Grant erneuerte Schellings Naturphilosophie. Meillassoux' Konzept der 'Hyperchaos' – der absoluten Kontingenz aller Naturgesetze – stellt eine der radikalsten Thesen der zeitgenössischen Philosophie dar.\n\nDer Spekulative Realismus hat die kontinentale Philosophie nachhaltig verändert, indem er den Fokus von Sprache, Subjektivität und Kultur zurück auf Ontologie und Metaphysik lenkte. Er hat fruchtbare Verbindungen zu Naturwissenschaft, Kunst und Literaturtheorie hergestellt und die Frage nach der Realität jenseits menschlicher Erfahrung wieder in den Mittelpunkt philosophischer Debatten gerückt.",
+  "kernthesen": [
+    "Der Korrelationismus – die Bindung des Seins an das Denken – muss überwunden werden.",
+    "Philosophie kann und muss Aussagen über eine vom Menschen unabhängige Realität machen.",
+    "Die mathematisierte Wissenschaft eröffnet einen Zugang zum Absoluten.",
+    "Naturgesetze sind radikal kontingent – es gibt keinen Grund, warum sie so sind, wie sie sind.",
+    "Eine neue Ontologie muss die anthropozentrische Verengung der Philosophie seit Kant aufbrechen."
+  ],
+  "hauptvertreter": ["martin-heidegger"],
+  "entstehung": "Der Spekulative Realismus entstand 2007 bei einer Konferenz an der Goldsmiths University in London. Quentin Meillassoux' Werk 'Nach der Endlichkeit' (2006) gilt als Gründungstext. Die Bewegung war von Anfang an heterogen und entwickelte sich in verschiedene Richtungen weiter.",
+  "kritik": "Kritiker werfen dem Spekulativen Realismus vor, den Korrelationismus als Strohmann zu konstruieren und die differenzierten Positionen der Phänomenologie und des Transzendentalismus zu vereinfachen. Zudem wird bemängelt, dass der Anspruch auf Zugang zur Realität an sich philosophisch unzureichend begründet werde.",
+  "verwandteIsmen": ["realismus", "objektorientierte-ontologie", "neuer-materialismus"],
+  "schluesselwerke": [
+    {"titel": "Nach der Endlichkeit", "autor": "Quentin Meillassoux", "jahr": "2006"},
+    {"titel": "Tool-Being", "autor": "Graham Harman", "jahr": "2002"},
+    {"titel": "Nihil Unbound", "autor": "Ray Brassier", "jahr": "2007"}
+  ]
+}

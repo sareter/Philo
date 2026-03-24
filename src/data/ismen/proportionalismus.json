@@ -1,0 +1,23 @@
+{
+  "slug": "proportionalismus",
+  "name": "Proportionalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Proportionalismus ist eine moraltheologische Position, die die Zulässigkeit einer Handlung an der Verhältnismäßigkeit der erwarteten Güter und Übel bemisst. Er lehnt absolute Handlungsverbote ab und fordert stattdessen eine sorgfältige Abwägung.",
+  "ausfuehrlicheBeschreibung": "Der Proportionalismus entwickelte sich in den 1960er und 1970er Jahren als Reformbewegung innerhalb der katholischen Moraltheologie. Er reagierte auf die als zu starr empfundene naturrechtliche Ethik und versuchte, deren Grundeinsichten mit einer stärker situationsbezogenen Urteilsbildung zu verbinden. Zentrale Vertreter wie Peter Knauer, Louis Janssens und Richard McCormick argumentierten, dass keine Handlung unabhängig von ihren Umständen und Konsequenzen als intrinsisch böse gelten könne.\n\nDer Kern des Proportionalismus liegt im Prinzip des proportionalen Grundes: Eine Handlung, die sowohl gute als auch schlechte Wirkungen hat, ist dann erlaubt, wenn ein verhältnismäßiger Grund vorliegt, der die negativen Nebenwirkungen rechtfertigt. Dies geht über die traditionelle Lehre von der Doppelwirkung hinaus, da der Proportionalismus auch die direkte Herbeiführung eines Übels zulässt, wenn der proportionale Grund dafür ausreichend ist.\n\nDie Position wurde von Papst Johannes Paul II. in der Enzyklika Veritatis Splendor (1993) offiziell zurückgewiesen, da sie die Existenz in sich schlechter Handlungen bestreite. Dennoch bleibt der Proportionalismus in der akademischen Moraltheologie einflussreich und hat die Diskussion über moralische Absolutheit und Situationsethik nachhaltig geprägt. Er steht zwischen dem strikten Deontologismus und dem reinen Konsequentialismus.",
+  "kernthesen": [
+    "Keine Handlung kann unabhängig von ihren Umständen als intrinsisch böse gelten.",
+    "Die Zulässigkeit einer Handlung bemisst sich an der Verhältnismäßigkeit von Gut und Übel.",
+    "Ein proportionaler Grund kann auch die direkte Inkaufnahme eines Übels rechtfertigen.",
+    "Moralische Absolutismen verkennen die Komplexität konkreter Handlungssituationen.",
+    "Sittliche Normen sind wichtige Orientierungen, aber keine ausnahmslosen Gesetze."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der Proportionalismus entstand in den 1960er Jahren im Kontext der nachkonziliaren Erneuerung der katholischen Moraltheologie. Peter Knauers Aufsatz über das Prinzip der Doppelwirkung (1965) und Richard McCormicks 'Ambiguity in Moral Choice' (1973) gelten als Grundlagentexte.",
+  "kritik": "Kritiker werfen dem Proportionalismus vor, letztlich auf einen Konsequentialismus hinauszulaufen und die Möglichkeit absoluter moralischer Normen zu untergraben. Die offizielle katholische Lehrautorität hat ihn als unvereinbar mit der Tradition zurückgewiesen.",
+  "verwandteIsmen": ["utilitarismus", "konsequentialismus", "situationsethik", "kasuistik", "deontologie"],
+  "schluesselwerke": [
+    {"titel": "Ambiguity in Moral Choice", "autor": "Richard McCormick", "jahr": "1973"},
+    {"titel": "The Principle of Double Effect", "autor": "Peter Knauer", "jahr": "1967"},
+    {"titel": "Veritatis Splendor", "autor": "Papst Johannes Paul II.", "jahr": "1993"}
+  ]
+}

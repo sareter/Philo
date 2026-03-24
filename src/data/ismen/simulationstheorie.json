@@ -1,0 +1,23 @@
+{
+  "slug": "simulationstheorie",
+  "name": "Simulationstheorie",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Die Simulationstheorie ist die philosophische These, dass unsere Wirklichkeit eine computergenerierte Simulation sein könnte, die von einer fortgeschrittenen Zivilisation betrieben wird. Sie aktualisiert antike Fragen über Schein und Sein.",
+  "ausfuehrlicheBeschreibung": "Die Simulationstheorie wurde 2003 von dem Philosophen Nick Bostrom in ihrem modernen Gewand formuliert. Sein Simulationsargument zeigt, dass mindestens eine von drei Aussagen wahr sein muss: Entweder erreichen Zivilisationen fast nie das technologische Niveau für Bewusstseinssimulationen, oder sie haben kein Interesse an solchen Simulationen, oder wir leben mit hoher Wahrscheinlichkeit in einer Simulation. Philosophisch steht die Simulationstheorie in einer langen Tradition, die bis zu Platons Höhlengleichnis zurückreicht.\n\nPlatons Höhlengleichnis beschreibt Gefangene, die Schatten an der Wand für die Wirklichkeit halten – eine Metapher, die der Simulationstheorie erstaunlich nahekommt. Auch Descartes' Gedankenexperiment des bösen Genius, der uns eine falsche Wirklichkeit vorgaukelt, und Putnams 'Gehirne im Tank' sind philosophische Vorläufer. Die Simulationstheorie übersetzt diese klassischen skeptischen Szenarien in die Sprache der Computertechnologie und macht sie dadurch empirisch diskutierbar.\n\nDie Simulationstheorie hat nicht nur in der akademischen Philosophie, sondern auch in der Populärkultur (Matrix), der Physik und der Informatik große Aufmerksamkeit erlangt. Sie wirft fundamentale Fragen auf: Ist die Unterscheidung zwischen 'real' und 'simuliert' philosophisch bedeutsam? Hat ein simuliertes Wesen dieselbe moralische Relevanz wie ein 'reales'? Und was würde sich ändern, wenn wir wüssten, dass wir in einer Simulation leben?",
+  "kernthesen": [
+    "Es ist philosophisch möglich, dass unsere gesamte Wirklichkeit eine Computersimulation ist.",
+    "Platons Höhlengleichnis nimmt die Grundeinsicht der Simulationstheorie vorweg.",
+    "Wenn fortgeschrittene Zivilisationen Simulationen erstellen können, leben wir wahrscheinlich in einer.",
+    "Die Unterscheidung zwischen realer und simulierter Erfahrung ist philosophisch fragwürdig.",
+    "Die Frage nach der Natur unserer Wirklichkeit bleibt offen und unentscheidbar."
+  ],
+  "hauptvertreter": ["platon"],
+  "entstehung": "Die moderne Simulationstheorie wurde 2003 von Nick Bostrom in seinem Aufsatz 'Are You Living in a Computer Simulation?' formuliert. Ihre philosophischen Wurzeln reichen über Descartes' Meditationen bis zu Platons Höhlengleichnis zurück. Der Film 'Matrix' (1999) popularisierte die Idee vor Bostroms akademischer Formulierung.",
+  "kritik": "Kritiker werfen der Simulationstheorie vor, empirisch unüberprüfbar und damit philosophisch unfruchtbar zu sein. Zudem wird argumentiert, dass sie einen infiniten Regress erzeugt – auch die Simulatoren könnten simuliert sein – und dass die Annahme computationaler Bewusstseinstheorie ungerechtfertigt sei.",
+  "verwandteIsmen": ["skeptizismus", "idealismus", "digitaler-dualismus"],
+  "schluesselwerke": [
+    {"titel": "Are You Living in a Computer Simulation?", "autor": "Nick Bostrom", "jahr": "2003"},
+    {"titel": "Der Staat (Höhlengleichnis)", "autor": "Platon", "jahr": "ca. 375 v. Chr."},
+    {"titel": "Meditationen über die Grundlagen der Philosophie", "autor": "René Descartes", "jahr": "1641"}
+  ]
+}

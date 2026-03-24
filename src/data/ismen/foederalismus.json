@@ -1,0 +1,24 @@
+{
+  "slug": "foederalismus",
+  "name": "Föderalismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Föderalismus ist die politische Philosophie, die eine bundesstaatliche Ordnung mit vertikaler Gewaltenteilung zwischen Zentralstaat und Gliedstaaten befürwortet. Er sieht in der Verteilung politischer Macht auf verschiedene Ebenen einen wirksamen Schutz vor Machtmissbrauch und eine Garantie für Freiheit und Vielfalt.",
+  "ausfuehrlicheBeschreibung": "Der Föderalismus (von lateinisch foedus = Bund, Vertrag) ist eine politische Ordnungsidee, die Macht auf mehrere staatliche Ebenen verteilt und damit sowohl die Einheit des Ganzen als auch die Eigenständigkeit der Teile gewährleisten will. Er verbindet das Prinzip der Einheit mit dem der Vielfalt und bildet eine Alternative sowohl zum zentralistischen Einheitsstaat als auch zur losen Konföderation unabhängiger Staaten.\n\nDie philosophischen Grundlagen des Föderalismus wurden in der Aufklärung gelegt. Montesquieu entwickelte in Vom Geist der Gesetze (1748) die Theorie der Gewaltenteilung und erkannte in der föderalen Ordnung eine Möglichkeit, die Vorteile großer Reiche mit denen kleiner Republiken zu verbinden. Große Reiche seien durch Despotismus bedroht, kleine Republiken durch äußere Feinde – der Föderalismus biete einen Ausweg aus diesem Dilemma. Johannes Althusius hatte bereits im 17. Jahrhundert in seiner Politica (1603) eine föderale Gesellschaftstheorie entworfen, die den Staat als einen stufenweisen Aufbau von Gemeinschaften verstand.\n\nDie praktische Verwirklichung des Föderalismus erfolgte vor allem durch die amerikanische Verfassung von 1787. Die Federalist Papers von Alexander Hamilton, James Madison und John Jay lieferten die theoretische Begründung für den amerikanischen Bundesstaat und entwickelten die Idee der checks and balances als Schutz vor Tyrannei. Madison argumentierte, dass ein großer föderaler Staat die Gefahr der Faktionsherrschaft besser eindämmen könne als kleine homogene Republiken.\n\nDer Föderalismus ist mehr als eine bloße Staatsorganisationsform – er verkörpert ein philosophisches Prinzip der Subsidiarität, wonach Aufgaben möglichst von der kleinsten kompetenten Einheit wahrgenommen werden sollen. Er schützt regionale Identitäten und kulturelle Vielfalt, ermöglicht politische Experimente auf lokaler Ebene und fördert die demokratische Teilhabe der Bürger. In der europäischen Integration spielt der Föderalismus als Ordnungsprinzip eine zentrale Rolle in den Debatten um die Zukunft der Europäischen Union.",
+  "kernthesen": [
+    "Politische Macht sollte auf mehrere staatliche Ebenen verteilt werden, um Machtmissbrauch zu verhindern.",
+    "Die vertikale Gewaltenteilung zwischen Zentralstaat und Gliedstaaten schützt die Freiheit der Bürger.",
+    "Das Subsidiaritätsprinzip verlangt, dass Aufgaben von der kleinsten kompetenten Einheit wahrgenommen werden.",
+    "Der Föderalismus verbindet politische Einheit mit kultureller und regionaler Vielfalt.",
+    "Föderale Ordnungen ermöglichen politische Experimente und fördern demokratische Teilhabe."
+  ],
+  "hauptvertreter": ["montesquieu"],
+  "entstehung": "Die Idee des Föderalismus hat Wurzeln in der Antike, insbesondere in den griechischen Staatenbünden und der römischen Bundesgenossenschaft. Johannes Althusius entwarf im 17. Jahrhundert eine systematische föderale Theorie. Die Aufklärung lieferte mit Montesquieus Gewaltenteilungslehre die philosophische Grundlage. Die amerikanische Verfassung von 1787 und die Federalist Papers schufen die erste moderne föderale Ordnung. In Europa entwickelte sich der Föderalismus im 19. und 20. Jahrhundert als Antwort auf die Herausforderungen von Nationalismus und Zentralismus.",
+  "kritik": "Kritiker des Föderalismus bemängeln, dass er zu ineffizienten Entscheidungsprozessen führt, da die Abstimmung zwischen verschiedenen Ebenen zeitaufwendig und kostspielig ist. Unitaristen argumentieren, dass föderale Strukturen die Handlungsfähigkeit des Staates schwächen und die Umsetzung einheitlicher Standards erschweren. Die Verteilung von Kompetenzen kann zu Zuständigkeitskonflikten und politischen Blockaden führen. Demokratietheoretiker weisen darauf hin, dass föderale Systeme zu einer Überrepräsentation kleiner Einheiten führen können und damit das Prinzip der Gleichheit der Stimmen verletzen. Zudem wird kritisiert, dass der Föderalismus regionale Ungleichheiten verstärken und die nationale Solidarität untergraben kann.",
+  "verwandteIsmen": ["liberalismus", "republikanismus"],
+  "schluesselwerke": [
+    { "titel": "Vom Geist der Gesetze", "autor": "Montesquieu", "jahr": "1748" },
+    { "titel": "Federalist Papers", "autor": "Alexander Hamilton, James Madison und John Jay", "jahr": "1788" },
+    { "titel": "Politica", "autor": "Johannes Althusius", "jahr": "1603" },
+    { "titel": "Das föderalistische Prinzip", "autor": "Pierre-Joseph Proudhon", "jahr": "1863" }
+  ]
+}

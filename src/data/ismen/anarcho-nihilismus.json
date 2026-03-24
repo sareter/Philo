@@ -1,0 +1,23 @@
+{
+  "slug": "anarcho-nihilismus",
+  "name": "Anarcho-Nihilismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Anarcho-Nihilismus verbindet die Ablehnung aller übergeordneten Werte mit der Verwerfung jeder staatlichen und gesellschaftlichen Autorität. Er strebt nach radikaler Befreiung von allen Zwängen.",
+  "ausfuehrlicheBeschreibung": "Der Anarcho-Nihilismus vereint zwei radikale Denktraditionen: den Nihilismus, der alle objektiven Werte, Wahrheiten und Autoritäten verwirft, und den Anarchismus, der jede Form staatlicher und institutioneller Herrschaft ablehnt. Das Ergebnis ist eine Philosophie der totalen Negation, die nicht nur bestimmte Herrschaftsformen, sondern das Prinzip der Herrschaft selbst als unbegründbar entlarvt.\n\nFriedrich Nietzsche lieferte mit seiner Umwertung aller Werte die philosophische Grundlage für diese Verbindung: Wenn alle traditionellen Werte nur Ausdruck von Machtverhältnissen sind, dann gibt es keine legitime Grundlage für Herrschaft. Der Staat, die Kirche, die Moral – all diese Institutionen beruhen auf Fiktionen, die im Interesse der Mächtigen aufrechterhalten werden. Die Entlarvung dieser Fiktionen ist der erste Schritt zur Befreiung.\n\nDer Anarcho-Nihilismus unterscheidet sich vom konstruktiven Anarchismus dadurch, dass er kein positives Gesellschaftsmodell anbietet. Er beschränkt sich auf die Zerstörung des Bestehenden, ohne eine Alternative vorzuschlagen. Diese radikale Negativität macht ihn zu einer der kompromisslosesten Positionen in der Geschichte der politischen Philosophie – und zugleich zu einer der umstrittensten.",
+  "kernthesen": [
+    "Alle Werte und Autoritäten sind unbegründbar und müssen verworfen werden",
+    "Staatliche Herrschaft beruht auf Fiktionen und Machtinteressen",
+    "Die Umwertung aller Werte führt zur Ablehnung jeder institutionellen Ordnung",
+    "Radikale Befreiung erfordert die Zerstörung aller bestehenden Strukturen",
+    "Es gibt keine legitime Grundlage für Herrschaft über andere"
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der Anarcho-Nihilismus entstand im 19. Jahrhundert aus der Verbindung russischer nihilistischer Bewegungen mit anarchistischen Strömungen. Nietzsches radikale Wertekritik lieferte die philosophische Untermauerung für die Ablehnung aller bestehenden Ordnungen.",
+  "kritik": "Kritiker werfen dem Anarcho-Nihilismus vor, er sei destruktiv ohne konstruktive Alternative und führe zu Chaos und Gewalt. Zudem wird argumentiert, dass die völlige Ablehnung von Ordnung und Werten selbst auf impliziten Wertannahmen beruht und sich daher selbst widerspricht.",
+  "verwandteIsmen": ["aktiver-nihilismus", "wertnihilismus", "libertaerer-sozialismus"],
+  "schluesselwerke": [
+    {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"},
+    {"titel": "Zur Genealogie der Moral", "autor": "Friedrich Nietzsche", "jahr": "1887"},
+    {"titel": "Götzen-Dämmerung", "autor": "Friedrich Nietzsche", "jahr": "1889"}
+  ]
+}

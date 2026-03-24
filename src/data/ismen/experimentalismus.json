@@ -1,0 +1,23 @@
+{
+  "slug": "experimentalismus",
+  "name": "Experimentalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Experimentalismus betrachtet Erfahrung und Experiment als Grundlagen aller Erkenntnis und allen Lernens. Denken ist ein Werkzeug zur Lösung praktischer Probleme, nicht zur Kontemplation ewiger Wahrheiten.",
+  "ausfuehrlicheBeschreibung": "Der Experimentalismus ist eine philosophische Position, die das experimentelle Denken zum Kern aller Erkenntnis und aller Bildung erhebt. Er verbindet die wissenschaftliche Methode des Experiments mit einer Philosophie der Erfahrung und behauptet, dass alles Wissen aus der aktiven Auseinandersetzung mit der Umwelt entsteht, nicht aus passiver Beobachtung oder reiner Vernunft.\n\nJohn Dewey entwickelte den Experimentalismus als umfassende Philosophie, die Erkenntnistheorie, Ethik und Pädagogik verbindet. Für Dewey ist Denken kein Selbstzweck, sondern ein Instrument zur Lösung konkreter Probleme. Eine Idee ist wahr, wenn sie sich als wirksames Werkzeug zur Bewältigung einer problematischen Situation erweist. Bildung muss daher auf Erfahrung und Handeln basieren, nicht auf der bloßen Vermittlung von Wissen.\n\nDer Experimentalismus hat eine zutiefst demokratische Dimension: Wenn Wissen aus Erfahrung entsteht und sich in der Praxis bewähren muss, dann ist jeder Mensch ein potentieller Wissender, und die Demokratie wird zur besten Form der kollektiven Problemlösung. Dewey sah in der demokratischen Gesellschaft ein großes Experiment, in dem die kollektive Intelligenz aller Bürger mobilisiert wird.",
+  "kernthesen": [
+    "Alles Wissen entsteht aus aktiver Erfahrung und Experiment",
+    "Denken ist ein Werkzeug zur Lösung praktischer Probleme",
+    "Eine Idee ist wahr, wenn sie sich in der Praxis bewährt",
+    "Bildung muss auf Erfahrung und Handeln basieren",
+    "Demokratie ist die beste Form kollektiver Problemlösung"
+  ],
+  "hauptvertreter": ["john-dewey"],
+  "entstehung": "Der Experimentalismus wurde von John Dewey im frühen 20. Jahrhundert als Weiterentwicklung des amerikanischen Pragmatismus entwickelt. Er entstand im Kontext der progressiven Bildungsbewegung und der amerikanischen Demokratietradition.",
+  "kritik": "Kritiker werfen dem Experimentalismus vor, er reduziere Wahrheit auf bloße Nützlichkeit und unterschätze den Eigenwert theoretischer Erkenntnis. Zudem wird seine Pädagogik als zu unstrukturiert kritisiert, da sie den Lernenden nicht genügend Orientierung biete.",
+  "verwandteIsmen": ["neopragmatismus", "naturalistische-erkenntnistheorie", "kritischer-rationalismus"],
+  "schluesselwerke": [
+    {"titel": "Demokratie und Erziehung", "autor": "John Dewey", "jahr": "1916"},
+    {"titel": "Erfahrung und Natur", "autor": "John Dewey", "jahr": "1925"},
+    {"titel": "Logik: Die Theorie der Forschung", "autor": "John Dewey", "jahr": "1938"}
+  ]
+}

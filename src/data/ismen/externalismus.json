@@ -1,0 +1,23 @@
+{
+  "slug": "externalismus",
+  "name": "Externalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Externalismus ist die erkenntnistheoretische Position, dass die Rechtfertigung von Überzeugungen auch von äußeren Faktoren abhängen kann, die dem Subjekt nicht bewusst zugänglich sein müssen. Wissen erfordert keine vollständige innere Transparenz.",
+  "ausfuehrlicheBeschreibung": "Der Externalismus in der Erkenntnistheorie vertritt die These, dass Wissen und Rechtfertigung nicht ausschließlich auf inneren, dem Bewusstsein zugänglichen Faktoren beruhen müssen. Eine Überzeugung kann gerechtfertigt sein, wenn sie durch einen zuverlässigen kognitiven Prozess hervorgebracht wurde, auch wenn das Subjekt diesen Prozess nicht vollständig durchschaut. Alvin Goldmans Reliabilismus ist die bekannteste Version: Eine Überzeugung gilt als gerechtfertigt, wenn sie durch einen Prozess entsteht, der zuverlässig wahre Überzeugungen hervorbringt.\n\nPhilosophisch steht der Externalismus in Spannung zur cartesianischen Tradition und findet Vorläufer in Wittgensteins Spätphilosophie. Wittgenstein zeigte in 'Über Gewissheit', dass viele unserer grundlegenden Überzeugungen nicht auf expliziter Rechtfertigung beruhen, sondern auf einer Lebensform – auf Praktiken und Gewissheiten, die dem Zweifel entzogen sind. Die Bedeutung unserer Worte und Gedanken wird durch ihren Gebrauch in sozialen Kontexten bestimmt, nicht durch innere mentale Zustände. Putnams 'Gehirne im Tank'-Argument und der semantische Externalismus zeigen zudem, dass der Inhalt unserer Gedanken von der Umwelt abhängt.\n\nDer Externalismus hat die Erkenntnistheorie des späten 20. Jahrhunderts grundlegend verändert. Er bietet eine Antwort auf skeptische Herausforderungen und ermöglicht ein natürlicheres Verständnis von Wissen, das die Einbettung des Erkennenden in seine Umwelt und Gemeinschaft berücksichtigt. Die Debatte zwischen Internalismus und Externalismus bleibt eine der fruchtbarsten in der zeitgenössischen Philosophie.",
+  "kernthesen": [
+    "Wissen und Rechtfertigung können auch auf äußeren Faktoren beruhen, die dem Subjekt nicht bewusst sind.",
+    "Eine Überzeugung ist gerechtfertigt, wenn sie durch einen zuverlässigen kognitiven Prozess entsteht.",
+    "Die Bedeutung unserer Gedanken hängt von der Umwelt ab, nicht nur von inneren Zuständen.",
+    "Grundlegende Gewissheiten beruhen auf Lebensformen und Praktiken, nicht auf expliziter Begründung.",
+    "Wissen erfordert keine vollständige innere Transparenz über die eigenen Rechtfertigungsgründe."
+  ],
+  "hauptvertreter": ["ludwig-wittgenstein"],
+  "entstehung": "Der Externalismus wurde in den 1960er und 1970er Jahren durch Alvin Goldmans Reliabilismus, Hilary Putnams semantischen Externalismus und Tyler Burges anti-individualistische Argumente entwickelt. Wittgensteins 'Über Gewissheit' (1969) lieferte wichtige Impulse für die Abkehr vom cartesianischen Internalismus.",
+  "kritik": "Kritiker werfen dem Externalismus vor, den intuitiven Zusammenhang zwischen Wissen und bewusster Verantwortung aufzugeben. Wenn ein Subjekt nicht weiß, warum seine Überzeugung gerechtfertigt ist, scheint etwas Wesentliches an der Idee epistemischer Rationalität verloren zu gehen.",
+  "verwandteIsmen": ["internalismus", "pragmatismus", "naturalismus"],
+  "schluesselwerke": [
+    {"titel": "Über Gewissheit", "autor": "Ludwig Wittgenstein", "jahr": "1969"},
+    {"titel": "What Is Justified Belief?", "autor": "Alvin Goldman", "jahr": "1979"},
+    {"titel": "The Meaning of 'Meaning'", "autor": "Hilary Putnam", "jahr": "1975"}
+  ]
+}

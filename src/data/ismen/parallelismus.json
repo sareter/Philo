@@ -1,0 +1,23 @@
+{
+  "slug": "parallelismus",
+  "name": "Parallelismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der psychophysische Parallelismus behauptet, dass Geist und Körper zwei parallele, nicht kausal interagierende Reihen bilden. Mentale und physische Ereignisse verlaufen synchron, ohne einander zu verursachen.",
+  "ausfuehrlicheBeschreibung": "Der psychophysische Parallelismus entstand als Lösungsversuch des Leib-Seele-Problems, das Descartes durch seine dualistische Trennung von res cogitans und res extensa aufgeworfen hatte. Gottfried Wilhelm Leibniz entwickelte mit seiner Theorie der prästabilierten Harmonie die einflussreichste Form des Parallelismus: Gott hat Geist und Körper von Anfang an so aufeinander abgestimmt, dass sie wie zwei synchrone Uhren parallel laufen, ohne kausal aufeinander einzuwirken.\n\nFür Leibniz besteht die Wirklichkeit aus Monaden – einfachen, unteilbaren Substanzen, die keine Fenster haben, durch die etwas ein- oder ausgehen könnte. Jede Monade entfaltet ihr inneres Programm unabhängig von allen anderen, doch Gott hat bei der Schöpfung dafür gesorgt, dass alle Monaden perfekt aufeinander abgestimmt sind. Der Eindruck kausaler Wechselwirkung zwischen Geist und Körper ist eine Illusion – in Wahrheit handelt es sich um eine prästabilierte Korrelation.\n\nIm 19. Jahrhundert wurde der Parallelismus durch Gustav Theodor Fechner und Wilhelm Wundt in die experimentelle Psychologie eingeführt. Sie vertraten einen „psychophysischen Parallelismus“ als methodologisches Prinzip: Psychische und physische Prozesse können unabhängig voneinander untersucht werden, da sie einander nicht kausal beeinflussen. In der heutigen Philosophie des Geistes lebt der Parallelismus in der Debatte um Epiphänomenalismus und nichtreduktiven Physikalismus fort.",
+  "kernthesen": [
+    "Geist und Körper bilden zwei parallele Reihen, die nicht kausal aufeinander einwirken.",
+    "Die Korrelation zwischen mentalen und physischen Ereignissen beruht auf prästabilierter Harmonie.",
+    "Monaden haben keine Fenster – es gibt keine kausale Wechselwirkung zwischen Substanzen.",
+    "Die scheinbare Kausalität zwischen Geist und Körper ist eine von Gott eingerichtete Korrespondenz.",
+    "Psychische und physische Prozesse können methodologisch unabhängig untersucht werden."
+  ],
+  "hauptvertreter": ["gottfried-wilhelm-leibniz"],
+  "entstehung": "Der Parallelismus entwickelte sich Ende des 17. Jahrhunderts aus Leibniz' Monadenlehre als Alternative zu Descartes' interaktionistischem Dualismus und Malebranches Okkasionalismus. Im 19. Jahrhundert wurde er als methodologisches Prinzip der experimentellen Psychologie übernommen.",
+  "kritik": "Kritiker werfen dem Parallelismus vor, dass die prästabilierte Harmonie eine ad-hoc-Erklärung ist, die das Problem der Geist-Körper-Beziehung nicht löst, sondern nur verlagert. Zudem widerspricht die Annahme fehlender kausaler Wechselwirkung der alltäglichen Erfahrung und neurowissenschaftlichen Erkenntnissen.",
+  "verwandteIsmen": ["dualismus", "occasionalismus"],
+  "schluesselwerke": [
+    {"titel": "Monadologie", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1714"},
+    {"titel": "Neues System der Natur", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1695"},
+    {"titel": "Elemente der Psychophysik", "autor": "Gustav Theodor Fechner", "jahr": "1860"}
+  ]
+}

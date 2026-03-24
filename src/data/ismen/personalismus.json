@@ -1,0 +1,23 @@
+{
+  "slug": "personalismus",
+  "name": "Personalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Personalismus stellt die menschliche Person als unverwechselbares, würdevolles Wesen in den Mittelpunkt philosophischen Denkens. Die Person ist weder auf ein bloßes Objekt noch auf ein abstraktes Subjekt reduzierbar.",
+  "ausfuehrlicheBeschreibung": "Der Personalismus entstand im frühen 20. Jahrhundert als Reaktion auf den Individualismus des Liberalismus einerseits und den Kollektivismus des Marxismus andererseits. Emmanuel Mounier begründete den französischen Personalismus in den 1930er Jahren als eine Philosophie, die die Würde und Einzigartigkeit jeder menschlichen Person betont, ohne sie von ihrer Gemeinschaft zu isolieren. Die Person ist wesentlich auf Beziehung, Dialog und Engagement angelegt.\n\nEdmund Husserls Phänomenologie lieferte wichtige methodische Grundlagen für den Personalismus, insbesondere durch die Analyse der Intersubjektivität und der Lebenswelt. Die phänomenologische Betrachtung der Person zeigt, dass der Mensch nicht als isoliertes Bewusstsein zu verstehen ist, sondern stets in einer Welt mit anderen existiert. Max Scheler und Edith Stein entwickelten auf dieser Grundlage eine personalistische Wertethik, die die emotionale und leibliche Dimension des Personseins ernst nimmt.\n\nDer Personalismus hat bedeutende Auswirkungen auf die Sozialethik, die Menschenrechtsdiskussion und die Bioethik gehabt. Die Betonung der unveräußerlichen Würde der Person bildet eine philosophische Grundlage für Menschenrechte und soziale Gerechtigkeit. In der Gegenwart wird der personalistische Ansatz in Debatten über Transhumanismus, künstliche Intelligenz und medizinische Ethik fruchtbar gemacht.",
+  "kernthesen": [
+    "Die menschliche Person ist ein unverwechselbares, würdevolles Wesen, das nicht auf Funktionen reduziert werden darf.",
+    "Personsein verwirklicht sich in Beziehungen, Dialogund Engagement für andere.",
+    "Weder Individualismus noch Kollektivismus werden der Wirklichkeit der Person gerecht.",
+    "Die Person ist leiblich, geistig und sozial zugleich und kann nicht auf eine dieser Dimensionen verkürzt werden.",
+    "Die Würde der Person ist unveräußerlich und bildet die Grundlage aller Ethik."
+  ],
+  "hauptvertreter": ["edmund-husserl"],
+  "entstehung": "Der Personalismus entwickelte sich in den 1930er Jahren in Frankreich um die Zeitschrift Esprit, die Emmanuel Mounier 1932 gründete. Er vereinte Impulse der Phänomenologie Husserls, der Dialogphilosophie Martin Bubers und der christlichen Sozialethik.",
+  "kritik": "Kritiker werfen dem Personalismus vor, dass der Begriff der Person zu unscharf bleibt und die Grenze zwischen philosophischer und theologischer Argumentation oft verwischt wird. Zudem wird bemängelt, dass der Personalismus zu wenig konkrete politische Handlungsanweisungen bietet und in der Gefahr steht, konservative Positionen zu verdecken.",
+  "verwandteIsmen": ["existenzialismus", "phenomenologie"],
+  "schluesselwerke": [
+    {"titel": "Personalismus", "autor": "Emmanuel Mounier", "jahr": "1949"},
+    {"titel": "Der Formalismus in der Ethik und die materiale Wertethik", "autor": "Max Scheler", "jahr": "1913"},
+    {"titel": "Ideen zu einer reinen Phänomenologie", "autor": "Edmund Husserl", "jahr": "1913"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "weltschmerz-philosophie",
+  "name": "Weltschmerz-Philosophie",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Die Weltschmerz-Philosophie erhebt den Weltschmerz – das tiefe Leid an der Unvollkommenheit der Welt – zum philosophischen Konzept. Sie sieht eine unüberbrückbare Kluft zwischen Ideal und Wirklichkeit.",
+  "ausfuehrlicheBeschreibung": "Die Weltschmerz-Philosophie macht den im 19. Jahrhundert geprägten Begriff des Weltschmerzes zum Gegenstand systematischer philosophischer Reflexion. Weltschmerz bezeichnet das tiefe, umfassende Leid, das aus der Erkenntnis der Kluft zwischen den Idealen des Menschen und der Wirklichkeit der Welt erwächst. Es ist kein bloßes Gefühl, sondern eine philosophische Einsicht in die fundamentale Unvollkommenheit des Daseins.\n\nArthur Schopenhauer lieferte die tiefste philosophische Begründung des Weltschmerzes: Der blinde Wille, der alles Seiende durchdringt, erzeugt unablässig Bedürfnisse und Wünsche, deren Befriedigung nie von Dauer ist. Das Leben pendelt zwischen Schmerz und Langeweile, und selbst die Erfüllung eines Wunsches führt nur zu neuer Leere. Die Welt ist, wie sie ist, die schlechteste aller möglichen.\n\nDer Weltschmerz unterscheidet sich von gewöhnlicher Traurigkeit durch seine kosmische Dimension: Er richtet sich nicht auf einzelne Ereignisse, sondern auf die Gesamtheit des Daseins. Er ist die emotionale Antwort auf die philosophische Einsicht, dass die Welt nicht so sein kann, wie der Mensch es sich wünscht – und dass dieser Zustand nicht zu ändern ist.",
+  "kernthesen": [
+    "Zwischen Ideal und Wirklichkeit klafft eine unüberbrückbare Kluft",
+    "Der Weltschmerz ist keine bloße Stimmung, sondern eine philosophische Einsicht",
+    "Das Dasein pendelt zwischen Schmerz und Langeweile",
+    "Die Unvollkommenheit der Welt ist nicht zu beheben",
+    "Weltschmerz richtet sich auf die Gesamtheit des Daseins, nicht auf Einzelnes"
+  ],
+  "hauptvertreter": ["arthur-schopenhauer"],
+  "entstehung": "Die Weltschmerz-Philosophie entstand im frühen 19. Jahrhundert im Kontext der deutschen Romantik und des philosophischen Pessimismus. Schopenhauers Hauptwerk von 1819 lieferte die metaphysische Grundlage für den zuvor eher literarisch gebrauchten Begriff.",
+  "kritik": "Kritiker werfen der Weltschmerz-Philosophie vor, sie verallgemeinere eine subjektive Stimmungslage zu einer universellen Wahrheit. Zudem wird argumentiert, dass sie durch ihre Absolutheit jede Möglichkeit der Verbesserung und des Fortschritts leugnet und so zu politischer Passivität führt.",
+  "verwandteIsmen": ["kosmischer-pessimismus", "leidensphilosophie", "melancholismus", "nihilistischer-pessimismus"],
+  "schluesselwerke": [
+    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
+    {"titel": "Aphorismen zur Lebensweisheit", "autor": "Arthur Schopenhauer", "jahr": "1851"}
+  ]
+}

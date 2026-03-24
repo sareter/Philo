@@ -1,0 +1,23 @@
+{
+  "slug": "interaktionismus",
+  "name": "Interaktionismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Interaktionismus behauptet, dass Geist und Körper als zwei verschiedene Substanzen kausal aufeinander einwirken. Mentale Zustände verursachen physische Handlungen und umgekehrt beeinflussen körperliche Prozesse das Bewusstsein.",
+  "ausfuehrlicheBeschreibung": "Der Interaktionismus ist die von René Descartes begründete Position im Leib-Seele-Problem. Descartes vertrat einen strikten Dualismus von denkender Substanz (res cogitans) und ausgedehnter Substanz (res extensa), behauptete aber zugleich, dass beide Substanzen kausal aufeinander einwirken. Die Zirbeldrüse (Epiphyse) im Gehirn sollte als Vermittlungsinstanz dienen, über die der Geist den Körper steuert und umgekehrt körperliche Eindrücke das Bewusstsein erreichen.\n\nDas Hauptproblem des Interaktionismus besteht darin, zu erklären, wie zwei wesensverschiedene Substanzen kausal aufeinander einwirken können. Wenn der Geist unräumlich und der Körper rein materiell ist, scheint keine gemeinsame Schnittstelle möglich. Elisabeth von der Pfalz formulierte diese Kritik bereits in ihrer Korrespondenz mit Descartes und forderte eine Erklärung des Kausalmechanismus. Descartes' Antwort blieb unbefriedigend.\n\nTrotz dieser Schwierigkeiten bleibt der Interaktionismus eine intuitive Position, die unserer alltäglichen Erfahrung entspricht: Wir erleben, dass unsere Gedanken und Absichten körperliche Handlungen verursachen und dass körperliche Zustände unser Bewusstsein beeinflussen. In der modernen Philosophie des Geistes vertrat Karl Popper gemeinsam mit dem Neurowissenschaftler John Eccles eine erneuerte Form des Interaktionismus. Die Debatte um mentale Verursachung bleibt eines der zentralen Probleme der Philosophie des Geistes.",
+  "kernthesen": [
+    "Geist und Körper sind zwei wesensverschiedene Substanzen, die kausal aufeinander einwirken.",
+    "Mentale Zustände wie Absichten und Wünsche verursachen körperliche Handlungen.",
+    "Körperliche Prozesse wie Sinnesreize verursachen mentale Zustände wie Empfindungen.",
+    "Die Zirbeldrüse dient als Vermittlungsinstanz zwischen Geist und Körper.",
+    "Die alltägliche Erfahrung der mentalen Verursachung bestätigt den Interaktionismus."
+  ],
+  "hauptvertreter": ["rene-descartes"],
+  "entstehung": "Der Interaktionismus wurde von René Descartes in seinen Meditationen (1641) und den Leidenschaften der Seele (1649) systematisch ausgearbeitet. Er entstand als Konsequenz des cartesischen Dualismus und löste eine anhaltende philosophische Debatte über das Leib-Seele-Problem aus.",
+  "kritik": "Die Hauptkritik richtet sich gegen die Unerklärbarkeit der kausalen Wechselwirkung zwischen wesensverschiedenen Substanzen. Princess Elisabeth von der Pfalz, Leibniz und Spinoza argumentierten, dass Kausalität zwischen Geistigem und Materiellem konzeptuell unmöglich sei. Die moderne Neurowissenschaft stellt zudem die Annahme einer nicht-physischen Kausalquelle infrage.",
+  "verwandteIsmen": ["dualismus", "cartesianismus"],
+  "schluesselwerke": [
+    {"titel": "Meditationen über die Erste Philosophie", "autor": "René Descartes", "jahr": "1641"},
+    {"titel": "Die Leidenschaften der Seele", "autor": "René Descartes", "jahr": "1649"},
+    {"titel": "Das Ich und sein Gehirn", "autor": "Karl Popper und John Eccles", "jahr": "1977"}
+  ]
+}

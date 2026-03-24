@@ -1,0 +1,23 @@
+{
+  "slug": "altruismus",
+  "name": "Altruismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Altruismus ist die ethische Position, die selbstloses Handeln zum Wohle anderer als moralisch geboten betrachtet. Er stellt die Bedürfnisse und das Wohlergehen anderer über die eigenen Interessen.",
+  "ausfuehrlicheBeschreibung": "Der Altruismus bezeichnet die moralische Haltung und philosophische Position, die das Wohl anderer Wesen in den Mittelpunkt ethischen Handelns stellt. Der Begriff wurde von Auguste Comte im 19. Jahrhundert geprägt, doch die philosophischen Grundlagen reichen weiter zurück. Arthur Schopenhauer begründete den Altruismus metaphysisch durch seine Mitleidsethik: Da alle Wesen Manifestationen desselben Willens sind, ist das Leiden des anderen in Wahrheit auch unser eigenes Leiden. Echte Moral entspringt dem Mitleid, das die Illusion der Trennung zwischen Ich und Du durchbricht.\n\nIn der gegenwärtigen Philosophie hat Peter Singer den Altruismus unter dem Banner des effektiven Altruismus radikalisiert. Singer argumentiert utilitaristisch, dass wir moralisch verpflichtet sind, unser Handeln so auszurichten, dass es das größtmögliche Wohl für die größtmögliche Zahl von Wesen erzeugt. Dies bedeutet konkret, dass wohlhabende Menschen einen erheblichen Teil ihres Einkommens spenden sollten, um das Leid der Ärmsten zu lindern. Der effektive Altruismus verbindet dabei ethisches Engagement mit wissenschaftlicher Analyse der wirksamsten Hilfsmaßnahmen.\n\nDer Altruismus steht in einem Spannungsfeld zwischen biologischen und philosophischen Erklärungen. Die Soziobiologie erklärt altruistisches Verhalten als genetisch bedingtes Verwandtschaftsinteresse oder reziproken Tausch, was den Begriff des echten Altruismus in Frage stellt. Philosophisch bleibt die Debatte, ob rein selbstloses Handeln möglich ist oder ob jeder Altruismus letztlich auf verstecktem Eigeninteresse beruht.",
+  "kernthesen": [
+    "Moralisches Handeln erfordert die Berücksichtigung des Wohlergehens anderer, nicht nur des eigenen.",
+    "Mitleid und Empathie sind die Grundlagen genuinen moralischen Handelns.",
+    "Wir sind moralisch verpflichtet, das Leid anderer nach Kräften zu lindern.",
+    "Die Grenzen unserer moralischen Verantwortung enden nicht bei Familie, Nation oder Spezies.",
+    "Effektiver Altruismus fordert die Maximierung des Wohls durch rational gelenktes Engagement."
+  ],
+  "hauptvertreter": ["arthur-schopenhauer", "peter-singer"],
+  "entstehung": "Der Begriff Altruismus wurde von Auguste Comte in den 1850er Jahren geprägt. Schopenhauer legte mit seiner Mitleidsethik die metaphysische Grundlage, während Peter Singer im späten 20. Jahrhundert den effektiven Altruismus als praktische Bewegung begründete. Die Debatte um Altruismus versus Egoismus durchzieht die gesamte Geschichte der Moralphilosophie.",
+  "kritik": "Psychologische Egoisten bestreiten, dass echtes selbstloses Handeln möglich ist, und argumentieren, dass alle scheinbar altruistischen Handlungen auf verstecktem Eigeninteresse beruhen. Zudem wird kritisiert, dass übermäßiger Altruismus zur Selbstaufopferung führen und die legitimen Interessen des Handelnden vernachlässigen kann.",
+  "verwandteIsmen": ["utilitarismus", "care-ethik"],
+  "schluesselwerke": [
+    {"titel": "Über die Grundlage der Moral", "autor": "Arthur Schopenhauer", "jahr": "1840"},
+    {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"},
+    {"titel": "The Life You Can Save", "autor": "Peter Singer", "jahr": "2009"}
+  ]
+}

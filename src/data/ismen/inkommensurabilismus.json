@@ -1,0 +1,23 @@
+{
+  "slug": "inkommensurabilismus",
+  "name": "Inkommensurabilismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Inkommensurabilismus behauptet, dass verschiedene Paradigmen, Theorien oder Wertesysteme nicht auf einen gemeinsamen Maßstab gebracht werden können. Ein objektiver Vergleich zwischen grundverschiedenen Weltbildern ist unmöglich.",
+  "ausfuehrlicheBeschreibung": "Der Inkommensurabilismus wurde maßgeblich von Thomas Kuhn in seiner Theorie der wissenschaftlichen Revolutionen (1962) entwickelt. Kuhn argumentierte, dass aufeinanderfolgende wissenschaftliche Paradigmen – etwa die Physik Newtons und Einsteins – nicht objektiv miteinander verglichen werden können, da sie verschiedene Begriffe verwenden, verschiedene Probleme als relevant betrachten und verschiedene Standards der Beurteilung anlegen. Der Wechsel von einem Paradigma zum anderen gleicht eher einer Bekehrung als einem rationalen Schluss.\n\nPaul Feyerabend radikalisierte die Inkommensurabilitätsthese, indem er argumentierte, dass nicht nur aufeinanderfolgende, sondern auch gleichzeitig konkurrierende Theorien inkommensurabel sein können. Die Bedeutung wissenschaftlicher Begriffe wird durch ihren theoretischen Kontext bestimmt – in verschiedenen Theorien meint „Masse“ etwas grundsätzlich Verschiedenes. Ein neutraler Beobachtungsstandpunkt, von dem aus Theorien verglichen werden könnten, existiert nicht.\n\nDer Inkommensurabilismus hat weitreichende Konsequenzen für die Wissenschaftstheorie und die politische Philosophie. In der Wissenschaftstheorie untergräbt er den kumulativen Fortschrittsbegriff. In der politischen Philosophie führt er zur Anerkennung irreduziblen Wertpluralismus: Wenn verschiedene Wertesysteme inkommensurabel sind, dann gibt es keine rationale Grundlage für die Überlegenheit eines Systems über ein anderes.",
+  "kernthesen": [
+    "Verschiedene wissenschaftliche Paradigmen sind nicht auf einen gemeinsamen Maßstab reduzierbar.",
+    "Die Bedeutung wissenschaftlicher Begriffe wird durch ihren theoretischen Kontext bestimmt.",
+    "Es gibt keinen neutralen Beobachtungsstandpunkt, von dem aus Theorien objektiv verglichen werden könnten.",
+    "Der Wechsel zwischen Paradigmen ist kein rein rationaler Prozess.",
+    "Wissenschaftlicher Fortschritt ist kein linearer, kumulativer Prozess."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der Inkommensurabilismus wurde von Thomas Kuhn in „Die Struktur wissenschaftlicher Revolutionen“ (1962) und unabhängig davon von Paul Feyerabend entwickelt. Die Debatte um den wissenschaftlichen Realismus und die Rationalität der Wissenschaft bildet den Hintergrund.",
+  "kritik": "Kritiker werfen dem Inkommensurabilismus vor, dass er in einen selbstwidersprüchlichen Relativismus mündet: Wenn Paradigmen wirklich unvergleichbar wären, könnte man nicht einmal behaupten, dass sie verschieden sind. Karl Popper und Hilary Putnam argumentierten, dass die Inkommensurabilitätsthese die Rationalität der Wissenschaft untergräbt.",
+  "verwandteIsmen": ["relativismus", "perspektivismus"],
+  "schluesselwerke": [
+    {"titel": "Die Struktur wissenschaftlicher Revolutionen", "autor": "Thomas Kuhn", "jahr": "1962"},
+    {"titel": "Wider den Methodenzwang", "autor": "Paul Feyerabend", "jahr": "1975"},
+    {"titel": "Vernunft, Wahrheit und Geschichte", "autor": "Hilary Putnam", "jahr": "1981"}
+  ]
+}

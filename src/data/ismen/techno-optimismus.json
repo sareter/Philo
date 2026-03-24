@@ -1,0 +1,23 @@
+{
+  "slug": "techno-optimismus",
+  "name": "Techno-Optimismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Techno-Optimismus ist die philosophische Überzeugung, dass technologischer Fortschritt die zentralen Probleme der Menschheit lösen kann und wird. Er sieht Technologie als Motor von Freiheit, Wohlstand und menschlicher Vervollkommnung.",
+  "ausfuehrlicheBeschreibung": "Der Techno-Optimismus hat seine philosophischen Wurzeln in Francis Bacons Vision einer durch Wissenschaft und Technik verbesserten Welt. Bacon formulierte in 'Novum Organum' und 'Neu-Atlantis' die Idee, dass systematisches Wissen über die Natur dem Menschen die Macht gibt, seine Lebensbedingungen grundlegend zu verbessern. Diese baconische Tradition lebt im gegenwärtigen Techno-Optimismus fort, der in Technologie – von künstlicher Intelligenz über Biotechnologie bis zu erneuerbaren Energien – den Schlüssel zur Lösung globaler Herausforderungen sieht.\n\nModerne Techno-Optimisten wie Steven Pinker, Ray Kurzweil und Marc Andreessen argumentieren mit empirischen Daten, dass der technologische Fortschritt die Lebensqualität der Menschheit stetig verbessert hat: weniger Armut, längeres Leben, breiterer Zugang zu Bildung. Kurzweils Theorie der technologischen Singularität prognostiziert einen Punkt, an dem künstliche Intelligenz die menschliche übertrifft und eine neue Ära exponentiellen Fortschritts einleitet. Andreessens 'Techno-Optimist Manifesto' (2023) formuliert einen emphatischen Glauben an die transformative Kraft der Technologie.\n\nDer Techno-Optimismus prägt politische Debatten über Innovation, Regulierung und die Zukunft der Arbeit. Er steht in Spannung zu techno-pessimistischen und ökologischen Perspektiven, die auf die Risiken und Nebenwirkungen technologischen Fortschritts hinweisen. Philosophisch wirft er die Frage auf, ob technische Lösungen für grundlegend soziale und politische Probleme angemessen sind.",
+  "kernthesen": [
+    "Technologischer Fortschritt ist der wichtigste Motor menschlicher Verbesserung und Freiheit.",
+    "Die meisten großen Probleme der Menschheit sind technisch lösbar.",
+    "Wissenschaft und Innovation haben die Menschheit aus Armut, Krankheit und Unwissenheit befreit.",
+    "Die technologische Singularität wird eine neue Ära exponentiellen Fortschritts einleiten.",
+    "Wissen ist Macht – systematische Naturerkenntnis ermöglicht die Beherrschung und Verbesserung der Welt."
+  ],
+  "hauptvertreter": ["francis-bacon"],
+  "entstehung": "Der Techno-Optimismus hat seine Wurzeln in Francis Bacons Wissenschaftsphilosophie des 17. Jahrhunderts und wurde durch die Aufklärung, die Industrielle Revolution und die digitale Revolution verstärkt. In der Gegenwart wird er durch Autoren wie Steven Pinker, Ray Kurzweil und Silicon-Valley-Unternehmer vertreten.",
+  "kritik": "Kritiker werfen dem Techno-Optimismus vor, die sozialen, ökologischen und ethischen Risiken technologischen Fortschritts systematisch zu unterschätzen. Zudem wird bemängelt, dass er die ungleiche Verteilung technologischer Vorteile ignoriert und strukturelle Machtverhältnisse ausblendet.",
+  "verwandteIsmen": ["transhumanismus", "fortschrittsdenken", "techno-pessimismus"],
+  "schluesselwerke": [
+    {"titel": "Novum Organum", "autor": "Francis Bacon", "jahr": "1620"},
+    {"titel": "Aufklärung jetzt", "autor": "Steven Pinker", "jahr": "2018"},
+    {"titel": "The Singularity Is Near", "autor": "Ray Kurzweil", "jahr": "2005"}
+  ]
+}

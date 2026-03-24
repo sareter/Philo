@@ -1,0 +1,23 @@
+{
+  "slug": "dekadentismus",
+  "name": "Dekadentismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Dekadentismus ist eine kulturphilosophische und ästhetische Strömung des späten 19. Jahrhunderts, die den Verfall der Zivilisation als ästhetisches Phänomen feiert und die Raffinesse der Dekadenz dem naiven Fortschrittsglauben entgegensetzt.",
+  "ausfuehrlicheBeschreibung": "Der Dekadentismus entstand in der zweiten Hälfte des 19. Jahrhunderts als Reaktion auf den bürgerlichen Optimismus und den Fortschrittsglauben der industriellen Moderne. In Frankreich feierten Dichter wie Charles Baudelaire, Paul Verlaine und Joris-Karl Huysmans den Verfall als ästhetische Erfahrung und die Künstlichkeit als höhere Form des Schönen. Der Dekadent kultiviert die Erschöpfung, die Übersättigung und die exquisite Empfindsamkeit als Zeichen einer überreifen Kultur.\n\nFriedrich Nietzsche analysierte die Dekadenz als philosophisches Phänomen mit größter Schärfe. Für ihn war die Dekadenz nicht einfach ein ästhetischer Stil, sondern Ausdruck eines fundamentalen Willens zum Niedergang – eines Lebensinstinkts, der sich gegen sich selbst wendet. Die christliche Moral, die Demokratie und der Sozialismus waren für Nietzsche Symptome einer dekadenten Kultur, die die Schwäche verherrlicht und die Stärke verleumdet.\n\nDer Dekadentismus hat nachhaltige Spuren in der europäischen Kulturgeschichte hinterlassen. Oscar Wildes Ästhetizismus, Stefan Georges Dichtung und Thomas Manns „Buddenbrooks“ verarbeiten dekadente Motive. Philosophisch wirkt der Dekadentismus als Herausforderung an jeden naiven Fortschrittsglauben und erinnert daran, dass kulturelle Höchstleistungen und zivilisatorischer Verfall eng miteinander verbunden sein können.",
+  "kernthesen": [
+    "Kultureller Verfall kann eine ästhetische Qualität von höchster Raffinesse besitzen.",
+    "Die Künstlichkeit ist dem Natürlichen ästhetisch überlegen.",
+    "Überreife und Erschöpfung einer Zivilisation bringen die feinsten kulturellen Erzeugnisse hervor.",
+    "Der Fortschrittsglaube der Moderne verkennt die zyklische Natur kultureller Entwicklung.",
+    "Dekadenz ist Ausdruck eines Lebenswillens, der sich gegen sich selbst wendet."
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der Dekadentismus entstand in den 1880er Jahren in Frankreich als literarische und philosophische Bewegung. Baudelaires „Blumen des Bösen“ (1857) und Huysmans' „Gegen den Strich“ (1884) gelten als Gründungstexte. Nietzsche erhob die Dekadenz-Diagnose zum philosophischen Programm.",
+  "kritik": "Kritiker werfen dem Dekadentismus vor, dass er den gesellschaftlichen Verfall verherrlicht statt ihn zu bekämpfen und damit eine elitäre, sozial verantwortungslose Haltung einnimmt. Zudem wird bemängelt, dass die Feier des Verfalls in politischen Konservatismus oder Nihilismus münden kann.",
+  "verwandteIsmen": ["nihilismus", "esthetizismus"],
+  "schluesselwerke": [
+    {"titel": "Götzen-Dämmerung", "autor": "Friedrich Nietzsche", "jahr": "1889"},
+    {"titel": "Gegen den Strich", "autor": "Joris-Karl Huysmans", "jahr": "1884"},
+    {"titel": "Die Blumen des Bösen", "autor": "Charles Baudelaire", "jahr": "1857"}
+  ]
+}

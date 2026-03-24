@@ -1,0 +1,23 @@
+{
+  "slug": "deliberative-demokratie",
+  "name": "Deliberative Demokratie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die deliberative Demokratie versteht die öffentliche Beratung und argumentative Verständigung als Kern demokratischer Legitimität. Nicht die Aggregation von Präferenzen, sondern der vernünftige Diskurs macht Demokratie aus.",
+  "ausfuehrlicheBeschreibung": "Die deliberative Demokratie wurde als philosophisches Konzept maßgeblich durch Jürgen Habermas entwickelt und bildet einen der einflussreichsten Ansätze der politischen Philosophie des späten 20. Jahrhunderts. Sie wendet sich gegen ein rein aggregatives Demokratieverständnis, das Demokratie auf die Zusammenzählung individueller Präferenzen reduziert. Stattdessen argumentiert Habermas, dass demokratische Legitimität aus dem öffentlichen Gebrauch der Vernunft entsteht – aus Diskursen, in denen alle Betroffenen ihre Argumente einbringen und dem 'eigentümlich zwanglosen Zwang des besseren Arguments' folgen.\n\nHabermas' Diskursethik bildet die normative Grundlage der deliberativen Demokratie: Eine Norm ist nur dann gültig, wenn alle von ihr Betroffenen in einem herrschaftsfreien Diskurs zustimmen könnten. Dieses 'Diskursprinzip' wird in der deliberativen Demokratie auf politische Willensbildung übertragen. Die Zivilgesellschaft, die Medien und die parlamentarische Debatte bilden die Arenen, in denen dieser Diskurs stattfindet. Joshua Cohen und James Bohman haben Habermas' Ansatz weiterentwickelt und konkretisiert.\n\nDie deliberative Demokratie hat die politische Praxis durch Bürgerräte, partizipative Budgetierung und deliberative Foren beeinflusst. Sie bietet eine Antwort auf die Krise der repräsentativen Demokratie, indem sie die aktive Beteiligung der Bürger an der politischen Willensbildung fordert. Kritisch diskutiert wird, ob deliberative Ideale angesichts wachsender Polarisierung und Desinformation realisierbar sind.",
+  "kernthesen": [
+    "Demokratische Legitimität entsteht durch öffentliche Beratung und vernünftigen Diskurs.",
+    "Alle von einer Entscheidung Betroffenen müssen die Möglichkeit haben, ihre Argumente einzubringen.",
+    "Der zwanglose Zwang des besseren Arguments ist das Prinzip demokratischer Willensbildung.",
+    "Demokratie ist mehr als Mehrheitsentscheidung – sie erfordert den öffentlichen Gebrauch der Vernunft.",
+    "Eine lebendige Zivilgesellschaft und freie Medien sind Voraussetzungen deliberativer Demokratie."
+  ],
+  "hauptvertreter": ["juergen-habermas"],
+  "entstehung": "Die deliberative Demokratie wurde ab den 1980er Jahren durch Habermas' 'Theorie des kommunikativen Handelns' (1981) und 'Faktizität und Geltung' (1992) philosophisch begründet. Joshua Cohen formulierte 1989 einflussreiche Grundsätze deliberativer Demokratie. Die Bewegung reagierte auf die Legitimationskrise liberaler Demokratien.",
+  "kritik": "Kritiker werfen der deliberativen Demokratie vor, ein idealisiertes Bild rationaler Kommunikation zu zeichnen, das Machtverhältnisse, Emotionen und strukturelle Ausschlüsse unterschätzt. Zudem wird bemängelt, dass deliberative Verfahren zu langsam und elitär seien, um in Krisensituationen handlungsfähig zu sein.",
+  "verwandteIsmen": ["republikanismus", "agonistische-demokratie", "liberalismus"],
+  "schluesselwerke": [
+    {"titel": "Faktizität und Geltung", "autor": "Jürgen Habermas", "jahr": "1992"},
+    {"titel": "Theorie des kommunikativen Handelns", "autor": "Jürgen Habermas", "jahr": "1981"},
+    {"titel": "Deliberation and Democratic Legitimacy", "autor": "Joshua Cohen", "jahr": "1989"}
+  ]
+}

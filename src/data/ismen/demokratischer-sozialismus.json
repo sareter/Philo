@@ -1,0 +1,23 @@
+{
+  "slug": "demokratischer-sozialismus",
+  "name": "Demokratischer Sozialismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der demokratische Sozialismus verbindet sozialistische Wirtschaftsvorstellungen mit demokratischen Prinzipien. Er strebt die Überwindung kapitalistischer Ungleichheit auf demokratischem Wege an.",
+  "ausfuehrlicheBeschreibung": "Der demokratische Sozialismus vereint zwei große politische Traditionen: den Sozialismus mit seiner Forderung nach sozialer Gleichheit und Gemeineigentum an Produktionsmitteln, und die Demokratie mit ihrem Bekenntnis zu Freiheitsrechten, Pluralismus und gewaltfreiem Machtwechsel. Er lehnt sowohl den ungezügelten Kapitalismus als auch den autoritären Staatssozialismus ab.\n\nKarl Marx lieferte die theoretische Grundlage für die sozialistische Kritik am Kapitalismus: Die Ausbeutung der Arbeiterklasse, die Entfremdung des Menschen und die inhärente Krisenhaftigkeit des kapitalistischen Systems machen eine grundlegende Umgestaltung der Wirtschaftsordnung notwendig. Der demokratische Sozialismus übernimmt diese Analyse, verwirft aber die Idee einer gewaltsamen Revolution und setzt stattdessen auf demokratische Transformation.\n\nDer demokratische Sozialismus sieht in der Demokratie nicht nur ein politisches Ordnungsprinzip, sondern auch ein wirtschaftliches: Wenn die politische Macht demokratisch kontrolliert werden muss, dann gilt dasselbe für die wirtschaftliche Macht. Wirtschaftsdemokratie, Mitbestimmung und soziale Sicherung sind seine zentralen Forderungen – eine Wirtschaft, die dem Menschen dient, statt der Mensch der Wirtschaft.",
+  "kernthesen": [
+    "Sozialismus und Demokratie sind untrennbar verbunden",
+    "Die Überwindung kapitalistischer Ungleichheit muss auf demokratischem Wege erfolgen",
+    "Wirtschaftliche Macht muss ebenso demokratisch kontrolliert werden wie politische",
+    "Revolution ohne Demokratie führt zu neuer Unterdrückung",
+    "Wirtschaftsdemokratie und soziale Sicherung sind zentrale Forderungen"
+  ],
+  "hauptvertreter": ["karl-marx"],
+  "entstehung": "Der demokratische Sozialismus entwickelte sich im 20. Jahrhundert als Reaktion auf die autoritären Fehlentwicklungen des Sowjetkommunismus. Er verbindet die marxistische Kapitalismuskritik mit dem Bekenntnis zu demokratischen Grundwerten und gewaltfreier Veränderung.",
+  "kritik": "Kritiker von rechts werfen dem demokratischen Sozialismus vor, er sei wirtschaftlich ineffizient und beschränke die individuelle Freiheit. Kritiker von links bemängeln, dass er die systemische Natur des Kapitalismus unterschätze und glaubte, diesen auf demokratischem Wege überwinden zu können.",
+  "verwandteIsmen": ["libertaerer-sozialismus", "entfremdungsphilosophie", "diskursethik"],
+  "schluesselwerke": [
+    {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
+    {"titel": "Kritik des Gothaer Programms", "autor": "Karl Marx", "jahr": "1875"},
+    {"titel": "Die Voraussetzungen des Sozialismus", "autor": "Eduard Bernstein", "jahr": "1899"}
+  ]
+}

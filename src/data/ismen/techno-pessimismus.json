@@ -1,0 +1,23 @@
+{
+  "slug": "techno-pessimismus",
+  "name": "Techno-Pessimismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Techno-Pessimismus ist die philosophische Überzeugung, dass technologischer Fortschritt den Menschen von sich selbst entfremdet, die Natur zerstört und neue Formen der Unfreiheit und Kontrolle hervorbringt.",
+  "ausfuehrlicheBeschreibung": "Der Techno-Pessimismus hat seine philosophischen Wurzeln in der romantischen Technikkritik und wurde im 20. Jahrhundert vor allem durch Martin Heidegger, Jacques Ellul und die Frankfurter Schule philosophisch vertieft. Heidegger analysierte das 'Gestell' als das Wesen der modernen Technik: Die Natur wird zum bloßen Bestand, der herausgefordert und ausgebeutet wird. Technologie ist für Heidegger kein neutrales Werkzeug, sondern eine Weise des Seins, die den Menschen und die Welt grundlegend verwandelt.\n\nElluls Konzept der 'Technik als System' zeigt, dass die technische Rationalität alle Lebensbereiche durchdringt und einer Eigenlogik folgt, die sich menschlicher Kontrolle entzieht. Die Frankfurter Schule – insbesondere Horkheimer und Adorno – analysierten die 'Dialektik der Aufklärung', in der die Herrschaft über die Natur in eine Herrschaft über den Menschen umschlägt. Günther Anders prägte den Begriff der 'prometheischen Scham' – das Gefühl des Menschen, seinen eigenen technischen Schöpfungen unterlegen zu sein.\n\nIn der Gegenwart erfährt der Techno-Pessimismus angesichts von Überwachungskapitalismus, künstlicher Intelligenz und ökologischer Krise eine Renaissance. Autoren wie Shoshana Zuboff, Evgeny Morozov und Byung-Chul Han analysieren die neuen Formen technischer Kontrolle und Selbstentfremdung. Der Techno-Pessimismus bietet ein notwendiges Gegengewicht zum vorherrschenden Fortschrittsglauben und fordert eine kritische Reflexion der Konsequenzen technologischer Entwicklung.",
+  "kernthesen": [
+    "Technologie ist kein neutrales Werkzeug, sondern verändert das Wesen des Menschen und der Welt.",
+    "Die technische Rationalität durchdringt alle Lebensbereiche und entzieht sich menschlicher Kontrolle.",
+    "Der technologische Fortschritt führt nicht zu mehr Freiheit, sondern zu neuen Formen der Unfreiheit.",
+    "Die Herrschaft über die Natur schlägt in eine Herrschaft über den Menschen um.",
+    "Der Mensch ist seinen eigenen technischen Schöpfungen zunehmend unterlegen."
+  ],
+  "hauptvertreter": ["martin-heidegger"],
+  "entstehung": "Der Techno-Pessimismus entwickelte sich als philosophische Strömung im 20. Jahrhundert, insbesondere durch Heideggers Technikphilosophie (1950er Jahre), Elluls 'La Technique' (1954) und die Kritische Theorie der Frankfurter Schule. Er reagierte auf die Erfahrungen zweier Weltkriege und die atomare Bedrohung.",
+  "kritik": "Kritiker werfen dem Techno-Pessimismus vor, die realen Verbesserungen der Lebensqualität durch Technologie zu ignorieren und in eine nostalgische Verklärung vormoderner Verhältnisse zu verfallen. Zudem wird bemängelt, dass er keine konstruktiven Alternativen für den Umgang mit Technologie biete.",
+  "verwandteIsmen": ["techno-optimismus", "kritische-theorie", "romantik"],
+  "schluesselwerke": [
+    {"titel": "Die Frage nach der Technik", "autor": "Martin Heidegger", "jahr": "1954"},
+    {"titel": "La Technique ou l'Enjeu du siècle", "autor": "Jacques Ellul", "jahr": "1954"},
+    {"titel": "Die Antiquiertheit des Menschen", "autor": "Günther Anders", "jahr": "1956"}
+  ]
+}

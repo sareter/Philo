@@ -1,0 +1,23 @@
+{
+  "slug": "effektiver-altruismus",
+  "name": "Effektiver Altruismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Effektive Altruismus ist eine philosophische und soziale Bewegung, die Vernunft und Evidenz einsetzt, um die wirksamsten Wege zu finden, das Wohl anderer zu maximieren. Er verbindet utilitaristisches Denken mit empirischer Wirkungsforschung.",
+  "ausfuehrlicheBeschreibung": "Der Effektive Altruismus entstand im frühen 21. Jahrhundert als intellektuelle Bewegung, die philosophische Ethik mit evidenzbasiertem Handeln verbindet. Peter Singer legte mit seinem Aufsatz „Famine, Affluence, and Morality“ (1972) die ethische Grundlage: Wenn wir etwas Schlimmes verhindern können, ohne etwas moralisch Vergleichbares zu opfern, dann sind wir moralisch dazu verpflichtet. Die ungeheure globale Ungleichheit bedeutet, dass Menschen in wohlhabenden Ländern eine massive Pflicht haben, wirksam zu helfen.\n\nDer Effektive Altruismus geht über bloße Wohltätigkeit hinaus, indem er die Frage stellt: Wie können wir mit den verfügbaren Ressourcen das meiste Gute bewirken? Organisationen wie GiveWell evaluieren Hilfsorganisationen anhand ihrer nachweisbaren Wirksamkeit. William MacAskill entwickelte die Idee des „earning to give“ – bewusst lukrative Karrieren zu wählen, um mehr spenden zu können – und betonte die Bedeutung vernachlässigter Problemfelder.\n\nIn der Gegenwart hat sich der Effektive Altruismus zu einer globalen Bewegung mit Tausenden von Anhängern entwickelt, die sich für Armutsbekämpfung, Tierwohl und die Reduktion existentieller Risiken einsetzen. Die Bewegung wird auch kontrovers diskutiert: Kritiker bemängeln die Fokussierung auf quantifizierbare Ergebnisse und die Vernachlässigung struktureller Ursachen von Ungerechtigkeit.",
+  "kernthesen": [
+    "Wir haben eine moralische Pflicht, so viel Gutes wie möglich zu tun, und zwar so wirksam wie möglich.",
+    "Ressourcen sollen dorthin fließen, wo sie den größten positiven Unterschied bewirken.",
+    "Evidenz und Vernunft, nicht Emotionen, sollen philanthropische Entscheidungen leiten.",
+    "Manche Handlungsfelder sind stark vernachlässigt und bieten deshalb besonders hohe Wirksamkeit.",
+    "Auch die Reduktion existentieller Risiken für die Menschheit verdient hohe Priorität."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Der Effektive Altruismus entstand um 2009 durch die Zusammenarbeit von Peter Singer, Toby Ord und William MacAskill in Oxford. Singers utilitaristische Ethik und die Gründung von Organisationen wie Giving What We Can (2009) und 80,000 Hours (2011) bildeten den Ausgangspunkt.",
+  "kritik": "Kritiker werfen dem Effektiven Altruismus vor, dass er strukturelle Ungerechtigkeiten ignoriert und durch individuelle Wohltätigkeit ersetzen will. Zudem wird bemängelt, dass die Fokussierung auf quantifizierbare Ergebnisse wichtige, aber schwer messbare Güter wie Gerechtigkeit und Würde vernachlässigt.",
+  "verwandteIsmen": ["utilitarismus", "altruismus"],
+  "schluesselwerke": [
+    {"titel": "The Life You Can Save", "autor": "Peter Singer", "jahr": "2009"},
+    {"titel": "Doing Good Better", "autor": "William MacAskill", "jahr": "2015"},
+    {"titel": "Famine, Affluence, and Morality", "autor": "Peter Singer", "jahr": "1972"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kritischer-posthumanismus",
+  "name": "Kritischer Posthumanismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Kritische Posthumanismus reflektiert die Bedingungen und Konsequenzen posthumanistischen Denkens und fragt, wie die Überwindung des Humanismus ohne den Verlust emanzipatorischer Errungenschaften gelingen kann.",
+  "ausfuehrlicheBeschreibung": "Der Kritische Posthumanismus unterscheidet sich vom affirmativen Posthumanismus und vom Transhumanismus durch seine reflexive Haltung. Er fragt nicht nur, was nach dem Humanismus kommt, sondern untersucht kritisch, welche politischen, ethischen und epistemischen Konsequenzen die Verabschiedung des humanistischen Menschenbildes hat. Dabei bezieht er sich auf Derridas Dekonstruktion, die zeigt, dass der Humanismus seine Identität durch den Ausschluss des Nicht-Menschlichen – des Tierlichen, des Maschinellen, des 'Wilden' – konstituiert hat.\n\nZentral ist die Einsicht, dass der Begriff des 'Menschen' nie universal war, sondern immer bestimmte Gruppen – Frauen, Kolonisierte, Behinderte – von voller Menschlichkeit ausschloss. Der Kritische Posthumanismus verbindet daher die Dekonstruktion des Menschenbegriffs mit Fragen der sozialen Gerechtigkeit und der Anerkennung von Differenz. Er teilt mit der postkolonialen Theorie und den Disability Studies die Aufmerksamkeit für die Gewalt, die in universalistischen Kategorien verborgen liegt.\n\nAnders als der technologiebegeisterte Transhumanismus warnt der Kritische Posthumanismus vor einer unkritischen Verschmelzung von Mensch und Technologie und fragt, wem die technologische 'Verbesserung' des Menschen zugute kommt. Er bietet damit einen differenzierten Rahmen für die ethische Bewertung von Biotechnologie, künstlicher Intelligenz und der ökologischen Krise.",
+  "kernthesen": [
+    "Der Begriff des 'Menschen' war nie universal, sondern schloss stets bestimmte Gruppen aus.",
+    "Die Dekonstruktion des Humanismus muss dessen emanzipatorische Errungenschaften bewahren.",
+    "Technologische Verbesserung des Menschen ist kritisch auf ihre sozialen Konsequenzen zu befragen.",
+    "Das Nicht-Menschliche – Tier, Maschine, Natur – muss als konstitutiv für das Menschliche anerkannt werden.",
+    "Posthumanistisches Denken darf nicht die Fragen der sozialen Gerechtigkeit aus dem Blick verlieren."
+  ],
+  "hauptvertreter": ["jacques-derrida"],
+  "entstehung": "Der Kritische Posthumanismus entwickelte sich in den 2000er Jahren aus der Verbindung von Dekonstruktion, postkolonialer Theorie und Science and Technology Studies. Cary Wolfes und Neil Badmingtons Arbeiten prägten die Unterscheidung zwischen kritischem und affirmativem Posthumanismus.",
+  "kritik": "Kritiker bemängeln, dass der Kritische Posthumanismus in einer endlosen Reflexion verharrt und keine konstruktiven Alternativen zum Humanismus bietet. Zudem wird die Frage gestellt, ob die ständige Dekonstruktion von Kategorien nicht politische Handlungsfähigkeit untergräbt.",
+  "verwandteIsmen": ["posthumanismus", "dekonstruktivismus", "postkolonialismus"],
+  "schluesselwerke": [
+    {"titel": "What Is Posthumanism?", "autor": "Cary Wolfe", "jahr": "2010"},
+    {"titel": "Das Tier, das ich also bin", "autor": "Jacques Derrida", "jahr": "2006"},
+    {"titel": "Posthumanism: A Critical Analysis", "autor": "Stefan Herbrechter", "jahr": "2013"}
+  ]
+}

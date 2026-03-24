@@ -1,0 +1,23 @@
+{
+  "slug": "kommensurabilismus",
+  "name": "Kommensurabilismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Kommensurabilismus vertritt die These, dass alle Werte auf einen gemeinsamen Maßstab gebracht und miteinander verglichen werden können. Moralische Konflikte sind prinzipiell lösbar, weil verschiedene Güter kommensurabel sind.",
+  "ausfuehrlicheBeschreibung": "Der Kommensurabilismus bildet eine Grundannahme des klassischen Utilitarismus: Wenn alle Werte letztlich auf Nutzen, Glück oder Wohlbefinden zurückgeführt werden können, dann lassen sich verschiedene Handlungsalternativen rational vergleichen und die beste Option bestimmen. John Stuart Mill verteidigte diese Position, indem er argumentierte, dass verschiedene Arten von Freude zwar qualitative Unterschiede aufweisen, aber dennoch auf einer gemeinsamen Skala bewertet werden können.\n\nDie Kommensurabilität von Werten ist eine Voraussetzung für rationale Entscheidungsfindung in komplexen moralischen Situationen. Wenn verschiedene Güter – Gesundheit, Freiheit, Wissen, Freundschaft – nicht miteinander verglichen werden können, dann scheint jede systematische Ethik unmöglich. Der Kommensurabilismus behauptet, dass es entweder einen gemeinsamen Wertmaßstab gibt oder dass verschiedene Güter zumindest ordinal geordnet werden können.\n\nIn der Gegenwart wird der Kommensurabilismus vor allem in der Wirtschaftsethik und der politischen Philosophie diskutiert. Die Kosten-Nutzen-Analyse, die verschiedene Güter in Geldwerte übersetzt, ist eine praktische Anwendung kommensurabilistischer Annahmen. Kritiker wie Joseph Raz und Bernard Williams argumentieren dagegen, dass die Reduktion aller Werte auf einen einzigen Maßstab die Vielfalt und Eigenart verschiedener Güter zerstört.",
+  "kernthesen": [
+    "Alle Werte können auf einen gemeinsamen Maßstab gebracht und miteinander verglichen werden.",
+    "Moralische Konflikte sind prinzipiell rational lösbar durch Vergleich der beteiligten Werte.",
+    "Verschiedene Güter wie Gesundheit, Freiheit und Wissen sind kommensurabel.",
+    "Rationale Entscheidungsfindung setzt die Vergleichbarkeit verschiedener Optionen voraus.",
+    "Der Nutzen bildet den gemeinsamen Maßstab, auf den alle Werte zurückgeführt werden können."
+  ],
+  "hauptvertreter": ["john-stuart-mill"],
+  "entstehung": "Der Kommensurabilismus hat seine Wurzeln in Benthams hedonistischem Kalkül und Mills Utilitarismus des 19. Jahrhunderts. Die moderne Diskussion wurde durch die Kosten-Nutzen-Analyse in der Ökonomie und die Debatte über Wertpluralismus in der politischen Philosophie angestoßen.",
+  "kritik": "Kritiker argumentieren, dass die Reduktion aller Werte auf einen einzigen Maßstab die qualitative Verschiedenheit von Gütern ignoriert und zu moralisch fragwürdigen Ergebnissen führt. Isaiah Berlin und Bernard Williams betonen die irreduzible Pluralität der Werte und die Unausweichlichkeit tragischer Entscheidungen.",
+  "verwandteIsmen": ["utilitarismus", "universalismus"],
+  "schluesselwerke": [
+    {"titel": "Utilitarismus", "autor": "John Stuart Mill", "jahr": "1863"},
+    {"titel": "Einführung in die Prinzipien der Moral und Gesetzgebung", "autor": "Jeremy Bentham", "jahr": "1789"},
+    {"titel": "The Morality of Freedom", "autor": "Joseph Raz", "jahr": "1986"}
+  ]
+}

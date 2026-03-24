@@ -1,0 +1,23 @@
+{
+  "slug": "libertaerer-sozialismus",
+  "name": "Libertärer Sozialismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der libertäre Sozialismus verbindet das sozialistische Ideal der Gleichheit mit dem anarchistischen Ideal der Freiheit. Er lehnt sowohl den Kapitalismus als auch den Staatssozialismus ab.",
+  "ausfuehrlicheBeschreibung": "Der libertäre Sozialismus strebt eine Gesellschaft an, in der weder kapitalistische Ausbeutung noch staatliche Unterdrückung herrschen. Er verbindet die sozialistische Forderung nach Abschaffung des Privateigentums an Produktionsmitteln mit der libertären Forderung nach Abschaffung des Staates und aller Formen hierarchischer Herrschaft.\n\nKarl Marx' Analyse der kapitalistischen Ausbeutung bildet eine theoretische Grundlage des libertären Sozialismus, auch wenn Marx selbst die Rolle des Staates in der Übergangsperiode anders bewertete. Der libertäre Sozialismus greift Marx' Vision einer klassenlosen Gesellschaft auf, in der der Staat abstirbt und die freie Assoziation der Produzenten an seine Stelle tritt. Er verwirft jedoch die Idee einer Diktatur des Proletariats als Übergangsphase.\n\nDer libertäre Sozialismus setzt auf Selbstverwaltung, direkte Demokratie und föderative Strukturen. Betriebe sollen von den Arbeitenden selbst verwaltet werden, Gemeinden sollen sich in freien Föderationen zusammenschließen, und alle Formen von Herrschaft – ob wirtschaftlich, politisch oder kulturell – sollen durch horizontale Beziehungen der Solidarität und gegenseitigen Hilfe ersetzt werden.",
+  "kernthesen": [
+    "Freiheit und Gleichheit sind gleichermaßen unverzichtbar",
+    "Sowohl Kapitalismus als auch Staatssozialismus müssen überwunden werden",
+    "Selbstverwaltung und direkte Demokratie ersetzen staatliche Herrschaft",
+    "Die freie Assoziation der Produzenten ist das Ziel",
+    "Alle Formen hierarchischer Herrschaft müssen abgeschafft werden"
+  ],
+  "hauptvertreter": ["karl-marx"],
+  "entstehung": "Der libertäre Sozialismus entwickelte sich im 19. Jahrhundert aus der Verbindung von sozialistischer Kapitalismuskritik und anarchistischer Staatskritik. Denker wie Pierre-Joseph Proudhon und Michail Bakunin legten die Grundlagen, während Marx' Vision der klassenlosen Gesellschaft einen wichtigen Bezugspunkt bildete.",
+  "kritik": "Kritiker werfen dem libertären Sozialismus vor, er biete keine praktikable Alternative zu Staat und Markt und sei utopisch in seiner Annahme, dass Menschen ohne institutionelle Strukturen kooperieren können. Zudem wird die Frage gestellt, wie in einer herrschaftsfreien Gesellschaft Konflikte gelöst werden sollen.",
+  "verwandteIsmen": ["demokratischer-sozialismus", "anarcho-nihilismus", "entfremdungsphilosophie"],
+  "schluesselwerke": [
+    {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
+    {"titel": "Was ist Eigentum?", "autor": "Pierre-Joseph Proudhon", "jahr": "1840"},
+    {"titel": "Staatlichkeit und Anarchie", "autor": "Michail Bakunin", "jahr": "1873"}
+  ]
+}

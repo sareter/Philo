@@ -1,0 +1,23 @@
+{
+  "slug": "anarcho-kapitalismus",
+  "name": "Anarcho-Kapitalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Anarcho-Kapitalismus ist eine politische Philosophie, die den Staat vollständig abschaffen und durch freie Marktmechanismen ersetzen will. Alle gesellschaftlichen Funktionen – einschließlich Recht und Sicherheit – sollen durch private Anbieter im Wettbewerb erbracht werden.",
+  "ausfuehrlicheBeschreibung": "Der Anarcho-Kapitalismus verbindet die anarchistische Ablehnung des Staates mit einer radikalen Verteidigung des freien Marktes und des Privateigentums. Er argumentiert, dass der Staat keine legitime Institution ist, da er auf Zwang beruht – insbesondere auf dem Zwang der Besteuerung, die als eine Form des Diebstahls betrachtet wird. Alle Funktionen, die üblicherweise dem Staat zugeschrieben werden, können effizienter und gerechter durch private Unternehmen auf einem freien Markt erbracht werden.\n\nRobert Nozick legte mit seiner libertären Rechtsphilosophie in 'Anarchy, State, and Utopia' eine einflussreiche Grundlage, auch wenn Nozick selbst einen Minimalstaat befürwortete und nicht den vollständigen Verzicht auf staatliche Institutionen. Murray Rothbard radikalisierte diese Position zum konsequenten Anarcho-Kapitalismus. Die Argumentation beruht auf dem Prinzip der Selbsteigentümerschaft: Jeder Mensch ist Eigentümer seines Körpers und seiner Arbeit und hat das Recht, ohne Einmischung des Staates zu handeln.\n\nDer Anarcho-Kapitalismus ist eine der radikalsten politischen Philosophien und hat vor allem in den USA eine Anhängerschaft gefunden. Er wird von links wie rechts kritisiert: Anarchisten kritisieren, dass er die Herrschaft des Kapitals und die Ungleichheit nicht als Formen der Unterdrückung anerkennt, während Konservative die Notwendigkeit staatlicher Ordnung verteidigen. Die Frage, ob eine Gesellschaft ohne Staat funktionsfähig wäre, bleibt hochumstritten.",
+  "kernthesen": [
+    "Der Staat ist eine illegitime Institution, die auf Zwang und Gewalt beruht.",
+    "Besteuerung ist eine Form des Diebstahls und verletzt das Eigentumsrecht des Individuums.",
+    "Alle staatlichen Funktionen können durch private Anbieter im Marktwettbewerb effizienter erbracht werden.",
+    "Das Recht auf Selbsteigentümerschaft und Privateigentum ist absolut und unveräußerlich.",
+    "Freiwillige Vereinbarungen und Verträge sollen alle zwangsbasierten staatlichen Regulierungen ersetzen."
+  ],
+  "hauptvertreter": ["robert-nozick"],
+  "entstehung": "Der Anarcho-Kapitalismus entwickelte sich in den 1960er und 1970er Jahren in den USA. Murray Rothbard prägte den Begriff und die systematische Theorie, während Robert Nozick mit 'Anarchy, State, and Utopia' (1974) die philosophische Debatte über die Legitimität des Staates entscheidend beeinflusste.",
+  "kritik": "Kritiker wenden ein, dass eine Gesellschaft ohne Staat zu unkontrollierter Monopolbildung, extremer Ungleichheit und der Herrschaft der Reichen über die Armen führen würde. Zudem ist unklar, wie öffentliche Güter wie Umweltschutz oder Grundlagenforschung ohne staatliche Koordination bereitgestellt werden könnten.",
+  "verwandteIsmen": ["libertarismus", "anarchismus"],
+  "schluesselwerke": [
+    {"titel": "Anarchy, State, and Utopia", "autor": "Robert Nozick", "jahr": "1974"},
+    {"titel": "Man, Economy, and State", "autor": "Murray Rothbard", "jahr": "1962"},
+    {"titel": "The Ethics of Liberty", "autor": "Murray Rothbard", "jahr": "1982"}
+  ]
+}

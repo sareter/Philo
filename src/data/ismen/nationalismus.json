@@ -1,0 +1,23 @@
+{
+  "slug": "nationalismus",
+  "name": "Nationalismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Nationalismus ist die politische Ideologie, die die Nation als höchste Form menschlicher Gemeinschaft betrachtet und die Loyalität gegenüber der eigenen Nation zum obersten politischen Wert erhebt.",
+  "ausfuehrlicheBeschreibung": "Der Nationalismus entstand als politische Ideologie im Zeitalter der Französischen Revolution und wurde im 19. Jahrhundert zur dominierenden politischen Kraft in Europa. Philosophisch wurde er unter anderem durch Hegels Konzeption des Volksgeistes und der Geschichtsphilosophie beeinflusst. Hegel sah in den Nationen die Träger des Weltgeistes, der sich in der Geschichte durch verschiedene Völker und ihre Kulturen verwirklicht. Jede Nation hat demnach eine besondere Aufgabe in der Entwicklung des Weltgeistes.\n\nHegels Geschichtsphilosophie lieferte dem Nationalismus eine metaphysische Legitimation, auch wenn Hegel selbst keinen aggressiven Nationalismus vertrat. Die Vorstellung, dass jedes Volk einen einzigartigen Volksgeist besitzt, der sich in Sprache, Kultur und Institutionen ausdrückt, wurde von Johann Gottfried Herder begründet und von den deutschen Idealisten weiterentwickelt. Diese kulturelle Form des Nationalismus verband die nationale Identität mit einer organischen Gemeinschaft, die sich von der mechanischen Gesellschaft des Liberalismus unterscheidet.\n\nDie philosophische Bewertung des Nationalismus ist zutiefst ambivalent. Einerseits hat er als Befreiungsbewegung unterdrückter Völker emanzipatorische Kraft entfaltet. Andererseits hat er zu den verheerendsten Konflikten des 20. Jahrhunderts geführt. In der gegenwärtigen politischen Philosophie wird zwischen einem inklusiven Patriotismus und einem exklusiven Nationalismus unterschieden, der die eigene Nation auf Kosten anderer erhöht.",
+  "kernthesen": [
+    "Die Nation ist die höchste und natürlichste Form menschlicher Gemeinschaft.",
+    "Jedes Volk besitzt einen einzigartigen Volksgeist, der sich in Sprache, Kultur und Geschichte ausdrückt.",
+    "Die Loyalität gegenüber der eigenen Nation hat Vorrang vor anderen politischen Bindungen.",
+    "Nationale Selbstbestimmung ist ein grundlegendes Recht jedes Volkes.",
+    "Der Staat soll die kulturelle und politische Einheit der Nation verwirklichen und schützen."
+  ],
+  "hauptvertreter": ["georg-wilhelm-friedrich-hegel"],
+  "entstehung": "Der moderne Nationalismus entstand im Gefolge der Französischen Revolution und der napoleonischen Kriege. Herder begründete den kulturellen Nationalismus, Fichte rief in seinen 'Reden an die deutsche Nation' zum nationalen Erwachen auf, und Hegels Geschichtsphilosophie bot eine metaphysische Rahmentheorie für die Rolle der Nationen in der Weltgeschichte.",
+  "kritik": "Dem Nationalismus wird vorgeworfen, dass er willkürliche kulturelle und ethnische Grenzen verabsolutiert und damit Ausgrenzung, Xenophobie und Krieg fördert. Die Vorstellung eines einheitlichen Volksgeistes verdeckt die innere Pluralität jeder Gesellschaft und dient häufig der Unterdrückung von Minderheiten.",
+  "verwandteIsmen": ["konservatismus", "imperialismus"],
+  "schluesselwerke": [
+    {"titel": "Grundlinien der Philosophie des Rechts", "autor": "Georg Wilhelm Friedrich Hegel", "jahr": "1821"},
+    {"titel": "Reden an die deutsche Nation", "autor": "Johann Gottlieb Fichte", "jahr": "1808"},
+    {"titel": "Ideen zur Philosophie der Geschichte der Menschheit", "autor": "Johann Gottfried Herder", "jahr": "1784"}
+  ]
+}

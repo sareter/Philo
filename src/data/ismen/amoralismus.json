@@ -1,0 +1,24 @@
+{
+  "slug": "amoralismus",
+  "name": "Amoralismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Amoralismus ist die philosophische Position, die moralische Kategorien wie Gut und Böse als unbegründete menschliche Konstruktionen ablehnt. Er behauptet, dass es keine objektive moralische Ordnung gibt und dass der Mensch sich jenseits konventioneller Moralvorstellungen bewegen sollte.",
+  "ausfuehrlicheBeschreibung": "Der Amoralismus (von griechisch a = ohne und lateinisch moralis = die Sitten betreffend) bezeichnet die philosophische Haltung, die moralische Urteile und Wertungen grundsätzlich als unbegründet verwirft. Im Unterschied zum Immoralismus, der bewusst gegen bestehende Moral verstößt, und zum moralischen Nihilismus, der die Existenz moralischer Tatsachen leugnet, nimmt der Amoralismus eine Position jenseits der Moral ein: Moralische Kategorien werden als irrelevant für das menschliche Handeln betrachtet.\n\nDie bedeutendste Formulierung des Amoralismus findet sich im Werk Friedrich Nietzsches. In Jenseits von Gut und Böse (1886) kritisiert Nietzsche die gesamte abendländische Moraltradition als Ausdruck einer Sklavenmoral, die die Schwachen gegen die Starken in Stellung bringt. Die moralischen Unterscheidungen von Gut und Böse seien keine objektiven Wahrheiten, sondern Instrumente der Machtausübung. Nietzsche fordert eine Umwertung aller Werte und die Überwindung der herkömmlichen Moral zugunsten einer neuen, lebensbejahenden Wertschöpfung durch den Übermenschen.\n\nAuch der Marquis de Sade vertrat in seinen Schriften eine radikal amoralistische Position, indem er die Natur als jenseits moralischer Kategorien stehend beschrieb und die Unterordnung unter moralische Normen als Selbstverleugnung deutete. Max Stirner entwickelte in Der Einzige und sein Eigentum (1844) einen egoistischen Amoralismus, der alle moralischen Pflichten als Formen der Fremdbestimmung zurückwies.\n\nDer Amoralismus unterscheidet sich von der bloßen Amoralität, die ein faktisches Fehlen moralischer Orientierung beschreibt. Der philosophische Amoralismus ist vielmehr eine reflektierte Position, die die Grundlagen der Moral bewusst hinterfragt und verwirft. Er steht in enger Verbindung mit dem Perspektivismus, der alle Werturteile als standpunktgebunden entlarvt, und dem Nihilismus, der die Entwertung aller höchsten Werte diagnostiziert.",
+  "kernthesen": [
+    "Moralische Kategorien wie Gut und Böse sind keine objektiven Wahrheiten, sondern menschliche Konstruktionen.",
+    "Der Mensch sollte sich jenseits konventioneller Moralvorstellungen bewegen und eigene Werte schaffen.",
+    "Die traditionelle Moral dient als Instrument der Machtausübung der Schwachen über die Starken.",
+    "Moralische Pflichten und Normen sind Formen der Fremdbestimmung, die die individuelle Freiheit einschränken.",
+    "Eine Umwertung aller Werte ist notwendig, um zu einer lebensbejahenden Haltung zu gelangen."
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der Amoralismus hat Vorläufer in der antiken Sophistik, insbesondere bei Thrasymachos und Kallikles, die konventionelle Moral als Instrument der Schwachen kritisierten. In der Neuzeit formulierte der Marquis de Sade eine radikale Absage an moralische Normen. Max Stirner entwickelte 1844 einen egoistischen Amoralismus. Die philosophisch einflussreichste Fassung stammt von Friedrich Nietzsche, der in den 1880er Jahren die gesamte abendländische Moraltradition einer radikalen Kritik unterzog und eine Umwertung aller Werte forderte.",
+  "kritik": "Der Amoralismus wird vielfach kritisiert. Ethiker wenden ein, dass er praktisch undurchführbar ist, da jedes menschliche Zusammenleben auf gemeinsamen Normen und Regeln beruht. Die Ablehnung aller Moral führe entweder zur Selbstisolation oder zur Willkür des Stärkeren. Kritiker bemängeln zudem einen performativen Widerspruch: Wer den Amoralismus vertritt, nimmt implizit eine moralische Position ein, nämlich die, dass es besser sei, ohne Moral zu leben. Religiöse Denker sehen im Amoralismus eine Verfehlung der menschlichen Bestimmung. Sozialphilosophen warnen vor den politischen Konsequenzen eines amoralistischen Denkens, das historisch zur Rechtfertigung von Gewalt und Unterdrückung missbraucht wurde.",
+  "verwandteIsmen": ["nihilismus", "perspektivismus"],
+  "schluesselwerke": [
+    { "titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886" },
+    { "titel": "Zur Genealogie der Moral", "autor": "Friedrich Nietzsche", "jahr": "1887" },
+    { "titel": "Der Einzige und sein Eigentum", "autor": "Max Stirner", "jahr": "1844" },
+    { "titel": "Die 120 Tage von Sodom", "autor": "Marquis de Sade", "jahr": "1785" }
+  ]
+}

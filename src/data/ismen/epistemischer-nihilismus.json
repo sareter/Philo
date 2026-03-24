@@ -1,0 +1,23 @@
+{
+  "slug": "epistemischer-nihilismus",
+  "name": "Epistemischer Nihilismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der epistemische Nihilismus leugnet die Möglichkeit sicheren Wissens. Er behauptet, dass alle Erkenntnis auf Interpretation beruht und keine Aussage letztgültige Wahrheit beanspruchen kann.",
+  "ausfuehrlicheBeschreibung": "Der epistemische Nihilismus radikalisiert den philosophischen Skeptizismus zur These, dass wahres Wissen grundsätzlich unmöglich ist. Es gibt keine Tatsachen, nur Interpretationen – so lautet die berühmte Formulierung Friedrich Nietzsches, die den Kern dieser Position zusammenfasst. Jede vermeintliche Erkenntnis ist perspektivisch gebunden, kulturell bedingt und durch Machtverhältnisse geformt.\n\nNietzsche begründete den epistemischen Nihilismus mit seiner Kritik der Wahrheit: Die Wahrheit ist keine objektive Eigenschaft von Aussagen, sondern ein Werkzeug im Dienste des Willens zur Macht. Was als wahr gilt, wird nicht durch Übereinstimmung mit der Wirklichkeit bestimmt, sondern durch die Durchsetzungskraft der Interpretation. Die Logik selbst, die vermeintlich sichere Grundlage allen Denkens, ist nur ein nützliches Werkzeug, keine Abbildung der Realität.\n\nDer epistemische Nihilismus hat weitreichende Konsequenzen für Wissenschaft und Philosophie: Wenn kein Wissen sicher sein kann, dann ist auch die wissenschaftliche Methode nur eine Interpretation unter vielen. Dies bedeutet nicht, dass Wissenschaft nutzlos ist, aber dass ihre Ergebnisse keine absolute Geltung beanspruchen können. Der epistemische Nihilismus zwingt zur intellektuellen Bescheidenheit – oder zum Zynismus.",
+  "kernthesen": [
+    "Sicheres Wissen ist grundsätzlich unmöglich",
+    "Es gibt keine Tatsachen, nur Interpretationen",
+    "Wahrheit ist ein Werkzeug des Willens zur Macht",
+    "Alle Erkenntnis ist perspektivisch und kulturell bedingt",
+    "Auch die Logik ist nur ein nützliches Werkzeug, keine Abbildung der Realität"
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der epistemische Nihilismus entwickelte sich aus Nietzsches perspektivistischer Erkenntniskritik im späten 19. Jahrhundert. Er wurde im 20. Jahrhundert durch postmoderne Denker wie Foucault und Derrida weitergeführt und radikalisiert.",
+  "kritik": "Kritiker weisen auf den performativen Selbstwiderspruch des epistemischen Nihilismus hin: Die Behauptung, dass kein Wissen möglich sei, beansprucht selbst den Status von Wissen. Zudem wird argumentiert, dass der Erfolg der Naturwissenschaften einen pragmatischen Beweis für die Möglichkeit zuverlässiger Erkenntnis darstellt.",
+  "verwandteIsmen": ["wertnihilismus", "moralischer-relativismus", "radikaler-konstruktivismus"],
+  "schluesselwerke": [
+    {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"},
+    {"titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882"},
+    {"titel": "Über Wahrheit und Lüge im außermoralischen Sinne", "autor": "Friedrich Nietzsche", "jahr": "1873"}
+  ]
+}

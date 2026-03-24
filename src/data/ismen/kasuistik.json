@@ -1,0 +1,24 @@
+{
+  "slug": "kasuistik",
+  "name": "Kasuistik",
+  "epoche": "Mittelalter",
+  "kurzbeschreibung": "Die Kasuistik ist eine Methode der moralischen Urteilsfindung, die von konkreten Einzelfällen ausgeht und durch den Vergleich mit paradigmatischen Fällen zu ethischen Urteilen gelangt. Sie betont die Bedeutung der Umstände, des Kontexts und der praktischen Klugheit bei der Anwendung allgemeiner moralischer Prinzipien auf konkrete Situationen.",
+  "ausfuehrlicheBeschreibung": "Die Kasuistik (von lateinisch casus = Fall) ist eine der ältesten und einflussreichsten Methoden der praktischen Ethik. Sie geht nicht von abstrakten Prinzipien aus, um diese deduktiv auf Einzelfälle anzuwenden, sondern nimmt den umgekehrten Weg: Ausgehend von konkreten Fällen und deren Besonderheiten werden durch sorgfältigen Vergleich und Analogiebildung moralische Urteile gewonnen.\n\nDie Wurzeln der Kasuistik liegen in der antiken Rhetorik und Rechtspraxis, doch ihre systematische Ausarbeitung erfolgte im Mittelalter. Thomas von Aquin entwickelte in seiner Summa Theologiae eine differenzierte Methode der moralischen Urteilsfindung, die allgemeine Prinzipien mit der Analyse konkreter Umstände verband. Er betonte die Rolle der prudentia (Klugheit) als der Tugend, die allgemeine moralische Einsichten auf besondere Situationen anzuwenden versteht.\n\nIhre Blütezeit erlebte die Kasuistik in der jesuitischen Moraltheologie des 16. und 17. Jahrhunderts. Theologen wie Francisco Suárez und Luis de Molina entwickelten ein ausgefeiltes System der Gewissensberatung, das für jeden erdenklichen moralischen Konflikt eine Lösung anbot. Die Kasuistik wurde dabei zunehmend sophistisch und geriet in den Verdacht, durch geschickte Distinktionen jedes Verhalten rechtfertigen zu können. Blaise Pascal kritisierte in seinen Provinciales (1656/57) die jesuitische Kasuistik scharf als Instrument der moralischen Laxheit.\n\nIn der modernen Ethik erlebte die Kasuistik eine Renaissance durch das Werk von Albert Jonsen und Stephen Toulmin The Abuse of Casuistry (1988). Sie argumentierten, dass die Kasuistik zu Unrecht diskreditiert worden sei und dass ihre fallbasierte Methode für die moderne Bioethik und angewandte Ethik unverzichtbar sei. Die Kasuistik bietet eine Alternative sowohl zum starren Prinzipiendenken der Deontologie als auch zum abstrakten Kalkulieren des Utilitarismus und betont die Bedeutung von Erfahrung, Urteilskraft und kontextsensiblem Denken.",
+  "kernthesen": [
+    "Moralische Urteile werden durch den Vergleich konkreter Einzelfälle mit paradigmatischen Fällen gewonnen.",
+    "Die Umstände und der Kontext einer Handlung sind für ihre moralische Bewertung entscheidend.",
+    "Praktische Klugheit ist notwendig, um allgemeine Prinzipien auf konkrete Situationen anzuwenden.",
+    "Moralische Erkenntnis ist fallbasiert und induktiv, nicht rein deduktiv aus abstrakten Prinzipien ableitbar.",
+    "Zwischen eindeutig guten und eindeutig schlechten Handlungen gibt es einen weiten Bereich, der differenzierte Urteilskraft erfordert."
+  ],
+  "hauptvertreter": ["thomas-von-aquin"],
+  "entstehung": "Die Kasuistik hat Vorläufer in der antiken Rhetorik und im römischen Recht. Im Mittelalter wurde sie durch die Bußbücher und die scholastische Moraltheologie systematisch entwickelt. Thomas von Aquin legte im 13. Jahrhundert die philosophischen Grundlagen. Ihre Blütezeit erlebte die Kasuistik in der jesuitischen Moraltheologie des 16. und 17. Jahrhunderts. Nach der scharfen Kritik durch Blaise Pascal und die Jansenisten geriet sie in Verruf, erlebte aber im 20. Jahrhundert durch die Bioethik eine bedeutende Renaissance.",
+  "kritik": "Die Kasuistik wurde historisch vor allem wegen ihrer Neigung zur Sophisterei und moralischen Laxheit kritisiert. Blaise Pascal warf den Jesuiten vor, durch geschickte Fallunterscheidungen jedes Verhalten rechtfertigen zu können. Prinzipienethiker bemängeln, dass die Kasuistik ohne klare allgemeine Normen zu einem moralischen Relativismus führe, da die Bewertung von Fall zu Fall variiere. Immanuel Kant kritisierte die kasuistische Methode als unvereinbar mit der Universalität des moralischen Gesetzes. Zudem wird eingewandt, dass die Auswahl der paradigmatischen Fälle selbst bereits moralische Vorentscheidungen enthält und somit nicht voraussetzungsfrei ist. Die Abhängigkeit von Expertenwissen und Tradition kann demokratische Mitbestimmung in ethischen Fragen einschränken.",
+  "verwandteIsmen": ["situationsethik", "scholastik"],
+  "schluesselwerke": [
+    { "titel": "Summa Theologiae", "autor": "Thomas von Aquin", "jahr": "1265-1274" },
+    { "titel": "Provinciales", "autor": "Blaise Pascal", "jahr": "1656" },
+    { "titel": "The Abuse of Casuistry", "autor": "Albert Jonsen und Stephen Toulmin", "jahr": "1988" },
+    { "titel": "De Legibus", "autor": "Francisco Suárez", "jahr": "1612" }
+  ]
+}

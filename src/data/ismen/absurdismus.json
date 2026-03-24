@@ -1,0 +1,23 @@
+{
+  "slug": "absurdismus",
+  "name": "Absurdismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Absurdismus beschreibt die philosophische Haltung, die den fundamentalen Konflikt zwischen dem menschlichen Verlangen nach Sinn und der gleichgültigen, sinnlosen Welt anerkennt. Er fordert, diesen Widerspruch bewusst auszuhalten, ohne ihn durch Religion oder Selbsttäuschung aufzulösen.",
+  "ausfuehrlicheBeschreibung": "Der Absurdismus entstand als eigenständige philosophische Strömung im Frankreich der 1940er Jahre, maßgeblich geprägt durch Albert Camus. Im Zentrum steht die Erkenntnis, dass der Mensch von Natur aus nach Sinn, Ordnung und Zweck in der Welt sucht, das Universum aber keinerlei solche Bedeutung bereithält. Dieser unauflösbare Widerspruch zwischen menschlichem Bedürfnis und kosmischer Gleichgültigkeit wird als das Absurde bezeichnet.\n\nAnders als der Nihilismus, der jede Bedeutung verneint, und anders als der Existenzialismus, der den Menschen auffordert, seinen eigenen Sinn zu schaffen, fordert der Absurdismus eine dritte Haltung: die bewusste Revolte gegen die Sinnlosigkeit bei gleichzeitiger Anerkennung ihrer Unausweichlichkeit. Camus illustrierte dies am Mythos des Sisyphos, der seinen Felsblock immer wieder den Berg hinaufrollt und dennoch als glücklich vorgestellt werden muss, weil er sein Schicksal bejaht.\n\nDer Absurdismus hat weitreichende Auswirkungen auf Literatur, Theater und Kunst des 20. Jahrhunderts gehabt. Das Theater des Absurden, vertreten durch Autoren wie Ionesco und Beckett, überträgt die philosophischen Grundgedanken in dramatische Formen. In der praktischen Lebensführung empfiehlt der Absurdismus eine Haltung der leidenschaftlichen Lebensbejahung trotz fehlenden letzten Sinns – eine Position, die sowohl den philosophischen Selbstmord der Religion als auch den tatsächlichen Selbstmord ablehnt.",
+  "kernthesen": [
+    "Das Absurde entsteht aus dem Widerspruch zwischen menschlichem Sinnverlangen und der Gleichgültigkeit der Welt.",
+    "Weder Religion noch philosophische Systeme können das Absurde auflösen, ohne intellektuelle Unredlichkeit zu begehen.",
+    "Die angemessene Reaktion auf das Absurde ist die bewusste Revolte, nicht Resignation oder Flucht.",
+    "Das Leben ist trotz seiner Sinnlosigkeit lebenswert und kann mit Leidenschaft gelebt werden.",
+    "Sisyphos muss als glücklicher Mensch vorgestellt werden, da er sein Schicksal bewusst annimmt."
+  ],
+  "hauptvertreter": ["albert-camus"],
+  "entstehung": "Der Absurdismus entwickelte sich in den 1940er Jahren aus Camus' Auseinandersetzung mit dem Existenzialismus und dem Nihilismus. Sein Essay 'Der Mythos des Sisyphos' (1942) gilt als Gründungstext der Bewegung. Camus grenzte sich bewusst vom Existenzialismus Sartres ab und bestand auf der Eigenständigkeit seiner Position.",
+  "kritik": "Kritiker werfen dem Absurdismus vor, dass die Forderung nach Revolte gegen die Sinnlosigkeit selbst eine Form der Sinnstiftung darstellt und somit in einen Widerspruch gerät. Zudem wird bemängelt, dass der Absurdismus keine konstruktive Ethik bietet und die soziale Dimension menschlicher Sinnfindung unterschätzt.",
+  "verwandteIsmen": ["existenzialismus", "nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
+    {"titel": "Der Fremde", "autor": "Albert Camus", "jahr": "1942"},
+    {"titel": "Die Pest", "autor": "Albert Camus", "jahr": "1947"}
+  ]
+}

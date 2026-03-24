@@ -1,0 +1,23 @@
+{
+  "slug": "monotheismus",
+  "name": "Monotheismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Monotheismus ist die religiös-philosophische Überzeugung, dass nur ein einziger Gott existiert, der als Schöpfer und Lenker des Universums wirkt. Er bildet die Grundlage der abrahamitischen Religionen und hat die westliche Philosophie tiefgreifend geprägt.",
+  "ausfuehrlicheBeschreibung": "Der Monotheismus behauptet die Existenz eines einzigen, allmächtigen, allwissenden und allgütigen Gottes, der das Universum geschaffen hat und es lenkt. Diese Überzeugung unterscheidet sich fundamental vom Polytheismus, der viele Götter anerkennt, und vom Pantheismus, der Gott und Natur identifiziert. Augustinus und Thomas von Aquin haben die philosophische Durchdringung des monotheistischen Gottesbegriffs in der christlichen Tradition maßgeblich geprägt.\n\nAugustinus verband den christlichen Monotheismus mit der platonischen Philosophie und entwickelte eine Theologie, in der Gott als das höchste Gut, die absolute Wahrheit und das unveränderliche Sein verstanden wird. Thomas von Aquin ergänzte diese Synthese durch die aristotelische Philosophie und formulierte seine berühmten fünf Gottesbeweise, die die Existenz Gottes als unbewegten Beweger, erste Ursache und notwendiges Wesen zu demonstrieren suchen. Beide Denker prägten die Scholastik und damit die gesamte mittelalterliche Philosophie.\n\nDer philosophische Monotheismus wirft fundamentale Probleme auf, die seit der Antike diskutiert werden. Das Theodizeeproblem – die Frage, wie ein allmächtiger und allgütiger Gott das Übel in der Welt zulassen kann – bleibt eine der größten Herausforderungen. In der Neuzeit wurde der Monotheismus durch die Religionskritik der Aufklärung, den Atheismus Nietzsches und die psychologische Analyse Freuds grundlegend in Frage gestellt.",
+  "kernthesen": [
+    "Es existiert nur ein einziger Gott, der allmächtig, allwissend und allgütig ist.",
+    "Gott ist der Schöpfer und Lenker des gesamten Universums.",
+    "Die Existenz Gottes kann durch rationale Argumente gestützt werden.",
+    "Gott ist das höchste Gut und die absolute Wahrheit, nach der alles Seiende strebt.",
+    "Der Mensch steht in einer persönlichen Beziehung zu dem einen Gott."
+  ],
+  "hauptvertreter": ["augustinus", "thomas-von-aquin"],
+  "entstehung": "Der Monotheismus entwickelte sich im antiken Israel und fand seine philosophische Ausarbeitung in der Begegnung von biblischer Offenbarung und griechischer Philosophie. Augustinus schuf im 4. und 5. Jahrhundert die erste große Synthese von christlichem Glauben und platonischer Philosophie, die Thomas von Aquin im 13. Jahrhundert durch die aristotelische Philosophie ergänzte.",
+  "kritik": "Das Theodizeeproblem – wie ein allmächtiger und gütiger Gott Leid und Übel zulassen kann – bleibt die stärkste philosophische Einwand gegen den Monotheismus. Zudem hat die Religionskritik seit der Aufklärung gezeigt, dass die klassischen Gottesbeweise logische Schwächen aufweisen und der Monotheismus möglicherweise eine menschliche Projektion ist.",
+  "verwandteIsmen": ["theismus", "scholastik"],
+  "schluesselwerke": [
+    {"titel": "De civitate Dei", "autor": "Augustinus", "jahr": "426"},
+    {"titel": "Summa theologica", "autor": "Thomas von Aquin", "jahr": "1274"},
+    {"titel": "Confessiones", "autor": "Augustinus", "jahr": "400"}
+  ]
+}

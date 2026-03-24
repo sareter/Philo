@@ -1,0 +1,23 @@
+{
+  "slug": "ordinary-language-philosophy",
+  "name": "Ordinary Language Philosophy",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Ordinary Language Philosophy nimmt die Alltagssprache als Ausgangspunkt philosophischer Analyse. Philosophische Probleme entstehen durch den Missbrauch der gewöhnlichen Sprache und lösen sich durch deren sorgfältige Untersuchung.",
+  "ausfuehrlicheBeschreibung": "Die Ordinary Language Philosophy – die Philosophie der normalen Sprache – vertritt die These, dass philosophische Probleme nicht durch Konstruktion einer idealen Kunstsprache gelöst werden, sondern durch sorgfältige Analyse des alltäglichen Sprachgebrauchs. Philosophische Verwirrungen entstehen, wenn Wörter aus ihrem gewöhnlichen Gebrauch herausgerissen und in metaphysische Kontexte verpflanzt werden.\n\nLudwig Wittgenstein vollzog in seinen späteren Philosophischen Untersuchungen eine radikale Wende gegenüber dem Tractatus: Anstatt nach der logischen Tiefenstruktur der Sprache zu suchen, untersuchte er nun die vielfältigen Sprachspiele des Alltags. Bedeutung ist Gebrauch – so lautet die zentrale These. Ein Wort hat keine feste Bedeutung, die ihm von der Wirklichkeit aufgeprägt wird, sondern seine Bedeutung ergibt sich aus der Art und Weise, wie es in verschiedenen Lebensformen verwendet wird.\n\nDie Ordinary Language Philosophy veränderte das Selbstverständnis der Philosophie grundlegend: Der Philosoph ist nicht derjenige, der hinter den Erscheinungen eine tiefere Wahrheit entdeckt, sondern derjenige, der sprachliche Verwirrungen aufklärt und zeigt, dass viele scheinbar tiefe Probleme auf einem Missverständnis der Sprache beruhen. Philosophie wird so zu einer therapeutischen Tätigkeit.",
+  "kernthesen": [
+    "Philosophische Probleme entstehen durch Missbrauch der Alltagssprache",
+    "Bedeutung ist Gebrauch in einer Lebensform",
+    "Es gibt keine ideale Sprache hinter der alltäglichen",
+    "Philosophie ist therapeutische Klärung sprachlicher Verwirrungen",
+    "Sprachspiele sind die Grundeinheiten sprachlicher Bedeutung"
+  ],
+  "hauptvertreter": ["ludwig-wittgenstein"],
+  "entstehung": "Die Ordinary Language Philosophy entwickelte sich in den 1940er und 1950er Jahren, vor allem in Oxford und Cambridge. Wittgensteins Philosophische Untersuchungen (posthum 1953) bilden ihr Grundlagenwerk, ergänzt durch die Arbeiten von J. L. Austin und Gilbert Ryle.",
+  "kritik": "Kritiker werfen der Ordinary Language Philosophy vor, sie reduziere die Philosophie auf Sprachanalyse und weiche den großen metaphysischen und ethischen Fragen aus. Zudem wird bezweifelt, ob die Alltagssprache tatsächlich ein zuverlässiger Maßstab für philosophische Klarheit ist.",
+  "verwandteIsmen": ["logischer-atomismus", "neopragmatismus", "radikaler-konstruktivismus"],
+  "schluesselwerke": [
+    {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
+    {"titel": "Zur Theorie der Sprechakte", "autor": "John L. Austin", "jahr": "1962"},
+    {"titel": "Der Begriff des Geistes", "autor": "Gilbert Ryle", "jahr": "1949"}
+  ]
+}

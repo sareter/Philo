@@ -1,0 +1,23 @@
+{
+  "slug": "hinduistische-philosophie",
+  "name": "Hinduistische Philosophie",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Die hinduistische Philosophie umfasst diverse Denksysteme, die auf den Veden beruhen und die Einheit allen Seins (Brahman), die Seelenwanderung und die Befreiung (Moksha) zum Thema haben. Sie verbindet metaphysische Spekulation mit praktischer Lebensführung.",
+  "ausfuehrlicheBeschreibung": "Die hinduistische Philosophie umfasst sechs klassische Schulen (Darshanas): Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa und Vedanta. Gemeinsam ist ihnen der Bezug auf die vedischen Schriften, insbesondere die Upanishaden, die das Verhältnis zwischen dem individuellen Selbst (Atman) und dem universellen Absoluten (Brahman) erkunden. Die berühmte Formel 'Tat tvam asi' (Das bist du) drückt die grundlegende Identität von Atman und Brahman aus – eine Einsicht, die an Spinozas Lehre von der einen Substanz erinnert.\n\nDie Vedanta-Philosophie, insbesondere in ihrer von Shankara vertretenen Advaita-Form (Nicht-Dualismus), lehrt, dass die Vielheit der Welt eine Illusion (Maya) ist und nur Brahman als einzige Wirklichkeit besteht. Diese monistische Position weist bemerkenswerte Parallelen zu Spinozas Deus sive Natura auf. Andere Schulen wie Ramanuja's Vishishtadvaita vertreten einen qualifizierten Monismus, der die Realität der individuellen Seelen innerhalb Brahmans anerkennt.\n\nDie hinduistische Philosophie hat mit ihren Konzepten von Karma, Dharma und Moksha nicht nur die indische Kultur geprägt, sondern auch westliche Denker wie Schopenhauer, Emerson und Heidegger beeinflusst. In der Gegenwart bietet sie wichtige Perspektiven für Umweltethik, interkulturelle Philosophie und die Philosophie des Bewusstseins.",
+  "kernthesen": [
+    "Brahman ist die eine, allumfassende Wirklichkeit, von der alles Seiende abhängt.",
+    "Atman (das individuelle Selbst) und Brahman sind im tiefsten Grunde identisch.",
+    "Die sichtbare Welt der Vielheit ist Maya (Illusion) und verdeckt die wahre Einheit.",
+    "Durch Erkenntnis (Jnana), Hingabe (Bhakti) oder rechtes Handeln (Karma) kann der Mensch Moksha (Befreiung) erlangen.",
+    "Das Gesetz des Karma bestimmt die sittliche Ordnung des Universums und die Wiedergeburt."
+  ],
+  "hauptvertreter": ["baruch-spinoza"],
+  "entstehung": "Die hinduistische Philosophie entwickelte sich über Jahrtausende, beginnend mit den Veden (ca. 1500 v. Chr.) und den Upanishaden (ca. 800–200 v. Chr.). Die systematischen Darshanas entstanden in den Jahrhunderten um die Zeitenwende. Shankara (8. Jh.) und Ramanuja (11. Jh.) prägten die einflussreichsten Vedanta-Schulen.",
+  "kritik": "Kritiker werfen der hinduistischen Philosophie vor, das Kastensystem religiös zu legitimieren und soziale Ungerechtigkeit als kosmische Ordnung darzustellen. Zudem wird die Abwertung der materiellen Welt als Illusion als Hindernis für praktische Weltverbesserung gesehen.",
+  "verwandteIsmen": ["monismus", "pantheismus", "mystizismus", "buddhistische-philosophie"],
+  "schluesselwerke": [
+    {"titel": "Upanishaden", "autor": "Verschiedene Autoren", "jahr": "ca. 800 v. Chr."},
+    {"titel": "Bhagavadgita", "autor": "Überliefert", "jahr": "ca. 200 v. Chr."},
+    {"titel": "Brahma-Sutra-Bhashya", "autor": "Shankara", "jahr": "ca. 800 n. Chr."}
+  ]
+}

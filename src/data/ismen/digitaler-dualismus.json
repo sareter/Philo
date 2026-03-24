@@ -1,0 +1,23 @@
+{
+  "slug": "digitaler-dualismus",
+  "name": "Digitaler Dualismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Digitale Dualismus ist die Position, dass die Online- und Offline-Welt grundsätzlich getrennte Realitäten darstellen. Er wird sowohl als alltagsweltliche Annahme als auch als kritisierbares philosophisches Konzept diskutiert.",
+  "ausfuehrlicheBeschreibung": "Der Digitale Dualismus wurde als Begriff vom Soziologen Nathan Jurgenson geprägt, der ihn kritisch als eine weitverbreitete, aber falsche Annahme beschreibt: die Überzeugung, dass das 'Digitale' und das 'Reale' zwei grundsätzlich verschiedene Sphären der Existenz sind. Diese Position impliziert, dass Online-Erfahrungen weniger authentisch, weniger real oder weniger bedeutsam sind als Offline-Erfahrungen. Philosophisch erinnert dies an Heideggers Analyse der Uneigentlichkeit – die Frage, welche Erfahrungen als authentisch gelten und warum.\n\nHeideggers Unterscheidung zwischen Eigentlichkeit und Uneigentlichkeit wird im Kontext des Digitalen Dualismus aktualisiert: Ist das Gespräch von Angesicht zu Angesicht 'eigentlicher' als der Online-Chat? Ist der physische Ort 'realer' als der virtuelle Raum? Der Digitale Dualismus bejaht diese Fragen und wertet digitale Erfahrungen systematisch ab. Demgegenüber argumentieren Kritiker wie Jurgenson für eine 'Augmented Reality'-Perspektive, die Online und Offline als untrennbar verflochten versteht.\n\nDie Debatte um den Digitalen Dualismus hat Konsequenzen für unser Verständnis von Identität, Gemeinschaft und Authentizität im digitalen Zeitalter. Wenn digitale und physische Realität nicht sauber getrennt werden können, verlieren Forderungen, 'offline zu gehen' oder 'ins echte Leben zurückzukehren', ihre philosophische Grundlage. Gleichzeitig muss die Frage gestellt werden, ob die vollständige Verschmelzung beider Sphären nicht neue Formen der Entfremdung hervorbringt.",
+  "kernthesen": [
+    "Die Online-Welt und die Offline-Welt bilden zwei grundsätzlich verschiedene Realitäten.",
+    "Digitale Erfahrungen gelten als weniger authentisch und weniger real als physische.",
+    "Die Trennung von Digital und Real spiegelt den klassischen Leib-Seele-Dualismus wider.",
+    "Authentisches Leben erfordert die Rückkehr zum Physischen und Unmittelbaren.",
+    "Die Verschmelzung beider Sphären muss kritisch hinterfragt werden."
+  ],
+  "hauptvertreter": ["martin-heidegger"],
+  "entstehung": "Der Begriff 'Digitaler Dualismus' wurde 2011 von Nathan Jurgenson geprägt, um eine weit verbreitete kulturelle Annahme zu kritisieren. Die Debatte entwickelte sich im Kontext der zunehmenden Durchdringung des Alltags durch soziale Medien und die Frage nach der Authentizität digitaler Erfahrungen.",
+  "kritik": "Kritiker des Digitalen Dualismus – wie Jurgenson selbst – argumentieren, dass die Trennung von Online und Offline eine falsche Dichotomie darstellt. Beide Sphären sind untrennbar verflochten, und die Abwertung digitaler Erfahrungen reproduziert elitäre Vorstellungen von Authentizität.",
+  "verwandteIsmen": ["dualismus", "simulationstheorie", "techno-pessimismus"],
+  "schluesselwerke": [
+    {"titel": "The IRL Fetish", "autor": "Nathan Jurgenson", "jahr": "2012"},
+    {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"},
+    {"titel": "The Social Photo", "autor": "Nathan Jurgenson", "jahr": "2019"}
+  ]
+}

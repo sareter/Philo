@@ -1,0 +1,22 @@
+{
+  "slug": "korporatismus",
+  "name": "Korporatismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Korporatismus ist eine politische Theorie, die gesellschaftliche Ordnung durch die Organisation in berufsständische Gruppen anstrebt. Er sieht korporative Körperschaften als Vermittler zwischen Individuum und Staat.",
+  "ausfuehrlicheBeschreibung": "Der Korporatismus entstand als politische und sozialphilosophische Strömung im 19. und frühen 20. Jahrhundert als Antwort auf die sozialen Verwerfungen der Industrialisierung. Er vertritt die Idee, dass die Gesellschaft nicht aus isolierten Individuen besteht, sondern aus organisch gewachsenen Gruppen – Berufsständen, Gilden, Korporationen –, die als natürliche Einheiten zwischen Individuum und Staat vermitteln sollen.\n\nHistorisch speiste sich der Korporatismus aus verschiedenen Quellen: der katholischen Soziallehre, insbesondere der Enzyklika Rerum Novarum (1891), dem romantischen Organismus-Denken und konservativen Gesellschaftstheorien. In seiner modernen Form, dem Neo-Korporatismus, beschreibt er institutionalisierte Verhandlungssysteme zwischen Staat, Arbeitgebern und Gewerkschaften, wie sie in skandinavischen Ländern und Österreich praktiziert werden.\n\nDer Korporatismus unterscheidet sich sowohl vom Liberalismus, der das Individuum in den Mittelpunkt stellt, als auch vom Sozialismus, der Klassenkonflikt betont. Er strebt stattdessen eine harmonische Kooperation der gesellschaftlichen Gruppen an. Problematisch wurde der Begriff durch seine Vereinnahmung durch autoritäre Regime wie das faschistische Italien unter Mussolini, weshalb heute meist vom Neo-Korporatismus gesprochen wird.",
+  "kernthesen": [
+    "Die Gesellschaft besteht aus organischen Gruppen, nicht aus isolierten Individuen.",
+    "Berufsständische Korporationen sollen zwischen Individuum und Staat vermitteln.",
+    "Soziale Harmonie wird durch institutionalisierte Kooperation der Stände erreicht.",
+    "Klassenkampf soll durch korporative Interessenvertretung überwunden werden.",
+    "Der Staat koordiniert die gesellschaftlichen Gruppen zum Wohle des Ganzen."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der Korporatismus entwickelte sich im 19. Jahrhundert aus der katholischen Soziallehre und dem romantischen Organismus-Denken. Die Enzyklika Quadragesimo Anno (1931) formulierte ein korporatives Gesellschaftsmodell als dritten Weg zwischen Kapitalismus und Sozialismus.",
+  "kritik": "Kritiker werfen dem Korporatismus vor, demokratische Willensbildung durch elitäre Verhandlungssysteme zu ersetzen und gesellschaftliche Machtverhältnisse zu verschleiern. Zudem wird seine historische Nähe zu autoritären und faschistischen Regimen als grundlegendes Problem angesehen.",
+  "verwandteIsmen": ["konservatismus", "syndikalismus", "kommunitarismus", "foederalismus"],
+  "schluesselwerke": [
+    {"titel": "Quadragesimo Anno", "autor": "Papst Pius XI.", "jahr": "1931"},
+    {"titel": "Trends Toward Corporatist Intermediation", "autor": "Philippe C. Schmitter", "jahr": "1979"}
+  ]
+}

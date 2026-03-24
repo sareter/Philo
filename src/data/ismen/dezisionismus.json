@@ -1,0 +1,24 @@
+{
+  "slug": "dezisionismus",
+  "name": "Dezisionismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Dezisionismus ist die philosophische und politische Theorie, die die souveräne Entscheidung als Grundlage jeder politischen und rechtlichen Ordnung betrachtet. Er betont, dass politische Ordnungen nicht auf rationalen Normen, sondern auf grundlegenden Entscheidungen beruhen, die sich nicht weiter begründen lassen.",
+  "ausfuehrlicheBeschreibung": "Der Dezisionismus (von lateinisch decisio = Entscheidung) ist eine einflussreiche Strömung der politischen Philosophie des 20. Jahrhunderts, die die Entscheidung als irreduzierbares Fundament politischer Ordnung begreift. Im Gegensatz zum Normativismus, der politische Legitimität auf allgemeine Normen und Gesetze gründet, betont der Dezisionismus, dass jede Ordnung letztlich auf einer grundlegenden Entscheidung beruht, die selbst nicht mehr normativ begründet werden kann.\n\nDer bedeutendste Vertreter des politischen Dezisionismus ist Carl Schmitt, der in seiner Politischen Theologie (1922) den berühmten Satz formulierte: Souverän ist, wer über den Ausnahmezustand entscheidet. Für Schmitt offenbart sich die wahre Natur politischer Souveränität nicht in der Normalität des Rechtsstaats, sondern im Ausnahmezustand, wenn die bestehende Ordnung zusammenbricht und eine neue Entscheidung über die Grundlagen der politischen Existenz getroffen werden muss. Die Entscheidung des Souveräns ist für Schmitt aus dem Nichts geboren und lässt sich nicht aus bestehenden Normen ableiten.\n\nPhilosophisch hat der Dezisionismus Wurzeln im Voluntarismus und in der Existenzphilosophie. Martin Heidegger betonte in Sein und Zeit (1927) die Entschlossenheit als wesentlichen Modus authentischer Existenz. Die eigentliche Existenz des Daseins verwirklicht sich in der entschlossenen Übernahme der eigenen Möglichkeiten angesichts des Todes. Obwohl Heideggers Entschlossenheitsbegriff primär existenzialphilosophisch gemeint ist, wurde er politisch wirksam und beeinflusste die dezisionistische Tradition.\n\nDer Dezisionismus wirft fundamentale Fragen über das Verhältnis von Recht und Politik, Norm und Ausnahme, Rationalität und Willkür auf. Er stellt die liberale Vorstellung infrage, dass politische Ordnungen vollständig auf rationalen Prinzipien und universellen Normen aufgebaut werden können, und verweist auf den irreduziblen Moment der Entscheidung in jeder politischen Gründung.",
+  "kernthesen": [
+    "Jede politische Ordnung beruht letztlich auf einer grundlegenden Entscheidung, die sich nicht weiter normativ begründen lässt.",
+    "Souverän ist, wer über den Ausnahmezustand entscheidet.",
+    "Die wahre Natur politischer Souveränität zeigt sich nicht in der Normalität, sondern im Ausnahmezustand.",
+    "Recht und Ordnung können nicht rein aus Normen abgeleitet werden, sondern setzen eine vorgängige Entscheidung voraus.",
+    "Die Entschlossenheit zur Entscheidung ist ein wesentlicher Modus authentischer Existenz."
+  ],
+  "hauptvertreter": ["martin-heidegger"],
+  "entstehung": "Der Dezisionismus entstand in der politischen und philosophischen Krisensituation der Weimarer Republik. Carl Schmitt formulierte seine dezisionistische Staatslehre in den 1920er Jahren als Antwort auf die Legitimationskrise der parlamentarischen Demokratie. Philosophisch wurde er durch Martin Heideggers Existenzialanalyse der Entschlossenheit in Sein und Zeit (1927) und durch Søren Kierkegaards existenzielle Betonung der Entscheidung vorbereitet. Die Erfahrung des Ersten Weltkriegs und der Zusammenbruch der alten Ordnungen bildeten den historischen Hintergrund.",
+  "kritik": "Der Dezisionismus wird vor allem wegen seiner politischen Implikationen heftig kritisiert. Liberale Denker werfen ihm vor, die Willkür des Souveräns zu legitimieren und den Rechtsstaat zu untergraben. Die Betonung des Ausnahmezustands könne zur Rechtfertigung autoritärer Herrschaft missbraucht werden, wie die historische Nähe Carl Schmitts zum Nationalsozialismus zeige. Jürgen Habermas kritisiert den Dezisionismus als irrationalistische Verkürzung, die die Möglichkeit rationaler Diskurse und demokratischer Willensbildung leugnet. Normativisten wenden ein, dass auch Entscheidungen immer schon in normative Kontexte eingebettet sind und sich nicht aus dem Nichts vollziehen. Zudem wird bemängelt, dass der Dezisionismus die Bedeutung von Institutionen, Traditionen und gewachsenen Ordnungen unterschätzt.",
+  "verwandteIsmen": ["existenzialismus", "voluntarismus"],
+  "schluesselwerke": [
+    { "titel": "Politische Theologie", "autor": "Carl Schmitt", "jahr": "1922" },
+    { "titel": "Der Begriff des Politischen", "autor": "Carl Schmitt", "jahr": "1932" },
+    { "titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927" },
+    { "titel": "Entweder – Oder", "autor": "Søren Kierkegaard", "jahr": "1843" }
+  ]
+}

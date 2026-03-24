@@ -1,0 +1,23 @@
+{
+  "slug": "distributismus",
+  "name": "Distributismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Distributismus ist eine wirtschaftsphilosophische Strömung, die eine möglichst breite Verteilung von Produktionsmitteln und Eigentum anstrebt, als Alternative zu Kapitalismus und Sozialismus.",
+  "ausfuehrlicheBeschreibung": "Der Distributismus entstand als Antwort auf die sozialen Verwerfungen der Industrialisierung und vertritt die These, dass weder der Kapitalismus noch der Sozialismus gerechte Wirtschaftsordnungen darstellen. Stattdessen sollte das Eigentum an Produktionsmitteln so breit wie möglich verteilt werden.\n\nDie philosophischen Wurzeln liegen in der katholischen Soziallehre, insbesondere in den Enzykliken Rerum Novarum (1891) und Quadragesimo Anno (1931). G.K. Chesterton und Hilaire Belloc entwickelten den Distributismus als konkretes politisches und wirtschaftliches Programm.\n\nDer Distributismus betont das Subsidiaritätsprinzip: Entscheidungen sollen auf der niedrigstmöglichen Ebene getroffen werden. Kleine Betriebe, Genossenschaften und Familienunternehmen werden gegenüber Großkonzernen bevorzugt.",
+  "kernthesen": [
+    "Eigentum an Produktionsmitteln soll möglichst breit verteilt sein.",
+    "Weder Kapitalismus noch Sozialismus sind gerechte Wirtschaftsordnungen.",
+    "Das Subsidiaritätsprinzip soll wirtschaftliche und politische Entscheidungen leiten.",
+    "Kleine Betriebe und Genossenschaften sind Großkonzernen vorzuziehen.",
+    "Privateigentum ist ein natürliches Recht, aber mit sozialer Verantwortung verbunden."
+  ],
+  "hauptvertreter": ["thomas-von-aquin"],
+  "entstehung": "Der Distributismus entstand im frühen 20. Jahrhundert in England als Reaktion auf die sozialen Probleme des Industriekapitalismus. G.K. Chesterton und Hilaire Belloc formulierten die Grundideen auf Basis der katholischen Soziallehre.",
+  "kritik": "Kritiker bemängeln die Impraktikabilität einer breiten Eigentumsverteilung in modernen Industriegesellschaften. Liberale sehen im Distributismus einen unzulässigen Eingriff in die Eigentumsfreiheit, während Sozialisten ihn als zu konservativ betrachten.",
+  "verwandteIsmen": ["sozialismus", "konservatismus", "kommunitarismus"],
+  "schluesselwerke": [
+    {"titel": "Rerum Novarum", "autor": "Papst Leo XIII.", "jahr": "1891"},
+    {"titel": "What's Wrong with the World", "autor": "G.K. Chesterton", "jahr": "1910"},
+    {"titel": "The Servile State", "autor": "Hilaire Belloc", "jahr": "1912"}
+  ]
+}

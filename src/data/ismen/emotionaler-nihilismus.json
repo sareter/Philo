@@ -1,0 +1,23 @@
+{
+  "slug": "emotionaler-nihilismus",
+  "name": "Emotionaler Nihilismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der emotionale Nihilismus diagnostiziert eine fundamentale Leere und Nichtigkeit menschlicher Gefühle. Emotionen werden als illusionäre Konstrukte entlarvt, die keinen echten Zugang zur Wirklichkeit bieten.",
+  "ausfuehrlicheBeschreibung": "Der emotionale Nihilismus radikalisiert die nihilistische Grundhaltung, indem er sie auf den Bereich der Emotionen und Gefühle ausdehnt. Er behauptet, dass menschliche Emotionen nicht nur unzuverlässig, sondern im Grunde leer und nichtig sind – sie spiegeln keine tiefere Wahrheit wider und bieten keinen authentischen Zugang zur Wirklichkeit oder zu anderen Menschen.\n\nJean-Paul Sartre analysierte die Emotionen als Formen des magischen Bewusstseins: In der Emotion versucht das Bewusstsein, die Welt zu transformieren, indem es seine eigene Haltung zur Welt ändert, anstatt tatsächlich in sie einzugreifen. Wut, Trauer und Freude sind demnach keine passiven Reaktionen auf die Welt, sondern aktive Strategien der Weltflucht. Die Emotion gibt vor, unmittelbar und authentisch zu sein, ist aber in Wahrheit eine Form der Selbsttäuschung.\n\nDer emotionale Nihilismus hat tiefgreifende Konsequenzen für das Verständnis zwischenmenschlicher Beziehungen: Wenn Gefühle grundsätzlich nichtig sind, dann ist auch die emotionale Bindung an andere Menschen eine Illusion. Die Liebe, die Freundschaft, das Mitleid – all diese vermeintlich fundamentalen menschlichen Erfahrungen werden als leere Gesten entlarvt, hinter denen sich nichts Substantielles verbirgt.",
+  "kernthesen": [
+    "Menschliche Emotionen sind im Grunde leer und nichtig",
+    "Gefühle bieten keinen authentischen Zugang zur Wirklichkeit",
+    "Emotionen sind Strategien der Weltflucht und Selbsttäuschung",
+    "Emotionale Bindungen an andere Menschen sind Illusionen",
+    "Hinter den Gefühlen verbirgt sich das Nichts"
+  ],
+  "hauptvertreter": ["jean-paul-sartre"],
+  "entstehung": "Der emotionale Nihilismus entwickelte sich im 20. Jahrhundert aus der Verbindung von existenzialistischer Philosophie und phänomenologischer Emotionsanalyse. Sartres Skizze einer Theorie der Emotionen (1939) legte den Grundstein für eine radikale Infragestellung der Authentizität menschlicher Gefühle.",
+  "kritik": "Kritiker werfen dem emotionalen Nihilismus vor, er übersehe die biologische und soziale Realität der Emotionen und verwechsle philosophische Analyse mit nihilistischer Entwertung. Zudem wird argumentiert, dass eine konsequent emotionslose Existenz weder möglich noch wünschenswert ist.",
+  "verwandteIsmen": ["existenzieller-nihilismus", "entfremdungsphilosophie", "wertnihilismus"],
+  "schluesselwerke": [
+    {"titel": "Skizze einer Theorie der Emotionen", "autor": "Jean-Paul Sartre", "jahr": "1939"},
+    {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
+    {"titel": "Der Ekel", "autor": "Jean-Paul Sartre", "jahr": "1938"}
+  ]
+}

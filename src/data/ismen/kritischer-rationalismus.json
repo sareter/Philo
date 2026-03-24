@@ -1,0 +1,23 @@
+{
+  "slug": "kritischer-rationalismus",
+  "name": "Kritischer Rationalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der kritische Rationalismus ist Karl Poppers Wissenschaftsphilosophie, die Falsifizierbarkeit als Kriterium wissenschaftlicher Theorien einführt. Wahres Wissen ist unerreichbar, aber Fortschritt durch Fehlerkorrektur möglich.",
+  "ausfuehrlicheBeschreibung": "Der kritische Rationalismus ist eine von Karl Popper begründete wissenschaftsphilosophische Position, die sich sowohl gegen den logischen Positivismus als auch gegen den Relativismus wendet. Ihr zentrales Prinzip ist die Falsifizierbarkeit: Eine Theorie ist nur dann wissenschaftlich, wenn sie prinzipiell durch Erfahrung widerlegbar ist. Verifizierung – der endgültige Beweis einer Theorie – ist dagegen unmöglich.\n\nPopper ersetzte das Induktionsprinzip durch die Methode von Versuch und Irrtum: Wissenschaftler stellen kühne Hypothesen auf und versuchen dann, diese zu widerlegen. Theorien, die allen Widerlegungsversuchen standhalten, gelten als bewährt, aber nie als endgültig bewiesen. Wissenschaftlicher Fortschritt besteht nicht in der Anhäufung von Wahrheiten, sondern in der sukzessiven Elimination von Irrtümern.\n\nDer kritische Rationalismus hat weitreichende Konsequenzen über die Wissenschaftstheorie hinaus: In der Politik vertritt er eine offene Gesellschaft, die ihre Institutionen ständig kritisch überprüft und verbessert. In der Erkenntnistheorie steht er für eine Haltung der intellektuellen Bescheidenheit: Wir wissen nie sicher, aber wir können aus unseren Fehlern lernen und der Wahrheit näherkommen.",
+  "kernthesen": [
+    "Falsifizierbarkeit ist das Kriterium wissenschaftlicher Theorien",
+    "Endgültige Verifikation ist unmöglich, nur Falsifikation ist möglich",
+    "Wissenschaft schreitet durch Versuch und Irrtum voran",
+    "Theorien sind bewährt, aber nie endgültig bewiesen",
+    "Eine offene Gesellschaft lebt von ständiger kritischer Überprüfung"
+  ],
+  "hauptvertreter": ["karl-popper"],
+  "entstehung": "Der kritische Rationalismus wurde von Karl Popper in den 1930er Jahren entwickelt, insbesondere in seiner Logik der Forschung (1934). Er entstand als Kritik am Verifikationismus des Wiener Kreises und als Antwort auf das Induktionsproblem.",
+  "kritik": "Kritiker werfen dem kritischen Rationalismus vor, dass Falsifikation in der wissenschaftlichen Praxis selten eindeutig ist, da immer Hilfshypothesen angepasst werden können. Zudem wird Poppers Ablehnung der Induktion als unrealistisch kritisiert, da Wissenschaftler in der Praxis ständig induktiv schließen.",
+  "verwandteIsmen": ["logischer-atomismus", "naturalistische-erkenntnistheorie", "neopragmatismus"],
+  "schluesselwerke": [
+    {"titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
+    {"titel": "Die offene Gesellschaft und ihre Feinde", "autor": "Karl Popper", "jahr": "1945"},
+    {"titel": "Vermutungen und Widerlegungen", "autor": "Karl Popper", "jahr": "1963"}
+  ]
+}

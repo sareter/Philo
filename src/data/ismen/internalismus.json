@@ -1,0 +1,23 @@
+{
+  "slug": "internalismus",
+  "name": "Internalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Internalismus ist die erkenntnistheoretische Position, dass die Rechtfertigung von Überzeugungen ausschließlich auf inneren, dem Subjekt zugänglichen Faktoren beruht. Nur das, was dem Bewusstsein unmittelbar gegeben ist, kann Wissen begründen.",
+  "ausfuehrlicheBeschreibung": "Der Internalismus in der Erkenntnistheorie vertritt die These, dass die Rechtfertigung von Überzeugungen ausschließlich von Faktoren abhängt, die dem erkennenden Subjekt intern – durch Reflexion oder Introspektion – zugänglich sind. Eine Überzeugung ist nur dann gerechtfertigt, wenn das Subjekt selbst die Gründe für diese Überzeugung kennen und angeben kann. Diese Position hat ihre philosophischen Wurzeln in Descartes' Meditationen, in denen die Gewissheit des eigenen Denkens (Cogito ergo sum) zum archimedischen Punkt allen Wissens wird.\n\nDescartes' Methode des radikalen Zweifels verdeutlicht die internalistiche Grundintuition: Nur das, was dem Bewusstsein unmittelbar und unbezweifelbar gegeben ist, kann als sichere Grundlage des Wissens dienen. Der Internalismus wurde im 20. Jahrhundert durch Roderick Chisholm, Laurence BonJour und andere analytische Philosophen systematisch ausgearbeitet. Die wichtigsten Varianten sind der Evidentialismus (Rechtfertigung durch Evidenz) und der Zugangs-Internalismus (Rechtfertigung durch reflektiven Zugang zu den eigenen Gründen).\n\nDie Debatte zwischen Internalismus und Externalismus gehört zu den zentralen Kontroversen der gegenwärtigen Erkenntnistheorie. Der Internalismus bewahrt die Intuition, dass Wissen bewusste Verantwortung für die eigenen Überzeugungen erfordert, steht aber vor dem Problem, dass viele unserer berechtigten Überzeugungen auf Prozessen beruhen, die uns nicht bewusst sind – etwa auf der Zuverlässigkeit unserer Wahrnehmung.",
+  "kernthesen": [
+    "Rechtfertigung von Überzeugungen beruht ausschließlich auf inneren, dem Subjekt zugänglichen Faktoren.",
+    "Nur was dem Bewusstsein durch Reflexion zugänglich ist, kann Wissen begründen.",
+    "Epistemische Verantwortung erfordert, dass das Subjekt seine Gründe kennt und angeben kann.",
+    "Die Gewissheit des eigenen Denkens bildet den archimedischen Punkt der Erkenntnis.",
+    "Äußere Faktoren, die dem Subjekt nicht zugänglich sind, können Überzeugungen nicht rechtfertigen."
+  ],
+  "hauptvertreter": ["rene-descartes"],
+  "entstehung": "Der Internalismus hat seine Wurzeln in Descartes' Meditationen (1641) und wurde im 20. Jahrhundert durch analytische Erkenntnistheoretiker wie Roderick Chisholm und Laurence BonJour systematisch entwickelt. Die Debatte mit dem Externalismus wurde vor allem durch Alvin Goldmans reliabilistischen Ansatz (1979) ausgelöst.",
+  "kritik": "Kritiker werfen dem Internalismus vor, zu hohe Anforderungen an die Rechtfertigung zu stellen, die in der Praxis nicht erfüllbar sind. Zudem wird argumentiert, dass viele berechtigte Überzeugungen – etwa Wahrnehmungsurteile – auf Prozessen beruhen, die dem Bewusstsein nicht zugänglich sind, und dennoch als Wissen gelten sollten.",
+  "verwandteIsmen": ["rationalismus", "externalismus", "fundamentalismus"],
+  "schluesselwerke": [
+    {"titel": "Meditationen über die Grundlagen der Philosophie", "autor": "René Descartes", "jahr": "1641"},
+    {"titel": "Theory of Knowledge", "autor": "Roderick Chisholm", "jahr": "1966"},
+    {"titel": "The Structure of Empirical Knowledge", "autor": "Laurence BonJour", "jahr": "1985"}
+  ]
+}

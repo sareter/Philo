@@ -1,0 +1,23 @@
+{
+  "slug": "ethischer-pluralismus",
+  "name": "Ethischer Pluralismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der ethische Pluralismus erkennt die Legitimität verschiedener ethischer Systeme und Werte an. Er behauptet, dass es mehrere gleichberechtigte moralische Wahrheiten geben kann, die miteinander in Konflikt stehen.",
+  "ausfuehrlicheBeschreibung": "Der ethische Pluralismus vertritt die Position, dass es verschiedene, gleichermaßen gültige ethische Systeme und Werte gibt, die nicht auf ein einziges Prinzip reduziert werden können. Freiheit, Gleichheit, Gerechtigkeit, Fürsorge und andere Werte sind jeweils in sich berechtigt, können aber miteinander in Konflikt geraten, ohne dass ein übergeordnetes Prinzip diesen Konflikt auflösen könnte.\n\nJohn Rawls entwickelte mit seiner Theorie der Gerechtigkeit einen Rahmen, der verschiedene ethische Ansprüche in einer pluralistischen Gesellschaft versöhnen soll. Seine Idee eines übergreifenden Konsenses zeigt, wie Menschen mit unterschiedlichen moralischen Überzeugungen dennoch gemeinsame Grundsätze der Gerechtigkeit akzeptieren können. Der ethische Pluralismus wird bei Rawls nicht als Defizit, sondern als Normalzustand demokratischer Gesellschaften betrachtet.\n\nDer ethische Pluralismus unterscheidet sich vom moralischen Relativismus dadurch, dass er nicht behauptet, alle moralischen Positionen seien gleichermaßen gültig. Er erkennt vielmehr an, dass es verschiedene berechtigte Wertperspektiven gibt, die in einem vernünftigen Dialog ausgehandelt werden müssen. Pluralismus bedeutet nicht Beliebigkeit, sondern die Anerkennung einer irreduziblen Vielfalt des Guten.",
+  "kernthesen": [
+    "Es gibt mehrere gleichberechtigte ethische Systeme und Werte",
+    "Moralische Werte können nicht auf ein einziges Prinzip reduziert werden",
+    "Wertkonflikte sind unvermeidlich und nicht endgültig lösbar",
+    "Ein übergreifender Konsens ist trotz ethischer Vielfalt möglich",
+    "Pluralismus ist der Normalzustand demokratischer Gesellschaften"
+  ],
+  "hauptvertreter": ["john-rawls"],
+  "entstehung": "Der ethische Pluralismus entwickelte sich im 20. Jahrhundert als Antwort auf monistische Ethikkonzeptionen und die Herausforderung des Zusammenlebens in kulturell vielfältigen Gesellschaften. Rawls' Eine Theorie der Gerechtigkeit (1971) und Isaiah Berlins Wertepluralismus bilden seine wichtigsten Grundlagen.",
+  "kritik": "Kritiker werfen dem ethischen Pluralismus vor, er biete keine klaren Entscheidungskriterien für moralische Konflikte und könne in der Praxis zu Entscheidungsunfähigkeit führen. Zudem wird die Frage gestellt, ob ein Pluralismus, der bestimmte Werte als unverhandelbar setzt, wirklich pluralistisch ist.",
+  "verwandteIsmen": ["moralischer-relativismus", "kulturrelativismus", "diskursethik", "care-ethik"],
+  "schluesselwerke": [
+    {"titel": "Eine Theorie der Gerechtigkeit", "autor": "John Rawls", "jahr": "1971"},
+    {"titel": "Politischer Liberalismus", "autor": "John Rawls", "jahr": "1993"},
+    {"titel": "Vier Essays über die Freiheit", "autor": "Isaiah Berlin", "jahr": "1969"}
+  ]
+}

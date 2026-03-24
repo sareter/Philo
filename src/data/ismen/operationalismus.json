@@ -1,0 +1,23 @@
+{
+  "slug": "operationalismus",
+  "name": "Operationalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Operationalismus bestimmt die Bedeutung wissenschaftlicher Begriffe durch die Messoperationen, mit denen sie erfasst werden. Ein Begriff ist demnach nichts anderes als die Gesamtheit der Verfahren zu seiner Bestimmung.",
+  "ausfuehrlicheBeschreibung": "Der Operationalismus wurde in den 1920er Jahren von dem Physiker Percy Williams Bridgman entwickelt und hatte tiefgreifenden Einfluss auf die Wissenschaftstheorie des 20. Jahrhunderts. Bridgman argumentierte, dass wissenschaftliche Begriffe nur dann sinnvoll sind, wenn sie durch konkrete Messoperationen definiert werden können. Der Begriff der Länge beispielsweise bedeutet nichts anderes als die Gesamtheit der Messverfahren, mit denen Länge bestimmt wird.\n\nDiese Position steht in enger Verbindung zum logischen Positivismus und zum Verifikationsprinzip des Wiener Kreises. Karl Popper übernahm die operationalistische Forderung nach empirischer Überprüfbarkeit, wendete sie jedoch kritisch: Nicht die Verifikation, sondern die Falsifizierbarkeit sei das Kriterium wissenschaftlicher Aussagen. Der Operationalismus trug wesentlich dazu bei, metaphysische Spekulationen aus der Wissenschaft zu verbannen und klare Standards empirischer Forschung zu formulieren.\n\nIn der Psychologie führte der Operationalismus zur Forderung, mentale Zustände ausschließlich durch beobachtbares Verhalten zu definieren, was den Behaviorismus maßgeblich beeinflusste. Obwohl der strenge Operationalismus heute als zu eng betrachtet wird, bleibt die Forderung nach operationaler Definition wissenschaftlicher Begriffe ein wichtiges methodologisches Prinzip in den empirischen Wissenschaften.",
+  "kernthesen": [
+    "Die Bedeutung eines wissenschaftlichen Begriffs wird durch die Messoperationen definiert, die zu seiner Bestimmung dienen.",
+    "Begriffe ohne operationale Definition sind wissenschaftlich bedeutungslos.",
+    "Verschiedene Messverfahren definieren verschiedene Begriffe, auch wenn sie denselben Namen tragen.",
+    "Metaphysische Aussagen sind sinnlos, weil sie keiner operationalen Überprüfung zugänglich sind.",
+    "Wissenschaftliche Theorien müssen an konkreten Beobachtungen und Messungen verankert sein."
+  ],
+  "hauptvertreter": ["karl-popper"],
+  "entstehung": "Der Operationalismus entstand in den 1920er Jahren aus Bridgmans Reflexion über die Revolution in der Physik durch Einsteins Relativitätstheorie. Die Erkenntnis, dass scheinbar selbstverständliche Begriffe wie Gleichzeitigkeit einer operationalen Klärung bedürfen, war der Ausgangspunkt.",
+  "kritik": "Kritiker bemängeln, dass der strikte Operationalismus zu einer Fragmentierung wissenschaftlicher Begriffe führt, da verschiedene Messverfahren formal verschiedene Begriffe definieren würden. Zudem wird eingewandt, dass auch theoretische Begriffe wissenschaftlich fruchtbar sein können, ohne direkt operational definiert zu sein.",
+  "verwandteIsmen": ["positivismus", "pragmatismus"],
+  "schluesselwerke": [
+    {"titel": "The Logic of Modern Physics", "autor": "Percy W. Bridgman", "jahr": "1927"},
+    {"titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
+    {"titel": "The Nature of Physical Theory", "autor": "Percy W. Bridgman", "jahr": "1936"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "perfektionismus",
+  "name": "Perfektionismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der philosophische Perfektionismus ist die ethische Lehre, dass das gute Leben in der bestmöglichen Entfaltung der menschlichen Fähigkeiten und Tugenden besteht. Er fordert das Streben nach Vollkommenheit als höchstes moralisches Ziel.",
+  "ausfuehrlicheBeschreibung": "Der philosophische Perfektionismus wurzelt in der antiken griechischen Ethik und behauptet, dass das menschliche Leben ein Telos – einen Zweck – hat, der in der vollständigen Verwirklichung der spezifisch menschlichen Anlagen besteht. Aristoteles entwickelte diese Idee in seiner Nikomachischen Ethik: Das höchste Gut des Menschen ist die Eudaimonia, die Glückseligkeit, die durch die Ausübung der Tugenden und insbesondere durch die Betätigung der Vernunft erreicht wird. Der Mensch soll werden, was er seinem Wesen nach sein kann.\n\nPlaton legte die metaphysische Grundlage für den Perfektionismus mit seiner Ideenlehre. Die Idee des Guten ist das höchste Prinzip, nach dem alles Seiende strebt. Der philosophisch Gebildete, der die Idee des Guten erkannt hat, ist der vollkommenste Mensch und daher am besten geeignet, den Staat zu regieren. Platons Philosophenkönig verkörpert das Ideal menschlicher Vervollkommnung auf intellektueller, moralischer und politischer Ebene.\n\nIn der modernen Philosophie wurde der Perfektionismus von Denkern wie John Stuart Mill und Friedrich Nietzsche in unterschiedlicher Weise weiterentwickelt. Mill betonte die Kultivierung höherer Genüsse, Nietzsche das Ideal des Übermenschen. In der gegenwärtigen politischen Philosophie ist der Perfektionismus umstritten, da er im Gegensatz zum Liberalismus bestimmte Lebensentwürfe als objektiv besser bewertet und damit die staatliche Neutralität gegenüber verschiedenen Vorstellungen des guten Lebens aufgibt.",
+  "kernthesen": [
+    "Das gute Leben besteht in der bestmöglichen Entfaltung der spezifisch menschlichen Fähigkeiten.",
+    "Es gibt eine objektive menschliche Natur, die den Maßstab für Vollkommenheit vorgibt.",
+    "Tugenden sind Exzellenzen, die durch Übung und Erziehung entwickelt werden müssen.",
+    "Die Betätigung der Vernunft ist die höchste und spezifischste menschliche Aktivität.",
+    "Der Staat sollte die Bedingungen für menschliche Vervollkommnung aktiv fördern."
+  ],
+  "hauptvertreter": ["aristoteles", "platon"],
+  "entstehung": "Der philosophische Perfektionismus hat seinen Ursprung in der antiken griechischen Ethik des 4. Jahrhunderts v. Chr. Platon begründete das Streben nach dem Guten als höchstem Prinzip, und Aristoteles entwickelte die Tugendethik als systematische Lehre von der menschlichen Vervollkommnung durch die Ausübung der Vernunft.",
+  "kritik": "Dem Perfektionismus wird vorgeworfen, dass er eine bestimmte Vorstellung des guten Lebens als objektiv richtig auszeichnet und damit die Freiheit des Individuums einschränkt. Zudem besteht die Gefahr einer elitären Politik, die die Lebensweisen der Mehrheit als minderwertig abwertet und staatliche Bevormundung rechtfertigt.",
+  "verwandteIsmen": ["tugendethik", "idealismus"],
+  "schluesselwerke": [
+    {"titel": "Nikomachische Ethik", "autor": "Aristoteles", "jahr": "-335"},
+    {"titel": "Politeia", "autor": "Platon", "jahr": "-375"},
+    {"titel": "Über die Freiheit", "autor": "John Stuart Mill", "jahr": "1859"}
+  ]
+}

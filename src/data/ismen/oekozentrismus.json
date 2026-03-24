@@ -1,0 +1,23 @@
+{
+  "slug": "oekozentrismus",
+  "name": "Ökozentrismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Ökozentrismus weist nicht einzelnen Lebewesen, sondern ganzen Ökosystemen und der Biosphäre als Ganzem einen moralischen Eigenwert zu. Die Integrität und Stabilität ökologischer Systeme hat ethischen Vorrang vor individuellen Interessen.",
+  "ausfuehrlicheBeschreibung": "Der Ökozentrismus entwickelte sich aus Aldo Leopolds Land-Ethik, die in seinem postum veröffentlichten „Sand County Almanac“ (1949) formuliert wurde. Leopold schrieb: „Eine Handlung ist richtig, wenn sie dazu beiträgt, die Integrität, Stabilität und Schönheit der biotischen Gemeinschaft zu bewahren. Sie ist falsch, wenn sie das Gegenteil bewirkt.“ Damit verschob er den moralischen Fokus vom Individuum auf das Ökosystem als Ganzes.\n\nDer Ökozentrismus unterscheidet sich vom Biozentrismus dadurch, dass er nicht einzelne Lebewesen, sondern ökologische Ganzheiten – Ökosysteme, Arten, Landschaften – als primäre Träger moralischen Wertes betrachtet. Arne Næss' Tiefenökologie radikalisierte diesen Ansatz, indem sie eine fundamentale Gleichwertigkeit aller Lebensformen und das Recht der Natur auf ungestörte Entfaltung postulierte. Peter Singer hat diese Debatten durch seine Arbeiten zur Umweltethik mitgeprägt.\n\nIn der Gegenwart gewinnt der Ökozentrismus angesichts von Klimawandel und Artensterben zunehmend an Bedeutung. Die Anerkennung von Rechten der Natur in den Verfassungen Ecuadors und Boliviens sowie die Rechtspersönlichkeit von Flüssen und Wäldern in verschiedenen Ländern spiegeln ökozentrische Ideen wider. Der Ökozentrismus fordert eine grundlegende Transformation des menschlichen Selbstverständnisses von einem Herrscher über die Natur zu einem Teil der ökologischen Gemeinschaft.",
+  "kernthesen": [
+    "Ökosysteme und die Biosphäre als Ganzes besitzen einen moralischen Eigenwert.",
+    "Die Integrität und Stabilität ökologischer Systeme hat ethischen Vorrang vor individuellen Interessen.",
+    "Der Mensch ist Teil der biotischen Gemeinschaft, nicht ihr Herrscher.",
+    "Arten und Ökosysteme haben ein Recht auf Bewahrung und ungestörte Entfaltung.",
+    "Umweltzerstörung ist nicht nur praktisch schädlich, sondern moralisch verwerflich."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Der Ökozentrismus geht auf Aldo Leopolds Land-Ethik (1949) zurück und wurde durch Arne Næss' Tiefenökologie in den 1970er Jahren philosophisch vertieft. Die Umweltbewegung und das wachsende ökologische Bewusstsein bildeten den gesellschaftlichen Hintergrund.",
+  "kritik": "Kritiker werfen dem Ökozentrismus vor, er betreibe einen „ökologischen Faschismus“, der individuelle Rechte dem Wohl des Ganzen opfere. Zudem wird bemängelt, dass die Zuschreibung moralischen Wertes an nicht-empfindungsfähige Ganzheiten wie Ökosysteme philosophisch problematisch ist.",
+  "verwandteIsmen": ["umweltethik", "biozentrismus"],
+  "schluesselwerke": [
+    {"titel": "A Sand County Almanac", "autor": "Aldo Leopold", "jahr": "1949"},
+    {"titel": "The Shallow and the Deep Ecology Movement", "autor": "Arne Næss", "jahr": "1973"},
+    {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"}
+  ]
+}

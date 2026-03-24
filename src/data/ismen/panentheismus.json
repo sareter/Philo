@@ -1,0 +1,23 @@
+{
+  "slug": "panentheismus",
+  "name": "Panentheismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Panentheismus ist die metaphysische Position, dass Gott die Welt in sich enthält, aber zugleich über sie hinausgeht. Die Welt ist in Gott, aber Gott ist mehr als die Welt – im Unterschied zum Pantheismus, der Gott und Welt gleichsetzt.",
+  "ausfuehrlicheBeschreibung": "Der Panentheismus nimmt eine Mittelstellung zwischen dem Theismus, der Gott als transzendentes, von der Welt getrenntes Wesen betrachtet, und dem Pantheismus ein, der Gott und Natur identifiziert. Der panentheistische Gottesbegriff besagt, dass die Welt in Gott existiert – als sein Körper, sein Ausdruck oder sein inneres Leben –, dass Gott aber zugleich mehr ist als die Welt. Baruch Spinoza legte mit seiner Substanzmetaphysik eine wichtige Grundlage, auch wenn sein System häufig als Pantheismus klassifiziert wird.\n\nSpinozas Lehre, dass alles, was existiert, in Gott existiert und ohne Gott weder sein noch begriffen werden kann, enthält panentheistische Elemente. Die unendliche Substanz – Gott oder die Natur – drückt sich in unendlich vielen Attributen aus, von denen wir nur zwei kennen: Ausdehnung und Denken. Gott ist somit nicht jenseits der Welt, sondern die immanente Ursache aller Dinge, geht aber als unendliche Substanz über jede endliche Manifestation hinaus.\n\nDer Panentheismus wurde im 20. Jahrhundert vor allem durch die Prozessphilosophie Alfred North Whiteheads weiterentwickelt. In der christlichen Theologie bietet er eine Alternative zum klassischen Theismus, die Gottes Nähe zur Welt betont, ohne seine Transzendenz aufzugeben. Der Panentheismus erlaubt es, Gott als leidend und sich entwickelnd zu denken – eine Vorstellung, die dem klassischen Gottesbild der Unveränderlichkeit widerspricht, aber vielen modernen Theologen als angemessener erscheint.",
+  "kernthesen": [
+    "Gott enthält die Welt in sich, geht aber zugleich über sie hinaus.",
+    "Alles existiert in Gott, aber Gott ist mehr als die Summe aller Dinge.",
+    "Gott ist sowohl immanent (in der Welt gegenwärtig) als auch transzendent (über die Welt hinausgehend).",
+    "Die Welt ist der Ausdruck oder das innere Leben Gottes.",
+    "Gott ist kein statisches Wesen, sondern entwickelt sich mit der Welt und wird durch sie bereichert."
+  ],
+  "hauptvertreter": ["baruch-spinoza"],
+  "entstehung": "Der Begriff Panentheismus wurde 1828 von Karl Christian Friedrich Krause geprägt, aber die Grundidee findet sich bereits bei Spinoza und in der neuplatonischen Tradition. Spinozas Substanzmetaphysik und seine Formel 'Deus sive natura' bilden einen zentralen Ausgangspunkt für panentheistische Überlegungen.",
+  "kritik": "Dem Panentheismus wird vorgeworfen, dass die Unterscheidung zwischen Panentheismus und Pantheismus oft unklar bleibt und die Behauptung, Gott sei 'mehr' als die Welt, metaphysisch vage ist. Traditionelle Theisten kritisieren, dass der Panentheismus Gottes Souveränität und Unabhängigkeit von der Welt aufgibt.",
+  "verwandteIsmen": ["pantheismus", "theismus"],
+  "schluesselwerke": [
+    {"titel": "Ethik", "autor": "Baruch Spinoza", "jahr": "1677"},
+    {"titel": "Prozess und Realität", "autor": "Alfred North Whitehead", "jahr": "1929"},
+    {"titel": "Das Urbild der Menschheit", "autor": "Karl Christian Friedrich Krause", "jahr": "1811"}
+  ]
+}

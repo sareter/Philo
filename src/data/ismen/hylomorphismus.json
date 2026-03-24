@@ -1,0 +1,23 @@
+{
+  "slug": "hylomorphismus",
+  "name": "Hylomorphismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Hylomorphismus ist die aristotelische Lehre, dass jedes natürliche Ding aus zwei untrennbaren Prinzipien besteht: Materie (hyle) und Form (morphe). Erst die Verbindung beider Prinzipien konstituiert ein konkretes Seiendes.",
+  "ausfuehrlicheBeschreibung": "Der Hylomorphismus bildet das Kernstück von Aristoteles' Metaphysik und Naturphilosophie. Im Gegensatz zu Platons Ideenlehre, die die wahre Wirklichkeit in einer transzendenten Formenwelt verortet, besteht Aristoteles darauf, dass Form und Materie in jedem konkreten Ding untrennbar vereint sind. Die Materie ist das unbestimmte Substrat, das die Möglichkeit zur Veränderung bietet, während die Form das bestimmende Prinzip ist, das einem Ding seine wesentlichen Eigenschaften und seinen Zweck verleiht.\n\nDas Konzept lässt sich am Beispiel einer Bronzestatue veranschaulichen: Die Bronze ist die Materie, die Gestalt der Statue ist die Form. Weder die formlose Bronze noch die materielose Gestalt existieren für sich allein als konkretes Ding. Aristoteles wendet dieses Schema auf alle natürlichen Wesen an: Die Seele ist die Form des lebendigen Körpers, der Körper ist die Materie, die durch die Seele belebt wird. Diese Analyse vermeidet sowohl den Materialismus, der alles auf Materie reduziert, als auch den Idealismus, der die Materie für unwirklich erklärt.\n\nDer Hylomorphismus wurde in der mittelalterlichen Scholastik, insbesondere durch Thomas von Aquin, weiterentwickelt und auf theologische Fragen angewandt. In der Neuzeit wurde er durch das mechanistische Weltbild verdrängt, erlebt aber in der gegenwärtigen analytischen Metaphysik eine Wiederentdeckung. Philosophen wie Kit Fine und Mark Johnston greifen auf hylomorphistische Konzepte zurück, um Probleme der Identität, Konstitution und Persistenz zu lösen.",
+  "kernthesen": [
+    "Jedes natürliche Ding besteht aus Materie (hyle) und Form (morphe) als zwei untrennbaren Prinzipien.",
+    "Die Form verleiht einem Ding seine wesentlichen Eigenschaften und seinen Zweck.",
+    "Die Materie ist das Prinzip der Potentialität und Veränderungsfähigkeit.",
+    "Die Seele ist die Form des lebendigen Körpers und daher nicht vom Körper trennbar.",
+    "Substanzen sind keine bloßen Materiehaufen, sondern durch ihre Form strukturierte Einheiten."
+  ],
+  "hauptvertreter": ["aristoteles"],
+  "entstehung": "Der Hylomorphismus wurde von Aristoteles im 4. Jahrhundert v. Chr. als Alternative zu Platons Ideenlehre und den atomistischen Theorien Demokrits entwickelt. Er bildet das Fundament von Aristoteles' Physik, Metaphysik und Psychologie und wurde in seinen Vorlesungen an der Akademie und am Lykeion ausgearbeitet.",
+  "kritik": "Kritiker wenden ein, dass der Formbegriff häufig unklar bleibt und das hylomorphistische Schema zu starr ist, um die Vielfalt natürlicher Phänomene zu erfassen. Die moderne Naturwissenschaft kommt ohne den Formbegriff im aristotelischen Sinne aus und erklärt die Eigenschaften der Dinge durch ihre physikalisch-chemische Zusammensetzung.",
+  "verwandteIsmen": ["aristotelismus", "realismus"],
+  "schluesselwerke": [
+    {"titel": "Metaphysik", "autor": "Aristoteles", "jahr": "-350"},
+    {"titel": "Physik", "autor": "Aristoteles", "jahr": "-350"},
+    {"titel": "Über die Seele", "autor": "Aristoteles", "jahr": "-350"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "afrikanische-philosophie",
+  "name": "Afrikanische Philosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die afrikanische Philosophie umfasst diverse Denktraditionen des afrikanischen Kontinents, wobei das Ubuntu-Konzept – 'Ich bin, weil wir sind' – die Gemeinschaft als Grundlage menschlicher Identität und Ethik hervorhebt.",
+  "ausfuehrlicheBeschreibung": "Die afrikanische Philosophie als akademische Disziplin formierte sich im 20. Jahrhundert, obwohl ihre Denktraditionen wesentlich älter sind. Sie umfasst ein breites Spektrum von Strömungen: die Ethnophilosophie, die traditionelle afrikanische Weltanschauungen systematisiert; die philosophische Sagenhaftigkeit, die sich auf individuelles kritisches Denken afrikanischer Weiser beruft; die nationalistisch-ideologische Philosophie und die professionelle akademische Philosophie. Das Ubuntu-Konzept – 'Umuntu ngumuntu ngabantu' (Ein Mensch wird erst durch andere Menschen zum Menschen) – bildet einen zentralen ethischen Grundsatz.\n\nDie Ubuntu-Philosophie betont die konstitutive Bedeutung der Gemeinschaft für die Identität des Einzelnen und steht damit im Kontrast zum westlichen Individualismus. Sie weist Parallelen zu Habermas' Diskursethik auf, insofern beide die intersubjektive Verständigung und den Dialog als Grundlage ethischer Normen verstehen. Afrikanische Denker wie Kwame Nkrumah, Leopold Sédar Senghor und Paulin Hountondji haben unterschiedliche Positionen zur Frage entwickelt, was afrikanische Philosophie ausmacht und wie sie sich zum westlichen Denken verhält.\n\nIn der Gegenwart gewinnt die afrikanische Philosophie zunehmend an Bedeutung für globale Debatten über Gerechtigkeit, Menschenrechte und interkulturelle Verständigung. Die Ubuntu-Ethik hat die südafrikanische Wahrheits- und Versöhnungskommission inspiriert und bietet alternative Modelle für Konfliktlösung und restorative Justiz. Sie fordert die westliche Philosophie heraus, ihre universalistischen Ansprüche kritisch zu reflektieren.",
+  "kernthesen": [
+    "Ein Mensch wird erst durch seine Beziehungen zu anderen Menschen wahrhaft menschlich (Ubuntu).",
+    "Gemeinschaft geht dem Individuum ontologisch und ethisch voraus.",
+    "Afrikanische Denktraditionen bieten eigenständige philosophische Einsichten jenseits westlicher Kategorien.",
+    "Dialog und Verständigung sind die Grundlagen ethischer und politischer Ordnung.",
+    "Versöhnung und restorative Gerechtigkeit haben Vorrang vor Vergeltung und Bestrafung."
+  ],
+  "hauptvertreter": ["juergen-habermas"],
+  "entstehung": "Die akademische afrikanische Philosophie entstand Mitte des 20. Jahrhunderts im Kontext der Dekolonisierung Afrikas. Placide Tempels' 'Bantu-Philosophie' (1945) löste eine kontroverse Debatte aus. Autoren wie Kwasi Wiredu, Paulin Hountondji und Henry Odera Oruka entwickelten verschiedene Ansätze zur Bestimmung afrikanischer Philosophie.",
+  "kritik": "Kritiker werfen der Ethnophilosophie vor, afrikanisches Denken zu romantisieren und als kollektiv darzustellen, was die individuelle kritische Reflexion afrikanischer Denker übersehe. Zudem besteht die Gefahr, 'afrikanische Philosophie' als homogene Einheit zu konstruieren, die der Vielfalt des Kontinents nicht gerecht wird.",
+  "verwandteIsmen": ["kommunitarismus", "postkolonialismus", "humanismus"],
+  "schluesselwerke": [
+    {"titel": "Bantu-Philosophie", "autor": "Placide Tempels", "jahr": "1945"},
+    {"titel": "African Philosophy: Myth and Reality", "autor": "Paulin Hountondji", "jahr": "1976"},
+    {"titel": "No Past, No Present, No Future", "autor": "Kwame Gyekye", "jahr": "1997"}
+  ]
+}

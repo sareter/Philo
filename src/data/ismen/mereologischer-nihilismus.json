@@ -1,0 +1,23 @@
+{
+  "slug": "mereologischer-nihilismus",
+  "name": "Mereologischer Nihilismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der mereologische Nihilismus bestreitet, dass Teile jemals ein echtes Ganzes bilden. Es gibt nur einfache, grundlegende Entitäten – alles Zusammengesetzte ist ontologisch illusorisch.",
+  "ausfuehrlicheBeschreibung": "Der mereologische Nihilismus ist eine Position in der analytischen Ontologie, die bestreitet, dass die Teil-Ganzes-Beziehung jemals zu genuinen neuen Entitäten führt. Wenn zwei oder mehr Dinge in räumlicher Nähe stehen, entsteht dadurch kein neues Objekt. Was wir im Alltag als Gegenstände wahrnehmen – Tische, Berge, sogar Organismen – sind nach dieser Auffassung keine wirklichen Einzeldinge, sondern bloße Pluralitäten einfacher Teile.\n\nDie mereologische Debatte geht auf die antike Frage zurück, ob das Ganze mehr ist als die Summe seiner Teile. Der moderne mereologische Nihilismus radikalisiert die verneinende Antwort: Das Ganze ist nicht einmal die Summe seiner Teile, weil es kein Ganzes gibt. Diese Position löst elegante Probleme der Mereologie, etwa die Frage, wann genau Komposition stattfindet (die sogenannte Spezialfrage der Komposition), indem sie schlicht antwortet: niemals.\n\nTrotz seiner kontraintuitiven Natur hat der mereologische Nihilismus in der zeitgenössischen analytischen Philosophie bedeutende Anhänger gefunden. Er steht in enger Verbindung mit Diskussionen über Ontologie, Identität und die Grundstruktur der Realität. Kritiker halten ihm entgegen, dass er die Existenz von Personen und bewussten Wesen nicht erklären kann.",
+  "kernthesen": [
+    "Es gibt keine zusammengesetzten Objekte – nur einfache Entitäten existieren.",
+    "Die Teil-Ganzes-Beziehung erzeugt keine neuen ontologischen Einheiten.",
+    "Alltagsgegenstände sind keine echten Entitäten, sondern Pluralitäten von Simples.",
+    "Die Spezialfrage der Komposition wird durch die Antwort 'niemals' gelöst.",
+    "Unsere Alltagsontologie ist eine pragmatisch nützliche, aber metaphysisch falsche Beschreibung der Welt."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der mereologische Nihilismus wurde vor allem durch die Arbeiten von Peter van Inwagen, Trenton Merricks und Cian Dorr im späten 20. und frühen 21. Jahrhundert ausgearbeitet. Er ist Teil der breiteren Debatte über die Grundlagen der Mereologie.",
+  "kritik": "Kritiker argumentieren, dass der mereologische Nihilismus die Existenz von Personen und bewusstseinsfähigen Wesen nicht erklären kann. Zudem widerspricht er fundamental unserem alltäglichen Weltverständnis und führt zu einem problematischen ontologischen Revisionismus.",
+  "verwandteIsmen": ["kompositionaler-nihilismus", "nihilismus", "reduktionismus", "atomismus"],
+  "schluesselwerke": [
+    {"titel": "Material Beings", "autor": "Peter van Inwagen", "jahr": "1990"},
+    {"titel": "Objects and Persons", "autor": "Trenton Merricks", "jahr": "2001"},
+    {"titel": "There Are No Ordinary Things", "autor": "Cian Dorr", "jahr": "2005"}
+  ]
+}

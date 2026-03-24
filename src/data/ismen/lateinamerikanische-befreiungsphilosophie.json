@@ -1,0 +1,23 @@
+{
+  "slug": "lateinamerikanische-befreiungsphilosophie",
+  "name": "Lateinamerikanische Befreiungsphilosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die lateinamerikanische Befreiungsphilosophie verbindet marxistische Gesellschaftsanalyse mit der Erfahrung kolonialer Unterdrückung und fordert die Befreiung der Marginalisierten als philosophisches und politisches Programm.",
+  "ausfuehrlicheBeschreibung": "Die lateinamerikanische Befreiungsphilosophie entstand in den 1960er und 1970er Jahren als Antwort auf die sozialen, wirtschaftlichen und politischen Ungleichheiten des Kontinents. Sie versteht Philosophie nicht als abstrakte Disziplin, sondern als Werkzeug zur Analyse und Überwindung von Unterdrückung. Enrique Dussel, Leopoldo Zea und Augusto Salazar Bondy gehören zu ihren wichtigsten Vertretern. Sie greifen auf Marx' Kritik der politischen Ökonomie zurück und verbinden sie mit der konkreten Erfahrung der Peripherie.\n\nEng verbunden mit der Befreiungstheologie, die von Gustavo Gutiérrez und Leonardo Boff geprägt wurde, entwickelt die Befreiungsphilosophie eine 'Philosophie der Befreiung', die den Standpunkt der Unterdrückten einnimmt. Dussel formuliert eine 'Philosophie der Exteriorität', die das Denken vom Anderen, vom Ausgeschlossenen her konzipiert und damit die europäische Totalitätsphilosophie kritisiert. Paulo Freires 'Pädagogik der Unterdrückten' wurde zu einem Grundtext der Bewegung.\n\nDie lateinamerikanische Befreiungsphilosophie hat die Debatten über Dekolonisierung, globale Gerechtigkeit und epistemische Gewalt nachhaltig geprägt. Sie fordert eine Entkolonialisierung des Denkens und die Anerkennung nicht-europäischer Wissensformen. In der Gegenwart wirkt sie in der dekolonialen Theorie und der Philosophie des Globalen Südens weiter.",
+  "kernthesen": [
+    "Philosophie muss vom Standpunkt der Unterdrückten und Marginalisierten aus betrieben werden.",
+    "Die europäische Philosophie hat koloniale Herrschaft legitimiert und muss dekolonisiert werden.",
+    "Befreiung ist nicht nur politisch, sondern auch epistemisch – das Denken selbst muss befreit werden.",
+    "Die Peripherie bietet eine privilegierte erkenntnistheoretische Position gegenüber dem Zentrum.",
+    "Praxis und Theorie sind untrennbar – Philosophie muss zu konkreter Veränderung beitragen."
+  ],
+  "hauptvertreter": ["karl-marx"],
+  "entstehung": "Die lateinamerikanische Befreiungsphilosophie entstand in den 1960er Jahren im Kontext sozialer Bewegungen, der Dependenztheorie und der Befreiungstheologie. Die Konferenz in Córdoba (1971) gilt als Gründungsmoment der philosophischen Bewegung. Sie entwickelte sich als bewusste Alternative zur europäischen Philosophietradition.",
+  "kritik": "Kritiker werfen der Befreiungsphilosophie vor, einen umgekehrten Eurozentrismus zu betreiben und das westliche Denken pauschal abzulehnen. Zudem wird bemängelt, dass die enge Verbindung mit marxistischer Analyse die Komplexität lateinamerikanischer Gesellschaften auf ökonomische Verhältnisse reduziere.",
+  "verwandteIsmen": ["marxismus", "postkolonialismus", "kritische-theorie"],
+  "schluesselwerke": [
+    {"titel": "Filosofía de la Liberación", "autor": "Enrique Dussel", "jahr": "1977"},
+    {"titel": "Pädagogik der Unterdrückten", "autor": "Paulo Freire", "jahr": "1968"},
+    {"titel": "¿Existe una filosofía de nuestra América?", "autor": "Augusto Salazar Bondy", "jahr": "1968"}
+  ]
+}

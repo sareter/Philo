@@ -1,0 +1,23 @@
+{
+  "slug": "misanthropismus",
+  "name": "Misanthropismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Misanthropismus ist eine philosophische Haltung, die das Menschengeschlecht aufgrund seiner moralischen und intellektuellen Mängel grundsätzlich negativ beurteilt. Er sieht in der menschlichen Natur eine unüberwindbare Neigung zum Bösen, zur Dummheit und zur Selbsttäuschung.",
+  "ausfuehrlicheBeschreibung": "Der Misanthropismus als philosophische Position geht über bloße persönliche Menschenfeindlichkeit hinaus und stellt eine systematische Kritik an der menschlichen Natur dar. Bereits in der Antike finden sich misanthropische Züge bei Heraklit und den Kynikern, doch erst im 19. Jahrhundert wurde diese Haltung durch Schopenhauer und Nietzsche philosophisch vertieft. Schopenhauer sah im Menschen ein Wesen, das von einem blinden, irrationalen Willen getrieben wird und dessen vermeintliche Vernunft lediglich ein Werkzeug des egoistischen Überlebenskampfes darstellt.\n\nNietzsche radikalisierte die misanthropische Perspektive, indem er die Herdenmoral der Massen verachtete und den gewöhnlichen Menschen als unfähig betrachtete, über sich selbst hinauszuwachsen. Sein Konzept des Übermenschen kann als Versuch gedeutet werden, den Misanthropismus zu überwinden, indem ein höherer Menschentyp angestrebt wird. Gleichzeitig offenbart Nietzsches Verachtung für die Mittelmäßigkeit eine tiefe misanthropische Grundhaltung gegenüber der Mehrheit der Menschen.\n\nDer philosophische Misanthropismus unterscheidet sich vom alltäglichen Menschenhass durch seinen analytischen Charakter. Er beruht auf der Beobachtung wiederkehrender menschlicher Schwächen wie Grausamkeit, Eitelkeit, Heuchelei und Selbstbetrug. In der Gegenwart findet der Misanthropismus Anklang in der Umweltphilosophie, wo die systematische Zerstörung der Natur durch den Menschen als Beleg für die destruktive Natur der Spezies angeführt wird.",
+  "kernthesen": [
+    "Die menschliche Natur ist grundsätzlich von Egoismus, Grausamkeit und Selbsttäuschung geprägt.",
+    "Die vermeintliche Vernunft des Menschen dient primär der Rationalisierung seiner triebhaften Handlungen.",
+    "Kulturelle und moralische Errungenschaften sind oberflächliche Verkleidungen der barbarischen Grundnatur.",
+    "Die Geschichte der Menschheit ist eine Geschichte der Kriege, Unterdrückung und gegenseitigen Ausbeutung.",
+    "Die Mehrheit der Menschen ist zu echtem Denken und moralischem Handeln unfähig."
+  ],
+  "hauptvertreter": ["arthur-schopenhauer", "friedrich-nietzsche"],
+  "entstehung": "Misanthropische Gedanken finden sich bereits bei den antiken Kynikern und bei Heraklit, der die Masse der Menschen verachtete. Im 19. Jahrhundert erhielt der Misanthropismus durch Schopenhauers pessimistische Philosophie und Nietzsches Kulturkritik seine systematische Ausprägung.",
+  "kritik": "Dem Misanthropismus wird vorgeworfen, dass er die positiven Seiten der menschlichen Natur – Empathie, Kreativität, Kooperationsfähigkeit – systematisch ausblendet. Zudem gerät der Misanthrop in einen performativen Widerspruch, da er als Mensch die Menschheit kritisiert und damit implizit seinen eigenen Standpunkt als Ausnahme von der Regel behauptet.",
+  "verwandteIsmen": ["pessimismus", "zynismus"],
+  "schluesselwerke": [
+    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
+    {"titel": "Menschliches, Allzumenschliches", "autor": "Friedrich Nietzsche", "jahr": "1878"},
+    {"titel": "Aphorismen zur Lebensweisheit", "autor": "Arthur Schopenhauer", "jahr": "1851"}
+  ]
+}

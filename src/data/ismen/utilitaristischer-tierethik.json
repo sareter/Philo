@@ -1,0 +1,23 @@
+{
+  "slug": "utilitaristischer-tierethik",
+  "name": "Utilitaristische Tierethik",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die utilitaristische Tierethik erweitert das Prinzip der gleichen Interessenberücksichtigung auf alle empfindungsfähigen Wesen. Sie verurteilt das Leid von Tieren als moralisch ebenso relevant wie das Leid von Menschen.",
+  "ausfuehrlicheBeschreibung": "Die utilitaristische Tierethik wurde maßgeblich durch Peter Singer begründet, der in seinem epochalen Werk 'Animal Liberation' (1975) die systematische Ausbeutung von Tieren als 'Speziesismus' kritisierte – eine ungerechtfertigte Diskriminierung aufgrund der Artzugehörigkeit, vergleichbar mit Rassismus und Sexismus. Singers Argumentation fußt auf dem utilitaristischen Prinzip Jeremy Benthams: Die Frage ist nicht, ob Tiere denken oder sprechen können, sondern ob sie leiden können.\n\nSinger argumentiert, dass die Fähigkeit zu leiden – die Empfindungsfähigkeit (Sentience) – das einzig relevante Kriterium für die Berücksichtigung von Interessen ist. Wenn ein Tier leidet, hat dieses Leid dasselbe moralische Gewicht wie vergleichbares menschliches Leid. Dies hat radikale Konsequenzen für die Massentierhaltung, die Tierversuchspraxis und die Nahrungsmittelproduktion. Singer fordert keine gleichen Rechte für Tiere, sondern die gleiche Berücksichtigung gleicher Interessen – ein wichtiger Unterschied zum Tierrechtsansatz Tom Regans.\n\nDie utilitaristische Tierethik hat die globale Tierschutzbewegung, die Ernährungsethik und die Gesetzgebung zum Tierschutz nachhaltig beeinflusst. Sie hat die Debatte über Veganismus, Massentierhaltung und Tierversuche philosophisch fundiert und in den Mainstream gebracht. In der Gegenwart wird sie durch Fragen der Wildtierethik, der Insektenethik und des Leidens in der Natur weiter ausdifferenziert.",
+  "kernthesen": [
+    "Die Fähigkeit zu leiden, nicht die Artzugehörigkeit, ist das Kriterium moralischer Berücksichtigung.",
+    "Speziesismus – die Bevorzugung der eigenen Art – ist ebenso ungerechtfertigt wie Rassismus.",
+    "Die Interessen aller empfindungsfähigen Wesen verdienen gleiche Berücksichtigung.",
+    "Massentierhaltung und Tierversuche sind moralisch nicht zu rechtfertigen.",
+    "Eine konsequente Ethik erfordert die Minimierung des Leidens aller empfindungsfähigen Wesen."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Die utilitaristische Tierethik wurde 1975 durch Peter Singers 'Animal Liberation' begründet, das die philosophische Debatte über den moralischen Status von Tieren revolutionierte. Singer knüpfte an Benthams Utilitarismus und die entstehende Tierbefreiungsbewegung der 1970er Jahre an.",
+  "kritik": "Kritiker werfen der utilitaristischen Tierethik vor, die Besonderheiten menschlicher Moralität zu nivellieren und die Bedeutung von Rechten gegenüber der Leidensminimierung zu unterschätzen. Zudem wird bemängelt, dass der Utilitarismus in extremen Fällen die Interessen von Einzelnen zugunsten eines größeren Gesamtnutzens opfern könne.",
+  "verwandteIsmen": ["utilitarismus", "bioethik", "jainismus"],
+  "schluesselwerke": [
+    {"titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975"},
+    {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"},
+    {"titel": "The Case for Animal Rights", "autor": "Tom Regan", "jahr": "1983"}
+  ]
+}

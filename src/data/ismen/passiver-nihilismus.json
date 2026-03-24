@@ -1,0 +1,22 @@
+{
+  "slug": "passiver-nihilismus",
+  "name": "Passiver Nihilismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der passive Nihilismus bezeichnet eine Haltung der Resignation und Erschöpfung angesichts des Zusammenbruchs aller Werte. Er führt zu Rückzug, Gleichgültigkeit und dem Verzicht auf jedes Streben.",
+  "ausfuehrlicheBeschreibung": "Der passive Nihilismus ist die Kehrseite des aktiven Nihilismus: Während dieser die alten Werte zerstört, um Platz für neue zu schaffen, verharrt der passive Nihilismus in der Resignation. Er ist die müde Konsequenz aus der Einsicht, dass alle Werte nichtig sind, ohne die Kraft aufzubringen, neue zu schaffen. Der passive Nihilist hat aufgehört zu kämpfen – nicht aus Weisheit, sondern aus Erschöpfung.\n\nArthur Schopenhauer gilt als der philosophische Hauptvertreter des passiven Nihilismus, auch wenn er selbst den Begriff nicht verwendete. Seine Philosophie der Willensverneinung, der Askese und des Rückzugs aus dem Leben verkörpert die passive Antwort auf die Sinnlosigkeit des Daseins. Anstatt gegen die Sinnlosigkeit anzukämpfen, empfiehlt Schopenhauer die Resignation: das stille Erlöschen des Willens zum Leben.\n\nNietzsche kritisierte den passiven Nihilismus als Zeichen des Niedergangs und der Schwäche. Er sah in ihm die Gefahr einer Kultur, die ihre schöpferischen Kräfte verloren hat und sich in müder Gleichgültigkeit auflöst. Der passive Nihilismus ist für Nietzsche nicht die Lösung des nihilistischen Problems, sondern sein Symptom – die Krankheit, die er zu heilen vorgab.",
+  "kernthesen": [
+    "Angesichts der Sinnlosigkeit bleibt nur Resignation",
+    "Der passive Nihilist hat die Kraft zum Streben verloren",
+    "Die Verneinung des Willens zum Leben ist die letzte Konsequenz",
+    "Rückzug und Gleichgültigkeit sind die Antwort auf den Wertverlust",
+    "Der passive Nihilismus ist Symptom kultureller Erschöpfung"
+  ],
+  "hauptvertreter": ["arthur-schopenhauer"],
+  "entstehung": "Der passive Nihilismus wurde von Nietzsche als Kategorie eingeführt, um Schopenhauers Philosophie der Willensverneinung und den europäischen Dekadentismus des späten 19. Jahrhunderts zu charakterisieren. Schopenhauers Werk Die Welt als Wille und Vorstellung von 1819 ist sein Haupttext.",
+  "kritik": "Kritiker sehen im passiven Nihilismus eine Flucht vor der Verantwortung und eine Verherrlichung der Schwäche. Nietzsche selbst warf dem passiven Nihilismus vor, er sei eine Form des Verfalls, die den Menschen daran hindert, seine schöpferischen Möglichkeiten zu entfalten.",
+  "verwandteIsmen": ["nihilistischer-pessimismus", "kosmischer-pessimismus", "leidensphilosophie", "aktiver-nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
+    {"titel": "Der Wille zur Macht", "autor": "Friedrich Nietzsche", "jahr": "1901"}
+  ]
+}

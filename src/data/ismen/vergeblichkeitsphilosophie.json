@@ -1,0 +1,22 @@
+{
+  "slug": "vergeblichkeitsphilosophie",
+  "name": "Vergeblichkeitsphilosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Vergeblichkeitsphilosophie reflektiert über die Vergeblichkeit menschlichen Strebens als philosophische Grundeinsicht. Alles menschliche Tun ist letztlich zum Scheitern verurteilt.",
+  "ausfuehrlicheBeschreibung": "Die Vergeblichkeitsphilosophie macht die Einsicht in die Vergeblichkeit aller menschlichen Bemühungen zum Ausgangspunkt philosophischer Reflexion. Sie behauptet, dass alles Streben, Bauen und Schaffen letztlich vergänglich ist und dass keine menschliche Leistung von Dauer sein kann. Diese Einsicht steht im Zentrum einer Philosophie, die sich weigert, das Vergebliche zu beschönigen.\n\nAlbert Camus verdichtete diese Position im Bild des Sisyphos: Der Mensch rollt seinen Stein immer wieder den Berg hinauf, wissend, dass er jedes Mal wieder herabrollen wird. Doch im Gegensatz zum passiven Pessimismus sieht Camus in der bewussten Annahme der Vergeblichkeit keine Niederlage, sondern eine Form der Revolte. Der Mensch, der trotz der Vergeblichkeit weiterhandelt, erhebt sich über sein Schicksal.\n\nDie Vergeblichkeitsphilosophie hat eine lange Vorgeschichte, die von Kohelets biblischem «Alles ist eitel» bis zu modernen Reflexionen über die Endlichkeit menschlicher Zivilisationen reicht. Sie zwingt zur Frage, ob der Wert einer Handlung in ihrem dauerhaften Ergebnis liegt oder im Vollzug selbst – und kommt zu dem Schluss, dass nur das bewusste Handeln im Wissen um seine Vergeblichkeit wahre Größe besitzt.",
+  "kernthesen": [
+    "Alles menschliche Streben ist letztlich vergeblich",
+    "Keine menschliche Leistung kann von Dauer sein",
+    "Die bewusste Annahme der Vergeblichkeit ist eine Form der Revolte",
+    "Der Wert einer Handlung liegt im Vollzug, nicht im dauerhaften Ergebnis",
+    "Wahre Größe zeigt sich im Handeln trotz erkannter Vergeblichkeit"
+  ],
+  "hauptvertreter": ["albert-camus"],
+  "entstehung": "Die Vergeblichkeitsphilosophie hat Wurzeln in antiken und biblischen Vanitas-Traditionen, wurde aber im 20. Jahrhundert von Albert Camus zu einer eigenständigen philosophischen Position ausgebaut. Die Erfahrung der Zerstörung im Zweiten Weltkrieg verstärkte das Bewusstsein für die Vergänglichkeit aller menschlichen Werke.",
+  "kritik": "Kritiker wenden ein, dass die Vergeblichkeitsphilosophie einen zu engen Begriff von Sinn verwendet: Auch wenn Ergebnisse vergänglich sind, können sie in ihrer Zeit bedeutsam sein. Zudem wird die Frage gestellt, ob eine Philosophie, die alles Handeln als vergeblich betrachtet, noch motivieren kann.",
+  "verwandteIsmen": ["absurder-heroismus", "existenzieller-nihilismus", "philosophischer-suizidismus"],
+  "schluesselwerke": [
+    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
+    {"titel": "Der Mensch in der Revolte", "autor": "Albert Camus", "jahr": "1951"}
+  ]
+}

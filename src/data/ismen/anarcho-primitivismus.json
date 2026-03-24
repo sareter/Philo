@@ -1,0 +1,23 @@
+{
+  "slug": "anarcho-primitivismus",
+  "name": "Anarcho-Primitivismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Anarcho-Primitivismus lehnt die Zivilisation als Ganzes ab und fordert eine Rückkehr zu vorzivilisatorischen Lebensformen. Er betrachtet die Entstehung von Landwirtschaft, Staat und Technik als Ursprung aller Unterdrückung.",
+  "ausfuehrlicheBeschreibung": "Der Anarcho-Primitivismus entstand in der zweiten Hälfte des 20. Jahrhunderts als radikale Strömung innerhalb des Anarchismus. Er geht über die klassische anarchistische Kritik am Staat hinaus und verwirft die gesamte Zivilisation – einschließlich Landwirtschaft, Arbeitsteilung, Technologie und symbolischer Kultur – als Quelle von Entfremdung und Herrschaft. Jean-Jacques Rousseaus These, dass der Mensch im Naturzustand frei und glücklich war und durch die Zivilisation korrumpiert wurde, bildet einen wichtigen ideengeschichtlichen Vorläufer.\n\nJohn Zerzan, der bedeutendste Theoretiker des Anarcho-Primitivismus, argumentiert, dass bereits die Entstehung symbolischen Denkens und der Sprache eine Entfremdung von der unmittelbaren Erfahrung darstellt. Die neolithische Revolution – der Übergang zu Ackerbau und Sesshaftigkeit – markiert für ihn den entscheidenden Wendepunkt: Sie brachte Eigentum, Hierarchie, Krieg und ökologische Zerstörung hervor. Nur eine Rückkehr zu Jäger-und-Sammler-Lebensweisen kann diese Übel beseitigen.\n\nDer Anarcho-Primitivismus hat sowohl in der Umweltbewegung als auch in der akademischen Anthropologie Debatten ausgelöst. Ethnographische Studien über Jäger-und-Sammler-Gesellschaften, die diese als „ursprüngliche Überflussgesellschaften“ darstellen, werden als empirische Stützung herangezogen. Die praktische Umsetzbarkeit der primitivistischen Vision wird jedoch von den meisten Kritikern bezweifelt.",
+  "kernthesen": [
+    "Die Zivilisation als Ganzes ist die Ursache menschlicher Entfremdung und ökologischer Zerstörung.",
+    "Der Übergang zu Landwirtschaft und Sesshaftigkeit war eine Katastrophe für die Menschheit.",
+    "Jäger-und-Sammler-Gesellschaften waren egalitärer, freier und ökologisch nachhaltiger als Zivilisationen.",
+    "Technologie und Arbeitsteilung sind Instrumente der Herrschaft, nicht der Befreiung.",
+    "Nur eine radikale Rückkehr zu vorzivilisatorischen Lebensformen kann die Menschheit befreien."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der Anarcho-Primitivismus entwickelte sich in den 1980er und 1990er Jahren aus der Verbindung von Anarchismus, Tiefenökologie und kritischer Anthropologie. John Zerzan und Derrick Jensen sind die bekanntesten Vertreter. Rousseaus Zivilisationskritik und Henry David Thoreaus Naturphilosophie gelten als Vorläufer.",
+  "kritik": "Kritiker werfen dem Anarcho-Primitivismus vor, dass eine Rückkehr zu vorzivilisatorischen Lebensformen für acht Milliarden Menschen unmöglich ist und Milliarden Tote bedeuten würde. Zudem wird die Romantisierung vorindustrieller Gesellschaften als historisch unhaltbar kritisiert, da auch diese von Gewalt, Krankheit und kurzer Lebenserwartung geprägt waren.",
+  "verwandteIsmen": ["anarchismus", "primitivismus"],
+  "schluesselwerke": [
+    {"titel": "Future Primitive", "autor": "John Zerzan", "jahr": "1994"},
+    {"titel": "Diskurs über die Ungleichheit", "autor": "Jean-Jacques Rousseau", "jahr": "1755"},
+    {"titel": "Against Civilization", "autor": "John Zerzan", "jahr": "1999"}
+  ]
+}

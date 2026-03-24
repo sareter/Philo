@@ -1,0 +1,23 @@
+{
+  "slug": "neuer-materialismus",
+  "name": "Neuer Materialismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Neue Materialismus versteht Materie als aktiv, lebendig und selbstorganisierend, nicht als passiven Stoff. Er überwindet den Dualismus von Geist und Materie und betont die Handlungsfähigkeit nicht-menschlicher Akteure.",
+  "ausfuehrlicheBeschreibung": "Der Neue Materialismus entstand ab den 1990er Jahren als Reaktion auf die Dominanz des Linguistischen und Kulturellen in den Geistes- und Sozialwissenschaften. Er wendet sich gegen die Vorstellung, Materie sei ein passives Substrat, das erst durch menschliche Bedeutungszuschreibung relevant werde. Stattdessen wird Materie als aktiv, vital und selbstorganisierend verstanden. Denkerinnen wie Jane Bennett, Karen Barad und Rosi Braidotti haben diese Wende maßgeblich geprägt, wobei sie auf Impulse von Gilles Deleuze und seinem Konzept der Immanenzebene zurückgreifen.\n\nPhilosophisch knüpft der Neue Materialismus an Deleuzes und Guattaris Ontologie der Ströme und Intensitäten an, die feste Identitäten und hierarchische Ordnungen zugunsten von Prozessen, Relationen und Werdensformen auflöst. Jane Bennetts 'vibrant matter' argumentiert, dass auch nicht-menschliche Dinge – von Müll bis Elektrizitätsnetzen – eine eigene Form der Handlungsfähigkeit besitzen. Karen Barads 'agentieller Realismus' verbindet Quantenphysik mit feministischer Theorie und zeigt, dass Materie und Bedeutung untrennbar verflochten sind.\n\nDer Neue Materialismus hat weitreichende Konsequenzen für Umweltphilosophie, Wissenschaftstheorie und politische Theorie. Er fordert eine Ethik, die die Handlungsfähigkeit und den Eigenwert der materiellen Welt anerkennt, und stellt die anthropozentrische Grundhaltung der westlichen Philosophie in Frage. Kritisch diskutiert wird, ob der Begriff der 'Handlungsfähigkeit' sinnvoll auf nicht-menschliche Entitäten angewendet werden kann.",
+  "kernthesen": [
+    "Materie ist nicht passiv, sondern aktiv, vital und selbstorganisierend.",
+    "Der Dualismus von Geist und Materie muss zugunsten einer relationalen Ontologie überwunden werden.",
+    "Nicht-menschliche Akteure besitzen eine eigene Form der Handlungsfähigkeit.",
+    "Bedeutung und Materie sind untrennbar miteinander verflochten.",
+    "Eine posthumanistische Ethik muss die gesamte materielle Welt einbeziehen."
+  ],
+  "hauptvertreter": ["gilles-deleuze"],
+  "entstehung": "Der Neue Materialismus entwickelte sich ab den 1990er Jahren als Antwort auf den 'linguistic turn' und den Konstruktivismus in den Sozial- und Kulturwissenschaften. Jane Bennetts 'Vibrant Matter' (2010) und Karen Barads 'Meeting the Universe Halfway' (2007) gelten als Schlüsseltexte der Bewegung.",
+  "kritik": "Kritiker werfen dem Neuen Materialismus vor, den Begriff der Handlungsfähigkeit so weit auszudehnen, dass er seine Unterscheidungskraft verliert. Zudem wird bemängelt, dass die Betonung materieller Prozesse soziale Machtverhältnisse und menschliche Verantwortung aus dem Blick geraten lasse.",
+  "verwandteIsmen": ["materialismus", "posthumanismus", "objektorientierte-ontologie"],
+  "schluesselwerke": [
+    {"titel": "Vibrant Matter", "autor": "Jane Bennett", "jahr": "2010"},
+    {"titel": "Meeting the Universe Halfway", "autor": "Karen Barad", "jahr": "2007"},
+    {"titel": "The Posthuman", "autor": "Rosi Braidotti", "jahr": "2013"}
+  ]
+}

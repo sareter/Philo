@@ -1,0 +1,23 @@
+{
+  "slug": "zen-buddhismus",
+  "name": "Zen-Buddhismus",
+  "epoche": "Mittelalter",
+  "kurzbeschreibung": "Der Zen-Buddhismus ist eine meditative Tradition, die direkte Erleuchtung (Satori) jenseits von Schrift und Sprache anstrebt. Er betont die unmittelbare Erfahrung der Wirklichkeit durch Meditation und die Überwindung des begrifflichen Denkens.",
+  "ausfuehrlicheBeschreibung": "Der Zen-Buddhismus entstand als Chan-Buddhismus im mittelalterlichen China durch die Verbindung von indischem Mahayana-Buddhismus und daoistischem Denken. Er verbreitete sich im 12. und 13. Jahrhundert nach Japan, wo er als Zen seine klassische Form fand. Der legendäre Begründer Bodhidharma soll die Lehre als 'eine besondere Überlieferung außerhalb der Schriften, unabhängig von Wort und Buchstabe' beschrieben haben – eine Haltung, die an Wittgensteins Einsicht erinnert, dass sich das Wesentliche nicht aussprechen lässt.\n\nIm Zentrum steht die Praxis des Zazen (Sitzmeditation) und die Arbeit mit Koans – paradoxen Rätseln, die das rationale Denken sprengen und einen Durchbruch zur unmittelbaren Erfahrung ermöglichen sollen. Die beiden Hauptschulen Rinzai und Soto unterscheiden sich in ihrer Methodik: Rinzai betont die plötzliche Erleuchtung durch Koan-Praxis, Soto die graduelle Vertiefung durch Shikantaza (reines Sitzen). Beide teilen die Überzeugung, dass die Buddha-Natur in jedem Wesen bereits vorhanden ist.\n\nDer Zen-Buddhismus hat tiefgreifenden Einfluss auf japanische Kultur, Ästhetik und Kampfkünste ausgeübt. Im 20. Jahrhundert wurde er durch Autoren wie D.T. Suzuki und Alan Watts im Westen populär und beeinflusste Philosophen, Psychologen und Künstler. Philosophisch relevant sind die Parallelen zu Wittgensteins Sprachkritik, Heideggers Gelassenheit und der phänomenologischen Tradition.",
+  "kernthesen": [
+    "Erleuchtung (Satori) ist eine unmittelbare Erfahrung, die jenseits von Worten und Begriffen liegt.",
+    "Die Buddha-Natur ist in jedem Wesen bereits vorhanden und muss nur verwirklicht werden.",
+    "Meditation (Zazen) ist der direkte Weg zur Erkenntnis der wahren Natur der Wirklichkeit.",
+    "Koans sprengen das rationale Denken und öffnen den Weg zur intuitiven Einsicht.",
+    "Wovon man nicht sprechen kann, darüber muss man schweigen – das Wesentliche zeigt sich."
+  ],
+  "hauptvertreter": ["ludwig-wittgenstein"],
+  "entstehung": "Der Chan-Buddhismus entstand im 6. Jahrhundert n. Chr. in China durch die Synthese von Mahayana-Buddhismus und Daoismus. Im 12. und 13. Jahrhundert wurde er als Zen nach Japan übertragen, wo Eisai die Rinzai- und Dogen die Soto-Schule begründeten.",
+  "kritik": "Kritiker bemängeln die Tendenz des Zen zur Anti-Intellektualität und die Gefahr des Autoritarismus in der Meister-Schüler-Beziehung. Historisch wird die Verstrickung des japanischen Zen in den Militarismus und Nationalismus des 20. Jahrhunderts kritisch aufgearbeitet.",
+  "verwandteIsmen": ["buddhistische-philosophie", "daoismus", "mystizismus"],
+  "schluesselwerke": [
+    {"titel": "Shobogenzo", "autor": "Dogen Zenji", "jahr": "1231"},
+    {"titel": "Die Pforte ohne Tor (Mumonkan)", "autor": "Wumen Huikai", "jahr": "1228"},
+    {"titel": "Zen und die Kultur Japans", "autor": "D.T. Suzuki", "jahr": "1938"}
+  ]
+}

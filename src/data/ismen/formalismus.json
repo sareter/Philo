@@ -1,0 +1,23 @@
+{
+  "slug": "formalismus",
+  "name": "Formalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Formalismus ist die philosophische Position, die die Form über den Inhalt stellt und formale Strukturen als den wesentlichen Gegenstand philosophischer, mathematischer und ästhetischer Analyse betrachtet. Er strebt nach Strenge, Exaktheit und logischer Klarheit.",
+  "ausfuehrlicheBeschreibung": "Der Formalismus in der Philosophie bezeichnet die Überzeugung, dass formale Strukturen – logische Formen, syntaktische Regeln, mathematische Relationen – den eigentlichen Gegenstand philosophischer Untersuchung bilden. Gottlob Frege legte mit seiner Begriffsschrift die Grundlagen der modernen formalen Logik und zeigte, dass mathematische Wahrheiten auf logische Prinzipien zurückführbar sind. Damit begründete er das logizistische Programm, das Bertrand Russell in den Principia Mathematica weiterführte.\n\nRussells logischer Atomismus und seine Theorie der Kennzeichnungen demonstrierten die Leistungsfähigkeit formaler Analyse für die Lösung philosophischer Probleme. Durch die formale Analyse der logischen Struktur von Sätzen konnten scheinbar tiefgründige metaphysische Probleme als Scheinprobleme entlarvt werden, die aus der irreführenden Oberflächengrammatik der natürlichen Sprache entstehen. Die ideale Sprache der Logik sollte solche Verwirrungen unmöglich machen.\n\nDer Formalismus hat die analytische Philosophie des 20. Jahrhunderts entscheidend geprägt und findet sich in der Sprachphilosophie, der Wissenschaftstheorie und der Ethik. In der Mathematik vertrat David Hilbert einen radikalen Formalismus, der mathematische Objekte als bloße Zeichen betrachtete, deren Bedeutung sich erschöpfend durch formale Regeln bestimmen lässt. Gödels Unvollständigkeitssätze zeigten allerdings die Grenzen formalistischer Programme auf.",
+  "kernthesen": [
+    "Die formale Struktur ist der wesentliche Gegenstand philosophischer Analyse, nicht der Inhalt.",
+    "Philosophische Probleme lassen sich durch formale logische Analyse lösen oder als Scheinprobleme entlarven.",
+    "Die natürliche Sprache führt zu philosophischen Verwirrungen, die eine ideale formale Sprache vermeiden würde.",
+    "Mathematische Wahrheiten sind auf logische Prinzipien zurückführbar.",
+    "Strenge, Exaktheit und logische Klarheit sind die höchsten Tugenden des Denkens."
+  ],
+  "hauptvertreter": ["gottlob-frege", "bertrand-russell"],
+  "entstehung": "Der philosophische Formalismus begann mit Freges Begriffsschrift (1879), die eine formale Sprache für die Logik entwickelte. Russell und Whitehead führten das Programm in den Principia Mathematica (1910-1913) fort. Hilbert formulierte den mathematischen Formalismus als eigenständiges Programm in den 1920er Jahren.",
+  "kritik": "Dem Formalismus wird vorgeworfen, dass er den Inhalt zugunsten der Form vernachlässigt und philosophische Probleme auf ihre logische Struktur reduziert, ohne ihre existenzielle, soziale und ethische Dimension zu berücksichtigen. Gödels Unvollständigkeitssätze haben zudem gezeigt, dass formale Systeme ab einer bestimmten Komplexität ihre eigene Widerspruchsfreiheit nicht beweisen können.",
+  "verwandteIsmen": ["analytische-philosophie", "logischer-positivismus"],
+  "schluesselwerke": [
+    {"titel": "Begriffsschrift", "autor": "Gottlob Frege", "jahr": "1879"},
+    {"titel": "Principia Mathematica", "autor": "Bertrand Russell", "jahr": "1910"},
+    {"titel": "Die Grundlagen der Arithmetik", "autor": "Gottlob Frege", "jahr": "1884"}
+  ]
+}

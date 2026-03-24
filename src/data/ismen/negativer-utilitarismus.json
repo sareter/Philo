@@ -1,0 +1,23 @@
+{
+  "slug": "negativer-utilitarismus",
+  "name": "Negativer Utilitarismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Negative Utilitarismus vertritt die Position, dass die Minimierung von Leid moralisch vorrangig ist gegenüber der Maximierung von Glück. Die Verhinderung von Schmerz und Unglück wiegt schwerer als die Erzeugung von Freude.",
+  "ausfuehrlicheBeschreibung": "Der Negative Utilitarismus wurde maßgeblich von Karl Popper in seiner „Offenen Gesellschaft und ihre Feinde“ (1945) formuliert. Popper kritisierte den klassischen Utilitarismus für seinen Versuch, Glück zu maximieren, und argumentierte stattdessen, dass die Minimierung von Leid das vorrangige moralische Ziel sein sollte. Die Asymmetrie zwischen Leid und Glück ist fundamental: Intensives Leiden wiegt schwerer als die gleiche Intensität von Freude.\n\nDiese Asymmetrie hat weitreichende praktische Konsequenzen. Während der positive Utilitarismus utopische Projekte rechtfertigen kann – selbst um den Preis gegenwärtigen Leids –, fordert der Negative Utilitarismus eine konservativere Politik, die sich auf die Beseitigung konkreter Missstände konzentriert. Popper formulierte dies als den Grundsatz: „Arbeite für die Beseitigung konkreter Übel, statt für die Verwirklichung abstrakter Güter.“ Diese Haltung ist auch mit Poppers Kritik am historischen Utopismus verbunden.\n\nDer Negative Utilitarismus hat sowohl in der theoretischen Ethik als auch in der politischen Philosophie Einfluss gewonnen. In der Bioethik führt er zu einer besonderen Betonung der Schmerzlinderung und der Palliativmedizin. In der politischen Philosophie begründet er eine Priorität der Armutsbekämpfung und der Beseitigung von Unterdrückung gegenüber der Verfolgung positiver Ideale.",
+  "kernthesen": [
+    "Die Minimierung von Leid hat moralischen Vorrang vor der Maximierung von Glück.",
+    "Intensives Leiden wiegt moralisch schwerer als eine gleiche Intensität von Freude.",
+    "Politik sollte konkrete Übel beseitigen, statt abstrakte Utopien zu verwirklichen.",
+    "Der Versuch, Glück zu maximieren, kann zu gefährlichem Utopismus führen.",
+    "Die Vermeidung von Grausamkeit ist die grundlegendste moralische Forderung."
+  ],
+  "hauptvertreter": ["karl-popper"],
+  "entstehung": "Der Negative Utilitarismus wurde von Karl Popper in „Die offene Gesellschaft und ihre Feinde“ (1945) formuliert. Er entstand als Reaktion auf die totalitären Ideologien des 20. Jahrhunderts, die im Namen zukünftigen Glücks gegenwärtiges Leid rechtfertigten.",
+  "kritik": "Die schwerste Kritik am Negativen Utilitarismus lautet, dass er in seiner konsequenten Form die Auslöschung der Menschheit als moralisch geboten erscheinen lässt, da dies alles Leid beenden würde. Zudem wird eingewandt, dass eine reine Leidvermeidung ohne positives Glücksstreben ein verarmtes Verständnis des guten Lebens ergibt.",
+  "verwandteIsmen": ["utilitarismus", "pessimismus"],
+  "schluesselwerke": [
+    {"titel": "Die offene Gesellschaft und ihre Feinde", "autor": "Karl Popper", "jahr": "1945"},
+    {"titel": "Negative Utilitarianism", "autor": "R. N. Smart", "jahr": "1958"},
+    {"titel": "Better Never to Have Been", "autor": "David Benatar", "jahr": "2006"}
+  ]
+}

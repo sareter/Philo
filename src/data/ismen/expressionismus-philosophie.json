@@ -1,0 +1,23 @@
+{
+  "slug": "expressionismus-philosophie",
+  "name": "Expressionismus (Philosophie)",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die philosophische Dimension des Expressionismus betont den Ausdruck innerer seelischer Wahrheiten gegenüber der bloßen Abbildung äußerer Realität. Sie fordert eine radikale Subjektivität, die das Erleben über die objektive Darstellung stellt.",
+  "ausfuehrlicheBeschreibung": "Der philosophische Expressionismus entstand zu Beginn des 20. Jahrhunderts als Gegenbewegung zum Positivismus und Naturalismus. Er griff Nietzsches Idee des dionysischen Rausches auf und stellte den unmittelbaren Ausdruck innerer Zustände in den Mittelpunkt. Die Welt wurde nicht als objektiv gegebene Realität verstanden, sondern als etwas, das durch die Intensität des subjektiven Erlebens erst seine eigentliche Bedeutung erhält.\n\nPhilosophisch verband der Expressionismus Elemente der Lebensphilosophie, des Vitalismus und der frühen Phänomenologie. Er teilte mit Nietzsche die Überzeugung, dass die tiefsten Wahrheiten nicht durch rationale Analyse, sondern durch ekstatisches Erleben zugänglich werden. Der Mensch sollte sich von den Konventionen der bürgerlichen Gesellschaft befreien und zu einer authentischen Ausdrucksform finden, die das Innerste nach außen kehrt.\n\nDie Wirkung des expressionistischen Denkens erstreckte sich weit über die bildende Kunst hinaus auf Literatur, Theater und Film. Philosophisch bereitete der Expressionismus den Boden für existenzialistische Strömungen, indem er die Bedeutung von Angst, Verzweiflung und ekstatischer Erfahrung hervorhob. Seine Betonung der Subjektivität und des authentischen Ausdrucks wirkt bis in gegenwärtige Debatten über Kunst und Erfahrung nach.",
+  "kernthesen": [
+    "Die innere Wahrheit des Erlebens ist wichtiger als die äußere Wirklichkeit.",
+    "Authentischer Ausdruck erfordert die Befreiung von gesellschaftlichen Konventionen.",
+    "Kunst und Philosophie müssen das Dionysische und Ekstatische einbeziehen.",
+    "Rationale Analyse allein kann die tiefsten menschlichen Erfahrungen nicht erfassen.",
+    "Der Mensch muss seine inneren Zustände radikal nach außen tragen, um wahrhaftig zu leben."
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der philosophische Expressionismus entwickelte sich ab etwa 1905 im deutschsprachigen Raum, beeinflusst durch Nietzsches Lebensphilosophie und Bergsons Vitalismus. Er war eng verbunden mit den expressionistischen Bewegungen in Malerei, Literatur und Theater, die eine neue Unmittelbarkeit des Ausdrucks suchten.",
+  "kritik": "Kritiker bemängeln die Überbetonung der Subjektivität, die in einen irrationalen Solipsismus münden kann. Zudem wird die politische Ambivalenz des Expressionismus kritisiert, der sowohl progressive als auch reaktionäre Strömungen inspirierte.",
+  "verwandteIsmen": ["existenzialismus", "vitalismus", "nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Die Geburt der Tragödie", "autor": "Friedrich Nietzsche", "jahr": "1872"},
+    {"titel": "Der Blaue Reiter (Almanach)", "autor": "Wassily Kandinsky / Franz Marc", "jahr": "1912"},
+    {"titel": "Über das Geistige in der Kunst", "autor": "Wassily Kandinsky", "jahr": "1911"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "theokratismus",
+  "name": "Theokratismus",
+  "epoche": "Mittelalter",
+  "kurzbeschreibung": "Der Theokratismus ist die politische Philosophie, die eine Herrschaft im Namen Gottes oder nach göttlichem Gesetz als die legitime und ideale Staatsform betrachtet.",
+  "ausfuehrlicheBeschreibung": "Der Theokratismus vertritt die These, dass die politische Ordnung auf göttlicher Autorität gründen soll. Die Herrschaft wird entweder direkt von religiösen Führern ausgeübt oder die weltliche Macht wird als von Gott verliehen betrachtet.\n\nHistorisch reichen theokratische Vorstellungen bis in die Antike zurück. Im Mittelalter formulierte Augustinus in De Civitate Dei die Idee zweier Reiche - des Gottesstaates und des irdischen Staates. Die mittelalterliche Debatte zwischen Papst und Kaiser war im Kern ein Streit um die theokratische Legitimation politischer Macht.\n\nThomas von Aquin entwickelte eine differenziertere Position: Er anerkannte die relative Eigenständigkeit der weltlichen Ordnung, betonte aber ihre Unterordnung unter das göttliche Gesetz. In der islamischen Philosophie ist die Frage der Theokratie bis heute von zentraler Bedeutung.",
+  "kernthesen": [
+    "Die politische Ordnung soll auf göttlicher Autorität gründen.",
+    "Religiöse Gesetze sind die höchste Rechtsquelle.",
+    "Religiöse Führer haben eine besondere politische Legitimation.",
+    "Die weltliche Macht ist der göttlichen Ordnung untergeordnet.",
+    "Das Gemeinwohl wird am besten durch die Befolgung göttlicher Gebote verwirklicht."
+  ],
+  "hauptvertreter": ["augustinus", "thomas-von-aquin"],
+  "entstehung": "Theokratische Vorstellungen existieren seit der Antike in nahezu allen Kulturen. Im westlichen Denken wurde der Theokratismus besonders durch Augustinus und die mittelalterliche Papstkirche geprägt.",
+  "kritik": "Die Aufklärung kritisierte den Theokratismus als Legitimation von Tyrannei und als Hindernis für Freiheit und Vernunft. Die Trennung von Staat und Religion gilt seit der Moderne als Grundlage demokratischer Gesellschaften.",
+  "verwandteIsmen": ["theismus", "absolutismus", "konservatismus"],
+  "schluesselwerke": [
+    {"titel": "De Civitate Dei", "autor": "Augustinus", "jahr": "426"},
+    {"titel": "Summa Theologica", "autor": "Thomas von Aquin", "jahr": "1274"}
+  ]
+}

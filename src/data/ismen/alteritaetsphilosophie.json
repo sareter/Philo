@@ -1,0 +1,23 @@
+{
+  "slug": "alteritaetsphilosophie",
+  "name": "Alteritätsphilosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Alteritätsphilosophie stellt die ethische Begegnung mit dem Anderen ins Zentrum des Denkens. Sie argumentiert, dass der Andere dem Selbst vorausgeht und die Verantwortung für den Anderen die Grundlage aller Ethik bildet.",
+  "ausfuehrlicheBeschreibung": "Die Alteritätsphilosophie hat ihre Wurzeln im Denken von Emmanuel Levinas, der die gesamte westliche Philosophie als 'Ontologie der Totalität' kritisierte – als den Versuch, das Andere auf das Selbe zu reduzieren. Demgegenüber stellte Levinas die ethische Begegnung mit dem Antlitz des Anderen als das Urereignis der Philosophie dar. Das Antlitz des Anderen spricht den Menschen an und ruft ihn in eine Verantwortung, die er nicht gewählt hat und die jedem Wissen vorausgeht.\n\nDerrida radikalisierte Levinas' Ansatz durch seine Dekonstruktion der Subjektphilosophie und zeigte, dass jede Identität von einer irreduziblen Differenz durchzogen ist. Sein Konzept der 'Différance' – der nie abgeschlossenen Verschiebung von Bedeutung – verdeutlicht, dass das Andere nicht als Gegensatz zum Selben verstanden werden kann, sondern als dessen uneinholbare Bedingung. Die Verantwortung für den Anderen wird bei Derrida zur 'unbedingten Gastfreundschaft' – einer Offenheit, die keine Bedingungen stellt.\n\nDie Alteritätsphilosophie hat die politische Philosophie, die Ethik und die interkulturelle Philosophie nachhaltig geprägt. Sie bietet Grundlagen für eine Ethik des Respekts vor der Andersheit des Anderen, die weder in Assimilation noch in Ausgrenzung mündet. In Zeiten wachsender Konflikte um Migration, Identität und kulturelle Differenz bleibt sie von hoher Aktualität.",
+  "kernthesen": [
+    "Der Andere geht dem Selbst ethisch und ontologisch voraus.",
+    "Das Antlitz des Anderen ruft den Menschen in eine ungewählte, unendliche Verantwortung.",
+    "Die westliche Philosophie hat das Andere systematisch auf das Selbe reduziert.",
+    "Wahre Ethik beginnt dort, wo die Andersheit des Anderen respektiert wird.",
+    "Jede Identität ist von einer irreduziblen Differenz durchzogen."
+  ],
+  "hauptvertreter": ["jacques-derrida"],
+  "entstehung": "Die Alteritätsphilosophie wurde maßgeblich durch Emmanuel Levinas' 'Totalität und Unendlichkeit' (1961) und 'Jenseits des Seins' (1974) begründet. Jacques Derrida entwickelte diese Impulse in seiner Dekonstruktion weiter. Die Bewegung entstand als Reaktion auf die totalitären Erfahrungen des 20. Jahrhunderts und die Frage nach einer Ethik nach Auschwitz.",
+  "kritik": "Kritiker werfen der Alteritätsphilosophie vor, die Asymmetrie der ethischen Beziehung – die unendliche Verantwortung für den Anderen – überfordere den Einzelnen und sei praktisch nicht einlösbar. Zudem wird bemängelt, dass die Betonung der Andersheit die Möglichkeit gemeinsamer Verständigung untergräbt.",
+  "verwandteIsmen": ["dekonstruktivismus", "xenophilosophie", "gastfreundschaftsethik"],
+  "schluesselwerke": [
+    {"titel": "Totalität und Unendlichkeit", "autor": "Emmanuel Levinas", "jahr": "1961"},
+    {"titel": "Jenseits des Seins oder anders als Sein geschieht", "autor": "Emmanuel Levinas", "jahr": "1974"},
+    {"titel": "Die Schrift und die Differenz", "autor": "Jacques Derrida", "jahr": "1967"}
+  ]
+}

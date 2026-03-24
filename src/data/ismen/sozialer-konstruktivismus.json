@@ -1,0 +1,23 @@
+{
+  "slug": "sozialer-konstruktivismus",
+  "name": "Sozialer Konstruktivismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der soziale Konstruktivismus behauptet, dass Wirklichkeit wesentlich durch soziale Praktiken, Diskurse und Institutionen konstruiert wird. Was als Tatsache gilt, ist das Ergebnis gesellschaftlicher Aushandlung.",
+  "ausfuehrlicheBeschreibung": "Der soziale Konstruktivismus vertritt die These, dass das, was wir für die Wirklichkeit halten, wesentlich durch soziale Prozesse hervorgebracht wird. Begriffe wie Geschlecht, Rasse, Krankheit oder Normalität sind nicht natürliche Gegebenheiten, sondern soziale Konstruktionen, die historisch entstanden sind und sich verändern können. Die Wirklichkeit ist nicht einfach gegeben, sondern gemacht.\n\nMichel Foucault trieb die sozialkonstruktivistische Analyse auf die Spitze, indem er zeigte, wie Wissen und Macht untrennbar miteinander verwoben sind. Diskurse – systematische Weisen des Sprechens und Denkens – erzeugen die Gegenstände, von denen sie handeln: Der Wahnsinn, die Sexualität, die Kriminalität sind keine zeitlosen Phänomene, sondern Produkte historisch spezifischer Diskurse und institutioneller Praktiken.\n\nDer soziale Konstruktivismus hat tiefgreifende politische Implikationen: Wenn das, was als natürlich und selbstverständlich gilt, in Wahrheit konstruiert ist, dann kann es auch anders konstruiert werden. Die Entlarvung sozialer Konstruktionen wird so zum Instrument der Emanzipation – sie zeigt, dass bestehende Ordnungen nicht notwendig sind und verändert werden können.",
+  "kernthesen": [
+    "Wirklichkeit wird wesentlich durch soziale Praktiken konstruiert",
+    "Was als Tatsache gilt, ist das Ergebnis gesellschaftlicher Aushandlung",
+    "Wissen und Macht sind untrennbar miteinander verwoben",
+    "Diskurse erzeugen die Gegenstände, von denen sie handeln",
+    "Die Entlarvung sozialer Konstruktionen dient der Emanzipation"
+  ],
+  "hauptvertreter": ["michel-foucault"],
+  "entstehung": "Der soziale Konstruktivismus entwickelte sich in den 1960er und 1970er Jahren aus der Wissenssoziologie und der Diskursanalyse. Foucaults archäologische und genealogische Methode sowie Berger und Luckmanns Werk Die gesellschaftliche Konstruktion der Wirklichkeit (1966) bilden wichtige Grundlagen.",
+  "kritik": "Kritiker werfen dem sozialen Konstruktivismus vor, er leugne die Existenz einer bewusstseinsunabhängigen Wirklichkeit und führe zu einem unhaltbaren Relativismus. Zudem wird die Frage gestellt, ob die These, dass alles konstruiert ist, nicht selbst eine Konstruktion ist und sich damit selbst untergräbt.",
+  "verwandteIsmen": ["radikaler-konstruktivismus", "kulturrelativismus", "moralischer-relativismus", "epistemischer-nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Die Ordnung der Dinge", "autor": "Michel Foucault", "jahr": "1966"},
+    {"titel": "Überwachen und Strafen", "autor": "Michel Foucault", "jahr": "1975"},
+    {"titel": "Die gesellschaftliche Konstruktion der Wirklichkeit", "autor": "Peter L. Berger und Thomas Luckmann", "jahr": "1966"}
+  ]
+}

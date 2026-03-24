@@ -1,0 +1,22 @@
+{
+  "slug": "kosmischer-pessimismus",
+  "name": "Kosmischer Pessimismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der kosmische Pessimismus betrachtet das Universum als fundamental gleichgültig gegenüber menschlichem Leiden und Streben. Die kosmische Ordnung kennt weder Gerechtigkeit noch Mitgefühl.",
+  "ausfuehrlicheBeschreibung": "Der kosmische Pessimismus weitet den philosophischen Pessimismus ins Kosmische aus und behauptet, dass nicht nur das menschliche Leben, sondern das gesamte Universum von einer fundamentalen Gleichgültigkeit geprägt ist. Es gibt keine höhere Ordnung, keinen göttlichen Plan und keine kosmische Gerechtigkeit – das Universum ist ein blinder Mechanismus, der sich um menschliches Glück oder Leid nicht kümmert.\n\nArthur Schopenhauer legte den Grundstein für diese Weltanschauung mit seiner Lehre vom blinden, ziellosen Willen als dem Wesen aller Wirklichkeit. Der Wille als Ding an sich treibt alles Seiende zu endlosem Streben und Leiden an, ohne je Erfüllung zu finden. Das Universum ist kein wohlgeordneter Kosmos, sondern ein chaotisches Getriebe blinder Kräfte.\n\nDer kosmische Pessimismus hat weitreichende Konsequenzen für die menschliche Selbstdeutung: Der Mensch ist nicht die Krone der Schöpfung, sondern ein zufälliges Produkt gleichgültiger Naturkräfte. Seine Hoffnungen, Träume und Werte haben keine kosmische Verankerung und sind letztlich bedeutungslos angesichts der unendlichen Weite eines teilnahmslosen Universums.",
+  "kernthesen": [
+    "Das Universum ist fundamental gleichgültig gegenüber dem Menschen",
+    "Es gibt keine kosmische Ordnung oder Gerechtigkeit",
+    "Der blinde Wille treibt alles Seiende zu sinnlosem Streben",
+    "Der Mensch ist ein zufälliges Produkt gleichgültiger Naturkräfte",
+    "Menschliche Werte haben keine kosmische Verankerung"
+  ],
+  "hauptvertreter": ["arthur-schopenhauer"],
+  "entstehung": "Der kosmische Pessimismus entstand im 19. Jahrhundert als Reaktion auf den Zusammenbruch teleologischer Weltbilder. Schopenhauers Willensmetaphysik und die Erkenntnisse der modernen Naturwissenschaften trugen gleichermaßen zu seiner Entstehung bei.",
+  "kritik": "Kritiker wenden ein, dass der kosmische Pessimismus einen anthropomorphen Fehlschluss begeht, indem er dem Universum Gleichgültigkeit zuschreibt – ein Begriff, der Bewusstsein voraussetzt. Zudem wird argumentiert, dass aus der Abwesenheit kosmischen Sinns nicht die Unmöglichkeit menschlichen Sinns folgt.",
+  "verwandteIsmen": ["nihilistischer-pessimismus", "leidensphilosophie", "passiver-nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
+    {"titel": "Parerga und Paralipomena", "autor": "Arthur Schopenhauer", "jahr": "1851"}
+  ]
+}

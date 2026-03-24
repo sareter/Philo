@@ -1,0 +1,23 @@
+{
+  "slug": "logotherapie",
+  "name": "Logotherapie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Logotherapie ist eine sinnzentrierte Psychotherapie, die von Viktor Frankl begründet wurde. Sie versteht den Willen zum Sinn als grundlegende menschliche Motivation und hilft Menschen, auch in extremem Leid Sinn zu finden.",
+  "ausfuehrlicheBeschreibung": "Die Logotherapie (von griechisch 'logos' – Sinn) wurde von dem Wiener Psychiater und Holocaust-Überlebenden Viktor Frankl als 'Dritte Wiener Schule' der Psychotherapie entwickelt. Während Freud den Willen zur Lust und Adler den Willen zur Macht als primäre Motivation betrachteten, stellte Frankl den Willen zum Sinn in den Mittelpunkt. Philosophisch steht er in der Tradition Kierkegaards, der die existenzielle Wahl und die Leidenschaft des Einzelnen als Kern menschlicher Existenz verstand.\n\nFrankls eigene Erfahrung in den Konzentrationslagern von Auschwitz und Dachau bestätigte seine These, dass der Mensch selbst unter den extremsten Bedingungen Sinn finden kann und dass diese Sinnfindung über Leben und Tod entscheiden kann. 'Wer ein Warum zu leben hat, erträgt fast jedes Wie' – dieses Nietzsche-Zitat wurde zum Leitmotiv der Logotherapie. Sie unterscheidet drei Wege der Sinnfindung: durch schöpferisches Tun, durch das Erleben von Werten und Begegnungen, und durch die Haltung zum unvermeidlichen Leid.\n\nDie Logotherapie hat die existenzielle Psychotherapie, die humanistische Psychologie und die Positive Psychologie nachhaltig beeinflusst. Frankls Werk wird weltweit gelesen und hat Millionen von Menschen in Krisen Orientierung geboten. In der Gegenwart erfährt die Logotherapie angesichts wachsender existenzieller Verunsicherung, Sinnkrisen und psychischer Erkrankungen erneute Aufmerksamkeit.",
+  "kernthesen": [
+    "Der Wille zum Sinn ist die grundlegende menschliche Motivation, nicht Lust oder Macht.",
+    "Selbst im unvermeidlichen Leid kann der Mensch eine sinnvolle Haltung einnehmen.",
+    "Die existenzielle Leere und Langeweile sind Hauptursachen psychischer Störungen der Moderne.",
+    "Sinn wird gefunden, nicht erfunden – er zeigt sich in Aufgaben, Begegnungen und Haltungen.",
+    "Der Mensch ist frei, zu seinem Schicksal Stellung zu nehmen, auch wenn er es nicht ändern kann."
+  ],
+  "hauptvertreter": ["soeren-kierkegaard"],
+  "entstehung": "Die Logotherapie wurde von Viktor Frankl ab den 1930er Jahren entwickelt und durch seine Konzentrationslager-Erfahrung im Zweiten Weltkrieg vertieft. Sein Buch '...trotzdem Ja zum Leben sagen' (1946) machte die Logotherapie einem breiten Publikum zugänglich. Frankl lehrte und praktizierte bis zu seinem Tod 1997.",
+  "kritik": "Kritiker werfen der Logotherapie vor, die Rolle struktureller und sozialer Faktoren bei psychischen Erkrankungen zu unterschätzen und das Leid zu individualisieren. Zudem wird die Forderung, im Leiden Sinn zu finden, als potenziell rechtfertigend für vermeidbare Ungerechtigkeiten kritisiert.",
+  "verwandteIsmen": ["existenzialismus", "existenzialanalyse", "humanismus"],
+  "schluesselwerke": [
+    {"titel": "...trotzdem Ja zum Leben sagen", "autor": "Viktor Frankl", "jahr": "1946"},
+    {"titel": "Ärztliche Seelsorge", "autor": "Viktor Frankl", "jahr": "1946"},
+    {"titel": "Der Wille zum Sinn", "autor": "Viktor Frankl", "jahr": "1969"}
+  ]
+}

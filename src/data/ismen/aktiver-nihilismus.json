@@ -1,0 +1,23 @@
+{
+  "slug": "aktiver-nihilismus",
+  "name": "Aktiver Nihilismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der aktive Nihilismus zerstört bewusst alte Werte und Überzeugungen, um Raum für neue Schöpfungen zu schaffen. Er ist die kraftvolle, schöpferische Seite der nihilistischen Erfahrung.",
+  "ausfuehrlicheBeschreibung": "Der aktive Nihilismus unterscheidet sich grundlegend vom passiven Nihilismus durch seine schöpferische Energie. Während der passive Nihilist in Resignation versinkt, nutzt der aktive Nihilist die Erkenntnis der Wertlosigkeit aller bestehenden Werte als Antrieb zur Zerstörung des Alten und zur Schaffung des Neuen. Er ist der Hammer, der die morschen Götzenbilder zerschlägt.\n\nFriedrich Nietzsche entwickelte den aktiven Nihilismus als die höhere Form des Nihilismus, die nicht beim bloßen Verneinen stehen bleibt. Der aktive Nihilist erkennt, dass die alten Werte – Gott, Wahrheit, Moral – ihre Geltung verloren haben, und sieht darin nicht das Ende, sondern den Anfang einer neuen Epoche. Die Umwertung aller Werte ist sein Programm: Nicht die Vernichtung von Werten überhaupt, sondern die Ersetzung lebensfeindlicher durch lebensbejahende Werte.\n\nDer aktive Nihilismus ist eine Übergangsphase: Er zerstört das Alte, aber er ist nicht das Ziel. Das Ziel ist die Schaffung neuer Werte durch den Übermenschen, der jenseits von Gut und Böse steht und seine eigenen Maßstäbe setzt. Der aktive Nihilismus ist der Löwe in Zarathustras Gleichnis von den drei Verwandlungen – er sagt Nein zum Drachen der alten Werte, um dem schöpferischen Kind den Weg zu bereiten.",
+  "kernthesen": [
+    "Die Zerstörung alter Werte ist notwendig für die Schaffung neuer",
+    "Nihilismus muss aktiv und schöpferisch durchlebt werden",
+    "Die Umwertung aller Werte ist das Programm des aktiven Nihilismus",
+    "Der aktive Nihilismus ist eine Übergangsphase, nicht das Ziel",
+    "Lebensbejahende Werte sollen lebensfeindliche ersetzen"
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der aktive Nihilismus wurde von Friedrich Nietzsche im späten 19. Jahrhundert als Gegenbegriff zum passiven Nihilismus Schopenhauers entwickelt. Er entstand im Kontext von Nietzsches Programm der Umwertung aller Werte und seiner Vision des Übermenschen.",
+  "kritik": "Kritiker warnen vor der Gefahr eines unkontrollierten Zerstörungsdrangs, der im Namen des aktiven Nihilismus alles Bestehende vernichtet, ohne etwas Besseres an seine Stelle zu setzen. Zudem wird die Frage aufgeworfen, wer bestimmt, welche neuen Werte an die Stelle der alten treten sollen.",
+  "verwandteIsmen": ["passiver-nihilismus", "anarcho-nihilismus", "post-nihilismus", "wertnihilismus"],
+  "schluesselwerke": [
+    {"titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883"},
+    {"titel": "Götzen-Dämmerung", "autor": "Friedrich Nietzsche", "jahr": "1889"},
+    {"titel": "Der Wille zur Macht", "autor": "Friedrich Nietzsche", "jahr": "1901"}
+  ]
+}

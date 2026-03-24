@@ -1,0 +1,23 @@
+{
+  "slug": "langeweilephilosophie",
+  "name": "Langeweilephilosophie",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Die Langeweilephilosophie untersucht die Langeweile als existenzielle Grunderfahrung. Sie sieht in der tiefen Langeweile nicht bloße Untätigkeit, sondern eine Offenbarung der Leere des Daseins.",
+  "ausfuehrlicheBeschreibung": "Die Langeweilephilosophie erhebt die Erfahrung der Langeweile zu einem zentralen Gegenstand philosophischer Analyse. Im Gegensatz zur alltäglichen Langeweile, die durch Zerstreuung leicht zu beheben ist, interessiert sich diese Strömung für die tiefe, existenzielle Langeweile, die den Menschen mit der Leere und Nichtigkeit seines Daseins konfrontiert.\n\nSøren Kierkegaard sah in der Langeweile die Wurzel allen Übels und den Antrieb zur ästhetischen Lebensform, die vergeblich versucht, der Langeweile durch immer neue Reize zu entkommen. Martin Heidegger analysierte drei Formen der Langeweile: das Gelangweiltwerden von etwas, das Sichlangweilen bei etwas und die tiefe Langeweile, in der das Seiende im Ganzen gleichgültig wird. Diese dritte Form offenbart nach Heidegger die Grundsituation des Menschen in der Welt.\n\nDie Langeweilephilosophie sieht in der tiefen Langeweile ein paradoxes Geschenk: Indem sie alle gewöhnlichen Beschäftigungen als nichtig entlarvt, öffnet sie den Blick für die fundamentalen Fragen der Existenz. Die Langeweile wird so zum Tor der Philosophie selbst – wer sich nie zutiefst gelangweilt hat, hat nie wirklich gedacht.",
+  "kernthesen": [
+    "Tiefe Langeweile ist eine existenzielle Grunderfahrung, keine bloße Untätigkeit",
+    "In der Langeweile wird die Leere des Daseins offenbar",
+    "Zerstreuung ist nur eine Flucht vor der fundamentalen Langeweile",
+    "Die Langeweile konfrontiert den Menschen mit der Nichtigkeit des Seienden",
+    "Tiefe Langeweile kann zum Ausgangspunkt echten Philosophierens werden"
+  ],
+  "hauptvertreter": ["soeren-kierkegaard", "martin-heidegger"],
+  "entstehung": "Die Langeweilephilosophie entwickelte sich seit Kierkegaards Entweder/Oder (1843) und fand ihren Höhepunkt in Heideggers Vorlesung Die Grundbegriffe der Metaphysik (1929/30). Die zunehmende Rationalisierung und Industrialisierung des Lebens bildete den gesellschaftlichen Hintergrund.",
+  "kritik": "Kritiker werfen der Langeweilephilosophie vor, sie sei selbst eine Beschäftigung privilegierter Müßiggänger und ignoriere die existenziellen Nöte derjenigen, die zum Überleben arbeiten müssen. Zudem wird bezweifelt, ob die tiefe Langeweile tatsächlich philosophische Einsichten eröffnet oder eher ein Symptom psychischer Erschöpfung ist.",
+  "verwandteIsmen": ["angstphilosophie", "enttaeuschungsphilosophie", "weltschmerz-philosophie"],
+  "schluesselwerke": [
+    {"titel": "Entweder/Oder", "autor": "Søren Kierkegaard", "jahr": "1843"},
+    {"titel": "Die Grundbegriffe der Metaphysik", "autor": "Martin Heidegger", "jahr": "1983"},
+    {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"}
+  ]
+}

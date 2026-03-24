@@ -1,0 +1,23 @@
+{
+  "slug": "neo-existenzialismus",
+  "name": "Neo-Existenzialismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Neo-Existenzialismus erneuert die existenzialistische Tradition unter den Bedingungen der Gegenwart und betont die Irreduzibilität des menschlichen Geistes auf neuronale Prozesse sowie die Unausweichlichkeit existenzieller Fragen.",
+  "ausfuehrlicheBeschreibung": "Der Neo-Existenzialismus, maßgeblich durch den deutschen Philosophen Markus Gabriel vertreten, erneuert die zentralen Einsichten des Existenzialismus für das 21. Jahrhundert. Er richtet sich gegen den Neurozentrismus – die Überzeugung, der Mensch sei 'nichts als sein Gehirn' – und verteidigt die Irreduzibilität des Geistes auf neuronale Prozesse. Gabriel argumentiert, dass der menschliche Geist nicht in den Naturwissenschaften aufgeht, ohne dabei in einen Dualismus zu verfallen.\n\nPhilosophisch knüpft der Neo-Existenzialismus an Sartres Grundeinsicht an, dass die Existenz der Essenz vorausgeht – der Mensch ist nicht durch eine feste Natur bestimmt, sondern durch seine Fähigkeit, sich zu sich selbst zu verhalten. Gabriel übersetzt diese Einsicht in die Sprache der zeitgenössischen Philosophie des Geistes: Das menschliche Selbstbild ist konstitutiv für das, was der Mensch ist. Es gibt keinen 'naturalistischen' Standpunkt, von dem aus der Mensch vollständig beschrieben werden könnte.\n\nDer Neo-Existenzialismus bietet eine Antwort auf die Herausforderungen des Naturalismus, des Szientismus und der künstlichen Intelligenz. Er verteidigt die Eigenständigkeit der Geisteswissenschaften und die Bedeutung existenzieller Selbstreflexion in einer Kultur, die zunehmend von technologischen und naturwissenschaftlichen Erklärungsmustern dominiert wird. Die Frage, was es bedeutet, ein Mensch zu sein, bleibt für den Neo-Existenzialismus offen und unabschließbar.",
+  "kernthesen": [
+    "Der menschliche Geist ist nicht auf neuronale Prozesse reduzierbar.",
+    "Die Existenz geht der Essenz voraus – der Mensch hat keine feste, vorgegebene Natur.",
+    "Das menschliche Selbstbild ist konstitutiv für das, was der Mensch ist.",
+    "Naturalismus und Szientismus verfehlen die Eigenart menschlicher Existenz.",
+    "Existenzielle Fragen nach Sinn, Freiheit und Identität bleiben unausweichlich und unabschließbar."
+  ],
+  "hauptvertreter": ["jean-paul-sartre"],
+  "entstehung": "Der Neo-Existenzialismus wurde vor allem durch Markus Gabriels Werke ab den 2010er Jahren geprägt. Er entstand als Reaktion auf die Dominanz neurowissenschaftlicher Menschenbilder und die Reduktion des Geistes auf das Gehirn. Gabriel verbindet dabei existenzialistische Einsichten mit analytischer Philosophie des Geistes.",
+  "kritik": "Kritiker werfen dem Neo-Existenzialismus vor, die Erklärungskraft der Neurowissenschaften zu unterschätzen und keine klare Alternative zum Naturalismus zu bieten. Zudem wird gefragt, ob die Berufung auf existenzialistische Traditionen angesichts veränderter gesellschaftlicher Bedingungen noch tragfähig sei.",
+  "verwandteIsmen": ["existenzialismus", "anti-realismus", "phaenomenologie"],
+  "schluesselwerke": [
+    {"titel": "Neo-Existentialism", "autor": "Markus Gabriel", "jahr": "2018"},
+    {"titel": "Ich ist nicht Gehirn", "autor": "Markus Gabriel", "jahr": "2015"},
+    {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"}
+  ]
+}

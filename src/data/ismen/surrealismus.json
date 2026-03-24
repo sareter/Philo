@@ -1,0 +1,23 @@
+{
+  "slug": "surrealismus",
+  "name": "Surrealismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Surrealismus ist eine kulturelle und philosophische Bewegung, die das Unbewusste, den Traum und die Imagination als Quellen einer höheren Wirklichkeit betrachtet und die Grenzen zwischen Realität und Fantasie auflösen will.",
+  "ausfuehrlicheBeschreibung": "Der Surrealismus entstand in den 1920er Jahren in Paris als Nachfolgebewegung des Dadaismus. André Breton formulierte im Ersten Surrealistischen Manifest (1924) das Programm: die Befreiung des Geistes von der Herrschaft der Vernunft und die Erforschung des Unbewussten als Quelle schöpferischer Kraft.\n\nPhilosophisch verbindet der Surrealismus Elemente der Psychoanalyse Freuds mit dem Marxismus und dem Irrationalismus. Die automatische Schrift, das Traumprotokoll und die Collage sind Techniken, die den Zugang zum Unbewussten ermöglichen sollen. Die surreale Begegnung von scheinbar Unvereinbarem erzeugt eine neue, übergeordnete Wirklichkeit.\n\nDer Surrealismus beeinflusste nicht nur Kunst und Literatur, sondern auch die philosophische Reflexion über Kreativität, Imagination und die Grenzen der Rationalität. Gilles Deleuze und andere poststrukturalistische Denker nahmen surrealistische Impulse auf.",
+  "kernthesen": [
+    "Das Unbewusste ist eine Quelle schöpferischer Kraft jenseits der Vernunftkontrolle.",
+    "Die Grenzen zwischen Traum und Wirklichkeit sollen aufgelöst werden.",
+    "Die automatische Schrift ermöglicht den Zugang zu einer höheren Wahrheit.",
+    "Die Begegnung des scheinbar Unvereinbaren erzeugt eine übergeordnete Realität.",
+    "Die Befreiung der Imagination ist zugleich eine politische und eine ästhetische Revolution."
+  ],
+  "hauptvertreter": ["gilles-deleuze"],
+  "entstehung": "Der Surrealismus entstand 1924 in Paris mit André Bretons Erstem Surrealistischem Manifest. Er entwickelte sich aus dem Dadaismus und wurde stark von Freuds Psychoanalyse beeinflusst.",
+  "kritik": "Kritiker bemängeln die Willkürlichkeit surrealistischer Methoden und die Romantisierung des Unbewussten. Marxisten warfen der Bewegung Eskapismus vor, Rationalisten die Preisgabe der Vernunft.",
+  "verwandteIsmen": ["dadaismus", "irrationalismus", "romantizismus"],
+  "schluesselwerke": [
+    {"titel": "Erstes Surrealistisches Manifest", "autor": "André Breton", "jahr": "1924"},
+    {"titel": "Die kommunizierenden Röhren", "autor": "André Breton", "jahr": "1932"},
+    {"titel": "Die Traumdeutung", "autor": "Sigmund Freud", "jahr": "1900"}
+  ]
+}

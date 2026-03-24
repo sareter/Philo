@@ -1,0 +1,23 @@
+{
+  "slug": "klassizismus",
+  "name": "Klassizismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Klassizismus ist eine ästhetische und philosophische Strömung, die sich an den Idealen der griechisch-römischen Antike orientiert. Er betont Harmonie, Maß, Klarheit und die universelle Gültigkeit klassischer Schönheitsstandards.",
+  "ausfuehrlicheBeschreibung": "Der Klassizismus ist eine Kulturströmung des 18. und frühen 19. Jahrhunderts, die in der Kunst, Architektur, Literatur und Philosophie eine Rückkehr zu den Idealen der griechisch-römischen Antike anstrebte. Er propagierte Ordnung, Harmonie, Proportion und Klarheit als zeitlose ästhetische Prinzipien und wandte sich gegen den als überladen empfundenen Barock und die Willkür des Rokoko.\n\nImmanuel Kants Ästhetik in der 'Kritik der Urteilskraft' lieferte die philosophische Grundlage für den Klassizismus. Kant unterschied zwischen dem Schönen und dem Erhabenen und entwickelte eine Theorie des ästhetischen Urteils, das zwar subjektiv ist, aber dennoch allgemeine Zustimmung beanspruchen kann. Die Forderung nach Zweckmäßigkeit ohne Zweck und nach interesselosem Wohlgefallen am Schönen korrespondiert mit den klassizistischen Idealen der formalen Vollendung und der Erhebung über die bloße Nützlichkeit.\n\nJohann Joachim Winckelmann formulierte das ästhetische Programm des Klassizismus mit seinem berühmten Diktum von der 'edlen Einfalt und stillen Größe' der griechischen Kunst. Goethe und Schiller verbanden den Klassizismus mit dem humanistischen Ideal der ästhetischen Erziehung des Menschen. In der Gegenwart wird der Klassizismus als historische Strömung gewürdigt, aber auch kritisch als Ausdruck einer eurozentrischen Universalisierung partikularer ästhetischer Standards betrachtet.",
+  "kernthesen": [
+    "Die griechisch-römische Antike liefert zeitlose Maßstäbe für Schönheit und Kunst.",
+    "Harmonie, Maß, Klarheit und Proportion sind universelle ästhetische Prinzipien.",
+    "Das ästhetische Urteil beansprucht allgemeine Gültigkeit, obwohl es subjektiv ist.",
+    "Kunst dient der Erhebung und moralischen Veredelung des Menschen.",
+    "Die edle Einfalt und stille Größe der Antike ist das Ideal künstlerischer Vollendung."
+  ],
+  "hauptvertreter": ["immanuel-kant"],
+  "entstehung": "Der Klassizismus entstand Mitte des 18. Jahrhunderts, angeregt durch Winckelmanns Wiederentdeckung der griechischen Kunst und die Ausgrabungen in Pompeji und Herculaneum. Kants Ästhetik lieferte die philosophische Grundlage, während Goethe und Schiller den Weimarer Klassizismus in der deutschen Literatur prägten.",
+  "kritik": "Dem Klassizismus wird vorgeworfen, dass er eine idealisierte Antike konstruiert, die der historischen Realität nicht entspricht. Seine universellen Schönheitsstandards spiegeln kulturelle Vorurteile wider und schließen nicht-europäische Kunsttraditionen aus. Zudem bevorzugt er formale Perfektion auf Kosten von emotionaler Tiefe und individueller Ausdruckskraft.",
+  "verwandteIsmen": ["idealismus", "humanismus"],
+  "schluesselwerke": [
+    {"titel": "Kritik der Urteilskraft", "autor": "Immanuel Kant", "jahr": "1790"},
+    {"titel": "Gedanken über die Nachahmung der Griechischen Werke", "autor": "Johann Joachim Winckelmann", "jahr": "1755"},
+    {"titel": "Über die ästhetische Erziehung des Menschen", "autor": "Friedrich Schiller", "jahr": "1795"}
+  ]
+}

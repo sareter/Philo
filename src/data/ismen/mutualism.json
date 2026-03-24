@@ -1,0 +1,23 @@
+{
+  "slug": "mutualism",
+  "name": "Mutualismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Mutualismus ist eine politisch-ökonomische Philosophie, die auf dem Prinzip der Gegenseitigkeit und freiwilligen Kooperation basiert. Er strebt eine Gesellschaft an, in der Austausch und Zusammenarbeit ohne staatlichen Zwang stattfinden.",
+  "ausfuehrlicheBeschreibung": "Der Mutualismus wurde maßgeblich von Pierre-Joseph Proudhon entwickelt und stellt eine der frühesten Formen des Anarchismus dar. Im Zentrum steht das Prinzip der Gegenseitigkeit (Mutualität): Wirtschaftliche und soziale Beziehungen sollen auf freiwilligem, gleichwertigem Tausch beruhen, ohne dass ein Staat oder monopolistische Institutionen als Vermittler auftreten. Proudhons berühmte These 'Eigentum ist Diebstahl' richtete sich gegen das kapitalistische Eigentumsrecht, nicht gegen persönlichen Besitz.\n\nDer Mutualismus schlägt praktische Alternativen zur kapitalistischen Wirtschaft vor, darunter Volksbanken, die zinslose Kredite vergeben, Arbeiterkooperativen, die den Arbeitern selbst gehören, und föderale Zusammenschlüsse freier Kommunen. Anders als der Kommunismus will der Mutualismus das Privateigentum nicht vollständig abschaffen, sondern auf das beschränken, was durch eigene Arbeit geschaffen wurde. Marktmechanismen werden grundsätzlich akzeptiert, jedoch ohne monopolistische Verzerrungen.\n\nIn der Geschichte der sozialen Bewegungen spielte der Mutualismus eine wichtige Rolle als Vorläufer sowohl des Anarchismus als auch der Genossenschaftsbewegung. Er beeinflusste die Pariser Kommune, die frühe Arbeiterbewegung und moderne Formen solidarischer Ökonomie. Zeitgenössische Mutualisten wie Kevin Carson verbinden Proudhons Ideen mit einer Kritik des Staatskapitalismus und monopolistischer Strukturen.",
+  "kernthesen": [
+    "Wirtschaftliche Beziehungen sollen auf dem Prinzip der Gegenseitigkeit beruhen.",
+    "Eigentum ist nur dann legitim, wenn es durch eigene Arbeit geschaffen wurde.",
+    "Der Staat soll durch föderale Zusammenschlüsse freier Assoziationen ersetzt werden.",
+    "Kooperativen und Gegenseitigkeitsbanken ermöglichen gerechten Austausch ohne Ausbeutung.",
+    "Freiwillige Kooperation ist dem staatlichen Zwang in jeder Hinsicht überlegen."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der Mutualismus wurde in den 1840er Jahren von Pierre-Joseph Proudhon in seinen Werken 'Was ist Eigentum?' und 'System der ökonomischen Widersprüche' entwickelt. Er entstand als Antwort auf die soziale Frage der Industrialisierung und beeinflusste die Erste Internationale.",
+  "kritik": "Kritiker werfen dem Mutualismus vor, keine klare Strategie für den Übergang zur mutualistischen Gesellschaft zu bieten. Marxisten kritisieren ihn als kleinbürgerliche Utopie, die die Notwendigkeit revolutionärer Umwälzung verkennt. Liberale sehen in ihm eine unrealistische Einschränkung des Eigentumsrechts.",
+  "verwandteIsmen": ["anarchismus", "syndikalismus", "sozialismus", "distributismus", "kommunitarismus"],
+  "schluesselwerke": [
+    {"titel": "Was ist Eigentum?", "autor": "Pierre-Joseph Proudhon", "jahr": "1840"},
+    {"titel": "System der ökonomischen Widersprüche", "autor": "Pierre-Joseph Proudhon", "jahr": "1846"},
+    {"titel": "Studies in Mutualist Political Economy", "autor": "Kevin Carson", "jahr": "2007"}
+  ]
+}

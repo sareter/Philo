@@ -1,0 +1,23 @@
+{
+  "slug": "syndikalismus",
+  "name": "Syndikalismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Syndikalismus ist eine politische Bewegung und Theorie, die die Selbstverwaltung der Arbeiter durch Gewerkschaften (Syndikate) als Grundlage einer neuen Gesellschaftsordnung betrachtet. Er strebt die Überwindung des Kapitalismus durch direkte Aktion und den Generalstreik an.",
+  "ausfuehrlicheBeschreibung": "Der Syndikalismus entstand im späten 19. Jahrhundert als eine Strömung der Arbeiterbewegung, die weder auf parlamentarische Politik noch auf die Eroberung des Staates setzte, sondern auf die Selbstorganisation der Arbeiter an ihrem Arbeitsplatz. Die Gewerkschaften sollten nicht nur Instrumente des wirtschaftlichen Kampfes sein, sondern die Keimzellen einer neuen, herrschaftsfreien Gesellschaftsordnung. Der Generalstreik galt als das wichtigste Mittel, um die kapitalistische Ordnung zu stürzen.\n\nDie theoretischen Grundlagen des Syndikalismus speisen sich aus verschiedenen Quellen. Marx' Analyse der kapitalistischen Ausbeutung und der Klassengesellschaft lieferte die ökonomische Grundlage, während anarchistische Denker wie Bakunin und Proudhon die Ablehnung des Staates und die Idee der Selbstverwaltung beisteuerten. Georges Sorel entwickelte mit seinem Konzept des Mythos des Generalstreiks eine wirkmächtige Mobilisierungstheorie, die den revolutionären Enthusiasmus der Arbeiter ansprechen sollte.\n\nDer Syndikalismus erlebte seine Blütezeit im frühen 20. Jahrhundert, insbesondere in Frankreich, Spanien und Italien. Die spanische CNT verwirklichte während des Bürgerkriegs 1936-1939 syndikalistische Ideale in großem Maßstab. In der Gegenwart lebt der syndikalistische Gedanke in Formen der betrieblichen Mitbestimmung, der Genossenschaftsbewegung und in Konzepten der wirtschaftlichen Demokratie fort.",
+  "kernthesen": [
+    "Die Gewerkschaften sind die Grundlage einer neuen, herrschaftsfreien Gesellschaftsordnung.",
+    "Die Überwindung des Kapitalismus erfolgt durch direkte Aktion und den Generalstreik, nicht durch parlamentarische Politik.",
+    "Die Arbeiter sollen die Produktionsmittel selbst verwalten, ohne Staat oder Parteibürokratie.",
+    "Die Selbstorganisation am Arbeitsplatz ist die authentischste Form demokratischer Teilhabe.",
+    "Die neue Gesellschaft wird in der Schale der alten aufgebaut, durch gewerkschaftliche Gegenstrukturen."
+  ],
+  "hauptvertreter": ["karl-marx"],
+  "entstehung": "Der Syndikalismus entstand in den 1890er Jahren in der französischen Arbeiterbewegung als Alternative zum Parlamentarismus und zum orthodoxen Marxismus. Die Charte d'Amiens (1906) formulierte die Grundprinzipien. Georges Sorel lieferte mit 'Über die Gewalt' (1908) die theoretische Begründung.",
+  "kritik": "Dem Syndikalismus wird vorgeworfen, dass er die Komplexität moderner Gesellschaften unterschätzt und die Vorstellung einer Gesellschaft ohne zentrale politische Institutionen utopisch ist. Zudem beschränkt sich sein Fokus auf die Arbeitswelt und vernachlässigt andere wichtige gesellschaftliche Bereiche wie Bildung, Gesundheit und Umwelt.",
+  "verwandteIsmen": ["anarchismus", "sozialismus"],
+  "schluesselwerke": [
+    {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
+    {"titel": "Über die Gewalt", "autor": "Georges Sorel", "jahr": "1908"},
+    {"titel": "Was ist Eigentum?", "autor": "Pierre-Joseph Proudhon", "jahr": "1840"}
+  ]
+}

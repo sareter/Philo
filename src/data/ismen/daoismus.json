@@ -1,0 +1,23 @@
+{
+  "slug": "daoismus",
+  "name": "Daoismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Daoismus ist eine chinesische Philosophie, die den Weg (Dao) als das unbenennbare Grundprinzip aller Wirklichkeit versteht. Er lehrt das Loslassen, die Leere und das Wu Wei – das Handeln durch Nicht-Handeln.",
+  "ausfuehrlicheBeschreibung": "Der Daoismus entstand im alten China und wird hauptsächlich auf die legendäre Figur Laozi und sein Werk Daodejing zurückgeführt. Das Dao, wörtlich 'der Weg', bezeichnet das unnennbare, allumfassende Prinzip, das allem Sein zugrunde liegt. Es kann weder durch Sprache noch durch begriffliches Denken vollständig erfasst werden – ein Gedanke, der an die sokratische Einsicht in die Grenzen des Wissens erinnert.\n\nZentral ist das Konzept des Wu Wei, des nicht-erzwungenen Handelns, das dem natürlichen Fluss der Dinge folgt, anstatt ihnen den eigenen Willen aufzuzwingen. Die daoistische Philosophie betont die Komplementarität der Gegensätze (Yin und Yang), die Wertschätzung von Einfachheit und Natürlichkeit sowie die Skepsis gegenüber künstlichen gesellschaftlichen Konventionen. Zhuangzi erweiterte diese Lehre durch seine Reflexionen über die Relativität aller Standpunkte und die Freiheit des Geistes.\n\nDer Daoismus hat nicht nur die chinesische Kultur, Kunst und Medizin tiefgreifend geprägt, sondern auch die westliche Philosophie beeinflusst. Parallelen finden sich zu Heideggers Gelassenheit, zum Zen-Buddhismus und zur Prozessphilosophie. In der Gegenwart wird der Daoismus als Inspirationsquelle für ökologisches Denken und eine Philosophie der Achtsamkeit wiederentdeckt.",
+  "kernthesen": [
+    "Das Dao ist das unnennbare Grundprinzip aller Wirklichkeit, das jenseits von Sprache und Begriffen liegt.",
+    "Wu Wei – Handeln durch Nicht-Handeln – bedeutet, dem natürlichen Lauf der Dinge zu folgen.",
+    "Gegensätze wie Yin und Yang sind komplementär und bedingen einander.",
+    "Einfachheit und Natürlichkeit stehen über Künstlichkeit und gesellschaftlicher Konvention.",
+    "Wahre Weisheit zeigt sich im Loslassen, nicht im Festhalten an Wissen und Kontrolle."
+  ],
+  "hauptvertreter": ["sokrates"],
+  "entstehung": "Der Daoismus entstand vermutlich im 6. bis 4. Jahrhundert v. Chr. in China. Das Daodejing, dem legendären Laozi zugeschrieben, und die Schriften des Zhuangzi bilden die philosophischen Grundtexte. Die Tradition entwickelte sich sowohl als philosophische Schule als auch als religiöse Praxis.",
+  "kritik": "Kritiker bemängeln, dass die Lehre des Wu Wei politischen Quietismus begünstigen und zu Passivität gegenüber Ungerechtigkeit führen kann. Zudem wird die mystische Unbestimmtheit des Dao-Begriffs als philosophisch unpräzise kritisiert, was eine systematische Auseinandersetzung erschwere.",
+  "verwandteIsmen": ["naturalismus", "mystizismus", "zen-buddhismus"],
+  "schluesselwerke": [
+    {"titel": "Daodejing", "autor": "Laozi (zugeschrieben)", "jahr": "ca. 400 v. Chr."},
+    {"titel": "Zhuangzi", "autor": "Zhuangzi", "jahr": "ca. 300 v. Chr."},
+    {"titel": "Liezi", "autor": "Liezi (zugeschrieben)", "jahr": "ca. 300 v. Chr."}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "diskursethik",
+  "name": "Diskursethik",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Diskursethik begründet moralische Normen durch den herrschaftsfreien Dialog aller Betroffenen. Eine Norm ist nur dann gültig, wenn sie im rationalen Diskurs die Zustimmung aller finden könnte.",
+  "ausfuehrlicheBeschreibung": "Die Diskursethik ist eine prozedurale Ethik, die moralische Normen nicht inhaltlich festlegt, sondern das Verfahren bestimmt, durch das gültige Normen gefunden werden können. Ihr Grundprinzip lautet: Eine moralische Norm ist nur dann gültig, wenn sie im herrschaftsfreien, rationalen Diskurs die Zustimmung aller Betroffenen finden könnte. Nicht die Inhalte, sondern die Verfahren der Normfindung stehen im Zentrum.\n\nJürgen Habermas entwickelte die Diskursethik als kommunikationstheoretische Transformation der kantischen Ethik: An die Stelle des einsamen moralischen Subjekts, das den kategorischen Imperativ anwendet, tritt die Gemeinschaft der Dialogpartner, die im argumentativen Austausch zu gemeinsamen Normen gelangt. Die ideale Sprechsituation – in der nur der zwanglose Zwang des besseren Arguments zählt – wird zum regulativen Ideal moralischer Verständigung.\n\nDie Diskursethik hat eine stark demokratische Ausrichtung: Wenn moralische Normen nur durch den Dialog aller Betroffenen legitimiert werden können, dann ist die Demokratie nicht nur eine politische, sondern eine moralische Notwendigkeit. Sie verbindet Ethik und Politik, indem sie zeigt, dass gerechte Institutionen solche sind, die den freien Diskurs ermöglichen und schützen.",
+  "kernthesen": [
+    "Moralische Normen müssen im herrschaftsfreien Diskurs begründet werden",
+    "Eine Norm ist gültig, wenn alle Betroffenen ihr zustimmen könnten",
+    "Die ideale Sprechsituation ist das regulative Ideal moralischer Verständigung",
+    "Demokratie ist eine moralische Notwendigkeit",
+    "Verfahren der Normfindung sind wichtiger als inhaltliche Festlegungen"
+  ],
+  "hauptvertreter": ["juergen-habermas"],
+  "entstehung": "Die Diskursethik wurde von Jürgen Habermas und Karl-Otto Apel in den 1970er und 1980er Jahren entwickelt. Sie entstand aus der Verbindung der Frankfurter Schule mit der Sprachpragmatik und als Versuch, die kantische Ethik intersubjektiv zu reformulieren.",
+  "kritik": "Kritiker werfen der Diskursethik vor, sie setze ideale Bedingungen voraus, die in der Realität nie gegeben sind, und sei daher praktisch irrelevant. Zudem wird bemängelt, dass sie als rein prozedurale Ethik keine inhaltliche moralische Orientierung biete und die Machtasymmetrien realer Diskurse unterschätze.",
+  "verwandteIsmen": ["verantwortungsethik", "ethischer-pluralismus", "systemtheorie"],
+  "schluesselwerke": [
+    {"titel": "Moralbewusstsein und kommunikatives Handeln", "autor": "Jürgen Habermas", "jahr": "1983"},
+    {"titel": "Erläuterungen zur Diskursethik", "autor": "Jürgen Habermas", "jahr": "1991"},
+    {"titel": "Theorie des kommunikativen Handelns", "autor": "Jürgen Habermas", "jahr": "1981"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "neue-phaenomenologie",
+  "name": "Neue Phänomenologie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Neue Phänomenologie erneuert Husserls phänomenologisches Programm und wendet sich dem leiblichen Spüren, den Atmosphären und der Situationsanalyse als Grundlagen philosophischer Erkenntnis zu.",
+  "ausfuehrlicheBeschreibung": "Die Neue Phänomenologie wurde ab den 1960er Jahren von Hermann Schmitz als eigenständige philosophische Richtung entwickelt. Sie kritisiert sowohl die klassische Phänomenologie Husserls als auch die existenziale Phänomenologie Heideggers für ihre Vernachlässigung des leiblichen Erlebens. Schmitz unterscheidet grundlegend zwischen dem Körper als objektivem, messbarem Gegenstand und dem Leib als Sphäre des subjektiven Spürens – eine Unterscheidung, die über Husserls Analysen hinausgeht und neue philosophische Perspektiven eröffnet.\n\nZentrale Konzepte der Neuen Phänomenologie sind der 'spürbare Leib', die 'Atmosphären' – räumlich ergossene Gefühle, die den Menschen ergreifen – und die 'Situation' als Grundkategorie menschlicher Erfahrung. Gefühle werden nicht als innere Zustände eines Subjekts verstanden, sondern als überpersönliche Atmosphären, die den Leibraum durchdringen. Die Scham etwa ist keine bloß innere Emotion, sondern eine leibliche Erfahrung der Enge, die den ganzen Menschen erfasst.\n\nDie Neue Phänomenologie hat in den letzten Jahren zunehmend interdisziplinäre Aufmerksamkeit gefunden, insbesondere in der Architekturtheorie, der Musikphilosophie und der Medizinethik. Gernot Böhmes Ästhetik der Atmosphären hat die Architektur- und Designtheorie beeinflusst. Die Rückbesinnung auf das leibliche Erleben bietet Alternativen zum Kognitivismus und eröffnet neue Zugänge zu Emotion, Raumerfahrung und Krankheitserleben.",
+  "kernthesen": [
+    "Der spürbare Leib ist die Grundlage aller Erfahrung und darf nicht auf den objektiven Körper reduziert werden.",
+    "Gefühle sind überpersönliche Atmosphären, die den Leibraum durchdringen und den Menschen ergreifen.",
+    "Die Situation – nicht das isolierte Bewusstsein – ist die Grundkategorie menschlicher Erfahrung.",
+    "Leibliches Spüren liefert Erkenntnisse, die dem begrifflichen Denken vorausgehen.",
+    "Die philosophische Tradition hat das leibliche Erleben systematisch zugunsten des Geistigen vernachlässigt."
+  ],
+  "hauptvertreter": ["edmund-husserl"],
+  "entstehung": "Die Neue Phänomenologie wurde ab den 1960er Jahren von Hermann Schmitz in seinem zehnbändigen 'System der Philosophie' (1964–1980) entwickelt. Sie entstand als Kritik sowohl der analytischen Philosophie als auch der existenzialen Phänomenologie und betonte die Bedeutung des vorprädikativen leiblichen Erlebens.",
+  "kritik": "Kritiker werfen der Neuen Phänomenologie vor, den Begriff der Atmosphäre zu unscharf zu fassen und damit wissenschaftliche Überprüfbarkeit zu erschweren. Zudem wird bemängelt, dass die Betonung des Leiblichen die Rolle des kritischen Denkens und der rationalen Analyse zu sehr in den Hintergrund dränge.",
+  "verwandteIsmen": ["phaenomenologie", "existenzialismus", "hermeneutik"],
+  "schluesselwerke": [
+    {"titel": "System der Philosophie", "autor": "Hermann Schmitz", "jahr": "1964"},
+    {"titel": "Der Leib", "autor": "Hermann Schmitz", "jahr": "1965"},
+    {"titel": "Atmosphäre", "autor": "Gernot Böhme", "jahr": "1995"}
+  ]
+}

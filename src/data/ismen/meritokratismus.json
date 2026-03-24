@@ -1,0 +1,23 @@
+{
+  "slug": "meritokratismus",
+  "name": "Meritokratismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Meritokratismus ist die politische und soziale Philosophie, die individuelle Leistung und Verdienst als gerechtes Ordnungsprinzip der Gesellschaft betrachtet. Soziale Positionen sollen nach Fähigkeit und Anstrengung vergeben werden, nicht nach Geburt oder Herkunft.",
+  "ausfuehrlicheBeschreibung": "Der Meritokratismus vertritt das Ideal einer Gesellschaft, in der die Position eines Menschen durch seine Fähigkeiten, Talente und Anstrengungen bestimmt wird und nicht durch ererbte Privilegien, soziale Herkunft oder Beziehungen. John Locke legte wichtige Grundlagen für diese Konzeption, indem er das Eigentumsrecht aus der Arbeit ableitete: Wer durch eigene Arbeit etwas aus dem Naturzustand herauslöst, erwirbt ein legitimes Eigentumsrecht daran. Damit wird Leistung zum Grundprinzip gerechter Verteilung.\n\nLockes Arbeitstheorie des Eigentums steht im Zusammenhang mit seiner Kritik an absolutistischer Herrschaft und ererbten Privilegien. Wenn politische Autorität nicht durch göttliches Recht, sondern durch die Zustimmung der Regierten legitimiert wird, dann sollten auch soziale Positionen nicht durch Geburt, sondern durch Verdienst bestimmt werden. Die Aufklärung machte dieses Prinzip zum Fundament ihrer Kritik an der feudalen Ständegesellschaft und legte damit den Grundstein für die moderne Leistungsgesellschaft.\n\nIn der Gegenwart wird der Meritokratismus zunehmend kritisch diskutiert. Michael Sandel hat in 'The Tyranny of Merit' argumentiert, dass das meritokratische Ideal eine eigene Form der Ungerechtigkeit hervorbringt: Es delegitimiert die Position der Benachteiligten, indem es suggeriert, dass jeder für seinen Erfolg oder Misserfolg selbst verantwortlich ist, und blendet die sozialen Voraussetzungen individueller Leistung aus.",
+  "kernthesen": [
+    "Soziale Positionen und Belohnungen sollen nach individueller Leistung und Verdienst vergeben werden.",
+    "Ererbte Privilegien und Standesunterschiede sind illegitim und müssen überwunden werden.",
+    "Das Eigentumsrecht gründet sich auf die Arbeit und Anstrengung des Einzelnen.",
+    "Chancengleichheit ist die notwendige Voraussetzung einer gerechten Leistungsgesellschaft.",
+    "Talent und Fleiß sollen über den gesellschaftlichen Aufstieg entscheiden, nicht Herkunft oder Beziehungen."
+  ],
+  "hauptvertreter": ["john-locke"],
+  "entstehung": "Der Meritokratismus hat seine philosophischen Wurzeln in Lockes Eigentumstheorie und der Aufklärungskritik an der Ständegesellschaft. Der Begriff selbst wurde erst 1958 von Michael Young geprägt, der ihn ironisch als Dystopie entwarf. Die Idee der Leistungsgerechtigkeit prägte jedoch bereits die Amerikanische und Französische Revolution.",
+  "kritik": "Dem Meritokratismus wird vorgeworfen, dass er die sozialen Voraussetzungen individueller Leistung – Herkunft, Bildung, soziales Kapital – systematisch ausblendet und damit bestehende Ungleichheiten als verdient legitimiert. Zudem fördert er eine Kultur des Wettbewerbs und der Selbstoptimierung, die zu psychischen Belastungen und sozialer Kälte führt.",
+  "verwandteIsmen": ["liberalismus", "egalitarismus"],
+  "schluesselwerke": [
+    {"titel": "Zwei Abhandlungen über die Regierung", "autor": "John Locke", "jahr": "1689"},
+    {"titel": "The Rise of the Meritocracy", "autor": "Michael Young", "jahr": "1958"},
+    {"titel": "The Tyranny of Merit", "autor": "Michael Sandel", "jahr": "2020"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "taoistische-ethik",
+  "name": "Taoistische Ethik",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Die taoistische Ethik lehrt das natürliche Handeln im Einklang mit dem Dao und betont Einfachheit, Bescheidenheit und Selbstgenügsamkeit. Sie lehnt künstliche moralische Normen ab und sieht die Rückkehr zur Natur als Quelle ethischer Orientierung.",
+  "ausfuehrlicheBeschreibung": "Die taoistische Ethik leitet ihre Grundsätze aus der daoistischen Naturphilosophie ab und stellt das Ideal des Wu Wei – des nicht-erzwungenen, natürlichen Handelns – in den Mittelpunkt der Lebensführung. Anders als konfuzianische oder westliche Ethiksysteme formuliert sie keine expliziten Regeln oder Pflichten, sondern empfiehlt eine Haltung der Offenheit und des Sich-Einfügens in den natürlichen Lauf der Dinge. Diese Betonung der Einfachheit und des genügsamen Lebens erinnert an Epikurs Ideal der Ataraxia und des maßvollen Genusses.\n\nDrei Schätze (San Bao) bilden den Kern der taoistischen Tugendlehre: Mitgefühl (Ci), Genügsamkeit (Jian) und Bescheidenheit (Bugan wei tianxia xian). Diese Tugenden werden nicht als gesellschaftliche Pflichten verstanden, sondern als natürliche Eigenschaften, die sich einstellen, wenn der Mensch aufhört, künstliche Ziele zu verfolgen. Die taoistische Ethik ist damit paradoxerweise eine Anti-Ethik, die moralisches Handeln gerade durch das Loslassen moralischer Anstrengung ermöglichen will.\n\nIn der Gegenwart gewinnt die taoistische Ethik neue Relevanz für ökologisches Denken, Stressreduktion und die Kritik an einer überregulierten Gesellschaft. Ihre Betonung von Nachhaltigkeit, Naturverbundenheit und innerem Frieden bietet Alternativen zu westlichen Leistungs- und Konsumideologien.",
+  "kernthesen": [
+    "Natürliches Handeln (Wu Wei) im Einklang mit dem Dao ist die höchste Form ethischen Verhaltens.",
+    "Künstliche moralische Normen zerstören die natürliche Güte des Menschen.",
+    "Einfachheit, Genügsamkeit und Bescheidenheit sind die drei Grundtugenden.",
+    "Die Rückkehr zur Natur ist der Weg zu einem authentischen und guten Leben.",
+    "Wahre Güte zeigt sich im Nicht-Tun, nicht im erzwungenen moralischen Handeln."
+  ],
+  "hauptvertreter": ["epikur"],
+  "entstehung": "Die taoistische Ethik entwickelte sich parallel zur daoistischen Philosophie im 6. bis 4. Jahrhundert v. Chr. in China. Sie bildet einen wesentlichen Bestandteil des Daodejing und der Schriften des Zhuangzi und wurde später durch taoistische religiöse Traditionen weiterentwickelt.",
+  "kritik": "Kritiker werfen der taoistischen Ethik vor, politisch quietistisch zu sein und angesichts von Ungerechtigkeit zur Passivität aufzufordern. Zudem wird die Ablehnung expliziter moralischer Normen als unzureichend für die Bewältigung komplexer ethischer Konflikte in modernen Gesellschaften angesehen.",
+  "verwandteIsmen": ["daoismus", "naturalismus", "epikureismus"],
+  "schluesselwerke": [
+    {"titel": "Daodejing", "autor": "Laozi (zugeschrieben)", "jahr": "ca. 400 v. Chr."},
+    {"titel": "Zhuangzi", "autor": "Zhuangzi", "jahr": "ca. 300 v. Chr."},
+    {"titel": "Taiping Jing (Schrift des Großen Friedens)", "autor": "Unbekannt", "jahr": "ca. 100 n. Chr."}
+  ]
+}

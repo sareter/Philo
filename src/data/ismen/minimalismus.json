@@ -1,0 +1,23 @@
+{
+  "slug": "minimalismus",
+  "name": "Minimalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der philosophische Minimalismus ist die Haltung, dass die Reduktion auf das Wesentliche – in der Kunst, der Sprache und der Lebensführung – zu Klarheit, Wahrheit und Freiheit führt. Er strebt nach maximaler Wirkung durch minimale Mittel.",
+  "ausfuehrlicheBeschreibung": "Der philosophische Minimalismus geht über die ästhetische Bewegung hinaus und vertritt die grundsätzliche Überzeugung, dass Reduktion auf das Wesentliche der Weg zu tieferer Erkenntnis und besserer Lebensführung ist. In der Philosophie manifestiert sich dieses Prinzip in der sprachanalytischen Tradition, die fordert, philosophische Probleme durch die Klärung der Sprache zu lösen und überflüssige metaphysische Spekulation zu vermeiden.\n\nLudwig Wittgenstein verkörpert den philosophischen Minimalismus in besonderer Weise. Sein berühmter Satz 'Wovon man nicht sprechen kann, darüber muss man schweigen' ist ein minimalistisches Programm: Die Philosophie soll sich auf das beschränken, was klar und deutlich gesagt werden kann, und metaphysische Pseudoprobleme durch Sprachkritik auflösen. Wittgensteins eigener Stil – knapp, aphoristisch, auf das Wesentliche konzentriert – verwirklicht das minimalistische Ideal in der philosophischen Praxis.\n\nDer Minimalismus hat Parallelen zu verschiedenen Weisheitstraditionen: Der Zen-Buddhismus strebt nach Einfachheit und Leere, die stoische Philosophie fordert den Verzicht auf überflüssige Bedürfnisse. In der Gegenwart verbindet sich der Minimalismus mit ökologischen Anliegen und der Kritik an der Konsumgesellschaft. Die Reduktion des materiellen Besitzes und die Konzentration auf wesentliche Erfahrungen werden als Wege zu einem erfüllteren und nachhaltigeren Leben betrachtet.",
+  "kernthesen": [
+    "Die Reduktion auf das Wesentliche führt zu Klarheit in Denken, Sprechen und Leben.",
+    "Philosophische Probleme lösen sich oft durch sprachliche Klärung und den Verzicht auf überflüssige Spekulation.",
+    "Wovon man nicht sprechen kann, darüber muss man schweigen.",
+    "Maximale Wirkung durch minimale Mittel ist das Ideal in Kunst, Philosophie und Lebensführung.",
+    "Der Verzicht auf Überflüssiges befreit den Geist und ermöglicht tieferes Erleben."
+  ],
+  "hauptvertreter": ["ludwig-wittgenstein"],
+  "entstehung": "Der philosophische Minimalismus hat Wurzeln in der stoischen Einfachheit und im Zen-Buddhismus. Wittgensteins Tractatus logico-philosophicus (1921) formulierte das minimalistische Programm für die analytische Philosophie. Als ästhetische Bewegung entstand der Minimalismus in den 1960er Jahren in der bildenden Kunst und Musik.",
+  "kritik": "Dem Minimalismus wird vorgeworfen, dass er durch seine Beschränkung auf das vermeintlich Wesentliche wichtige Dimensionen der menschlichen Erfahrung ausblendet. Die Forderung, nur über das zu sprechen, was klar gesagt werden kann, schließt existenzielle, ethische und ästhetische Fragen vorschnell aus dem philosophischen Diskurs aus.",
+  "verwandteIsmen": ["stoizismus", "formalismus"],
+  "schluesselwerke": [
+    {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"},
+    {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
+    {"titel": "Walden oder Leben in den Wäldern", "autor": "Henry David Thoreau", "jahr": "1854"}
+  ]
+}

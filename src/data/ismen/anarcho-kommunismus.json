@@ -1,0 +1,23 @@
+{
+  "slug": "anarcho-kommunismus",
+  "name": "Anarcho-Kommunismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Anarcho-Kommunismus verbindet die anarchistische Ablehnung des Staates mit dem kommunistischen Ideal einer klassenlosen Gesellschaft ohne Privateigentum. Er strebt eine freie Assoziation der Produzenten ohne zentrale Planung oder staatliche Autorität an.",
+  "ausfuehrlicheBeschreibung": "Der Anarcho-Kommunismus vereint zwei radikale politische Traditionen: den Anarchismus, der jede Form staatlicher Herrschaft ablehnt, und den Kommunismus, der das Gemeineigentum an den Produktionsmitteln fordert. Anders als der autoritäre Marxismus-Leninismus lehnt der Anarcho-Kommunismus den Staat auch als Übergangsphase ab und besteht darauf, dass eine befreite Gesellschaft nur durch die sofortige Abschaffung sowohl des Staates als auch des Privateigentums entstehen kann.\n\nKarl Marx lieferte mit seiner Analyse des Kapitalismus und der Klassengesellschaft die theoretische Grundlage, die vom Anarcho-Kommunismus aufgegriffen, aber in entscheidender Hinsicht modifiziert wurde. Während Marx die Diktatur des Proletariats als notwendige Übergangsphase betrachtete, argumentierten anarcho-kommunistische Denker wie Pjotr Kropotkin, dass jede Form staatlicher Macht – auch die eines Arbeiterstaates – zwangsläufig zur Unterdrückung führt. Kropotkin betonte die Rolle der gegenseitigen Hilfe als natürliches Prinzip der Kooperation.\n\nDer Anarcho-Kommunismus hat in verschiedenen historischen Momenten praktische Verwirklichungsversuche erfahren, etwa in der Pariser Kommune 1871, im anarchistischen Spanien 1936-1939 und in der Zapatisten-Bewegung. Er bietet eine radikale Kritik sowohl des kapitalistischen Systems als auch der staatssozialistischen Alternative und besteht auf der Möglichkeit einer Gesellschaft, die auf freiwilliger Kooperation, gegenseitiger Hilfe und direkter Demokratie beruht.",
+  "kernthesen": [
+    "Sowohl der Staat als auch das Privateigentum an Produktionsmitteln müssen gleichzeitig abgeschafft werden.",
+    "Jede Form staatlicher Macht führt zwangsläufig zur Unterdrückung, auch die Diktatur des Proletariats.",
+    "Gegenseitige Hilfe und freiwillige Kooperation sind die natürlichen Grundlagen menschlichen Zusammenlebens.",
+    "Eine freie Gesellschaft organisiert sich durch direkte Demokratie und föderale Strukturen von unten.",
+    "Die Verteilung der Güter erfolgt nach dem Prinzip 'Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen'."
+  ],
+  "hauptvertreter": ["karl-marx"],
+  "entstehung": "Der Anarcho-Kommunismus entwickelte sich in der zweiten Hälfte des 19. Jahrhunderts aus der Auseinandersetzung zwischen marxistischen und anarchistischen Strömungen in der Ersten Internationale. Pjotr Kropotkin formulierte die systematischste Version, aufbauend auf Marx' Kapitalismuskritik, aber in Ablehnung seiner Staatstheorie.",
+  "kritik": "Dem Anarcho-Kommunismus wird vorgeworfen, dass eine komplexe Industriegesellschaft ohne zentrale Koordination nicht funktionsfähig ist. Historische Versuche seiner Verwirklichung sind gescheitert oder wurden gewaltsam beendet. Zudem bleibt unklar, wie Konflikte in einer Gesellschaft ohne Staat und ohne verbindliches Recht gelöst werden sollen.",
+  "verwandteIsmen": ["anarchismus", "kommunismus"],
+  "schluesselwerke": [
+    {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
+    {"titel": "Gegenseitige Hilfe in der Tier- und Menschenwelt", "autor": "Pjotr Kropotkin", "jahr": "1902"},
+    {"titel": "Die Eroberung des Brotes", "autor": "Pjotr Kropotkin", "jahr": "1892"}
+  ]
+}

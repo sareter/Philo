@@ -1,0 +1,23 @@
+{
+  "slug": "immaterialismus",
+  "name": "Immaterialismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Immaterialismus leugnet die Existenz materieller Substanz und behauptet, dass die Wirklichkeit ausschließlich aus geistigen Entitäten – Ideen und wahrnehmenden Geistern – besteht. Esse est percipi: Sein heißt wahrgenommen werden.",
+  "ausfuehrlicheBeschreibung": "Der Immaterialismus wurde von George Berkeley im frühen 18. Jahrhundert als konsequente Weiterentwicklung des Empirismus entwickelt. Berkeley argumentierte, dass John Lockes Unterscheidung zwischen primären und sekundären Qualitäten unhaltbar sei: Wenn Farben und Töne nur im wahrnehmenden Geist existieren, dann gilt dasselbe für Ausdehnung, Form und Bewegung. Es gibt keinen guten Grund, hinter den Sinneseindrücken eine unabhängige materielle Substanz anzunehmen.\n\nFür Berkeley besteht die gesamte Wirklichkeit aus Ideen (Sinneseindrücken) und den Geistern, die diese wahrnehmen. Der Begriff einer materiellen Substanz, die unabhängig von jeder Wahrnehmung existiert, ist nicht nur unbeweisbar, sondern widersprüchlich – denn alles, was wir uns vorstellen können, ist bereits eine Idee im Geist. Die Beständigkeit der Welt wird durch Gott garantiert, der alle Ideen permanent wahrnimmt.\n\nDer Immaterialismus hatte tiefgreifende Auswirkungen auf die Philosophiegeschichte, auch wenn er wenige direkte Anhänger fand. Er zwang die empiristische Tradition, ihre Grundannahmen zu überdenken, und bereitete Humes radikale Skepsis und Kants transzendentalen Idealismus vor. In der Gegenwart wird der Immaterialismus im Kontext von Idealismus-Debatten und in der Philosophie des Geistes wieder diskutiert.",
+  "kernthesen": [
+    "Materielle Substanz existiert nicht – alle Wirklichkeit ist geistig.",
+    "Esse est percipi: Sein heißt wahrgenommen werden.",
+    "Sinneseindrücke (Ideen) existieren nur in wahrnehmenden Geistern.",
+    "Die Annahme einer von Wahrnehmung unabhängigen Materie ist widersprüchlich.",
+    "Die Beständigkeit der Welt wird durch Gottes permanente Wahrnehmung gewährleistet."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der Immaterialismus wurde von George Berkeley in seinen Werken „Abhandlung über die Prinzipien der menschlichen Erkenntnis“ (1710) und „Drei Dialoge zwischen Hylas und Philonous“ (1713) entwickelt. Er entstand als Kritik an Lockes Empirismus und der mechanistischen Naturphilosophie.",
+  "kritik": "Die berühmteste Kritik stammt von Samuel Johnson, der einen Stein trat und ausrief: „So widerlege ich ihn!“ Philosophisch wird dem Immaterialismus vorgeworfen, dass er die intersubjektive Erfahrung einer gemeinsamen Welt nicht ohne Rückgriff auf Gott erklären kann und letztlich in einen theologischen Deus ex machina mündet.",
+  "verwandteIsmen": ["idealismus", "phaenomenalismus"],
+  "schluesselwerke": [
+    {"titel": "Eine Abhandlung über die Prinzipien der menschlichen Erkenntnis", "autor": "George Berkeley", "jahr": "1710"},
+    {"titel": "Drei Dialoge zwischen Hylas und Philonous", "autor": "George Berkeley", "jahr": "1713"},
+    {"titel": "Siris", "autor": "George Berkeley", "jahr": "1744"}
+  ]
+}

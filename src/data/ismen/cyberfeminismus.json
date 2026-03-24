@@ -1,0 +1,23 @@
+{
+  "slug": "cyberfeminismus",
+  "name": "Cyberfeminismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Cyberfeminismus untersucht die Verschränkung von Feminismus und digitaler Technologie und sieht im Cyberspace einen Raum für die Überwindung patriarchaler Strukturen und geschlechtlicher Festschreibungen.",
+  "ausfuehrlicheBeschreibung": "Der Cyberfeminismus entstand in den frühen 1990er Jahren an der Schnittstelle von Feminismus, Netzkultur und digitaler Kunst. Die australische Künstlerinnengruppe VNS Matrix und die britische Theoretikerin Sadie Plant gehören zu den Gründerinnen der Bewegung. Sie sahen im Internet und in digitalen Technologien das Potenzial, Geschlechtergrenzen aufzulösen und patriarchale Machtstrukturen zu unterwandern. Philosophisch baut der Cyberfeminismus auf Beauvoirs Einsicht auf, dass Geschlecht eine soziale Konstruktion ist, und radikalisiert diese im digitalen Kontext.\n\nDer Cyberfeminismus argumentiert, dass der Cyberspace einen Raum bietet, in dem Identitäten fluide und veränderlich sind und die Bindung an den biologischen Körper gelockert werden kann. Sadie Plant verknüpfte die Geschichte des Computers mit weiblicher Arbeit – von Ada Lovelace bis zu den 'Computerfrauen' der Nachkriegszeit – und deutete die digitale Revolution als inhärent weiblich. Die VNS Matrix formulierten ihr provokantes 'Cyberfeminist Manifesto for the 21st Century' als künstlerisch-politische Intervention.\n\nSeit den 2000er Jahren hat sich der Cyberfeminismus angesichts neuer Herausforderungen – algorithmische Diskriminierung, digitale Überwachung, Online-Belästigung – weiterentwickelt. Gegenwärtige cyberfeministische Ansätze untersuchen, wie digitale Technologien Geschlechterungleichheit sowohl reproduzieren als auch überwinden können. Der Cyberfeminismus bleibt relevant als Rahmen für die Analyse der Geschlechterdimensionen technologischer Entwicklung.",
+  "kernthesen": [
+    "Digitale Technologien bieten Möglichkeiten zur Überwindung patriarchaler Strukturen.",
+    "Im Cyberspace können Geschlechteridentitäten fluid und veränderlich gelebt werden.",
+    "Die Geschichte des Computers ist eng mit weiblicher Arbeit und Kreativität verbunden.",
+    "Technologie ist nicht geschlechtsneutral, sondern in Machtstrukturen eingebettet.",
+    "Feministische Politik muss digitale Räume aktiv gestalten und aneignen."
+  ],
+  "hauptvertreter": ["simone-de-beauvoir"],
+  "entstehung": "Der Cyberfeminismus entstand Anfang der 1990er Jahre, als das Internet populär wurde. Die VNS Matrix veröffentlichten 1991 ihr 'Cyberfeminist Manifesto'. Sadie Plants Buch 'Zeros and Ones' (1997) und die 'First Cyberfeminist International' auf der documenta X (1997) waren Meilensteine der Bewegung.",
+  "kritik": "Kritiker werfen dem Cyberfeminismus vor, die digitale Kluft zu ignorieren – viele Frauen weltweit haben keinen Zugang zu digitalen Technologien. Zudem wird die anfängliche Euphorie über das Internet als Befreiungsraum angesichts von Online-Belästigung und algorithmischer Diskriminierung als naiv bewertet.",
+  "verwandteIsmen": ["feminismus", "xenofeminismus", "posthumanismus"],
+  "schluesselwerke": [
+    {"titel": "Zeros and Ones", "autor": "Sadie Plant", "jahr": "1997"},
+    {"titel": "Cyberfeminist Manifesto for the 21st Century", "autor": "VNS Matrix", "jahr": "1991"},
+    {"titel": "Das andere Geschlecht", "autor": "Simone de Beauvoir", "jahr": "1949"}
+  ]
+}

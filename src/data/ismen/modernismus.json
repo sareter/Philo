@@ -1,0 +1,23 @@
+{
+  "slug": "modernismus",
+  "name": "Modernismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Modernismus ist die philosophische und kulturelle Strömung, die Fortschritt, Vernunft und Erneuerung als zentrale Werte der Moderne verteidigt. Er steht für das Projekt der Aufklärung und die Emanzipation des Menschen durch Wissenschaft und rationale Gesellschaftsgestaltung.",
+  "ausfuehrlicheBeschreibung": "Der philosophische Modernismus verteidigt das Projekt der Moderne – die Überzeugung, dass die Menschheit durch Vernunft, Wissenschaft und demokratische Institutionen Fortschritt erzielen und eine bessere Gesellschaft aufbauen kann. Jürgen Habermas ist der prominenteste Vertreter dieser Position und argumentiert, dass die Moderne ein 'unvollendetes Projekt' ist, das trotz seiner Krisen und Fehlschläge nicht aufgegeben werden darf.\n\nHabermas entwickelt sein Verständnis der Moderne aus einer Verteidigung der kommunikativen Vernunft gegen deren Vereinseitigung durch instrumentelle Rationalität. Die Pathologien der Moderne – Bürokratisierung, Verdinglichung, ökologische Zerstörung – sind für Habermas nicht Folgen der Vernunft selbst, sondern einer einseitigen Dominanz der zweckrationalen Systemlogik über die Lebenswelt. Die Lösung liegt nicht in der postmodernen Verabschiedung der Vernunft, sondern in der Stärkung kommunikativer Rationalität und deliberativer Demokratie.\n\nDer Modernismus steht in einem grundsätzlichen Gegensatz zum Postmodernismus, der die großen Erzählungen der Moderne – Fortschritt, Emanzipation, universelle Vernunft – als gescheitert betrachtet. Habermas kritisiert die Postmoderne als neokonservativ, da sie mit der Verabschiedung der Vernunft auch die kritischen Maßstäbe aufgibt, die für eine Kritik bestehender Herrschaftsverhältnisse notwendig sind. Der Modernismus besteht auf der Möglichkeit und Notwendigkeit einer vernünftigen Gestaltung der Gesellschaft.",
+  "kernthesen": [
+    "Die Moderne ist ein unvollendetes Projekt, das nicht aufgegeben werden darf.",
+    "Kommunikative Vernunft und deliberative Demokratie können die Pathologien der Moderne heilen.",
+    "Fortschritt durch Wissenschaft und rationale Gesellschaftsgestaltung ist möglich und wünschenswert.",
+    "Die postmoderne Verabschiedung der Vernunft gibt die kritischen Maßstäbe für gesellschaftliche Emanzipation auf.",
+    "Universelle Menschenrechte und demokratische Institutionen sind verteidigungswürdige Errungenschaften der Moderne."
+  ],
+  "hauptvertreter": ["juergen-habermas"],
+  "entstehung": "Der philosophische Modernismus als bewusste Verteidigung der Moderne entstand in den 1980er Jahren als Reaktion auf die postmoderne Kritik. Habermas formulierte seine Position in 'Der philosophische Diskurs der Moderne' (1985) als Antwort auf Lyotard, Foucault und Derrida und knüpfte dabei an die Tradition der Frankfurter Schule an.",
+  "kritik": "Dem Modernismus wird vorgeworfen, dass er die destruktiven Seiten der Moderne – Kolonialismus, ökologische Zerstörung, totalitäre Ideologien – als bloße Verirrungen herunterspielt statt als strukturelle Konsequenzen des Projekts der Moderne zu erkennen. Zudem universalisiert er ein spezifisch westliches Vernunftverständnis.",
+  "verwandteIsmen": ["liberalismus", "humanismus"],
+  "schluesselwerke": [
+    {"titel": "Der philosophische Diskurs der Moderne", "autor": "Jürgen Habermas", "jahr": "1985"},
+    {"titel": "Theorie des kommunikativen Handelns", "autor": "Jürgen Habermas", "jahr": "1981"},
+    {"titel": "Strukturwandel der Öffentlichkeit", "autor": "Jürgen Habermas", "jahr": "1962"}
+  ]
+}

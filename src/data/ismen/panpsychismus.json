@@ -1,0 +1,23 @@
+{
+  "slug": "panpsychismus",
+  "name": "Panpsychismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Panpsychismus ist die philosophische Lehre, dass Bewusstsein oder geistige Eigenschaften ein grundlegendes Merkmal aller Materie sind. Jedes Ding in der Natur besitzt eine Form von innerem Erleben oder Subjektivität.",
+  "ausfuehrlicheBeschreibung": "Der Panpsychismus gehört zu den ältesten metaphysischen Positionen und behauptet, dass Geist oder Bewusstsein nicht auf bestimmte Organismen beschränkt ist, sondern ein universelles Merkmal der Wirklichkeit darstellt. Bereits in der Antike vertraten Denker wie Thales die Ansicht, dass alle Dinge beseelt seien. Platon sprach von einer Weltseele, die den gesamten Kosmos durchdringt, und legte damit einen Grundstein für panpsychistische Überlegungen.\n\nBaruch Spinoza entwickelte eine Form des Panpsychismus in seinem monistischen System, demzufolge Geist und Materie zwei Attribute einer einzigen Substanz sind. Da jeder Körper auch einen geistigen Aspekt besitzt, ist Bewusstsein keine Ausnahmeerscheinung, sondern ein allgegenwärtiges Merkmal der Natur. Leibniz vertrat mit seiner Monadenlehre eine verwandte Position: Jede Monade besitzt Perzeption, also eine Form der Wahrnehmung, auch wenn sie nicht immer bewusst ist.\n\nIn der gegenwärtigen Philosophie des Geistes erlebt der Panpsychismus eine bemerkenswerte Renaissance. Angesichts der Schwierigkeiten, Bewusstsein aus rein materiellen Prozessen zu erklären – dem sogenannten harten Problem des Bewusstseins –, erscheint die Annahme, dass Bewusstsein ein grundlegendes Merkmal der Wirklichkeit ist, vielen Philosophen als attraktive Alternative zum Materialismus. Vertreter wie David Chalmers und Galen Strawson haben neue Varianten des Panpsychismus entwickelt.",
+  "kernthesen": [
+    "Bewusstsein oder geistige Eigenschaften sind ein fundamentales Merkmal aller Materie.",
+    "Auch die einfachsten physischen Entitäten besitzen eine rudimentäre Form des Erlebens.",
+    "Das harte Problem des Bewusstseins lässt sich lösen, wenn Geist als Grundeigenschaft der Natur anerkannt wird.",
+    "Geist und Materie sind keine getrennten Substanzen, sondern zwei Aspekte derselben Wirklichkeit.",
+    "Komplexes Bewusstsein entsteht durch die Kombination einfacherer proto-bewusster Elemente."
+  ],
+  "hauptvertreter": ["baruch-spinoza", "platon"],
+  "entstehung": "Der Panpsychismus hat seine Wurzeln in der vorsokratischen Naturphilosophie und Platons Konzept der Weltseele. Spinoza und Leibniz entwickelten im 17. Jahrhundert metaphysische Systeme mit panpsychistischen Zügen. In der Gegenwart wurde der Panpsychismus als Antwort auf das harte Problem des Bewusstseins wiederbelebt.",
+  "kritik": "Die Hauptkritik am Panpsychismus betrifft das Kombinationsproblem: Wie können sich einfache proto-bewusste Elemente zu komplexem Bewusstsein zusammenfügen? Zudem erscheint die Zuschreibung von Bewusstsein an Steine oder Elektronen vielen als kontraintuitiv und empirisch nicht überprüfbar.",
+  "verwandteIsmen": ["monismus", "idealismus"],
+  "schluesselwerke": [
+    {"titel": "Ethik", "autor": "Baruch Spinoza", "jahr": "1677"},
+    {"titel": "Timaios", "autor": "Platon", "jahr": "-360"},
+    {"titel": "Monadologie", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1714"}
+  ]
+}

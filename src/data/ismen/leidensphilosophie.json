@@ -1,0 +1,22 @@
+{
+  "slug": "leidensphilosophie",
+  "name": "Leidensphilosophie",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Die Leidensphilosophie betrachtet das Leiden als Grundstruktur der menschlichen Existenz. Sie untersucht das Leid nicht als Ausnahme, sondern als Regelfall des Daseins.",
+  "ausfuehrlicheBeschreibung": "Die Leidensphilosophie macht das Leiden zum Ausgangspunkt und Zentrum philosophischer Reflexion. Im Gegensatz zu Traditionen, die das Leiden als Prüfung, Strafe oder Durchgang betrachten, sieht sie im Leid die eigentliche Grundsubstanz des Lebens. Das Dasein ist nicht gelegentlich, sondern wesentlich leidvoll.\n\nArthur Schopenhauer begründete diese Position mit seiner Willensmetaphysik: Der Wille als Ding an sich erzeugt in seiner blinden Triebhaftigkeit ein endloses Streben, das nie zur Ruhe kommt. Jede Befriedigung ist nur vorübergehend und erzeugt sofort neues Begehren oder Langeweile. Das Leiden ist daher kein Akzidens, sondern das Wesen des Lebens selbst. Nur durch die Verneinung des Willens, durch Askese und ästhetische Kontemplation kann eine vorübergehende Erlösung vom Leiden erreicht werden.\n\nDie Leidensphilosophie hat tiefgreifende ethische Implikationen: Wenn das Leiden die Grundstruktur des Daseins bildet, dann ist Mitleid – das Mit-Leiden mit allen leidenden Wesen – die einzig wahre moralische Triebfeder. Schopenhauer sah im Mitleid die Grundlage aller echten Moral und verwarf alle Ethiksysteme, die auf Vernunft, Pflicht oder Glück aufgebaut sind.",
+  "kernthesen": [
+    "Leiden ist die Grundstruktur des menschlichen Daseins",
+    "Der blinde Wille erzeugt endloses Streben und damit endloses Leid",
+    "Jede Befriedigung ist nur vorübergehend und erzeugt neues Begehren",
+    "Mitleid ist die einzig wahre moralische Triebfeder",
+    "Nur die Verneinung des Willens kann vom Leiden erlösen"
+  ],
+  "hauptvertreter": ["arthur-schopenhauer"],
+  "entstehung": "Die Leidensphilosophie wurde von Arthur Schopenhauer im frühen 19. Jahrhundert systematisch entwickelt, beeinflusst von buddhistischem Denken und der kantischen Philosophie. Schopenhauers Werk Die Welt als Wille und Vorstellung von 1819 bildet ihr Grundlagenwerk.",
+  "kritik": "Kritiker werfen der Leidensphilosophie vor, sie verabsolutiere eine einseitige Perspektive und ignoriere die vielfältigen Formen von Freude, Glück und Erfüllung im menschlichen Leben. Zudem wird die Forderung nach Willensverneinung als lebensfeindlich und passivitätsfördernd kritisiert.",
+  "verwandteIsmen": ["kosmischer-pessimismus", "weltschmerz-philosophie", "nihilistischer-pessimismus"],
+  "schluesselwerke": [
+    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
+    {"titel": "Über die Grundlage der Moral", "autor": "Arthur Schopenhauer", "jahr": "1840"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "epiphaenomenalismus",
+  "name": "Epiphänomenalismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Epiphänomenalismus ist die philosophische These, dass das Bewusstsein ein bloßes Nebenprodukt physischer Gehirnprozesse ist, das selbst keine kausale Wirkung auf den Körper oder die physische Welt ausübt.",
+  "ausfuehrlicheBeschreibung": "Der Epiphänomenalismus vertritt die Auffassung, dass mentale Zustände wie Gedanken, Gefühle und Empfindungen zwar real existieren, aber keinerlei kausale Kraft besitzen. Sie sind Epiphänomene – Begleiterscheinungen physischer Gehirnprozesse, die von diesen hervorgerufen werden, ohne ihrerseits auf das Physische einzuwirken. Das Bewusstsein verhält sich demnach zum Gehirn wie der Dampf zur Lokomotive: Es wird produziert, treibt aber nichts an.\n\nDie philosophischen Wurzeln des Epiphänomenalismus lassen sich bis zu Humes Analyse der Kausalität zurückverfolgen. Hume zeigte, dass wir Kausalbeziehungen niemals direkt beobachten, sondern nur regelmäßige Abfolgen von Ereignissen. Diese skeptische Grundhaltung gegenüber kausalen Beziehungen bereitete den Boden für die Idee, dass die scheinbare kausale Wirksamkeit des Bewusstseins eine Illusion sein könnte. Thomas Henry Huxley formulierte im 19. Jahrhundert die klassische Version des Epiphänomenalismus.\n\nDer Epiphänomenalismus stellt eine der provokantesten Positionen in der Philosophie des Geistes dar, da er die alltägliche Überzeugung untergräbt, dass unsere bewussten Entscheidungen unser Handeln bestimmen. Die Position wirft schwerwiegende Probleme für die Moralphilosophie auf, denn wenn Bewusstsein kausal unwirksam ist, scheinen Begriffe wie Verantwortung und freier Wille ihren Sinn zu verlieren. Dennoch finden sich in der modernen Neurowissenschaft Befunde, die zumindest eine partielle epiphänomenalistische Deutung nahelegen.",
+  "kernthesen": [
+    "Bewusstsein ist ein reales, aber kausal unwirksames Nebenprodukt physischer Gehirnprozesse.",
+    "Physische Ereignisse verursachen mentale Zustände, aber mentale Zustände verursachen keine physischen Veränderungen.",
+    "Die kausale Abgeschlossenheit der physischen Welt lässt keinen Raum für mentale Verursachung.",
+    "Unser Erleben, dass bewusste Entscheidungen Handlungen verursachen, ist eine Illusion.",
+    "Das Bewusstsein ist evolutionär gesehen ein Beiprodukt der Gehirnkomplexität ohne eigenständige Funktion."
+  ],
+  "hauptvertreter": ["david-hume"],
+  "entstehung": "Der Epiphänomenalismus wurde im 19. Jahrhundert von Thomas Henry Huxley systematisch formuliert, aufbauend auf Humes skeptischer Kausalitätsanalyse. Die Position gewann im Kontext des aufkommenden wissenschaftlichen Materialismus an Bedeutung, der alle Phänomene auf physische Ursachen zurückzuführen suchte.",
+  "kritik": "Die Hauptkritik richtet sich gegen die kontraintuitive Konsequenz, dass Bewusstsein kausal irrelevant sei – was der alltäglichen Erfahrung widerspricht. Zudem stellt sich die Frage, warum die Evolution ein kausal unwirksames Bewusstsein hervorgebracht haben sollte, da die natürliche Selektion nur kausale Merkmale begünstigt.",
+  "verwandteIsmen": ["materialismus", "dualismus"],
+  "schluesselwerke": [
+    {"titel": "Ein Traktat über die menschliche Natur", "autor": "David Hume", "jahr": "1739"},
+    {"titel": "On the Hypothesis that Animals are Automata", "autor": "Thomas Henry Huxley", "jahr": "1874"},
+    {"titel": "The Conscious Mind", "autor": "David Chalmers", "jahr": "1996"}
+  ]
+}

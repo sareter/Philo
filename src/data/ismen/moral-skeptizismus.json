@@ -1,0 +1,23 @@
+{
+  "slug": "moral-skeptizismus",
+  "name": "Moralischer Skeptizismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der moralische Skeptizismus bezweifelt die Möglichkeit objektiven moralischen Wissens. Er fragt, ob moralische Urteile überhaupt wahr oder falsch sein können und ob wir je gerechtfertigte moralische Überzeugungen haben.",
+  "ausfuehrlicheBeschreibung": "Der moralische Skeptizismus umfasst verschiedene Positionen, die gemeinsam haben, dass sie die Verlässlichkeit oder Möglichkeit moralischen Wissens in Frage stellen. In seiner stärksten Form bestreitet er, dass es überhaupt moralische Tatsachen gibt (moralischer Nihilismus), in seiner gemäßigten Form bezweifelt er lediglich, dass wir Zugang zu moralischen Wahrheiten haben, selbst wenn sie existieren sollten.\n\nHistorisch reicht der moralische Skeptizismus bis in die Antike zurück, etwa zu den pyrrhonischen Skeptikern, die auch in ethischen Fragen Urteilsenthaltung empfahlen. In der Neuzeit wurde er durch Humes Unterscheidung zwischen Sein und Sollen befeuert. Im 20. Jahrhundert entwickelten Denker wie J.L. Mackie mit seiner Irrtumstheorie und Gilbert Harman mit seinem moralischen Relativismus einflussreiche Spielarten des moralischen Skeptizismus.\n\nDer moralische Skeptizismus stellt eine fundamentale Herausforderung für die Ethik dar, da er die Grundlagen moralischer Argumentation selbst in Frage stellt. Er zwingt Moralphilosophen dazu, ihre epistemologischen Voraussetzungen zu klären und zu rechtfertigen, warum moralische Überzeugungen mehr sind als bloße subjektive Präferenzen oder kulturelle Konventionen.",
+  "kernthesen": [
+    "Es ist zweifelhaft, ob objektives moralisches Wissen möglich ist.",
+    "Moralische Urteile könnten bloße Ausdruck subjektiver Einstellungen sein.",
+    "Die Vielfalt moralischer Überzeugungen spricht gegen objektive moralische Wahrheiten.",
+    "Aus Tatsachen über die Welt lassen sich keine moralischen Normen ableiten.",
+    "Moralische Intuitionen sind keine verlässliche Quelle moralischen Wissens."
+  ],
+  "hauptvertreter": ["david-hume"],
+  "entstehung": "Der moralische Skeptizismus hat Wurzeln in der antiken pyrrhonischen Skepsis und wurde durch Humes Sein-Sollen-Dichotomie im 18. Jahrhundert entscheidend geprägt. J.L. Mackies 'Ethics: Inventing Right and Wrong' (1977) formulierte mit der Irrtumstheorie eine einflussreiche moderne Variante.",
+  "kritik": "Kritiker wenden ein, dass der moralische Skeptizismus sich selbst untergräbt, da er implizit moralische Maßstäbe voraussetzt. Zudem führe er zu einem praktischen Relativismus, der moralische Kritik an Unrecht unmöglich macht.",
+  "verwandteIsmen": ["skeptizismus", "relativismus", "emotivismus", "nihilismus", "amoralismus"],
+  "schluesselwerke": [
+    {"titel": "Ethics: Inventing Right and Wrong", "autor": "J.L. Mackie", "jahr": "1977"},
+    {"titel": "The Nature of Morality", "autor": "Gilbert Harman", "jahr": "1977"},
+    {"titel": "Moral Scepticism and Moral Knowledge", "autor": "Richard Joyce", "jahr": "2001"}
+  ]
+}

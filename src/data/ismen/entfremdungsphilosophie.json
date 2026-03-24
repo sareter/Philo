@@ -1,0 +1,23 @@
+{
+  "slug": "entfremdungsphilosophie",
+  "name": "Entfremdungsphilosophie",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Die Entfremdungsphilosophie analysiert die Entfremdung des Menschen von seiner Arbeit, seinen Mitmenschen und sich selbst als Grundbefund der modernen Gesellschaft. Sie sieht in der Entfremdung eine strukturelle Pathologie.",
+  "ausfuehrlicheBeschreibung": "Die Entfremdungsphilosophie macht den Begriff der Entfremdung zum Schlüssel für das Verständnis der modernen Gesellschaft. Entfremdung bezeichnet den Zustand, in dem der Mensch sich von dem, was ihm eigentlich zugehört – seiner Arbeit, seinen Produkten, seinen Mitmenschen, seinem Wesen – getrennt und ihm fremd gegenübergestellt findet.\n\nGeorg Wilhelm Friedrich Hegel führte den Begriff der Entfremdung in die Philosophie ein und beschrieb sie als notwendiges Moment der Selbstentwicklung des Geistes: Der Geist muss sich veräußerlichen und sich selbst fremd werden, um auf höherer Stufe zu sich zurückzukehren. Karl Marx wendete dieses Konzept materialistisch und zeigte, dass die kapitalistische Produktionsweise den Arbeiter vierfach entfremdet: von seinem Produkt, von seiner Tätigkeit, von seinem Gattungswesen und von seinen Mitmenschen.\n\nDie Entfremdungsphilosophie hat bis heute nicht an Aktualität verloren. In einer Welt zunehmender Digitalisierung, Bürokratisierung und Ökonomisierung aller Lebensbereiche nimmt die Entfremdung neue Formen an: Der Mensch wird zum Konsumenten seiner eigenen Daten, zum Produkt sozialer Medien und zum Objekt algorithmischer Steuerung.",
+  "kernthesen": [
+    "Der Mensch ist in der modernen Gesellschaft von seinem Wesen entfremdet",
+    "Die kapitalistische Produktionsweise erzeugt vierfache Entfremdung",
+    "Entfremdung ist eine strukturelle Pathologie, kein individuelles Versagen",
+    "Die Überwindung der Entfremdung erfordert eine Umgestaltung der Gesellschaft",
+    "Entfremdung nimmt in der modernen Welt immer neue Formen an"
+  ],
+  "hauptvertreter": ["karl-marx", "georg-wilhelm-friedrich-hegel"],
+  "entstehung": "Die Entfremdungsphilosophie entwickelte sich im 19. Jahrhundert aus Hegels Phänomenologie des Geistes (1807) und Marx' ökonomisch-philosophischen Manuskripten (1844). Die Industrialisierung und die sozialen Verwerfungen des Kapitalismus bildeten ihren gesellschaftlichen Hintergrund.",
+  "kritik": "Kritiker werfen der Entfremdungsphilosophie vor, sie setze ein essentialistisches Menschenbild voraus, indem sie ein wahres menschliches Wesen annimmt, von dem der Mensch entfremdet werden kann. Zudem wird die Frage gestellt, ob eine entfremdungsfreie Gesellschaft überhaupt möglich oder nur eine utopische Projektion ist.",
+  "verwandteIsmen": ["demokratischer-sozialismus", "libertaerer-sozialismus", "emotionaler-nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Phänomenologie des Geistes", "autor": "Georg Wilhelm Friedrich Hegel", "jahr": "1807"},
+    {"titel": "Ökonomisch-philosophische Manuskripte", "autor": "Karl Marx", "jahr": "1844"},
+    {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"}
+  ]
+}

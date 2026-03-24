@@ -1,0 +1,22 @@
+{
+  "slug": "kulturrelativismus",
+  "name": "Kulturrelativismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Kulturrelativismus betrachtet alle Kulturen als gleichwertig und lehnt die Bewertung einer Kultur nach den Maßstäben einer anderen ab. Kulturelle Praktiken sind nur im Kontext ihrer eigenen Kultur verständlich.",
+  "ausfuehrlicheBeschreibung": "Der Kulturrelativismus behauptet, dass kulturelle Praktiken, Werte und Überzeugungen nur im Kontext der jeweiligen Kultur verstanden und bewertet werden können. Es gibt keinen universellen Standpunkt, von dem aus Kulturen verglichen oder bewertet werden könnten – jeder solche Versuch ist selbst kulturell bedingt und daher partikular.\n\nMichel de Montaigne gilt als einer der frühesten Vertreter dieser Haltung: In seinen Essais reflektierte er über die Begegnung mit fremden Völkern und kam zu dem Schluss, dass das, was wir für barbarisch halten, oft nur das ist, was uns fremd ist. Die vermeintliche Überlegenheit der europäischen Zivilisation beruht nicht auf objektiver Überlegenheit, sondern auf Gewohnheit und Vorurteil.\n\nDer Kulturrelativismus hat eine wichtige kritische Funktion: Er entlarvt den Ethnozentrismus und die kulturelle Arroganz, mit der Gesellschaften ihre eigenen Werte für universal erklären. Gleichzeitig wirft er ein fundamentales Problem auf: Wenn alle kulturellen Praktiken gleichwertig sind, gibt es dann keine Möglichkeit mehr, Menschenrechtsverletzungen, Unterdrückung oder Gewalt in anderen Kulturen zu kritisieren?",
+  "kernthesen": [
+    "Alle Kulturen sind prinzipiell gleichwertig",
+    "Kulturelle Praktiken sind nur im Kontext ihrer Kultur verständlich",
+    "Es gibt keinen universellen Standpunkt zur Bewertung von Kulturen",
+    "Ethnozentrismus ist die Wurzel kultureller Arroganz",
+    "Das Fremde erscheint nur aufgrund von Gewohnheit und Vorurteil als barbarisch"
+  ],
+  "hauptvertreter": ["michel-de-montaigne"],
+  "entstehung": "Der Kulturrelativismus hat seine philosophischen Wurzeln in Montaignes Essais des 16. Jahrhunderts, wurde aber als systematische Position erst im 20. Jahrhundert von Kulturanthropologen wie Franz Boas und Melville Herskovits ausgearbeitet.",
+  "kritik": "Kritiker werfen dem Kulturrelativismus vor, er mache eine Kritik an Menschenrechtsverletzungen in anderen Kulturen unmöglich und führe zu einem moralischen Relativismus. Zudem wird die Frage gestellt, ob der Kulturrelativismus nicht selbst ein Produkt der westlichen Kultur ist und sich damit selbst relativiert.",
+  "verwandteIsmen": ["moralischer-relativismus", "sozialer-konstruktivismus", "ethischer-pluralismus"],
+  "schluesselwerke": [
+    {"titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580"},
+    {"titel": "Kulturrelativismus", "autor": "Melville Herskovits", "jahr": "1972"}
+  ]
+}

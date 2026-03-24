@@ -1,0 +1,23 @@
+{
+  "slug": "kritischer-realismus",
+  "name": "Kritischer Realismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Kritische Realismus behauptet, dass eine von uns unabhängige Wirklichkeit existiert, die wir jedoch nur fehlbar und annäherungsweise erkennen können. Realismus und Fallibilismus werden vereint.",
+  "ausfuehrlicheBeschreibung": "Der Kritische Realismus vereint zwei scheinbar gegenläufige Einsichten: Erstens existiert eine Wirklichkeit unabhängig von unserem Denken und Wahrnehmen (Realismus). Zweitens ist unser Zugang zu dieser Wirklichkeit stets fehlbar, theoriebeladen und revidierbar (Kritizismus). Karl Popper formulierte diese Position als Gegenentwurf sowohl zum naiven Realismus, der unsere Wahrnehmung für ein getreues Abbild der Wirklichkeit hält, als auch zum Idealismus, der die unabhängige Existenz der Wirklichkeit bestreitet.\n\nFür Popper nähern sich wissenschaftliche Theorien der Wahrheit an, ohne sie je endgültig zu erreichen. Der Begriff der Wahrheitsnähe (Verisimilitude) drückt diese Idee aus: Einsteins Theorie ist der Wahrheit näher als Newtons, obwohl auch sie eines Tages widerlegt werden könnte. Die Wirklichkeit fungiert als unabhängiger Maßstab, an dem sich unsere Theorien messen lassen müssen – auch wenn wir nie sicher sein können, diesen Maßstab getroffen zu haben.\n\nRoy Bhaskar entwickelte in den 1970er Jahren eine eigenständige Form des Kritischen Realismus, die in den Sozialwissenschaften großen Einfluss gewann. Bhaskar unterschied zwischen dem Realen (tieferliegende Strukturen und Mechanismen), dem Aktuellen (tatsächliche Ereignisse) und dem Empirischen (beobachtete Erfahrungen). Die Wissenschaft zielt darauf, die tieferliegenden Mechanismen zu entdecken, die unsere Erfahrungen hervorbringen.",
+  "kernthesen": [
+    "Eine von unserem Denken unabhängige Wirklichkeit existiert.",
+    "Unser Zugang zu dieser Wirklichkeit ist stets fehlbar und revidierbar.",
+    "Wissenschaftliche Theorien können sich der Wahrheit annähern, ohne sie endgültig zu erreichen.",
+    "Die Wirklichkeit besitzt tieferliegende Strukturen, die nicht direkt beobachtbar sind.",
+    "Naiver Realismus und Idealismus sind gleichermaßen unhaltbar."
+  ],
+  "hauptvertreter": ["karl-popper"],
+  "entstehung": "Der Kritische Realismus entwickelte sich im 20. Jahrhundert aus verschiedenen Quellen. Karl Poppers kritischer Rationalismus und Roy Bhaskars transzendentaler Realismus bilden die zwei Hauptstränge. Der amerikanische Kritische Realismus um Roy Wood Sellars und Arthur Lovejoy entstand bereits in den 1920er Jahren.",
+  "kritik": "Kritiker werfen dem Kritischen Realismus vor, dass der Begriff der Wahrheitsnähe formal nicht befriedigend definiert werden kann, wie Popper selbst einräumen musste. Zudem wird bemängelt, dass die Annahme einer unabhängigen Wirklichkeit selbst nicht empirisch überprüfbar ist und somit eine metaphysische Voraussetzung bleibt.",
+  "verwandteIsmen": ["realismus", "fallibilismus"],
+  "schluesselwerke": [
+    {"titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
+    {"titel": "A Realist Theory of Science", "autor": "Roy Bhaskar", "jahr": "1975"},
+    {"titel": "Objektive Erkenntnis", "autor": "Karl Popper", "jahr": "1972"}
+  ]
+}

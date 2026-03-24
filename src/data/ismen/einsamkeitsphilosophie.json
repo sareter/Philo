@@ -1,0 +1,23 @@
+{
+  "slug": "einsamkeitsphilosophie",
+  "name": "Einsamkeitsphilosophie",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Die Einsamkeitsphilosophie betrachtet die Einsamkeit als notwendige Bedingung für tiefe Erkenntnis und authentisches Selbstsein. Sie sieht im Rückzug von der Masse einen Weg zur Wahrheit.",
+  "ausfuehrlicheBeschreibung": "Die Einsamkeitsphilosophie erhebt die Einsamkeit vom bloßen Gefühlszustand zum philosophischen Prinzip. Sie behauptet, dass tiefe Erkenntnis und authentisches Selbstsein nur in der Abkehr von der Gesellschaft und ihren Konventionen möglich sind. Die Masse verdirbt das Denken, die Einsamkeit reinigt es.\n\nFriedrich Nietzsche pries die Einsamkeit als Voraussetzung für die Schaffung neuer Werte: Nur wer sich von der Herde löst, kann über die Herde hinauswachsen. Der Übermensch ist wesentlich einsam, denn seine Einsichten sind für die Vielen unerträglich. Søren Kierkegaard sah die Einsamkeit als den Ort, an dem der Einzelne vor Gott tritt und sich in der Angst seiner Freiheit bewusst wird. Für beide Denker war die Einsamkeit nicht Mangel, sondern Auszeichnung.\n\nDie Einsamkeitsphilosophie unterscheidet zwischen der ungewollten Verlassenheit und der gewählten Einsamkeit. Letztere ist ein aktiver Akt der Befreiung von gesellschaftlichen Erwartungen, Meinungen und Ablenkungen. In der selbstgewählten Einsamkeit begegnet der Mensch sich selbst in seiner ganzen Nacktheit – eine Erfahrung, die ebenso beängstigend wie befreiend ist.",
+  "kernthesen": [
+    "Einsamkeit ist eine notwendige Bedingung für tiefe Erkenntnis",
+    "Die Masse verdirbt das authentische Denken",
+    "Nur in der Abkehr von der Gesellschaft kann man über sie hinauswachsen",
+    "Gewählte Einsamkeit ist ein Akt der Befreiung",
+    "In der Einsamkeit begegnet der Mensch sich selbst in seiner ganzen Nacktheit"
+  ],
+  "hauptvertreter": ["friedrich-nietzsche", "soeren-kierkegaard"],
+  "entstehung": "Die Einsamkeitsphilosophie entwickelte sich im 19. Jahrhundert als Gegenbewegung zur zunehmenden Vermassung der Gesellschaft. Kierkegaards Einzelner und Nietzsches Zarathustra, der sich in die Bergeinsamkeit zurückzieht, sind ihre paradigmatischen Figuren.",
+  "kritik": "Kritiker werfen der Einsamkeitsphilosophie elitären Individualismus vor, der die soziale Natur des Menschen ignoriert. Zudem wird argumentiert, dass die Verherrlichung der Einsamkeit problematische psychische Folgen haben kann und die Bedeutung von Gemeinschaft und Dialog für die Erkenntnis unterschätzt.",
+  "verwandteIsmen": ["melancholismus", "aktiver-nihilismus", "angstphilosophie"],
+  "schluesselwerke": [
+    {"titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883"},
+    {"titel": "Entweder/Oder", "autor": "Søren Kierkegaard", "jahr": "1843"},
+    {"titel": "Die Krankheit zum Tode", "autor": "Søren Kierkegaard", "jahr": "1849"}
+  ]
+}

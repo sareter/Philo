@@ -1,0 +1,23 @@
+{
+  "slug": "agonistische-demokratie",
+  "name": "Agonistische Demokratie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die agonistische Demokratie versteht politische Konflikte nicht als zu überwindendes Problem, sondern als konstitutives Element demokratischen Lebens. Sie feiert den Wettstreit der Meinungen als Lebensnerv der Demokratie.",
+  "ausfuehrlicheBeschreibung": "Die agonistische Demokratie wurde maßgeblich durch Chantal Mouffe entwickelt und stellt eine Gegenposition zur deliberativen Demokratie von Habermas dar. Während Habermas auf rationalen Konsens zielt, argumentiert Mouffe, dass politische Konflikte und Leidenschaften nicht eliminiert werden können und sollen. Demokratie besteht nicht in der Überwindung von Antagonismen, sondern in ihrer Transformation in 'Agonismen' – legitimierte Formen des politischen Wettstreits. Hannah Arendts Verständnis von Politik als Raum des gemeinsamen Handelns und der Pluralität bildet eine wichtige Inspirationsquelle.\n\nArendt betonte, dass Politik dort beginnt, wo Menschen in ihrer Verschiedenheit zusammenkommen und gemeinsam handeln. Die agonistische Demokratie übernimmt diese Einsicht und argumentiert, dass eine Demokratie, die alle Konflikte durch rationale Verständigung auflösen will, die Pluralität des Politischen verkennt. Mouffe unterscheidet zwischen Antagonismus (Feindschaft, die die demokratische Ordnung bedroht) und Agonismus (legitimierter Wettstreit zwischen 'Gegnern', die die demokratischen Spielregeln teilen).\n\nDie agonistische Demokratie hat wichtige Impulse für das Verständnis populistischer Bewegungen, der Krise liberaler Demokratien und der Rolle von Leidenschaften in der Politik gegeben. Sie argumentiert, dass der neoliberale Konsens und die Verwischung politischer Unterschiede zwischen links und rechts den Aufstieg extremistischer Bewegungen begünstigt haben. Eine vitale Demokratie braucht echte politische Alternativen und leidenschaftliche Auseinandersetzung.",
+  "kernthesen": [
+    "Politische Konflikte sind kein Defizit, sondern das Lebenselement der Demokratie.",
+    "Konsens ist weder möglich noch wünschenswert – Demokratie lebt vom legitimierten Wettstreit.",
+    "Antagonismen müssen in Agonismen verwandelt werden – Feinde zu Gegnern.",
+    "Die Verdrängung politischer Konflikte führt zum Aufstieg extremistischer Bewegungen.",
+    "Demokratie braucht Leidenschaft und echte politische Alternativen, nicht technokratische Verwaltung."
+  ],
+  "hauptvertreter": ["hannah-arendt"],
+  "entstehung": "Die agonistische Demokratie wurde ab den 1990er Jahren durch Chantal Mouffes Werke entwickelt, insbesondere 'The Return of the Political' (1993) und 'The Democratic Paradox' (2000). Sie entstand als Kritik am deliberativen Demokratiemodell und am neoliberalen Konsens nach dem Ende des Kalten Krieges.",
+  "kritik": "Kritiker werfen der agonistischen Demokratie vor, die Grenze zwischen legitimem Agonismus und destruktivem Antagonismus nicht klar genug zu bestimmen. Zudem wird bemängelt, dass die Feier des Konflikts die Möglichkeit gemeinsamer Problemlösung und die Notwendigkeit von Kompromissen unterschätze.",
+  "verwandteIsmen": ["deliberative-demokratie", "republikanismus", "poststrukturalismus"],
+  "schluesselwerke": [
+    {"titel": "The Return of the Political", "autor": "Chantal Mouffe", "jahr": "1993"},
+    {"titel": "The Democratic Paradox", "autor": "Chantal Mouffe", "jahr": "2000"},
+    {"titel": "Vita activa", "autor": "Hannah Arendt", "jahr": "1958"}
+  ]
+}

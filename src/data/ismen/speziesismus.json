@@ -1,0 +1,23 @@
+{
+  "slug": "speziesismus",
+  "name": "Speziesismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Begriff Speziesismus bezeichnet die moralisch ungerechtfertigte Bevorzugung der eigenen Spezies gegenüber anderen empfindungsfähigen Wesen. Als kritisches Konzept deckt er die Willkür anthropozentrischer Ethik auf.",
+  "ausfuehrlicheBeschreibung": "Der Begriff Speziesismus wurde 1970 von dem Psychologen Richard Ryder geprägt und durch Peter Singer in seinem Werk „Animal Liberation“ (1975) philosophisch ausgearbeitet. Singer argumentiert in Analogie zu Rassismus und Sexismus: So wie die Zugehörigkeit zu einer bestimmten Rasse oder einem bestimmten Geschlecht keine moralisch relevanten Unterschiede begründet, so ist auch die bloße Zugehörigkeit zur menschlichen Spezies kein hinreichender Grund für eine privilegierte moralische Behandlung.\n\nDas entscheidende Kriterium moralischer Berücksichtigung ist nach Singer die Fähigkeit zu leiden, nicht die Zugehörigkeit zu einer biologischen Art. Ein leidensfähiges Tier hat ebenso Anspruch auf Berücksichtigung seiner Interessen wie ein Mensch. Der Speziesismus als kritischer Begriff macht sichtbar, dass die alltägliche Praxis der Massentierhaltung, der Tierversuche und der Jagd auf einem willkürlichen moralischen Doppelstandard beruht.\n\nDie Speziesismus-Kritik hat eine breite Debatte in der Tierethik und der angewandten Ethik ausgelöst. Befürworter argumentieren, dass konsequente moralische Gleichbehandlung den Veganismus und die Abschaffung der Tierausbeutung fordert. Gegner wie Carl Cohen verteidigen die moralische Sonderstellung des Menschen mit Verweis auf seine Rationalität, Moralfähigkeit und Autonomie.",
+  "kernthesen": [
+    "Die bloße Zugehörigkeit zur menschlichen Spezies begründet keinen moralischen Sonderstatus.",
+    "Die Fähigkeit zu leiden ist das entscheidende Kriterium moralischer Berücksichtigung.",
+    "Speziesismus ist strukturell analog zu Rassismus und Sexismus.",
+    "Die Interessen leidensfähiger Tiere verdienen gleichberechtigte Berücksichtigung.",
+    "Die gängige Praxis der Tierausbeutung ist moralisch nicht zu rechtfertigen."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Der Begriff Speziesismus wurde 1970 von Richard Ryder eingeführt und 1975 durch Peter Singers „Animal Liberation“ zum Schlüsselbegriff der Tierethik. Die utilitaristische Tradition Jeremy Benthams, der bereits im 18. Jahrhundert die Leidensfähigkeit von Tieren betonte, bildet den philosophischen Hintergrund.",
+  "kritik": "Kritiker argumentieren, dass die Analogie zu Rassismus und Sexismus fehlgeht, da Spezieszugehörigkeit – anders als Rasse und Geschlecht – mit relevanten Unterschieden wie Rationalität und Moralfähigkeit korreliert. Zudem wird eingewandt, dass die konsequente Anti-Speziesismus-Position zu kontraintuitiven Schlussfolgerungen führt.",
+  "verwandteIsmen": ["tierethik", "ethischer-naturalismus"],
+  "schluesselwerke": [
+    {"titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975"},
+    {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"},
+    {"titel": "The Case for Animal Rights", "autor": "Tom Regan", "jahr": "1983"}
+  ]
+}

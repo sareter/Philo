@@ -1,0 +1,23 @@
+{
+  "slug": "sentientismus",
+  "name": "Sentientismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Sentientismus ist die ethische Position, dass die Empfindungsfähigkeit (Sentience) das entscheidende Kriterium für moralische Berücksichtigung darstellt. Jedes Wesen, das leiden oder Freude empfinden kann, verdient moralische Rücksichtnahme.",
+  "ausfuehrlicheBeschreibung": "Der Sentientismus erweitert den Kreis der moralisch zu berücksichtigenden Wesen über die Grenzen der menschlichen Spezies hinaus. Die zentrale These lautet: Nicht die Zugehörigkeit zur Spezies Homo sapiens, sondern die Fähigkeit, Schmerz und Freude zu empfinden, begründet den moralischen Status eines Wesens. Peter Singer hat diese Position in seiner Tierethik am einflussreichsten vertreten und den Begriff des Speziesismus geprägt – die ungerechtfertigte Bevorzugung der eigenen Spezies analog zum Rassismus.\n\nSinger argumentiert auf utilitaristischer Grundlage: Wenn das Ziel der Moral in der Maximierung von Wohlbefinden und der Minimierung von Leiden besteht, dann gibt es keinen rationalen Grund, das Leiden eines Tieres weniger zu gewichten als das gleichartige Leiden eines Menschen. Dies bedeutet nicht, dass alle Wesen gleich behandelt werden müssen, wohl aber, dass gleiche Interessen gleich berücksichtigt werden sollen. Ein Schwein, das Schmerz empfinden kann, hat ein gleiches Interesse an der Vermeidung von Schmerz wie ein Mensch.\n\nDer Sentientismus hat weitreichende praktische Konsequenzen für die Tierethik, die Ernährungsethik und die Umweltpolitik. Er stellt die industrielle Massentierhaltung, Tierversuche und die Jagd grundsätzlich in Frage. In der gegenwärtigen Debatte wird der Sentientismus als Grundlage für eine erweiterte Menschenrechtskonzeption diskutiert, die auch Grundrechte für höher entwickelte Tiere einschließt.",
+  "kernthesen": [
+    "Empfindungsfähigkeit ist das einzig relevante Kriterium für moralische Berücksichtigung.",
+    "Speziesismus – die Bevorzugung der eigenen Spezies – ist ebenso unbegründet wie Rassismus oder Sexismus.",
+    "Gleiche Interessen verdienen gleiche Berücksichtigung, unabhängig von der Spezieszugehörigkeit.",
+    "Die industrielle Massentierhaltung ist eine der größten moralischen Katastrophen unserer Zeit.",
+    "Moralischer Fortschritt besteht in der schrittweisen Ausweitung des Kreises der moralisch Berücksichtigten."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Der Sentientismus hat philosophische Vorläufer bei Jeremy Bentham, der bereits im 18. Jahrhundert die Leidensfähigkeit als moralisches Kriterium benannte. Peter Singer begründete die moderne sentientistische Tierethik mit seinem einflussreichen Werk 'Animal Liberation' (1975) und verband utilitaristische Ethik mit der Forderung nach Tierrechten.",
+  "kritik": "Kritiker wenden ein, dass der Sentientismus die besonderen moralischen Beziehungen zwischen Menschen – etwa Familienbande oder Staatsbürgerschaft – unterbewertet. Zudem ist die Grenzziehung problematisch: Ab welchem Komplexitätsgrad besitzt ein Organismus morally relevante Empfindungsfähigkeit? Auch Pflanzen und Einzeller reagieren auf Reize.",
+  "verwandteIsmen": ["utilitarismus", "tierethik"],
+  "schluesselwerke": [
+    {"titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975"},
+    {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"},
+    {"titel": "The Point of View of the Universe", "autor": "Peter Singer", "jahr": "2014"}
+  ]
+}

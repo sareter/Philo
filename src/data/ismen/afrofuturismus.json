@@ -1,0 +1,23 @@
+{
+  "slug": "afrofuturismus",
+  "name": "Afrofuturismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Afrofuturismus verbindet afrikanische und afrodiasporische Kultur mit Science-Fiction, Technologie und Zukunftsvisionen. Er schafft alternative Narrative für schwarze Identität jenseits von Sklaverei und Unterdrückung.",
+  "ausfuehrlicheBeschreibung": "Der Afrofuturismus entstand als kulturelle und philosophische Bewegung in den 1990er Jahren, obwohl seine Wurzeln bis zu den Werken von Sun Ra, Octavia Butler und Samuel Delany in die Mitte des 20. Jahrhunderts zurückreichen. Der Begriff wurde 1993 von Mark Dery geprägt. Philosophisch hinterfragt der Afrofuturismus die eurozentrische Verengung von Zukunftsvorstellungen und eröffnet Räume, in denen schwarze Menschen als Akteure technologischer und gesellschaftlicher Zukunft auftreten – nicht als passive Opfer der Geschichte.\n\nDer Afrofuturismus verbindet afrikanische Mythologien, afrodiasporische Erfahrungen und technologische Spekulation zu einer neuen Erzählung über Vergangenheit, Gegenwart und Zukunft. Er teilt mit Hannah Arendts politischer Philosophie die Überzeugung, dass das Erzählen neuer Geschichten eine Form politischen Handelns ist: Wer neue Zukunftsvisionen entwirft, verändert die Gegenwart. Die Fähigkeit zu beginnen, Neues in die Welt zu bringen – Arendts 'Natalität' – wird im Afrofuturismus als kulturelle Praxis verstanden.\n\nIn Literatur, Musik, Film und bildender Kunst hat der Afrofuturismus eine reiche kreative Tradition hervorgebracht. Philosophisch bietet er Werkzeuge zur Kritik von Rassismus, zur Neubestimmung schwarzer Identität und zur Erweiterung des Vorstellungshorizonts. In der Gegenwart wird er zunehmend als Ressource für Debatten über Technologie, Gerechtigkeit und das Anthropozän wahrgenommen.",
+  "kernthesen": [
+    "Schwarze Menschen müssen als Akteure und Gestalter der Zukunft sichtbar werden.",
+    "Die Verknüpfung von afrikanischer Tradition und Technologie eröffnet neue Identitätsräume.",
+    "Zukunftsvisionen sind ein politisches Werkzeug gegen Rassismus und koloniale Erzählungen.",
+    "Die Vorstellungskraft ist eine Form des Widerstands gegen die Beschränkung auf Vergangenheitsnarrative.",
+    "Technologie und Wissenschaft können dekolonisiert und im Sinne schwarzer Befreiung genutzt werden."
+  ],
+  "hauptvertreter": ["hannah-arendt"],
+  "entstehung": "Der Afrofuturismus wurde als Begriff 1993 von Mark Dery geprägt, doch seine kulturellen Wurzeln reichen bis in die 1950er Jahre zurück. Sun Ras kosmische Musik, Octavia Butlers Science-Fiction und Samuel Delanys Literatur legten die Grundlage. Der Film 'Black Panther' (2018) machte afrofuturistische Ästhetik einem breiten Publikum zugänglich.",
+  "kritik": "Kritiker werfen dem Afrofuturismus vor, vorwiegend ein Phänomen der kulturellen Elite zu sein und die materiellen Probleme schwarzer Gemeinschaften zu ästhetisieren. Zudem wird die Frage gestellt, ob die Konzentration auf technologische Zukunft die Dringlichkeit gegenwärtiger sozialer Kämpfe relativiere.",
+  "verwandteIsmen": ["postkolonialismus", "afrikanische-philosophie", "solarpunk"],
+  "schluesselwerke": [
+    {"titel": "Black No More", "autor": "George Schuyler", "jahr": "1931"},
+    {"titel": "Kindred", "autor": "Octavia Butler", "jahr": "1979"},
+    {"titel": "Black to the Future", "autor": "Mark Dery", "jahr": "1993"}
+  ]
+}

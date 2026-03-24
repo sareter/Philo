@@ -1,0 +1,23 @@
+{
+  "slug": "polytheismus",
+  "name": "Polytheismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Polytheismus ist die religiös-philosophische Überzeugung, dass multiple göttliche Wesen existieren, die verschiedene Aspekte der Wirklichkeit verkörpern und regieren. Er spiegelt die Vielfalt und Komplexität der menschlichen Welterfahrung wider.",
+  "ausfuehrlicheBeschreibung": "Der Polytheismus bezeichnet den Glauben an die Existenz mehrerer Götter, die verschiedene Aspekte der Natur, der menschlichen Erfahrung und des kosmischen Geschehens repräsentieren. In der griechischen Antike, der geistigen Wiege der westlichen Philosophie, war der Polytheismus die vorherrschende religiöse Weltanschauung. Die olympischen Götter verkörperten verschiedene Kräfte und Dimensionen des Lebens: Zeus die Herrschaft, Athene die Weisheit, Aphrodite die Liebe, Ares den Krieg.\n\nPlaton stand zum Polytheismus seiner Zeit in einem komplexen Verhältnis. Einerseits kritisierte er die mythologischen Göttererzählungen, insbesondere die Darstellung der Götter als moralisch fragwürdig in Homers Epen. Andererseits entwickelte er in seinen späteren Werken eine kosmologische Theologie, die dem Kosmos Göttlichkeit zuschreibt und die Gestirne als göttliche Wesen betrachtet. Sein Demiurg im Timaios ist zwar ein einziger Schöpfergott, existiert aber neben anderen göttlichen Wesen.\n\nIn der gegenwärtigen Religionsphilosophie erfährt der Polytheismus eine Neubewertung. Gegen den Exklusivitätsanspruch des Monotheismus wird argumentiert, dass der Polytheismus die Vielfalt und Widersprüchlichkeit der menschlichen Erfahrung besser abbildet als der Glaube an einen einzigen, allumfassenden Gott. Der Polytheismus erlaubt Wertepluralismus und Toleranz, da verschiedene Götter verschiedene, teils widerstreitende Werte verkörpern können.",
+  "kernthesen": [
+    "Es existieren multiple göttliche Wesen, die verschiedene Aspekte der Wirklichkeit regieren.",
+    "Die Vielfalt der Götter spiegelt die Vielfalt und Komplexität der menschlichen Welterfahrung wider.",
+    "Verschiedene Götter verkörpern verschiedene, teils widerstreitende Werte und Kräfte.",
+    "Der Polytheismus ist toleranter als der Monotheismus, da er Pluralität im Göttlichen anerkennt.",
+    "Die kosmische Ordnung entsteht aus dem Zusammenspiel verschiedener göttlicher Mächte."
+  ],
+  "hauptvertreter": ["platon"],
+  "entstehung": "Der Polytheismus ist die älteste bekannte Form religiösen Glaubens und findet sich in nahezu allen frühen Kulturen. In der griechischen Philosophie wurde der Polytheismus von den Vorsokratikern, Platon und den Stoikern philosophisch reflektiert und teilweise rationalisiert. Die monotheistische Kritik am Polytheismus begann mit dem biblischen Prophetismus und der griechischen Naturphilosophie.",
+  "kritik": "Dem Polytheismus wird vorgeworfen, dass er keine letzte Einheit der Wirklichkeit begründen kann und in einem Pluralismus göttlicher Mächte verharrt, der keine konsistente Weltordnung ermöglicht. Philosophisch wurde der Polytheismus bereits in der Antike durch die Suche nach einem einheitlichen Weltprinzip in Frage gestellt.",
+  "verwandteIsmen": ["theismus", "animismus"],
+  "schluesselwerke": [
+    {"titel": "Timaios", "autor": "Platon", "jahr": "-360"},
+    {"titel": "Nomoi", "autor": "Platon", "jahr": "-347"},
+    {"titel": "Theogonie", "autor": "Hesiod", "jahr": "-700"}
+  ]
+}

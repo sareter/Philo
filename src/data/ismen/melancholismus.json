@@ -1,0 +1,22 @@
+{
+  "slug": "melancholismus",
+  "name": "Melancholismus",
+  "epoche": "Renaissance",
+  "kurzbeschreibung": "Der Melancholismus erhebt die Melancholie zur philosophischen Haltung und Erkenntnisquelle. Er sieht in der melancholischen Grundstimmung einen privilegierten Zugang zur Wahrheit des Daseins.",
+  "ausfuehrlicheBeschreibung": "Der Melancholismus betrachtet die Melancholie nicht als Krankheit oder Schwäche, sondern als eine tiefgreifende philosophische Disposition, die einen besonderen Zugang zur Wirklichkeit eröffnet. Seit der Antike wurde die Melancholie mit Genialität und tiefem Denken in Verbindung gebracht, doch erst in der Renaissance erhielt sie den Status einer eigenständigen philosophischen Haltung.\n\nMichel de Montaigne verkörperte diese Tradition in besonderer Weise: Sein Rückzug in den Turm, seine unablässige Selbstbefragung und seine skeptische Grundhaltung waren Ausdruck einer melancholischen Weltbetrachtung, die in der Vergänglichkeit aller Dinge und der Begrenztheit menschlichen Wissens ihren Ausgangspunkt nahm. Die Melancholie wurde bei ihm zur Methode einer schonungslosen Selbsterkenntnis.\n\nDer Melancholismus unterscheidet sich vom bloßen Pessimismus durch seine kontemplative Qualität: Er verneint die Welt nicht einfach, sondern betrachtet sie mit einer traurigen Zärtlichkeit, die das Vergängliche gerade in seiner Vergänglichkeit zu würdigen weiß. Die melancholische Haltung verbindet Trauer über die Endlichkeit mit einer tiefen Wertschätzung des Flüchtigen.",
+  "kernthesen": [
+    "Melancholie ist eine philosophische Erkenntnisquelle, keine Krankheit",
+    "Die melancholische Stimmung eröffnet einen privilegierten Zugang zur Wahrheit",
+    "Vergänglichkeit und Endlichkeit sind Grundstrukturen des Daseins",
+    "Selbsterkenntnis erfordert eine melancholische Grundhaltung",
+    "Das Vergängliche verdient traurige Wertschätzung"
+  ],
+  "hauptvertreter": ["michel-de-montaigne"],
+  "entstehung": "Der Melancholismus hat seine Wurzeln in der antiken Humoralpathologie und wurde in der Renaissance zu einer philosophisch-ästhetischen Haltung aufgewertet. Montaignes Essais und die Wiederentdeckung antiker Melancholie-Theorien trugen wesentlich zu dieser Entwicklung bei.",
+  "kritik": "Kritiker sehen im Melancholismus eine Ästhetisierung des Leidens, die reales Elend verharmlost. Zudem wird die Romantisierung der Melancholie als elitäre Geste kritisiert, die sich nur leisten kann, wer materiell abgesichert ist.",
+  "verwandteIsmen": ["weltschmerz-philosophie", "leidensphilosophie", "einsamkeitsphilosophie"],
+  "schluesselwerke": [
+    {"titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580"},
+    {"titel": "Anatomie der Melancholie", "autor": "Robert Burton", "jahr": "1621"}
+  ]
+}

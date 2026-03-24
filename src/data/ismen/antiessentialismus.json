@@ -1,0 +1,23 @@
+{
+  "slug": "antiessentialismus",
+  "name": "Antiessentialismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Antiessentialismus bestreitet, dass Dinge, Personen oder Kategorien eine feste, unveränderliche Essenz oder Natur besitzen. Identitäten und Bedeutungen sind vielmehr historisch, kulturell und sprachlich konstituiert.",
+  "ausfuehrlicheBeschreibung": "Der Antiessentialismus entwickelte sich im 20. Jahrhundert als grundlegende Kritik an der abendländischen Metaphysik, die seit Platon und Aristoteles nach dem unveränderlichen Wesen der Dinge gefragt hatte. Jean-Paul Sartre formulierte den existentialistischen Antiessentialismus in seinem berühmten Diktum: „Die Existenz geht der Essenz voraus.“ Der Mensch hat kein vorgegebenes Wesen, sondern schafft sich durch seine freien Entscheidungen selbst.\n\nJacques Derrida radikalisierte den Antiessentialismus durch seine dekonstruktive Methode. Er zeigte, dass alle Bedeutungen instabil sind und sich in einem endlosen Spiel der Differenzen (différance) auflösen. Es gibt kein transzendentales Signifikat, keine letzte Bedeutung hinter den Zeichen. Jeder Versuch, eine feste Essenz zu bestimmen, ist ein metaphysischer Gewaltakt, der Differenzen unterdrückt und Hierarchien etabliert.\n\nDer Antiessentialismus hat weitreichende Konsequenzen für die Sozial- und Kulturwissenschaften gehabt. In der Geschlechterforschung argumentiert Judith Butler, dass auch das biologische Geschlecht kulturell konstruiert ist. In der postkolonialen Theorie wird die Zuschreibung fester kultureller Identitäten als Ausdruck kolonialer Macht analysiert. Der Antiessentialismus befreit von starren Kategorien, steht aber vor der Herausforderung, ohne feste Grundlagen normative Urteile zu begründen.",
+  "kernthesen": [
+    "Dinge und Personen besitzen keine feste, unveränderliche Essenz oder Natur.",
+    "Die Existenz geht der Essenz voraus – der Mensch schafft sich durch seine Entscheidungen selbst.",
+    "Alle Bedeutungen sind instabil und kulturell sowie historisch bedingt.",
+    "Essentialistische Zuschreibungen dienen der Legitimation von Herrschaft und Ausschluss.",
+    "Identitäten sind Prozesse, keine festen Gegebenheiten."
+  ],
+  "hauptvertreter": ["jean-paul-sartre", "jacques-derrida"],
+  "entstehung": "Der Antiessentialismus entwickelte sich aus verschiedenen Quellen: Sartres Existentialismus der 1940er Jahre, Wittgensteins Spätphilosophie der Familienähnlichkeiten und Derridas Dekonstruktion der 1960er Jahre. Nietzsche gilt mit seiner Kritik an metaphysischen Wahrheiten als wichtiger Vorläufer.",
+  "kritik": "Kritiker werfen dem Antiessentialismus vor, sich selbst zu widersprechen, da die Behauptung, es gebe keine Essenzen, selbst eine essentialistische Aussage zu sein scheint. Zudem wird bemängelt, dass der Antiessentialismus politische Emanzipation erschwert, da Identitätskategorien wie „Frau“ oder „Arbeiterklasse“ zur Mobilisierung nötig sind.",
+  "verwandteIsmen": ["existenzialismus", "poststrukturalismus"],
+  "schluesselwerke": [
+    {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
+    {"titel": "Die Schrift und die Differenz", "autor": "Jacques Derrida", "jahr": "1967"},
+    {"titel": "Das Unbehagen der Geschlechter", "autor": "Judith Butler", "jahr": "1990"}
+  ]
+}

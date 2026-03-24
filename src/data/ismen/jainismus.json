@@ -1,0 +1,23 @@
+{
+  "slug": "jainismus",
+  "name": "Jainismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Jainismus ist eine indische Philosophie, die radikale Gewaltlosigkeit (Ahimsa), strenge Askese und die Befreiung der Seele aus dem Kreislauf der Wiedergeburt lehrt. Er vertritt einen strikten ethischen Pluralismus und die Heiligkeit allen Lebens.",
+  "ausfuehrlicheBeschreibung": "Der Jainismus geht auf Mahavira (ca. 599–527 v. Chr.) zurück und ist eine der ältesten Philosophien Indiens. Sein zentrales ethisches Prinzip ist Ahimsa – die absolute Gewaltlosigkeit gegenüber allen Lebewesen. Diese radikale Ethik der Nicht-Verletzung erstreckt sich auf Gedanken, Worte und Taten und geht in ihrer Konsequenz weit über andere Traditionen hinaus. Jainistische Mönche tragen Mundtücher, um keine Insekten einzuatmen, und fegen den Boden vor sich, um keine Lebewesen zu zertreten.\n\nPhilosophisch bedeutsam ist die jainistische Erkenntnistheorie des Anekantavada (Vielseitigkeit der Wahrheit), die lehrt, dass die Wirklichkeit von keinem einzelnen Standpunkt aus vollständig erfasst werden kann. Diese perspektivische Philosophie nimmt Aspekte des modernen Pluralismus und der Multiperspektivität vorweg. Die Metaphysik des Jainismus unterscheidet zwischen belebten (Jiva) und unbelebten (Ajiva) Substanzen und lehrt, dass die Seele durch Karma-Materie beschwert wird und nur durch Askese und ethische Reinheit Befreiung (Moksha) erlangen kann.\n\nDer Einfluss des Jainismus auf die indische Kultur zeigt sich in der vegetarischen Tradition und der Geschäftsethik. In der westlichen Philosophie finden sich Parallelen zu Peter Singers tierethischen Ansätzen, die das Prinzip der gleichen Interessenberücksichtigung auf alle empfindungsfähigen Wesen ausdehnen. Der jainistische Beitrag zur Umweltethik und zum Tierschutz gewinnt in der Gegenwart zunehmend an Bedeutung.",
+  "kernthesen": [
+    "Ahimsa (Gewaltlosigkeit) gegenüber allen Lebewesen ist das höchste ethische Gebot.",
+    "Die Wahrheit hat viele Seiten (Anekantavada) – kein Standpunkt erfasst die ganze Wirklichkeit.",
+    "Die Seele wird durch Karma-Materie beschwert und kann nur durch Askese befreit werden.",
+    "Alle Lebewesen besitzen eine Seele und verdienen Respekt und Schutz.",
+    "Strenge Selbstdisziplin und Askese sind der Weg zur Befreiung aus dem Kreislauf der Wiedergeburt."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Der Jainismus entstand im 6. Jahrhundert v. Chr. in Indien mit den Lehren Mahaviras, der als 24. Tirthankara (Wegbereiter) gilt. Die Tradition teilte sich später in die Schulen der Digambara und Shvetambara. Die philosophische Systematisierung erfolgte durch Denker wie Kundakunda und Umasvati.",
+  "kritik": "Kritiker sehen in der extremen Askese des Jainismus eine lebensfeindliche Haltung, die den Menschen überfordert. Zudem wird die strikte Gewaltlosigkeit als praxisfern kritisiert, da sie konsequent angewandt die Handlungsfähigkeit des Menschen radikal einschränke.",
+  "verwandteIsmen": ["buddhistische-philosophie", "hinduistische-philosophie", "pazifismus"],
+  "schluesselwerke": [
+    {"titel": "Tattvartha Sutra", "autor": "Umasvati", "jahr": "ca. 200 n. Chr."},
+    {"titel": "Acharanga Sutra", "autor": "Überliefert", "jahr": "ca. 300 v. Chr."},
+    {"titel": "Samayasara", "autor": "Kundakunda", "jahr": "ca. 200 n. Chr."}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "moralischer-relativismus",
+  "name": "Moralischer Relativismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der moralische Relativismus behauptet, dass moralische Urteile kulturabhängig sind und keine universelle Geltung beanspruchen können. Was als gut oder böse gilt, variiert von Kultur zu Kultur.",
+  "ausfuehrlicheBeschreibung": "Der moralische Relativismus vertritt die These, dass es keine universell gültigen moralischen Normen gibt. Was als richtig oder falsch, gut oder böse gilt, ist relativ zur jeweiligen Kultur, Gesellschaft oder historischen Epoche. Es gibt keinen archimedischen Punkt, von dem aus moralische Urteile objektiv gefällt werden könnten.\n\nMichel de Montaigne war einer der ersten europäischen Denker, der die Relativität moralischer Urteile systematisch reflektierte. In seinen Essais zeigte er, dass Praktiken, die in Europa als unmoralisch galten – etwa Kannibalismus –, in anderen Kulturen einen sinnvollen Platz hatten, während europäische Praktiken wie Folter und religiöse Verfolgung mindestens ebenso barbarisch waren. Diese Einsicht untergräbt jeden Anspruch auf moralische Überlegenheit.\n\nDer moralische Relativismus stellt die Ethik vor ein fundamentales Dilemma: Wenn es keine universellen moralischen Wahrheiten gibt, wie kann dann zwischen konkurrierenden moralischen Systemen entschieden werden? Der Relativist antwortet: gar nicht – und genau darin liegt die Herausforderung. Die Konsequenz ist entweder Toleranz gegenüber allen moralischen Systemen oder die Einsicht, dass moralische Überzeugungen letztlich auf nicht weiter begründbaren Entscheidungen beruhen.",
+  "kernthesen": [
+    "Es gibt keine universell gültigen moralischen Normen",
+    "Moralische Urteile sind relativ zur jeweiligen Kultur",
+    "Kein moralisches System kann objektive Überlegenheit beanspruchen",
+    "Die Relativität der Moral erfordert Toleranz",
+    "Moralische Überzeugungen beruhen auf nicht weiter begründbaren Entscheidungen"
+  ],
+  "hauptvertreter": ["michel-de-montaigne"],
+  "entstehung": "Der moralische Relativismus hat frühe Wurzeln in der antiken Sophistik und wurde von Montaigne in der Renaissance erneuert. Als systematische philosophische Position entfaltete er sich im 20. Jahrhundert im Zusammenhang mit der Kulturanthropologie und dem ethischen Pluralismus.",
+  "kritik": "Kritiker werfen dem moralischen Relativismus vor, er mache jede moralische Kritik unmöglich und führe zu einer Gleichgültigkeit gegenüber Unrecht. Zudem wird argumentiert, dass der Relativismus selbst einen universellen Anspruch erhebt – nämlich den, dass alle Moral relativ sei –, und sich damit selbst widerspricht.",
+  "verwandteIsmen": ["kulturrelativismus", "wertnihilismus", "ethischer-pluralismus", "non-kognitivismus"],
+  "schluesselwerke": [
+    {"titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580"},
+    {"titel": "Ethik und der Materialismus der Geschichte", "autor": "Karl Vorländer", "jahr": "1906"}
+  ]
+}

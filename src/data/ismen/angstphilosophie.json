@@ -1,0 +1,23 @@
+{
+  "slug": "angstphilosophie",
+  "name": "Angstphilosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Angstphilosophie untersucht die Angst als fundamentale philosophische Kategorie. Sie unterscheidet die gegenstandslose existenzielle Angst von der gewöhnlichen Furcht vor konkreten Bedrohungen.",
+  "ausfuehrlicheBeschreibung": "Die Angstphilosophie macht die Angst zum Schlüssel für das Verständnis der menschlichen Existenz. Im Gegensatz zur Furcht, die sich auf bestimmte Objekte oder Situationen richtet, ist die existenzielle Angst gegenstandslos: Sie bezieht sich auf das Dasein als Ganzes, auf die Möglichkeit des Nichts, auf die Freiheit und Verantwortung, die das Menschsein ausmachen.\n\nSøren Kierkegaard analysierte die Angst als den Schwindel der Freiheit: Der Mensch, der in die Tiefe seiner eigenen Möglichkeiten blickt, wird von Angst ergriffen, weil er erkennt, dass er für seine Wahl verantwortlich ist und keine Instanz ihm diese Last abnehmen kann. Martin Heidegger vertiefte diese Analyse und zeigte, dass die Angst das Dasein aus seiner Verfallenheit an das Man herausreißt und ihm seine eigentliche Existenz offenbart. In der Angst wird das Nichts erfahrbar, das dem Sein zugrunde liegt.\n\nDie Angstphilosophie betrachtet die Angst nicht als zu überwindendes Übel, sondern als kostbare Offenbarung. Sie enthüllt die Grundlosigkeit der menschlichen Existenz, die Kontingenz aller Werte und die unausweichliche Verantwortung des Einzelnen. Wer der Angst standhält, gewinnt eine tiefere Einsicht in das eigene Sein als derjenige, der vor ihr in die Zerstreuung flieht.",
+  "kernthesen": [
+    "Existenzielle Angst ist gegenstandslos und bezieht sich auf das Dasein als Ganzes",
+    "Angst ist der Schwindel der Freiheit",
+    "In der Angst wird das Nichts erfahrbar",
+    "Die Angst reißt den Menschen aus der Verfallenheit an das Man heraus",
+    "Angst ist keine Schwäche, sondern eine Offenbarung der Grundstruktur der Existenz"
+  ],
+  "hauptvertreter": ["martin-heidegger", "soeren-kierkegaard"],
+  "entstehung": "Die Angstphilosophie geht auf Kierkegaards Schrift Der Begriff Angst (1844) zurück und wurde von Heidegger in Sein und Zeit (1927) ontologisch vertieft. Die Erfahrungen von Krieg und gesellschaftlichem Umbruch im 20. Jahrhundert verliehen ihr zusätzliche Dringlichkeit.",
+  "kritik": "Kritiker werfen der Angstphilosophie vor, sie romantisiere einen pathologischen Zustand und verwechsle philosophische Tiefe mit psychischem Leid. Zudem wird bezweifelt, ob die Angst tatsächlich einen privilegierten Zugang zur Wahrheit eröffnet oder nicht vielmehr das Urteilsvermögen trübt.",
+  "verwandteIsmen": ["todesphilosophie", "enttaeuschungsphilosophie", "langeweilephilosophie", "einsamkeitsphilosophie"],
+  "schluesselwerke": [
+    {"titel": "Der Begriff Angst", "autor": "Søren Kierkegaard", "jahr": "1844"},
+    {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"},
+    {"titel": "Was ist Metaphysik?", "autor": "Martin Heidegger", "jahr": "1929"}
+  ]
+}

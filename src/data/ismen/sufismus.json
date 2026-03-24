@@ -1,0 +1,23 @@
+{
+  "slug": "sufismus",
+  "name": "Sufismus",
+  "epoche": "Mittelalter",
+  "kurzbeschreibung": "Der Sufismus ist die mystische Strömung des Islam, die durch innere Reinigung, Gottesliebe und ekstatische Erfahrung die unmittelbare Vereinigung mit dem Göttlichen anstrebt. Er verbindet islamische Theologie mit neuplatonischen Einflüssen.",
+  "ausfuehrlicheBeschreibung": "Der Sufismus (Tasawwuf) entwickelte sich ab dem 8. Jahrhundert als asketische und mystische Bewegung innerhalb des Islam. Sein Ziel ist die unmittelbare Gotteserfahrung (Ma'rifa) durch Reinigung des Herzens, Hingabe und Liebe. Der Name leitet sich möglicherweise von 'Suf' (Wolle) ab, dem einfachen Gewand der frühen Asketen. Philosophisch zeigt der Sufismus starke neuplatonische Einflüsse, insbesondere die Idee der Emanation und der Rückkehr der Seele zu ihrem göttlichen Ursprung, wie sie bei Plotin formuliert wurde.\n\nZentrale Konzepte sind Fana (die Auflösung des Selbst in Gott), die Stationen (Maqamat) und Zustände (Ahwal) des mystischen Weges sowie die Lehre von der Einheit des Seins (Wahdat al-Wujud), die Ibn Arabi im 13. Jahrhundert systematisierte. Rumi, Hafiz und Al-Ghazali gehören zu den bedeutendsten Vertretern, deren Werke mystische Poesie und philosophische Reflexion verbinden. Die Sufi-Orden (Tariqas) entwickelten verschiedene Praktiken wie Dhikr (Gottesgedenken) und Sama (spirituelles Hören).\n\nDer Sufismus hat die islamische Kultur in Literatur, Musik, Architektur und Philosophie tiefgreifend geprägt. In der westlichen Philosophie finden sich Parallelen zur christlichen Mystik, zum Neuplatonismus und zur Existenzphilosophie. In der Gegenwart wird der Sufismus als Quelle interreligiösen Dialogs und als spirituelle Antwort auf die Herausforderungen der Moderne wiederentdeckt.",
+  "kernthesen": [
+    "Die unmittelbare Gotteserfahrung steht über dem bloßen Befolgen äußerer religiöser Gesetze.",
+    "Fana – die Auflösung des Ego in Gott – ist das höchste Ziel des mystischen Weges.",
+    "Die göttliche Liebe ist die treibende Kraft der gesamten Schöpfung.",
+    "Alle Existenz ist letztlich eins mit Gott (Wahdat al-Wujud – Einheit des Seins).",
+    "Der mystische Weg führt über Stationen der Reinigung zur Erkenntnis und Vereinigung."
+  ],
+  "hauptvertreter": ["plotin"],
+  "entstehung": "Der Sufismus entstand im 8. Jahrhundert im Irak und in Persien als asketische Gegenbewegung zur zunehmenden Verweltlichung des islamischen Reiches. Frühe Mystikerinnen wie Rabia al-Adawiyya betonten die reine Gottesliebe. Im 12. und 13. Jahrhundert erreichte er mit Ibn Arabi und Rumi seinen philosophischen und literarischen Höhepunkt.",
+  "kritik": "Orthodoxe islamische Theologen kritisieren den Sufismus für seine pantheistischen Tendenzen, die die Grenze zwischen Schöpfer und Geschöpf verwischen. Zudem wird die Gefahr des Personenkults um charismatische Scheichs und die Vernachlässigung der Scharia bemängelt.",
+  "verwandteIsmen": ["mystizismus", "neuplatonismus", "pantheismus"],
+  "schluesselwerke": [
+    {"titel": "Fusus al-Hikam (Die Ringsteine der Weisheit)", "autor": "Ibn Arabi", "jahr": "1229"},
+    {"titel": "Masnavi", "autor": "Dschalal ad-Din Rumi", "jahr": "1273"},
+    {"titel": "Ihya Ulum ad-Din (Wiederbelebung der Religionswissenschaften)", "autor": "Al-Ghazali", "jahr": "1095"}
+  ]
+}

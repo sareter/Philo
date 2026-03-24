@@ -1,0 +1,23 @@
+{
+  "slug": "kosmismus",
+  "name": "Kosmismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Kosmismus betrachtet den Menschen als integralen Teil eines kosmischen Ganzen und betont die Verantwortung der Menschheit für die Gestaltung des Universums. Er verbindet idealistische Philosophie mit der Vision einer kosmischen Bestimmung des Menschen.",
+  "ausfuehrlicheBeschreibung": "Der Kosmismus entstand im 19. Jahrhundert als philosophische Strömung, die den Menschen nicht als isoliertes Wesen, sondern als bewussten Teil eines umfassenden kosmischen Zusammenhangs begreift. Hegels Idee des Weltgeistes, der sich durch die Geschichte verwirklicht, bildet eine wichtige philosophische Grundlage: Das Universum ist kein toter Mechanismus, sondern ein lebendiger Prozess, in dem der Geist zu sich selbst kommt.\n\nBesonders in Russland entwickelte sich der Kosmismus zu einer eigenständigen philosophischen Bewegung. Nikolai Fjodorow formulierte das kühne Projekt einer „gemeinsamen Sache“ der Menschheit: die Überwindung des Todes und die Auferweckung aller Verstorbenen durch Wissenschaft und Technik. Konstantin Ziolkowski verband kosmistisches Denken mit der Vision der Raumfahrt und sah in der Besiedlung des Weltalls die kosmische Bestimmung der Menschheit.\n\nDer Kosmismus vereint idealistische Metaphysik, technologischen Optimismus und ethischen Universalismus in einer einzigartigen Synthese. Er betont die kosmische Verantwortung des Menschen als bewusstes Wesen und fordert die aktive Gestaltung der Zukunft im Einklang mit den Gesetzen des Universums. In der Gegenwart finden sich kosmistische Motive im Transhumanismus und in der Debatte um die Zukunft der Menschheit im Weltraum.",
+  "kernthesen": [
+    "Der Mensch ist ein integraler Teil des kosmischen Ganzen und trägt kosmische Verantwortung.",
+    "Das Universum ist ein lebendiger Prozess, in dem Bewusstsein und Geist eine zentrale Rolle spielen.",
+    "Die Menschheit hat die Aufgabe, das Universum aktiv zu gestalten und zu humanisieren.",
+    "Wissenschaft und Technik sind Mittel zur Verwirklichung der kosmischen Bestimmung des Menschen.",
+    "Die Einheit von Mensch und Kosmos überwindet die Trennung von Geist und Natur."
+  ],
+  "hauptvertreter": ["georg-wilhelm-friedrich-hegel"],
+  "entstehung": "Der Kosmismus entwickelte sich im 19. Jahrhundert aus verschiedenen Quellen: Hegels Naturphilosophie, Schellings Identitätsphilosophie und der russischen religiösen Philosophie. Nikolai Fjodorow formulierte in den 1870er Jahren die radikalste Version als Philosophie der gemeinsamen Sache.",
+  "kritik": "Kritiker werfen dem Kosmismus vor, dass er utopische Technikbegeisterung mit metaphysischer Spekulation verbindet und dabei die realen Grenzen menschlicher Möglichkeiten ignoriert. Zudem wird bemängelt, dass der Kosmismus totalitäre Züge tragen kann, wenn er die Menschheit auf ein einziges kosmisches Ziel verpflichten will.",
+  "verwandteIsmen": ["idealismus", "pantheismus"],
+  "schluesselwerke": [
+    {"titel": "Phänomenologie des Geistes", "autor": "Georg Wilhelm Friedrich Hegel", "jahr": "1807"},
+    {"titel": "Die Philosophie der gemeinsamen Sache", "autor": "Nikolai Fjodorow", "jahr": "1906"},
+    {"titel": "Erforschung des Weltraums mit Rückstoßgeräten", "autor": "Konstantin Ziolkowski", "jahr": "1903"}
+  ]
+}

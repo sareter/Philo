@@ -1,0 +1,23 @@
+{
+  "slug": "xenofeminismus",
+  "name": "Xenofeminismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der Xenofeminismus ist eine techno-materialistische Form des Feminismus, die Technologie als Werkzeug der Befreiung von Geschlechternormen und sozialer Ungleichheit versteht und eine universale emanzipatorische Politik fordert.",
+  "ausfuehrlicheBeschreibung": "Der Xenofeminismus wurde 2015 durch das Kollektiv Laboria Cuboniks mit dem Manifest 'Xenofeminism: A Politics for Alienation' begründet. Er wendet sich gegen naturalistische Vorstellungen von Geschlecht und Biologie und fordert eine feministische Aneignung von Technologie, Wissenschaft und Abstraktion. Im Gegensatz zu ökofeministische Ansätzen, die eine natürliche Weiblichkeit betonen, versteht der Xenofeminismus Natur als etwas, das technologisch umgestaltet werden kann und soll – im Dienste der Befreiung.\n\nPhilosophisch knüpft der Xenofeminismus an Simone de Beauvoirs Einsicht an, dass man nicht als Frau geboren, sondern dazu gemacht wird, und radikalisiert sie: Wenn Geschlecht konstruiert ist, kann es auch technologisch dekonstruiert und neu gestaltet werden. Er verbindet diesen konstruktivistischen Ansatz mit einem Universalismus, der sich von identitätspolitischer Fragmentierung abgrenzt. Statt partikulare Identitäten zu feiern, fordert der Xenofeminismus eine universale Emanzipation, die Geschlecht, Rasse und Klasse gleichermaßen überwindet.\n\nDer Xenofeminismus hat Debatten über Biotechnologie, Reproduktionstechnologie und digitale Kultur angestoßen. Er bietet einen optimistischen, zukunftsgerichteten Rahmen für feministische Politik, der weder in Nostalgie für eine vormoderne Natürlichkeit noch in postmoderne Resignation verfällt. Seine Forderung nach 'Alienation' – Entfremdung als produktive Kraft – stellt herkömmliche feministische Strategien in Frage.",
+  "kernthesen": [
+    "Natur ist kein unveränderliches Schicksal – sie kann und soll technologisch umgestaltet werden.",
+    "Feministische Politik muss Technologie und Wissenschaft als Werkzeuge der Befreiung aneignen.",
+    "Geschlecht ist eine Konstruktion, die durch technologische und politische Intervention überwunden werden kann.",
+    "Universale Emanzipation hat Vorrang vor identitätspolitischer Fragmentierung.",
+    "Entfremdung (Alienation) ist keine Bedrohung, sondern eine produktive Kraft der Befreiung."
+  ],
+  "hauptvertreter": ["simone-de-beauvoir"],
+  "entstehung": "Der Xenofeminismus wurde 2015 durch das Kollektiv Laboria Cuboniks mit der Veröffentlichung ihres gleichnamigen Manifests begründet. Er entstand aus der Verbindung von Akzelerationismus, Cyberfeminismus und materialistischem Feminismus und reagiert auf die ökologische und technologische Transformation der Gegenwart.",
+  "kritik": "Kritiker werfen dem Xenofeminismus einen unkritischen Techno-Optimismus vor, der die Risiken technologischer Eingriffe in den menschlichen Körper unterschätzt. Zudem wird bemängelt, dass sein Universalismus die spezifischen Erfahrungen und Kämpfe marginalisierter Gruppen übergeht.",
+  "verwandteIsmen": ["feminismus", "cyberfeminismus", "transhumanismus"],
+  "schluesselwerke": [
+    {"titel": "Xenofeminism: A Politics for Alienation", "autor": "Laboria Cuboniks", "jahr": "2015"},
+    {"titel": "The Xenofeminist Manifesto", "autor": "Laboria Cuboniks", "jahr": "2018"},
+    {"titel": "Das andere Geschlecht", "autor": "Simone de Beauvoir", "jahr": "1949"}
+  ]
+}

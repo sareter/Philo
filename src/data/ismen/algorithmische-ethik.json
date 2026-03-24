@@ -1,0 +1,23 @@
+{
+  "slug": "algorithmische-ethik",
+  "name": "Algorithmische Ethik",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Die algorithmische Ethik untersucht die moralischen Fragen, die durch den Einsatz von Algorithmen in Entscheidungsprozessen entstehen, und entwickelt Prinzipien für einen ethisch verantwortungsvollen Umgang mit KI und automatisierten Systemen.",
+  "ausfuehrlicheBeschreibung": "Die algorithmische Ethik entstand als philosophische Disziplin im Zuge der zunehmenden Durchdringung aller Lebensbereiche durch algorithmische Entscheidungssysteme. Von der Kreditvergabe über strafrechtliche Risikoeinschätzungen bis zur Personalauswahl treffen Algorithmen Entscheidungen, die das Leben von Menschen grundlegend beeinflussen. Die algorithmische Ethik fragt, nach welchen Prinzipien diese Systeme gestaltet werden sollen und wer die Verantwortung für ihre Entscheidungen trägt.\n\nZentrale Themen sind algorithmische Fairness (Wie können Algorithmen Diskriminierung vermeiden?), Transparenz (Müssen algorithmische Entscheidungen erklärbar sein?), Verantwortung (Wer haftet für Fehler automatisierter Systeme?) und Autonomie (Dürfen Maschinen über Menschen entscheiden?). Peter Singers utilitaristische Ethik bietet einen wichtigen Bezugsrahmen: Wenn es darum geht, das größtmögliche Wohlergehen zu maximieren, könnten Algorithmen unter bestimmten Bedingungen besser geeignet sein als fehlbare menschliche Entscheider – doch die Frage, welche Werte in den Algorithmus eingehen, bleibt eine genuin ethische.\n\nDie algorithmische Ethik ist ein hochaktuelles Forschungsfeld, das Philosophie, Informatik, Rechtswissenschaft und Soziologie verbindet. Sie entwickelt Governance-Rahmenwerke, ethische Leitlinien und technische Verfahren zur Sicherstellung fairer und transparenter algorithmischer Systeme. Die EU-Verordnung zu Künstlicher Intelligenz spiegelt die praktische Relevanz dieser Debatten wider.",
+  "kernthesen": [
+    "Algorithmische Entscheidungssysteme müssen ethischen Grundsätzen wie Fairness und Transparenz genügen.",
+    "Diskriminierung durch Algorithmen reproduziert und verstärkt bestehende gesellschaftliche Ungleichheiten.",
+    "Die Verantwortung für algorithmische Entscheidungen kann nicht an Maschinen delegiert werden.",
+    "Automatisierte Systeme müssen erklärbar sein, damit Betroffene sie anfechten können.",
+    "Ethische Werte müssen bewusst in die Gestaltung algorithmischer Systeme einfließen."
+  ],
+  "hauptvertreter": ["peter-singer"],
+  "entstehung": "Die algorithmische Ethik entwickelte sich ab den 2010er Jahren, als die Auswirkungen von Big Data und maschinellem Lernen auf Gesellschaft und individuelle Rechte sichtbar wurden. Fälle algorithmischer Diskriminierung und die Debatte um autonomes Fahren machten die ethischen Fragen einer breiten Öffentlichkeit bewusst.",
+  "kritik": "Kritiker bemängeln, dass die algorithmische Ethik oft auf technische Lösungen für strukturelle Probleme setzt und die tieferliegenden Machtfragen ausblendet. Zudem wird die Gefahr gesehen, dass 'Ethikwashing' Unternehmen erlaubt, ethische Bedenken oberflächlich zu adressieren, ohne ihre Geschäftsmodelle grundlegend zu ändern.",
+  "verwandteIsmen": ["utilitarismus", "bioethik", "informationsphilosophie"],
+  "schluesselwerke": [
+    {"titel": "Weapons of Math Destruction", "autor": "Cathy O'Neil", "jahr": "2016"},
+    {"titel": "Automating Inequality", "autor": "Virginia Eubanks", "jahr": "2018"},
+    {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"}
+  ]
+}

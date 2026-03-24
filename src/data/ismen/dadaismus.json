@@ -1,0 +1,23 @@
+{
+  "slug": "dadaismus",
+  "name": "Dadaismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Dadaismus ist eine künstlerisch-philosophische Bewegung, die alle etablierten Konventionen in Kunst, Kultur und Gesellschaft radikal in Frage stellt. Er setzt Zufall, Nonsens und Provokation gegen die vermeintliche Rationalität der bürgerlichen Ordnung.",
+  "ausfuehrlicheBeschreibung": "Der Dadaismus entstand 1916 in Zürich als Reaktion auf den Ersten Weltkrieg und die Erkenntnis, dass die vermeintlich rationale und kultivierte europäische Zivilisation in beispiellose Barbarei münden kann. Die Dadaisten zogen daraus die radikale Konsequenz, alle kulturellen Konventionen – Kunst, Sprache, Logik, Moral – als Fassaden zu entlarven und durch absurde, provokative und zufällige Akte zu zerstören. Dada war Anti-Kunst, Anti-Philosophie, Anti-alles.\n\nPhilosophisch steht der Dadaismus in der Tradition von Nietzsches Umwertung aller Werte. Nietzsches Diagnose, dass die abendländischen Werte – Vernunft, Moral, Wahrheit, Fortschritt – ihre Überzeugungskraft verloren haben, wurde von den Dadaisten ins Extrem getrieben. Während Nietzsche eine Neubewertung anstrebte, begnügten sich die Dadaisten zunächst mit der destruktiven Phase: der totalen Negation aller bestehenden Werte und Ordnungen. Hugo Ball, Tristan Tzara und andere setzten auf den schöpferischen Zufall als Alternative zur gescheiterten Vernunft.\n\nDer Dadaismus hat die Kunst und Kultur des 20. Jahrhunderts nachhaltig verändert. Er bereitete den Surrealismus vor, beeinflusste die Fluxus-Bewegung und die Konzeptkunst und wirkt bis in die Gegenwartskunst fort. Philosophisch hat der Dadaismus die Frage aufgeworfen, ob nach dem Scheitern der rationalen Kultur eine Neugründung von Sinn möglich ist oder ob die Menschheit im Absurden verharren muss – eine Frage, die Camus und die Existenzialisten aufgriffen.",
+  "kernthesen": [
+    "Alle kulturellen Konventionen – Kunst, Sprache, Logik, Moral – sind Fassaden, die zerstört werden müssen.",
+    "Die vermeintliche Rationalität der Zivilisation hat in Barbarei und Krieg geführt und ist gescheitert.",
+    "Der Zufall und das Absurde sind ehrlichere Ausdrucksformen als die geordnete Vernunft.",
+    "Anti-Kunst ist die einzig angemessene Antwort auf eine Welt, die ihre Werte verloren hat.",
+    "Provokation und Nonsens entlarven die Hohlheit der bürgerlichen Kultur."
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der Dadaismus entstand 1916 im Cabaret Voltaire in Zürich, gegründet von Hugo Ball, Emmy Hennings, Tristan Tzara und anderen Künstlern, die vor dem Ersten Weltkrieg in die neutrale Schweiz geflohen waren. Die Bewegung breitete sich nach Berlin, New York, Paris und Köln aus und endete als organisierte Bewegung um 1924.",
+  "kritik": "Dem Dadaismus wird vorgeworfen, dass seine rein destruktive Haltung keine konstruktiven Alternativen bietet und in leerer Provokation verharrt. Die Zerstörung aller Werte und Konventionen kann selbst zur Konvention werden und verliert damit ihre subversive Kraft. Zudem ist die totale Negation von Sinn selbst eine sinnhafte Handlung und damit paradox.",
+  "verwandteIsmen": ["nihilismus", "absurdismus"],
+  "schluesselwerke": [
+    {"titel": "Die Geburt der Tragödie", "autor": "Friedrich Nietzsche", "jahr": "1872"},
+    {"titel": "Manifest Dada", "autor": "Tristan Tzara", "jahr": "1918"},
+    {"titel": "Die Flucht aus der Zeit", "autor": "Hugo Ball", "jahr": "1927"}
+  ]
+}

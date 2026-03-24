@@ -1,0 +1,23 @@
+{
+  "slug": "solarpunk",
+  "name": "Solarpunk",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Solarpunk ist eine philosophische und ästhetische Bewegung, die optimistische Zukunftsvisionen entwirft, in denen Technologie und Natur harmonisch koexistieren und nachhaltige, gerechte Gesellschaften möglich sind.",
+  "ausfuehrlicheBeschreibung": "Solarpunk entstand in den 2010er Jahren als Gegenbewegung zu dystopischen Zukunftsvisionen und verbindet ökologisches Denken mit technologischem Optimismus und sozialer Gerechtigkeit. Anders als der Cyberpunk, der dunkle Technologiezukünfte entwirft, imaginiert Solarpunk Gesellschaften, die erneuerbare Energien nutzen, Permakultur praktizieren und dezentrale, gemeinschaftliche Lebensformen pflegen. Philosophisch steht er in der Tradition von Thoreaus Naturphilosophie und der Überzeugung, dass ein einfaches, naturnahes Leben die höchste Form menschlicher Freiheit darstellt.\n\nDer Solarpunk verbindet Elemente des Umweltbewusstseins, der Do-it-yourself-Kultur, des Anarchismus und der sozialen Ökologie. Er versteht sich als präfigurative Politik – die Zukunft, die er entwirft, soll bereits in der Gegenwart gelebt werden. Seine Ästhetik vereint Jugendstil, organische Architektur und grüne Technologie zu Bildern blühender Städte, in denen Gebäude mit Pflanzen verwachsen und Solarenergie allgegenwärtig ist.\n\nAls philosophische Bewegung stellt Solarpunk die Frage, welche Zukunft wir uns vorstellen können und wollen. Er argumentiert, dass die Vorstellungskraft eine politische Kraft ist und dass optimistische Zukunftsbilder notwendig sind, um Menschen zum Handeln zu motivieren. In Zeiten der Klimakrise bietet er eine Alternative sowohl zum fatalistischen Nihilismus als auch zum blinden Techno-Optimismus.",
+  "kernthesen": [
+    "Optimistische Zukunftsvisionen sind notwendig, um gesellschaftlichen Wandel zu ermöglichen.",
+    "Technologie und Natur müssen nicht im Widerspruch stehen, sondern können harmonisch koexistieren.",
+    "Nachhaltige, dezentrale Gemeinschaften bilden die Grundlage einer gerechten Gesellschaft.",
+    "Die Vorstellungskraft ist eine politische Kraft – wer die Zukunft anders denkt, verändert die Gegenwart.",
+    "Ein einfaches, naturnahes Leben in Gemeinschaft ist die höchste Form menschlicher Freiheit."
+  ],
+  "hauptvertreter": ["henry-david-thoreau"],
+  "entstehung": "Solarpunk entstand Anfang der 2010er Jahre in Online-Communitys und verbreitete sich durch Tumblr, Reddit und erste Anthologien. Die brasilianische Anthologie 'Solarpunk: Histórias ecológicas e fantásticas' (2012) gilt als einer der frühesten Texte. Die Bewegung verbindet Literatur, Kunst, Aktivismus und Philosophie.",
+  "kritik": "Kritiker bemängeln, dass Solarpunk die strukturellen Hindernisse für eine ökologische Transformation unterschätzt und in naiven Optimismus verfällt. Zudem wird die Frage gestellt, ob ästhetische Zukunftsvisionen ohne systemische Analyse der Machtverhältnisse politisch wirksam sein können.",
+  "verwandteIsmen": ["oekologische-ethik", "anarchismus", "afrofuturismus"],
+  "schluesselwerke": [
+    {"titel": "Solarpunk: Histórias ecológicas e fantásticas", "autor": "Gerson Lodi-Ribeiro (Hrsg.)", "jahr": "2012"},
+    {"titel": "Walden", "autor": "Henry David Thoreau", "jahr": "1854"},
+    {"titel": "A Solarpunk Manifesto", "autor": "The Solarpunk Community", "jahr": "2019"}
+  ]
+}

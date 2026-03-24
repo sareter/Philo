@@ -1,0 +1,23 @@
+{
+  "slug": "egoismus",
+  "name": "Egoismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der philosophische Egoismus ist die Position, dass das Eigeninteresse das grundlegende Motiv menschlichen Handelns ist und sein sollte. Er unterscheidet zwischen dem psychologischen Egoismus als Beschreibung und dem ethischen Egoismus als Norm.",
+  "ausfuehrlicheBeschreibung": "Der philosophische Egoismus behauptet, dass das Streben nach dem eigenen Vorteil das zentrale Motiv menschlichen Handelns darstellt. Thomas Hobbes formulierte im 17. Jahrhundert die einflussreichste Version des psychologischen Egoismus: Im Naturzustand befindet sich jeder Mensch im Krieg gegen jeden, da alle von der Furcht vor dem Tod und dem Verlangen nach Macht getrieben werden. Selbst scheinbar altruistisches Handeln lässt sich nach Hobbes auf versteckte Eigeninteressen zurückführen.\n\nHobbes' Egoismus bildet die Grundlage seiner politischen Philosophie. Da die Menschen von Natur aus egoistisch sind, bedarf es eines starken Staates – des Leviathan –, der durch Zwang und Gesetze die destruktiven Konsequenzen des individuellen Eigeninteresses eindämmt. Der Gesellschaftsvertrag entsteht nicht aus Nächstenliebe, sondern aus dem rationalen Kalkül, dass die Unterwerfung unter eine Autorität dem Eigeninteresse besser dient als der chaotische Naturzustand.\n\nIn der modernen Philosophie wurde der ethische Egoismus von Ayn Rand in ihrer Philosophie des Objektivismus zu einer positiven Tugend erklärt. Die ökonomische Tradition seit Adam Smith versucht dagegen zu zeigen, dass das Verfolgen von Eigeninteressen unter geeigneten institutionellen Bedingungen zum Gemeinwohl beitragen kann. Die Debatte zwischen Egoismus und Altruismus bleibt eine der fundamentalsten Auseinandersetzungen der Moralphilosophie.",
+  "kernthesen": [
+    "Das Eigeninteresse ist das grundlegende Motiv allen menschlichen Handelns.",
+    "Im Naturzustand befindet sich jeder Mensch im Krieg gegen jeden.",
+    "Scheinbar altruistisches Handeln beruht letztlich auf verstecktem Eigeninteresse.",
+    "Der Staat ist notwendig, um die destruktiven Folgen des individuellen Egoismus einzudämmen.",
+    "Rationales Eigeninteresse kann unter geeigneten Bedingungen zum Gemeinwohl beitragen."
+  ],
+  "hauptvertreter": ["thomas-hobbes"],
+  "entstehung": "Der philosophische Egoismus hat antike Vorläufer bei den Sophisten und Epikureern, wurde aber von Thomas Hobbes im 17. Jahrhundert zur Grundlage einer systematischen politischen Philosophie gemacht. Sein Werk 'Leviathan' (1651) stellt die einflussreichste Formulierung des Zusammenhangs von Egoismus und Staatstheorie dar.",
+  "kritik": "Dem psychologischen Egoismus wird vorgeworfen, dass er unfalsifizierbar ist, da jede scheinbar selbstlose Handlung nachträglich als egoistisch umgedeutet werden kann. Der ethische Egoismus widerspricht der moralischen Intuition, dass wir Pflichten gegenüber anderen haben, und kann keine befriedigende Lösung für Interessenkonflikte bieten.",
+  "verwandteIsmen": ["libertarismus", "objektivismus"],
+  "schluesselwerke": [
+    {"titel": "Leviathan", "autor": "Thomas Hobbes", "jahr": "1651"},
+    {"titel": "De Cive", "autor": "Thomas Hobbes", "jahr": "1642"},
+    {"titel": "The Virtue of Selfishness", "autor": "Ayn Rand", "jahr": "1964"}
+  ]
+}

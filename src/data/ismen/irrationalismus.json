@@ -1,0 +1,23 @@
+{
+  "slug": "irrationalismus",
+  "name": "Irrationalismus",
+  "epoche": "19. Jahrhundert",
+  "kurzbeschreibung": "Der Irrationalismus stellt die Vorherrschaft der Vernunft als höchste Erkenntnisquelle in Frage und betont die Bedeutung von Gefühl, Intuition, Wille und Glaube. Er richtet sich gegen die rationalistische Tradition der Aufklärung.",
+  "ausfuehrlicheBeschreibung": "Der Irrationalismus ist eine philosophische Strömung, die sich gegen die Verabsolutierung der Vernunft als einziger oder vorrangiger Quelle der Erkenntnis wendet. Er entstand als Reaktion auf den Rationalismus der Aufklärung und den deutschen Idealismus, die das menschliche Dasein vollständig durch rationale Kategorien zu erfassen suchten. Kierkegaard betonte dagegen die existenzielle Dimension des Glaubens, der gerade dort beginnt, wo die Vernunft an ihre Grenzen stößt.\n\nFriedrich Nietzsche radikalisierte die irrationalistische Kritik, indem er die Vernunft selbst als Ausdruck eines Machtwillens entlarvte. Die vermeintlich objektiven Wahrheiten der Wissenschaft und Philosophie sind für Nietzsche Perspektiven, die bestimmten Lebensinteressen dienen. Die dionysische Dimension des Lebens – Rausch, Instinkt, Leidenschaft – wurde von der apollinischen Vernunftkultur zu Unrecht unterdrückt und muss wiederhergestellt werden.\n\nDer Irrationalismus hat die Philosophie des 20. Jahrhunderts nachhaltig beeinflusst. Die Lebensphilosophie Bergsons, die Existenzphilosophie Heideggers und die Psychoanalyse Freuds tragen irrationalistische Züge. Zugleich bleibt der Irrationalismus umstritten, da er in seiner radikalen Form die Möglichkeit rationaler Verständigung und wissenschaftlicher Erkenntnis zu untergraben droht und historisch auch für ideologische Zwecke missbraucht wurde.",
+  "kernthesen": [
+    "Die Vernunft ist nicht die höchste oder einzige Quelle menschlicher Erkenntnis.",
+    "Gefühl, Intuition, Wille und Glaube erschließen Dimensionen der Wirklichkeit, die dem rationalen Denken verschlossen bleiben.",
+    "Die rationalistische Aufklärung hat das menschliche Leben auf unzulässige Weise verengt und verflacht.",
+    "Existenzielle Wahrheiten lassen sich nicht in logische Systeme pressen, sondern müssen gelebt werden.",
+    "Die Vernunft selbst ist ein Produkt tieferliegender, irrationaler Kräfte wie Wille, Macht oder Trieb."
+  ],
+  "hauptvertreter": ["friedrich-nietzsche", "soeren-kierkegaard"],
+  "entstehung": "Der Irrationalismus entstand im 19. Jahrhundert als Gegenbewegung zum Rationalismus der Aufklärung und zum Systemdenken des deutschen Idealismus. Kierkegaard begründete den existenziellen Irrationalismus mit seiner Kritik an Hegels Vernunftsystem, während Nietzsche die genealogische Dekonstruktion der Vernunft vorantrieb.",
+  "kritik": "Dem Irrationalismus wird vorgeworfen, dass er in einen performativen Widerspruch gerät, da er mit rationalen Argumenten gegen die Vernunft argumentiert. Zudem besteht die Gefahr, dass der Verzicht auf rationale Standards die Tür für Willkür, Fanatismus und totalitäre Ideologien öffnet.",
+  "verwandteIsmen": ["existenzialismus", "romantizismus"],
+  "schluesselwerke": [
+    {"titel": "Die Geburt der Tragödie", "autor": "Friedrich Nietzsche", "jahr": "1872"},
+    {"titel": "Furcht und Zittern", "autor": "Søren Kierkegaard", "jahr": "1843"},
+    {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"}
+  ]
+}

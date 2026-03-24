@@ -1,0 +1,23 @@
+{
+  "slug": "neoliberalismus",
+  "name": "Neoliberalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Neoliberalismus betrachtet den freien Markt als die beste Ordnung für Wirtschaft und Gesellschaft. Er fordert Deregulierung, Privatisierung und die Zurückdrängung staatlicher Eingriffe.",
+  "ausfuehrlicheBeschreibung": "Der Neoliberalismus ist eine politisch-ökonomische Philosophie, die den freien Markt als das effizienteste und freiheitlichste System der Güterverteilung und gesellschaftlichen Koordination betrachtet. Er fordert die Zurückdrängung staatlicher Regulierung, die Privatisierung öffentlicher Einrichtungen und die Öffnung der Märkte für den freien Wettbewerb.\n\nAdam Smith legte mit seiner Theorie der unsichtbaren Hand die philosophische Grundlage für das Vertrauen in den Marktmechanismus: Wenn jeder Einzelne sein Eigeninteresse verfolgt, wird er von einer unsichtbaren Hand geleitet, die das Gemeinwohl befördert, ohne dass er dies beabsichtigt. Der Markt koordiniert die Handlungen von Millionen Menschen besser als jede zentrale Planung. Der Neoliberalismus des 20. Jahrhunderts radikalisierte diese Einsicht und wandte sie auf immer weitere Lebensbereiche an.\n\nDer Neoliberalismus hat die Weltwirtschaft seit den 1980er Jahren tiefgreifend geprägt. Seine Befürworter betonen die Freiheit des Individuums, die Effizienz des Marktes und den Wohlstand, den freier Handel schafft. Seine Kritiker sehen in ihm eine Ideologie, die soziale Ungleichheit verschärft, öffentliche Güter zerstört und die Demokratie dem Markt unterordnet.",
+  "kernthesen": [
+    "Der freie Markt ist das effizienteste System der Güterverteilung",
+    "Staatliche Regulierung behindert wirtschaftliche Freiheit und Effizienz",
+    "Privatisierung und Deregulierung fördern Wohlstand",
+    "Die unsichtbare Hand des Marktes koordiniert besser als zentrale Planung",
+    "Individuelle Freiheit ist das höchste politische Gut"
+  ],
+  "hauptvertreter": ["adam-smith"],
+  "entstehung": "Der Neoliberalismus entstand in den 1930er und 1940er Jahren als Erneuerung des klassischen Liberalismus und wurde seit den 1980er Jahren zur dominierenden wirtschaftspolitischen Doktrin. Adam Smiths Wohlstand der Nationen bildet die ideengeschichtliche Grundlage.",
+  "kritik": "Kritiker werfen dem Neoliberalismus vor, er verschärfe soziale Ungleichheit, untergrabe demokratische Institutionen und verwandle alle Lebensbereiche in Märkte. Zudem wird argumentiert, dass die Vorstellung eines sich selbst regulierenden Marktes eine Fiktion ist und dass Märkte ohne staatliche Regulierung zu Monopolen, Ausbeutung und Krisen neigen.",
+  "verwandteIsmen": ["ordoliberalismus", "kontraktarianismus", "ethischer-pluralismus"],
+  "schluesselwerke": [
+    {"titel": "Der Wohlstand der Nationen", "autor": "Adam Smith", "jahr": "1776"},
+    {"titel": "Der Weg zur Knechtschaft", "autor": "Friedrich August von Hayek", "jahr": "1944"},
+    {"titel": "Kapitalismus und Freiheit", "autor": "Milton Friedman", "jahr": "1962"}
+  ]
+}

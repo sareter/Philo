@@ -1,0 +1,23 @@
+{
+  "slug": "animismus",
+  "name": "Animismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Animismus ist die philosophische und religiöse Auffassung, dass alle Dinge – auch scheinbar unbelebte Objekte wie Steine, Flüsse und Bäume – eine Seele oder einen belebenden Geist besitzen. Er stellt eine der ältesten Weltanschauungen der Menschheit dar.",
+  "ausfuehrlicheBeschreibung": "Der Animismus bezeichnet die Überzeugung, dass die gesamte Natur von geistigen Wesen, Seelen oder belebenden Kräften durchdrungen ist. Diese Weltanschauung findet sich in nahezu allen frühen Kulturen und stellt möglicherweise die älteste Form religiösen und philosophischen Denkens dar. In der griechischen Philosophie vertrat bereits Thales die Ansicht, dass alle Dinge voller Götter seien, und Platon entwickelte in seinem Spätwerk das Konzept einer Weltseele, die den gesamten Kosmos beseelt und ihm Ordnung verleiht.\n\nPlatons Timaios enthält die ausführlichste animistische Kosmologie der antiken Philosophie. Der Demiurg erschafft die Weltseele als vermittelndes Prinzip zwischen der Ideenwelt und der materiellen Welt. Diese Weltseele durchdringt den gesamten Kosmos und verleiht ihm Vernunft, Leben und Bewegung. Damit geht Platon über einen naiven Animismus hinaus und entwickelt eine philosophisch reflektierte Version, die das Beseelte mit dem Vernünftigen verbindet.\n\nIn der modernen Anthropologie wurde der Begriff Animismus von Edward Tylor geprägt, der ihn als die früheste Form der Religion beschrieb. In der gegenwärtigen Philosophie erlebt der Animismus eine Neubewertung durch die ökologische Philosophie und die Diskussion über Tierrechte und die Rechte der Natur. Die Frage, ob die Natur als beseelt oder als bloßer Mechanismus zu betrachten ist, hat direkte Konsequenzen für den Umgang des Menschen mit seiner Umwelt.",
+  "kernthesen": [
+    "Alle Dinge in der Natur – auch scheinbar unbelebte – besitzen eine Seele oder einen belebenden Geist.",
+    "Die Welt ist ein lebendiger Organismus, nicht eine tote Maschine.",
+    "Zwischen Menschen und der übrigen Natur besteht eine geistige Verwandtschaft und Verbundenheit.",
+    "Die Weltseele durchdringt den gesamten Kosmos und verleiht ihm Ordnung und Sinn.",
+    "Der respektvolle Umgang mit der Natur folgt aus der Anerkennung ihrer Beseeltheit."
+  ],
+  "hauptvertreter": ["platon"],
+  "entstehung": "Der Animismus ist die älteste bekannte Weltanschauung der Menschheit und findet sich in allen frühen Kulturen. In der philosophischen Tradition wurde er durch Thales, Platon und die neuplatonische Tradition reflektiert und systematisiert. Edward Tylor prägte den Begriff 1871 in seiner Analyse primitiver Religionsformen.",
+  "kritik": "Dem Animismus wird vorgeworfen, dass er eine ungerechtfertigte Projektion menschlicher Eigenschaften auf die Natur darstellt und durch die moderne Naturwissenschaft widerlegt ist. Die Zuschreibung von Seelen an Steine oder Flüsse erscheint als vorwissenschaftlicher Anthropomorphismus, der keiner empirischen Überprüfung standhält.",
+  "verwandteIsmen": ["panpsychismus", "mystizismus"],
+  "schluesselwerke": [
+    {"titel": "Timaios", "autor": "Platon", "jahr": "-360"},
+    {"titel": "Nomoi", "autor": "Platon", "jahr": "-347"},
+    {"titel": "Primitive Culture", "autor": "Edward Tylor", "jahr": "1871"}
+  ]
+}

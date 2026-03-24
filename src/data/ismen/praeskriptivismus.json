@@ -1,0 +1,23 @@
+{
+  "slug": "praeskriptivismus",
+  "name": "Präskriptivismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Präskriptivismus betrachtet moralische Urteile als Vorschriften oder Imperative, die zum Handeln auffordern. Moralische Aussagen beschreiben nicht die Welt, sondern schreiben vor, wie gehandelt werden soll.",
+  "ausfuehrlicheBeschreibung": "Der Präskriptivismus ist eine metaethische Position, die moralische Urteile primär als Vorschriften versteht. Wenn jemand sagt «Das ist gut» oder «Du sollst nicht lügen», dann beschreibt er nicht eine Eigenschaft der Welt, sondern gibt eine Handlungsanweisung. Moralische Urteile sind demnach keine Aussagen, die wahr oder falsch sein können, sondern Imperative, die zum Handeln auffordern.\n\nImmanuel Kant legte mit seiner Pflichtethik die philosophische Grundlage für ein präskriptivistisches Verständnis der Moral: Der kategorische Imperativ ist keine Beschreibung dessen, was Menschen tun, sondern eine Vorschrift dessen, was sie tun sollen. Moral besteht nicht in Feststellungen über die Welt, sondern in Geboten der Vernunft, die unbedingte Geltung beanspruchen. Die Pflicht, nicht das Faktum, ist der Grundbegriff der Ethik.\n\nDer Präskriptivismus wurde im 20. Jahrhundert von R. M. Hare weiterentwickelt, der zeigte, dass moralische Urteile universalisierbar sein müssen: Wer ein moralisches Urteil fällt, verpflichtet sich dazu, in allen vergleichbaren Situationen gleich zu urteilen. Diese Universalisierbarkeit unterscheidet moralische Vorschriften von bloßen persönlichen Präferenzen und verleiht ihnen eine rationale Struktur.",
+  "kernthesen": [
+    "Moralische Urteile sind Vorschriften, keine Beschreibungen",
+    "Moral besteht in Geboten der Vernunft mit unbedingter Geltung",
+    "Moralische Urteile müssen universalisierbar sein",
+    "Die Pflicht ist der Grundbegriff der Ethik",
+    "Wer moralisch urteilt, verpflichtet sich zu konsistentem Handeln"
+  ],
+  "hauptvertreter": ["immanuel-kant"],
+  "entstehung": "Der Präskriptivismus hat seine philosophischen Wurzeln in Kants Pflichtethik und wurde im 20. Jahrhundert von R. M. Hare in seiner Sprache der Moral (1952) zu einer systematischen metaethischen Position ausgebaut.",
+  "kritik": "Kritiker werfen dem Präskriptivismus vor, er reduziere die Moral auf bloße Befehle und könne nicht erklären, warum bestimmte Vorschriften gelten sollen und andere nicht. Zudem wird die Frage gestellt, ob moralische Urteile nicht auch eine beschreibende Komponente haben, die der Präskriptivismus unterschlägt.",
+  "verwandteIsmen": ["gesinnungsethik", "ethischer-non-naturalismus", "non-kognitivismus"],
+  "schluesselwerke": [
+    {"titel": "Grundlegung zur Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1785"},
+    {"titel": "Die Sprache der Moral", "autor": "Richard Mervyn Hare", "jahr": "1952"},
+    {"titel": "Moralisches Denken", "autor": "Richard Mervyn Hare", "jahr": "1981"}
+  ]
+}

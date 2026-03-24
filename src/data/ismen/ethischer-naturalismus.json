@@ -1,0 +1,23 @@
+{
+  "slug": "ethischer-naturalismus",
+  "name": "Ethischer Naturalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der ethische Naturalismus leitet moralische Normen aus der Natur des Menschen ab. Was gut ist, ergibt sich aus der natürlichen Bestimmung und dem Gedeihen des Menschen als biologisches und soziales Wesen.",
+  "ausfuehrlicheBeschreibung": "Der ethische Naturalismus behauptet, dass moralische Eigenschaften natürliche Eigenschaften sind und dass moralisches Wissen auf dem gleichen Wege gewonnen werden kann wie Wissen über die Natur. Was gut ist für den Menschen, lässt sich aus seiner Natur – seinen natürlichen Bedürfnissen, Fähigkeiten und Zwecken – ableiten.\n\nAristoteles legte die philosophische Grundlage für den ethischen Naturalismus mit seiner Tugendethik: Das Gute für den Menschen besteht in der Verwirklichung seiner natürlichen Anlagen, insbesondere der Vernunft. Ein gutes Leben ist ein Leben, in dem die spezifisch menschlichen Fähigkeiten zur Entfaltung kommen – ein Leben der Tugend, der Freundschaft und der theoretischen Betrachtung. Die Natur des Menschen gibt den Maßstab für die Ethik vor.\n\nDer ethische Naturalismus erlebte im 20. Jahrhundert eine Renaissance durch die Wiederbelebung der aristotelischen Tugendethik. Philosophen wie Philippa Foot und Alasdair MacIntyre argumentierten, dass moralische Bewertungen nicht wesensverschieden von Bewertungen in der Biologie sind: So wie eine gute Eiche diejenige ist, die ihre natürlichen Funktionen gut erfüllt, ist ein guter Mensch derjenige, der seine natürlichen Anlagen im Rahmen einer Gemeinschaft verwirklicht.",
+  "kernthesen": [
+    "Moralische Normen lassen sich aus der Natur des Menschen ableiten",
+    "Das Gute für den Menschen besteht in der Verwirklichung seiner natürlichen Anlagen",
+    "Moralische Eigenschaften sind natürliche Eigenschaften",
+    "Tugend ist die Entfaltung spezifisch menschlicher Fähigkeiten",
+    "Moralisches Wissen ist prinzipiell auf dem gleichen Wege wie Naturwissen zugänglich"
+  ],
+  "hauptvertreter": ["aristoteles"],
+  "entstehung": "Der ethische Naturalismus hat seine Wurzeln in der aristotelischen Tugendethik der Antike und erlebte im 20. Jahrhundert eine Wiederbelebung durch die Arbeiten von Philippa Foot, Alasdair MacIntyre und anderen Vertretern der Neo-Aristotelischen Ethik.",
+  "kritik": "Kritiker verweisen auf den naturalistischen Fehlschluss: Aus der Beschreibung dessen, was ist, kann nicht geschlossen werden, was sein soll. Zudem wird die Frage gestellt, wessen Natur als Maßstab dienen soll und ob der Begriff einer menschlichen Natur nicht selbst kulturell konstruiert ist.",
+  "verwandteIsmen": ["naturalistische-erkenntnistheorie", "ethischer-non-naturalismus", "care-ethik"],
+  "schluesselwerke": [
+    {"titel": "Nikomachische Ethik", "autor": "Aristoteles", "jahr": "-335"},
+    {"titel": "Die Natur des Guten", "autor": "Philippa Foot", "jahr": "2001"},
+    {"titel": "Der Verlust der Tugend", "autor": "Alasdair MacIntyre", "jahr": "1981"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "akademischer-skeptizismus",
+  "name": "Akademischer Skeptizismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Akademische Skeptizismus ist die skeptische Philosophie der platonischen Akademie, die unter Arkesilaos und Karneades die Position vertrat, dass sicheres Wissen unmöglich sei und wir uns mit Wahrscheinlichkeit begnügen müssen.",
+  "ausfuehrlicheBeschreibung": "Der Akademische Skeptizismus entstand im 3. Jahrhundert v. Chr., als Arkesilaos die Leitung der platonischen Akademie übernahm und eine skeptische Wende vollzog. Er berief sich auf Sokrates' berühmtes Bekenntnis des Nichtwissens und Platons dialektische Methode, um zu zeigen, dass alle dogmatischen Wahrheitsansprüche unhaltbar sind. Im Unterschied zum Pyrrhonismus vertrat der Akademische Skeptizismus jedoch die positive These, dass sicheres Wissen unmöglich sei.\n\nKarneades entwickelte die akademische Skepsis weiter, indem er eine Theorie der Wahrscheinlichkeit (Pithanon) formulierte. Da Gewissheit unerreichbar sei, müsse der Weise sich auf wahrscheinliche Vorstellungen stützen und zwischen verschiedenen Graden der Überzeugungskraft unterscheiden. Diese Position erlaubt praktisches Handeln und rationale Entscheidung, ohne endgültige Wahrheitsansprüche zu erheben.\n\nDer Akademische Skeptizismus hatte enormen Einfluss auf die antike und neuzeitliche Philosophie. Cicero vermittelte die akademische Skepsis an die lateinische Welt und betonte ihre Vereinbarkeit mit praktischer Vernunft. In der Neuzeit inspirierten die akademischen Skeptiker Descartes' methodischen Zweifel und Humes empiristischen Skeptizismus. Die Unterscheidung zwischen absolutem Wissen und begründeter Überzeugung bleibt bis heute erkenntnistheoretisch relevant.",
+  "kernthesen": [
+    "Sicheres Wissen über die Natur der Dinge ist dem Menschen nicht möglich.",
+    "Wahrscheinlichkeit und begründete Überzeugung sind die besten verfügbaren Erkenntnisformen.",
+    "Alle dogmatischen Systeme scheitern an der Unmöglichkeit letzter Begründung.",
+    "Sokrates' Bekenntnis des Nichtwissens ist der Ausgangspunkt wahren Philosophierens.",
+    "Praktisches Handeln ist auf der Grundlage wahrscheinlicher Überzeugungen möglich und vernünftig."
+  ],
+  "hauptvertreter": ["platon"],
+  "entstehung": "Der Akademische Skeptizismus begann mit Arkesilaos' Leitung der platonischen Akademie um 265 v. Chr. und erreichte seinen Höhepunkt unter Karneades im 2. Jahrhundert v. Chr. Cicero überlieferte die akademische Skepsis in seinen Academica (45 v. Chr.) für die Nachwelt.",
+  "kritik": "Kritiker, insbesondere die Pyrrhonisten, warfen dem Akademischen Skeptizismus vor, selbst dogmatisch zu sein, da die Behauptung der Unmöglichkeit von Wissen bereits eine positive Wissensbehauptung darstellt. Die Stoiker argumentierten zudem, dass die akademische Skepsis die Grundlagen der Moral und des praktischen Lebens untergrabe.",
+  "verwandteIsmen": ["skeptizismus", "pyrrhonismus"],
+  "schluesselwerke": [
+    {"titel": "Academica", "autor": "Marcus Tullius Cicero", "jahr": "-45"},
+    {"titel": "Gegen die Dogmatiker", "autor": "Sextus Empiricus", "jahr": "200"},
+    {"titel": "De Natura Deorum", "autor": "Marcus Tullius Cicero", "jahr": "-45"}
+  ]
+}

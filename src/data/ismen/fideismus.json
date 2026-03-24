@@ -1,0 +1,23 @@
+{
+  "slug": "fideismus",
+  "name": "Fideismus",
+  "epoche": "Mittelalter",
+  "kurzbeschreibung": "Der Fideismus ist die philosophisch-theologische Position, die dem Glauben den Vorrang vor der Vernunft einräumt. Religiöse Wahrheiten sind nicht durch rationale Argumente zugänglich, sondern erfordern einen Sprung des Glaubens.",
+  "ausfuehrlicheBeschreibung": "Der Fideismus vertritt die These, dass die fundamentalsten Wahrheiten – insbesondere religiöse und existenzielle – nicht durch die Vernunft erreicht werden können, sondern einen Akt des Glaubens erfordern. Diese Position richtet sich gegen den theologischen Rationalismus, der meint, die Existenz Gottes und religiöse Dogmen durch logische Argumente beweisen zu können. Søren Kierkegaard formulierte die einflussreichste Version des modernen Fideismus mit seinem Konzept des Sprungs in den Glauben.\n\nKierkegaard argumentierte, dass der christliche Glaube seinem Wesen nach paradox ist und sich der rationalen Durchdringung entzieht. Die Menschwerdung Gottes – dass das Ewige in die Zeit eintritt, dass das Unendliche endlich wird – ist ein Ärgernis für die Vernunft, das nur durch einen leidenschaftlichen, persönlichen Glaubensakt angenommen werden kann. Blaise Pascal hatte bereits im 17. Jahrhundert ähnlich argumentiert: Das Herz hat seine Gründe, die die Vernunft nicht kennt. Pascals berühmte Wette zeigt, dass der Glaube an Gott auch pragmatisch die vernünftigere Option ist.\n\nDer Fideismus hat eine lange Geschichte in der christlichen Theologie, von Tertullians 'Credo quia absurdum' über die mittelalterliche Mystik bis zu Karl Barths dialektischer Theologie im 20. Jahrhundert. Er stellt eine der fundamentalsten Fragen der Philosophie: Welche Rolle spielt die Vernunft in Bereichen, die über die empirische Erfahrung hinausgehen? Die Antwort des Fideismus – dass die Vernunft hier an ihre Grenzen stößt – bleibt ebenso provokativ wie umstritten.",
+  "kernthesen": [
+    "Religiöse Wahrheiten sind der menschlichen Vernunft nicht zugänglich und erfordern einen Glaubenssprung.",
+    "Der christliche Glaube ist seinem Wesen nach paradox und widersteht rationaler Durchdringung.",
+    "Die Vernunft stößt an ihre Grenzen, wenn es um existenzielle und religiöse Fragen geht.",
+    "Das Herz hat seine Gründe, die die Vernunft nicht kennt – der Glaube hat eine eigene Rationalität.",
+    "Leidenschaftliche subjektive Überzeugung ist wertvoller als objektive, aber gleichgültige Erkenntnis."
+  ],
+  "hauptvertreter": ["soeren-kierkegaard", "blaise-pascal"],
+  "entstehung": "Der Fideismus hat Wurzeln in der frühchristlichen Theologie Tertullians und der mittelalterlichen Mystik. Pascal begründete im 17. Jahrhundert den modernen Fideismus, den Kierkegaard im 19. Jahrhundert mit seiner existenziellen Glaubensphilosophie radikalisierte. Karl Barth führte den Fideismus im 20. Jahrhundert in der protestantischen Theologie fort.",
+  "kritik": "Dem Fideismus wird vorgeworfen, dass er religiösen Glauben gegen rationale Kritik immunisiert und damit Fundamentalismus und Irrationalismus Vorschub leistet. Zudem kann jeder beliebige Glaube – auch offensichtlich absurder – durch den Verweis auf die Grenzen der Vernunft gerechtfertigt werden, ohne dass ein Kriterium zur Unterscheidung verschiedener Glaubensinhalte existiert.",
+  "verwandteIsmen": ["theismus", "irrationalismus"],
+  "schluesselwerke": [
+    {"titel": "Furcht und Zittern", "autor": "Søren Kierkegaard", "jahr": "1843"},
+    {"titel": "Pensées", "autor": "Blaise Pascal", "jahr": "1670"},
+    {"titel": "Entweder/Oder", "autor": "Søren Kierkegaard", "jahr": "1843"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "naturalistische-erkenntnistheorie",
+  "name": "Naturalistische Erkenntnistheorie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die naturalistische Erkenntnistheorie betrachtet Wissen als ein Naturphänomen, das mit den Methoden der empirischen Wissenschaften untersucht werden sollte. Sie verwirft die traditionelle apriorische Begründung von Erkenntnis.",
+  "ausfuehrlicheBeschreibung": "Die naturalistische Erkenntnistheorie bricht mit der traditionellen Auffassung, dass die Erkenntnistheorie als Erste Philosophie den Wissenschaften vorausgeht und ihnen ihre Fundamente liefert. Stattdessen behauptet sie, dass die Frage nach dem Wissen selbst eine empirische Frage ist, die mit den Mitteln der Naturwissenschaft – insbesondere der Psychologie und der Kognitionswissenschaft – beantwortet werden muss.\n\nWillard Van Orman Quine formulierte die radikalste Version dieser Position: Die Erkenntnistheorie soll als Kapitel der empirischen Psychologie betrieben werden. Die Frage, wie Menschen zu ihren Überzeugungen kommen, ist keine apriorische, sondern eine empirische Frage. Quine zeigte zudem, dass die Unterscheidung zwischen analytischen und synthetischen Urteilen, die Grundlage der rationalistischen Erkenntnistheorie, unhaltbar ist.\n\nDie naturalistische Erkenntnistheorie hat die Landschaft der Philosophie grundlegend verändert. Sie hat die Grenzen zwischen Philosophie und Wissenschaft durchlässig gemacht und gezeigt, dass philosophische Fragen nicht in einem intellektuellen Vakuum beantwortet werden können, sondern im ständigen Dialog mit den empirischen Wissenschaften stehen müssen.",
+  "kernthesen": [
+    "Erkenntnistheorie sollte als empirische Wissenschaft betrieben werden",
+    "Die Unterscheidung zwischen analytischen und synthetischen Urteilen ist unhaltbar",
+    "Wissen ist ein Naturphänomen, das empirisch untersucht werden muss",
+    "Philosophie und Naturwissenschaft sind nicht prinzipiell verschieden",
+    "Es gibt keine apriorischen Grundlagen der Erkenntnis"
+  ],
+  "hauptvertreter": ["willard-van-orman-quine"],
+  "entstehung": "Die naturalistische Erkenntnistheorie wurde von Willard Van Orman Quine in den 1950er und 1960er Jahren entwickelt, insbesondere in seinen Aufsätzen Zwei Dogmen des Empirismus (1951) und Epistemologie naturalisiert (1969). Sie entstand als Reaktion auf die Krise des logischen Positivismus.",
+  "kritik": "Kritiker werfen der naturalistischen Erkenntnistheorie einen Zirkelschluss vor: Man könne die Erkenntnistheorie nicht auf Naturwissenschaft gründen, ohne bereits erkenntnistheoretische Annahmen vorauszusetzen. Zudem wird bemängelt, dass sie die normative Dimension der Erkenntnis – die Frage, was wir glauben sollten – nicht angemessen berücksichtigt.",
+  "verwandteIsmen": ["experimentalismus", "kritischer-rationalismus", "ethischer-naturalismus"],
+  "schluesselwerke": [
+    {"titel": "Zwei Dogmen des Empirismus", "autor": "Willard Van Orman Quine", "jahr": "1951"},
+    {"titel": "Wort und Gegenstand", "autor": "Willard Van Orman Quine", "jahr": "1960"},
+    {"titel": "Ontologische Relativität", "autor": "Willard Van Orman Quine", "jahr": "1969"}
+  ]
+}

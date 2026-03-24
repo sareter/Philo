@@ -1,0 +1,22 @@
+{
+  "slug": "kompositionaler-nihilismus",
+  "name": "Kompositionaler Nihilismus",
+  "epoche": "Gegenwart",
+  "kurzbeschreibung": "Der kompositionale Nihilismus behauptet, dass es keine zusammengesetzten Objekte gibt. Nur grundlegende, unteilbare Entitäten existieren wirklich – alles andere ist bloße Anordnung.",
+  "ausfuehrlicheBeschreibung": "Der kompositionale Nihilismus ist eine radikale Position in der analytischen Metaphysik, die bestreitet, dass Komposition jemals stattfindet. Wenn wir von einem Tisch, einem Baum oder einem Menschen sprechen, beziehen wir uns nach dieser Auffassung nicht auf wirklich existierende Einzeldinge, sondern auf Ansammlungen fundamentaler Teilchen, die in bestimmter Weise angeordnet sind. Es gibt keine zusätzliche Entität, die durch das Zusammenfügen von Teilen entsteht.\n\nDiese Position wurde maßgeblich von Peter van Inwagen und Trenton Merricks entwickelt, wobei van Inwagen eine moderate Variante vertritt, die Lebewesen als echte zusammengesetzte Objekte akzeptiert. Der strenge kompositionale Nihilismus hingegen bestreitet auch dies und erkennt ausschließlich die fundamentalsten physikalischen Entitäten als wirklich existierend an. Die Motivation liegt unter anderem darin, das Vaguheitsproblem der Komposition zu lösen: Wenn Komposition nie stattfindet, gibt es keine schwierigen Grenzfälle.\n\nDer kompositionale Nihilismus hat weitreichende Konsequenzen für unser Alltagsverständnis der Welt. Er fordert uns auf, zwischen dem, was es wirklich gibt, und dem, was wir aus praktischen Gründen als existierend behandeln, zu unterscheiden. Die Positition steht in engem Zusammenhang mit Debatten über mereologische Prinzipien, Identität und Persistenz.",
+  "kernthesen": [
+    "Komposition findet niemals statt – es gibt keine zusammengesetzten Objekte.",
+    "Nur fundamentale, einfache Entitäten existieren im strengen Sinne.",
+    "Alltagsgegenstände wie Tische und Stühle sind bloße Anordnungen einfacher Teile.",
+    "Die Rede von zusammengesetzten Objekten ist eine nützliche Fiktion der Alltagssprache.",
+    "Das Vaguheitsproblem der Komposition wird durch die Leugnung jeder Komposition gelöst."
+  ],
+  "hauptvertreter": [],
+  "entstehung": "Der kompositionale Nihilismus entwickelte sich im späten 20. Jahrhundert im Rahmen der analytischen Metaphysik. Peter van Inwagens 'Material Beings' (1990) und Trenton Merricks' 'Objects and Persons' (2001) gelten als Schlüsseltexte dieser Debatte.",
+  "kritik": "Kritiker bemängeln, dass der kompositionale Nihilismus unserem Alltagsverständnis radikal widerspricht und in einen extremen Revisionismus mündet. Zudem bleibt unklar, wie sich mentale Zustände und Personen ohne zusammengesetzte Objekte erklären lassen.",
+  "verwandteIsmen": ["mereologischer-nihilismus", "nihilismus", "reduktionismus", "materialismus"],
+  "schluesselwerke": [
+    {"titel": "Material Beings", "autor": "Peter van Inwagen", "jahr": "1990"},
+    {"titel": "Objects and Persons", "autor": "Trenton Merricks", "jahr": "2001"}
+  ]
+}

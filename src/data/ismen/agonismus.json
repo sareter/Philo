@@ -1,0 +1,23 @@
+{
+  "slug": "agonismus",
+  "name": "Agonismus",
+  "epoche": "Antike",
+  "kurzbeschreibung": "Der Agonismus betrachtet den Wettstreit (Agon) als grundlegendes Prinzip menschlichen Zusammenlebens und kultureller Entwicklung. Konflikte und Rivalitäten sind nicht zu beseitigen, sondern produktiv zu gestalten.",
+  "ausfuehrlicheBeschreibung": "Der Agonismus wurzelt in der griechischen Kultur, in der der Wettkampf (Agon) eine zentrale Rolle spielte – in der Athletik, der Rhetorik, der Dichtung und der Politik. Friedrich Nietzsche entdeckte in seinem frühen Essay „Homers Wettkampf“ den Agon als Grundprinzip der griechischen Kultur: Die Griechen verwandelten den destruktiven Kampf aller gegen alle in einen produktiven Wettstreit, der kulturelle Höchstleistungen hervorbrachte. Ohne den Stachel der Rivalität gibt es keine Exzellenz.\n\nNietzsche erhob den Agonismus zum philosophischen Prinzip: Das Leben selbst ist Kampf, Wille zur Macht und ständiges Sich-Überbieten. Der Versuch, alle Konflikte zu beseitigen und eine harmonische Gesellschaft zu errichten, führt zur Erstarrung und zum Niedergang. Vielmehr kommt es darauf an, Konflikte in produktive Bahnen zu lenken und den Wettstreit als Motor kultureller Kreativität zu nutzen.\n\nIn der politischen Philosophie der Gegenwart hat Chantal Mouffe den Agonismus als Alternative zum deliberativen Liberalismus entwickelt. Sie unterscheidet zwischen Antagonismus (Kampf zwischen Feinden) und Agonismus (Wettstreit zwischen Gegnern, die die Legitimität des anderen anerkennen). Eine pluralistische Demokratie muss Konflikte nicht auflösen, sondern in agonistische Formen überführen, die den politischen Wettbewerb lebendig halten.",
+  "kernthesen": [
+    "Der Wettstreit (Agon) ist ein fundamentales Prinzip menschlichen Zusammenlebens und kultureller Entwicklung.",
+    "Konflikte und Rivalitäten sind nicht zu beseitigen, sondern produktiv zu gestalten.",
+    "Ohne den Stachel der Rivalität gibt es keine Exzellenz und keine kulturelle Höchstleistung.",
+    "Pluralistische Demokratie erfordert agonistischen Wettbewerb, nicht harmonischen Konsens.",
+    "Der Versuch, alle Konflikte zu beseitigen, führt zur kulturellen Erstarrung."
+  ],
+  "hauptvertreter": ["friedrich-nietzsche"],
+  "entstehung": "Der Agonismus hat seine Wurzeln in der griechischen Wettkampfkultur und wurde von Nietzsche in „Homers Wettkampf“ (1872) philosophisch aufgearbeitet. In der Gegenwart hat Chantal Mouffe den Agonismus als politische Theorie weiterentwickelt.",
+  "kritik": "Kritiker werfen dem Agonismus vor, dass er Konflikte verherrlicht und die Möglichkeit rationaler Einigung unterschätzt. Zudem wird bemängelt, dass die Grenze zwischen produktivem Wettstreit und destruktivem Kampf in der Praxis schwer zu ziehen ist und der Agonismus soziale Ungleichheiten legitimieren kann.",
+  "verwandteIsmen": ["perspektivismus", "pluralismus"],
+  "schluesselwerke": [
+    {"titel": "Homers Wettkampf", "autor": "Friedrich Nietzsche", "jahr": "1872"},
+    {"titel": "Über das Agonale bei den Griechen", "autor": "Jacob Burckhardt", "jahr": "1872"},
+    {"titel": "Über das Politische", "autor": "Chantal Mouffe", "jahr": "2005"}
+  ]
+}

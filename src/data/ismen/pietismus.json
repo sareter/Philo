@@ -1,0 +1,22 @@
+{
+  "slug": "pietismus",
+  "name": "Pietismus",
+  "epoche": "Aufklärung",
+  "kurzbeschreibung": "Der Pietismus ist eine religiös-philosophische Bewegung, die die persönliche Frömmigkeit, das innere Erleben des Glaubens und die praktische Nachfolge Christi über die dogmatische Orthodoxie stellt.",
+  "ausfuehrlicheBeschreibung": "Der Pietismus entstand im 17. Jahrhundert als Erneuerungsbewegung innerhalb des Protestantismus. Er betonte die persönliche Beziehung zu Gott, das emotionale Erleben des Glaubens und die praktische Umsetzung christlicher Werte im Alltag.\n\nPhilipp Jakob Spener gilt mit seinem Werk Pia Desideria (1675) als Begründer des Pietismus. Er forderte eine Erneuerung der Kirche durch kleine Gruppen von engagierten Gläubigen, durch intensives Bibelstudium und durch die Betonung der persönlichen Bekehrungserfahrung.\n\nPhilosophisch ist der Pietismus bedeutsam als Vorläufer des Subjektivismus und der Erfahrungsphilosophie. Soeren Kierkegaard wurde vom Pietismus beeinflusst und übernahm die Betonung der subjektiven Innerlichkeit und der existenziellen Entscheidung.",
+  "kernthesen": [
+    "Die persönliche Frömmigkeit ist wichtiger als die dogmatische Rechtgläubigkeit.",
+    "Der Glaube muss innerlich erlebt und nicht nur intellektuell bejaht werden.",
+    "Die praktische Nachfolge Christi im Alltag ist das Zentrum des christlichen Lebens.",
+    "Kleine Gemeinschaften von Gläubigen sind der Ort der wahren Kirche.",
+    "Die Bekehrungserfahrung ist ein entscheidender Moment im Leben des Gläubigen."
+  ],
+  "hauptvertreter": ["soeren-kierkegaard"],
+  "entstehung": "Der Pietismus entstand im späten 17. Jahrhundert in Deutschland als Reaktion auf die als erstarrt empfundene lutherische Orthodoxie. Philipp Jakob Speners Pia Desideria (1675) gilt als Gründungsschrift der Bewegung.",
+  "kritik": "Kritiker werfen dem Pietismus Weltflucht, übertriebenen Subjektivismus und eine Vernachlässigung der intellektuellen Durchdringung des Glaubens vor. Die Aufklärung sah im Pietismus eine Gefahr für die Vernunft.",
+  "verwandteIsmen": ["mystizismus", "theismus", "existenzialismus"],
+  "schluesselwerke": [
+    {"titel": "Pia Desideria", "autor": "Philipp Jakob Spener", "jahr": "1675"},
+    {"titel": "Wahres Christentum", "autor": "Johann Arndt", "jahr": "1605"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ethischer-non-naturalismus",
+  "name": "Ethischer Non-Naturalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der ethische Non-Naturalismus behauptet, dass moralische Eigenschaften nicht auf natürliche Eigenschaften reduziert werden können. Moral hat eine eigenständige, von der Natur unabhängige Geltungsbasis.",
+  "ausfuehrlicheBeschreibung": "Der ethische Non-Naturalismus vertritt die These, dass moralische Tatsachen und Eigenschaften sui generis sind – sie lassen sich nicht auf natürliche, empirisch beobachtbare Eigenschaften zurückführen. Das Gute ist nicht identisch mit dem Angenehmen, dem Nützlichen oder dem Natürlichen, sondern eine eigenständige Eigenschaft, die mit den Methoden der Naturwissenschaft nicht erfasst werden kann.\n\nImmanuel Kant legte die philosophische Grundlage für den ethischen Non-Naturalismus, indem er die Moral auf die reine praktische Vernunft gründete und von allen empirischen Bedingungen ablöste. Der kategorische Imperativ – handle so, dass die Maxime deines Willens jederzeit zugleich als Prinzip einer allgemeinen Gesetzgebung gelten könnte – ist ein reines Vernunftprinzip, das unabhängig von der menschlichen Natur, den gesellschaftlichen Verhältnissen und den Folgen des Handelns gilt.\n\nDer ethische Non-Naturalismus bewahrt die Autonomie der Moral gegenüber der Natur und der Empirie: Moralische Pflichten gelten nicht, weil sie natürlich oder nützlich sind, sondern weil die Vernunft sie gebietet. Diese Position sichert die Unbedingtheit moralischer Forderungen, wirft aber zugleich die Frage auf, wie moralische Tatsachen erkannt werden können, wenn sie nicht zur natürlichen Welt gehören.",
+  "kernthesen": [
+    "Moralische Eigenschaften sind nicht auf natürliche reduzierbar",
+    "Das Gute ist eine eigenständige, nicht-natürliche Eigenschaft",
+    "Moral gründet auf reiner praktischer Vernunft",
+    "Der kategorische Imperativ gilt unabhängig von empirischen Bedingungen",
+    "Moralische Pflichten sind unbedingt und vernunftgeboten"
+  ],
+  "hauptvertreter": ["immanuel-kant"],
+  "entstehung": "Der ethische Non-Naturalismus hat seine philosophischen Wurzeln in Kants Kritik der praktischen Vernunft (1788) und wurde im 20. Jahrhundert von G. E. Moore in seinen Principia Ethica (1903) zu einer eigenständigen metaethischen Position ausgebaut.",
+  "kritik": "Kritiker werfen dem ethischen Non-Naturalismus das Problem der Erkenntnis nicht-natürlicher moralischer Tatsachen vor: Wenn moralische Eigenschaften nicht zur natürlichen Welt gehören, wie können wir sie dann erkennen? Zudem wird die Formalität kantischer Ethik kritisiert, die inhaltliche moralische Orientierung vermissen lasse.",
+  "verwandteIsmen": ["gesinnungsethik", "ethischer-naturalismus", "praeskriptivismus"],
+  "schluesselwerke": [
+    {"titel": "Kritik der praktischen Vernunft", "autor": "Immanuel Kant", "jahr": "1788"},
+    {"titel": "Grundlegung zur Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1785"},
+    {"titel": "Principia Ethica", "autor": "George Edward Moore", "jahr": "1903"}
+  ]
+}

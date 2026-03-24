@@ -1,0 +1,23 @@
+{
+  "slug": "logischer-atomismus",
+  "name": "Logischer Atomismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der logische Atomismus analysiert die Wirklichkeit in ihre einfachsten logischen Bestandteile. Er behauptet, dass die Struktur der Sprache die Struktur der Wirklichkeit widerspiegelt.",
+  "ausfuehrlicheBeschreibung": "Der logische Atomismus ist eine philosophische Position, die davon ausgeht, dass die Wirklichkeit aus einfachsten Tatsachen – logischen Atomen – besteht, die durch logische Verknüpfungen zu komplexeren Tatsachen zusammengesetzt werden. Die Aufgabe der Philosophie besteht darin, die logische Struktur der Sprache und damit der Wirklichkeit freizulegen.\n\nBertrand Russell und der frühe Ludwig Wittgenstein entwickelten den logischen Atomismus als Programm einer wissenschaftlichen Philosophie. Russell versuchte, die gesamte Mathematik auf Logik zurückzuführen, und wandte diese Methode dann auf die Philosophie an. Wittgenstein formulierte im Tractatus logico-philosophicus die These, dass die Sätze der Sprache Bilder der Wirklichkeit sind: Die logische Form eines Satzes entspricht der logischen Form der Tatsache, die er darstellt.\n\nDer logische Atomismus hatte enormen Einfluss auf die analytische Philosophie des 20. Jahrhunderts, auch wenn seine Grundannahmen später von beiden Begründern revidiert wurden. Russell wandte sich pragmatischeren Positionen zu, und Wittgenstein widerlegte in seinen späteren Philosophischen Untersuchungen die Bildtheorie der Sprache des Tractatus. Dennoch bleibt der logische Atomismus ein Meilenstein in der Geschichte der Sprachphilosophie und der analytischen Tradition.",
+  "kernthesen": [
+    "Die Wirklichkeit besteht aus einfachsten logischen Tatsachen",
+    "Die Struktur der Sprache spiegelt die Struktur der Wirklichkeit wider",
+    "Komplexe Tatsachen lassen sich in einfache Atomsätze zerlegen",
+    "Philosophie ist logische Analyse der Sprache",
+    "Was sich nicht klar sagen lässt, darüber muss man schweigen"
+  ],
+  "hauptvertreter": ["bertrand-russell", "ludwig-wittgenstein"],
+  "entstehung": "Der logische Atomismus wurde in den 1910er und 1920er Jahren von Bertrand Russell und Ludwig Wittgenstein entwickelt. Russells Vorlesungen über den logischen Atomismus (1918) und Wittgensteins Tractatus logico-philosophicus (1921) bilden die Grundlagentexte.",
+  "kritik": "Kritiker werfen dem logischen Atomismus vor, er beruhe auf der unhaltbaren Annahme eines Isomorphismus zwischen Sprache und Wirklichkeit. Der späte Wittgenstein selbst zeigte, dass Sprache weit vielfältiger funktioniert, als die Bildtheorie des Tractatus annimmt.",
+  "verwandteIsmen": ["ordinary-language-philosophy", "kritischer-rationalismus", "kybernetik"],
+  "schluesselwerke": [
+    {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"},
+    {"titel": "Die Philosophie des logischen Atomismus", "autor": "Bertrand Russell", "jahr": "1918"},
+    {"titel": "Principia Mathematica", "autor": "Bertrand Russell", "jahr": "1910"}
+  ]
+}

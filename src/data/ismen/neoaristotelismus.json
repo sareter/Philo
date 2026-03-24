@@ -1,0 +1,23 @@
+{
+  "slug": "neoaristotelismus",
+  "name": "Neoaristotelismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Neoaristotelismus erneuert die aristotelische Philosophie im Kontext moderner Ethik und politischer Theorie. Er betont die Tugendethik, das gute Leben und die praktische Vernunft als Alternative zu deontologischen und konsequentialistischen Ansätzen.",
+  "ausfuehrlicheBeschreibung": "Der Neoaristotelismus entstand in der zweiten Hälfte des 20. Jahrhunderts als Reaktion auf die Dominanz deontologischer und utilitaristischer Ethik. Elizabeth Anscombe forderte in ihrem einflussreichen Aufsatz „Modern Moral Philosophy“ (1958) eine Rückkehr zur aristotelischen Tugendethik, die nicht abstrakte Pflichten oder Konsequenzen, sondern den Charakter des Handelnden und das gelingende Leben in den Mittelpunkt stellt.\n\nAlasdair MacIntyre diagnostizierte in „Der Verlust der Tugend“ (1981) eine grundlegende Krise der modernen Moralphilosophie und argumentierte, dass nur eine Erneuerung der aristotelischen Tradition – eingebettet in konkrete Gemeinschaften und Praktiken – die Fragmentierung der Moral überwinden könne. Aristoteles' Konzept der Eudaimonia als umfassendes Gedeihen des Menschen bietet nach MacIntyre einen reichhaltigeren Maßstab für das gute Leben als abstrakte Maximierungskalküle.\n\nIn der politischen Philosophie vertritt der Neoaristotelismus die Auffassung, dass der Mensch von Natur aus ein politisches Wesen ist und nur in der Gemeinschaft seine Tugenden entfalten kann. Martha Nussbaum entwickelte auf aristotelischer Grundlage den Fähigkeitenansatz, der grundlegende menschliche Fähigkeiten als Maßstab sozialer Gerechtigkeit etabliert. Der Neoaristotelismus hat damit sowohl die akademische Ethik als auch die praktische Politik nachhaltig beeinflusst.",
+  "kernthesen": [
+    "Ethik muss vom gelingenden Leben und den Tugenden ausgehen, nicht von abstrakten Regeln oder Konsequenzen.",
+    "Tugenden sind erworbene Charaktereigenschaften, die durch Übung und Gewohnheit gebildet werden.",
+    "Der Mensch ist wesentlich ein soziales und politisches Wesen, das nur in der Gemeinschaft gedeihen kann.",
+    "Praktische Vernunft (Phronesis) ist wichtiger als theoretische Prinzipien für moralisches Handeln.",
+    "Die moderne Moralphilosophie hat durch den Verlust der aristotelischen Tradition ihre Grundlage verloren."
+  ],
+  "hauptvertreter": ["aristoteles"],
+  "entstehung": "Der Neoaristotelismus begann mit Elizabeth Anscombes Kritik an der modernen Moralphilosophie (1958) und wurde durch Alasdair MacIntyres „Der Verlust der Tugend“ (1981) zu einer breit diskutierten philosophischen Bewegung. Martha Nussbaum und Philippa Foot trugen zur weiteren Entwicklung bei.",
+  "kritik": "Kritiker werfen dem Neoaristotelismus vor, dass er mit seinem Gemeinschaftsbegriff konservative politische Positionen begünstigt und die Autonomie des Individuums unterschätzt. Zudem wird bemängelt, dass der aristotelische Naturbegriff problematisch ist und kulturelle Vielfalt in der Definition des guten Lebens zu wenig berücksichtigt wird.",
+  "verwandteIsmen": ["aristotelismus", "tugendethik"],
+  "schluesselwerke": [
+    {"titel": "Nikomachische Ethik", "autor": "Aristoteles", "jahr": "-340"},
+    {"titel": "Der Verlust der Tugend", "autor": "Alasdair MacIntyre", "jahr": "1981"},
+    {"titel": "Gerechtigkeit oder Das gute Leben", "autor": "Martha Nussbaum", "jahr": "1999"}
+  ]
+}

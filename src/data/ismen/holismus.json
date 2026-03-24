@@ -1,0 +1,23 @@
+{
+  "slug": "holismus",
+  "name": "Holismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Holismus ist die philosophische Position, dass das Ganze mehr ist als die Summe seiner Teile und dass Systeme Eigenschaften besitzen, die sich nicht aus der Analyse ihrer Einzelteile erklären lassen.",
+  "ausfuehrlicheBeschreibung": "Der Holismus vertritt die fundamentale These, dass Ganzheiten irreduzible Eigenschaften besitzen, die bei der Zerlegung in Einzelteile verloren gehen. Diese Position richtet sich gegen den analytischen Ansatz, der komplexe Phänomene durch die Untersuchung ihrer Bestandteile zu verstehen sucht. Der Begriff wurde 1926 von Jan Christiaan Smuts geprägt, doch die Grundidee reicht bis zu Aristoteles zurück, der feststellte, dass das Ganze etwas anderes ist als die Summe seiner Teile.\n\nIn der Sprachphilosophie entwickelte Ludwig Wittgenstein eine holistische Bedeutungstheorie, die besagt, dass die Bedeutung eines Wortes nur im Kontext seines Gebrauchs innerhalb einer gesamten Lebensform verstanden werden kann. Ein Satz erhält seine Bedeutung nicht durch die Bedeutungen seiner einzelnen Wörter, sondern durch seine Rolle im gesamten Sprachspiel. Dieser semantische Holismus hat die analytische Philosophie nachhaltig geprägt und wurde von W.V.O. Quine mit seiner These der Unterbestimmtheit weiterentwickelt.\n\nDer Holismus findet in zahlreichen Disziplinen Anwendung: In der Ökologie betont er die Vernetzung aller Lebewesen in einem Ökosystem, in der Medizin die Betrachtung des ganzen Menschen statt einzelner Symptome, in der Sozialwissenschaft die Eigenständigkeit sozialer Phänomene gegenüber individuellem Handeln. Die systemtheoretische Tradition von Bertalanffy bis Luhmann hat den Holismus zu einer umfassenden Wissenschaftstheorie ausgebaut.",
+  "kernthesen": [
+    "Das Ganze ist mehr als die Summe seiner Teile und besitzt irreduzible Eigenschaften.",
+    "Die Bedeutung sprachlicher Ausdrücke ergibt sich erst aus ihrem Kontext im gesamten Sprachspiel.",
+    "Komplexe Systeme lassen sich nicht vollständig durch die Analyse ihrer Einzelteile verstehen.",
+    "Die Zerlegung eines Ganzen in Teile zerstört wesentliche Eigenschaften, die nur dem Ganzen zukommen.",
+    "Wissen bildet ein Netz, in dem jeder Satz mit allen anderen zusammenhängt."
+  ],
+  "hauptvertreter": ["ludwig-wittgenstein"],
+  "entstehung": "Der Begriff Holismus wurde 1926 von Jan Christiaan Smuts eingeführt, doch die Grundidee geht auf Aristoteles zurück. Wittgensteins Spätphilosophie trug einen holistischen Bedeutungsbegriff bei, während Quines Kritik am analytisch-synthetischen Dualismus den epistemologischen Holismus begründete.",
+  "kritik": "Dem Holismus wird vorgeworfen, dass er den wissenschaftlichen Fortschritt durch Analyse und Reduktion unterschätzt und oft unklar bleibt, was genau die irreduziblen Ganzheitseigenschaften sind. Zudem besteht die Gefahr, dass der Holismus als Immunisierungsstrategie dient, die jede kritische Analyse abwehrt.",
+  "verwandteIsmen": ["systemtheorie", "emergentismus"],
+  "schluesselwerke": [
+    {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
+    {"titel": "Holism and Evolution", "autor": "Jan Christiaan Smuts", "jahr": "1926"},
+    {"titel": "Zwei Dogmen des Empirismus", "autor": "Willard Van Orman Quine", "jahr": "1951"}
+  ]
+}

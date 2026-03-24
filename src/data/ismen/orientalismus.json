@@ -1,0 +1,23 @@
+{
+  "slug": "orientalismus",
+  "name": "Orientalismus",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Der Orientalismus bezeichnet die kritische Analyse der westlichen Konstruktion des „Orients“ als kulturell minderwertiges Anderes. Edward Said zeigte, wie dieses Konstrukt koloniale Herrschaft legitimierte und das Selbstbild des Westens stabilisierte.",
+  "ausfuehrlicheBeschreibung": "Der Begriff Orientalismus wurde durch Edward Saids gleichnamiges Werk von 1978 zu einem zentralen Konzept der Kultur- und Gesellschaftskritik. Said analysierte, wie westliche Wissenschaftler, Künstler und Politiker über Jahrhunderte ein Bild des „Orients“ konstruierten, das weniger über die beschriebenen Gesellschaften aussagte als über die Bedürfnisse und Machthantasmen des Westens. Der Orient wurde als irrational, sinnlich, despotisch und rückständig dargestellt – als Gegenbild zum aufgeklärten, rationalen und fortschrittlichen Westen.\n\nSaid stützte sich auf Michel Foucaults Diskursanalyse, um zu zeigen, dass der Orientalismus kein bloßes Vorurteil ist, sondern ein systematischer Diskurs, der Wissen und Macht miteinander verknüpft. Die akademische Orientalistik, die Literatur und die Kunst produzierten ein kohärentes Bild des Orients, das koloniale Intervention als zivilisatorische Mission rechtfertigte. Dieses Wissen war nicht neutral, sondern ein Instrument der Herrschaft.\n\nDie Orientalismus-Kritik hat weitreichende Konsequenzen für die Geistes- und Sozialwissenschaften gehabt. Sie sensibilisierte für die politischen Implikationen wissenschaftlicher Darstellungen anderer Kulturen und legte den Grundstein für die postkolonialen Studien. In der Gegenwart wird der Orientalismus-Begriff auch auf aktuelle Phänomene wie Islamophobie und die mediale Darstellung des Nahen Ostens angewandt.",
+  "kernthesen": [
+    "Der ‚Orient' ist eine westliche Konstruktion, die mehr über den Westen aussagt als über die beschriebenen Gesellschaften.",
+    "Orientalistisches Wissen dient der Legitimation kolonialer und neokolonialer Herrschaft.",
+    "Die Darstellung des Anderen als irrational und rückständig stabilisiert das Selbstbild des Westens als rational und fortschrittlich.",
+    "Wissen über andere Kulturen ist stets in Machtverhältnisse eingebettet.",
+    "Die Überwindung des Orientalismus erfordert eine grundlegende Selbstkritik westlicher Wissenschaft."
+  ],
+  "hauptvertreter": ["michel-foucault"],
+  "entstehung": "Der Orientalismus als kritisches Konzept wurde 1978 durch Edward Saids gleichnamiges Werk begründet. Said knüpfte an Foucaults Diskursanalyse und Gramscis Hegemonietheorie an und analysierte die westliche Orient-Darstellung von der Antike bis zur Gegenwart.",
+  "kritik": "Kritiker bemängeln, dass Saids Orientalismus-Kritik selbst essentialistisch verfährt, indem sie „den Westen“ als homogenen Block darstellt. Zudem wird eingewandt, dass die Theorie die Eigenständigkeit und Handlungsfähigkeit orientalischer Gesellschaften unterschätzt und differenzierte westliche Darstellungen des Orients ignoriert.",
+  "verwandteIsmen": ["postkolonialismus", "poststrukturalismus"],
+  "schluesselwerke": [
+    {"titel": "Orientalism", "autor": "Edward Said", "jahr": "1978"},
+    {"titel": "Culture and Imperialism", "autor": "Edward Said", "jahr": "1993"},
+    {"titel": "Überwachen und Strafen", "autor": "Michel Foucault", "jahr": "1975"}
+  ]
+}

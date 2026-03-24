@@ -1,0 +1,22 @@
+{
+  "slug": "enttaeuschungsphilosophie",
+  "name": "Enttäuschungsphilosophie",
+  "epoche": "20. Jahrhundert",
+  "kurzbeschreibung": "Die Enttäuschungsphilosophie untersucht die Erfahrung der Enttäuschung als philosophisch aufschlussreiches Phänomen. Enttäuschung wird als Ent-Täuschung verstanden – als Befreiung von Täuschungen und Illusionen.",
+  "ausfuehrlicheBeschreibung": "Die Enttäuschungsphilosophie nimmt die doppelte Bedeutung des deutschen Wortes Enttäuschung ernst: Sie ist einerseits ein schmerzhaftes Erlebnis des Scheiterns von Erwartungen, andererseits eine Ent-Täuschung, also eine Befreiung von Täuschungen. In dieser philosophischen Strömung wird die Erfahrung der Enttäuschung zum Ausgangspunkt tieferer Erkenntnis.\n\nMartin Heidegger thematisierte die Enttäuschung als Modus der Erschlossenheit des Daseins: In der Enttäuschung bricht die alltägliche Vertrautheit mit der Welt zusammen, und das Dasein wird auf sich selbst zurückgeworfen. Die Dinge zeigen sich in ihrem wahren Sein, befreit von den Projektionen und Erwartungen, die der Mensch gewöhnlich auf sie wirft. Die Enttäuschung gehört damit zur Grundstruktur des In-der-Welt-Seins.\n\nDie Enttäuschungsphilosophie sieht in jeder Enttäuschung einen potentiellen Erkenntnisgewinn: Wer enttäuscht wird, wird zugleich aus einer Täuschung befreit. Diese Dialektik macht die Enttäuschung zu einem Motor philosophischer Erkenntnis, denn jede zerbrochene Illusion bringt den Menschen der Wahrheit seiner Existenz näher.",
+  "kernthesen": [
+    "Enttäuschung ist zugleich schmerzhafte Erfahrung und Befreiung von Täuschung",
+    "In der Enttäuschung zeigen sich die Dinge in ihrem wahren Sein",
+    "Die alltägliche Vertrautheit mit der Welt muss zerbrochen werden",
+    "Jede Enttäuschung ist ein potentieller Erkenntnisgewinn",
+    "Die Enttäuschung gehört zur Grundstruktur des menschlichen Daseins"
+  ],
+  "hauptvertreter": ["martin-heidegger"],
+  "entstehung": "Die Enttäuschungsphilosophie entwickelte sich im 20. Jahrhundert aus der phänomenologischen Tradition und Heideggers Fundamentalontologie. Die Erschütterungen der Weltkriege lieferten den historischen Hintergrund für eine systematische Reflexion über Enttäuschung und Illusionsverlust.",
+  "kritik": "Kritiker bemängeln, dass die Enttäuschungsphilosophie die positive Rolle von Erwartungen und Hoffnungen unterschätzt und das Scheitern einseitig als Erkenntnisquelle überhöht. Zudem wird die Frage gestellt, ob die Ent-Täuschung tatsächlich zur Wahrheit führt oder nur zu neuen, vielleicht zynischeren Täuschungen.",
+  "verwandteIsmen": ["angstphilosophie", "vergeblichkeitsphilosophie", "existenzieller-nihilismus"],
+  "schluesselwerke": [
+    {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"},
+    {"titel": "Die Grundbegriffe der Metaphysik", "autor": "Martin Heidegger", "jahr": "1983"}
+  ]
+}
