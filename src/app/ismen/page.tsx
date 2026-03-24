@@ -1,4 +1,5 @@
 import { getAllIsmen } from "@/lib/data";
+import { ismenHierarchie } from "@/data/ismen-hierarchie";
 import IsmenClient from "./IsmenClient";
 
 export default function IsmenPage() {
@@ -6,5 +7,5 @@ export default function IsmenPage() {
     a.name.localeCompare(b.name, "de")
   );
 
-  return <IsmenClient ismen={ismen} />;
+  return <IsmenClient ismen={ismen} hierarchie={ismenHierarchie} />;
 }
