@@ -15,6 +15,7 @@ import { getEpocheFarbe } from "@/lib/utils";
 import type { Philosoph } from "@/types";
 import QuoteCarousel from "@/components/philosophen/QuoteCarousel";
 import WerkeList from "@/components/philosophen/WerkeList";
+import EinfachToggle, { useEinfachModus } from "@/components/EinfachToggle";
 
 export default function PhilosophDetailClient({
   philosoph,
@@ -24,6 +25,14 @@ export default function PhilosophDetailClient({
   verwandte: Philosoph[];
 }) {
   const [expandedIdea, setExpandedIdea] = useState<number | null>(null);
+  const { einfach, toggle } = useEinfachModus();
+
+  const hasEinfach = !!philosoph.einfach;
+  const isEinfach = einfach && hasEinfach;
+  const kurzbeschreibung = isEinfach ? philosoph.einfach!.kurzbeschreibung : philosoph.kurzbeschreibung;
+  const biografie = isEinfach ? philosoph.einfach!.biografie : philosoph.biografie;
+  const kernideen = isEinfach ? philosoph.einfach!.kernideen : philosoph.kernideen;
+  const werke = isEinfach ? philosoph.einfach!.werke : philosoph.werke;
 
   return (
     <article className="max-w-4xl">
@@ -42,7 +51,7 @@ export default function PhilosophDetailClient({
         </div>
         <h1 className="text-4xl font-bold mb-3">{philosoph.name}</h1>
         <p className="text-lg text-ink-light leading-relaxed">
-          {philosoph.kurzbeschreibung}
+          {kurzbeschreibung}
         </p>
         <div className="flex flex-wrap gap-4 mt-4 text-sm font-ui text-ink-light">
           <span className="flex items-center gap-1.5">
@@ -66,6 +75,9 @@ export default function PhilosophDetailClient({
         </div>
       </div>
 
+      {/* Einfach Toggle */}
+      {hasEinfach && <EinfachToggle einfach={einfach} onToggle={toggle} />}
+
       {/* Zitate */}
       <section className="mb-10">
         <h2 className="text-2xl font-bold mb-4 flex items-center gap-2">
@@ -80,36 +92,36 @@ export default function PhilosophDetailClient({
           <Calendar size={22} className="text-bordeaux" /> Biografie
         </h2>
         <div className="space-y-4 text-ink-light leading-relaxed">
-          {philosoph.biografie.fruehesLeben && (
+          {biografie.fruehesLeben && (
             <div>
               <h3 className="font-semibold text-ink mb-1">Frühes Leben</h3>
-              <p>{philosoph.biografie.fruehesLeben}</p>
+              <p>{biografie.fruehesLeben}</p>
             </div>
           )}
-          {philosoph.biografie.schaffen && (
+          {biografie.schaffen && (
             <div>
               <h3 className="font-semibold text-ink mb-1">
                 Schaffen & Wirken
               </h3>
-              <p>{philosoph.biografie.schaffen}</p>
+              <p>{biografie.schaffen}</p>
             </div>
           )}
-          {philosoph.biografie.spaetesLeben && (
+          {biografie.spaetesLeben && (
             <div>
               <h3 className="font-semibold text-ink mb-1">Spätes Leben</h3>
-              <p>{philosoph.biografie.spaetesLeben}</p>
+              <p>{biografie.spaetesLeben}</p>
             </div>
           )}
-          {philosoph.biografie.tod && (
+          {biografie.tod && (
             <div>
               <h3 className="font-semibold text-ink mb-1">Tod</h3>
-              <p>{philosoph.biografie.tod}</p>
+              <p>{biografie.tod}</p>
             </div>
           )}
-          {philosoph.biografie.nachwirkung && (
+          {biografie.nachwirkung && (
             <div>
               <h3 className="font-semibold text-ink mb-1">Nachwirkung</h3>
-              <p>{philosoph.biografie.nachwirkung}</p>
+              <p>{biografie.nachwirkung}</p>
             </div>
           )}
         </div>
@@ -121,7 +133,7 @@ export default function PhilosophDetailClient({
           <Lightbulb size={22} className="text-bordeaux" /> Kernideen
         </h2>
         <div className="space-y-2">
-          {philosoph.kernideen.map((idee, i) => (
+          {kernideen.map((idee, i) => (
             <div
               key={i}
               className="bg-parchment-card border border-border-warm rounded-lg overflow-hidden"
@@ -156,7 +168,7 @@ export default function PhilosophDetailClient({
         <h2 className="text-2xl font-bold mb-4 flex items-center gap-2">
           <BookOpen size={22} className="text-bordeaux" /> Werke
         </h2>
-        <WerkeList werke={philosoph.werke} />
+        <WerkeList werke={werke} />
       </section>
 
       {/* Verwandte Philosophen */}
