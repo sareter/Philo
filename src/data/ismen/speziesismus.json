@@ -19,5 +19,18 @@
     {"titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975"},
     {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"},
     {"titel": "The Case for Animal Rights", "autor": "Tom Regan", "jahr": "1983"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Speziesismus bedeutet, dass wir Menschen uns fuer wichtiger halten als andere Tiere, einfach nur weil wir Menschen sind - und das ist laut Kritikern genauso unfair wie Rassismus.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand behandelt eine andere Person schlechter, nur weil sie eine andere Hautfarbe hat. Das wuerde jeder als Rassismus erkennen. Der Speziesismus funktioniert genauso, nur mit Arten statt Hautfarben: Wir behandeln Tiere schlechter, einfach nur weil sie keine Menschen sind - nicht weil es einen echten moralischen Grund dafuer gibt.\n\nPeter Singer hat diesen Vergleich bekannt gemacht. Er fragt: Was ist der relevante Unterschied? Wenn ein Schwein genauso Schmerz empfinden kann wie ein Mensch, warum zaehlt sein Leid dann weniger? Nur weil es zu einer anderen biologischen Art gehoert? Das ist kein moralisch akzeptabler Grund, genauso wenig wie Hautfarbe oder Geschlecht.\n\nDas hat konkrete Folgen: Massentierhaltung, Tierversuche und vieles andere steht auf einmal in einem ganz anderen Licht. Wenn Speziesismus wirklich so ungerecht ist wie Rassismus, dann ist vieles von dem, was wir Tieren antun, eine riesige moralische Katastrophe.",
+    "kernthesen": [
+      "Nur weil du ein Mensch bist, hast du keinen automatischen moralischen Sonderstatus",
+      "Was zaehlt, ist ob ein Wesen leiden kann, nicht zu welcher Art es gehoert",
+      "Speziesismus funktioniert wie Rassismus oder Sexismus - es ist Diskriminierung aufgrund eines willkuerlichen Merkmals",
+      "Die Interessen von Tieren, die fuehlen koennen, verdienen genauso Beruecksichtigung",
+      "Unsere gaengige Behandlung von Tieren laesst sich moralisch nicht rechtfertigen"
+    ],
+    "entstehung": "Der Begriff Speziesismus wurde 1970 von Richard Ryder erfunden. Peter Singer machte ihn 1975 mit seinem Buch Animal Liberation zum Schluesselbegriff der Tierethik. Die Grundidee geht auf Jeremy Bentham zurueck, der schon im 18. Jahrhundert sagte, die entscheidende Frage sei, ob ein Wesen leiden kann.",
+    "kritik": "Kritiker sagen, der Vergleich mit Rassismus hinke, weil es zwischen Arten echte relevante Unterschiede gibt - zum Beispiel in der Faehigkeit zu denken und moralisch zu handeln. Ausserdem fuehrt die konsequente Anti-Speziesismus-Position zu Ergebnissen, die den meisten Menschen extrem widersprechen."
+  }
 }

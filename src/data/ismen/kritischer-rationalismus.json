@@ -11,13 +11,44 @@
     "Theorien sind bewährt, aber nie endgültig bewiesen",
     "Eine offene Gesellschaft lebt von ständiger kritischer Überprüfung"
   ],
-  "hauptvertreter": ["karl-popper"],
+  "hauptvertreter": [
+    "karl-popper"
+  ],
   "entstehung": "Der kritische Rationalismus wurde von Karl Popper in den 1930er Jahren entwickelt, insbesondere in seiner Logik der Forschung (1934). Er entstand als Kritik am Verifikationismus des Wiener Kreises und als Antwort auf das Induktionsproblem.",
   "kritik": "Kritiker werfen dem kritischen Rationalismus vor, dass Falsifikation in der wissenschaftlichen Praxis selten eindeutig ist, da immer Hilfshypothesen angepasst werden können. Zudem wird Poppers Ablehnung der Induktion als unrealistisch kritisiert, da Wissenschaftler in der Praxis ständig induktiv schließen.",
-  "verwandteIsmen": ["logischer-atomismus", "naturalistische-erkenntnistheorie", "neopragmatismus"],
+  "verwandteIsmen": [
+    "logischer-atomismus",
+    "naturalistische-erkenntnistheorie",
+    "neopragmatismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
-    {"titel": "Die offene Gesellschaft und ihre Feinde", "autor": "Karl Popper", "jahr": "1945"},
-    {"titel": "Vermutungen und Widerlegungen", "autor": "Karl Popper", "jahr": "1963"}
-  ]
+    {
+      "titel": "Logik der Forschung",
+      "autor": "Karl Popper",
+      "jahr": "1934"
+    },
+    {
+      "titel": "Die offene Gesellschaft und ihre Feinde",
+      "autor": "Karl Popper",
+      "jahr": "1945"
+    },
+    {
+      "titel": "Vermutungen und Widerlegungen",
+      "autor": "Karl Popper",
+      "jahr": "1963"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der kritische Rationalismus ist Karl Poppers Wissenschaftsphilosophie, die Falsifizierbarkeit als Kriterium wissenschaftlicher Theorien einfuehrt.",
+    "ausfuehrlicheBeschreibung": "Der kritische Rationalismus ist eine von Karl Popper begruendete wissenschaftsphilosophische Position, die sich sowohl gegen den logischen Positivismus als auch gegen den Relativismus wendet. Ihr zentrales Prinzip ist die Falsifizierbarkeit: Eine Theorie ist nur dann wissenschaftlich, wenn sie prinzipiell durch Erfahrung widerlegbar ist. Verifizierung – der endgueltige Beweis einer Theorie – ist dagegen unmoeglich.\n\nPopper ersetzte das Induktionsprinzip durch die Methode von Versuch und Irrtum: Wissenschaftler stellen kuehne Hypothesen auf und versuchen dann, diese zu widerlegen. Theorien, die allen Widerlegungsversuchen standhalten, gelten als bewaehrt, aber nie als endgueltig bewiesen. Wissenschaftlicher Fortschritt besteht nicht in der Anhaeufung von Wahrheiten, sondern in der sukzessiven Elimination von Irrtuemern.\n\nDer kritische Rationalismus hat weitreichende Konsequenzen ueber die Wissenschaftstheorie hinaus: In der Politik vertritt er eine offene Gesellschaft, die ihre Institutionen staendig kritisch ueberprueft und verbessert. In der Erkenntnistheorie steht er fuer eine Haltung der intellektuellen Bescheidenheit: Wir wissen nie sicher, aber wir koennen aus unseren Fehlern lernen und der Wahrheit naeherkommen.",
+    "kernthesen": [
+      "Falsifizierbarkeit ist das Kriterium wissenschaftlicher Theorien",
+      "Endgueltige Verifikation ist unmoeglich, nur Falsifikation ist moeglich",
+      "Wissenschaft schreitet durch Versuch und Irrtum voran",
+      "Theorien sind bewaehrt, aber nie endgueltig bewiesen",
+      "Eine offene Gesellschaft lebt von staendiger kritischer Ueberpruefung"
+    ],
+    "entstehung": "Der kritische Rationalismus wurde von Karl Popper in den 1930er Jahren entwickelt, insbesondere in seiner Logik der Forschung (1934). Er entstand als Kritik am Verifikationismus des Wiener Kreises und als Antwort auf das Induktionsproblem.",
+    "kritik": "Kritiker werfen dem kritischen Rationalismus vor, dass Falsifikation in der wissenschaftlichen Praxis selten eindeutig ist, da immer Hilfshypothesen angepasst werden koennen. Zudem wird Poppers Ablehnung der Induktion als unrealistisch kritisiert, da Wissenschaftler in der Praxis staendig induktiv schliessen."
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Moralbewusstsein und kommunikatives Handeln", "autor": "Jürgen Habermas", "jahr": "1983"},
     {"titel": "Erläuterungen zur Diskursethik", "autor": "Jürgen Habermas", "jahr": "1991"},
     {"titel": "Theorie des kommunikativen Handelns", "autor": "Jürgen Habermas", "jahr": "1981"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Diskursethik sagt: Eine Regel ist nur dann fair, wenn alle Betroffenen in einem offenen Gespraech zustimmen koennten. Nicht einer entscheidet, sondern alle reden mit.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, in deiner WG gibt es Streit ueber die Putzregeln. Die Diskursethik wuerde sagen: Eine Regel ist nur dann gerecht, wenn alle Mitbewohner in einer offenen Diskussion zustimmen koennen, ohne dass jemand unter Druck gesetzt wird. Es zaehlt nur das bessere Argument, nicht wer am lautesten schreit.\n\nDiese Idee stammt vor allem von Juergen Habermas. Er hat sich gefragt: Wie finden wir heraus, was moralisch richtig ist? Seine Antwort: Nicht einer allein kann das entscheiden, sondern nur die Gemeinschaft im fairen Gespraech. Damit hat er die Ethik von Kant weitergedacht, bei dem noch jeder fuer sich ueberlegen sollte, was richtig ist.\n\nDas hat auch direkte Auswirkungen auf die Politik: Wenn faire Regeln nur durch offenen Dialog entstehen koennen, dann ist Demokratie nicht nur praktisch, sondern moralisch notwendig. Gerechte Institutionen sind solche, die freie Diskussionen ermoeglichen und schuetzen.",
+    "kernthesen": [
+      "Moralische Regeln muessen in einem offenen, fairen Gespraech begruendet werden.",
+      "Eine Regel ist nur gueltig, wenn alle Betroffenen ihr zustimmen koennten.",
+      "In einem idealen Gespraech zaehlt nur das bessere Argument, nicht Macht oder Status.",
+      "Demokratie ist nicht nur eine Regierungsform, sondern eine moralische Notwendigkeit.",
+      "Wie man zu Regeln kommt, ist wichtiger als welche Regeln man aufstellt."
+    ],
+    "entstehung": "Die Diskursethik wurde in den 1970er und 1980er Jahren von Juergen Habermas und Karl-Otto Apel entwickelt. Sie verbindet Ideen der Frankfurter Schule mit Sprachphilosophie und versucht, Kants Ethik auf Dialog und Gemeinschaft umzubauen.",
+    "kritik": "Das groesste Problem: In der echten Welt gibt es nie ein perfekt faires Gespraech, weil immer Machtunterschiede bestehen. Ausserdem sagt die Diskursethik vor allem, wie man diskutieren soll, aber nicht konkret, was richtig und falsch ist."
+  }
 }

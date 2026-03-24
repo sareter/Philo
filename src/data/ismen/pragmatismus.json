@@ -11,14 +11,52 @@
     "Denken ist eine Form des Problemlösens, nicht der passiven Abbildung der Wirklichkeit.",
     "Philosophie soll nicht nach letzten Wahrheiten suchen, sondern zur Verständigung und Horizonterweiterung beitragen."
   ],
-  "hauptvertreter": ["charles-sanders-peirce", "william-james", "john-dewey"],
+  "hauptvertreter": [
+    "charles-sanders-peirce",
+    "william-james",
+    "john-dewey"
+  ],
   "entstehung": "Der Pragmatismus entstand in den 1870er Jahren im Metaphysical Club in Cambridge, Massachusetts, einem informellen Diskussionszirkel, dem Peirce, James, Oliver Wendell Holmes Jr. und andere angehörten. Peirce formulierte die pragmatische Maxime 1878. James popularisierte den Pragmatismus um die Jahrhundertwende. Dewey entwickelte ihn in der ersten Hälfte des 20. Jahrhunderts zur umfassenden philosophischen und pädagogischen Theorie weiter.",
   "kritik": "Die Hauptkritik am Pragmatismus betrifft seinen Wahrheitsbegriff. Bertrand Russell und G.E. Moore warfen James vor, Wahrheit mit Nützlichkeit zu verwechseln – eine nützliche Überzeugung kann falsch sein und eine wahre Überzeugung nutzlos. Der Pragmatismus wird des Relativismus bezichtigt: Wenn Wahrheit das ist, was funktioniert, funktioniert sie für wen und in welchem Kontext? Peirce selbst distanzierte sich von James' populärem Pragmatismus und nannte seine eigene Position Pragmatizismus, um sie von Missverständnissen abzugrenzen. Marxisten kritisieren den Pragmatismus als Philosophie des amerikanischen Kapitalismus, die den Status quo rechtfertigt. Kontinentale Philosophen bemängeln die Oberflächlichkeit und den Anti-Intellektualismus des pragmatistischen Ansatzes.",
-  "verwandteIsmen": ["empirismus", "utilitarismus", "relativismus", "naturalismus"],
+  "verwandteIsmen": [
+    "empirismus",
+    "utilitarismus",
+    "relativismus",
+    "naturalismus"
+  ],
   "schluesselwerke": [
-    { "titel": "How to Make Our Ideas Clear", "autor": "Charles Sanders Peirce", "jahr": "1878" },
-    { "titel": "Pragmatism", "autor": "William James", "jahr": "1907" },
-    { "titel": "Democracy and Education", "autor": "John Dewey", "jahr": "1916" },
-    { "titel": "Kontingenz, Ironie und Solidarität", "autor": "Richard Rorty", "jahr": "1989" }
-  ]
+    {
+      "titel": "How to Make Our Ideas Clear",
+      "autor": "Charles Sanders Peirce",
+      "jahr": "1878"
+    },
+    {
+      "titel": "Pragmatism",
+      "autor": "William James",
+      "jahr": "1907"
+    },
+    {
+      "titel": "Democracy and Education",
+      "autor": "John Dewey",
+      "jahr": "1916"
+    },
+    {
+      "titel": "Kontingenz, Ironie und Solidarität",
+      "autor": "Richard Rorty",
+      "jahr": "1989"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Pragmatismus ist eine philosophische Stroemung, die den Wert von Ideen und Theorien an ihren praktischen Konsequenzen misst.",
+    "ausfuehrlicheBeschreibung": "Der Pragmatismus ist die bedeutendste philosophische Tradition, die in den Vereinigten Staaten entstanden ist. Er entwickelte sich in der zweiten Haelfte des 19. Jahrhunderts und hat die amerikanische Philosophie, Paedagogik und politische Kultur tiefgreifend gepraegt.\n\nCharles Sanders Peirce (1839-1914) gilt als Begruender des Pragmatismus. In seinem Aufsatz How to Make Our Ideas Clear (1878) formulierte er die pragmatische Maxime: Die Bedeutung eines Begriffs besteht in seinen denkbaren praktischen Konsequenzen. Um den Inhalt eines Begriffs zu klaeren, muessen wir fragen: Welche erfahrbaren Auswirkungen hat der Gegenstand, den der Begriff bezeichnet? Peirce verstand den Pragmatismus primaer als Methode der Begriffsklaerung und betonte die Rolle der wissenschaftlichen Gemeinschaft bei der Wahrheitsfindung.\n\nWilliam James (1842-1910) popularisierte den Pragmatismus und weitete ihn zu einer umfassenden Philosophie aus. Wahrheit ist fuer James nicht die Uebereinstimmung einer Aussage mit einer unabhaengigen Wirklichkeit, sondern das, was in der Praxis funktioniert – das, was sich im Lauf der Erfahrung bewaehrt. Eine Idee ist wahr, insofern sie nuetzlich ist; sie ist nuetzlich, insofern sie wahr ist. James wendete den Pragmatismus auch auf die Religionsphilosophie an: Der Gottesglaube ist pragmatisch gerechtfertigt, wenn er dem Glaeubigen hilft, ein besseres Leben zu fuehren.",
+    "kernthesen": [
+      "Die Bedeutung eines Begriffs besteht in seinen denkbaren praktischen Konsequenzen (pragmatische Maxime).",
+      "Wahrheit ist das, was sich in der Praxis bewaehrt und funktioniert.",
+      "Ideen und Theorien sind Werkzeuge zur Loesung praktischer Probleme.",
+      "Denken ist eine Form des Problemloesens, nicht der passiven Abbildung der Wirklichkeit.",
+      "Philosophie soll nicht nach letzten Wahrheiten suchen, sondern zur Verstaendigung und Horizonterweiterung beitragen."
+    ],
+    "entstehung": "Der Pragmatismus entstand in den 1870er Jahren im Metaphysical Club in Cambridge, Massachusetts, einem informellen Diskussionszirkel, dem Peirce, James, Oliver Wendell Holmes Jr. und andere angehoerten. Peirce formulierte die pragmatische Maxime 1878. James popularisierte den Pragmatismus um die Jahrhundertwende. Dewey entwickelte ihn in der ersten Haelfte des 20. Jahrhunderts zur umfassenden philosophischen und paedagogischen Theorie weiter.",
+    "kritik": "Die Hauptkritik am Pragmatismus betrifft seinen Wahrheitsbegriff. Bertrand Russell und G.E. Moore warfen James vor, Wahrheit mit Nuetzlichkeit zu verwechseln – eine nuetzliche Ueberzeugung kann falsch sein und eine wahre Ueberzeugung nutzlos. Der Pragmatismus wird des Relativismus bezichtigt: Wenn Wahrheit das ist, was funktioniert, funktioniert sie fuer wen und in welchem Kontext? Peirce selbst distanzierte sich von James' populaerem Pragmatismus und nannte seine eigene Position..."
+  }
 }

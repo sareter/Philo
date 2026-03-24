@@ -20,5 +20,18 @@
     { "titel": "Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht", "autor": "Immanuel Kant", "jahr": "1784" },
     { "titel": "Esquisse d'un tableau historique des progrès de l'esprit humain", "autor": "Marquis de Condorcet", "jahr": "1795" },
     { "titel": "Enlightenment Now", "autor": "Steven Pinker", "jahr": "2018" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der philosophische Optimismus glaubt, dass die Welt im Grunde gut ist und dass die Menschheit sich zum Besseren entwickeln kann. Er reicht von 'das hier ist die bestmoegliche Welt' bis zu 'wir koennen die Dinge verbessern'.",
+    "ausfuehrlicheBeschreibung": "Der Philosoph Leibniz stellte die grosse These auf: Gott ist perfekt, also muss er auch die beste aller moeglichen Welten geschaffen haben. Klar gibt es Leid, aber das gehoert halt dazu, weil Freiheit und Endlichkeit ohne Schattenseiten nicht moeglich sind. Voltaire hat sich darueber in seinem Roman 'Candide' lustig gemacht, vor allem nach dem schrecklichen Erdbeben von Lissabon 1755. Die Figur Dr. Pangloss, die trotz aller Katastrophen an die 'beste aller Welten' glaubt, wurde zum Symbol fuer naiven Optimismus.\n\nSpannender ist der Fortschrittsoptimismus der Aufklaerung: Die Menschheit wird durch Vernunft, Wissenschaft und Bildung immer besser. Kant und Hegel glaubten, dass die Geschichte trotz aller Umwege auf mehr Freiheit und Vernunft zusteuert. Heute vertreten Autoren wie Steven Pinker diese Position mit Daten: Lebenserwartung steigt, Armut sinkt, Gewalt geht zurueck.\n\nEine moderate Version ist der Meliorismus: Die Welt ist weder die beste noch die schlechteste, aber wir koennen sie durch unser Handeln verbessern. Das ist keine naive Schoenfaerberei, sondern ein Aufruf zum aktiven Handeln. Die Frage ist nur, ob dieser Optimismus berechtigt ist oder ob Klimawandel und andere Krisen uns eines Besseren belehren.",
+    "kernthesen": [
+      "Die Welt ist im Grossen und Ganzen gut, oder zumindest die bestmoegliche Version.",
+      "Durch Wissenschaft, Bildung und Vernunft kann sich die Menschheit weiterentwickeln.",
+      "Leid und Uebel in der Welt werden vom Guten uebertrumpft oder sind unvermeidliche Nebeneffekte.",
+      "Fortschritt ist kein Zufall, sondern eine grundlegende Richtung der Geschichte.",
+      "Die menschliche Vernunft kann die grossen Probleme der Welt grundsaetzlich loesen."
+    ],
+    "entstehung": "Leibniz brachte die Idee der 'besten aller moeglichen Welten' 1710 auf. In der Aufklaerung entwickelte sich daraus ein Glaube an den Fortschritt durch Vernunft und Wissenschaft. Heute stuetzen Autoren wie Steven Pinker den Optimismus mit konkreten Zahlen und Statistiken.",
+    "kritik": "Pessimisten wie Schopenhauer sagen: Der Optimismus uebersieht das allgegenwaertige Leiden. Voltaires 'Candide' zeigt, wie absurd blinder Optimismus wirken kann. Und nach den Weltkriegen und dem Holocaust ist die Frage berechtigt, ob der Glaube an den Fortschritt nicht naiv ist."
+  }
 }

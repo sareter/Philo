@@ -20,5 +20,18 @@
     { "titel": "The Concept of Mind", "autor": "Gilbert Ryle", "jahr": "1949" },
     { "titel": "The Conscious Mind", "autor": "David Chalmers", "jahr": "1996" },
     { "titel": "What Is It Like to Be a Bat?", "autor": "Thomas Nagel", "jahr": "1974" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Dualismus sagt: Die Welt besteht aus zwei grundverschiedenen Dingen, meistens Geist und Materie. Dein Koerper ist Materie, aber deine Gedanken und Gefuehle sind etwas ganz anderes.",
+    "ausfuehrlicheBeschreibung": "Hast du dich schon mal gefragt, warum sich ein Gedanke so anders anfuehlt als ein Stein? Der Dualismus sagt: Das liegt daran, dass es tatsaechlich zwei grundverschiedene Arten von Dingen gibt. Dein Koerper ist Materie, er nimmt Raum ein und folgt physikalischen Gesetzen. Dein Geist aber, deine Gedanken und Gefuehle, ist etwas voellig anderes: nicht greifbar, nicht messbar, aber trotzdem real.\n\nDer bekannteste Vertreter war Rene Descartes im 17. Jahrhundert. Er sagte: Ich kann an allem zweifeln, sogar daran, dass mein Koerper existiert. Aber dass ich denke, daran kann ich nicht zweifeln. Also muss der Geist etwas anderes sein als der Koerper. Das fuehrte zu seiner beruehmten Trennung von denkender Substanz (Geist) und ausgedehnter Substanz (Materie).\n\nDas grosse Problem: Wenn Geist und Koerper so grundverschieden sind, wie koennen sie dann zusammenarbeiten? Wie kann ein Gedanke dazu fuehren, dass du deinen Arm hebst? Darauf hat bis heute niemand eine wirklich befriedigende Antwort gefunden. Viele moderne Philosophen haben den strikten Dualismus deshalb aufgegeben, aber die Grundfrage bleibt: Laesst sich Bewusstsein komplett durch Gehirnprozesse erklaeren?",
+    "kernthesen": [
+      "Die Welt besteht aus zwei grundverschiedenen Dingen: Geist und Materie.",
+      "Der Koerper ist physisch und folgt Naturgesetzen, der Geist ist immateriell und frei.",
+      "Bewusstsein und Gefuehle lassen sich nicht einfach auf Gehirnchemie reduzieren.",
+      "Der Koerper funktioniert wie eine Maschine, der Geist ist etwas ganz anderes.",
+      "Die groesste Herausforderung: Wie haengen Geist und Koerper zusammen?"
+    ],
+    "entstehung": "Dualistische Ideen gibt es seit der Antike, zum Beispiel bei Platon mit seiner Trennung von Ideenwelt und Sinnenwelt. Richtig systematisch wurde der Dualismus von Rene Descartes im 17. Jahrhundert formuliert, als er das denkende Ich zum Ausgangspunkt seiner Philosophie machte.",
+    "kritik": "Das Hauptproblem: Niemand kann gut erklaeren, wie zwei so verschiedene Dinge wie Geist und Materie aufeinander einwirken sollen. Die Gehirnforschung zeigt zudem, dass Gedanken und Gefuehle eng mit Gehirnprozessen zusammenhaengen, was eine separate Geist-Substanz ueberfluessig erscheinen laesst."
+  }
 }

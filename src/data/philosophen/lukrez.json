@@ -6,19 +6,24 @@
     "jahr": -99,
     "ort": "Rom (vermutlich)",
     "land": "Römische Republik",
-    "lat": 41.90,
-    "lng": 12.50
+    "lat": 41.9,
+    "lng": 12.5
   },
   "gestorben": {
     "jahr": -55,
     "ort": "Rom (vermutlich)",
     "land": "Römische Republik",
-    "lat": 41.90,
-    "lng": 12.50
+    "lat": 41.9,
+    "lng": 12.5
   },
   "epoche": "Antike",
   "region": "Römische Republik",
-  "hauptstroemungen": ["Epikureismus", "Atomismus", "Materialismus", "Naturphilosophie"],
+  "hauptstroemungen": [
+    "Epikureismus",
+    "Atomismus",
+    "Materialismus",
+    "Naturphilosophie"
+  ],
   "kurzbeschreibung": "Titus Lucretius Carus war ein römischer Dichter und Philosoph, der Epikurs Atomismus in seinem gewaltigen Lehrgedicht 'De rerum natura' verbreitete. Sein Werk ist die vollständigste Darstellung der epikureischen Naturphilosophie und ein Meisterwerk der lateinischen Dichtung.",
   "biografie": {
     "fruehesLeben": "Über Lukrez' Leben ist fast nichts Gesichertes bekannt. Er wurde vermutlich um 99 v. Chr. geboren, möglicherweise in Rom oder Kampanien. Sein vollständiger Name Titus Lucretius Carus deutet auf eine vornehme Familie hin. Hieronymus berichtet in seiner Chronik, Lukrez sei durch einen Liebestrank wahnsinnig geworden, habe sein Werk in lichten Augenblicken geschrieben und sich schließlich das Leben genommen – eine Geschichte, die von den meisten modernen Forschern als christliche Verleumdung eines materialistischen Philosophen angesehen wird.",
@@ -74,6 +79,51 @@
       "kontext": "Berühmter Vergleich: Der Epikureer betrachtet gelassen die Stürme des Lebens von der sicheren Warte der Philosophie aus."
     }
   ],
-  "verwandtePhilosophen": ["epikur", "demokrit", "cicero", "seneca"],
-  "verwandteIsmen": ["epikureismus", "atomismus", "materialismus", "naturalismus"]
+  "verwandtePhilosophen": [
+    "epikur",
+    "demokrit",
+    "cicero",
+    "seneca"
+  ],
+  "verwandteIsmen": [
+    "epikureismus",
+    "atomismus",
+    "materialismus",
+    "naturalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Titus Lucretius Carus war ein roemischer Dichter und Philosoph, der Epikurs Atomismus in seinem gewaltigen Lehrgedicht 'De rerum natura' verbreitete. Sein Werk ist die vollstaendigste Darstellung der epikureischen Naturphilosophie und ein Meisterwerk der lateinischen Dichtung.",
+    "biografie": {
+      "fruehesLeben": "Ueber Lukrez' Leben ist fast nichts Gesichertes bekannt. Er wurde vermutlich um 99 v. Chr. geboren, moeglicherweise in Rom oder Kampanien. Sein vollstaendiger Name Titus Lucretius Carus deutet auf eine vornehme Familie hin. Hieronymus berichtet in seiner Chronik, Lukrez sei durch einen Liebestrank wahnsinnig geworden, habe sein Werk in lichten Augenblicken geschrieben und sich schliesslich das Leben genommen – eine Geschichte, die von den meisten modernen Forschern als christliche Verleumdung eines materialistischen Philosophen angesehen wird.",
+      "schaffen": "Lukrez' einziges bekanntes Werk ist das Lehrgedicht 'De rerum natura' (Ueber die Natur der Dinge) in sechs Buechern und etwa 7400 Hexametern, gewidmet dem roemischen Aristokraten Gaius Memmius. Es ist die vollstaendigste erhaltene Darstellung der epikureischen Philosophie und verbindet philosophische Tiefe mit poetischer Brillanz. Buch I und II behandeln die Atomlehre: Alles besteht aus ewigen, unteilbaren Atomen und leerem Raum. Nichts entsteht aus dem Nichts, und nichts vergeht ins Nichts. Die Clinamen-Lehre – die spontane minimale Abweichung der Atome – ermoeglicht die Freiheit des Willens. Buch III behandelt die Seele als sterbliche Verbindung von Atomen und enthaelt Lukrez' beruehmte Argumente gegen die Todesfurcht. Buch IV behandelt die Sinneswahrnehmung und die Erkenntnistheorie.",
+      "spaetesLeben": "Ueber Lukrez' spaetes Leben gibt es keine gesicherten Informationen. Das Werk scheint bei seinem Tod nicht ganz fertig gewesen zu sein – es fehlt an manchen Stellen die letzte Ueberarbeitung.",
+      "tod": "Lukrez starb vermutlich um 55 v. Chr. Cicero berichtet in einem Brief an seinen Bruder Quintus, Lukrez' Gedicht zeige 'viel Geist, aber auch viel Kunst'. Ob er sich tatsaechlich das Leben nahm, wie Hieronymus behauptet, ist hoechst zweifelhaft. Sein Werk wurde angeblich von Cicero posthum herausgegeben.",
+      "nachwirkung": "De rerum natura geriet im Mittelalter weitgehend in Vergessenheit, wurde aber 1417 vom Humanisten Poggio Bracciolini in einem deutschen Kloster wiederentdeckt – ein Ereignis, das Stephen Greenblatt in 'The Swerve' als Wendepunkt der Geistesgeschichte beschrieb. Das Werk beeinflusste die Renaissance-Philosophie, Galilei, Gassendi, Newton und die gesamte Aufklaerung. Lukrez' atomistische Welterklaerung wurde zur Grundlage der modernen Naturwissenschaft."
+    },
+    "kernideen": [
+      {
+        "titel": "Atomismus als Befreiung",
+        "beschreibung": "Die atomistische Naturerklaerung befreit den Menschen von aberglaeubischer Furcht. Alles in der Natur hat natuerliche Ursachen – es gibt keine goettliche Intervention, kein Schicksal und keine Strafe nach dem Tod."
+      },
+      {
+        "titel": "Sterblichkeit der Seele",
+        "beschreibung": "Die Seele ist eine sterbliche Verbindung feiner Atome. Mit dem Tod loest sie sich auf. Daher gibt es kein Leben nach dem Tod und keine Strafe in der Unterwelt – und folglich keinen Grund, den Tod zu fuerchten."
+      },
+      {
+        "titel": "Religionskritik",
+        "beschreibung": "Die Religion ist eine Quelle des Ungluecks und der Grausamkeit. Sie beruht auf Unwissenheit und Angst. Die Aufklaerung durch die Naturphilosophie befreit den Menschen von diesem Joch."
+      },
+      {
+        "titel": "Naturgeschichte der Zivilisation",
+        "beschreibung": "Die menschliche Zivilisation hat sich schrittweise aus primitiven Anfaengen entwickelt – durch Erfahrung, Not und Erfindungsgeist, nicht durch goettliche Eingebung."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "De rerum natura (Ueber die Natur der Dinge)",
+        "jahr": "ca. 60–55 v. Chr.",
+        "beschreibung": "Lehrgedicht in sechs Buechern und ca. 7400 Hexametern. Vollstaendige Darstellung der epikureischen Naturphilosophie: Atomlehre, Seelenlehre, Sinneswahrnehmung, Kosmologie, Kulturgeschichte und Naturphaenomene. Eines der groessten Werke der lateinischen Literatur."
+      }
+    ]
+  }
 }

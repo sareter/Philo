@@ -11,13 +11,43 @@
     "Die Naturalisierung der Frau und die Objektivierung der Natur sind zwei Seiten derselben Medaille.",
     "Wahre Befreiung erfordert die gleichzeitige Überwindung von Sexismus und Naturzerstörung."
   ],
-  "hauptvertreter": ["simone-de-beauvoir"],
+  "hauptvertreter": [
+    "simone-de-beauvoir"
+  ],
   "entstehung": "Der Ökofeminismus entstand in den 1970er Jahren im Kontext der zweiten Frauenbewegung und der wachsenden Umweltbewegung. Françoise d'Eaubonne prägte den Begriff 1974, und Vandana Shiva sowie Maria Mies entwickelten ihn in den 1980er Jahren zu einer umfassenden Gesellschaftstheorie weiter.",
   "kritik": "Kritiker werfen dem Ökofeminismus vor, dass er Gefahr läuft, die traditionelle Gleichsetzung von Frau und Natur zu verfestigen, statt sie zu überwinden. Zudem wird bemängelt, dass die Vielfalt der Ansätze innerhalb des Ökofeminismus zu theoretischer Unschärfe führt und die konkreten politischen Forderungen oft vage bleiben.",
-  "verwandteIsmen": ["feminismus", "umweltethik"],
+  "verwandteIsmen": [
+    "feminismus",
+    "umweltethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Das andere Geschlecht", "autor": "Simone de Beauvoir", "jahr": "1949"},
-    {"titel": "Le Féminisme ou la Mort", "autor": "Françoise d'Eaubonne", "jahr": "1974"},
-    {"titel": "Staying Alive", "autor": "Vandana Shiva", "jahr": "1988"}
-  ]
+    {
+      "titel": "Das andere Geschlecht",
+      "autor": "Simone de Beauvoir",
+      "jahr": "1949"
+    },
+    {
+      "titel": "Le Féminisme ou la Mort",
+      "autor": "Françoise d'Eaubonne",
+      "jahr": "1974"
+    },
+    {
+      "titel": "Staying Alive",
+      "autor": "Vandana Shiva",
+      "jahr": "1988"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Oekofeminismus verbindet feministische Gesellschaftskritik mit oekologischem Bewusstsein und argumentiert, dass die Unterdrueckung der Frau und die Ausbeutung der Natur auf denselben patriarchalen Herrschaftsstrukturen beruhen.",
+    "ausfuehrlicheBeschreibung": "Der Oekofeminismus entstand in den 1970er Jahren als theoretische Verbindung von Feminismus und Oekologie. Françoise d'Eaubonne praegte den Begriff 1974 und argumentierte, dass die oekologische Krise und die Unterdrueckung der Frauen gemeinsame Wurzeln in patriarchalen Denkmustern haben. Die Gleichsetzung von Frau und Natur als zu beherrschende Objekte wird als Ausdruck derselben dualistischen Logik verstanden, die auch zwischen Kultur und Natur, Geist und Koerper, Vernunft und Gefuehl hierarchisch unterscheidet.\n\nSimone de Beauvoirs Analyse der Frau als das „Andere“ in der patriarchalen Gesellschaft bildet eine wichtige Grundlage des Oekofeminismus. Die Naturalisierung der Frau – ihre Reduktion auf biologische Funktionen – entspricht der Objektivierung der Natur als blosse Ressource. Oekofeministinnen fordern daher eine grundlegende Revision der westlichen Denktraditionen, die sowohl die Befreiung der Frau als auch den Schutz der Natur umfasst.\n\nIn der Gegenwart hat sich der Oekofeminismus zu einem vielfaeltigen Forschungsfeld entwickelt, das Fragen der globalen Gerechtigkeit, des Klimawandels und der Ernaehrungssouveraenitaet einschliesst. Insbesondere in den Laendern des Globalen Suedens verbindet der Oekofeminismus den Widerstand gegen neokoloniale Ausbeutung mit dem Einsatz fuer Frauenrechte und oekologische Nachhaltigkeit.",
+    "kernthesen": [
+      "Die Unterdrueckung der Frau und die Ausbeutung der Natur haben gemeinsame strukturelle Ursachen im Patriarchat.",
+      "Dualistische Denkmuster wie Kultur/Natur und Mann/Frau dienen der Legitimation von Herrschaft.",
+      "Eine oekologische Ethik ist ohne feministische Perspektive unvollstaendig und umgekehrt.",
+      "Die Naturalisierung der Frau und die Objektivierung der Natur sind zwei Seiten derselben Medaille.",
+      "Wahre Befreiung erfordert die gleichzeitige Ueberwindung von Sexismus und Naturzerstoerung."
+    ],
+    "entstehung": "Der Oekofeminismus entstand in den 1970er Jahren im Kontext der zweiten Frauenbewegung und der wachsenden Umweltbewegung. Françoise d'Eaubonne praegte den Begriff 1974, und Vandana Shiva sowie Maria Mies entwickelten ihn in den 1980er Jahren zu einer umfassenden Gesellschaftstheorie weiter.",
+    "kritik": "Kritiker werfen dem Oekofeminismus vor, dass er Gefahr laeuft, die traditionelle Gleichsetzung von Frau und Natur zu verfestigen, statt sie zu ueberwinden. Zudem wird bemaengelt, dass die Vielfalt der Ansaetze innerhalb des Oekofeminismus zu theoretischer Unschaerfe fuehrt und die konkreten politischen Forderungen oft vage bleiben."
+  }
 }

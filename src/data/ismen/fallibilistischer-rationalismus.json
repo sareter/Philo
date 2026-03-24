@@ -11,13 +11,43 @@
     "Eine Theorie ist nur wissenschaftlich, wenn sie falsifizierbar ist.",
     "Die offene Gesellschaft beruht auf dem Prinzip der Fehlerkorrektur und der Bereitschaft zur Revision."
   ],
-  "hauptvertreter": ["karl-popper"],
+  "hauptvertreter": [
+    "karl-popper"
+  ],
   "entstehung": "Der Fallibilistische Rationalismus wurde von Karl Popper in „Logik der Forschung“ (1934) und „Die offene Gesellschaft und ihre Feinde“ (1945) entwickelt. Er entstand aus der Kritik am Positivismus des Wiener Kreises und am historischen Determinismus von Marx und Hegel.",
   "kritik": "Kritiker werfen dem Fallibilistischen Rationalismus vor, dass das Falsifikationsprinzip selbst nicht falsifizierbar ist und damit seine eigenen Kriterien nicht erfüllt. Zudem wird bemängelt, dass die Wissenschaftsgeschichte zeigt, dass erfolgreiche Theorien oft trotz scheinbarer Widerlegungen beibehalten werden.",
-  "verwandteIsmen": ["kritischer-rationalismus", "fallibilismus"],
+  "verwandteIsmen": [
+    "kritischer-rationalismus",
+    "fallibilismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
-    {"titel": "Die offene Gesellschaft und ihre Feinde", "autor": "Karl Popper", "jahr": "1945"},
-    {"titel": "Vermutungen und Widerlegungen", "autor": "Karl Popper", "jahr": "1963"}
-  ]
+    {
+      "titel": "Logik der Forschung",
+      "autor": "Karl Popper",
+      "jahr": "1934"
+    },
+    {
+      "titel": "Die offene Gesellschaft und ihre Feinde",
+      "autor": "Karl Popper",
+      "jahr": "1945"
+    },
+    {
+      "titel": "Vermutungen und Widerlegungen",
+      "autor": "Karl Popper",
+      "jahr": "1963"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Fallibilistische Rationalismus verbindet das Vertrauen in die Vernunft mit der Einsicht in ihre Fehlbarkeit.",
+    "ausfuehrlicheBeschreibung": "Der Fallibilistische Rationalismus wurde von Karl Popper als philosophische Position entwickelt, die zwischen unkritischem Rationalismus und irrationalem Skeptizismus vermittelt. Popper argumentierte, dass der klassische Rationalismus, der absolute Gewissheit anstrebt, gescheitert ist – weder die Sinneserfahrung noch die Vernunft koennen unfehlbares Wissen liefern. Doch dies ist kein Grund, die Vernunft aufzugeben; vielmehr muessen wir sie bescheidener, aber nicht weniger entschieden einsetzen.\n\nDer Kern des Fallibilistischen Rationalismus liegt in der Verbindung zweier Einsichten: Erstens ist die menschliche Vernunft fehlbar – alle unsere Theorien und Ueberzeugungen koennen sich als falsch erweisen. Zweitens ist die kritische Pruefung durch Vernunft und Erfahrung dennoch das beste verfuegbare Mittel zur Annaeherung an die Wahrheit. Popper formulierte dies als „kritischen Rationalismus“: Nicht die Begruendung von Theorien, sondern ihre kritische Pruefung und Widerlegung ist die Aufgabe rationalen Denkens.\n\nDer Fallibilistische Rationalismus hat tiefgreifende Konsequenzen fuer die Wissenschaftstheorie und die politische Philosophie. In der Wissenschaft fuehrt er zum Prinzip der Falsifizierbarkeit: Eine Theorie ist nur dann wissenschaftlich, wenn sie an der Erfahrung scheitern kann. In der Politik begruendet er die offene Gesellschaft, die auf dem Prinzip der Fehlerkorrektur beruht und totalitaere Systeme ablehnt, die absolute Wahrheit beanspruchen.",
+    "kernthesen": [
+      "Alle menschliche Erkenntnis ist fehlbar und prinzipiell revidierbar.",
+      "Trotz ihrer Fehlbarkeit ist die Vernunft das beste Instrument zur Annaeherung an die Wahrheit.",
+      "Nicht die Begruendung, sondern die kritische Pruefung von Theorien ist die Aufgabe der Vernunft.",
+      "Eine Theorie ist nur wissenschaftlich, wenn sie falsifizierbar ist.",
+      "Die offene Gesellschaft beruht auf dem Prinzip der Fehlerkorrektur und der Bereitschaft zur Revision."
+    ],
+    "entstehung": "Der Fallibilistische Rationalismus wurde von Karl Popper in „Logik der Forschung“ (1934) und „Die offene Gesellschaft und ihre Feinde“ (1945) entwickelt. Er entstand aus der Kritik am Positivismus des Wiener Kreises und am historischen Determinismus von Marx und Hegel.",
+    "kritik": "Kritiker werfen dem Fallibilistischen Rationalismus vor, dass das Falsifikationsprinzip selbst nicht falsifizierbar ist und damit seine eigenen Kriterien nicht erfuellt. Zudem wird bemaengelt, dass die Wissenschaftsgeschichte zeigt, dass erfolgreiche Theorien oft trotz scheinbarer Widerlegungen beibehalten werden."
+  }
 }

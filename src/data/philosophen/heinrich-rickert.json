@@ -18,7 +18,9 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Neukantianismus"],
+  "hauptstroemungen": [
+    "Neukantianismus"
+  ],
   "kurzbeschreibung": "Heinrich Rickert war ein deutscher Philosoph und neben seinem Lehrer Windelband der wichtigste Vertreter der Südwestdeutschen Schule des Neukantianismus. Er entwickelte eine systematische Wissenschaftstheorie, die zwischen Natur- und Kulturwissenschaften unterscheidet, und eine Wertphilosophie, die Werte als transzendente Geltungen begreift. Als Lehrer Martin Heideggers beeinflusste er auch die Phänomenologie.",
   "biografie": {
     "fruehesLeben": "Heinrich Rickert wurde 1863 in Danzig (heute Gdańsk) geboren. Er studierte in Berlin, Zürich und Straßburg bei Wilhelm Windelband, dessen Schüler und philosophischer Erbe er wurde.",
@@ -70,6 +72,54 @@
       "kontext": "Die Grundunterscheidung von Rickerts Wissenschaftstheorie."
     }
   ],
-  "verwandtePhilosophen": ["wilhelm-windelband", "hermann-lotze", "ernst-troeltsch", "immanuel-kant"],
-  "verwandteIsmen": ["neukantianismus"]
+  "verwandtePhilosophen": [
+    "wilhelm-windelband",
+    "hermann-lotze",
+    "ernst-troeltsch",
+    "immanuel-kant"
+  ],
+  "verwandteIsmen": [
+    "neukantianismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Heinrich Rickert war ein deutscher Philosoph und neben seinem Lehrer Windelband der wichtigste Vertreter der Suedwestdeutschen Schule des Neukantianismus. Er entwickelte eine systematische Wissenschaftstheorie, die zwischen Natur- und Kulturwissenschaften unterscheidet, und eine Wertphilosophie, die Werte als transzendente Geltungen begreift. Als Lehrer Martin Heideggers beeinflusste er auch die Phaenomenologie.",
+    "biografie": {
+      "fruehesLeben": "Heinrich Rickert wurde 1863 in Danzig (heute Gdańsk) geboren. Er studierte in Berlin, Zuerich und Strassburg bei Wilhelm Windelband, dessen Schueler und philosophischer Erbe er wurde.",
+      "schaffen": "Rickert entwickelte Windelbands Unterscheidung zwischen Natur- und Kulturwissenschaften systematisch weiter. Sein Hauptwerk 'Die Grenzen der naturwissenschaftlichen Begriffsbildung' (1896/1902) argumentiert, dass die Kulturwissenschaften nicht nach allgemeinen Gesetzen, sondern nach individuellen Wertbezuegen fragen. In 'Der Gegenstand der Erkenntnis' entwickelte er eine transzendentale Wertphilosophie.",
+      "spaetesLeben": "Rickert folgte Windelband auf den Lehrstuhl in Heidelberg und lehrte dort bis zu seinem Tod. Zu seinen Schuelern gehoerten Martin Heidegger und Emil Lask.",
+      "tod": "Heinrich Rickert starb 1936 in Heidelberg. Sein Neukantianismus wurde zu diesem Zeitpunkt bereits von der Phaenomenologie und dem Existenzialismus verdraengt.",
+      "nachwirkung": "Rickerts Wissenschaftstheorie hat die Methodendiskussion in den Sozial- und Geisteswissenschaften nachhaltig gepraegt. Max Webers Konzept der 'Wertbeziehung' ist direkt von Rickert beeinflusst."
+    },
+    "kernideen": [
+      {
+        "titel": "Natur- und Kulturwissenschaften",
+        "beschreibung": "Rickert unterscheidet zwischen Naturwissenschaften, die das Allgemeine durch Gesetze erfassen, und Kulturwissenschaften, die das Individuelle und Einmalige in seiner Wertbedeutung darstellen. Kultur ist dasjenige, dem Werte anhaften."
+      },
+      {
+        "titel": "Wertbeziehung",
+        "beschreibung": "Die Kulturwissenschaften beziehen ihre Gegenstaende auf Werte, ohne sie zu bewerten. Diese 'Wertbeziehung' ermoeglicht es, das Wesentliche vom Unwesentlichen zu unterscheiden, ohne in subjektive Wertung zu verfallen."
+      },
+      {
+        "titel": "Transzendente Wertgeltung",
+        "beschreibung": "Werte existieren nicht in der Wirklichkeit, sondern gelten jenseits von Sein und Nichtsein. Sie sind weder subjektive Gefuehle noch objektive Dinge, sondern transzendente Geltungen, die das Urteil normieren."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Grenzen der naturwissenschaftlichen Begriffsbildung",
+        "jahr": "1896",
+        "beschreibung": "Rickerts wissenschaftstheoretisches Hauptwerk, das die methodologische Eigenstaendigkeit der Kulturwissenschaften gegenueber den Naturwissenschaften begruendet."
+      },
+      {
+        "titel": "Der Gegenstand der Erkenntnis",
+        "jahr": "1892",
+        "beschreibung": "Eine erkenntnistheoretische Grundlegung, die den Gegenstand der Erkenntnis als transzendenten Wert bestimmt."
+      },
+      {
+        "titel": "Kulturwissenschaft und Naturwissenschaft",
+        "jahr": "1899",
+        "beschreibung": "Eine allgemeinverstaendliche Darstellung von Rickerts Wissenschaftstheorie, die zwischen generalisierender und individualisierender Methode unterscheidet."
+      }
+    ]
+  }
 }

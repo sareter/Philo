@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Hermeneutik"],
+  "hauptstroemungen": [
+    "Hermeneutik"
+  ],
   "kurzbeschreibung": "Hans-Georg Gadamer war ein deutscher Philosoph, der mit seinem Hauptwerk 'Wahrheit und Methode' die philosophische Hermeneutik als eigenständige Disziplin begründete. Er zeigte, dass Verstehen kein methodisches Verfahren, sondern ein Grundzug des menschlichen Daseins ist. Sein Konzept der 'Horizontverschmelzung' und der 'Wirkungsgeschichte' veränderte das Verständnis von Interpretation und Tradition grundlegend.",
   "biografie": {
     "fruehesLeben": "Hans-Georg Gadamer wurde 1900 in Marburg geboren und wuchs in Breslau auf. Er studierte Philosophie in Breslau, Marburg und Freiburg. In Marburg wurde er Schüler Martin Heideggers, der sein Denken entscheidend prägte. Er promovierte 1922 und habilitierte sich 1929.",
@@ -79,6 +81,58 @@
       "kontext": "Gadamers Ethik des Gesprächs: Die Bereitschaft, sich vom Anderen belehren zu lassen."
     }
   ],
-  "verwandtePhilosophen": ["martin-heidegger", "wilhelm-dilthey", "paul-ricoeur", "platon"],
-  "verwandteIsmen": ["hermeneutik"]
+  "verwandtePhilosophen": [
+    "martin-heidegger",
+    "wilhelm-dilthey",
+    "paul-ricoeur",
+    "platon"
+  ],
+  "verwandteIsmen": [
+    "hermeneutik"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Hans-Georg Gadamer war ein deutscher Philosoph, der mit seinem Hauptwerk 'Wahrheit und Methode' die philosophische Hermeneutik als eigenstaendige Disziplin begruendete. Er zeigte, dass Verstehen kein methodisches Verfahren, sondern ein Grundzug des menschlichen Daseins ist. Sein Konzept der 'Horizontverschmelzung' und der 'Wirkungsgeschichte' veraenderte das Verstaendnis von Interpretation und Tradition grundlegend.",
+    "biografie": {
+      "fruehesLeben": "Hans-Georg Gadamer wurde 1900 in Marburg geboren und wuchs in Breslau auf. Er studierte Philosophie in Breslau, Marburg und Freiburg. In Marburg wurde er Schueler Martin Heideggers, der sein Denken entscheidend praegte. Er promovierte 1922 und habilitierte sich 1929.",
+      "schaffen": "Gadamer ueberstand die NS-Zeit als Privatdozent und Professor in Marburg und Leipzig, ohne dem Regime nahe zu stehen. 1949 folgte er dem Ruf nach Heidelberg, wo er bis zu seiner Emeritierung lehrte. Sein Hauptwerk 'Wahrheit und Methode' (1960) erschien, als er 60 Jahre alt war, und begruendete die philosophische Hermeneutik. Es loeste eine breite Debatte aus, unter anderem mit Habermas und Derrida.",
+      "spaetesLeben": "Gadamer blieb bis ins hoechste Alter intellektuell aktiv. Er fuehrte bedeutende Dialoge mit Jacques Derrida ueber Dekonstruktion und Hermeneutik. Noch als ueber Hundertjaehriger empfing er Besucher und diskutierte philosophische Fragen.",
+      "tod": "Hans-Georg Gadamer starb am 13. Maerz 2002 in Heidelberg im Alter von 102 Jahren. Er war einer der langlebigsten bedeutenden Philosophen der Geschichte und hinterliess ein Werk, das die Geisteswissenschaften grundlegend veraenderte.",
+      "nachwirkung": "Gadamers philosophische Hermeneutik hat die Literaturwissenschaft, die Rechtswissenschaft, die Theologie und die Sozialwissenschaften tiefgreifend beeinflusst. Sein Dialog mit Habermas ueber die Moeglichkeit einer kritischen Hermeneutik und mit Derrida ueber die Grenzen des Verstehens gehoeren zu den wichtigsten philosophischen Debatten des 20. Jahrhunderts."
+    },
+    "kernideen": [
+      {
+        "titel": "Horizontverschmelzung",
+        "beschreibung": "Verstehen geschieht als Verschmelzung des Horizonts des Interpreten mit dem Horizont des Textes. Wir verstehen nie 'objektiv', sondern immer aus unserem eigenen geschichtlichen Horizont heraus. Im Verstehen entsteht ein neuer, erweiterter Horizont."
+      },
+      {
+        "titel": "Wirkungsgeschichte",
+        "beschreibung": "Jedes Verstehen steht in einer Wirkungsgeschichte: Die Tradition wirkt in uns, noch bevor wir sie reflektieren. Das 'wirkungsgeschichtliche Bewusstsein' erkennt diese Vorpraegung an, statt sie zu leugnen. Vorurteile sind nicht nur Hindernisse, sondern auch Bedingungen des Verstehens."
+      },
+      {
+        "titel": "Das Gespraech als Modell des Verstehens",
+        "beschreibung": "Verstehen ist kein einseitiger Akt der Subjektivitaet, sondern gleicht einem Gespraech, in dem sich die Gespraechspartner der Sache unterordnen. Im echten Gespraech weiss keiner vorher, was herauskommen wird. Die Sache fuehrt das Gespraech."
+      },
+      {
+        "titel": "Rehabilitierung der Vorurteile",
+        "beschreibung": "Die Aufklaerung hat das Vorurteil diskreditiert. Gadamer zeigt, dass Vorurteile (Vorverstaendnisse) unvermeidlich und zum Teil berechtigt sind. Ohne Vorverstaendnis ist Verstehen unmoeglich. Die Aufgabe ist nicht die Eliminierung, sondern die Ueberpruefung der Vorurteile."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Wahrheit und Methode",
+        "jahr": "1960",
+        "beschreibung": "Das Hauptwerk der philosophischen Hermeneutik, das Verstehen als Grundzug des menschlichen Daseins analysiert und die Grenzen der wissenschaftlichen Methode aufzeigt."
+      },
+      {
+        "titel": "Die Aktualitaet des Schoenen",
+        "jahr": "1977",
+        "beschreibung": "Eine philosophische Aesthetik, die Kunst als Spiel, Symbol und Fest deutet und ihre Bedeutung fuer das menschliche Selbstverstaendnis herausarbeitet."
+      },
+      {
+        "titel": "Wer bin ich und wer bist du? Kommentar zu Celans 'Atemkristall'",
+        "jahr": "1973",
+        "beschreibung": "Ein hermeneutischer Kommentar zu Paul Celans hermetischer Lyrik, der die Grenzen des Verstehens auslotet."
+      }
+    ]
+  }
 }

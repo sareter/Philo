@@ -20,5 +20,18 @@
     { "titel": "Lob der Torheit", "autor": "Erasmus von Rotterdam", "jahr": "1511" },
     { "titel": "Utopia", "autor": "Thomas Morus", "jahr": "1516" },
     { "titel": "Der Existentialismus ist ein Humanismus", "autor": "Jean-Paul Sartre", "jahr": "1946" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Humanismus stellt den Menschen in den Mittelpunkt. Er sagt: Jeder Mensch hat eine Wuerde, ist frei und kann sich durch Bildung und Vernunft weiterentwickeln.",
+    "ausfuehrlicheBeschreibung": "Im Humanismus dreht sich alles um den Menschen. Die Grundidee ist: Jeder Mensch hat einen Wert, egal woher er kommt oder was er glaubt. Menschen sind frei, koennen denken und sich weiterentwickeln. Diese Ueberzeugung hat in der Renaissance angefangen, als Denker wie Pico della Mirandola sagten: Gott hat den Menschen ohne feste Natur erschaffen. Du kannst dich zum Besseren oder zum Schlechteren entwickeln, es liegt an dir.\n\nDer Humanismus hat sich ueber die Jahrhunderte weiterentwickelt. In der Aufklaerung hat Kant formuliert, dass man Menschen nie nur als Mittel benutzen darf, sondern immer auch als Zweck behandeln muss. Also zum Beispiel: Man darf niemanden nur ausnutzen, um selbst einen Vorteil zu haben. Goethe und Humboldt haben dann das Bildungsideal gepraegt, dass man sich als ganzer Mensch entfalten soll, nicht nur fachlich, sondern auch persoenlich.\n\nHeute gibt es den saekularen Humanismus, der ohne Religion auskommt und auf Vernunft, Wissenschaft und Menschenrechte setzt. Sartre hat sogar gesagt: Gerade weil es keinen Gott gibt, der uns vorschreibt, was wir sein sollen, sind wir frei und muessen selbst Verantwortung uebernehmen. Der Humanismus hat also viele Gesichter, aber der Kern bleibt: Der Mensch und seine Wuerde stehen an erster Stelle.",
+    "kernthesen": [
+      "Jeder Mensch hat eine Wuerde und einen Wert, der geachtet werden muss.",
+      "Menschen sind frei und koennen sich selbst und ihre Welt gestalten.",
+      "Bildung ist der Schluessel, um das Beste aus sich herauszuholen.",
+      "Man darf andere Menschen nie nur als Werkzeug fuer eigene Zwecke benutzen.",
+      "Vernunft, Wissenschaft und Menschenrechte sind die Basis fuer ein gutes Zusammenleben."
+    ],
+    "entstehung": "Der Humanismus entstand im 14. Jahrhundert in Italien, als Denker die antike Literatur wiederentdeckten und den Menschen ins Zentrum stellten. Von dort breitete er sich ueber ganz Europa aus und beeinflusste die Aufklaerung und die Idee der Menschenrechte.",
+    "kritik": "Kritiker sagen, der Humanismus sei zu eurozentrisch und habe historisch sogar Kolonialismus begleitet. Ausserdem wird kritisiert, dass schoene Bildungsideale allein nicht reichen, wenn die materiellen Bedingungen fuer ein gutes Leben fehlen."
+  }
 }

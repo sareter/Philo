@@ -71,5 +71,46 @@
     }
   ],
   "verwandtePhilosophen": ["arthur-schopenhauer", "eduard-von-hartmann", "georg-wilhelm-friedrich-hegel"],
-  "verwandteIsmen": ["pessimismus", "idealismus"]
+  "verwandteIsmen": ["pessimismus", "idealismus"],
+  "einfach": {
+    "kurzbeschreibung": "Bahnsen war ein radikaler Pessimist, der glaubte: Die Welt ist voller Widersprueche, die sich niemals aufloesen lassen -- es gibt keine Erloesung.",
+    "biografie": {
+      "fruehesLeben": "Bahnsen wurde 1830 in Tondern im damals daenischen Schleswig geboren. Er studierte Philosophie und wurde ein begeisterter Anhaenger Schopenhauers, dessen Pessimismus er noch radikaler dachte.",
+      "schaffen": "Bahnsen entwickelte seine 'Realdialektik': Im Gegensatz zu Hegel, der glaubte, dass Widersprueche sich aufloesen und Fortschritt bringen, sagte Bahnsen: Die Widersprueche in der Welt sind real und bleiben fuer immer. Es gibt kein Happy End, keine Erloesung.",
+      "spaetesLeben": "Bahnsen arbeitete als Gymnasiallehrer in Lauenburg und blieb sein ganzes Leben lang ein akademischer Aussenseiter. Sein duesserer Pessimismus und sein schwieriger Charakter machten ihn einsam.",
+      "tod": "Bahnsen starb 1881 in Lauenburg, kurz nachdem der erste Band seines Hauptwerks erschienen war.",
+      "nachwirkung": "Bahnsens Werk wurde nach seinem Tod fast vergessen. Heute wird er als radikaler Pessimist wiederentdeckt, der Widersprueche nicht als Motor fuer Fortschritt, sondern als ewige Tragoedie verstand."
+    },
+    "kernideen": [
+      {
+        "titel": "Realdialektik",
+        "beschreibung": "Bei Hegel loesen sich Widersprueche auf und bringen Fortschritt. Bei Bahnsen bleiben sie fuer immer bestehen -- die Welt ist widerspruchsvoll und wird es bleiben."
+      },
+      {
+        "titel": "Der Wille als Selbstwiderspruch",
+        "beschreibung": "Der menschliche Wille will und will gleichzeitig nicht -- er ist in sich zerrissen, und daran kann man nichts aendern."
+      },
+      {
+        "titel": "Charakterologie",
+        "beschreibung": "Dein Charakter ist unveraenderlich und voller innerer Widersprueche. Du kannst ihm nicht entkommen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Der Widerspruch im Wissen und Wesen der Welt",
+        "jahr": "1880",
+        "beschreibung": "Bahnsens Hauptwerk, in dem er den unaufloesbaren Widerspruch als Grundprinzip der Wirklichkeit darstellt."
+      },
+      {
+        "titel": "Beitraege zur Charakterologie",
+        "jahr": "1867",
+        "beschreibung": "Eine Untersuchung des menschlichen Charakters als unveraenderliche, widerspruchsvolle Grundstruktur."
+      },
+      {
+        "titel": "Das Tragische als Weltgesetz und der Humor als aesthetische Gestalt des Metaphysischen",
+        "jahr": "1877",
+        "beschreibung": "Eine Schrift, die das Tragische nicht als Literatur, sondern als Grundprinzip der Wirklichkeit begreift."
+      }
+    ]
+  }
 }

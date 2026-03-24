@@ -18,7 +18,10 @@
   },
   "epoche": "Gegenwart",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Kommunitarismus", "Hermeneutik"],
+  "hauptstroemungen": [
+    "Kommunitarismus",
+    "Hermeneutik"
+  ],
   "kurzbeschreibung": "Charles Taylor ist ein kanadischer Philosoph, der für seine Arbeiten zur Identität, zum Säkularismus und zur Philosophie der Sozialwissenschaften bekannt ist. Sein monumentales Werk 'Quellen des Selbst' zeichnet die Entstehung der modernen Identität nach. Er gilt als einer der bedeutendsten Vertreter des Kommunitarismus und erhielt 2007 den Templeton-Preis.",
   "biografie": {
     "fruehesLeben": "Charles Taylor wurde 1931 in Montreal in eine zweisprachige Familie geboren. Er studierte Geschichte und Politikwissenschaft an der McGill University und ging als Rhodes-Stipendiat nach Oxford, wo er bei Isaiah Berlin und Elizabeth Anscombe studierte.",
@@ -84,6 +87,63 @@
       "kontext": "Taylors nuancierte Beschreibung des Säkularismus als Veränderung der Bedingungen des Glaubens."
     }
   ],
-  "verwandtePhilosophen": ["alasdair-macintyre", "georg-wilhelm-friedrich-hegel", "martin-heidegger"],
-  "verwandteIsmen": ["kommunitarismus", "hermeneutik"]
+  "verwandtePhilosophen": [
+    "alasdair-macintyre",
+    "georg-wilhelm-friedrich-hegel",
+    "martin-heidegger"
+  ],
+  "verwandteIsmen": [
+    "kommunitarismus",
+    "hermeneutik"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Charles Taylor ist ein kanadischer Philosoph, der fuer seine Arbeiten zur Identitaet, zum Saekularismus und zur Philosophie der Sozialwissenschaften bekannt ist. Sein monumentales Werk 'Quellen des Selbst' zeichnet die Entstehung der modernen Identitaet nach. Er gilt als einer der bedeutendsten Vertreter des Kommunitarismus und erhielt 2007 den Templeton-Preis.",
+    "biografie": {
+      "fruehesLeben": "Charles Taylor wurde 1931 in Montreal in eine zweisprachige Familie geboren. Er studierte Geschichte und Politikwissenschaft an der McGill University und ging als Rhodes-Stipendiat nach Oxford, wo er bei Isaiah Berlin und Elizabeth Anscombe studierte.",
+      "schaffen": "Taylor entwickelte eine umfassende Philosophie der menschlichen Identitaet, die Hermeneutik, Phaenomenologie und analytische Philosophie verbindet. Sein Hauptwerk 'Sources of the Self' (1989) ist eine monumentale Genealogie der modernen Identitaet. 'A Secular Age' (2007) analysiert die Entstehung des Saekularismus in der westlichen Welt.",
+      "spaetesLeben": "Taylor war langjaehriger Professor an der McGill University in Montreal und leitete zusammen mit Gérard Bouchard eine wichtige Kommission zu religioeser und kultureller Vielfalt in Quebec. Er erhielt zahlreiche internationale Auszeichnungen.",
+      "tod": "Charles Taylor lebt und arbeitet weiterhin in Montreal.",
+      "nachwirkung": "Taylor hat die zeitgenoessische Debatte ueber Identitaet, Multikulturalismus und Saekularismus entscheidend gepraegt. Seine Verbindung von analytischer Klarheit mit historischer Tiefe macht ihn zu einem der meistzitierten lebenden Philosophen."
+    },
+    "kernideen": [
+      {
+        "titel": "Quellen des Selbst",
+        "beschreibung": "Taylor zeichnet nach, wie die moderne Identitaet durch drei 'moralische Quellen' geformt wurde: die Hinwendung zur Innerlichkeit (Augustinus), die Bejahung des gewoehnlichen Lebens (Reformation) und die expressivistische Wende (Romantik). Das moderne Selbst ist das Ergebnis einer langen historischen Entwicklung."
+      },
+      {
+        "titel": "Politik der Anerkennung",
+        "beschreibung": "Identitaet wird wesentlich durch Anerkennung geformt. Taylor argumentiert, dass multikulturelle Gesellschaften die kulturellen Identitaeten ihrer Mitglieder anerkennen muessen, ohne in einen unkritischen Relativismus zu verfallen."
+      },
+      {
+        "titel": "Das saekulare Zeitalter",
+        "beschreibung": "Saekularismus bedeutet nicht einfach den Rueckgang des Glaubens, sondern eine Veraenderung der Bedingungen des Glaubens: In der Moderne ist der Glaube eine Option unter vielen, nicht mehr die selbstverstaendliche Grundlage des Lebens."
+      },
+      {
+        "titel": "Kritik des Atomismus",
+        "beschreibung": "Taylor kritisiert die atomistische Auffassung des Menschen als isoliertes, ungebundenes Individuum. Der Mensch ist ein 'sich selbst interpretierendes Tier', dessen Identitaet immer in Gemeinschaften, Traditionen und Sprachen eingebettet ist."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Sources of the Self (Quellen des Selbst)",
+        "jahr": "1989",
+        "beschreibung": "Taylors monumentales Hauptwerk, eine philosophische Genealogie der modernen Identitaet von der Antike bis zur Gegenwart."
+      },
+      {
+        "titel": "A Secular Age (Ein saekulares Zeitalter)",
+        "jahr": "2007",
+        "beschreibung": "Eine umfassende Analyse der Entstehung und Bedeutung des Saekularismus in der westlichen Welt, die den Uebergang von einer Gesellschaft, in der Glaube selbstverstaendlich war, zu einer, in der er eine Option ist, nachzeichnet."
+      },
+      {
+        "titel": "The Ethics of Authenticity",
+        "jahr": "1991",
+        "beschreibung": "Eine Verteidigung des Ideals der Authentizitaet gegen seine Kritiker und seine trivialisierte Alltagsform."
+      },
+      {
+        "titel": "Multiculturalism and the Politics of Recognition",
+        "jahr": "1992",
+        "beschreibung": "Ein einflussreicher Essay ueber die philosophischen Grundlagen des Multikulturalismus und der Politik der Anerkennung."
+      }
+    ]
+  }
 }

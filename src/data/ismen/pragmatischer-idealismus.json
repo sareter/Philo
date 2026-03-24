@@ -11,13 +11,45 @@
     "Zwischen reinem Idealismus und nüchternem Pragmatismus liegt der fruchtbarste philosophische Weg.",
     "Gesellschaftliche Veränderung gelingt durch schrittweise, experimentelle Annäherung an hohe Ziele."
   ],
-  "hauptvertreter": ["john-dewey", "william-james"],
+  "hauptvertreter": [
+    "john-dewey",
+    "william-james"
+  ],
   "entstehung": "Der pragmatische Idealismus entwickelte sich Anfang des 20. Jahrhunderts aus dem amerikanischen Pragmatismus. Deweys pädagogische und politische Philosophie sowie James' Verbindung von Pragmatismus und religiöser Erfahrung legten die Grundlagen für eine Synthese von praktischer Orientierung und idealistischem Anspruch.",
   "kritik": "Kritiker bemängeln, dass der pragmatische Idealismus die Spannung zwischen Ideal und Wirklichkeit nicht auflöst, sondern nur verschleiert. Zudem wird die Gefahr gesehen, dass pragmatische Kompromisse die ursprünglichen Ideale verwässern und letztlich den Status quo stabilisieren.",
-  "verwandteIsmen": ["pragmatismus", "idealismus", "demokratischer-sozialismus"],
+  "verwandteIsmen": [
+    "pragmatismus",
+    "idealismus",
+    "demokratischer-sozialismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Demokratie und Erziehung", "autor": "John Dewey", "jahr": "1916"},
-    {"titel": "Pragmatismus", "autor": "William James", "jahr": "1907"},
-    {"titel": "Die Suche nach Gewissheit", "autor": "John Dewey", "jahr": "1929"}
-  ]
+    {
+      "titel": "Demokratie und Erziehung",
+      "autor": "John Dewey",
+      "jahr": "1916"
+    },
+    {
+      "titel": "Pragmatismus",
+      "autor": "William James",
+      "jahr": "1907"
+    },
+    {
+      "titel": "Die Suche nach Gewissheit",
+      "autor": "John Dewey",
+      "jahr": "1929"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der pragmatische Idealismus verbindet die praktische Orientierung des Pragmatismus mit idealistischen Zielen und sucht nach Wegen, hohe moralische und gesellschaftliche Ideale in der konkreten Lebenspraxis umzusetzen.",
+    "ausfuehrlicheBeschreibung": "Der pragmatische Idealismus entstand im Umfeld des amerikanischen Pragmatismus des fruehen 20. Jahrhunderts und versucht, die vermeintliche Kluft zwischen Idealismus und Pragmatismus zu ueberbruecken. Waehrend der reine Idealismus oft als weltfern kritisiert wird und der Pragmatismus als prinzipienlos gelten kann, verbindet der pragmatische Idealismus die visionaere Kraft moralischer Ideale mit der Forderung nach deren praktischer Umsetzbarkeit. John Dewey und William James legten die philosophischen Grundlagen dieser Synthese.\n\nDeweys Demokratieverstaendnis verkoerpert den pragmatischen Idealismus exemplarisch: Demokratie ist fuer ihn nicht nur eine Regierungsform, sondern ein Ideal gemeinsamen Zusammenlebens, das durch Erziehung, offene Kommunikation und experimentelle Problemloesung verwirklicht werden muss. James' Pragmatismus betont, dass die Wahrheit einer Idee sich an ihren praktischen Konsequenzen bemisst, ohne dabei den Anspruch auf hoehere Werte aufzugeben. Beide sehen Ideale nicht als fixe Ziele, sondern als regulierende Orientierungen fuer handlungsorientiertes Denken.\n\nIn der Gegenwart findet der pragmatische Idealismus Anwendung in der Bildungsphilosophie, der politischen Theorie und der Wirtschaftsethik. Er bietet einen Mittelweg zwischen zynischem Realismus und utopischem Wunschdenken und betont, dass nachhaltige Veraenderung durch schrittweise, experimentelle Annaeherung an Ideale erreicht werden kann.",
+    "kernthesen": [
+      "Ideale muessen durch praktisches Handeln und Experimentieren verwirklicht werden.",
+      "Die Wahrheit einer Idee bemisst sich an ihren konkreten Auswirkungen auf das Leben.",
+      "Demokratie ist ein lebendes Ideal, das staendige Erneuerung durch Bildung und Dialog erfordert.",
+      "Zwischen reinem Idealismus und nuechternem Pragmatismus liegt der fruchtbarste philosophische Weg.",
+      "Gesellschaftliche Veraenderung gelingt durch schrittweise, experimentelle Annaeherung an hohe Ziele."
+    ],
+    "entstehung": "Der pragmatische Idealismus entwickelte sich Anfang des 20. Jahrhunderts aus dem amerikanischen Pragmatismus. Deweys paedagogische und politische Philosophie sowie James' Verbindung von Pragmatismus und religioeser Erfahrung legten die Grundlagen fuer eine Synthese von praktischer Orientierung und idealistischem Anspruch.",
+    "kritik": "Kritiker bemaengeln, dass der pragmatische Idealismus die Spannung zwischen Ideal und Wirklichkeit nicht aufloest, sondern nur verschleiert. Zudem wird die Gefahr gesehen, dass pragmatische Kompromisse die urspruenglichen Ideale verwaessern und letztlich den Status quo stabilisieren."
+  }
 }

@@ -2,11 +2,27 @@
   "slug": "arthur-schopenhauer",
   "name": "Arthur Schopenhauer",
   "lebensdaten": "1788–1860",
-  "geboren": { "jahr": 1788, "ort": "Danzig", "land": "Preußen", "lat": 54.3520, "lng": 18.6466 },
-  "gestorben": { "jahr": 1860, "ort": "Frankfurt am Main", "land": "Deutschland", "lat": 50.1109, "lng": 8.6821 },
+  "geboren": {
+    "jahr": 1788,
+    "ort": "Danzig",
+    "land": "Preußen",
+    "lat": 54.352,
+    "lng": 18.6466
+  },
+  "gestorben": {
+    "jahr": 1860,
+    "ort": "Frankfurt am Main",
+    "land": "Deutschland",
+    "lat": 50.1109,
+    "lng": 8.6821
+  },
   "epoche": "19. Jahrhundert",
   "region": "Deutschland",
-  "hauptstroemungen": ["Pessimismus", "Voluntarismus", "Ästhetische Philosophie"],
+  "hauptstroemungen": [
+    "Pessimismus",
+    "Voluntarismus",
+    "Ästhetische Philosophie"
+  ],
   "kurzbeschreibung": "Arthur Schopenhauer war ein deutscher Philosoph, der mit seinem Hauptwerk 'Die Welt als Wille und Vorstellung' eine pessimistische Metaphysik des Willens entwickelte, die das abendländische Denken tiefgreifend beeinflusste. Er war der erste westliche Philosoph, der östliche Philosophie – insbesondere den Buddhismus und die Upanishaden – ernsthaft in sein System integrierte. Sein elegant-sarkastischer Stil machte ihn zu einem der meistgelesenen Philosophen überhaupt.",
   "biografie": {
     "fruehesLeben": "Arthur Schopenhauer wurde am 22. Februar 1788 in Danzig als Sohn des wohlhabenden Kaufmanns Heinrich Floris Schopenhauer und der Schriftstellerin Johanna Schopenhauer geboren. Die Familie zog 1793 nach Hamburg, als Danzig von Preußen annektiert wurde. Der Vater, der seinen Sohn zum Kaufmann erziehen wollte, nahm ihn auf ausgedehnte Reisen durch Europa mit, die Arthurs Bildungshorizont erweiterten, ihn aber auch mit dem Elend der Welt konfrontierten. Nach dem Selbstmord des Vaters 1805 erbte Arthur ein beträchtliches Vermögen, das ihm lebenslange finanzielle Unabhängigkeit sicherte. Er brach die verhasste Kaufmannslehre ab und studierte in Göttingen und Berlin Philosophie, Naturwissenschaften und klassische Philologie. In Berlin hörte er Vorlesungen bei Fichte, den er als 'Windbeutel' verachtete. 1813 promovierte er mit der Dissertation 'Über die vierfache Wurzel des Satzes vom zureichenden Grunde'.",
@@ -34,19 +50,119 @@
     }
   ],
   "werke": [
-    { "titel": "Die Welt als Wille und Vorstellung", "jahr": "1819/1844", "beschreibung": "Schopenhauers Hauptwerk, das eine umfassende Metaphysik des Willens entwickelt. Die zweite Auflage von 1844 enthält einen umfangreichen Ergänzungsband." },
-    { "titel": "Über die vierfache Wurzel des Satzes vom zureichenden Grunde", "jahr": "1813", "beschreibung": "Schopenhauers Dissertation, die vier verschiedene Formen des Satzes vom Grund (der Kausalität) unterscheidet und die erkenntnistheoretische Grundlage seines Systems legt." },
-    { "titel": "Parerga und Paralipomena", "jahr": "1851", "beschreibung": "Eine Sammlung von Essays und Aphorismen zu verschiedenen philosophischen Themen, die Schopenhauer den späten Ruhm einbrachte." },
-    { "titel": "Über die Freiheit des menschlichen Willens", "jahr": "1839", "beschreibung": "Eine preisgekrönte Abhandlung, die den Determinismus verteidigt und die Willensfreiheit als Illusion entlarvt." },
-    { "titel": "Über die Grundlage der Moral", "jahr": "1840", "beschreibung": "Schopenhauers Moralphilosophie, die das Mitleid als einzige echte moralische Triebfeder bestimmt und Kants Ethik scharf kritisiert." },
-    { "titel": "Über den Willen in der Natur", "jahr": "1836", "beschreibung": "Eine Sammlung naturwissenschaftlicher Bestätigungen seiner Willensmetaphysik aus Physiologie, vergleichender Anatomie und Botanik." }
+    {
+      "titel": "Die Welt als Wille und Vorstellung",
+      "jahr": "1819/1844",
+      "beschreibung": "Schopenhauers Hauptwerk, das eine umfassende Metaphysik des Willens entwickelt. Die zweite Auflage von 1844 enthält einen umfangreichen Ergänzungsband."
+    },
+    {
+      "titel": "Über die vierfache Wurzel des Satzes vom zureichenden Grunde",
+      "jahr": "1813",
+      "beschreibung": "Schopenhauers Dissertation, die vier verschiedene Formen des Satzes vom Grund (der Kausalität) unterscheidet und die erkenntnistheoretische Grundlage seines Systems legt."
+    },
+    {
+      "titel": "Parerga und Paralipomena",
+      "jahr": "1851",
+      "beschreibung": "Eine Sammlung von Essays und Aphorismen zu verschiedenen philosophischen Themen, die Schopenhauer den späten Ruhm einbrachte."
+    },
+    {
+      "titel": "Über die Freiheit des menschlichen Willens",
+      "jahr": "1839",
+      "beschreibung": "Eine preisgekrönte Abhandlung, die den Determinismus verteidigt und die Willensfreiheit als Illusion entlarvt."
+    },
+    {
+      "titel": "Über die Grundlage der Moral",
+      "jahr": "1840",
+      "beschreibung": "Schopenhauers Moralphilosophie, die das Mitleid als einzige echte moralische Triebfeder bestimmt und Kants Ethik scharf kritisiert."
+    },
+    {
+      "titel": "Über den Willen in der Natur",
+      "jahr": "1836",
+      "beschreibung": "Eine Sammlung naturwissenschaftlicher Bestätigungen seiner Willensmetaphysik aus Physiologie, vergleichender Anatomie und Botanik."
+    }
   ],
   "zitate": [
-    { "text": "Das Leben schwankt wie ein Pendel hin und her zwischen Schmerz und Langeweile.", "quelle": "Die Welt als Wille und Vorstellung, Buch IV", "kontext": "Schopenhauers berühmteste Beschreibung der menschlichen Existenz, die nur zwischen Leiden und Leere alterniert." },
-    { "text": "Jeder Tag ist ein kleines Leben.", "quelle": "Aphorismen zur Lebensweisheit", "kontext": "Einer der vielen aphoristischen Sätze, die Schopenhauers Popularität als Lebensphilosoph begründeten." },
-    { "text": "Mitleid ist die Grundlage aller Moral.", "quelle": "Über die Grundlage der Moral", "kontext": "Die Kernthese von Schopenhauers Ethik, die das Mitleid – nicht die Pflicht – als einzige genuine moralische Motivation bestimmt." },
-    { "text": "Der Mensch kann zwar tun, was er will, aber er kann nicht wollen, was er will.", "quelle": "Über die Freiheit des menschlichen Willens", "kontext": "Schopenhauers prägnante Formulierung des Determinismus, die Einstein besonders schätzte." }
+    {
+      "text": "Das Leben schwankt wie ein Pendel hin und her zwischen Schmerz und Langeweile.",
+      "quelle": "Die Welt als Wille und Vorstellung, Buch IV",
+      "kontext": "Schopenhauers berühmteste Beschreibung der menschlichen Existenz, die nur zwischen Leiden und Leere alterniert."
+    },
+    {
+      "text": "Jeder Tag ist ein kleines Leben.",
+      "quelle": "Aphorismen zur Lebensweisheit",
+      "kontext": "Einer der vielen aphoristischen Sätze, die Schopenhauers Popularität als Lebensphilosoph begründeten."
+    },
+    {
+      "text": "Mitleid ist die Grundlage aller Moral.",
+      "quelle": "Über die Grundlage der Moral",
+      "kontext": "Die Kernthese von Schopenhauers Ethik, die das Mitleid – nicht die Pflicht – als einzige genuine moralische Motivation bestimmt."
+    },
+    {
+      "text": "Der Mensch kann zwar tun, was er will, aber er kann nicht wollen, was er will.",
+      "quelle": "Über die Freiheit des menschlichen Willens",
+      "kontext": "Schopenhauers prägnante Formulierung des Determinismus, die Einstein besonders schätzte."
+    }
   ],
-  "verwandtePhilosophen": ["immanuel-kant", "georg-wilhelm-friedrich-hegel", "soeren-kierkegaard", "baruch-spinoza", "ludwig-feuerbach"],
-  "verwandteIsmen": ["pessimismus", "voluntarismus", "idealismus"]
+  "verwandtePhilosophen": [
+    "immanuel-kant",
+    "georg-wilhelm-friedrich-hegel",
+    "soeren-kierkegaard",
+    "baruch-spinoza",
+    "ludwig-feuerbach"
+  ],
+  "verwandteIsmen": [
+    "pessimismus",
+    "voluntarismus",
+    "idealismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Arthur Schopenhauer war ein deutscher Philosoph, der mit seinem Hauptwerk 'Die Welt als Wille und Vorstellung' eine pessimistische Metaphysik des Willens entwickelte, die das abendlaendische Denken tiefgreifend beeinflusste. Er war der erste westliche Philosoph, der oestliche Philosophie – insbesondere den Buddhismus und die Upanishaden – ernsthaft in sein System integrierte. Sein elegant-sarkastischer Stil machte ihn zu einem der meistgelesenen Philosophen ueberhaupt.",
+    "biografie": {
+      "fruehesLeben": "Arthur Schopenhauer wurde am 22. Februar 1788 in Danzig als Sohn des wohlhabenden Kaufmanns Heinrich Floris Schopenhauer und der Schriftstellerin Johanna Schopenhauer geboren. Die Familie zog 1793 nach Hamburg, als Danzig von Preussen annektiert wurde. Der Vater, der seinen Sohn zum Kaufmann erziehen wollte, nahm ihn auf ausgedehnte Reisen durch Europa mit, die Arthurs Bildungshorizont erweiterten, ihn aber auch mit dem Elend der Welt konfrontierten. Nach dem Selbstmord des Vaters 1805 erbte Arthur ein betraechtliches Vermoegen, das ihm lebenslange finanzielle Unabhaengigkeit sicherte. Er brach die verhasste Kaufmannslehre ab und studierte in Goettingen und Berlin Philosophie, Naturwissenschaften und klassische Philologie.",
+      "schaffen": "In den Jahren 1814–1818 verfasste Schopenhauer in Dresden sein Hauptwerk 'Die Welt als Wille und Vorstellung', das 1819 erschien und von der Fachwelt zunaechst vollstaendig ignoriert wurde. Das Werk entwickelt eine umfassende Metaphysik: Die Welt ist einerseits 'Vorstellung' – sie erscheint uns durch die Formen unserer Erkenntnis (Raum, Zeit, Kausalitaet) – und andererseits 'Wille' – ein blinder, ziellos draengender Lebenswille, der das wahre Wesen der Wirklichkeit ausmacht. Der Wille manifestiert sich in allen Naturkraeften, im Streben der Pflanzen, im Instinkt der Tiere und im bewussten Wollen des Menschen. Da der Wille nie befriedigt werden kann – jede Befriedigung erzeugt neues Begehren –, ist das Leben wesentlich Leiden.",
+      "spaetesLeben": "Nach dem gescheiterten Berliner Experiment zog sich Schopenhauer 1831 nach Frankfurt am Main zurueck, wo er fast dreissig Jahre lang als Privatgelehrter lebte – 'ein stoischer Weiser im Exil der Banalitaet', wie er sich sah. Sein Tagesablauf war legendaer: Er stand frueh auf, arbeitete bis Mittag, spielte dann Floete, ging spazieren und dinierte im Englischen Hof. Sein treuster Begleiter war sein Pudel. Erst mit den 'Parerga und Paralipomena' (1851), einer Sammlung von Essays und Aphorismen, kam der spaete Ruhm. Werke wie die 'Aphorismen zur Lebensweisheit', die 'Metaphysik der Geschlechtsliebe' und der Essay 'Ueber die Freiheit des Willens' wurden breit gelesen und machten Schopenhauer zum ersten philosophischen Bestseller-Autor.",
+      "tod": "Arthur Schopenhauer starb am 21. September 1860 in Frankfurt am Main an einer Lungenentzuendung. Er wurde auf dem Frankfurter Hauptfriedhof beigesetzt. Sein Grab traegt nur die Inschrift 'Arthur Schopenhauer' – ohne Daten, ohne Spruch, seiner Lehre von der Vergaenglichkeit angemessen.",
+      "nachwirkung": "Schopenhauers Einfluss auf die nachfolgende Geistesgeschichte ist immens. Nietzsche – sein 'Erzieher' – uebernahm den Willensbegriff und verwandelte die Verneinung in die Bejahung des Willens zur Macht. Wagner fand in Schopenhauer die philosophische Grundlage fuer 'Tristan und Isolde'. Freud erkannte in Schopenhauers Willen einen Vorlaeufer des Unbewussten. Thomas Mann, Proust, Borges, Beckett und Cioran stehen in seiner literarischen Nachfolge. Wittgenstein nannte ihn den 'einzigen bedeutenden Philosophen des 19. Jahrhunderts'. In der analytischen Philosophie und der Philosophie des Geistes wird sein Werk heute neu diskutiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Die Welt als Wille",
+        "beschreibung": "Das wahre Wesen der Wirklichkeit ist ein blinder, ziellos draengender Wille – ein irrationales Streben, das sich in allen Naturkraeften, im Instinkt der Tiere und im Wollen der Menschen manifestiert."
+      },
+      {
+        "titel": "Pessimismus",
+        "beschreibung": "Da der Wille nie dauerhaft befriedigt werden kann, ist das Leben wesentlich Leiden. Jede Befriedigung erzeugt neues Begehren; das Pendel des Lebens schwingt zwischen Schmerz und Langeweile."
+      },
+      {
+        "titel": "Erloesung durch Kunst, Mitleid und Askese",
+        "beschreibung": "Die aesthetische Kontemplation befreit voruebergehend vom Willen; das Mitleid durchbricht die Schranken des Egoismus; die asketische Verneinung des Willens zum Leben ist die endgueltige Erloesung."
+      },
+      {
+        "titel": "Mitleidsethik",
+        "beschreibung": "Die einzige echte moralische Triebfeder ist das Mitleid – die Faehigkeit, das Leiden des anderen als das eigene zu empfinden. Mitleid ist die Grundlage aller Gerechtigkeit und aller Menschenliebe."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Welt als Wille und Vorstellung",
+        "jahr": "1819/1844",
+        "beschreibung": "Schopenhauers Hauptwerk, das eine umfassende Metaphysik des Willens entwickelt. Die zweite Auflage von 1844 enthaelt einen umfangreichen Ergaenzungsband."
+      },
+      {
+        "titel": "Ueber die vierfache Wurzel des Satzes vom zureichenden Grunde",
+        "jahr": "1813",
+        "beschreibung": "Schopenhauers Dissertation, die vier verschiedene Formen des Satzes vom Grund (der Kausalitaet) unterscheidet und die erkenntnistheoretische Grundlage seines Systems legt."
+      },
+      {
+        "titel": "Parerga und Paralipomena",
+        "jahr": "1851",
+        "beschreibung": "Eine Sammlung von Essays und Aphorismen zu verschiedenen philosophischen Themen, die Schopenhauer den spaeten Ruhm einbrachte."
+      },
+      {
+        "titel": "Ueber die Freiheit des menschlichen Willens",
+        "jahr": "1839",
+        "beschreibung": "Eine preisgekroente Abhandlung, die den Determinismus verteidigt und die Willensfreiheit als Illusion entlarvt."
+      }
+    ]
+  }
 }

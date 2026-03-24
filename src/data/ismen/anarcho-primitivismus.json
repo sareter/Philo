@@ -19,5 +19,18 @@
     {"titel": "Future Primitive", "autor": "John Zerzan", "jahr": "1994"},
     {"titel": "Diskurs über die Ungleichheit", "autor": "Jean-Jacques Rousseau", "jahr": "1755"},
     {"titel": "Against Civilization", "autor": "John Zerzan", "jahr": "1999"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Anarcho-Primitivismus sagt: Die gesamte Zivilisation war ein Fehler. Ackerbau, Technik und Staat haben uns nur Unterdrueckung gebracht. Wir sollten zurueck zur Natur.",
+    "ausfuehrlicheBeschreibung": "Die meisten Menschen sehen Fortschritt als etwas Gutes: Landwirtschaft, Staedte, Technologie -- alles Errungenschaften. Anarcho-Primitivisten sehen das komplett anders. Sie sagen: Genau das ist das Problem. Als die Menschen sesshaft wurden und anfingen, Ackerbau zu betreiben, entstanden Eigentum, Hierarchie, Krieg und Umweltzerstoerung.\n\nDie Idee geht so: Jaeger und Sammler lebten freier, gesunder und gleichberechtigter als wir heute. Sie hatten keine Chefs, keinen Privatbesitz und zerstoerten nicht die Natur. Erst als wir anfingen, die Natur zu kontrollieren, fingen wir auch an, uns gegenseitig zu kontrollieren. Der radikalste Vertreter, John Zerzan, geht sogar so weit zu sagen, dass schon die Sprache selbst uns von der unmittelbaren Erfahrung entfremdet.\n\nDas ist natuerlich extrem. Bei acht Milliarden Menschen auf der Erde kann man schlecht sagen: Lasst uns alle wieder Jaeger und Sammler werden. Und auch die Vorstellung, dass frueher alles besser war, ist historisch fragwuerdig -- auch Jaeger und Sammler kannten Gewalt und Krankheit. Trotzdem stellt der Anarcho-Primitivismus eine wichtige Frage: Hat uns der technische Fortschritt wirklich gluecklicher gemacht?",
+    "kernthesen": [
+      "Die gesamte Zivilisation ist die Ursache von Unterdrueckung und Umweltzerstoerung.",
+      "Der Uebergang zu Ackerbau und Sesshaftigkeit war die groesste Katastrophe der Menschheitsgeschichte.",
+      "Jaeger-und-Sammler-Gesellschaften waren freier, gesunder und gerechter als moderne Gesellschaften.",
+      "Technologie ist kein Werkzeug der Befreiung, sondern der Kontrolle.",
+      "Nur eine Rueckkehr zu natuerlichen Lebensweisen kann die Menschheit befreien."
+    ],
+    "entstehung": "Der Anarcho-Primitivismus entstand in den 1980er und 90er Jahren, inspiriert von Rousseaus Zivilisationskritik und neuen Forschungen ueber Jaeger-und-Sammler-Gesellschaften. John Zerzan ist der bekannteste Vertreter.",
+    "kritik": "Kritiker sagen: Bei acht Milliarden Menschen ist eine Rueckkehr zu Jaeger-und-Sammler-Leben unmoeglich und wuerde Milliarden Tote bedeuten. Ausserdem waren fruehere Gesellschaften keineswegs so friedlich und gesund, wie Primitivisten behaupten."
+  }
 }

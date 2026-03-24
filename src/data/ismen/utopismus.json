@@ -11,14 +11,51 @@
     "Utopisches Denken ist ein unverzichtbarer Motor sozialen Fortschritts",
     "Konkrete Utopien verbinden Wunschdenken mit realer Möglichkeit"
   ],
-  "hauptvertreter": ["platon", "karl-marx"],
+  "hauptvertreter": [
+    "platon",
+    "karl-marx"
+  ],
   "entstehung": "Der Utopismus hat seine Wurzeln in Platons 'Politeia' (ca. 380 v. Chr.). Thomas Morus prägte 1516 den Begriff mit seinem Werk 'Utopia'. In der frühen Neuzeit entstanden zahlreiche utopische Entwürfe (Campanella, Bacon). Die sozialistischen Utopisten des 19. Jahrhunderts (Fourier, Owen, Saint-Simon) versuchten praktische Umsetzungen. Marx und Engels unterschieden ihren 'wissenschaftlichen Sozialismus' vom 'utopischen Sozialismus'. Ernst Bloch entwickelte im 20. Jahrhundert die differenzierteste Philosophie des Utopischen. Die Dystopien des 20. Jahrhunderts (Orwell, Huxley) warnten vor den Gefahren utopischen Denkens.",
   "kritik": "Karl Popper kritisierte den Utopismus als inhärent totalitär: Der Versuch, eine perfekte Gesellschaft zu verwirklichen, rechtfertigt jeden Gewaltmittel und führt unweigerlich zu Unterdrückung. Die historische Erfahrung mit kommunistischen Regimen scheint diese Kritik zu bestätigen. Isaiah Berlin wandte ein, dass die Vorstellung einer perfekten Gesellschaft, in der alle Werte harmonisch verwirklicht sind, logisch unmöglich ist, da Werte unvermeidlich miteinander in Konflikt geraten. Der Utopismus wird als unrealistisch und gefährlich abqualifiziert, wenn er die Komplexität menschlicher Gesellschaften und die Unvermeidlichkeit von Konflikten ignoriert. Konservative Kritiker verweisen auf die menschliche Natur als Grenze utopischer Projekte.",
-  "verwandteIsmen": ["pessimismus", "optimismus", "egalitarismus", "kommunitarismus"],
+  "verwandteIsmen": [
+    "pessimismus",
+    "optimismus",
+    "egalitarismus",
+    "kommunitarismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Utopia", "autor": "Thomas Morus", "jahr": "1516" },
-    { "titel": "Politeia", "autor": "Platon", "jahr": "ca. 380 v. Chr." },
-    { "titel": "Das Prinzip Hoffnung", "autor": "Ernst Bloch", "jahr": "1959" },
-    { "titel": "Die offene Gesellschaft und ihre Feinde", "autor": "Karl Popper", "jahr": "1945" }
-  ]
+    {
+      "titel": "Utopia",
+      "autor": "Thomas Morus",
+      "jahr": "1516"
+    },
+    {
+      "titel": "Politeia",
+      "autor": "Platon",
+      "jahr": "ca. 380 v. Chr."
+    },
+    {
+      "titel": "Das Prinzip Hoffnung",
+      "autor": "Ernst Bloch",
+      "jahr": "1959"
+    },
+    {
+      "titel": "Die offene Gesellschaft und ihre Feinde",
+      "autor": "Karl Popper",
+      "jahr": "1945"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Utopismus ist eine philosophische und politische Tradition, die ideale Gesellschaftsentwuerfe entwickelt und die bestehende soziale Ordnung anhand einer Vision des perfekten Zusammenlebens kritisiert.",
+    "ausfuehrlicheBeschreibung": "Der Utopismus (von griechisch ou-topos – Nicht-Ort) bezeichnet die philosophische Tradition der Entwuerfe idealer Gesellschaften und die damit verbundene Kritik bestehender sozialer Verhaeltnisse. Der Begriff geht auf Thomas Morus' 'Utopia' (1516) zurueck, in der er eine fiktive Inselgesellschaft beschrieb, die auf Gemeineigentum, religioeser Toleranz und allgemeiner Bildung basiert.\n\nPlaton legte mit seiner 'Politeia' den Grundstein des philosophischen Utopismus. Sein Idealstaat wird von Philosophenkoenigen regiert, die kraft ihrer Einsicht in die Idee des Guten die Gesellschaft gerecht ordnen. Die drei Staende – Herrscher, Waechter und Produzenten – entsprechen den drei Seelenteilen und arbeiten harmonisch zum Wohl des Ganzen zusammen.\n\nDie Utopien der Renaissance und der fruehen Neuzeit entwarfen detaillierte Gesellschaftsmodelle. Tommaso Campanellas 'Civitas Solis' (1623) beschrieb einen theokratischen Sonnenstaat. Francis Bacons 'Nova Atlantis' (1627) entwarf eine wissenschaftlich-technische Utopie, in der ein Rat der Weisen die Gesellschaft durch wissenschaftlichen Fortschritt verbessert.",
+    "kernthesen": [
+      "Die bestehende Gesellschaftsordnung kann und soll durch eine gerechtere ersetzt werden",
+      "Idealgesellschaften dienen als Massstab zur Kritik bestehender Verhaeltnisse",
+      "Der Mensch ist ein auf die Zukunft und auf Hoffnung ausgerichtetes Wesen",
+      "Utopisches Denken ist ein unverzichtbarer Motor sozialen Fortschritts",
+      "Konkrete Utopien verbinden Wunschdenken mit realer Moeglichkeit"
+    ],
+    "entstehung": "Der Utopismus hat seine Wurzeln in Platons 'Politeia' (ca. 380 v. Chr.). Thomas Morus praegte 1516 den Begriff mit seinem Werk 'Utopia'. In der fruehen Neuzeit entstanden zahlreiche utopische Entwuerfe (Campanella, Bacon). Die sozialistischen Utopisten des 19. Jahrhunderts (Fourier, Owen, Saint-Simon) versuchten praktische Umsetzungen. Marx und Engels unterschieden ihren 'wissenschaftlichen Sozialismus' vom 'utopischen Sozialismus'. Ernst Bloch entwickelte im 20. Jahrhundert die differenzierteste Philosophie des Utopischen. Die Dystopien des 20.",
+    "kritik": "Karl Popper kritisierte den Utopismus als inhaerent totalitaer: Der Versuch, eine perfekte Gesellschaft zu verwirklichen, rechtfertigt jeden Gewaltmittel und fuehrt unweigerlich zu Unterdrueckung. Die historische Erfahrung mit kommunistischen Regimen scheint diese Kritik zu bestaetigen. Isaiah Berlin wandte ein, dass die Vorstellung einer perfekten Gesellschaft, in der alle Werte harmonisch verwirklicht sind, logisch unmoeglich ist, da Werte unvermeidlich miteinander in Konflikt geraten."
+  }
 }

@@ -75,5 +75,26 @@
     }
   ],
   "verwandtePhilosophen": ["arthur-schopenhauer", "david-benatar", "thomas-ligotti", "friedrich-nietzsche"],
-  "verwandteIsmen": ["pessimismus", "nihilismus"]
+  "verwandteIsmen": ["pessimismus", "nihilismus"],
+  "einfach": {
+    "kurzbeschreibung": "Peter Wessel Zapffe war ein norwegischer Philosoph, der glaubte, dass das menschliche Bewusstsein ein tragischer Fehler der Evolution ist – wir denken einfach zu viel fuer unser eigenes Glueck.",
+    "biografie": {
+      "fruehesLeben": "Zapffe wurde 1899 in Tromsoe im hohen Norden Norwegens geboren. Er studierte Jura und Philosophie und war ein begeisterter Bergsteiger.",
+      "schaffen": "In seinem Hauptwerk 'Ueber das Tragische' erklaerte er, dass unser Bewusstsein zu stark entwickelt ist. Wir verstehen zu viel von der Sinnlosigkeit des Lebens und muessen uns staendig ablenken, um damit klarzukommen. Er beschrieb vier Strategien, wie wir das machen: Verdraengen, an etwas festhalten, uns ablenken oder Kunst machen.",
+      "spaetesLeben": "Zapffe blieb ein Aussenseiter in der Uni-Welt, war aber in Norwegen als vielseitiger Denker bekannt. Trotz seiner duestereren Philosophie lebte er ein langes, aktives Leben.",
+      "tod": "Zapffe starb 1990 mit 91 Jahren. Ein ziemlich langes Leben fuer jemanden, der fand, dass das Dasein tragisch ist – was ihm selbst nicht entging.",
+      "nachwirkung": "Sein Werk wurde spaeter international bekannt, vor allem durch den Horror-Autor Thomas Ligotti. Sein Essay 'Der letzte Messias' gilt heute als Schluesseltext des philosophischen Pessimismus."
+    },
+    "kernideen": [
+      {"titel": "Das Bewusstsein als tragische Überentwicklung", "beschreibung": "Unser Bewusstsein ist zu weit entwickelt. Wir verstehen mehr, als gut fuer uns ist, und leiden daran, dass das Leben keinen tieferen Sinn hat."},
+      {"titel": "Die vier Verdrängungsmechanismen", "beschreibung": "Um mit der Sinnlosigkeit umzugehen, nutzen wir vier Tricks: schlimme Gedanken verdraengen, uns an Werte klammern, uns mit Unterhaltung ablenken oder Kunst schaffen."},
+      {"titel": "Kosmischer Pessimismus", "beschreibung": "Das Leben ist grundsaetzlich tragisch, weil wir nach Sinn suchen, den es nicht gibt. Daran kann man nichts aendern."},
+      {"titel": "Antinatalistische Konsequenz", "beschreibung": "Zapffe fand, die Menschheit sollte freiwillig aufhoeren, Kinder zu bekommen, um das Leiden zu beenden."}
+    ],
+    "werke": [
+      {"titel": "Om det tragiske (Über das Tragische)", "jahr": "1941", "beschreibung": "Sein Hauptwerk ueber die tragische Lage des Menschen, der zu viel versteht fuer sein eigenes Glueck."},
+      {"titel": "Den sidste Messias (Der letzte Messias)", "jahr": "1933", "beschreibung": "Ein kurzer, aber sehr einflussreicher Essay, der seine pessimistische Philosophie auf den Punkt bringt."},
+      {"titel": "Lykkens mur (Die Mauer des Glücks)", "jahr": "1952", "beschreibung": "Eine Sammlung von Essays, in denen er seine Ideen mit Humor und Literatur weiterentwickelt."}
+    ]
+  }
 }

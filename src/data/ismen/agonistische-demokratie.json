@@ -19,5 +19,18 @@
     {"titel": "The Return of the Political", "autor": "Chantal Mouffe", "jahr": "1993"},
     {"titel": "The Democratic Paradox", "autor": "Chantal Mouffe", "jahr": "2000"},
     {"titel": "Vita activa", "autor": "Hannah Arendt", "jahr": "1958"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Agonistische Demokratie sagt: Streit und Meinungsverschiedenheiten sind kein Problem fuer die Demokratie -- sie sind ihr Lebensnerv. Ohne echte Konflikte wird Demokratie langweilig und gefaehrlich.",
+    "ausfuehrlicheBeschreibung": "Viele Leute denken: Gute Politik bedeutet, dass sich alle einigen und Kompromisse finden. Die Philosophin Chantal Mouffe sagt: Das ist ein Irrtum. Wenn es in der Politik keine echten Unterschiede mehr gibt, wenn alle Parteien irgendwie das Gleiche sagen, dann fuehlen sich Menschen nicht mehr vertreten. Und dann waehlen sie extreme Parteien, die wenigstens anders klingen.\n\nDie agonistische Demokratie sagt deshalb: Demokratie braucht echten Streit. Aber -- und das ist wichtig -- es muss fairer Streit sein. Mouffe unterscheidet zwischen Feindschaft und Gegnerschaft. Feinde wollen sich gegenseitig vernichten. Gegner streiten hart, respektieren aber die Spielregeln der Demokratie. Das Ziel ist also nicht Harmonie, sondern leidenschaftlicher, aber fairer Wettbewerb.\n\nDiese Idee erklaert auch, warum in vielen Laendern Populisten so erfolgreich sind: Wenn die etablierten Parteien zu aehnlich werden und echte Alternativen fehlen, suchen Menschen nach radikalen Stimmen. Die Loesung ist nicht weniger Streit, sondern besserer Streit.",
+    "kernthesen": [
+      "Streit und Konflikte sind das Herzschlag der Demokratie, nicht ihr Problem.",
+      "Wenn alle Parteien das Gleiche sagen, suchen Menschen nach extremen Alternativen.",
+      "Politische Gegner sollen sich respektieren, aber trotzdem hart streiten.",
+      "Demokratie stirbt nicht an zu viel Streit, sondern an zu wenig echten Unterschieden.",
+      "Leidenschaft in der Politik ist gut -- solange die demokratischen Spielregeln eingehalten werden."
+    ],
+    "entstehung": "Chantal Mouffe entwickelte die agonistische Demokratie ab den 1990er Jahren als Gegenmodell zur Idee, dass Demokratie vor allem auf Konsens und Vernunft basieren sollte. Sie reagierte damit auf den neoliberalen Konsens nach dem Ende des Kalten Krieges.",
+    "kritik": "Kritiker fragen: Wo genau liegt die Grenze zwischen fairem Streit und gefaehrlichem Konflikt? Ausserdem warnen manche, dass die Feier des Streits die Faehigkeit untergraebt, gemeinsam Loesungen zu finden, wenn es wirklich darauf ankommt."
+  }
 }

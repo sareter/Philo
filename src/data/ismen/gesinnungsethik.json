@@ -11,13 +11,44 @@
     "Der kategorische Imperativ ist das formale Prinzip des moralischen Gesetzes",
     "Moralische Autonomie erfordert ständige Selbstprüfung"
   ],
-  "hauptvertreter": ["immanuel-kant"],
+  "hauptvertreter": [
+    "immanuel-kant"
+  ],
   "entstehung": "Die Gesinnungsethik wurde von Immanuel Kant in seiner Grundlegung zur Metaphysik der Sitten (1785) und der Kritik der praktischen Vernunft (1788) systematisch ausgearbeitet. Max Weber prägte den Begriff in seinem Vortrag Politik als Beruf (1919) in Abgrenzung zur Verantwortungsethik.",
   "kritik": "Kritiker werfen der Gesinnungsethik vor, sie ignoriere die realen Folgen des Handelns und führe zu einer verantwortungslosen Haltung, die sich hinter guten Absichten versteckt. Zudem wird die Frage gestellt, ob reine Pflichterfüllung ohne Mitgefühl und Empathie wirklich als moralisch gelten kann.",
-  "verwandteIsmen": ["verantwortungsethik", "ethischer-non-naturalismus", "praeskriptivismus"],
+  "verwandteIsmen": [
+    "verantwortungsethik",
+    "ethischer-non-naturalismus",
+    "praeskriptivismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Grundlegung zur Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1785"},
-    {"titel": "Kritik der praktischen Vernunft", "autor": "Immanuel Kant", "jahr": "1788"},
-    {"titel": "Politik als Beruf", "autor": "Max Weber", "jahr": "1919"}
-  ]
+    {
+      "titel": "Grundlegung zur Metaphysik der Sitten",
+      "autor": "Immanuel Kant",
+      "jahr": "1785"
+    },
+    {
+      "titel": "Kritik der praktischen Vernunft",
+      "autor": "Immanuel Kant",
+      "jahr": "1788"
+    },
+    {
+      "titel": "Politik als Beruf",
+      "autor": "Max Weber",
+      "jahr": "1919"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Gesinnungsethik misst den moralischen Wert einer Handlung allein an der Gesinnung des Handelnden.",
+    "ausfuehrlicheBeschreibung": "Die Gesinnungsethik bewertet Handlungen nicht nach ihren Ergebnissen, sondern nach der Absicht und inneren Haltung des Handelnden. Eine Handlung ist moralisch gut, wenn sie aus Pflichtbewusstsein und gutem Willen geschieht, unabhaengig davon, ob sie die gewuenschten Folgen hat. Der gute Wille ist das einzige, was ohne Einschraenkung gut genannt werden kann.\n\nImmanuel Kant formulierte die klassische Version der Gesinnungsethik: Der moralische Wert einer Handlung liegt nicht in ihrem Zweck oder Ergebnis, sondern allein in dem Prinzip, nach dem sie vollzogen wird. Nur Handlungen, die aus Achtung vor dem moralischen Gesetz geschehen – nicht aus Neigung, Eigeninteresse oder Berechnung –, haben moralischen Wert. Der kategorische Imperativ gibt die Form des moralischen Gesetzes vor, die Gesinnung entscheidet ueber den moralischen Gehalt.\n\nDie Gesinnungsethik hat den Vorteil, dass sie die moralische Autonomie des Subjekts schuetzt: Niemand kann fuer unvorhersehbare Folgen seines Handelns verantwortlich gemacht werden, wohl aber fuer seine Absichten. Gleichzeitig stellt sie hohe Anforderungen an die Selbstpruefung des Handelnden, der staendig fragen muss, ob seine Handlungen wirklich aus Pflicht oder nur pflichtgemaess geschehen.",
+    "kernthesen": [
+      "Der gute Wille ist das einzige uneingeschraenkt Gute",
+      "Der moralische Wert liegt in der Gesinnung, nicht in den Folgen",
+      "Nur Handlungen aus Pflicht haben moralischen Wert",
+      "Der kategorische Imperativ ist das formale Prinzip des moralischen Gesetzes",
+      "Moralische Autonomie erfordert staendige Selbstpruefung"
+    ],
+    "entstehung": "Die Gesinnungsethik wurde von Immanuel Kant in seiner Grundlegung zur Metaphysik der Sitten (1785) und der Kritik der praktischen Vernunft (1788) systematisch ausgearbeitet. Max Weber praegte den Begriff in seinem Vortrag Politik als Beruf (1919) in Abgrenzung zur Verantwortungsethik.",
+    "kritik": "Kritiker werfen der Gesinnungsethik vor, sie ignoriere die realen Folgen des Handelns und fuehre zu einer verantwortungslosen Haltung, die sich hinter guten Absichten versteckt. Zudem wird die Frage gestellt, ob reine Pflichterfuellung ohne Mitgefuehl und Empathie wirklich als moralisch gelten kann."
+  }
 }

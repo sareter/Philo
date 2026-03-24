@@ -20,5 +20,18 @@
     { "titel": "Manifest der Kommunistischen Partei", "autor": "Karl Marx und Friedrich Engels", "jahr": "1848" },
     { "titel": "Die deutsche Ideologie", "autor": "Karl Marx und Friedrich Engels", "jahr": "1846" },
     { "titel": "Ökonomisch-philosophische Manuskripte", "autor": "Karl Marx", "jahr": "1844" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Marxismus analysiert, wie im Kapitalismus die Besitzenden die Arbeitenden ausbeuten. Marx wollte eine Gesellschaft ohne Klassen, in der alle von ihrer Arbeit fair profitieren.",
+    "ausfuehrlicheBeschreibung": "Die Grundidee von Marx ist eigentlich ganz einfach: In unserer Gesellschaft gibt es Leute, die die Fabriken und Firmen besitzen, und Leute, die dort arbeiten. Die Arbeitenden produzieren den ganzen Wert, aber die Besitzer streichen den Gewinn ein. Marx nannte das Ausbeutung. Er glaubte, dass die gesamte Geschichte der Menschheit von solchen Kaempfen zwischen Arm und Reich gepraegt ist.\n\nMarx hat auch etwas beschrieben, das heute noch viele kennen: Entfremdung. Wenn du in einem Job nur stumpf Dinge abarbeitest, die dir nichts bedeuten, fuer ein Produkt, das dir nicht gehoert, in einer Firma, die dich wie eine Nummer behandelt -- dann bist du entfremdet. Du wirst von deiner eigenen Arbeit, deinen Mitmenschen und im Grunde von dir selbst abgetrennt.\n\nMarx war ueberzeugt, dass der Kapitalismus an seinen eigenen Fehlern scheitern wuerde. Die Reichen wuerden immer reicher, die Armen immer aermer, bis die Arbeiter sich zusammenschliessen und eine gerechtere Gesellschaft aufbauen. In der Praxis ist das nicht so einfach gelaufen -- Laender, die den Marxismus umsetzen wollten, endeten oft in Diktaturen. Trotzdem haben Marx' Analysen ueber Ungleichheit und Ausbeutung bis heute grossen Einfluss.",
+    "kernthesen": [
+      "Nicht unsere Ideen praegen die Gesellschaft, sondern die wirtschaftlichen Verhaeltnisse praegen unser Denken.",
+      "Die Geschichte der Menschheit ist eine Geschichte von Kaempfen zwischen Besitzenden und Besitzlosen.",
+      "Im Kapitalismus behalten die Firmenbesitzer den Gewinn, obwohl die Arbeiter den Wert erschaffen.",
+      "Kapitalistische Arbeit entfremdet die Menschen von ihrer Arbeit, ihren Mitmenschen und sich selbst.",
+      "Der Kapitalismus wird an seinen eigenen Widerspruechen scheitern und durch eine gerechtere Gesellschaft ersetzt."
+    ],
+    "entstehung": "Marx und Engels entwickelten ihre Theorie in den 1840er Jahren, als die Industrialisierung viele Arbeiter in Armut und Elend stuerzte. Das Kommunistische Manifest von 1848 war ihr bekanntestes Werk. Marx arbeitete den Rest seines Lebens an 'Das Kapital', einer ausfuehrlichen Analyse des Kapitalismus.",
+    "kritik": "Die groesste Kritik kommt aus der Geschichte: Laender, die den Marxismus umsetzen wollten, wie die Sowjetunion oder China unter Mao, endeten in Diktaturen mit Millionen Opfern. Ausserdem sind viele von Marx' Vorhersagen nicht eingetreten -- die Arbeiterklasse in den westlichen Laendern wurde nicht immer aermer, sondern teilweise wohlhabender. Manche sagen auch, dass Marx die Rolle von Kultur, Religion und Ideen zu sehr heruntergespielt hat."
+  }
 }

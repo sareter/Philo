@@ -19,5 +19,18 @@
     {"titel": "Totalität und Unendlichkeit", "autor": "Emmanuel Levinas", "jahr": "1961"},
     {"titel": "Jenseits des Seins oder anders als Sein geschieht", "autor": "Emmanuel Levinas", "jahr": "1974"},
     {"titel": "Die Schrift und die Differenz", "autor": "Jacques Derrida", "jahr": "1967"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Alteritaetsphilosophie dreht sich um die Begegnung mit dem Anderen -- dem Menschen, der anders ist als du. Sie sagt: Verantwortung fuer andere ist das Fundament jeder Ethik.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du siehst einen Fremden auf der Strasse, der Hilfe braucht. Die Alteritaetsphilosophie sagt: In diesem Moment, wenn du dem anderen ins Gesicht schaust, passiert etwas Grundlegendes. Du spuerst, dass du Verantwortung hast -- nicht weil du dich dafuer entschieden hast, sondern einfach weil dieser Mensch da ist. Das ist der Kern der Philosophie von Emmanuel Levinas.\n\nLevinas kritisierte die westliche Philosophie dafuer, dass sie immer alles auf das Eigene zurueckfuehrt. Alles Fremde wird erklaert, eingeordnet, beherrscht. Aber der Andere -- der Mensch, der dir gegenueber steht -- laesst sich nicht einordnen. Er ist anders, und diese Andersheit muss respektiert werden. Du kannst den Anderen nicht vollstaendig verstehen, und genau das ist der Punkt.\n\nJacques Derrida hat diese Idee weiterentwickelt. Er sprach von 'unbedingter Gastfreundschaft': eine Offenheit gegenueber dem Fremden, die keine Bedingungen stellt. Das klingt extrem, und ist es auch. Aber gerade in einer Welt mit Migration, Flucht und kulturellen Konflikten ist die Frage brandaktuell: Wie gehen wir mit Menschen um, die anders sind als wir?",
+    "kernthesen": [
+      "Die Begegnung mit einem anderen Menschen ist die Grundlage aller Ethik.",
+      "Verantwortung fuer andere waehlt man nicht -- sie ist einfach da.",
+      "Den anderen Menschen kann man nie vollstaendig verstehen, und das muss man respektieren.",
+      "Die westliche Philosophie hat zu oft versucht, das Fremde zu beherrschen statt es zu akzeptieren.",
+      "Echte Ethik beginnt dort, wo man die Andersheit des anderen gelten laesst."
+    ],
+    "entstehung": "Emmanuel Levinas begruendete die Alteritaetsphilosophie nach den Erfahrungen des Holocaust. Die Frage war: Wie ist Ethik moeglich nach Auschwitz? Seine Antwort: Indem wir die Verantwortung fuer den Anderen ins Zentrum stellen. Derrida entwickelte diese Ideen spaeter weiter.",
+    "kritik": "Kritiker sagen, die Forderung nach unendlicher Verantwortung fuer den Anderen ueberfordert den einzelnen Menschen. Ausserdem: Wenn der Andere immer fremd bleibt, kann man dann ueberhaupt noch miteinander reden und sich verstaendigen?"
+  }
 }

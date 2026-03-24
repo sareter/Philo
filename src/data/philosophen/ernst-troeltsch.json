@@ -71,5 +71,46 @@
     }
   ],
   "verwandtePhilosophen": ["wilhelm-windelband", "heinrich-rickert", "arnold-toynbee"],
-  "verwandteIsmen": ["historismus", "neukantianismus"]
+  "verwandteIsmen": ["historismus", "neukantianismus"],
+  "einfach": {
+    "kurzbeschreibung": "Ernst Troeltsch fragte sich: Wenn alles geschichtlich bedingt ist, kann es dann ueberhaupt noch allgemeingueltige Werte geben? Diese Frage machte ihn zu einem der wichtigsten Denker des Historismus.",
+    "biografie": {
+      "fruehesLeben": "Troeltsch wurde 1865 bei Augsburg geboren und studierte Theologie. Er wurde ein enger Freund des beruehmten Soziologen Max Weber.",
+      "schaffen": "Er schrieb ein grosses Werk ueber die soziale Wirkung des Christentums und setzte sich mit dem Problem auseinander, dass alle Werte und Normen geschichtlich bedingt sind. Wenn alles relativ ist, woran soll man sich dann noch orientieren?",
+      "spaetesLeben": "Er wechselte von der Theologie zur Philosophie und engagierte sich politisch als liberaler Demokrat in der Weimarer Republik.",
+      "tod": "Troeltsch starb 1923 in Berlin an einem Herzinfarkt, mitten in der Arbeit an seinem Hauptwerk ueber den Historismus.",
+      "nachwirkung": "Seine Frage, wie man angesichts der geschichtlichen Relativitaet aller Werte noch gueltige Normen finden kann, ist bis heute ungeloest und aktuell."
+    },
+    "kernideen": [
+      {
+        "titel": "Das Problem des Historismus",
+        "beschreibung": "Wenn alle Werte und Wahrheiten von ihrer Zeit abhaengen, gibt es dann ueberhaupt noch etwas Allgemeingueltiges? Troeltsch suchte einen Mittelweg zwischen totalem Relativismus und naivem Absolutismus."
+      },
+      {
+        "titel": "Kirche, Sekte und Mystik",
+        "beschreibung": "Es gibt drei Grundtypen von Religion: die Kirche als grosse Institution, die Sekte als kleine Gemeinschaft der Ueberzeugten und die Mystik als rein persoenliche Innerlichkeit."
+      },
+      {
+        "titel": "Kultursynthese",
+        "beschreibung": "Als Antwort auf den Relativismus schlug Troeltsch vor, die verschiedenen europaeischen Traditionen bewusst zu einer neuen kulturellen Einheit zusammenzufuehren."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Soziallehren der christlichen Kirchen und Gruppen",
+        "jahr": "1912",
+        "beschreibung": "Sein grosses Werk ueber die soziale Wirkung des Christentums von der Antike bis zur Gegenwart."
+      },
+      {
+        "titel": "Der Historismus und seine Probleme",
+        "jahr": "1922",
+        "beschreibung": "Seine Auseinandersetzung mit der Frage, wie es allgemeingueltige Werte geben kann, wenn alles geschichtlich bedingt ist."
+      },
+      {
+        "titel": "Die Absolutheit des Christentums und die Religionsgeschichte",
+        "jahr": "1902",
+        "beschreibung": "Die Frage, ob das Christentum einen besonderen Wahrheitsanspruch erheben kann, wenn alle Religionen geschichtlich bedingt sind."
+      }
+    ]
+  }
 }

@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Moralphilosophie"],
+  "hauptstroemungen": [
+    "Moralphilosophie"
+  ],
   "kurzbeschreibung": "Bernard Williams war ein britischer Philosoph, der als einer der bedeutendsten Moralphilosophen des 20. Jahrhunderts gilt. Er war ein scharfer Kritiker des Utilitarismus und systematischer Moraltheorien und betonte die Rolle von Emotionen, persönlicher Integrität und moralischem Glück in der Ethik. Sein Denken zeichnet sich durch außergewöhnliche Klarheit und intellektuelle Unabhängigkeit aus.",
   "biografie": {
     "fruehesLeben": "Bernard Williams wurde 1929 in Westcliff-on-Sea, Essex, geboren und studierte am Balliol College in Oxford Philosophie und Altphilologie. Er diente in der Royal Air Force und wurde dann Fellow am All Souls College. Er galt früh als einer der brillantesten Geister seiner Generation.",
@@ -81,6 +83,63 @@
       "quelle": "Moralisches Glück"
     }
   ],
-  "verwandtePhilosophen": ["derek-parfit", "john-rawls", "peter-singer", "immanuel-kant"],
-  "verwandteIsmen": ["moralphilosophie"]
+  "verwandtePhilosophen": [
+    "derek-parfit",
+    "john-rawls",
+    "peter-singer",
+    "immanuel-kant"
+  ],
+  "verwandteIsmen": [
+    "moralphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Bernard Williams war ein britischer Philosoph, der als einer der bedeutendsten Moralphilosophen des 20. Jahrhunderts gilt. Er war ein scharfer Kritiker des Utilitarismus und systematischer Moraltheorien und betonte die Rolle von Emotionen, persoenlicher Integritaet und moralischem Glueck in der Ethik. Sein Denken zeichnet sich durch aussergewoehnliche Klarheit und intellektuelle Unabhaengigkeit aus.",
+    "biografie": {
+      "fruehesLeben": "Bernard Williams wurde 1929 in Westcliff-on-Sea, Essex, geboren und studierte am Balliol College in Oxford Philosophie und Altphilologie. Er diente in der Royal Air Force und wurde dann Fellow am All Souls College. Er galt frueh als einer der brillantesten Geister seiner Generation.",
+      "schaffen": "Williams lehrte an den Universitaeten London, Cambridge und Oxford sowie an der UC Berkeley. Seine Kritik des Utilitarismus und des Kantianismus formulierte er in zahlreichen einflussreichen Aufsaetzen und Buechern. 'Ethics and the Limits of Philosophy' (1985) stellte die Grundlagen systematischer Moralphilosophie radikal in Frage.",
+      "spaetesLeben": "In seinen spaeteren Jahren wandte sich Williams verstaerkt der griechischen Philosophie und der Frage zu, was die Alten uns ueber Ethik lehren koennen. Er war Mitglied zahlreicher Regierungskommissionen und eine einflussreiche oeffentliche Stimme in ethischen Fragen.",
+      "tod": "Bernard Williams starb am 10. Juni 2003 in Rom im Alter von 73 Jahren an einem Myelom. Er hinterliess ein Werk, das die analytische Moralphilosophie nachhaltig veraendert hat. Sein posthum veroeffentlichter Band 'Philosophy as a Humanistic Discipline' fasst seine Vision der Philosophie zusammen.",
+      "nachwirkung": "Williams' Kritik systematischer Moraltheorien hat die Ethik nachhaltig beeinflusst und zu einer staerkeren Beachtung von Emotionen, Charakter und Kontingenz in der Moralphilosophie gefuehrt. Seine Konzepte des moralischen Gluecks und der internen Gruende gehoeren zum Standardrepertoire der zeitgenoessischen Ethik."
+    },
+    "kernideen": [
+      {
+        "titel": "Kritik des Utilitarismus",
+        "beschreibung": "Der Utilitarismus fordert von Menschen, ihre eigenen Projekte und Ueberzeugungen zugunsten des groessten allgemeinen Nutzens aufzugeben. Dies verletzt die persoenliche Integritaet, denn es macht Menschen zu blossen Kanaelen fuer das allgemeine Wohl. Eine Moral, die Integritaet zerstoert, kann nicht richtig sein."
+      },
+      {
+        "titel": "Moralisches Glueck (Moral Luck)",
+        "beschreibung": "Unser moralisches Urteil haengt oft von Umstaenden ab, die ausserhalb unserer Kontrolle liegen – von Glueck. Dies stellt die gaengige Annahme in Frage, dass moralische Bewertung nur von dem abhaengen darf, was in unserer Macht steht. Das Konzept des moralischen Gluecks untergraebt die Grundlagen der kantischen Ethik."
+      },
+      {
+        "titel": "Interne Gruende",
+        "beschreibung": "Ein Grund zum Handeln muss in Verbindung mit der bestehenden Motivation des Handelnden stehen. Es gibt keine externen Gruende, die unabhaengig von den Wuenschen, Ueberzeugungen und dem Charakter einer Person gueltig waeren. Dies stellt universalistische Moraltheorien in Frage."
+      },
+      {
+        "titel": "Grenzen der Philosophie",
+        "beschreibung": "Die Moralphilosophie kann und soll nicht ein umfassendes System moralischer Regeln liefern. Das ethische Denken muss die Kontingenz, Komplexitaet und Tragik des menschlichen Lebens anerkennen. Systematische Theorien verfehlen gerade das, was in der Ethik wirklich zaehlt."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Utilitarismus: Fuer und Wider (Utilitarianism: For and Against)",
+        "jahr": "1973",
+        "beschreibung": "Williams' einflussreiche Kritik des Utilitarismus, die das Konzept der persoenlichen Integritaet gegen den utilitaristischen Anspruch auf unparteiische Nutzenmaximierung verteidigt."
+      },
+      {
+        "titel": "Ethik und die Grenzen der Philosophie (Ethics and the Limits of Philosophy)",
+        "jahr": "1985",
+        "beschreibung": "Williams' Hauptwerk, das die Grenzen systematischer Moraltheorie aufzeigt und fuer ein ethisches Denken plaediert, das der Komplexitaet des Lebens gerecht wird."
+      },
+      {
+        "titel": "Moralisches Glueck (Moral Luck)",
+        "jahr": "1981",
+        "beschreibung": "Eine Sammlung philosophischer Aufsaetze, die das Konzept des moralischen Gluecks einfuehrt und die Grundlagen der modernen Moralphilosophie hinterfragt."
+      },
+      {
+        "titel": "Scham und Notwendigkeit (Shame and Necessity)",
+        "jahr": "1993",
+        "beschreibung": "Eine Auseinandersetzung mit der griechischen Ethik, die zeigt, dass die Alten in mancher Hinsicht klarer ueber Ethik dachten als wir Modernen."
+      }
+    ]
+  }
 }

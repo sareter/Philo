@@ -6,8 +6,8 @@
     "jahr": 121,
     "ort": "Rom",
     "land": "Italien (Römisches Reich)",
-    "lat": 41.90,
-    "lng": 12.50
+    "lat": 41.9,
+    "lng": 12.5
   },
   "gestorben": {
     "jahr": 180,
@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Römisches Reich",
-  "hauptstroemungen": ["Stoizismus", "Ethik", "Praktische Philosophie"],
+  "hauptstroemungen": [
+    "Stoizismus",
+    "Ethik",
+    "Praktische Philosophie"
+  ],
   "kurzbeschreibung": "Marcus Aurelius war der letzte der 'Fünf guten Kaiser' Roms und zugleich der bedeutendste philosophische Schriftsteller auf einem Thron. Seine 'Selbstbetrachtungen', geschrieben im Feldlager während der Markomannenkriege, gehören zu den meistgelesenen philosophischen Werken der Weltliteratur.",
   "biografie": {
     "fruehesLeben": "Marcus Aurelius wurde am 26. April 121 n. Chr. in Rom als Marcus Annius Verus in eine vornehme Familie geboren. Sein Großvater mütterlicherseits war dreimal Konsul. Kaiser Hadrian erkannte früh die außergewöhnlichen Qualitäten des Jungen und gab ihm den Beinamen 'Verissimus' (der Wahrhaftigste). Er erhielt eine erstklassige Ausbildung: Der Grammatiker Fronto unterrichtete ihn in Rhetorik, und der Stoiker Junius Rusticus führte ihn in die Philosophie des Epiktet ein – ein Wendepunkt in seinem Leben. Mit zwölf Jahren begann er, die einfache Lebensweise der Philosophen nachzuahmen: Er schlief auf dem Boden und trug einen rauen Mantel. Kaiser Hadrian adoptierte Antoninus Pius unter der Bedingung, dass dieser seinerseits Marcus Aurelius adoptierte – damit war Marcus' Weg zum Thron vorgezeichnet.",
@@ -79,6 +83,52 @@
       "kontext": "Stoische Gelassenheit gegenüber Feindseligkeit."
     }
   ],
-  "verwandtePhilosophen": ["seneca", "epiktet", "zenon-von-kition", "chrysipp", "heraklit"],
-  "verwandteIsmen": ["stoizismus", "kosmopolitismus", "pflichtethik", "praktische-philosophie"]
+  "verwandtePhilosophen": [
+    "seneca",
+    "epiktet",
+    "zenon-von-kition",
+    "chrysipp",
+    "heraklit"
+  ],
+  "verwandteIsmen": [
+    "stoizismus",
+    "kosmopolitismus",
+    "pflichtethik",
+    "praktische-philosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Marcus Aurelius war der letzte der 'Fuenf guten Kaiser' Roms und zugleich der bedeutendste philosophische Schriftsteller auf einem Thron. Seine 'Selbstbetrachtungen', geschrieben im Feldlager waehrend der Markomannenkriege, gehoeren zu den meistgelesenen philosophischen Werken der Weltliteratur.",
+    "biografie": {
+      "fruehesLeben": "Marcus Aurelius wurde am 26. April 121 n. Chr. in Rom als Marcus Annius Verus in eine vornehme Familie geboren. Sein Grossvater muetterlicherseits war dreimal Konsul. Kaiser Hadrian erkannte frueh die aussergewoehnlichen Qualitaeten des Jungen und gab ihm den Beinamen 'Verissimus' (der Wahrhaftigste). Er erhielt eine erstklassige Ausbildung: Der Grammatiker Fronto unterrichtete ihn in Rhetorik, und der Stoiker Junius Rusticus fuehrte ihn in die Philosophie des Epiktet ein – ein Wendepunkt in seinem Leben. Mit zwoelf Jahren begann er, die einfache Lebensweise der Philosophen nachzuahmen: Er schlief auf dem Boden und trug einen rauen Mantel.",
+      "schaffen": "161 n. Chr. bestieg Marcus Aurelius als erster den Thron gemeinsam mit Lucius Verus als Co-Kaiser. Seine Regierungszeit war von schweren Krisen gepraegt: Partherkriege im Osten, die verheerende Antoninische Pest (moeglicherweise Pocken), die Millionen Opfer forderte, Ueberschwemmungen, Hungersnoete und die jahrelangen Markomannenkriege an der Donaugrenze. Trotz dieser Belastungen – oder gerade wegen ihnen – schrieb Marcus Aurelius seine 'Selbstbetrachtungen' (Ta eis heauton), ein philosophisches Tagebuch, das er im Feldlager an der Donaufront verfasste. Das Werk war nicht zur Veroeffentlichung bestimmt und ist gerade deshalb so authentisch.",
+      "spaetesLeben": "Die letzten Jahre des Marcus Aurelius waren von den endlosen Markomannenkriegen gepraegt. Er verbrachte Jahre im Feldlager an der Donau, fern von Rom, in staendigem Kampf gegen germanische und sarmatische Staemme. Seine Gesundheit war angeschlagen – er litt an Magengeschwueren und nahm regelmaessig Theriak ein, ein Opium-haltiges Heilmittel. Sein groesster Schmerz war die Enttaeuschung ueber seinen Sohn Commodus, den er als Nachfolger bestimmte, obwohl er dessen Schwaechen kannte.",
+      "tod": "Marcus Aurelius starb am 17. Maerz 180 n. Chr. waehrend der Markomannenkriege, wahrscheinlich in Vindobona (Wien) oder Sirmium, an einer Krankheit – moeglicherweise der Antoninischen Pest. Auf dem Sterbebett soll er auf die Frage, warum er weine, geantwortet haben, er weine nicht wegen des Todes, sondern weil er seinen Sohn und das Reich den Gefahren hinterlasse. Er wurde 58 Jahre alt und zum Gott erklaert.",
+      "nachwirkung": "Marcus Aurelius gilt als der Idealtyp des Philosophenkoenigs, den Platon gefordert hatte. Seine Selbstbetrachtungen wurden zu einem der meistgelesenen Buecher der Weltliteratur und inspirieren Menschen in aller Welt bis heute. Friedrich der Grosse las sie ebenso wie Bill Clinton. Die moderne Stoizismus-Bewegung und die kognitive Verhaltenstherapie berufen sich auf stoische Prinzipien, wie sie Marcus Aurelius formulierte."
+    },
+    "kernideen": [
+      {
+        "titel": "Vergaenglichkeit und Akzeptanz",
+        "beschreibung": "Alles ist vergaenglich und im staendigen Wandel. Der Weise akzeptiert dies gelassen und haengt sein Herz nicht an Vergaengliches. Was heute gross erscheint, ist morgen vergessen."
+      },
+      {
+        "titel": "Innere Burg",
+        "beschreibung": "Die Seele besitzt eine innere Festung (Zitadelle), in die sich der Mensch jederzeit zurueckziehen kann. Aeussere Umstaende koennen uns nicht verletzen – nur unsere eigenen Urteile ueber die Umstaende."
+      },
+      {
+        "titel": "Pflicht und kosmische Ordnung",
+        "beschreibung": "Jeder Mensch hat eine Rolle in der kosmischen Ordnung und eine Pflicht gegenueber der Gemeinschaft. Man soll seine Aufgabe erfuellen, ungeachtet persoenlicher Neigungen oder aeusserer Hindernisse."
+      },
+      {
+        "titel": "Kontrolle ueber die eigenen Urteile",
+        "beschreibung": "Nicht die Dinge selbst beunruhigen uns, sondern unsere Urteile ueber die Dinge. Wir haben die Macht, unsere Urteile zu aendern und damit unsere Reaktionen auf die Welt."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Selbstbetrachtungen (Ta eis heauton / Meditationes)",
+        "jahr": "170–180 n. Chr.",
+        "beschreibung": "Philosophisches Tagebuch in zwoelf Buechern, geschrieben auf Griechisch im Feldlager waehrend der Markomannenkriege. Nicht zur Veroeffentlichung bestimmt, aber eines der einflussreichsten Werke der Weltliteratur. Persoenliche Reflexionen ueber stoische Lebensweisheit."
+      }
+    ]
+  }
 }

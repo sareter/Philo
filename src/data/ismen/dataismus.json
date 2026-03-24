@@ -11,13 +11,44 @@
     "Maximale Transparenz und freier Informationsfluss sind die höchsten Güter.",
     "Der Humanismus wird durch eine datenbasierte Weltsicht abgelöst."
   ],
-  "hauptvertreter": ["ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Der Dataismus als philosophisches Konzept wurde vor allem durch Yuval Noah Harari in 'Homo Deus' (2017) populär gemacht. Er beschreibt eine Tendenz, die sich aus der Konvergenz von Big Data, maschinellem Lernen und der digitalen Transformation aller Lebensbereiche ergibt.",
   "kritik": "Kritiker warnen, dass der Dataismus menschliche Freiheit, Würde und Privatheit untergräbt und eine totalitäre Überwachungsgesellschaft legitimiert. Zudem wird bemängelt, dass die Reduktion der Wirklichkeit auf Daten die qualitativen Dimensionen menschlicher Erfahrung – Liebe, Leid, Sinn – nicht erfassen kann.",
-  "verwandteIsmen": ["informationsphilosophie", "transhumanismus", "algorithmische-ethik"],
+  "verwandteIsmen": [
+    "informationsphilosophie",
+    "transhumanismus",
+    "algorithmische-ethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Homo Deus", "autor": "Yuval Noah Harari", "jahr": "2017"},
-    {"titel": "The Second Machine Age", "autor": "Erik Brynjolfsson / Andrew McAfee", "jahr": "2014"},
-    {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"}
-  ]
+    {
+      "titel": "Homo Deus",
+      "autor": "Yuval Noah Harari",
+      "jahr": "2017"
+    },
+    {
+      "titel": "The Second Machine Age",
+      "autor": "Erik Brynjolfsson / Andrew McAfee",
+      "jahr": "2014"
+    },
+    {
+      "titel": "Tractatus logico-philosophicus",
+      "autor": "Ludwig Wittgenstein",
+      "jahr": "1921"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Dataismus ist eine philosophische Stroemung, die Daten und Informationsfluesse als hoechsten Wert und grundlegendes Prinzip der Wirklichkeit versteht.",
+    "ausfuehrlicheBeschreibung": "Der Dataismus wurde von Yuval Noah Harari als eine aufkommende Weltanschauung des 21. Jahrhunderts beschrieben, die den Humanismus durch eine datenbasierte Weltsicht abloesen koennte. Er beruht auf der Ueberzeugung, dass das Universum aus Informationsfluessen besteht und dass der Wert eines Phaenomens – sei es ein Organismus, eine Institution oder eine Gesellschaft – durch seinen Beitrag zur Datenverarbeitung bestimmt wird. Philosophisch erinnert dieser Ansatz an Wittgensteins Einsicht, dass die Grenzen unserer Sprache die Grenzen unserer Welt bedeuten – im Dataismus werden die Grenzen unserer Daten zu den Grenzen unserer Erkenntnis.\n\nDer Dataismus verbindet Elemente der Informationstheorie, der Bioinformatik und der Silicon-Valley-Ideologie. Er argumentiert, dass Algorithmen bessere Entscheidungen treffen koennen als Menschen, da sie groessere Datenmengen verarbeiten und nicht von Emotionen, Vorurteilen oder kognitiven Verzerrungen beeinflusst werden. Im Extremfall fuehrt dies zur Forderung, menschliche Autonomie zugunsten algorithmischer Optimierung aufzugeben.\n\nPhilosophisch wirft der Dataismus grundlegende Fragen ueber Freiheit, Subjektivitaet und den Wert menschlicher Erfahrung auf. Ist der Mensch letztlich ein Datenverarbeitungssystem? Kann algorithmische Analyse moralisches Urteilsvermoegen ersetzen? Der Dataismus dient zugleich als Beschreibung einer tatsaechlichen kulturellen Tendenz und als Gegenstand philosophischer Kritik.",
+    "kernthesen": [
+      "Daten und Informationsfluesse sind das grundlegende Prinzip der Wirklichkeit.",
+      "Der Wert eines Systems bemisst sich an seinem Beitrag zur Datenverarbeitung.",
+      "Algorithmen koennen bessere Entscheidungen treffen als Menschen.",
+      "Maximale Transparenz und freier Informationsfluss sind die hoechsten Gueter.",
+      "Der Humanismus wird durch eine datenbasierte Weltsicht abgeloest."
+    ],
+    "entstehung": "Der Dataismus als philosophisches Konzept wurde vor allem durch Yuval Noah Harari in 'Homo Deus' (2017) populaer gemacht. Er beschreibt eine Tendenz, die sich aus der Konvergenz von Big Data, maschinellem Lernen und der digitalen Transformation aller Lebensbereiche ergibt.",
+    "kritik": "Kritiker warnen, dass der Dataismus menschliche Freiheit, Wuerde und Privatheit untergraebt und eine totalitaere Ueberwachungsgesellschaft legitimiert. Zudem wird bemaengelt, dass die Reduktion der Wirklichkeit auf Daten die qualitativen Dimensionen menschlicher Erfahrung – Liebe, Leid, Sinn – nicht erfassen kann."
+  }
 }

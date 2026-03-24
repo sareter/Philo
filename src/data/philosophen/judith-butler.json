@@ -85,5 +85,55 @@
     }
   ],
   "verwandtePhilosophen": ["michel-foucault", "jacques-derrida", "simone-de-beauvoir", "donna-haraway"],
-  "verwandteIsmen": ["poststrukturalismus", "feminismus"]
+  "verwandteIsmen": ["poststrukturalismus", "feminismus"],
+  "einfach": {
+    "kurzbeschreibung": "Butler ist eine der einflussreichsten Denkerinnen der Gegenwart. Ihre Hauptidee: Geschlecht ist nicht angeboren, sondern etwas, das wir taeglich durch unser Verhalten erzeugen.",
+    "biografie": {
+      "fruehesLeben": "Butler wurde 1956 in Cleveland, Ohio, in eine juedische Familie geboren. Sie studierte Philosophie an der Yale University und beschaeftigte sich frueh mit Fragen von Identitaet, Geschlecht und Macht.",
+      "schaffen": "Mit ihrem Buch 'Das Unbehagen der Geschlechter' wurde Butler weltberuehmt. Sie lehrte an der Johns Hopkins University und in Berkeley. Ihre Theorie der Performativitaet -- Geschlecht entsteht durch wiederholtes Tun -- veraenderte die Geschlechterforschung grundlegend. Spaeter schrieb sie auch ueber Verletzbarkeit, Krieg und Gewaltlosigkeit.",
+      "spaetesLeben": "Butler ist weiterhin Professorin in Berkeley und mischt sich in oeffentliche Debatten ueber Menschenrechte und politische Ethik ein. Sie gehoert zu den meistzitierten Geisteswissenschaftlerinnen weltweit.",
+      "tod": "Butler lebt und arbeitet weiterhin in Berkeley, Kalifornien.",
+      "nachwirkung": "Butlers Performativitaetstheorie hat die Gender Studies, die Queer-Theorie und die feministische Philosophie grundlegend veraendert und wirkt weit ueber die Philosophie hinaus."
+    },
+    "kernideen": [
+      {
+        "titel": "Performativitaet des Geschlechts",
+        "beschreibung": "Geschlecht ist nichts, was du von Natur aus 'bist'. Es entsteht durch das, was du taeglich tust -- wie du dich kleidest, bewegst, sprichst. Die Wiederholung erzeugt die Illusion eines festen Geschlechts."
+      },
+      {
+        "titel": "Subversion der Geschlechternormen",
+        "beschreibung": "Weil Geschlecht durch Tun entsteht, kann man es auch anders tun. Zum Beispiel zeigt Drag, dass Geschlechterrollen konstruiert und nicht natuerlich sind."
+      },
+      {
+        "titel": "Prekaritaet und Verletzbarkeit",
+        "beschreibung": "Alle Menschen sind verletzbar und aufeinander angewiesen. Aber manche Leben werden als weniger wertvoll behandelt als andere -- und das ist ein politisches Problem."
+      },
+      {
+        "titel": "Ethik der Gewaltlosigkeit",
+        "beschreibung": "Gewaltlosigkeit ist kein passives Hinnehmen, sondern aktiver Widerstand, der aus der Einsicht kommt, dass wir alle voneinander abhaengen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das Unbehagen der Geschlechter (Gender Trouble)",
+        "jahr": "1990",
+        "beschreibung": "Das bahnbrechende Werk, das die Gender Studies revolutionierte und Geschlecht als Performanz erklaerte."
+      },
+      {
+        "titel": "Koerper von Gewicht (Bodies That Matter)",
+        "jahr": "1993",
+        "beschreibung": "Eine Vertiefung der Performativitaetstheorie mit Fokus auf die Frage, was der Koerper mit Geschlecht zu tun hat."
+      },
+      {
+        "titel": "Gefaehrdetes Leben (Precarious Life)",
+        "jahr": "2004",
+        "beschreibung": "Essays ueber Trauer, Verletzbarkeit und politische Gewalt nach dem 11. September 2001."
+      },
+      {
+        "titel": "Die Macht der Gewaltlosigkeit (The Force of Nonviolence)",
+        "jahr": "2020",
+        "beschreibung": "Eine Verteidigung der Gewaltlosigkeit als politische Praxis, die auf gegenseitiger Abhaengigkeit beruht."
+      }
+    ]
+  }
 }

@@ -48,5 +48,65 @@
     { "text": "Wer mit Philosophieren anfangen will, muss zunächst an allem zweifeln.", "quelle": "De augmentis scientiarum", "kontext": "Bacon betont die Notwendigkeit des methodischen Zweifels als Ausgangspunkt wissenschaftlicher Erkenntnis." }
   ],
   "verwandtePhilosophen": ["john-locke", "thomas-hobbes", "rene-descartes", "david-hume", "denis-diderot"],
-  "verwandteIsmen": ["empirismus", "rationalismus", "szientismus"]
+  "verwandteIsmen": ["empirismus", "rationalismus", "szientismus"],
+  "einfach": {
+    "kurzbeschreibung": "Francis Bacon ist der Vater des modernen Empirismus. Sein Motto 'Wissen ist Macht' und seine Methode, die Natur durch Beobachtung statt durch blosse Theorie zu verstehen, legten die Grundlagen fuer die moderne Wissenschaft.",
+    "biografie": {
+      "fruehesLeben": "Bacon wurde 1561 in London als Sohn eines hohen Beamten geboren. Mit zwoelf ging er schon an die Uni in Cambridge, fand die dortige Lehrmethode aber unfruchtbar. Nach dem fruehen Tod seines Vaters musste er sich selbst durchschlagen.",
+      "schaffen": "Sein Lebensprojekt war eine grosse Erneuerung der Wissenschaften. In seinem Hauptwerk 'Novum Organum' entwickelte er die induktive Methode: Statt einfach Theorien aufzustellen, soll man systematisch beobachten und daraus Gesetze ableiten. Er beschrieb auch vier Arten von Denkfehlern, die er 'Idole' nannte. Seine 'Essays' sind Meisterwerke der englischen Prosa.",
+      "spaetesLeben": "Er stieg bis zum Lordkanzler auf, wurde aber wegen Bestechung verurteilt und verlor alle Aemter. Die letzten fuenf Jahre seines Lebens widmete er ganz der Wissenschaft.",
+      "tod": "Bacon starb 1626 in London. Der Legende nach erkueltete er sich toedlich bei einem Experiment, als er ein Huhn mit Schnee fuellte, um die konservierende Wirkung von Kaelte zu testen.",
+      "nachwirkung": "Seine Forderung nach systematischer Forschung bereitete den Boden fuer die wissenschaftliche Revolution. Die Royal Society berief sich auf ihn, und die franzoesischen Enzyklopaedisten uebernahmen seine Wissensklassifikation."
+    },
+    "kernideen": [
+      {
+        "titel": "Wissen ist Macht",
+        "beschreibung": "Wissenschaftliches Wissen gibt uns Macht ueber die Natur. Wissen ist kein Selbstzweck, sondern soll das Leben der Menschen konkret verbessern."
+      },
+      {
+        "titel": "Induktive Methode",
+        "beschreibung": "Statt von abstrakten Theorien auszugehen, soll man erst beobachten, dann vergleichen und daraus schrittweise allgemeine Gesetze ableiten."
+      },
+      {
+        "titel": "Idolenlehre",
+        "beschreibung": "Es gibt vier Arten von Denkfehlern: Vorurteile der menschlichen Natur, persoenliche Vorurteile, sprachliche Verwirrungen und Irrtruemer durch philosophische Dogmen."
+      },
+      {
+        "titel": "Grosse Erneuerung der Wissenschaften",
+        "beschreibung": "Bacon wollte das gesamte Wissen der Menschheit auf eine neue, erfahrungsbasierte Grundlage stellen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Novum Organum (Neues Organon)",
+        "jahr": "1620",
+        "beschreibung": "Sein Hauptwerk ueber die induktive Methode und die vier Arten von Denkfehlern."
+      },
+      {
+        "titel": "The Advancement of Learning",
+        "jahr": "1605",
+        "beschreibung": "Eine Bestandsaufnahme des menschlichen Wissens mit einem Plan, wie man es verbessern kann."
+      },
+      {
+        "titel": "Essays",
+        "jahr": "1597/1625",
+        "beschreibung": "58 kurze Texte ueber Themen wie Wahrheit, Freundschaft und Studien, die zu Klassikern der englischen Literatur wurden."
+      },
+      {
+        "titel": "Neu-Atlantis (New Atlantis)",
+        "jahr": "1627",
+        "beschreibung": "Eine Utopie ueber eine auf Wissenschaft gegruendete Gesellschaft, die als Vorbild fuer die spaetere Royal Society gilt."
+      },
+      {
+        "titel": "De dignitate et augmentis scientiarum",
+        "jahr": "1623",
+        "beschreibung": "Die erweiterte lateinische Version seines Werks ueber den Fortschritt des Wissens."
+      },
+      {
+        "titel": "Sylva Sylvarum",
+        "jahr": "1627",
+        "beschreibung": "Eine Sammlung von Naturbeobachtungen und Experimenten, die seine empirische Methode in der Praxis zeigt."
+      }
+    ]
+  }
 }

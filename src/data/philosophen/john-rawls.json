@@ -85,5 +85,55 @@
     }
   ],
   "verwandtePhilosophen": ["robert-nozick", "juergen-habermas", "peter-singer", "john-dewey"],
-  "verwandteIsmen": ["liberalismus", "kontraktualismus", "egalitarismus"]
+  "verwandteIsmen": ["liberalismus", "kontraktualismus", "egalitarismus"],
+  "einfach": {
+    "kurzbeschreibung": "Rawls war der wichtigste politische Philosoph des 20. Jahrhunderts. Seine grosse Frage: Was waere gerecht, wenn du nicht wuesstest, ob du reich oder arm geboren wirst?",
+    "biografie": {
+      "fruehesLeben": "Rawls wurde 1921 in Baltimore, USA, geboren. Zwei seiner Brueder starben an Krankheiten, die sie von ihm bekommen hatten, was ihn ein Leben lang belastete. Im Zweiten Weltkrieg kaempfte er im Pazifik und erlebte die Zerstoerung von Hiroshima -- das erschuetterte seinen Glauben und praegte sein Nachdenken ueber Gerechtigkeit.",
+      "schaffen": "Als Professor in Harvard schrieb Rawls sein beruehmt gewordenes Buch 'Eine Theorie der Gerechtigkeit'. Sein zentrales Gedankenexperiment: Stell dir vor, du musst die Regeln fuer eine Gesellschaft festlegen, weisst aber nicht, ob du in ihr reich oder arm, maennlich oder weiblich, talentiert oder benachteiligt sein wirst. Rawls meinte, man wuerde dann zwei Prinzipien waehlen: gleiche Freiheiten fuer alle und Ungleichheit nur, wenn sie den Schwaechsten nuetzt.",
+      "spaetesLeben": "Rawls war ein sehr bescheidener Mensch, der das Rampenlicht mied. Ab 1995 hatte er mehrere Schlaganfaelle, konnte aber noch einige wichtige Werke fertigstellen.",
+      "tod": "Rawls starb 2002 in Massachusetts an Herzversagen im Alter von 81 Jahren.",
+      "nachwirkung": "Sein Buch ueber Gerechtigkeit gilt als das wichtigste Werk der politischen Philosophie im 20. Jahrhundert und hat die Debatte ueber Fairness in Politik, Wirtschaft und Recht grundlegend veraendert."
+    },
+    "kernideen": [
+      {
+        "titel": "Der Schleier des Nichtwissens",
+        "beschreibung": "Stell dir vor, du musst Regeln fuer eine Gesellschaft machen, weisst aber nicht, wer du in dieser Gesellschaft sein wirst. Dann wuerdest du automatisch fair entscheiden."
+      },
+      {
+        "titel": "Die zwei Gerechtigkeitsprinzipien",
+        "beschreibung": "Erstens: Alle bekommen die gleichen Grundfreiheiten. Zweitens: Ungleichheit ist nur okay, wenn sie den am schlechtesten Gestellten am meisten hilft."
+      },
+      {
+        "titel": "Gerechtigkeit als Fairness",
+        "beschreibung": "Eine gerechte Gesellschaft ist eine, deren Regeln fair fuer alle sind -- egal, ob du mit viel oder wenig Talent oder Geld geboren wurdest."
+      },
+      {
+        "titel": "Uebergreifender Konsens",
+        "beschreibung": "In einer Gesellschaft mit vielen verschiedenen Weltanschauungen koennen sich trotzdem alle auf gemeinsame Gerechtigkeitsprinzipien einigen, jeder aus seinen eigenen Gruenden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Eine Theorie der Gerechtigkeit (A Theory of Justice)",
+        "jahr": "1971",
+        "beschreibung": "Das einflussreichste Buch der politischen Philosophie im 20. Jahrhundert, das Gerechtigkeit durch ein geniales Gedankenexperiment begruendet."
+      },
+      {
+        "titel": "Politischer Liberalismus (Political Liberalism)",
+        "jahr": "1993",
+        "beschreibung": "Rawls erklaert, wie Gerechtigkeit in einer Gesellschaft funktionieren kann, in der Menschen ganz unterschiedliche Weltanschauungen haben."
+      },
+      {
+        "titel": "Das Recht der Voelker (The Law of Peoples)",
+        "jahr": "1999",
+        "beschreibung": "Rawls uebertraegt seine Gerechtigkeitstheorie auf die internationale Ebene."
+      },
+      {
+        "titel": "Gerechtigkeit als Fairness (Justice as Fairness: A Restatement)",
+        "jahr": "2001",
+        "beschreibung": "Eine ueberarbeitete Zusammenfassung seiner lebenslangen Arbeit an der Gerechtigkeitstheorie."
+      }
+    ]
+  }
 }

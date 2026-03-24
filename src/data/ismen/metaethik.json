@@ -20,5 +20,18 @@
     { "titel": "Ethics: Inventing Right and Wrong", "autor": "John Mackie", "jahr": "1977" },
     { "titel": "On What Matters", "autor": "Derek Parfit", "jahr": "2011" },
     { "titel": "Moral Realism: A Defence", "autor": "Russ Shafer-Landau", "jahr": "2003" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Metaethik fragt nicht, was richtig oder falsch ist, sondern: Was meinen wir eigentlich, wenn wir sagen, etwas sei richtig oder falsch? Gibt es moralische Wahrheiten ueberhaupt, oder sind das nur Gefuehle?",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand sagt: 'Luegen ist falsch.' Die meisten wuerden zustimmen. Aber die Metaethik fragt eine Ebene tiefer: Was meinst du mit 'falsch'? Beschreibst du eine Tatsache, so wie 'Wasser ist nass'? Oder drueckst du nur ein Gefuehl aus, so wie 'Bah, Luegen!'? Gibt es moralische Wahrheiten da draussen in der Welt, oder erfinden wir sie?\n\nDas sind ueberraschend knifflige Fragen. Manche Philosophen sagen: Ja, es gibt moralische Tatsachen -- Mord ist objektiv falsch, egal was irgendjemand darueber denkt. Andere sagen: Nein, moralische Aussagen sind keine Tatsachenbehauptungen, sondern Ausdruck unserer Gefuehle oder Einstellungen. Und wieder andere sagen: Moralische Aussagen behaupten zwar etwas ueber die Welt, aber sie liegen immer daneben, weil es die moralischen Tatsachen, die sie voraussetzen, gar nicht gibt.\n\nEin weiteres grosses Problem: Kann man aus dem, wie die Welt ist, ableiten, wie sie sein sollte? David Hume sagte: Nein, das geht nicht. Nur weil etwas natuerlich ist, heisst das nicht, dass es auch gut ist. Diese Einsicht macht es extrem schwer, Moral wissenschaftlich zu begruenden -- und genau solche Grundsatzfragen sind das Thema der Metaethik.",
+    "kernthesen": [
+      "Die Metaethik fragt nicht, was richtig ist, sondern was wir meinen, wenn wir etwas richtig oder falsch nennen.",
+      "Die zentrale Frage ist: Gibt es moralische Tatsachen, oder sind moralische Urteile nur Ausdruck von Gefuehlen?",
+      "Moralischer Realismus sagt Ja, Anti-Realismus sagt Nein -- das ist der Hauptstreit.",
+      "Aus dem, wie die Welt ist, kann man nicht ableiten, wie sie sein sollte.",
+      "Es ist umstritten, ob ein moralisches Urteil automatisch dazu motiviert, danach zu handeln."
+    ],
+    "entstehung": "Die moderne Metaethik begann 1903 mit G.E. Moores Buch 'Principia Ethica', in dem er fragte, was 'gut' eigentlich bedeutet. Schon David Hume hatte im 18. Jahrhundert darauf hingewiesen, dass man aus Beschreibungen der Welt keine moralischen Regeln ableiten kann. Seitdem streiten Philosophen darueber, was moralische Aussagen eigentlich sind.",
+    "kritik": "Viele finden die Metaethik zu abstrakt und praxisfern. Die Frage, ob moralische Tatsachen existieren, aendert ja nichts daran, wie wir im Alltag handeln. Ausserdem droht die Metaethik, sich in Spitzfindigkeiten zu verlieren und die wirklich wichtigen moralischen Fragen aus den Augen zu verlieren."
+  }
 }

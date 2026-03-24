@@ -19,5 +19,18 @@
     {"titel": "Monadologie", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1714"},
     {"titel": "Neues System der Natur", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1695"},
     {"titel": "Elemente der Psychophysik", "autor": "Gustav Theodor Fechner", "jahr": "1860"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Parallelismus sagt: Koerper und Geist laufen parallel nebeneinander her, wie zwei synchrone Uhren, aber sie beeinflussen sich nicht gegenseitig. Dass Gedanken und Koerperbewegungen zusammenpassen, liegt an einer vorher festgelegten Abstimmung.",
+    "ausfuehrlicheBeschreibung": "Descartes hatte ein Problem hinterlassen: Wenn Geist und Koerper zwei voellig verschiedene Dinge sind, wie koennen sie dann aufeinander einwirken? Wie kann ein Gedanke dazu fuehren, dass sich mein Arm bewegt? Leibniz hatte dafuer eine elegante Loesung: Sie wirken gar nicht aufeinander ein. Stattdessen hat Gott Geist und Koerper von Anfang an so programmiert, dass sie perfekt synchron laufen, wie zwei Uhren, die genau gleich gestellt sind.\n\nLeibniz erklaerte das mit seiner Monadenlehre. Alles besteht aus winzigen Einheiten, den Monaden, die 'keine Fenster' haben. Das heisst: Nichts kommt rein, nichts geht raus, es gibt keine echte Wechselwirkung. Jede Monade folgt ihrem eigenen inneren Programm. Dass trotzdem alles zusammenpasst, liegt daran, dass Gott bei der Erschaffung der Welt alles perfekt aufeinander abgestimmt hat.\n\nIm 19. Jahrhundert nutzten Psychologen diese Idee als Arbeitsprinzip: Man kann geistige und koerperliche Prozesse getrennt untersuchen, weil sie sich ohnehin nicht gegenseitig verursachen. Heute klingt die Idee einer 'vorab programmierten Harmonie' fuer die meisten zu weit hergeholt, aber die grundlegende Frage, wie Geist und Koerper zusammenhaengen, ist immer noch nicht geloest.",
+    "kernthesen": [
+      "Geist und Koerper beeinflussen sich nicht gegenseitig, sie laufen nur parallel.",
+      "Die scheinbare Verbindung zwischen Gedanken und Koerperbewegungen beruht auf einer von Gott eingerichteten Harmonie.",
+      "Monaden haben 'keine Fenster': Es gibt keine echte Wechselwirkung zwischen verschiedenen Substanzen.",
+      "Dass alles zusammenpasst, obwohl es keine echte Wechselwirkung gibt, hat Gott so eingerichtet.",
+      "Geistige und koerperliche Prozesse kann man getrennt voneinander untersuchen."
+    ],
+    "entstehung": "Der Parallelismus entstand Ende des 17. Jahrhunderts als Loesung fuer das Problem, wie Geist und Koerper zusammenhaengen. Leibniz entwickelte ihn als Alternative zu Descartes' Dualismus. Im 19. Jahrhundert wurde er als Arbeitsprinzip in der Psychologie uebernommen.",
+    "kritik": "Die Hauptkritik ist, dass die 'vorab eingerichtete Harmonie' keine echte Loesung ist, sondern das Problem nur auf Gott verschiebt. Ausserdem widerspricht die Idee, dass Geist und Koerper sich nicht beeinflussen, unserer alltaeglichen Erfahrung und dem, was die Hirnforschung zeigt."
+  }
 }

@@ -11,14 +11,52 @@
     "Der Mensch ist ein natürliches Wesen, dessen Geist, Moral und Kultur Produkte der natürlichen Evolution sind.",
     "Philosophie sollte als Teil der empirischen Wissenschaft betrieben werden, nicht als apriorische Disziplin."
   ],
-  "hauptvertreter": ["aristoteles", "thales", "anaximander"],
+  "hauptvertreter": [
+    "aristoteles",
+    "thales",
+    "anaximander"
+  ],
   "entstehung": "Der Naturalismus hat seine Wurzeln in der griechischen Naturphilosophie des 6. Jahrhunderts v. Chr. In der Neuzeit wurde er durch die wissenschaftliche Revolution, insbesondere durch Newton und Darwin, gestärkt. Im 20. Jahrhundert entwickelten Quine, Dennett und andere einen philosophischen Naturalismus, der die Philosophie selbst als Teil der Naturwissenschaft begreift. Die Erfolge der Neurowissenschaft, der Evolutionsbiologie und der Kognitionswissenschaft haben den Naturalismus zur dominanten Position in der zeitgenössischen analytischen Philosophie gemacht.",
   "kritik": "Der Naturalismus wird aus verschiedenen Richtungen kritisiert. Dualisten und Theisten argumentieren, dass der Naturalismus das Bewusstsein, die Moral und den Sinn des Lebens nicht adäquat erklären kann. Thomas Nagels Mind and Cosmos (2012) argumentiert, dass der materialistische Naturalismus die Existenz von Bewusstsein, Kognition und Wert nicht erklären kann. Der naturalistic fallacy-Einwand (G.E. Moore) besagt, dass aus Aussagen über die Natur keine moralischen Normen abgeleitet werden können. Alvin Plantingas evolutionäres Argument gegen den Naturalismus behauptet, dass die Kombination von Naturalismus und Evolutionstheorie die Zuverlässigkeit unserer kognitiven Fähigkeiten untergräbt. Phänomenologen kritisieren den Naturalismus dafür, die Erste-Person-Perspektive des Bewusstseins zu ignorieren.",
-  "verwandteIsmen": ["materialismus", "empirismus", "positivismus", "atheismus"],
+  "verwandteIsmen": [
+    "materialismus",
+    "empirismus",
+    "positivismus",
+    "atheismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Die Entstehung der Arten", "autor": "Charles Darwin", "jahr": "1859" },
-    { "titel": "Word and Object", "autor": "Willard Van Orman Quine", "jahr": "1960" },
-    { "titel": "Darwin's Dangerous Idea", "autor": "Daniel Dennett", "jahr": "1995" },
-    { "titel": "Mind and Cosmos", "autor": "Thomas Nagel", "jahr": "2012" }
-  ]
+    {
+      "titel": "Die Entstehung der Arten",
+      "autor": "Charles Darwin",
+      "jahr": "1859"
+    },
+    {
+      "titel": "Word and Object",
+      "autor": "Willard Van Orman Quine",
+      "jahr": "1960"
+    },
+    {
+      "titel": "Darwin's Dangerous Idea",
+      "autor": "Daniel Dennett",
+      "jahr": "1995"
+    },
+    {
+      "titel": "Mind and Cosmos",
+      "autor": "Thomas Nagel",
+      "jahr": "2012"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Naturalismus ist die philosophische Position, dass die Natur alles ist, was existiert, und dass alle Phaenomene durch natuerliche Ursachen und Gesetze erklaert werden koennen.",
+    "ausfuehrlicheBeschreibung": "Der philosophische Naturalismus ist die Auffassung, dass die Natur die gesamte Wirklichkeit umfasst und dass es keine uebernatuerlichen Entitaeten, Kraefte oder Bereiche gibt. Alle Phaenomene – einschliesslich des menschlichen Bewusstseins, der Moral und der Kultur – sind Teil der natuerlichen Welt und koennen prinzipiell durch die Naturwissenschaften erklaert werden.\n\nDer Naturalismus hat tiefe Wurzeln in der antiken Philosophie. Die milesischen Naturphilosophen suchten nach natuerlichen Erklaerungen fuer Naturphaenomene, ohne auf mythologische Erzaehlungen zurueckzugreifen. Demokrit und Epikur erklaerten die Welt materialistisch durch Atome und leeren Raum. Aristoteles untersuchte die Natur systematisch und suchte nach natuerlichen Ursachen fuer natuerliche Phaenomene.\n\nIn der Neuzeit wurde der Naturalismus durch die wissenschaftliche Revolution gestaerkt. Die Erfolge der newtonschen Physik, der Chemie und der Biologie zeigten, dass immer mehr Phaenomene natuerlich erklaert werden konnten, die zuvor als goettliche Eingriffe galten. Darwins Evolutionstheorie (1859) war ein entscheidender Durchbruch: Sie erklaerte die Entstehung der Artenvielfalt und die scheinbare Zweckmaessigkeit der Natur ohne Rueckgriff auf einen goettlichen Designer.",
+    "kernthesen": [
+      "Die Natur ist alles, was existiert; es gibt keine uebernatuerlichen Entitaeten oder Kraefte.",
+      "Alle Phaenomene koennen prinzipiell durch natuerliche Ursachen und Gesetze erklaert werden.",
+      "Die Naturwissenschaften sind das Modell und die beste Methode fuer alle Erkenntnis.",
+      "Der Mensch ist ein natuerliches Wesen, dessen Geist, Moral und Kultur Produkte der natuerlichen Evolution sind.",
+      "Philosophie sollte als Teil der empirischen Wissenschaft betrieben werden, nicht als apriorische Disziplin."
+    ],
+    "entstehung": "Der Naturalismus hat seine Wurzeln in der griechischen Naturphilosophie des 6. Jahrhunderts v. Chr. In der Neuzeit wurde er durch die wissenschaftliche Revolution, insbesondere durch Newton und Darwin, gestaerkt. Im 20. Jahrhundert entwickelten Quine, Dennett und andere einen philosophischen Naturalismus, der die Philosophie selbst als Teil der Naturwissenschaft begreift. Die Erfolge der Neurowissenschaft, der Evolutionsbiologie und der Kognitionswissenschaft haben den Naturalismus zur dominanten Position in der zeitgenoessischen analytischen Philosophie gemacht.",
+    "kritik": "Der Naturalismus wird aus verschiedenen Richtungen kritisiert. Dualisten und Theisten argumentieren, dass der Naturalismus das Bewusstsein, die Moral und den Sinn des Lebens nicht adaequat erklaeren kann. Thomas Nagels Mind and Cosmos (2012) argumentiert, dass der materialistische Naturalismus die Existenz von Bewusstsein, Kognition und Wert nicht erklaeren kann. Der naturalistic fallacy-Einwand (G.E."
+  }
 }

@@ -11,13 +11,43 @@
     "Das endlose Streben des Willens ist die Quelle allen Leidens in der Welt.",
     "Befreiung ist nur durch die Verneinung und Überwindung des Willens möglich."
   ],
-  "hauptvertreter": ["arthur-schopenhauer"],
+  "hauptvertreter": [
+    "arthur-schopenhauer"
+  ],
   "entstehung": "Der Voluntarismus wurde von Arthur Schopenhauer in seinem Hauptwerk 'Die Welt als Wille und Vorstellung' (1819) begründet. Schopenhauer griff auf Kants Unterscheidung zwischen Erscheinung und Ding an sich zurück und identifizierte das Ding an sich mit dem Willen. Damit stellte er die rationalistische Tradition der abendländischen Philosophie auf den Kopf.",
   "kritik": "Kritiker wenden ein, dass der Voluntarismus die Rolle der Vernunft und des bewussten Denkens für menschliches Handeln unterschätzt. Zudem ist fraglich, ob der Begriff des Willens, der ursprünglich ein bewusstes Phänomen beschreibt, sinnvoll auf die gesamte Natur ausgedehnt werden kann, ohne seine Bedeutung zu verlieren.",
-  "verwandteIsmen": ["idealismus", "irrationalismus"],
+  "verwandteIsmen": [
+    "idealismus",
+    "irrationalismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
-    {"titel": "Über die Freiheit des Willens", "autor": "Arthur Schopenhauer", "jahr": "1839"},
-    {"titel": "Über den Willen in der Natur", "autor": "Arthur Schopenhauer", "jahr": "1836"}
-  ]
+    {
+      "titel": "Die Welt als Wille und Vorstellung",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1819"
+    },
+    {
+      "titel": "Über die Freiheit des Willens",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1839"
+    },
+    {
+      "titel": "Über den Willen in der Natur",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1836"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Voluntarismus ist die philosophische Lehre, die den Willen als das grundlegende Prinzip der Wirklichkeit betrachtet.",
+    "ausfuehrlicheBeschreibung": "Der Voluntarismus bezeichnet eine Gruppe philosophischer Positionen, die dem Willen den Vorrang vor dem Intellekt und der Vernunft einraeumen. In seiner metaphysischen Form, wie sie von Arthur Schopenhauer entwickelt wurde, ist der Wille das Ding an sich, das hinter allen Erscheinungen der Welt steht. Dieser Wille ist blind, irrational und unersaettlich – er treibt alle Lebewesen zu einem endlosen Streben an, das niemals dauerhafte Befriedigung findet.\n\nSchopenhauers Voluntarismus stellt eine radikale Umkehrung der westlichen philosophischen Tradition dar, die seit Platon und Aristoteles die Vernunft als das hoechste Prinzip betrachtet hatte. Fuer Schopenhauer ist der Intellekt lediglich ein Werkzeug des Willens, das diesem zur Erreichung seiner Ziele dient. Die vermeintlich freien Entscheidungen des Menschen sind in Wahrheit Ausdruck eines tiefer liegenden Willensimpulses, den der Verstand nur nachtraeglich rationalisiert.\n\nDer Voluntarismus hatte weitreichenden Einfluss auf die nachfolgende Philosophie. Nietzsche transformierte Schopenhauers Willen zum Leben in den Willen zur Macht und gab ihm damit eine affirmative Wendung. In der Psychologie beeinflusste der Voluntarismus Freuds Konzeption des Unbewussten. Die politische Philosophie uebernahm voluntaristische Elemente in Form von Theorien, die den politischen Willen ueber rationale Planung stellen.",
+    "kernthesen": [
+      "Der Wille ist das fundamentale Prinzip der gesamten Wirklichkeit und liegt allen Erscheinungen zugrunde.",
+      "Die Vernunft ist dem Willen untergeordnet und dient lediglich als sein Werkzeug.",
+      "Menschliches Handeln wird primaer durch irrationale Willensimpulse bestimmt, nicht durch rationale Ueberlegung.",
+      "Das endlose Streben des Willens ist die Quelle allen Leidens in der Welt.",
+      "Befreiung ist nur durch die Verneinung und Ueberwindung des Willens moeglich."
+    ],
+    "entstehung": "Der Voluntarismus wurde von Arthur Schopenhauer in seinem Hauptwerk 'Die Welt als Wille und Vorstellung' (1819) begruendet. Schopenhauer griff auf Kants Unterscheidung zwischen Erscheinung und Ding an sich zurueck und identifizierte das Ding an sich mit dem Willen. Damit stellte er die rationalistische Tradition der abendlaendischen Philosophie auf den Kopf.",
+    "kritik": "Kritiker wenden ein, dass der Voluntarismus die Rolle der Vernunft und des bewussten Denkens fuer menschliches Handeln unterschaetzt. Zudem ist fraglich, ob der Begriff des Willens, der urspruenglich ein bewusstes Phaenomen beschreibt, sinnvoll auf die gesamte Natur ausgedehnt werden kann, ohne seine Bedeutung zu verlieren."
+  }
 }

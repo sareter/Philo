@@ -19,5 +19,18 @@
     {"titel": "Der Wohlstand der Nationen", "autor": "Adam Smith", "jahr": "1776"},
     {"titel": "Grundsätze der Wirtschaftspolitik", "autor": "Walter Eucken", "jahr": "1952"},
     {"titel": "Wettbewerb und Monopolkampf", "autor": "Franz Böhm", "jahr": "1933"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Ordoliberalismus sagt: Der freie Markt braucht klare Regeln vom Staat, damit er fair bleibt. Ohne Regeln entstehen Monopole und Ungerechtigkeit, aber der Staat soll selbst kein Unternehmer sein.",
+    "ausfuehrlicheBeschreibung": "Stell dir den Markt wie ein Fussballspiel vor: Ohne Regeln und Schiedsrichter wuerde das staerkste Team einfach alles dominieren und das Spiel waere unfair. Der Ordoliberalismus sagt: Der Staat ist der Schiedsrichter. Er macht die Regeln, sorgt dafuer, dass niemand schummelt, und gleicht Haerten aus. Aber er spielt nicht selbst mit.\n\nDiese Idee entstand in den 1930er Jahren in Deutschland, als klar wurde, dass ein voellig ungeregelter Kapitalismus nicht funktioniert. Die Wirtschaftskrise der Weimarer Republik hatte gezeigt, dass ohne Regeln Monopole entstehen und die Schere zwischen Arm und Reich immer groesser wird. Gleichzeitig wollte man keine Planwirtschaft wie im Sozialismus.\n\nDas Ergebnis ist das, was wir in Deutschland als 'Soziale Marktwirtschaft' kennen. Wirtschaftliche Freiheit und sozialer Ausgleich sollen zusammengehen. Kritiker von links sagen, das gehe nicht weit genug. Kritiker von rechts finden, der Staat mische sich zu viel ein. Aber die Grundidee praegt Deutschland bis heute.",
+    "kernthesen": [
+      "Der freie Markt braucht klare Spielregeln vom Staat, um fair zu funktionieren.",
+      "Der Staat soll Monopole verhindern und soziale Haerten abfedern.",
+      "Monopole muessen aktiv bekaempft werden, weil sie den Wettbewerb zerstoeren.",
+      "Wirtschaftliche Freiheit und soziale Gerechtigkeit schliessen sich nicht aus.",
+      "Der Staat setzt die Regeln, greift aber nicht selbst als Unternehmer ein."
+    ],
+    "entstehung": "Der Ordoliberalismus wurde in den 1930er Jahren von Oekonomen wie Walter Eucken und Franz Boehm in Freiburg entwickelt. Er war eine Antwort auf das Scheitern des ungeregelten Kapitalismus in der Weimarer Republik und die Erfahrungen mit totalitaerer Wirtschaftslenkung.",
+    "kritik": "Linke Kritiker sagen, der Ordoliberalismus sei zu marktfreundlich und verteile nicht genug um. Rechte Kritiker finden, der Staat mische sich zu sehr in die Wirtschaft ein und bremse damit Innovation und Wachstum."
+  }
 }

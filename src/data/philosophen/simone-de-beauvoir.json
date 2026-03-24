@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Existenzialismus", "Feminismus", "Phänomenologie"],
+  "hauptstroemungen": [
+    "Existenzialismus",
+    "Feminismus",
+    "Phänomenologie"
+  ],
   "kurzbeschreibung": "Simone de Beauvoir war eine der bedeutendsten Philosophinnen und Feministinnen des 20. Jahrhunderts. Mit ihrem epochalen Werk 'Das andere Geschlecht' (1949) legte sie das theoretische Fundament des modernen Feminismus und analysierte die Unterdrückung der Frau als kulturelles Konstrukt. Als Existenzialistin, Romanautorin und politische Aktivistin prägte sie das intellektuelle Leben Frankreichs über Jahrzehnte.",
   "biografie": {
     "fruehesLeben": "Simone Lucie Ernestine Marie Bertrand de Beauvoir wurde am 9. Januar 1908 in Paris als Tochter einer bürgerlichen Familie geboren. Ihr Vater Georges war Rechtsanwalt, ihre Mutter Françoise eine gläubige Katholikin. Der finanzielle Abstieg der Familie nach dem Ersten Weltkrieg prägte Simones Jugend. Sie verlor früh ihren katholischen Glauben und entwickelte einen unerschütterlichen Willen zur intellektuellen Unabhängigkeit. Sie studierte Philosophie an der Sorbonne und an der École Normale Supérieure, wo sie 1929 als jüngste Person überhaupt die Agrégation in Philosophie bestand – als Zweitbeste hinter Jean-Paul Sartre, mit dem sie eine lebenslange, unkonventionelle Partnerschaft einging. Die Beziehung zu Sartre, die auf Freiheit, Transparenz und der Ablehnung bürgerlicher Konventionen beruhte, wurde zum Modell einer neuen Art des Zusammenlebens.",
@@ -104,6 +108,67 @@
       "kontext": "Beauvoirs ethischer Imperativ des verantwortungsvollen Handelns."
     }
   ],
-  "verwandtePhilosophen": ["jean-paul-sartre", "albert-camus", "maurice-merleau-ponty", "michel-foucault", "hannah-arendt"],
-  "verwandteIsmen": ["existenzialismus", "feminismus", "phaenomenologie", "humanismus"]
+  "verwandtePhilosophen": [
+    "jean-paul-sartre",
+    "albert-camus",
+    "maurice-merleau-ponty",
+    "michel-foucault",
+    "hannah-arendt"
+  ],
+  "verwandteIsmen": [
+    "existenzialismus",
+    "feminismus",
+    "phaenomenologie",
+    "humanismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Simone de Beauvoir war eine der bedeutendsten Philosophinnen und Feministinnen des 20. Jahrhunderts. Mit ihrem epochalen Werk 'Das andere Geschlecht' (1949) legte sie das theoretische Fundament des modernen Feminismus und analysierte die Unterdrueckung der Frau als kulturelles Konstrukt. Als Existenzialistin, Romanautorin und politische Aktivistin praegte sie das intellektuelle Leben Frankreichs ueber Jahrzehnte.",
+    "biografie": {
+      "fruehesLeben": "Simone Lucie Ernestine Marie Bertrand de Beauvoir wurde am 9. Januar 1908 in Paris als Tochter einer buergerlichen Familie geboren. Ihr Vater Georges war Rechtsanwalt, ihre Mutter Françoise eine glaeubige Katholikin. Der finanzielle Abstieg der Familie nach dem Ersten Weltkrieg praegte Simones Jugend. Sie verlor frueh ihren katholischen Glauben und entwickelte einen unerschuetterlichen Willen zur intellektuellen Unabhaengigkeit. Sie studierte Philosophie an der Sorbonne und an der École Normale Supérieure, wo sie 1929 als juengste Person ueberhaupt die Agrégation in Philosophie bestand – als Zweitbeste hinter Jean-Paul Sartre, mit dem sie eine lebenslange, unkonventionelle Partnerschaft einging.",
+      "schaffen": "Als Philosophin entwickelte Beauvoir eine eigenstaendige existenzialistische Ethik in 'Pyrrhus und Cineas' (1944) und 'Fuer eine Moral der Doppelsinnigkeit' (1947), die die Freiheit als intersubjektives Projekt versteht. Ihr Hauptwerk 'Das andere Geschlecht' (1949) revolutionierte das Verstaendnis der Geschlechterverhaeltnisse mit dem beruehmten Satz 'Man wird nicht als Frau geboren, man wird es.' Die zweibaendige Studie analysiert mit den Mitteln der existenzialistischen Philosophie, der Psychoanalyse und des historischen Materialismus, wie die Frau zum 'Anderen' gemacht wird. Als Romanautorin schrieb sie 'Sie kam und blieb' (1943), 'Das Blut der anderen' (1945), den Prix-Goncourt-Gewinner 'Die Mandarins von Paris' (1954) und 'Das Alter' (1970).",
+      "spaetesLeben": "In ihren letzten Lebensjahrzehnten engagierte sich Beauvoir zunehmend fuer die Frauenbewegung. Sie unterzeichnete 1971 das 'Manifest der 343', in dem 343 Frauen oeffentlich bekannten, abgetrieben zu haben, und wurde zur Praesidentin der Ligue du droit des femmes. Sie setzte sich fuer die Legalisierung der Abtreibung und gegen die patriarchale Gesellschaftsordnung ein. Ihr Buch 'Das Alter' (1970) war eine ebenso bahnbrechende Analyse der gesellschaftlichen Marginalisierung aelterer Menschen wie 'Das andere Geschlecht' es fuer Frauen gewesen war. Nach Sartres Tod 1980 veroeffentlichte sie 'Die Zeremonie des Abschieds' (1981), eine schonungslose Schilderung seiner letzten Lebensjahre.",
+      "tod": "Simone de Beauvoir starb am 14. April 1986 in Paris an einer Lungenentzuendung. Sie wurde auf dem Friedhof Montparnasse neben Jean-Paul Sartre beigesetzt. Tausende Menschen nahmen an ihrer Beerdigung teil.",
+      "nachwirkung": "Beauvoirs 'Das andere Geschlecht' gilt als Gruendungstext des modernen Feminismus und beeinflusste Denkerinnen wie Betty Friedan, Kate Millett, Judith Butler und viele andere. Ihre Verbindung von existenzialistischer Philosophie und feministischer Analyse schuf ein neues Paradigma des Denkens ueber Geschlecht und Identitaet. In juengerer Zeit wird sie auch als eigenstaendige Philosophin gewuerdigt, deren ethische und politische Philosophie ueber den Feminismus hinaus bedeutsam ist. Die Veroeffentlichung ihrer Briefe und Tagebuecher hat ein komplexeres Bild ihrer Person und ihres Denkens ermoeglicht."
+    },
+    "kernideen": [
+      {
+        "titel": "Man wird nicht als Frau geboren, man wird es",
+        "beschreibung": "Die Weiblichkeit ist kein biologisches Schicksal, sondern ein kulturelles Konstrukt. Die Gesellschaft formt Frauen durch Erziehung, Normen und Institutionen zu dem, was als 'weiblich' gilt. Die Unterscheidung zwischen biologischem Geschlecht und sozialem Geschlecht ist das Fundament der modernen Gender-Theorie."
+      },
+      {
+        "titel": "Die Frau als das Andere",
+        "beschreibung": "In der patriarchalen Gesellschaft wird die Frau als das 'Andere' des Mannes konstruiert – als das Nicht-Maennliche, Abgeleitete, Sekundaere. Der Mann setzt sich als das Subjekt, die Frau wird zum Objekt degradiert. Diese Alteritaet ist nicht naturgegeben, sondern historisch produziert."
+      },
+      {
+        "titel": "Existenzialistische Ethik der Freiheit",
+        "beschreibung": "Beauvoir entwickelt eine Ethik, die die Freiheit nicht nur als individuelle, sondern als intersubjektive Aufgabe versteht. Wahre Freiheit ist nur moeglich, wenn man auch die Freiheit der anderen will und gegen Unterdrueckung kaempft."
+      },
+      {
+        "titel": "Situation und Freiheit",
+        "beschreibung": "Beauvoir betont staerker als Sartre die Bedeutung der konkreten Situation (Koerper, Geschichte, Gesellschaft) fuer die menschliche Freiheit. Freiheit ist nie abstrakt, sondern immer in einer bestimmten Lage situiert."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das andere Geschlecht (Le Deuxième Sexe)",
+        "jahr": "1949",
+        "beschreibung": "Das epochale Hauptwerk der feministischen Philosophie analysiert in zwei Baenden die historische, psychologische und soziale Konstruktion der Weiblichkeit und formuliert den Grundsatz 'Man wird nicht als Frau geboren, man wird es.'"
+      },
+      {
+        "titel": "Sie kam und blieb (L'Invitée)",
+        "jahr": "1943",
+        "beschreibung": "Beauvoirs erster Roman behandelt die Dialektik von Freiheit und Beziehung in einer Dreiecksbeziehung und erkundet existenzialistische Themen von Bewusstsein, Eifersucht und Macht."
+      },
+      {
+        "titel": "Fuer eine Moral der Doppelsinnigkeit (Pour une morale de l'ambiguïté)",
+        "jahr": "1947",
+        "beschreibung": "Ein philosophischer Essay, der eine existenzialistische Ethik entwickelt und die Ambiguitaet der menschlichen Existenz – zwischen Freiheit und Faktizitaet – als Ausgangspunkt moralischen Handelns versteht."
+      },
+      {
+        "titel": "Die Mandarins von Paris (Les Mandarins)",
+        "jahr": "1954",
+        "beschreibung": "Der mit dem Prix Goncourt ausgezeichnete Roman schildert das intellektuelle Leben im Paris der Nachkriegszeit und die politischen Dilemmata der engagierten Intellektuellen."
+      }
+    ]
+  }
 }

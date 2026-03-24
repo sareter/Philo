@@ -70,5 +70,24 @@
     }
   ],
   "verwandtePhilosophen": ["thales", "anaximenes", "heraklit", "parmenides", "pythagoras"],
-  "verwandteIsmen": ["naturalismus", "monismus", "kosmologie"]
+  "verwandteIsmen": ["naturalismus", "monismus", "kosmologie"],
+  "einfach": {
+    "kurzbeschreibung": "Anaximander war ein fruehgriechischer Denker, der sagte, dass alles aus dem Apeiron stammt, einem unbegrenzten Urstoff. Ausserdem hatte er die verrueckte Idee, dass die Erde frei im Raum schwebt und der Mensch sich aus fischaehnlichen Wesen entwickelt hat.",
+    "biografie": {
+      "fruehesLeben": "Anaximander wurde um 610 v. Chr. in Milet geboren und war ein Schueler von Thales. Er war der erste griechische Denker, der seine Gedanken aufgeschrieben hat.",
+      "schaffen": "Seine grosse Idee war das Apeiron: Der Ursprung aller Dinge ist nicht Wasser oder Feuer, sondern etwas Unbegrenztes und Unbestimmtes. Er sagte auch, dass die Erde frei im Raum schwebt, ohne von irgendetwas gehalten zu werden. Und er hatte eine fruehe Evolutionstheorie: Der Mensch hat sich aus fischaehnlichen Wesen entwickelt.",
+      "spaetesLeben": "Ueber seine spaeteren Jahre ist wenig bekannt. Er blieb offenbar in Milet und forschte bis ins hohe Alter weiter.",
+      "tod": "Anaximander starb um 546 v. Chr. in Milet, moeglicherweise zur Zeit der persischen Eroberung der Stadt.",
+      "nachwirkung": "Karl Popper nannte ihn einen der kuehnsten Denker der Menschheitsgeschichte. Seine Idee der frei schwebenden Erde war ein gewaltiger Durchbruch, und seine Evolutionsidee nahm Darwin um 2400 Jahre vorweg."
+    },
+    "kernideen": [
+      {"titel": "Das Apeiron (das Unbegrenzte)", "beschreibung": "Der Ursprung aller Dinge ist das Apeiron, etwas Unbegrenztes und Unbestimmtes. Alles geht daraus hervor und kehrt dorthin zurueck."},
+      {"titel": "Kosmologische Ordnung", "beschreibung": "Die Welt entsteht, indem sich Gegensaetze wie warm und kalt aus dem Apeiron herausloesen. Alles folgt dabei einer notwendigen Ordnung."},
+      {"titel": "Frei schwebende Erde", "beschreibung": "Die Erde schwebt frei im Raum, weil sie von allen Seiten gleich weit entfernt ist und es darum keinen Grund gibt, in eine Richtung zu fallen."},
+      {"titel": "Proto-Evolutionstheorie", "beschreibung": "Die ersten Lebewesen entstanden im Wasser, und der Mensch hat sich aus fischaehnlichen Wesen entwickelt, weil Babys zu hilflos sind, um allein zu ueberleben."}
+    ],
+    "werke": [
+      {"titel": "Ueber die Natur (Peri Physeos)", "jahr": "ca. 550 v. Chr.", "beschreibung": "Die erste bekannte philosophische Schrift der griechischen Tradition, von der nur ein einziges Fragment direkt erhalten ist."}
+    ]
+  }
 }

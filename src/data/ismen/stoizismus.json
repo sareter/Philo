@@ -20,5 +20,18 @@
     { "titel": "Handbüchlein der Moral (Encheiridion)", "autor": "Epiktet", "jahr": "ca. 125" },
     { "titel": "Briefe an Lucilius", "autor": "Seneca", "jahr": "ca. 65" },
     { "titel": "Von der Seelenruhe", "autor": "Seneca", "jahr": "ca. 55" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Stoizismus lehrt: Konzentrier dich auf das, was du aendern kannst, und akzeptiere, was du nicht aendern kannst. Wahres Glueck kommt von innerer Staerke, nicht von aeusseren Umstaenden.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du stehst im Stau und wirst richtig sauer. Ein Stoiker wuerde sagen: Der Stau ist nicht das Problem - deine Reaktion darauf ist es. Du kannst den Stau nicht aendern, aber du kannst entscheiden, wie du darauf reagierst. Genau das ist die Kernidee des Stoizismus: Unterscheide zwischen dem, was in deiner Macht steht, und dem, was nicht in deiner Macht steht.\n\nDie Stoiker waren ueberzeugt, dass Tugend - also ein guter Charakter - das Einzige ist, was wirklich zaehlt. Geld, Ruhm und Gesundheit sind nicht unwichtig, aber sie machen dich nicht zum guten oder schlechten Menschen. Deshalb sollte man sie nicht ueberbewerten. Ein Stoiker versucht, seine Emotionen nicht von aeusseren Dingen abhaengig zu machen, sondern innerlich frei zu bleiben.\n\nDas Coole am Stoizismus ist, dass er von Leuten aus allen Gesellschaftsschichten praktiziert wurde: Der roemische Kaiser Mark Aurel war Stoiker, aber auch der ehemalige Sklave Epiktet. Ihre Schriften werden bis heute gelesen, und viele moderne Selbsthilfe-Ansaetze und sogar die kognitive Verhaltenstherapie basieren auf stoischen Ideen.",
+    "kernthesen": [
+      "Tugend - also ein guter Charakter - ist das Einzige, was wirklich zaehlt",
+      "Lebe im Einklang mit der Vernunft und der Natur",
+      "Du kannst nicht kontrollieren, was passiert, aber du kannst kontrollieren, wie du reagierst",
+      "Das Universum folgt einer vernuenftigen Ordnung",
+      "Wer seine Emotionen nicht von aeusseren Dingen abhaengig macht, findet inneren Frieden"
+    ],
+    "entstehung": "Der Stoizismus wurde um 300 vor Christus von Zenon in Athen gegruendet. Die Schule wurde nach der Stoa Poikile benannt, einer Saeuenhalle, in der Zenon unterrichtete. Im Roemischen Reich wurde der Stoizismus extrem einflussreich und wurde von Sklaven wie Epiktet und Kaisern wie Mark Aurel gleichermassen praktiziert.",
+    "kritik": "Kritiker finden die stoische Idee, Emotionen zu kontrollieren, unmenschlich und lebensfern. Wer einfach alles akzeptiert, aendert ja auch nichts an ungerechten Verhaeltnissen. Ausserdem ist das Ideal des perfekten stoischen Weisen so hoch angesetzt, dass es praktisch unerreichbar ist."
+  }
 }

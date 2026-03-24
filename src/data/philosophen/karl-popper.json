@@ -95,5 +95,65 @@
     }
   ],
   "verwandtePhilosophen": ["ludwig-wittgenstein", "bertrand-russell", "thomas-kuhn", "paul-feyerabend", "juergen-habermas"],
-  "verwandteIsmen": ["kritischer-rationalismus", "liberalismus", "fallibilismus", "wissenschaftstheorie"]
+  "verwandteIsmen": ["kritischer-rationalismus", "liberalismus", "fallibilismus", "wissenschaftstheorie"],
+  "einfach": {
+    "kurzbeschreibung": "Popper revolutionierte die Wissenschaftstheorie: Eine Theorie ist nur dann wissenschaftlich, wenn man sie widerlegen kann. Ausserdem verteidigte er die offene, demokratische Gesellschaft gegen Diktaturen.",
+    "biografie": {
+      "fruehesLeben": "Popper wurde 1902 in Wien als Sohn eines wohlhabenden Anwalts geboren. Als Jugendlicher interessierte er sich fuer Marxismus und Psychoanalyse, wandte sich aber bald kritisch von beiden ab. Er studierte Mathematik, Physik und Philosophie und hatte Kontakt zum Wiener Kreis, teilte aber dessen Ideen nicht.",
+      "schaffen": "In seinem Werk 'Logik der Forschung' stellte er das Falsifizierungsprinzip auf: Eine Theorie ist wissenschaftlich, wenn man sie widerlegen kann. Wer seine Theorie gegen jede Kritik immunisiert, betreibt keine Wissenschaft. Im Exil in Neuseeland schrieb er 'Die offene Gesellschaft und ihre Feinde', eine scharfe Kritik an Platon, Hegel und Marx als geistigen Wegbereitern des Totalitarismus.",
+      "spaetesLeben": "Popper wurde 1965 zum Ritter geschlagen und lehrte an der London School of Economics. In seinen spaeteren Werken beschaeftigte er sich mit Evolutionstheorie und dem Leib-Seele-Problem. Seine Debatte mit Thomas Kuhn praegte die Wissenschaftstheorie massgeblich.",
+      "tod": "Popper starb 1994 in London im Alter von 92 Jahren. Er hatte bis zuletzt aktiv philosophiert.",
+      "nachwirkung": "Sein Falsifizierungsprinzip ist heute Standard in der Wissenschaft. Der Begriff 'offene Gesellschaft' wurde zum politischen Leitbegriff liberaler Demokratien."
+    },
+    "kernideen": [
+      {
+        "titel": "Falsifizierbarkeit",
+        "beschreibung": "Eine Theorie ist nur dann wissenschaftlich, wenn man sie prinzipiell widerlegen kann. Wenn eine Theorie alles erklaert und nie falsch sein kann, ist sie keine Wissenschaft."
+      },
+      {
+        "titel": "Die offene Gesellschaft",
+        "beschreibung": "Eine gute Gesellschaft ist eine, in der Regierungen friedlich abgeloest werden koennen und in der kritische Diskussion statt utopischer Planung herrscht."
+      },
+      {
+        "titel": "Kritischer Rationalismus",
+        "beschreibung": "Alles Wissen ist vorlaeufig und kann sich als falsch herausstellen. Der einzige Weg vorwaerts ist, bestehende Theorien zu kritisieren und zu verbessern."
+      },
+      {
+        "titel": "Die Drei-Welten-Theorie",
+        "beschreibung": "Es gibt drei Bereiche: die physische Welt, die Welt unserer Gedanken und Gefuehle, und die Welt der Ideen und Theorien, die ein Eigenleben fuehren."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Logik der Forschung",
+        "jahr": "1934",
+        "beschreibung": "Das Werk, das die Falsifizierbarkeit als Kriterium fuer echte Wissenschaft einfuehrte."
+      },
+      {
+        "titel": "Die offene Gesellschaft und ihre Feinde",
+        "jahr": "1945",
+        "beschreibung": "Eine fundamentale Verteidigung der liberalen Demokratie gegen totalitaere Denker wie Platon, Hegel und Marx."
+      },
+      {
+        "titel": "Das Elend des Historizismus",
+        "jahr": "1957",
+        "beschreibung": "Eine Kritik am Glauben, dass die Geschichte nach festen Gesetzen verlaeuft und vorhersagbar ist."
+      },
+      {
+        "titel": "Vermutungen und Widerlegungen",
+        "jahr": "1963",
+        "beschreibung": "Aufsaetze, die zeigen, wie Wissenschaft durch kuehne Vermutungen und deren Widerlegung vorankommt."
+      },
+      {
+        "titel": "Objektive Erkenntnis",
+        "jahr": "1972",
+        "beschreibung": "Popper entwickelt seine Drei-Welten-Theorie und die Idee, dass Wissen sich wie ein Lebewesen weiterentwickelt."
+      },
+      {
+        "titel": "Das Ich und sein Gehirn",
+        "jahr": "1977",
+        "beschreibung": "Zusammen mit einem Neurowissenschaftler geschrieben, verteidigt es die Idee, dass Geist und Gehirn aufeinander einwirken."
+      }
+    ]
+  }
 }

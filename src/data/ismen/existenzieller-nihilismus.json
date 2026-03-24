@@ -11,13 +11,46 @@
     "Das Absurde entsteht aus dem Widerspruch zwischen Sinnverlangen und Weltstummheit",
     "In der Annahme der Sinnlosigkeit liegt eine paradoxe Freiheit"
   ],
-  "hauptvertreter": ["jean-paul-sartre", "albert-camus"],
+  "hauptvertreter": [
+    "jean-paul-sartre",
+    "albert-camus"
+  ],
   "entstehung": "Der existenzielle Nihilismus entwickelte sich im Frankreich der 1940er und 1950er Jahre aus dem Existenzialismus heraus. Er war geprägt von den Erfahrungen des Zweiten Weltkriegs und der Krise traditioneller Wertesysteme.",
   "kritik": "Kritiker bemängeln, dass der existenzielle Nihilismus trotz seiner Befreiungsrhetorik keine tragfähige Grundlage für Ethik und Gemeinschaft bieten kann. Zudem wird die Frage aufgeworfen, ob die Behauptung der Sinnlosigkeit nicht selbst eine sinnstiftende Erzählung darstellt.",
-  "verwandteIsmen": ["nihilistischer-pessimismus", "absurder-heroismus", "philosophischer-suizidismus", "emotionaler-nihilismus"],
+  "verwandteIsmen": [
+    "nihilistischer-pessimismus",
+    "absurder-heroismus",
+    "philosophischer-suizidismus",
+    "emotionaler-nihilismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
-    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
-    {"titel": "Der Fremde", "autor": "Albert Camus", "jahr": "1942"}
-  ]
+    {
+      "titel": "Das Sein und das Nichts",
+      "autor": "Jean-Paul Sartre",
+      "jahr": "1943"
+    },
+    {
+      "titel": "Der Mythos des Sisyphos",
+      "autor": "Albert Camus",
+      "jahr": "1942"
+    },
+    {
+      "titel": "Der Fremde",
+      "autor": "Albert Camus",
+      "jahr": "1942"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der existenzielle Nihilismus behauptet die grundsaetzliche Sinnlosigkeit der menschlichen Existenz.",
+    "ausfuehrlicheBeschreibung": "Der existenzielle Nihilismus radikalisiert die Einsichten des Existenzialismus, indem er die Abwesenheit jedes vorgegebenen Sinns zur zentralen philosophischen These erhebt. Fuer seine Vertreter ist die menschliche Existenz nicht nur kontingent, sondern fundamental bedeutungslos – es gibt keinen kosmischen Plan, keine goettliche Vorsehung und keine inhaerente Bestimmung des Menschen.\n\nJean-Paul Sartre formulierte diese Position mit seinem beruehmten Diktum, dass die Existenz der Essenz vorausgeht: Der Mensch existiert zunaechst und muss sich dann selbst definieren, ohne auf eine vorgegebene Natur zurueckgreifen zu koennen. Albert Camus ging noch weiter und erklaerte das Absurde – den Widerspruch zwischen dem menschlichen Verlangen nach Sinn und der stummen Gleichgueltigkeit der Welt – zum Ausgangspunkt allen Philosophierens.\n\nDer existenzielle Nihilismus muendet jedoch nicht zwangslaeufig in Verzweiflung. Sowohl Sartre als auch Camus sahen in der Anerkennung der Sinnlosigkeit eine Befreiung: Der Mensch ist verurteilt, frei zu sein, und kann in der bewussten Annahme seiner absurden Lage eine eigene, wenn auch fragile Wuerde finden.",
+    "kernthesen": [
+      "Die menschliche Existenz hat keinen vorgegebenen Sinn",
+      "Der Mensch ist in eine gleichgueltige Welt geworfen",
+      "Die Existenz geht der Essenz voraus",
+      "Das Absurde entsteht aus dem Widerspruch zwischen Sinnverlangen und Weltstummheit",
+      "In der Annahme der Sinnlosigkeit liegt eine paradoxe Freiheit"
+    ],
+    "entstehung": "Der existenzielle Nihilismus entwickelte sich im Frankreich der 1940er und 1950er Jahre aus dem Existenzialismus heraus. Er war gepraegt von den Erfahrungen des Zweiten Weltkriegs und der Krise traditioneller Wertesysteme.",
+    "kritik": "Kritiker bemaengeln, dass der existenzielle Nihilismus trotz seiner Befreiungsrhetorik keine tragfaehige Grundlage fuer Ethik und Gemeinschaft bieten kann. Zudem wird die Frage aufgeworfen, ob die Behauptung der Sinnlosigkeit nicht selbst eine sinnstiftende Erzaehlung darstellt."
+  }
 }

@@ -105,5 +105,30 @@
     }
   ],
   "verwandtePhilosophen": ["jean-paul-sartre", "simone-de-beauvoir", "friedrich-nietzsche", "martin-heidegger"],
-  "verwandteIsmen": ["absurdismus", "existenzialismus", "humanismus"]
+  "verwandteIsmen": ["absurdismus", "existenzialismus", "humanismus"],
+  "einfach": {
+    "kurzbeschreibung": "Albert Camus war ein franzoesisch-algerischer Schriftsteller und Philosoph, der sagte: Das Leben hat keinen hoeheren Sinn, aber genau deshalb muessen wir es trotzdem leben und geniessen. Er bekam 1957 den Nobelpreis fuer Literatur.",
+    "biografie": {
+      "fruehesLeben": "Camus wurde 1913 in Algerien geboren. Sein Vater starb im Ersten Weltkrieg, als Albert noch ein Baby war. Er wuchs in Armut auf, aber ein engagierter Lehrer erkannte sein Talent und ermoeglichte ihm eine gute Ausbildung. Mit 17 erkrankte er an Tuberkulose, was sein Denken ueber Leben und Tod stark praegte.",
+      "schaffen": "Camus wurde mit zwei Werken auf einmal beruehmt: dem Roman Der Fremde und dem Essay Der Mythos des Sisyphos, beide ueber die Absurditaet des Lebens. Im Krieg kaempfte er im Widerstand gegen die Nazis. Spaeter schrieb er Die Pest, einen Roman ueber Solidaritaet in schweren Zeiten. Sein Buch Der Mensch in der Revolte fuehrte zum Bruch mit Sartre, weil Camus gegen revolutionaere Gewalt argumentierte.",
+      "spaetesLeben": "Nach dem Streit mit Sartre war Camus bei vielen Pariser Intellektuellen isoliert. Der Algerienkrieg brachte ihn in eine schwierige Lage, weil er weder die eine noch die andere Seite unterstuetzen konnte. 1957 bekam er den Nobelpreis.",
+      "tod": "Camus starb 1960 mit nur 46 Jahren bei einem Autounfall. In seiner Tasche fand man ein unvollendetes autobiografisches Manuskript, das erst 1994 veroeffentlicht wurde.",
+      "nachwirkung": "Camus gehoert zu den meistgelesenen Autoren des 20. Jahrhunderts. Seine Philosophie des Absurden bietet vielen Menschen Orientierung in einer Welt ohne absolute Gewissheiten."
+    },
+    "kernideen": [
+      {"titel": "Das Absurde", "beschreibung": "Das Absurde entsteht, weil wir Menschen nach Sinn suchen, die Welt uns aber keinen gibt. Camus sagt: Wir muessen das akzeptieren, ohne aufzugeben."},
+      {"titel": "Sisyphos und die Revolte gegen das Absurde", "beschreibung": "Sisyphos muss ewig einen Stein den Berg hochrollen. Trotzdem sollen wir ihn uns als gluecklich vorstellen, weil er sein Schicksal annimmt und sich nicht unterkriegen laesst."},
+      {"titel": "Revolte und Mass", "beschreibung": "Revolte gegen Ungerechtigkeit ist wichtig, aber sie darf nicht in blinde Gewalt umschlagen. Man muss ein gesundes Mass halten."},
+      {"titel": "Solidaritaet und Humanismus", "beschreibung": "Obwohl das Leben absurd ist, koennen wir im gemeinsamen Kampf gegen Leid und Ungerechtigkeit Sinn finden."}
+    ],
+    "werke": [
+      {"titel": "Der Fremde (L'Etranger)", "jahr": "1942", "beschreibung": "Der beruhmte Roman ueber einen Mann, der scheinbar gleichgueltig durchs Leben geht und zum Moerder wird."},
+      {"titel": "Der Mythos des Sisyphos (Le Mythe de Sisyphe)", "jahr": "1942", "beschreibung": "Der philosophische Essay, der fragt, ob das Leben lebenswert ist, wenn es keinen Sinn hat, und mit Ja antwortet."},
+      {"titel": "Die Pest (La Peste)", "jahr": "1947", "beschreibung": "Ein Roman ueber eine Seuche in einer algerischen Stadt, der zeigt, wie Menschen in der Krise zusammenhalten koennen."},
+      {"titel": "Der Mensch in der Revolte (L'Homme revolte)", "jahr": "1951", "beschreibung": "Eine Analyse von Rebellion und Revolution, die vor der Gefahr warnt, dass Revolte in Tyrannei umschlaegt."},
+      {"titel": "Der Fall (La Chute)", "jahr": "1956", "beschreibung": "Ein Roman ueber einen ehemaligen Anwalt, der in einer Bar seine Scheinheiligkeit beichtet."},
+      {"titel": "Das Exil und das Reich (L'Exil et le Royaume)", "jahr": "1957", "beschreibung": "Sechs Erzaehlungen ueber Entfremdung und die Suche nach Zugehoerigkeit."},
+      {"titel": "Der erste Mensch (Le Premier Homme)", "jahr": "1994", "beschreibung": "Camus' unvollendeter autobiografischer Roman ueber seine Kindheit in Algerien, der erst nach seinem Tod veroeffentlicht wurde."}
+    ]
+  }
 }

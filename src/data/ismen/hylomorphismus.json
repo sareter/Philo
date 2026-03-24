@@ -19,5 +19,18 @@
     {"titel": "Metaphysik", "autor": "Aristoteles", "jahr": "-350"},
     {"titel": "Physik", "autor": "Aristoteles", "jahr": "-350"},
     {"titel": "Über die Seele", "autor": "Aristoteles", "jahr": "-350"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Hylomorphismus ist die Idee von Aristoteles, dass alles in der Natur aus zwei Dingen besteht: dem Stoff, aus dem es gemacht ist, und der Form, die es zu dem macht, was es ist.",
+    "ausfuehrlicheBeschreibung": "Stell dir einen Tonklumpen vor, der zu einer Vase geformt wird. Der Ton ist das Material, die Vasenform macht daraus eine Vase. Keines von beiden allein ist eine Vase. Erst beides zusammen ergibt das fertige Ding. Genau das ist der Kern des Hylomorphismus: Jedes Ding besteht aus Materie (dem Stoff) und Form (der Gestalt und dem Zweck).\n\nAristoteles hat das nicht nur auf Gegenstaende bezogen, sondern auch auf Lebewesen. Er sagte: Der Koerper ist die Materie, die Seele ist die Form. Die Seele ist das, was einen Koerper lebendig macht und ihm seinen Zweck gibt. Das heisst auch: Seele und Koerper gehoeren zusammen und koennen nicht getrennt werden. Das war ein Gegensatz zu Platon, der glaubte, die Seele sei etwas ganz Eigenes, das unabhaengig vom Koerper existiert.\n\nIm Mittelalter hat Thomas von Aquin diese Ideen aufgegriffen und weiterentwickelt. In der Neuzeit wurde der Hylomorphismus durch die moderne Naturwissenschaft erst mal verdraengt, weil man dort Dinge lieber ueber Atome und physikalische Gesetze erklaert. Aber in letzter Zeit greifen Philosophen wieder auf die Idee zurueck, weil sie bestimmte Probleme gut loest, zum Beispiel die Frage, was ein Ding eigentlich zusammenhaelt.",
+    "kernthesen": [
+      "Alles besteht aus Stoff (Materie) und Form, und erst beides zusammen ergibt ein konkretes Ding.",
+      "Die Form gibt einem Ding seine Eigenschaften und seinen Zweck.",
+      "Die Materie ist das, woraus etwas gemacht ist, und bietet die Moeglichkeit zur Veraenderung.",
+      "Die Seele ist die Form des Koerpers und deshalb nicht vom Koerper trennbar.",
+      "Ein Ding ist nicht einfach ein Haufen Material, sondern eine durch seine Form geordnete Einheit."
+    ],
+    "entstehung": "Aristoteles hat den Hylomorphismus im 4. Jahrhundert vor Christus entwickelt, als Alternative zu Platons Ideenlehre. Waehrend Platon die Formen in einer eigenen Welt verortete, sagte Aristoteles: Die Form steckt direkt in den Dingen selbst.",
+    "kritik": "Kritiker sagen, der Formbegriff sei oft unklar und es sei schwierig zu bestimmen, was genau die Form eines Dinges ist. Ausserdem erklaert die moderne Naturwissenschaft die Eigenschaften der Dinge lieber ueber ihre chemische und physikalische Zusammensetzung, ohne einen Formbegriff zu brauchen."
+  }
 }

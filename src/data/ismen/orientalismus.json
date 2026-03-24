@@ -19,5 +19,18 @@
     {"titel": "Orientalism", "autor": "Edward Said", "jahr": "1978"},
     {"titel": "Culture and Imperialism", "autor": "Edward Said", "jahr": "1993"},
     {"titel": "Überwachen und Strafen", "autor": "Michel Foucault", "jahr": "1975"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Orientalismus zeigt, wie der Westen sich ein verzerrtes Bild vom 'Orient' zusammengebaut hat, um sich selbst als ueberlegen darzustellen. Dieses Bild sagt mehr ueber den Westen aus als ueber die Laender, die es beschreiben soll.",
+    "ausfuehrlicheBeschreibung": "Edward Said hat 1978 etwas Wichtiges aufgedeckt: Der Westen hat sich ueber Jahrhunderte ein Bild vom 'Orient' zusammengebastelt, das vor allem dazu diente, sich selbst besser dastehen zu lassen. Der Osten wurde als irrational, rueckstaendig und exotisch dargestellt, der Westen dagegen als vernuenftig und fortschrittlich. Dieses Bild war nicht einfach nur ein Vorurteil, sondern ein ganzes System aus Wissenschaft, Kunst und Politik.\n\nDas Entscheidende ist: Dieses Wissen ueber den 'Orient' war nie neutral. Es war ein Machtinstrument. Wenn man eine Kultur als rueckstaendig darstellt, kann man seine Einmischung als 'zivilisatorische Mission' verkaufen. Kolonialismus wurde so gerechtfertigt: Wir bringen denen Fortschritt. Said nutzte die Werkzeuge von Foucault, um zu zeigen, wie Wissen und Macht hier zusammenspielen.\n\nDiese Kritik hat die Geisteswissenschaften stark veraendert. Sie hat uns bewusst gemacht, dass wissenschaftliche Darstellungen anderer Kulturen nie unschuldig sind. Heute wird der Begriff auch auf aktuelle Phaenomene angewendet, zum Beispiel auf die Art, wie Medien ueber den Nahen Osten berichten.",
+    "kernthesen": [
+      "Das Bild vom 'Orient' ist eine westliche Erfindung, die mehr ueber den Westen verraet als ueber die beschriebenen Laender.",
+      "Dieses verzerrte Wissen diente dazu, koloniale Herrschaft zu rechtfertigen.",
+      "Den Osten als irrational darzustellen, half dem Westen, sich selbst als ueberlegen zu sehen.",
+      "Wissen ueber andere Kulturen ist immer mit Machverhaeltnissen verknuepft.",
+      "Um den Orientalismus zu ueberwinden, muss der Westen sein eigenes Denken kritisch hinterfragen."
+    ],
+    "entstehung": "Edward Said veroeffentlichte 1978 sein Buch 'Orientalism', das dieses Konzept begruendete. Er stuetzte sich dabei auf Foucaults Idee, dass Wissen und Macht untrennbar miteinander verbunden sind, und analysierte, wie der Westen den 'Orient' seit der Antike dargestellt hat.",
+    "kritik": "Kritiker sagen, dass Said selbst zu pauschal vorgeht, indem er 'den Westen' als einheitlichen Block darstellt. Ausserdem wird eingewandt, dass die Theorie die Eigenstaendigkeit und Handlungsfaehigkeit der beschriebenen Gesellschaften unterschaetzt und differenzierte westliche Darstellungen ignoriert."
+  }
 }

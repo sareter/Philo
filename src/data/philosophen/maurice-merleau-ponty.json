@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Phänomenologie", "Existenzialismus", "Leibphilosophie"],
+  "hauptstroemungen": [
+    "Phänomenologie",
+    "Existenzialismus",
+    "Leibphilosophie"
+  ],
   "kurzbeschreibung": "Maurice Merleau-Ponty war ein französischer Phänomenologe, der die Philosophie des Leibes und der Wahrnehmung grundlegend erneuerte. Sein Hauptwerk 'Phänomenologie der Wahrnehmung' (1945) stellte den gelebten Leib ins Zentrum der Philosophie und überwand den cartesischen Dualismus von Körper und Geist. Er gilt als einer der originellsten Denker des französischen Existenzialismus.",
   "biografie": {
     "fruehesLeben": "Maurice Jean Jacques Merleau-Ponty wurde am 14. März 1908 in Rochefort-sur-Mer als Sohn eines Offiziers geboren, der 1913 starb. Er wuchs in einer liebevollen Familie auf und bewahrte zeitlebens eine positive Erinnerung an seine Kindheit. Er besuchte das Lycée Louis-le-Grand in Paris und studierte an der École Normale Supérieure (1926–1930), wo er Sartre und Beauvoir kennenlernte. Er bestand 1930 die Agrégation in Philosophie und unterrichtete an verschiedenen Gymnasien. Die Begegnung mit Husserls Phänomenologie und der Gestaltpsychologie war entscheidend für seine philosophische Entwicklung.",
@@ -94,6 +98,66 @@
       "kontext": "Analog zu Sartres 'Verurteilung zur Freiheit' betont Merleau-Ponty die unhintergehbare Sinnhaftigkeit unserer leiblichen Welterfahrung."
     }
   ],
-  "verwandtePhilosophen": ["edmund-husserl", "jean-paul-sartre", "simone-de-beauvoir", "martin-heidegger", "michel-foucault"],
-  "verwandteIsmen": ["phaenomenologie", "existenzialismus", "leibphilosophie"]
+  "verwandtePhilosophen": [
+    "edmund-husserl",
+    "jean-paul-sartre",
+    "simone-de-beauvoir",
+    "martin-heidegger",
+    "michel-foucault"
+  ],
+  "verwandteIsmen": [
+    "phaenomenologie",
+    "existenzialismus",
+    "leibphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Maurice Merleau-Ponty war ein franzoesischer Phaenomenologe, der die Philosophie des Leibes und der Wahrnehmung grundlegend erneuerte. Sein Hauptwerk 'Phaenomenologie der Wahrnehmung' (1945) stellte den gelebten Leib ins Zentrum der Philosophie und ueberwand den cartesischen Dualismus von Koerper und Geist. Er gilt als einer der originellsten Denker des franzoesischen Existenzialismus.",
+    "biografie": {
+      "fruehesLeben": "Maurice Jean Jacques Merleau-Ponty wurde am 14. Maerz 1908 in Rochefort-sur-Mer als Sohn eines Offiziers geboren, der 1913 starb. Er wuchs in einer liebevollen Familie auf und bewahrte zeitlebens eine positive Erinnerung an seine Kindheit. Er besuchte das Lycée Louis-le-Grand in Paris und studierte an der École Normale Supérieure (1926–1930), wo er Sartre und Beauvoir kennenlernte. Er bestand 1930 die Agrégation in Philosophie und unterrichtete an verschiedenen Gymnasien. Die Begegnung mit Husserls Phaenomenologie und der Gestaltpsychologie war entscheidend fuer seine philosophische Entwicklung.",
+      "schaffen": "Merleau-Pontys erstes bedeutendes Werk 'Die Struktur des Verhaltens' (1942) analysierte das Verhaeltnis von Organismus und Umwelt jenseits von Mechanismus und Vitalismus. Sein Hauptwerk 'Phaenomenologie der Wahrnehmung' (1945) revolutionierte die Philosophie, indem es den gelebten Leib (corps vécu) als Subjekt der Wahrnehmung und des Weltbezugs ins Zentrum stellte. Der Leib ist weder reines Objekt noch reines Subjekt, sondern der Ort, an dem Bewusstsein und Welt sich verschraenken. Merleau-Ponty lehrte an der Universitaet Lyon (1945–1949) und an der Sorbonne (1949–1952), bevor er 1952 auf den renommiertesten philosophischen Lehrstuhl Frankreichs am Collège de France berufen wurde – als juengster Inhaber dieses Stuhls.",
+      "spaetesLeben": "In seinen letzten Lebensjahren arbeitete Merleau-Ponty intensiv an einer neuen Ontologie, die ueber die 'Phaenomenologie der Wahrnehmung' hinausging. Er hielt am Collège de France bahnbrechende Vorlesungen ueber Natur, Sprache und Ontologie. Sein Denken wandte sich zunehmend den Fragen der Malerei (besonders Cézanne), der Sprache und des Seins zu. Die 'Arbeitsnotizen' seines unvollendeten Spaetwerks zeugen von einem radikalen philosophischen Neuanfang, der die Begriffe des 'Fleisches' (chair) und des 'Chiasmus' (der Verschraenkung von Beruehrendem und Beruehrtem) ins Zentrum stellte.",
+      "tod": "Maurice Merleau-Ponty starb voellig unerwartet am 3. Mai 1961 in Paris an einem Herzinfarkt – er war erst 53 Jahre alt. Er wurde an seinem Schreibtisch gefunden, ueber einem Buch von Descartes. Sein ploetzlicher Tod hinterliess ein grosses unvollendetes Werk und beraubte die Philosophie eines ihrer originellsten Denker auf dem Hoehepunkt seines Schaffens.",
+      "nachwirkung": "Merleau-Pontys Einfluss wuchs nach seinem Tod stetig. Seine Leibphilosophie wurde grundlegend fuer die Kognitionswissenschaft (embodied cognition), die Robotik, die Sportwissenschaft, die Psychologie und die Aesthetik. Er beeinflusste Denker wie Jacques Derrida, Gilles Deleuze, Michel Foucault und Emmanuel Levinas. In der zeitgenoessischen Phaenomenologie und der Philosophie des Geistes ist er praesenter denn je. Sein Konzept des gelebten Leibes hat die Art und Weise veraendert, wie wir ueber Wahrnehmung, Koerperlichkeit und Subjektivitaet denken."
+    },
+    "kernideen": [
+      {
+        "titel": "Der gelebte Leib (corps vécu)",
+        "beschreibung": "Der Leib ist nicht ein Objekt unter anderen, sondern das Subjekt unserer Welterfahrung. Er ist weder reines Bewusstsein noch blosser Koerper, sondern der Ort, an dem Subjekt und Welt sich verschraenken. Durch den Leib sind wir immer schon in der Welt engagiert."
+      },
+      {
+        "titel": "Die Primitaet der Wahrnehmung",
+        "beschreibung": "Die Wahrnehmung ist die fundamentale Weise unseres Weltbezugs und geht allem abstrakten Denken voraus. Sie ist kein passives Empfangen von Sinnesdaten, sondern ein aktives, leibliches Engagement mit der Welt."
+      },
+      {
+        "titel": "Das Fleisch (chair) und der Chiasmus",
+        "beschreibung": "In seiner Spaetphilosophie entwickelt Merleau-Ponty das Konzept des 'Fleisches' als ontologisches Element, das Sehendem und Sichtbarem, Beruehrendem und Beruehrtem gemeinsam ist. Der 'Chiasmus' beschreibt die Verschraenkung und Reversibilitaet dieser Beziehungen."
+      },
+      {
+        "titel": "Zwischenleiblichkeit (intercorporéité)",
+        "beschreibung": "Unser Verstaendnis anderer Menschen basiert nicht auf einem Analogieschluss, sondern auf einer leiblichen Resonanz. Durch unseren Leib verstehen wir den Ausdruck und die Gesten anderer unmittelbar – noch vor jeder Reflexion."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Struktur des Verhaltens (La Structure du comportement)",
+        "jahr": "1942",
+        "beschreibung": "Eine Analyse des Verhaeltnisses von Organismus und Umwelt, die mechanistische und vitalistische Erklaerungen des Verhaltens ueberwindet und eine dialektische Auffassung des Lebendigen entwickelt."
+      },
+      {
+        "titel": "Phaenomenologie der Wahrnehmung (Phénoménologie de la perception)",
+        "jahr": "1945",
+        "beschreibung": "Merleau-Pontys Hauptwerk stellt den gelebten Leib ins Zentrum der Philosophie und analysiert Wahrnehmung, Raum, Leiblichkeit, Sexualitaet, Freiheit und Sprache aus phaenomenologischer Perspektive."
+      },
+      {
+        "titel": "Humanismus und Terror (Humanisme et terreur)",
+        "jahr": "1947",
+        "beschreibung": "Eine kontroverse Auseinandersetzung mit dem Stalinismus und den Moskauer Schauprozessen, in der Merleau-Ponty die Gewaltfrage in der Politik reflektiert."
+      },
+      {
+        "titel": "Die Abenteuer der Dialektik (Les Aventures de la dialectique)",
+        "jahr": "1955",
+        "beschreibung": "Eine kritische Analyse des Marxismus und des Kommunismus, die zum Bruch mit Sartre fuehrte und eine 'neue Linke' jenseits des Dogmatismus forderte."
+      }
+    ]
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "God Is Red", "autor": "Vine Deloria Jr.", "jahr": "1973"},
     {"titel": "Braiding Sweetgrass", "autor": "Robin Wall Kimmerer", "jahr": "2013"},
     {"titel": "Sand Talk", "autor": "Tyson Yunkaporta", "jahr": "2019"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Indigene Philosophie umfasst die Denktraditionen von Urvoelkern weltweit. Sie betont die Verbundenheit mit der Natur, Verantwortung fuer kommende Generationen und ein zyklisches Verstaendnis von Zeit.",
+    "ausfuehrlicheBeschreibung": "Indigene Philosophien sind die aeltesten Denktraditionen der Menschheit. Sie stammen von den Ureinwohnern Amerikas, Australiens, Afrikas und anderer Regionen. Auch wenn sie sehr unterschiedlich sind, teilen viele eine Grundueberzeugung: Der Mensch ist nicht der Chef der Natur, sondern ein Teil von ihr. Alles haengt zusammen, Menschen, Tiere, Pflanzen und die Erde selbst.\n\nEin grosser Unterschied zur westlichen Philosophie ist die Art, wie Wissen funktioniert. In der westlichen Tradition schreibt man Buecher und entwickelt abstrakte Theorien. In indigenen Kulturen wird Wissen durch Geschichten, Rituale und praktische Erfahrung weitergegeben. Das ist keine primitive Form, sondern einfach eine andere Art, Wissen lebendig zu halten und an die jeweilige Situation anzupassen.\n\nHeute werden indigene Ideen wieder wichtiger, besonders wenn es um Umweltschutz und Nachhaltigkeit geht. Das Konzept Buen Vivir aus Suedamerika zum Beispiel stellt nicht wirtschaftliches Wachstum, sondern ein gutes Leben im Einklang mit der Natur in den Mittelpunkt. Viele Leute merken, dass die westliche Art, die Natur nur als Ressource zu sehen, in eine Sackgasse gefuehrt hat.",
+    "kernthesen": [
+      "Der Mensch ist kein Herrscher ueber die Natur, sondern Teil eines grossen Beziehungsnetzes.",
+      "Wissen wird durch Geschichten, Rituale und gelebte Erfahrung weitergegeben, nicht nur durch Buecher.",
+      "Wir haben eine Verantwortung gegenueber zukuenftigen Generationen.",
+      "Die Zeit ist zyklisch, nicht wie ein gerader Pfeil. Alles kehrt wieder.",
+      "Die Natur hat einen eigenen Wert und ist nicht bloss eine Ressource fuer den Menschen."
+    ],
+    "entstehung": "Indigene Philosophien sind so alt wie die Menschheit und wurden muendlich ueberliefert. Als anerkannte philosophische Richtung im akademischen Sinne gibt es sie erst seit dem 20. Jahrhundert, als indigene Denker begannen, ihre Traditionen in die wissenschaftliche Diskussion einzubringen.",
+    "kritik": "Kritiker warnen davor, indigene Kulturen zu romantisieren und so zu tun, als waeren sie alle gleich und perfekt. Ausserdem gibt es die Frage, ob man muendliche Traditionen ueberhaupt in akademische Kategorien pressen kann, ohne ihren Charakter zu veraendern."
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883"},
     {"titel": "Entweder/Oder", "autor": "Søren Kierkegaard", "jahr": "1843"},
     {"titel": "Die Krankheit zum Tode", "autor": "Søren Kierkegaard", "jahr": "1849"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Einsamkeitsphilosophie sagt: Wer wirklich zu sich selbst finden und klar denken will, muss sich manchmal von anderen zurueckziehen. Einsamkeit ist kein Problem, sondern eine Chance.",
+    "ausfuehrlicheBeschreibung": "Kennst du das? Du bist staendig unter Leuten, aber fuehlst dich trotzdem leer? Oder du bist mal allein und ploetzlich kommen dir die besten Gedanken? Die Einsamkeitsphilosophie nimmt genau das ernst: Sie sagt, dass man sich von der Masse loesen muss, um wirklich klar zu denken und herauszufinden, wer man ist.\n\nNietzsche war ein grosser Fan der Einsamkeit. Er meinte: Wer immer nur das denkt, was alle denken, wird nie ueber sich hinauswachsen. Sein Zarathustra zieht sich in die Berge zurueck, um dort neue Werte zu schaffen. Auch Kierkegaard sah die Einsamkeit als den Ort, an dem man sich ehrlich mit sich selbst auseinandersetzen muss, ohne sich hinter der Gruppe zu verstecken.\n\nWichtig ist die Unterscheidung: Es geht nicht um Verlassenheit, die man nicht gewaehlt hat und die wehtut. Es geht um die bewusste Entscheidung, sich zurueckzuziehen, um Abstand zu gewinnen. Allerdings warnen Kritiker: Wer die Einsamkeit uebertreibt, vergisst, dass Menschen soziale Wesen sind und auch im Gespraech mit anderen wachsen.",
+    "kernthesen": [
+      "Einsamkeit ist noetig, um wirklich tiefe Erkenntnisse zu gewinnen.",
+      "Die Masse und das staendige Mitmachen verdirbt das eigenstaendige Denken.",
+      "Nur wer sich von der Gesellschaft loest, kann ueber sie hinauswachsen.",
+      "Bewusst gewaehlte Einsamkeit ist ein Akt der Befreiung.",
+      "In der Einsamkeit begegnet man sich selbst, ohne Ablenkung und Ausreden."
+    ],
+    "entstehung": "Die Einsamkeitsphilosophie entstand im 19. Jahrhundert, als Denker wie Nietzsche und Kierkegaard gegen die zunehmende Vermassung der Gesellschaft rebellierten. Beide sahen in der Einsamkeit die Voraussetzung fuer echtes, eigenstaendiges Denken.",
+    "kritik": "Kritiker sagen, dass die Verherrlichung der Einsamkeit elitaer ist und die soziale Natur des Menschen ignoriert. Dauerhaftes Alleinsein kann psychisch schaedlich sein, und viele wichtige Erkenntnisse entstehen gerade im Austausch mit anderen."
+  }
 }

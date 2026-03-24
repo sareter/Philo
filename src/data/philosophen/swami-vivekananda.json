@@ -18,7 +18,9 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Asien",
-  "hauptstroemungen": ["Hinduistische Philosophie"],
+  "hauptstroemungen": [
+    "Hinduistische Philosophie"
+  ],
   "kurzbeschreibung": "Swami Vivekananda war ein indischer Mönch und Philosoph, der die Vedanta-Philosophie und den Hinduismus im Westen bekannt machte. Sein Auftritt beim Weltparlament der Religionen 1893 in Chicago machte ihn zu einer internationalen Persönlichkeit. Er verband die klassische indische Philosophie mit modernem sozialem Engagement.",
   "biografie": {
     "fruehesLeben": "Swami Vivekananda wurde 1863 als Narendranath Datta in eine wohlhabende bengalische Familie in Kalkutta geboren. Als junger Mann studierte er westliche Philosophie und schloss sich dann dem Mystiker Ramakrishna an, der sein spiritueller Lehrer wurde. Nach Ramakrishnas Tod 1886 wurde er zum Oberhaupt des Mönchsordens.",
@@ -77,6 +79,57 @@
       "quelle": "Raja Yoga"
     }
   ],
-  "verwandtePhilosophen": ["rabindranath-tagore", "b-r-ambedkar"],
-  "verwandteIsmen": ["hinduistische-philosophie"]
+  "verwandtePhilosophen": [
+    "rabindranath-tagore",
+    "b-r-ambedkar"
+  ],
+  "verwandteIsmen": [
+    "hinduistische-philosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Swami Vivekananda war ein indischer Moench und Philosoph, der die Vedanta-Philosophie und den Hinduismus im Westen bekannt machte. Sein Auftritt beim Weltparlament der Religionen 1893 in Chicago machte ihn zu einer internationalen Persoenlichkeit. Er verband die klassische indische Philosophie mit modernem sozialem Engagement.",
+    "biografie": {
+      "fruehesLeben": "Swami Vivekananda wurde 1863 als Narendranath Datta in eine wohlhabende bengalische Familie in Kalkutta geboren. Als junger Mann studierte er westliche Philosophie und schloss sich dann dem Mystiker Ramakrishna an, der sein spiritueller Lehrer wurde. Nach Ramakrishnas Tod 1886 wurde er zum Oberhaupt des Moenchsordens.",
+      "schaffen": "Vivekanandas beruehmte Rede beim Weltparlament der Religionen 1893 in Chicago, die mit den Worten 'Schwestern und Brueder Amerikas' begann, machte ihn weltberuehmt. Er reiste durch Amerika und Europa und hielt Vortraege ueber Vedanta und Yoga. Nach seiner Rueckkehr nach Indien gruendete er die Ramakrishna-Mission, die Bildung und soziale Arbeit mit spiritueller Praxis verband.",
+      "spaetesLeben": "In seinen letzten Lebensjahren widmete sich Vivekananda dem Aufbau der Ramakrishna-Mission und der Ausbildung seiner Schueler. Trotz zunehmender gesundheitlicher Probleme setzte er seine Lehrtaetigkeit fort. Er betonte die Notwendigkeit einer Verbindung von Spiritualitaet und sozialer Verantwortung.",
+      "tod": "Swami Vivekananda starb am 4. Juli 1902 in Belur Math bei Kalkutta im Alter von nur 39 Jahren. Der Ueberlieferung nach ging er in tiefe Meditation und verliess bewusst seinen Koerper. Sein frueher Tod beendete ein kurzes, aber ausserordentlich wirkmaechtiges Leben.",
+      "nachwirkung": "Vivekananda gilt als einer der Begruender des modernen Hinduismus und als Wegbereiter des interreligioesen Dialogs. Seine Lehren inspirierten Mahatma Gandhi und die indische Unabhaengigkeitsbewegung. Die Ramakrishna-Mission ist bis heute eine der groessten humanitaeren Organisationen Indiens."
+    },
+    "kernideen": [
+      {
+        "titel": "Praktischer Vedanta",
+        "beschreibung": "Vivekananda transformierte die klassische Vedanta-Philosophie von einer kontemplativen Lehre in ein Programm sozialen Handelns. Die Erkenntnis der goettlichen Einheit aller Wesen muss sich im Dienst an den Armen und Unterdrueckten verwirklichen."
+      },
+      {
+        "titel": "Einheit aller Religionen",
+        "beschreibung": "Alle Religionen sind verschiedene Wege zum selben Ziel und enthalten Teilwahrheiten einer universellen Wahrheit. Religioese Intoleranz beruht auf Unwissenheit, denn im Kern lehren alle Traditionen dieselbe goettliche Wirklichkeit."
+      },
+      {
+        "titel": "Goettlichkeit des Menschen",
+        "beschreibung": "Jeder Mensch traegt das Goettliche in sich, unabhaengig von Kaste, Geschlecht oder Religion. Das Ziel des Lebens ist die Verwirklichung dieser inneren Goettlichkeit durch Arbeit, Wissen, Hingabe oder psychische Disziplin."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Raja Yoga",
+        "jahr": "1896",
+        "beschreibung": "Eine systematische Darstellung der Yoga-Philosophie nach Patanjali, die die Grundlage fuer das westliche Verstaendnis von Yoga als spiritueller Disziplin legte."
+      },
+      {
+        "titel": "Jnana Yoga",
+        "jahr": "1899",
+        "beschreibung": "Vortraege ueber den Weg der Erkenntnis, in denen Vivekananda die Vedanta-Philosophie als rationale und universelle Weltsicht darstellt."
+      },
+      {
+        "titel": "Karma Yoga",
+        "jahr": "1896",
+        "beschreibung": "Eine Abhandlung ueber den Weg des selbstlosen Handelns als spirituelle Praxis und Grundlage des sozialen Engagements."
+      },
+      {
+        "titel": "Reden und Schriften (Gesammelte Werke)",
+        "jahr": "1907",
+        "beschreibung": "Die posthume Sammlung aller Vortraege, Briefe und Schriften Vivekanandas in neun Baenden."
+      }
+    ]
+  }
 }

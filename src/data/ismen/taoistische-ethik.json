@@ -11,13 +11,44 @@
     "Die Rückkehr zur Natur ist der Weg zu einem authentischen und guten Leben.",
     "Wahre Güte zeigt sich im Nicht-Tun, nicht im erzwungenen moralischen Handeln."
   ],
-  "hauptvertreter": ["epikur"],
+  "hauptvertreter": [
+    "epikur"
+  ],
   "entstehung": "Die taoistische Ethik entwickelte sich parallel zur daoistischen Philosophie im 6. bis 4. Jahrhundert v. Chr. in China. Sie bildet einen wesentlichen Bestandteil des Daodejing und der Schriften des Zhuangzi und wurde später durch taoistische religiöse Traditionen weiterentwickelt.",
   "kritik": "Kritiker werfen der taoistischen Ethik vor, politisch quietistisch zu sein und angesichts von Ungerechtigkeit zur Passivität aufzufordern. Zudem wird die Ablehnung expliziter moralischer Normen als unzureichend für die Bewältigung komplexer ethischer Konflikte in modernen Gesellschaften angesehen.",
-  "verwandteIsmen": ["daoismus", "naturalismus", "epikureismus"],
+  "verwandteIsmen": [
+    "daoismus",
+    "naturalismus",
+    "epikureismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Daodejing", "autor": "Laozi (zugeschrieben)", "jahr": "ca. 400 v. Chr."},
-    {"titel": "Zhuangzi", "autor": "Zhuangzi", "jahr": "ca. 300 v. Chr."},
-    {"titel": "Taiping Jing (Schrift des Großen Friedens)", "autor": "Unbekannt", "jahr": "ca. 100 n. Chr."}
-  ]
+    {
+      "titel": "Daodejing",
+      "autor": "Laozi (zugeschrieben)",
+      "jahr": "ca. 400 v. Chr."
+    },
+    {
+      "titel": "Zhuangzi",
+      "autor": "Zhuangzi",
+      "jahr": "ca. 300 v. Chr."
+    },
+    {
+      "titel": "Taiping Jing (Schrift des Großen Friedens)",
+      "autor": "Unbekannt",
+      "jahr": "ca. 100 n. Chr."
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die taoistische Ethik lehrt das natuerliche Handeln im Einklang mit dem Dao und betont Einfachheit, Bescheidenheit und Selbstgenuegsamkeit.",
+    "ausfuehrlicheBeschreibung": "Die taoistische Ethik leitet ihre Grundsaetze aus der daoistischen Naturphilosophie ab und stellt das Ideal des Wu Wei – des nicht-erzwungenen, natuerlichen Handelns – in den Mittelpunkt der Lebensfuehrung. Anders als konfuzianische oder westliche Ethiksysteme formuliert sie keine expliziten Regeln oder Pflichten, sondern empfiehlt eine Haltung der Offenheit und des Sich-Einfuegens in den natuerlichen Lauf der Dinge. Diese Betonung der Einfachheit und des genuegsamen Lebens erinnert an Epikurs Ideal der Ataraxia und des massvollen Genusses.\n\nDrei Schaetze (San Bao) bilden den Kern der taoistischen Tugendlehre: Mitgefuehl (Ci), Genuegsamkeit (Jian) und Bescheidenheit (Bugan wei tianxia xian). Diese Tugenden werden nicht als gesellschaftliche Pflichten verstanden, sondern als natuerliche Eigenschaften, die sich einstellen, wenn der Mensch aufhoert, kuenstliche Ziele zu verfolgen. Die taoistische Ethik ist damit paradoxerweise eine Anti-Ethik, die moralisches Handeln gerade durch das Loslassen moralischer Anstrengung ermoeglichen will.\n\nIn der Gegenwart gewinnt die taoistische Ethik neue Relevanz fuer oekologisches Denken, Stressreduktion und die Kritik an einer ueberregulierten Gesellschaft. Ihre Betonung von Nachhaltigkeit, Naturverbundenheit und innerem Frieden bietet Alternativen zu westlichen Leistungs- und Konsumideologien.",
+    "kernthesen": [
+      "Natuerliches Handeln (Wu Wei) im Einklang mit dem Dao ist die hoechste Form ethischen Verhaltens.",
+      "Kuenstliche moralische Normen zerstoeren die natuerliche Guete des Menschen.",
+      "Einfachheit, Genuegsamkeit und Bescheidenheit sind die drei Grundtugenden.",
+      "Die Rueckkehr zur Natur ist der Weg zu einem authentischen und guten Leben.",
+      "Wahre Guete zeigt sich im Nicht-Tun, nicht im erzwungenen moralischen Handeln."
+    ],
+    "entstehung": "Die taoistische Ethik entwickelte sich parallel zur daoistischen Philosophie im 6. bis 4. Jahrhundert v. Chr. in China. Sie bildet einen wesentlichen Bestandteil des Daodejing und der Schriften des Zhuangzi und wurde spaeter durch taoistische religioese Traditionen weiterentwickelt.",
+    "kritik": "Kritiker werfen der taoistischen Ethik vor, politisch quietistisch zu sein und angesichts von Ungerechtigkeit zur Passivitaet aufzufordern. Zudem wird die Ablehnung expliziter moralischer Normen als unzureichend fuer die Bewaeltigung komplexer ethischer Konflikte in modernen Gesellschaften angesehen."
+  }
 }

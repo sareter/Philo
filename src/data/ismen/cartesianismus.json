@@ -11,14 +11,52 @@
     "Die Existenz Gottes kann durch rationale Argumente bewiesen werden",
     "Die mathematische Methode ist das Vorbild für alle wissenschaftliche Erkenntnis"
   ],
-  "hauptvertreter": ["rene-descartes", "baruch-spinoza"],
+  "hauptvertreter": [
+    "rene-descartes",
+    "baruch-spinoza"
+  ],
   "entstehung": "Der Cartesianismus wurde durch René Descartes' Hauptwerke begründet: 'Discours de la Méthode' (1637) und 'Meditationes de Prima Philosophia' (1641). Descartes entwickelte seine Philosophie im Kontext der wissenschaftlichen Revolution des 17. Jahrhunderts und unter dem Einfluss der Mathematik. Die Cartesianer der ersten Generation – Antoine Arnauld, Nicolas Malebranche, Pierre Gassendi – entwickelten und modifizierten Descartes' Ideen. Spinoza und Leibniz transformierten den Cartesianismus in eigenständige philosophische Systeme. Der Einfluss des Cartesianismus erstreckt sich über die gesamte neuzeitliche Philosophie.",
   "kritik": "Das Leib-Seele-Problem bleibt die größte Schwäche des Cartesianismus: Die Interaktion zwischen einer immateriellen und einer materiellen Substanz ist unerklärlich. Gilbert Ryle kritisierte den Cartesianismus als 'kategorialen Fehler'. Die moderne Hirnforschung stellt den Substanzdualismus infrage, indem sie mentale Zustände mit neuronalen Prozessen korreliert. Der methodische Zweifel wird als zu radikal kritisiert – er führt zu Problemen (Solipsismus, Skeptizismus), die Descartes nur mit fragwürdigen Gottesbeweisen lösen kann. Der cartesianische Zirkel (die Zuverlässigkeit klarer Ideen wird durch Gottes Existenz bewiesen, die selbst auf klaren Ideen beruht) ist ein viel diskutiertes Problem. Feministische Kritikerinnen (Genevieve Lloyd) zeigen, wie der Cartesianismus Rationalität mit Männlichkeit und Körperlichkeit mit Weiblichkeit assoziiert.",
-  "verwandteIsmen": ["foundationalismus", "solipsismus", "kantianismus", "scholastik", "philosophie-des-geistes"],
+  "verwandteIsmen": [
+    "foundationalismus",
+    "solipsismus",
+    "kantianismus",
+    "scholastik",
+    "philosophie-des-geistes"
+  ],
   "schluesselwerke": [
-    { "titel": "Meditationes de Prima Philosophia", "autor": "René Descartes", "jahr": "1641" },
-    { "titel": "Discours de la Méthode", "autor": "René Descartes", "jahr": "1637" },
-    { "titel": "Principia Philosophiae", "autor": "René Descartes", "jahr": "1644" },
-    { "titel": "De la recherche de la vérité", "autor": "Nicolas Malebranche", "jahr": "1674" }
-  ]
+    {
+      "titel": "Meditationes de Prima Philosophia",
+      "autor": "René Descartes",
+      "jahr": "1641"
+    },
+    {
+      "titel": "Discours de la Méthode",
+      "autor": "René Descartes",
+      "jahr": "1637"
+    },
+    {
+      "titel": "Principia Philosophiae",
+      "autor": "René Descartes",
+      "jahr": "1644"
+    },
+    {
+      "titel": "De la recherche de la vérité",
+      "autor": "Nicolas Malebranche",
+      "jahr": "1674"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Cartesianismus ist die philosophische Tradition, die auf René Descartes zurueckgeht und durch den methodischen Zweifel, den Substanzdualismus von Geist und Koerper sowie das Ideal mathematischer Gewissheit in der Philosophie gekennzeichnet ist.",
+    "ausfuehrlicheBeschreibung": "Der Cartesianismus bezeichnet die philosophische Tradition, die von René Descartes (1596-1650) begruendet wurde und die neuzeitliche Philosophie fundamental gepraegt hat. Descartes gilt als Begruender des modernen Rationalismus und als Vater der neuzeitlichen Philosophie.\n\nDer methodische Zweifel bildet den Ausgangspunkt des Cartesianismus. In den 'Meditationes de Prima Philosophia' (1641) unterzog Descartes alle seine bisherigen Ueberzeugungen einem radikalen Zweifel. Die Sinneswahrnehmung kann taeuschen (Traumargument), und selbst mathematische Wahrheiten koennten das Werk eines boeswilligen Daemons (genius malignus) sein. Doch eine Gewissheit bleibt bestehen: Das denkende Subjekt, das zweifelt, muss existieren, um zweifeln zu koennen – 'Cogito ergo sum' (Ich denke, also bin ich).\n\nVom Cogito aus rekonstruiert Descartes das Gebaeude des Wissens. Er beweist die Existenz Gottes (ontologischer und kausaler Gottesbeweis) und argumentiert, dass ein guetiger Gott uns nicht systematisch taeuschen wuerde. Damit ist die Zuverlaessigkeit klarer und deutlicher Ideen garantiert, und die Existenz einer Aussenwelt kann behauptet werden.",
+    "kernthesen": [
+      "Das denkende Subjekt (Cogito) bildet das unbezweifelbare Fundament aller Erkenntnis",
+      "Geist und Koerper sind zwei fundamental verschiedene Substanzen (Substanzdualismus)",
+      "Nur klare und deutliche Ideen verdienen als wahr anerkannt zu werden",
+      "Die Existenz Gottes kann durch rationale Argumente bewiesen werden",
+      "Die mathematische Methode ist das Vorbild fuer alle wissenschaftliche Erkenntnis"
+    ],
+    "entstehung": "Der Cartesianismus wurde durch René Descartes' Hauptwerke begruendet: 'Discours de la Méthode' (1637) und 'Meditationes de Prima Philosophia' (1641). Descartes entwickelte seine Philosophie im Kontext der wissenschaftlichen Revolution des 17. Jahrhunderts und unter dem Einfluss der Mathematik. Die Cartesianer der ersten Generation – Antoine Arnauld, Nicolas Malebranche, Pierre Gassendi – entwickelten und modifizierten Descartes' Ideen. Spinoza und Leibniz transformierten den Cartesianismus in eigenstaendige philosophische Systeme.",
+    "kritik": "Das Leib-Seele-Problem bleibt die groesste Schwaeche des Cartesianismus: Die Interaktion zwischen einer immateriellen und einer materiellen Substanz ist unerklaerlich. Gilbert Ryle kritisierte den Cartesianismus als 'kategorialen Fehler'. Die moderne Hirnforschung stellt den Substanzdualismus infrage, indem sie mentale Zustaende mit neuronalen Prozessen korreliert."
+  }
 }

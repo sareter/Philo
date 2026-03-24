@@ -19,5 +19,18 @@
     {"titel": "Tattvartha Sutra", "autor": "Umasvati", "jahr": "ca. 200 n. Chr."},
     {"titel": "Acharanga Sutra", "autor": "Überliefert", "jahr": "ca. 300 v. Chr."},
     {"titel": "Samayasara", "autor": "Kundakunda", "jahr": "ca. 200 n. Chr."}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Jainismus ist eine uralte indische Philosophie, die radikale Gewaltlosigkeit lehrt. Jedes Lebewesen hat eine Seele und verdient Respekt. Ziel ist die Befreiung durch Selbstdisziplin und Mitgefuehl.",
+    "ausfuehrlicheBeschreibung": "Der Jainismus nimmt Gewaltlosigkeit ernster als jede andere Philosophie. Das Prinzip heisst Ahimsa: Verletze kein Lebewesen, nicht in Taten, nicht in Worten, nicht einmal in Gedanken. Jainistische Moenche tragen Mundtuecher, damit sie keine Insekten einatmen, und fegen den Boden vor sich, um nichts zu zertreten. Das klingt extrem, aber es zeigt, wie tief der Respekt vor allem Lebendigen geht.\n\nSpannend ist auch die Erkenntnistheorie: Der Jainismus sagt, dass niemand die ganze Wahrheit von einem einzigen Standpunkt aus sehen kann. Die Wirklichkeit hat viele Seiten, und jeder sieht nur einen Teil. Das nennt man Anekantavada. Es ist ein bisschen wie die Geschichte von den Blinden, die einen Elefanten beschreiben: Jeder fasst einen anderen Teil an und beschreibt etwas anderes, aber keiner hat das ganze Bild.\n\nDas Ziel im Jainismus ist Moksha, also die Befreiung der Seele aus dem Kreislauf der Wiedergeburt. Das erreicht man durch strenge Selbstdisziplin, Askese und ethisches Handeln. Die Idee, dass Karma eine Art Last ist, die die Seele beschwert, ist dabei zentral. Heute gewinnt der Jainismus neue Relevanz, besonders fuer Tierschutz und Umweltethik.",
+    "kernthesen": [
+      "Gewaltlosigkeit gegenueber allen Lebewesen ist das hoechste Gebot.",
+      "Die Wahrheit hat viele Seiten, und kein einzelner Standpunkt zeigt das ganze Bild.",
+      "Karma ist wie eine Last, die die Seele beschwert, und nur durch Askese kann man sich befreien.",
+      "Jedes Lebewesen hat eine Seele und verdient Schutz und Respekt.",
+      "Strenge Selbstdisziplin ist der Weg zur inneren Befreiung."
+    ],
+    "entstehung": "Der Jainismus geht auf Mahavira zurueck, der im 6. Jahrhundert vor Christus in Indien lebte. Er gilt als der 24. und letzte grosse Wegbereiter. Spaeter wurde die Lehre von Denkern wie Kundakunda und Umasvati philosophisch systematisiert.",
+    "kritik": "Kritiker sehen die extreme Askese als lebensfeindlich und fuer normale Menschen kaum durchfuehrbar. Die konsequente Gewaltlosigkeit sei in der Praxis unrealistisch, weil man kaum leben kann, ohne irgendein Lebewesen zu beeintraechtigen."
+  }
 }

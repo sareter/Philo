@@ -11,14 +11,52 @@
     "Es gibt keine in sich guten oder schlechten Handlungen, nur gute oder schlechte Folgen",
     "Moralische Entscheidungen erfordern eine Abwägung der voraussichtlichen Konsequenzen"
   ],
-  "hauptvertreter": ["peter-singer", "john-locke"],
+  "hauptvertreter": [
+    "peter-singer",
+    "john-locke"
+  ],
   "entstehung": "Die konsequentialistische Denkweise hat Vorläufer in der antiken Philosophie, insbesondere im Epikureismus. Die systematische Ausarbeitung begann mit Jeremy Benthams 'Introduction to the Principles of Morals and Legislation' (1789) und John Stuart Mills 'Utilitarianism' (1863). Henry Sidgwick leistete in 'The Methods of Ethics' (1874) eine philosophisch anspruchsvolle Verteidigung des Utilitarismus. Im 20. Jahrhundert entwickelten J.J.C. Smart, R.M. Hare und Peter Singer den Konsequentialismus weiter. Derek Parfit verband in 'Reasons and Persons' konsequentialistische Überlegungen mit Fragen der personalen Identität.",
   "kritik": "Bernard Williams argumentierte, dass der Konsequentialismus die Integrität des Handelnden zerstört, indem er von ihm verlangt, seine eigenen Projekte und Überzeugungen dem Gesamtnutzen zu opfern. Die Demandingness-Einwand besagt, dass der Konsequentialismus übermäßig fordernd ist – er verlangt, dass wir ständig das Bestmögliche tun. Robert Nozick zeigte mit seinem 'Experience Machine'-Gedankenexperiment, dass Glück nicht der einzige intrinsische Wert sein kann. Deontologen kritisieren, dass der Konsequentialismus die Instrumentalisierung einzelner Personen für das Gesamtwohl erlaubt. Das Vorhersageproblem betont, dass wir die Konsequenzen unserer Handlungen oft nicht zuverlässig vorhersehen können.",
-  "verwandteIsmen": ["deontologie", "tugendethik", "egalitarismus", "bioethik", "tierethik"],
+  "verwandteIsmen": [
+    "deontologie",
+    "tugendethik",
+    "egalitarismus",
+    "bioethik",
+    "tierethik"
+  ],
   "schluesselwerke": [
-    { "titel": "An Introduction to the Principles of Morals and Legislation", "autor": "Jeremy Bentham", "jahr": "1789" },
-    { "titel": "Utilitarianism", "autor": "John Stuart Mill", "jahr": "1863" },
-    { "titel": "The Methods of Ethics", "autor": "Henry Sidgwick", "jahr": "1874" },
-    { "titel": "Utilitarianism: For and Against", "autor": "J.J.C. Smart & Bernard Williams", "jahr": "1973" }
-  ]
+    {
+      "titel": "An Introduction to the Principles of Morals and Legislation",
+      "autor": "Jeremy Bentham",
+      "jahr": "1789"
+    },
+    {
+      "titel": "Utilitarianism",
+      "autor": "John Stuart Mill",
+      "jahr": "1863"
+    },
+    {
+      "titel": "The Methods of Ethics",
+      "autor": "Henry Sidgwick",
+      "jahr": "1874"
+    },
+    {
+      "titel": "Utilitarianism: For and Against",
+      "autor": "J.J.C. Smart & Bernard Williams",
+      "jahr": "1973"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Konsequentialismus ist eine ethische Theorie, die die moralische Richtigkeit einer Handlung ausschliesslich an ihren Folgen bemisst.",
+    "ausfuehrlicheBeschreibung": "Der Konsequentialismus stellt neben der Deontologie und der Tugendethik eine der drei Hauptstroemungen der normativen Ethik dar. Seine zentrale These besagt, dass die moralische Qualitaet einer Handlung ausschliesslich von ihren Folgen abhaengt – nicht von der Absicht des Handelnden, nicht von der Art der Handlung selbst und nicht von der Einhaltung bestimmter Regeln oder Pflichten.\n\nDer klassische Utilitarismus von Jeremy Bentham und John Stuart Mill ist die bekannteste Form des Konsequentialismus. Bentham formulierte das Prinzip der Nuetzlichkeit: Die richtige Handlung ist diejenige, die das groesste Glueck der groessten Zahl hervorbringt. Bentham verstand Glueck hedonistisch als Maximierung von Lust und Minimierung von Schmerz und entwickelte einen 'hedonistischen Kalkuel' zur Berechnung des Nutzens einer Handlung.\n\nJohn Stuart Mill modifizierte Benthams Utilitarismus, indem er qualitative Unterschiede zwischen Formen von Lust einfuehrte: 'Es ist besser, ein unzufriedener Sokrates zu sein als ein zufriedener Narr.' Nicht nur die Quantitaet, sondern auch die Qualitaet von Freude ist moralisch relevant.",
+    "kernthesen": [
+      "Die moralische Richtigkeit einer Handlung wird ausschliesslich durch ihre Konsequenzen bestimmt",
+      "Die richtige Handlung ist diejenige, die unter allen Alternativen die besten Gesamtfolgen hervorbringt",
+      "Alle Betroffenen zaehlen gleich – unparteilichkeit ist ein Grundprinzip",
+      "Es gibt keine in sich guten oder schlechten Handlungen, nur gute oder schlechte Folgen",
+      "Moralische Entscheidungen erfordern eine Abwaegung der voraussichtlichen Konsequenzen"
+    ],
+    "entstehung": "Die konsequentialistische Denkweise hat Vorlaeufer in der antiken Philosophie, insbesondere im Epikureismus. Die systematische Ausarbeitung begann mit Jeremy Benthams 'Introduction to the Principles of Morals and Legislation' (1789) und John Stuart Mills 'Utilitarianism' (1863). Henry Sidgwick leistete in 'The Methods of Ethics' (1874) eine philosophisch anspruchsvolle Verteidigung des Utilitarismus. Im 20. Jahrhundert entwickelten J.J.C. Smart, R.M. Hare und Peter Singer den Konsequentialismus weiter.",
+    "kritik": "Bernard Williams argumentierte, dass der Konsequentialismus die Integritaet des Handelnden zerstoert, indem er von ihm verlangt, seine eigenen Projekte und Ueberzeugungen dem Gesamtnutzen zu opfern. Die Demandingness-Einwand besagt, dass der Konsequentialismus uebermaessig fordernd ist – er verlangt, dass wir staendig das Bestmoegliche tun. Robert Nozick zeigte mit seinem 'Experience Machine'-Gedankenexperiment, dass Glueck nicht der einzige intrinsische Wert sein kann."
+  }
 }

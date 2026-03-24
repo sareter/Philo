@@ -19,5 +19,18 @@
     {"titel": "Skizze einer Theorie der Emotionen", "autor": "Jean-Paul Sartre", "jahr": "1939"},
     {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
     {"titel": "Der Ekel", "autor": "Jean-Paul Sartre", "jahr": "1938"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Emotionaler Nihilismus sagt: Gefuehle sind im Grunde leer und nichtig. Sie taeuschen uns eine Bedeutung vor, die gar nicht da ist.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du bist total verliebt und glaubst, dieses Gefuehl sei das Echteste auf der Welt. Der emotionale Nihilismus sagt: Stopp. Dieses Gefuehl sagt dir nichts Wahres ueber die Welt. Es ist nur eine Art, wie dein Bewusstsein mit der Realitaet umgeht, eine Strategie, um mit Situationen klarzukommen, aber kein Fenster zur Wahrheit.\n\nJean-Paul Sartre hat das so erklaert: Wenn du wuetend wirst, aenderst du nicht wirklich die Situation. Du aenderst nur deine Haltung zur Situation. Emotionen sind fuer ihn eine Art Selbsttaeuschung. Du redest dir ein, dass deine Gefuehle echt und wichtig sind, aber eigentlich sind sie nur eine Flucht vor der nackten Realitaet.\n\nDas hat heftige Konsequenzen: Wenn Gefuehle grundsaetzlich nichtig sind, dann ist auch Liebe, Freundschaft und Mitleid letztlich eine Illusion. Hinter den grossen Gefuehlen steckt laut dieser Sicht nichts Echtes. Klingt duester, und genau das werfen Kritiker auch vor: Diese Sichtweise ignoriert, dass Gefuehle biologisch real sind und unser Leben tatsaechlich praegen.",
+    "kernthesen": [
+      "Menschliche Gefuehle sind im Grunde leer und bedeutungslos.",
+      "Emotionen zeigen uns nicht, wie die Welt wirklich ist.",
+      "Gefuehle sind Strategien der Selbsttaeuschung und Weltflucht.",
+      "Auch emotionale Bindungen wie Liebe und Freundschaft sind letztlich Illusionen.",
+      "Hinter den grossen Gefuehlen verbirgt sich nichts Echtes."
+    ],
+    "entstehung": "Der emotionale Nihilismus entstand im 20. Jahrhundert, als Existenzialisten wie Jean-Paul Sartre begannen, Emotionen philosophisch zu hinterfragen. Sartres Skizze einer Theorie der Emotionen von 1939 legte den Grundstein fuer diese radikale Sicht auf Gefuehle.",
+    "kritik": "Kritiker sagen, diese Sichtweise sei uebertrieben pessimistisch und ignoriere, dass Emotionen biologisch real sind und wichtige Funktionen erfuellen. Ein Leben ganz ohne Gefuehle ist weder moeglich noch erstrebenswert, und Beziehungen nur als Illusionen zu betrachten, widerspricht der Lebenserfahrung der meisten Menschen."
+  }
 }

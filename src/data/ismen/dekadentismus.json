@@ -11,13 +11,43 @@
     "Der Fortschrittsglaube der Moderne verkennt die zyklische Natur kultureller Entwicklung.",
     "Dekadenz ist Ausdruck eines Lebenswillens, der sich gegen sich selbst wendet."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der Dekadentismus entstand in den 1880er Jahren in Frankreich als literarische und philosophische Bewegung. Baudelaires „Blumen des Bösen“ (1857) und Huysmans' „Gegen den Strich“ (1884) gelten als Gründungstexte. Nietzsche erhob die Dekadenz-Diagnose zum philosophischen Programm.",
   "kritik": "Kritiker werfen dem Dekadentismus vor, dass er den gesellschaftlichen Verfall verherrlicht statt ihn zu bekämpfen und damit eine elitäre, sozial verantwortungslose Haltung einnimmt. Zudem wird bemängelt, dass die Feier des Verfalls in politischen Konservatismus oder Nihilismus münden kann.",
-  "verwandteIsmen": ["nihilismus", "esthetizismus"],
+  "verwandteIsmen": [
+    "nihilismus",
+    "esthetizismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Götzen-Dämmerung", "autor": "Friedrich Nietzsche", "jahr": "1889"},
-    {"titel": "Gegen den Strich", "autor": "Joris-Karl Huysmans", "jahr": "1884"},
-    {"titel": "Die Blumen des Bösen", "autor": "Charles Baudelaire", "jahr": "1857"}
-  ]
+    {
+      "titel": "Götzen-Dämmerung",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1889"
+    },
+    {
+      "titel": "Gegen den Strich",
+      "autor": "Joris-Karl Huysmans",
+      "jahr": "1884"
+    },
+    {
+      "titel": "Die Blumen des Bösen",
+      "autor": "Charles Baudelaire",
+      "jahr": "1857"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Dekadentismus ist eine kulturphilosophische und aesthetische Stroemung des spaeten 19.",
+    "ausfuehrlicheBeschreibung": "Der Dekadentismus entstand in der zweiten Haelfte des 19. Jahrhunderts als Reaktion auf den buergerlichen Optimismus und den Fortschrittsglauben der industriellen Moderne. In Frankreich feierten Dichter wie Charles Baudelaire, Paul Verlaine und Joris-Karl Huysmans den Verfall als aesthetische Erfahrung und die Kuenstlichkeit als hoehere Form des Schoenen. Der Dekadent kultiviert die Erschoepfung, die Uebersaettigung und die exquisite Empfindsamkeit als Zeichen einer ueberreifen Kultur.\n\nFriedrich Nietzsche analysierte die Dekadenz als philosophisches Phaenomen mit groesster Schaerfe. Fuer ihn war die Dekadenz nicht einfach ein aesthetischer Stil, sondern Ausdruck eines fundamentalen Willens zum Niedergang – eines Lebensinstinkts, der sich gegen sich selbst wendet. Die christliche Moral, die Demokratie und der Sozialismus waren fuer Nietzsche Symptome einer dekadenten Kultur, die die Schwaeche verherrlicht und die Staerke verleumdet.\n\nDer Dekadentismus hat nachhaltige Spuren in der europaeischen Kulturgeschichte hinterlassen. Oscar Wildes Aesthetizismus, Stefan Georges Dichtung und Thomas Manns „Buddenbrooks“ verarbeiten dekadente Motive. Philosophisch wirkt der Dekadentismus als Herausforderung an jeden naiven Fortschrittsglauben und erinnert daran, dass kulturelle Hoechstleistungen und zivilisatorischer Verfall eng miteinander verbunden sein koennen.",
+    "kernthesen": [
+      "Kultureller Verfall kann eine aesthetische Qualitaet von hoechster Raffinesse besitzen.",
+      "Die Kuenstlichkeit ist dem Natuerlichen aesthetisch ueberlegen.",
+      "Ueberreife und Erschoepfung einer Zivilisation bringen die feinsten kulturellen Erzeugnisse hervor.",
+      "Der Fortschrittsglaube der Moderne verkennt die zyklische Natur kultureller Entwicklung.",
+      "Dekadenz ist Ausdruck eines Lebenswillens, der sich gegen sich selbst wendet."
+    ],
+    "entstehung": "Der Dekadentismus entstand in den 1880er Jahren in Frankreich als literarische und philosophische Bewegung. Baudelaires „Blumen des Boesen“ (1857) und Huysmans' „Gegen den Strich“ (1884) gelten als Gruendungstexte. Nietzsche erhob die Dekadenz-Diagnose zum philosophischen Programm.",
+    "kritik": "Kritiker werfen dem Dekadentismus vor, dass er den gesellschaftlichen Verfall verherrlicht statt ihn zu bekaempfen und damit eine elitaere, sozial verantwortungslose Haltung einnimmt. Zudem wird bemaengelt, dass die Feier des Verfalls in politischen Konservatismus oder Nihilismus muenden kann."
+  }
 }

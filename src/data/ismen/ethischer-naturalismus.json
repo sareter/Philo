@@ -11,13 +11,44 @@
     "Tugend ist die Entfaltung spezifisch menschlicher Fähigkeiten",
     "Moralisches Wissen ist prinzipiell auf dem gleichen Wege wie Naturwissen zugänglich"
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Der ethische Naturalismus hat seine Wurzeln in der aristotelischen Tugendethik der Antike und erlebte im 20. Jahrhundert eine Wiederbelebung durch die Arbeiten von Philippa Foot, Alasdair MacIntyre und anderen Vertretern der Neo-Aristotelischen Ethik.",
   "kritik": "Kritiker verweisen auf den naturalistischen Fehlschluss: Aus der Beschreibung dessen, was ist, kann nicht geschlossen werden, was sein soll. Zudem wird die Frage gestellt, wessen Natur als Maßstab dienen soll und ob der Begriff einer menschlichen Natur nicht selbst kulturell konstruiert ist.",
-  "verwandteIsmen": ["naturalistische-erkenntnistheorie", "ethischer-non-naturalismus", "care-ethik"],
+  "verwandteIsmen": [
+    "naturalistische-erkenntnistheorie",
+    "ethischer-non-naturalismus",
+    "care-ethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Nikomachische Ethik", "autor": "Aristoteles", "jahr": "-335"},
-    {"titel": "Die Natur des Guten", "autor": "Philippa Foot", "jahr": "2001"},
-    {"titel": "Der Verlust der Tugend", "autor": "Alasdair MacIntyre", "jahr": "1981"}
-  ]
+    {
+      "titel": "Nikomachische Ethik",
+      "autor": "Aristoteles",
+      "jahr": "-335"
+    },
+    {
+      "titel": "Die Natur des Guten",
+      "autor": "Philippa Foot",
+      "jahr": "2001"
+    },
+    {
+      "titel": "Der Verlust der Tugend",
+      "autor": "Alasdair MacIntyre",
+      "jahr": "1981"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der ethische Naturalismus leitet moralische Normen aus der Natur des Menschen ab.",
+    "ausfuehrlicheBeschreibung": "Der ethische Naturalismus behauptet, dass moralische Eigenschaften natuerliche Eigenschaften sind und dass moralisches Wissen auf dem gleichen Wege gewonnen werden kann wie Wissen ueber die Natur. Was gut ist fuer den Menschen, laesst sich aus seiner Natur – seinen natuerlichen Beduerfnissen, Faehigkeiten und Zwecken – ableiten.\n\nAristoteles legte die philosophische Grundlage fuer den ethischen Naturalismus mit seiner Tugendethik: Das Gute fuer den Menschen besteht in der Verwirklichung seiner natuerlichen Anlagen, insbesondere der Vernunft. Ein gutes Leben ist ein Leben, in dem die spezifisch menschlichen Faehigkeiten zur Entfaltung kommen – ein Leben der Tugend, der Freundschaft und der theoretischen Betrachtung. Die Natur des Menschen gibt den Massstab fuer die Ethik vor.\n\nDer ethische Naturalismus erlebte im 20. Jahrhundert eine Renaissance durch die Wiederbelebung der aristotelischen Tugendethik. Philosophen wie Philippa Foot und Alasdair MacIntyre argumentierten, dass moralische Bewertungen nicht wesensverschieden von Bewertungen in der Biologie sind: So wie eine gute Eiche diejenige ist, die ihre natuerlichen Funktionen gut erfuellt, ist ein guter Mensch derjenige, der seine natuerlichen Anlagen im Rahmen einer Gemeinschaft verwirklicht.",
+    "kernthesen": [
+      "Moralische Normen lassen sich aus der Natur des Menschen ableiten",
+      "Das Gute fuer den Menschen besteht in der Verwirklichung seiner natuerlichen Anlagen",
+      "Moralische Eigenschaften sind natuerliche Eigenschaften",
+      "Tugend ist die Entfaltung spezifisch menschlicher Faehigkeiten",
+      "Moralisches Wissen ist prinzipiell auf dem gleichen Wege wie Naturwissen zugaenglich"
+    ],
+    "entstehung": "Der ethische Naturalismus hat seine Wurzeln in der aristotelischen Tugendethik der Antike und erlebte im 20. Jahrhundert eine Wiederbelebung durch die Arbeiten von Philippa Foot, Alasdair MacIntyre und anderen Vertretern der Neo-Aristotelischen Ethik.",
+    "kritik": "Kritiker verweisen auf den naturalistischen Fehlschluss: Aus der Beschreibung dessen, was ist, kann nicht geschlossen werden, was sein soll. Zudem wird die Frage gestellt, wessen Natur als Massstab dienen soll und ob der Begriff einer menschlichen Natur nicht selbst kulturell konstruiert ist."
+  }
 }

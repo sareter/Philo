@@ -11,13 +11,43 @@
     "Ein Erkennender muss nicht wissen, warum sein Erkenntnisprozess zuverlässig ist, um Wissen zu haben.",
     "Wissenschaftliche Methoden sind paradigmatische Beispiele für zuverlässige Erkenntnisprozesse."
   ],
-  "hauptvertreter": ["karl-popper"],
+  "hauptvertreter": [
+    "karl-popper"
+  ],
   "entstehung": "Der Reliabilismus wurde in den 1970er Jahren von Alvin Goldman als Alternative zur traditionellen Erkenntnistheorie entwickelt. Er reagierte auf die durch Gettier-Fälle ausgelöste Krise der klassischen Wissensdefinition und griff methodologische Einsichten des kritischen Rationalismus auf.",
   "kritik": "Der Reliabilismus sieht sich dem Generalitätsproblem ausgesetzt: Es ist unklar, auf welcher Abstraktionsebene ein Erkenntnisprozess beschrieben werden soll, um seine Zuverlässigkeit zu beurteilen. Zudem erscheint es kontraintuitiv, dass jemand Wissen besitzen kann, ohne Gründe für seine Überzeugung angeben zu können.",
-  "verwandteIsmen": ["empirismus", "naturalismus"],
+  "verwandteIsmen": [
+    "empirismus",
+    "naturalismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
-    {"titel": "What is Justified Belief?", "autor": "Alvin Goldman", "jahr": "1979"},
-    {"titel": "Epistemology and Cognition", "autor": "Alvin Goldman", "jahr": "1986"}
-  ]
+    {
+      "titel": "Die Logik der Forschung",
+      "autor": "Karl Popper",
+      "jahr": "1934"
+    },
+    {
+      "titel": "What is Justified Belief?",
+      "autor": "Alvin Goldman",
+      "jahr": "1979"
+    },
+    {
+      "titel": "Epistemology and Cognition",
+      "autor": "Alvin Goldman",
+      "jahr": "1986"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Reliabilismus ist eine erkenntnistheoretische Position, die Wissen als wahre Ueberzeugung definiert, die durch einen zuverlaessigen kognitiven Prozess erzeugt wurde.",
+    "ausfuehrlicheBeschreibung": "Der Reliabilismus stellt eine Alternative zur traditionellen Erkenntnistheorie dar, die Wissen als gerechtfertigte wahre Meinung definiert. Anstatt nach subjektiven Rechtfertigungsgruenden zu fragen, richtet der Reliabilismus den Blick auf die Zuverlaessigkeit der kognitiven Prozesse, die zu einer Ueberzeugung gefuehrt haben. Eine Ueberzeugung gilt als Wissen, wenn sie wahr ist und durch einen Prozess erzeugt wurde, der in der Regel wahre Ueberzeugungen hervorbringt.\n\nDiese externalistiche Konzeption der Erkenntnis knuepft an Poppers kritischen Rationalismus an, insofern beide die Bedeutung zuverlaessiger Methoden fuer die Wahrheitsfindung betonen. Popper betonte, dass wissenschaftliche Methoden sich durch ihre Faehigkeit auszeichnen, falsche Theorien zu eliminieren und damit die Wahrheitsnaehe unserer Ueberzeugungen zu erhoehen. Der Reliabilismus uebertraegt diesen Grundgedanken auf die allgemeine Erkenntnistheorie.\n\nAlvin Goldman formulierte in den 1970er und 1980er Jahren die einflussreichste Version des Reliabilismus. Die Position hat sich als fruchtbar erwiesen, um verschiedene erkenntnistheoretische Probleme zu loesen, stoesst aber auch auf Schwierigkeiten. Das Generalitaetsproblem – die Frage, auf welcher Beschreibungsebene ein Prozess als zuverlaessig oder unzuverlaessig beurteilt werden soll – bleibt eine der groessten Herausforderungen fuer den Reliabilismus.",
+    "kernthesen": [
+      "Wissen ist wahre Ueberzeugung, die durch einen zuverlaessigen kognitiven Prozess erzeugt wurde.",
+      "Die Zuverlaessigkeit eines Erkenntnisprozesses bemisst sich an seiner Tendenz, wahre Ueberzeugungen zu erzeugen.",
+      "Rechtfertigung ist eine externe Eigenschaft des Erkenntnisprozesses, nicht ein subjektives Erlebnis des Erkennenden.",
+      "Ein Erkennender muss nicht wissen, warum sein Erkenntnisprozess zuverlaessig ist, um Wissen zu haben.",
+      "Wissenschaftliche Methoden sind paradigmatische Beispiele fuer zuverlaessige Erkenntnisprozesse."
+    ],
+    "entstehung": "Der Reliabilismus wurde in den 1970er Jahren von Alvin Goldman als Alternative zur traditionellen Erkenntnistheorie entwickelt. Er reagierte auf die durch Gettier-Faelle ausgeloeste Krise der klassischen Wissensdefinition und griff methodologische Einsichten des kritischen Rationalismus auf.",
+    "kritik": "Der Reliabilismus sieht sich dem Generalitaetsproblem ausgesetzt: Es ist unklar, auf welcher Abstraktionsebene ein Erkenntnisprozess beschrieben werden soll, um seine Zuverlaessigkeit zu beurteilen. Zudem erscheint es kontraintuitiv, dass jemand Wissen besitzen kann, ohne Gruende fuer seine Ueberzeugung angeben zu koennen."
+  }
 }

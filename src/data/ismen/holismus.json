@@ -19,5 +19,18 @@
     {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
     {"titel": "Holism and Evolution", "autor": "Jan Christiaan Smuts", "jahr": "1926"},
     {"titel": "Zwei Dogmen des Empirismus", "autor": "Willard Van Orman Quine", "jahr": "1951"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Holismus heisst: Das Ganze ist mehr als die Summe seiner Teile. Man kann viele Dinge nicht verstehen, indem man sie einfach auseinandernimmt.",
+    "ausfuehrlicheBeschreibung": "Stell dir eine Band vor. Jeder Musiker fuer sich klingt gut, aber das Besondere ist der Sound, den sie zusammen machen. Diesen Sound gibt es nur, wenn alle zusammenspielen. Genau das meint der Holismus: Es gibt Eigenschaften, die nur dem Ganzen gehoeren und die verschwinden, wenn man die Teile einzeln betrachtet.\n\nDas Prinzip gilt in vielen Bereichen. In der Sprache zum Beispiel: Ein Wort bekommt seine Bedeutung erst im Zusammenhang. Das Wort Bank bedeutet allein nichts Eindeutiges. Erst im Satz wird klar, ob es um ein Moebelstueck oder ein Geldinstitut geht. Wittgenstein hat das Sprachspiel genannt. In der Oekologie ist es aehnlich: Ein Oekosystem ist mehr als eine Sammlung einzelner Tiere und Pflanzen.\n\nDer Holismus ist eine Gegenbewegung zum Ansatz, alles in seine Einzelteile zu zerlegen. In der Medizin zum Beispiel schaut eine holistische Sichtweise nicht nur auf ein einzelnes Symptom, sondern auf den ganzen Menschen. Kritiker sagen allerdings, dass gerade das Zerlegen in Einzelteile in der Wissenschaft sehr erfolgreich war und der Holismus manchmal als Ausrede dient, um sich einer genauen Analyse zu entziehen.",
+    "kernthesen": [
+      "Das Ganze hat Eigenschaften, die seine Einzelteile allein nicht haben.",
+      "Woerter bekommen ihre Bedeutung erst im Zusammenhang, nicht isoliert.",
+      "Wenn man etwas in seine Teile zerlegt, gehen wichtige Eigenschaften verloren.",
+      "Komplexe Systeme wie Oekosysteme oder Gesellschaften kann man nicht nur durch ihre Einzelteile erklaeren.",
+      "Alles Wissen haengt zusammen wie ein Netz, kein Satz steht ganz fuer sich allein."
+    ],
+    "entstehung": "Die Grundidee geht bis auf Aristoteles zurueck, der schon sagte, das Ganze sei mehr als die Summe seiner Teile. Den Begriff Holismus hat Jan Smuts 1926 eingefuehrt. In der Sprachphilosophie haben Wittgenstein und Quine im 20. Jahrhundert holistische Ideen weiterentwickelt.",
+    "kritik": "Kritiker sagen, der Holismus unterschaetzt, wie erfolgreich die Wissenschaft mit der Zerlegung in Einzelteile ist. Ausserdem bleibt oft unklar, was genau die besonderen Eigenschaften des Ganzen eigentlich sind. Manchmal wirkt der Holismus wie eine Schutzbehauptung, um jede kritische Analyse abzublocken."
+  }
 }

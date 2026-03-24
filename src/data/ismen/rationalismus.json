@@ -11,14 +11,50 @@
     "Die mathematische Methode ist das Vorbild für alle Erkenntnis.",
     "Die Wirklichkeit ist rational strukturiert und kann durch die Vernunft vollständig begriffen werden."
   ],
-  "hauptvertreter": ["platon", "immanuel-kant"],
+  "hauptvertreter": [
+    "platon",
+    "immanuel-kant"
+  ],
   "entstehung": "Der philosophische Rationalismus hat Vorläufer in Platons Ideenlehre und der mittelalterlichen Scholastik, entstand aber als eigenständige Strömung im 17. Jahrhundert mit René Descartes. Die Erfindung der analytischen Geometrie und die Fortschritte der Mathematik stärkten das Vertrauen in die deduktive Methode. Descartes, Spinoza und Leibniz – die drei großen Rationalisten des 17. Jahrhunderts – entwickelten umfassende philosophische Systeme, die die Vernunft als Grundlage aller Erkenntnis betrachteten.",
   "kritik": "Der Empirismus formulierte die schärfste Kritik am Rationalismus. John Locke bestritt die Existenz angeborener Ideen und argumentierte, der Geist sei bei der Geburt ein unbeschriebenes Blatt (tabula rasa). David Hume zeigte, dass viele vermeintliche Vernunftwahrheiten, wie das Kausalitätsprinzip, aus Gewohnheit und nicht aus reiner Vernunft stammen. Kant kritisierte den Rationalismus dafür, dass er die Grenzen der reinen Vernunft überschreite und metaphysische Fragen zu beantworten versuche, die jenseits möglicher Erfahrung liegen. Pragmatisten wenden ein, dass rein rationale Systeme ohne empirische Überprüfung zu Luftschlössern werden. Postmoderne Denker kritisieren den universalen Vernunftanspruch des Rationalismus als eurozentrisches Machtinstrument.",
-  "verwandteIsmen": ["idealismus", "platonismus", "dualismus"],
+  "verwandteIsmen": [
+    "idealismus",
+    "platonismus",
+    "dualismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Meditationes de prima philosophia", "autor": "René Descartes", "jahr": "1641" },
-    { "titel": "Ethica ordine geometrico demonstrata", "autor": "Baruch de Spinoza", "jahr": "1677" },
-    { "titel": "Monadologie", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1714" },
-    { "titel": "Discours de la méthode", "autor": "René Descartes", "jahr": "1637" }
-  ]
+    {
+      "titel": "Meditationes de prima philosophia",
+      "autor": "René Descartes",
+      "jahr": "1641"
+    },
+    {
+      "titel": "Ethica ordine geometrico demonstrata",
+      "autor": "Baruch de Spinoza",
+      "jahr": "1677"
+    },
+    {
+      "titel": "Monadologie",
+      "autor": "Gottfried Wilhelm Leibniz",
+      "jahr": "1714"
+    },
+    {
+      "titel": "Discours de la méthode",
+      "autor": "René Descartes",
+      "jahr": "1637"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Rationalismus ist die erkenntnistheoretische Position, dass die Vernunft die primaere oder sogar einzige Quelle sicherer Erkenntnis ist.",
+    "ausfuehrlicheBeschreibung": "Der Rationalismus ist eine der beiden grossen erkenntnistheoretischen Traditionen der neuzeitlichen Philosophie und steht in einem produktiven Spannungsverhaeltnis zum Empirismus. Rationalisten behaupten, dass die Vernunft (ratio) die fundamentale Quelle der Erkenntnis ist und dass bestimmte Wahrheiten unabhaengig von der Sinneserfahrung erkannt werden koennen.\n\nRené Descartes (1596-1650) gilt als Vater des modernen Rationalismus. In seinen Meditationes de prima philosophia unterzieht er alle bisherigen Ueberzeugungen einem radikalen methodischen Zweifel. An allem laesst sich zweifeln – an den Sinneswahrnehmungen, an der Existenz der Aussenwelt, selbst an mathematischen Wahrheiten. Nur eine Gewissheit widersteht dem Zweifel: Cogito ergo sum – Ich denke, also bin ich. Von diesem unbezweifelbaren Ausgangspunkt aus versucht Descartes, die Existenz Gottes und der Aussenwelt rational zu beweisen. Er vertritt die Lehre von den eingeborenen Ideen (ideae innatae), die dem Geist von Natur aus eingepraegt sind, darunter die Idee Gottes und die Grundwahrheiten der Mathematik.\n\nBaruch de Spinoza (1632-1677) radikalisierte den cartesischen Rationalismus in seiner Ethik, die er more geometrico – nach geometrischer Methode – aufbaute. Spinoza identifiziert Gott mit der Natur (Deus sive Natura) und argumentiert, dass es nur eine einzige Substanz gibt, die unendlich viele Attribute besitzt, von denen wir zwei kennen: Denken und Ausdehnung. Alles geschieht mit logischer Notwendigkeit, und wahre Erkenntnis besteht im Begreifen dieser Notwendigkeit sub specie aeternitatis – unter dem Gesichtspunkt der Ewigkeit.",
+    "kernthesen": [
+      "Die Vernunft ist die primaere und zuverlaessigste Quelle der Erkenntnis.",
+      "Es gibt angeborene Ideen, die dem Geist unabhaengig von der Erfahrung eingepraegt sind.",
+      "Sichere Erkenntnis wird durch deduktive Schlussfolgerung aus selbstevidenten Prinzipien gewonnen.",
+      "Die mathematische Methode ist das Vorbild fuer alle Erkenntnis.",
+      "Die Wirklichkeit ist rational strukturiert und kann durch die Vernunft vollstaendig begriffen werden."
+    ],
+    "entstehung": "Der philosophische Rationalismus hat Vorlaeufer in Platons Ideenlehre und der mittelalterlichen Scholastik, entstand aber als eigenstaendige Stroemung im 17. Jahrhundert mit René Descartes. Die Erfindung der analytischen Geometrie und die Fortschritte der Mathematik staerkten das Vertrauen in die deduktive Methode. Descartes, Spinoza und Leibniz – die drei grossen Rationalisten des 17. Jahrhunderts – entwickelten umfassende philosophische Systeme, die die Vernunft als Grundlage aller Erkenntnis betrachteten.",
+    "kritik": "Der Empirismus formulierte die schaerfste Kritik am Rationalismus. John Locke bestritt die Existenz angeborener Ideen und argumentierte, der Geist sei bei der Geburt ein unbeschriebenes Blatt (tabula rasa). David Hume zeigte, dass viele vermeintliche Vernunftwahrheiten, wie das Kausalitaetsprinzip, aus Gewohnheit und nicht aus reiner Vernunft stammen."
+  }
 }

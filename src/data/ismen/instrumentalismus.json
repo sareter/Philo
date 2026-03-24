@@ -20,5 +20,18 @@
     { "titel": "La théorie physique: son objet et sa structure", "autor": "Pierre Duhem", "jahr": "1906" },
     { "titel": "The Scientific Image", "autor": "Bas van Fraassen", "jahr": "1980" },
     { "titel": "Die Analyse der Empfindungen", "autor": "Ernst Mach", "jahr": "1886" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Instrumentalismus sagt: Wissenschaftliche Theorien muessen nicht wahr sein. Es reicht, wenn sie funktionieren und nuetzliche Vorhersagen machen. Theorien sind Werkzeuge, keine Abbilder der Wirklichkeit.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du benutzt eine App, die dir sagt, wann der naechste Bus kommt. Du brauchst nicht zu wissen, wie genau der Algorithmus dahinter funktioniert. Hauptsache, die Vorhersage stimmt. Genau so denkt der Instrumentalismus ueber wissenschaftliche Theorien: Es ist nicht so wichtig, ob Elektronen oder Gravitationsfelder wirklich existieren. Wichtig ist, dass Theorien, die diese Begriffe benutzen, zuverlaessige Vorhersagen machen.\n\nJohn Dewey, ein amerikanischer Philosoph, hat das auf die gesamte Erkenntnis ausgedehnt. Fuer ihn sind Ideen grundsaetzlich Werkzeuge zur Problemloesung. Eine Idee ist gut, wenn sie hilft, ein Problem zu loesen, nicht wenn sie irgendeine abstrakte Wahrheit widerspiegelt. Das passt gut zum Pragmatismus, der fragt: Was bringt es mir in der Praxis?\n\nBas van Fraassen hat das in der Wissenschaftsphilosophie weitergedacht. Er sagt: Das Ziel der Wissenschaft ist nicht Wahrheit, sondern empirische Angemessenheit. Das heisst, eine Theorie muss korrekt vorhersagen, was wir beobachten koennen. Ob ihre Aussagen ueber unsichtbare Teilchen wahr sind, koennen und muessen wir nicht wissen.",
+    "kernthesen": [
+      "Wissenschaftliche Theorien sind Werkzeuge, nicht Abbilder der Wirklichkeit.",
+      "Begriffe wie Elektron oder Gen bezeichnen nicht unbedingt etwas, das wirklich existiert, sondern sind nuetzliche Hilfsbegriffe.",
+      "Eine Theorie ist gut, wenn sie funktioniert und nuetzlich ist, nicht weil sie wahr ist.",
+      "Ob unsichtbare Dinge wirklich existieren, ist fuer die Wissenschaft eigentlich egal.",
+      "Wissenschaftlicher Fortschritt heisst: bessere Problemloesung, nicht naeher an der Wahrheit."
+    ],
+    "entstehung": "Die Idee ist alt: Schon im Mittelalter wurden Planetenmodelle als reine Rechenwerkzeuge verstanden. Um 1900 haben Ernst Mach und Pierre Duhem instrumentalistische Ideen in der Physik entwickelt. John Dewey hat daraus eine ganze Erkenntnistheorie gemacht, und im spaeten 20. Jahrhundert hat Bas van Fraassen eine moderne Version formuliert.",
+    "kritik": "Kritiker fragen: Wenn Theorien nicht wahr sind, warum funktionieren dann Technologien, die auf ihnen basieren? Ausserdem ist die Grenze zwischen sichtbar und unsichtbar willkuerlich. Bakterien waren frueher unsichtbar und sind es heute nicht mehr. Und Popper meinte, der Instrumentalismus verrrate das eigentliche Ziel der Wissenschaft: die Suche nach Wahrheit."
+  }
 }

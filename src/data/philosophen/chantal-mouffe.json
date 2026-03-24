@@ -18,7 +18,10 @@
   },
   "epoche": "Gegenwart",
   "region": "Europa",
-  "hauptstroemungen": ["Politische Philosophie", "Poststrukturalismus"],
+  "hauptstroemungen": [
+    "Politische Philosophie",
+    "Poststrukturalismus"
+  ],
   "kurzbeschreibung": "Chantal Mouffe ist eine belgische politische Philosophin, die für ihre Theorie der radikalen Demokratie und des agonistischen Pluralismus bekannt ist. Gemeinsam mit Ernesto Laclau entwickelte sie eine postmarxistische Hegemonietheorie, die den politischen Konflikt als konstitutiv für die Demokratie begreift. Ihr Denken richtet sich gegen den liberalen Konsensualismus und betont die Unvermeidlichkeit des Antagonismus in der Politik.",
   "biografie": {
     "fruehesLeben": "Chantal Mouffe wurde 1943 in Charleroi, Belgien, geboren und studierte an den Universitäten Löwen, Paris und Essex. In Paris studierte sie bei Louis Althusser, dessen strukturaler Marxismus ihr frühes Denken prägte. An der University of Essex lernte sie Ernesto Laclau kennen, mit dem sie eine lebenslange intellektuelle Partnerschaft einging.",
@@ -81,6 +84,64 @@
       "quelle": "Über das Politische"
     }
   ],
-  "verwandtePhilosophen": ["jacques-derrida", "michel-foucault", "michael-walzer", "carl-schmitt"],
-  "verwandteIsmen": ["politische-philosophie", "poststrukturalismus"]
+  "verwandtePhilosophen": [
+    "jacques-derrida",
+    "michel-foucault",
+    "michael-walzer",
+    "carl-schmitt"
+  ],
+  "verwandteIsmen": [
+    "politische-philosophie",
+    "poststrukturalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Chantal Mouffe ist eine belgische politische Philosophin, die fuer ihre Theorie der radikalen Demokratie und des agonistischen Pluralismus bekannt ist. Gemeinsam mit Ernesto Laclau entwickelte sie eine postmarxistische Hegemonietheorie, die den politischen Konflikt als konstitutiv fuer die Demokratie begreift. Ihr Denken richtet sich gegen den liberalen Konsensualismus und betont die Unvermeidlichkeit des Antagonismus in der Politik.",
+    "biografie": {
+      "fruehesLeben": "Chantal Mouffe wurde 1943 in Charleroi, Belgien, geboren und studierte an den Universitaeten Loewen, Paris und Essex. In Paris studierte sie bei Louis Althusser, dessen strukturaler Marxismus ihr fruehes Denken praegte. An der University of Essex lernte sie Ernesto Laclau kennen, mit dem sie eine lebenslange intellektuelle Partnerschaft einging.",
+      "schaffen": "Gemeinsam mit Laclau veroeffentlichte Mouffe 1985 'Hegemonie und radikale Demokratie', das zu einem Gruendungstext der postmarxistischen Theorie wurde. In ihren eigenen Werken entwickelte sie die Theorie des agonistischen Pluralismus, die den Konflikt als produktives Element der Demokratie versteht. Sie lehrt an der University of Westminster in London.",
+      "spaetesLeben": "Mouffe hat ihr Konzept des Agonismus auf aktuelle politische Herausforderungen wie den Aufstieg des Populismus, die Krise der Linken und die Grenzen des Neoliberalismus angewendet. Ihr Buch 'Fuer einen linken Populismus' (2018) wurde breit rezipiert. Sie bleibt eine der einflussreichsten politischen Theoretikerinnen der Gegenwart.",
+      "tod": "Chantal Mouffe lebt und arbeitet in London. Sie setzt ihre Lehrtaetigkeit an der University of Westminster fort und ist eine gefragte Rednerin und Kommentatorin politischer Entwicklungen.",
+      "nachwirkung": "Mouffes Theorie des agonistischen Pluralismus hat die politische Theorie und die Demokratieforschung nachhaltig beeinflusst. Ihre Kritik des liberalen Konsensualismus hat die Debatte ueber das Wesen der Demokratie veraendert. Ihr Konzept des linken Populismus beeinflusst politische Bewegungen weltweit."
+    },
+    "kernideen": [
+      {
+        "titel": "Agonistischer Pluralismus",
+        "beschreibung": "Politik ist wesentlich durch Konflikt gekennzeichnet. Der Versuch, einen rationalen Konsens zu erzwingen, verdraengt den Konflikt nur und fuehrt zu seinem Ausbruch in destruktiver Form. Die Aufgabe der Demokratie ist es, Antagonismus (Feindschaft) in Agonismus (Gegnerschaft) zu verwandeln."
+      },
+      {
+        "titel": "Hegemonietheorie",
+        "beschreibung": "Jede gesellschaftliche Ordnung ist das Ergebnis hegemonialer Praktiken – der Durchsetzung einer bestimmten Deutung der Welt als 'natuerlich' oder 'vernuenftig'. Hegemonien koennen und muessen herausgefordert werden, um demokratische Politik zu ermoeglichen."
+      },
+      {
+        "titel": "Kritik des liberalen Konsensualismus",
+        "beschreibung": "Der Liberalismus versucht, Politik auf rationale Deliberation und Konsensbildung zu reduzieren. Dies verkennt die fundamentale Rolle von Leidenschaften, Identitaeten und Machtverhaeltnissen in der Politik. Eine Politik ohne Leidenschaft und Konflikt ist eine Politik ohne Demokratie."
+      },
+      {
+        "titel": "Linker Populismus",
+        "beschreibung": "Angesichts der Krise des Neoliberalismus braucht die Linke eine populistische Strategie, die eine demokratische Grenze zwischen 'dem Volk' und 'der Oligarchie' zieht. Dieser linke Populismus ist die demokratische Alternative zum rechten Populismus."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Hegemonie und radikale Demokratie (mit Ernesto Laclau)",
+        "jahr": "1985",
+        "beschreibung": "Der Gruendungstext der postmarxistischen Theorie, der eine neue Hegemonietheorie auf der Grundlage von Gramsci, Derrida und Lacan entwickelt."
+      },
+      {
+        "titel": "Das demokratische Paradox (The Democratic Paradox)",
+        "jahr": "2000",
+        "beschreibung": "Eine Analyse des Spannungsverhaeltnisses zwischen Liberalismus und Demokratie, die zeigt, dass beide Traditionen in einem produktiven Widerspruch stehen."
+      },
+      {
+        "titel": "Ueber das Politische (On the Political)",
+        "jahr": "2005",
+        "beschreibung": "Eine zugaengliche Darstellung des agonistischen Pluralismus und seiner Bedeutung fuer die zeitgenoessische Politik."
+      },
+      {
+        "titel": "Fuer einen linken Populismus (For a Left Populism)",
+        "jahr": "2018",
+        "beschreibung": "Ein Plaedoyer fuer eine populistische Strategie der Linken als Antwort auf die Krise des Neoliberalismus und den Aufstieg des rechten Populismus."
+      }
+    ]
+  }
 }

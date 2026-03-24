@@ -19,5 +19,18 @@
     {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
     {"titel": "Zur Theorie der Sprechakte", "autor": "John L. Austin", "jahr": "1962"},
     {"titel": "Der Begriff des Geistes", "autor": "Gilbert Ryle", "jahr": "1949"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Ordinary Language Philosophy sagt: Viele philosophische Probleme entstehen nur, weil Woerter aus ihrem normalen Gebrauch gerissen werden. Wenn man genau hinschaut, wie Sprache im Alltag funktioniert, loesen sich viele Raetsel von selbst.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand nimmt ein ganz normales Wort wie 'wissen' oder 'Zeit' und benutzt es auf eine total seltsame Art, die kein Mensch im Alltag verwenden wuerde. Dann wundert man sich, dass ploetzlich ein riesiges philosophisches Problem entsteht. Die Ordinary Language Philosophy sagt: Das Problem liegt nicht in der Welt, sondern im Missbrauch der Sprache.\n\nWittgenstein, der wichtigste Vertreter dieser Richtung, hatte eine einfache, aber kraftvolle Idee: Die Bedeutung eines Wortes ist nichts anderes als sein Gebrauch. Es gibt keine geheime, tiefere Bedeutung hinter den Woertern. Sprache funktioniert wie ein Spiel mit Regeln, und verschiedene Situationen haben verschiedene Sprachspiele. Probleme tauchen auf, wenn man die Regeln eines Spiels auf ein anderes uebertraegt.\n\nDas bedeutet: Philosophie ist keine Suche nach verborgenen Wahrheiten hinter der Realitaet, sondern eher eine Art Therapie. Sie hilft uns zu erkennen, wo wir uns sprachlich verirrt haben. Das klingt bescheiden, aber es hat die Philosophie des 20. Jahrhunderts enorm beeinflusst.",
+    "kernthesen": [
+      "Viele philosophische Probleme entstehen, weil Woerter aus ihrem normalen Zusammenhang gerissen werden.",
+      "Die Bedeutung eines Wortes ist einfach das, wie es im Alltag verwendet wird.",
+      "Es gibt keine perfekte Sprache hinter unserer Alltagssprache.",
+      "Philosophie ist eher Therapie als Entdeckung neuer Wahrheiten.",
+      "Sprachspiele, also die verschiedenen Arten, wie wir Sprache verwenden, sind die Grundbausteine von Bedeutung."
+    ],
+    "entstehung": "Diese Richtung entstand in den 1940er und 1950er Jahren in Oxford und Cambridge. Wittgensteins 'Philosophische Untersuchungen' (1953) sind das zentrale Werk. Austin und Ryle trugen mit ihren Analysen der Alltagssprache weitere wichtige Ideen bei.",
+    "kritik": "Kritiker finden, dass die Ordinary Language Philosophy die Philosophie auf Sprachanalyse reduziert und den grossen Fragen nach Wahrheit, Moral und dem Sinn des Lebens ausweicht. Ausserdem ist fraglich, ob die Alltagssprache wirklich so zuverlaessig ist, wie diese Philosophen glauben."
+  }
 }

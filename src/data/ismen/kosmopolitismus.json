@@ -11,14 +11,51 @@
     "Weltbürgerliche Institutionen sind notwendig, um Frieden, Gerechtigkeit und Menschenrechte global zu verwirklichen",
     "Kulturelle Vielfalt ist vereinbar mit universalen moralischen Standards"
   ],
-  "hauptvertreter": ["immanuel-kant", "juergen-habermas"],
+  "hauptvertreter": [
+    "immanuel-kant",
+    "juergen-habermas"
+  ],
   "entstehung": "Der Kosmopolitismus hat seine Wurzeln in der antiken griechischen Philosophie, insbesondere bei den Kynikern und Stoikern (4.-3. Jh. v. Chr.). Diogenes von Sinope prägte den Begriff des Weltbürgers. Die Stoa – insbesondere Zenon von Kition, Chrysipp und später Seneca und Marcus Aurelius – entwickelte eine kosmopolitische Ethik auf der Grundlage der universalen Vernunft. In der Aufklärung formulierte Immanuel Kant das Weltbürgerrecht als Teil seiner Friedensschrift. Im 20. und 21. Jahrhundert erlebte der Kosmopolitismus eine Renaissance durch Autoren wie Martha Nussbaum, Thomas Pogge, Kwame Anthony Appiah und Jürgen Habermas, angeregt durch die Herausforderungen der Globalisierung.",
   "kritik": "Kommunitaristen wie Alasdair MacIntyre und Michael Walzer kritisieren den Kosmopolitismus als abstrakt und lebensfern – Menschen seien immer in konkrete Gemeinschaften eingebettet und könnten nicht von diesen Bindungen abstrahieren. Nationalisten argumentieren, dass besondere Verpflichtungen gegenüber den eigenen Mitbürgern moralisch gerechtfertigt und notwendig für funktionsfähige demokratische Gemeinwesen sind. Die Frage der institutionellen Umsetzung bleibt problematisch – ein Weltstaat birgt die Gefahr globaler Tyrannei. Postkoloniale Kritiker werfen dem Kosmopolitismus vor, westliche Werte als universal auszugeben und damit kulturellen Imperialismus zu betreiben. Die Spannung zwischen kosmopolitischen Idealen und der realpolitischen Bedeutung nationalstaatlicher Souveränität bleibt ungelöst.",
-  "verwandteIsmen": ["egalitarismus", "kontraktualismus", "kantianismus", "republikanismus"],
+  "verwandteIsmen": [
+    "egalitarismus",
+    "kontraktualismus",
+    "kantianismus",
+    "republikanismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Zum ewigen Frieden", "autor": "Immanuel Kant", "jahr": "1795" },
-    { "titel": "Patriotism and Cosmopolitanism", "autor": "Martha Nussbaum", "jahr": "1994" },
-    { "titel": "World Poverty and Human Rights", "autor": "Thomas Pogge", "jahr": "2002" },
-    { "titel": "Cosmopolitanism: Ethics in a World of Strangers", "autor": "Kwame Anthony Appiah", "jahr": "2006" }
-  ]
+    {
+      "titel": "Zum ewigen Frieden",
+      "autor": "Immanuel Kant",
+      "jahr": "1795"
+    },
+    {
+      "titel": "Patriotism and Cosmopolitanism",
+      "autor": "Martha Nussbaum",
+      "jahr": "1994"
+    },
+    {
+      "titel": "World Poverty and Human Rights",
+      "autor": "Thomas Pogge",
+      "jahr": "2002"
+    },
+    {
+      "titel": "Cosmopolitanism: Ethics in a World of Strangers",
+      "autor": "Kwame Anthony Appiah",
+      "jahr": "2006"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kosmopolitismus ist die philosophische Haltung, die den Menschen primaer als Weltbuerger begreift und universale moralische Verpflichtungen gegenueber allen Menschen betont.",
+    "ausfuehrlicheBeschreibung": "Der Kosmopolitismus (von griechisch kosmopolites – Weltbuerger) ist eine der aeltesten und zugleich aktuellsten philosophischen Traditionen. Seine Grundidee besagt, dass alle Menschen ungeachtet ihrer nationalen, ethnischen oder kulturellen Zugehoerigkeit Mitglieder einer einzigen moralischen Gemeinschaft sind und gleiche moralische Beruecksichtigung verdienen.\n\nDie Urspruenge des Kosmopolitismus liegen in der antiken griechischen Philosophie. Diogenes von Sinope, der Begruender des Kynismus, soll auf die Frage, woher er komme, geantwortet haben: 'Ich bin ein Weltbuerger.' Die Stoa entwickelte den Kosmopolitismus zu einer systematischen philosophischen Position. Die Stoiker unterschieden zwischen der lokalen Gemeinschaft (Polis) und der kosmischen Gemeinschaft aller Vernunftwesen. Marcus Aurelius schrieb als roemischer Kaiser: 'Meine Stadt und mein Vaterland ist, insofern ich Antoninus bin, Rom; insofern ich ein Mensch bin, die Welt.'\n\nImmanuel Kant formulierte in 'Zum ewigen Frieden' (1795) und in der 'Metaphysik der Sitten' ein kosmopolitisches Rechtskonzept. Das Weltbuergerrecht (ius cosmopoliticum) umfasst das Recht der universalen Hospitalitaet – das Recht jedes Menschen, nicht als Feind behandelt zu werden, wenn er das Gebiet eines anderen Staates betritt. Kant entwarf die Vision eines Voelkerbundes freier Republiken als institutionelle Verwirklichung kosmopolitischer Prinzipien.",
+    "kernthesen": [
+      "Alle Menschen sind Mitglieder einer universalen moralischen Gemeinschaft und verdienen gleiche moralische Beruecksichtigung",
+      "Nationale, ethnische und kulturelle Grenzen sind moralisch willkuerlich und begruenden keine besonderen moralischen Verpflichtungen",
+      "Es bestehen globale Gerechtigkeitspflichten, die ueber die Grenzen des eigenen Staates hinausreichen",
+      "Weltbuergerliche Institutionen sind notwendig, um Frieden, Gerechtigkeit und Menschenrechte global zu verwirklichen",
+      "Kulturelle Vielfalt ist vereinbar mit universalen moralischen Standards"
+    ],
+    "entstehung": "Der Kosmopolitismus hat seine Wurzeln in der antiken griechischen Philosophie, insbesondere bei den Kynikern und Stoikern (4.-3. Jh. v. Chr.). Diogenes von Sinope praegte den Begriff des Weltbuergers. Die Stoa – insbesondere Zenon von Kition, Chrysipp und spaeter Seneca und Marcus Aurelius – entwickelte eine kosmopolitische Ethik auf der Grundlage der universalen Vernunft. In der Aufklaerung formulierte Immanuel Kant das Weltbuergerrecht als Teil seiner Friedensschrift. Im 20. und 21.",
+    "kritik": "Kommunitaristen wie Alasdair MacIntyre und Michael Walzer kritisieren den Kosmopolitismus als abstrakt und lebensfern – Menschen seien immer in konkrete Gemeinschaften eingebettet und koennten nicht von diesen Bindungen abstrahieren. Nationalisten argumentieren, dass besondere Verpflichtungen gegenueber den eigenen Mitbuergern moralisch gerechtfertigt und notwendig fuer funktionsfaehige demokratische Gemeinwesen sind."
+  }
 }

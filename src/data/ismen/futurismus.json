@@ -11,13 +11,43 @@
     "Die Maschine ist schöner als die antike Skulptur; das Automobil ist das Kunstwerk der Moderne.",
     "Krieg und Kampf sind reinigende Kräfte, die die Dekadenz der alten Kultur beseitigen."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der Futurismus wurde 1909 durch Marinettis Futuristisches Manifest begründet, das in der Pariser Zeitung Le Figaro veröffentlicht wurde. Die Bewegung speiste sich philosophisch aus Nietzsches Lebensphilosophie und Bergsons Zeitlehre und breitete sich von Italien über ganz Europa und Russland aus.",
   "kritik": "Dem Futurismus wird vorgeworfen, dass seine Verherrlichung von Krieg, Gewalt und Zerstörung in den Faschismus mündete – Marinetti war ein Verbündeter Mussolinis. Die unkritische Technikbegeisterung übersieht die destruktiven Potenziale des technologischen Fortschritts und die Notwendigkeit ethischer Reflexion über den Einsatz von Technologie.",
-  "verwandteIsmen": ["modernismus", "transhumanismus"],
+  "verwandteIsmen": [
+    "modernismus",
+    "transhumanismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883"},
-    {"titel": "Manifest des Futurismus", "autor": "Filippo Tommaso Marinetti", "jahr": "1909"},
-    {"titel": "Die futuristische Malerei: Technisches Manifest", "autor": "Umberto Boccioni", "jahr": "1910"}
-  ]
+    {
+      "titel": "Also sprach Zarathustra",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1883"
+    },
+    {
+      "titel": "Manifest des Futurismus",
+      "autor": "Filippo Tommaso Marinetti",
+      "jahr": "1909"
+    },
+    {
+      "titel": "Die futuristische Malerei: Technisches Manifest",
+      "autor": "Umberto Boccioni",
+      "jahr": "1910"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Futurismus ist eine kuenstlerisch-philosophische Avantgardebewegung des fruehen 20.",
+    "ausfuehrlicheBeschreibung": "Der Futurismus entstand 1909 in Italien mit Filippo Tommaso Marinettis Futuristischem Manifest und breitete sich als internationale Bewegung ueber Kunst, Literatur, Musik und Architektur aus. Sein philosophischer Kern besteht in der radikalen Bejahung von Geschwindigkeit, Technologie und Wandel bei gleichzeitiger aggressiver Ablehnung aller Tradition, Geschichte und Sentimentalitaet. Die futuristische Aesthetik feiert die Schoenheit der Maschine, des Automobils und des Krieges.\n\nPhilosophisch steht der Futurismus in der Tradition von Nietzsches Bejahung des Lebens und seiner Forderung nach der Ueberwindung des Menschen. Nietzsches Verachtung fuer die Vergangenheitsfixierung der europaeischen Kultur, seine Glorifizierung der Kraft und seine Vision des Uebermenschen wurden von den Futuristen in eine aesthetisch-politische Programmatik uebersetzt. Die futuristische Begeisterung fuer Krieg und Gewalt als 'Hygiene der Welt' radikalisierte Nietzsches Bejahung des Lebenskampfes in verhaengnisvoller Weise.\n\nDer Futurismus hat das aesthetische Bewusstsein der Moderne nachhaltig veraendert, indem er die Dynamik, Simultaneitaet und Geschwindigkeit als aesthetische Kategorien etablierte. Zugleich bleibt er durch seine Verbindung mit dem italienischen Faschismus belastet. In der Gegenwart leben futuristische Impulse im Transhumanismus und in der Technikbegeisterung des Silicon Valley fort, die ebenfalls einen radikalen Bruch mit der bisherigen menschlichen Existenz durch technologische Innovation propagieren.",
+    "kernthesen": [
+      "Die Zukunft und der technologische Fortschritt sind die einzigen erstrebenswerten Werte.",
+      "Geschwindigkeit, Dynamik und Kraft sind die aesthetischen Prinzipien der modernen Welt.",
+      "Die Vergangenheit, die Tradition und das Museum muessen radikal zerstoert werden.",
+      "Die Maschine ist schoener als die antike Skulptur; das Automobil ist das Kunstwerk der Moderne.",
+      "Krieg und Kampf sind reinigende Kraefte, die die Dekadenz der alten Kultur beseitigen."
+    ],
+    "entstehung": "Der Futurismus wurde 1909 durch Marinettis Futuristisches Manifest begruendet, das in der Pariser Zeitung Le Figaro veroeffentlicht wurde. Die Bewegung speiste sich philosophisch aus Nietzsches Lebensphilosophie und Bergsons Zeitlehre und breitete sich von Italien ueber ganz Europa und Russland aus.",
+    "kritik": "Dem Futurismus wird vorgeworfen, dass seine Verherrlichung von Krieg, Gewalt und Zerstoerung in den Faschismus muendete – Marinetti war ein Verbuendeter Mussolinis. Die unkritische Technikbegeisterung uebersieht die destruktiven Potenziale des technologischen Fortschritts und die Notwendigkeit ethischer Reflexion ueber den Einsatz von Technologie."
+  }
 }

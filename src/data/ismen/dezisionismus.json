@@ -20,5 +20,18 @@
     { "titel": "Der Begriff des Politischen", "autor": "Carl Schmitt", "jahr": "1932" },
     { "titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927" },
     { "titel": "Entweder – Oder", "autor": "Søren Kierkegaard", "jahr": "1843" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Dezisionismus sagt: Am Ende beruht jede politische Ordnung auf einer Entscheidung, die sich nicht logisch begruenden laesst. Irgendwer muss einfach sagen: So machen wir das jetzt.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, es gibt eine Krise und alle Regeln funktionieren nicht mehr. Wer entscheidet dann, was passiert? Der Dezisionismus sagt: Genau in solchen Momenten zeigt sich, wer wirklich die Macht hat. Nicht Gesetze oder Verfassungen sind das Fundament einer Gesellschaft, sondern die Entscheidung von jemandem, der sagt: So wird es gemacht.\n\nDer wichtigste Vertreter war Carl Schmitt, der in den 1920er Jahren schrieb: Souveraen ist, wer ueber den Ausnahmezustand entscheidet. Damit meinte er: Die wahre Macht zeigt sich nicht im Alltag, sondern wenn alles zusammenbricht. Auch der Philosoph Heidegger betonte, dass echtes, authentisches Leben bedeutet, sich entschlossen fuer etwas zu entscheiden, statt einfach mit dem Strom zu schwimmen.\n\nDas Problem dabei: Wenn Entscheidungen keiner Begruendung beduerfen, kann das leicht dazu fuehren, dass maechtige Leute ihre Willkuer rechtfertigen. Nicht umsonst wird Schmitt kritisiert, weil seine Ideen auch dazu benutzt wurden, autoritaere Herrschaft zu legitimieren.",
+    "kernthesen": [
+      "Jede politische Ordnung basiert auf einer grundlegenden Entscheidung, die man nicht weiter begruenden kann.",
+      "Wer wirklich die Macht hat, zeigt sich erst in der Krise.",
+      "Gesetze und Normen koennen nicht alles regeln, irgendwann muss einfach entschieden werden.",
+      "Recht entsteht nicht aus Logik allein, sondern braucht eine Entscheidung als Grundlage.",
+      "Sich entschlossen zu entscheiden, ist eine Form von echtem, authentischem Leben."
+    ],
+    "entstehung": "Der Dezisionismus entstand in den 1920er Jahren in Deutschland, als die Weimarer Republik in der Krise steckte. Carl Schmitt entwickelte seine Theorie als Reaktion auf das Versagen der parlamentarischen Demokratie. Auch die Erfahrungen des Ersten Weltkriegs spielten eine grosse Rolle.",
+    "kritik": "Die groesste Gefahr des Dezisionismus: Wenn Entscheidungen keiner Begruendung beduerfen, kann das Willkuer und Diktatur rechtfertigen. Carl Schmitts eigene Naehe zum Nationalsozialismus zeigt, wie problematisch das werden kann. Ausserdem ignoriert die Theorie, dass Entscheidungen nie im luftleeren Raum fallen, sondern immer von Werten und Traditionen beeinflusst sind."
+  }
 }

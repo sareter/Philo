@@ -11,14 +11,51 @@
     "Das Individuum in seiner Einzigartigkeit und Unendlichkeit steht im Zentrum philosophischer Reflexion",
     "Kunst und Poesie sind Formen der Welterkenntnis, die über die Grenzen der Wissenschaft hinausgehen"
   ],
-  "hauptvertreter": ["arthur-schopenhauer", "georg-wilhelm-friedrich-hegel"],
+  "hauptvertreter": [
+    "arthur-schopenhauer",
+    "georg-wilhelm-friedrich-hegel"
+  ],
   "entstehung": "Der philosophische Romantizismus entstand im letzten Jahrzehnt des 18. Jahrhunderts in Deutschland, insbesondere im Jenaer Kreis. Vorläufer waren die Sturm-und-Drang-Bewegung, Johann Gottfried Herders Kulturphilosophie und die ästhetischen Schriften Schillers und Goethes. Fichtes Wissenschaftslehre mit ihrer Betonung des schöpferischen Ich lieferte wichtige philosophische Impulse. Die Frühromantik (ca. 1795-1805) umfasste Schlegel, Novalis und Schleiermacher; die Spätromantik erstreckte sich bis in die Mitte des 19. Jahrhunderts. In England trugen Dichterphilosophen wie Coleridge und Wordsworth zur Verbreitung romantischen Denkens bei. Der amerikanische Transzendentalismus (Emerson, Thoreau) stellt eine eigenständige Weiterentwicklung dar.",
   "kritik": "Hegel kritisierte die romantische Philosophie als 'schöne Seele', die sich in subjektiver Innerlichkeit verschließt und die Auseinandersetzung mit der objektiven Wirklichkeit verweigert. Die Aufklärungstradition warf der Romantik vor, Irrationalismus, Nationalismus und politische Reaktion zu fördern. Isaiah Berlin analysierte die Verbindung zwischen romantischem Denken und autoritären politischen Bewegungen. Der Vorwurf des Irrationalismus betrifft die romantische Tendenz, Gefühl und Intuition über argumentative Begründung zu stellen. Kritiker wie Jürgen Habermas sehen in der Romantik eine problematische Abkehr vom aufklärerischen Vernunftprojekt, die in moderne Formen des Antimodernismus mündet.",
-  "verwandteIsmen": ["historismus", "mystizismus", "pessimismus", "hegelianismus"],
+  "verwandteIsmen": [
+    "historismus",
+    "mystizismus",
+    "pessimismus",
+    "hegelianismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Athenäums-Fragmente", "autor": "Friedrich Schlegel", "jahr": "1798" },
-    { "titel": "Über die Religion: Reden an die Gebildeten unter ihren Verächtern", "autor": "Friedrich Schleiermacher", "jahr": "1799" },
-    { "titel": "System des transzendentalen Idealismus", "autor": "Friedrich Wilhelm Joseph Schelling", "jahr": "1800" },
-    { "titel": "Ideen zur Philosophie der Geschichte der Menschheit", "autor": "Johann Gottfried Herder", "jahr": "1784" }
-  ]
+    {
+      "titel": "Athenäums-Fragmente",
+      "autor": "Friedrich Schlegel",
+      "jahr": "1798"
+    },
+    {
+      "titel": "Über die Religion: Reden an die Gebildeten unter ihren Verächtern",
+      "autor": "Friedrich Schleiermacher",
+      "jahr": "1799"
+    },
+    {
+      "titel": "System des transzendentalen Idealismus",
+      "autor": "Friedrich Wilhelm Joseph Schelling",
+      "jahr": "1800"
+    },
+    {
+      "titel": "Ideen zur Philosophie der Geschichte der Menschheit",
+      "autor": "Johann Gottfried Herder",
+      "jahr": "1784"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der philosophische Romantizismus ist eine geistige Bewegung des spaeten 18.",
+    "ausfuehrlicheBeschreibung": "Der philosophische Romantizismus entstand als umfassende geistige Gegenbewegung zur Aufklaerung und deren Betonung von Vernunft, Mechanismus und Universalitaet. Die Romantik stellte dem aufklaererischen Ideal der rationalen Naturbeherrschung eine Philosophie entgegen, die Gefuehl, Einbildungskraft, Individualitaet und die lebendige Verbundenheit von Mensch und Natur in den Mittelpunkt rueckte.\n\nDie Fruehromantik, insbesondere der Jenaer Kreis um die Brueder Friedrich und August Wilhelm Schlegel, Novalis und Friedrich Schleiermacher, entwickelte eine Philosophie der unendlichen Reflexion und der progressiven Universalpoesie. Friedrich Schlegel formulierte das Ideal einer Vereinigung von Philosophie, Poesie und Wissenschaft. Die romantische Ironie als Bewusstsein der Unabschliessbarkeit jeder Darstellung wurde zu einem zentralen aesthetischen und philosophischen Prinzip.\n\nFriedrich Wilhelm Joseph Schelling entwickelte eine Naturphilosophie, die die Natur nicht als tote Materie, sondern als lebendigen, sich selbst organisierenden Organismus verstand. Die Natur ist 'sichtbarer Geist', der Geist 'unsichtbare Natur'. Diese Identitaetsphilosophie von Natur und Geist steht im scharfen Gegensatz zum mechanistischen Weltbild der Aufklaerung.",
+    "kernthesen": [
+      "Gefuehl, Intuition und Einbildungskraft sind ebenso wichtige Erkenntnisquellen wie die Vernunft",
+      "Die Natur ist kein mechanisches System, sondern ein lebendiger Organismus, mit dem der Mensch wesensmaessig verbunden ist",
+      "Jede Kultur, Sprache und historische Epoche hat ihren eigenen, unverwechselbaren Wert",
+      "Das Individuum in seiner Einzigartigkeit und Unendlichkeit steht im Zentrum philosophischer Reflexion",
+      "Kunst und Poesie sind Formen der Welterkenntnis, die ueber die Grenzen der Wissenschaft hinausgehen"
+    ],
+    "entstehung": "Der philosophische Romantizismus entstand im letzten Jahrzehnt des 18. Jahrhunderts in Deutschland, insbesondere im Jenaer Kreis. Vorlaeufer waren die Sturm-und-Drang-Bewegung, Johann Gottfried Herders Kulturphilosophie und die aesthetischen Schriften Schillers und Goethes. Fichtes Wissenschaftslehre mit ihrer Betonung des schoepferischen Ich lieferte wichtige philosophische Impulse. Die Fruehromantik (ca. 1795-1805) umfasste Schlegel, Novalis und Schleiermacher; die Spaetromantik erstreckte sich bis in die Mitte des 19. Jahrhunderts.",
+    "kritik": "Hegel kritisierte die romantische Philosophie als 'schoene Seele', die sich in subjektiver Innerlichkeit verschliesst und die Auseinandersetzung mit der objektiven Wirklichkeit verweigert. Die Aufklaerungstradition warf der Romantik vor, Irrationalismus, Nationalismus und politische Reaktion zu foerdern. Isaiah Berlin analysierte die Verbindung zwischen romantischem Denken und autoritaeren politischen Bewegungen."
+  }
 }

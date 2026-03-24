@@ -19,5 +19,18 @@
     {"titel": "Ein Traktat über die menschliche Natur", "autor": "David Hume", "jahr": "1739"},
     {"titel": "On the Hypothesis that Animals are Automata", "autor": "Thomas Henry Huxley", "jahr": "1874"},
     {"titel": "The Conscious Mind", "autor": "David Chalmers", "jahr": "1996"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Epiphaenomenalismus sagt: Dein Bewusstsein ist nur ein Nebenprodukt deines Gehirns. Du denkst zwar, dass deine Gedanken etwas bewirken, aber in Wirklichkeit laeuft alles rein koerperlich ab.",
+    "ausfuehrlicheBeschreibung": "Stell dir eine Dampflokomotive vor. Der Dampf steigt auf, aber er treibt die Lok nicht an, das macht die Maschine selbst. Genauso sieht der Epiphaenomenalismus das Bewusstsein: Dein Gehirn arbeitet, und dabei entstehen Gedanken und Gefuehle als Nebenprodukt. Aber diese Gedanken und Gefuehle bewegen nichts, sie sind nur Begleiterscheinungen.\n\nDas klingt verrueckt, denn du hast doch das Gefuehl, dass du dich entscheidest, den Arm zu heben, und dann hebst du ihn. Der Epiphaenomenalismus sagt: Falsch. Dein Gehirn hat laengst entschieden, den Arm zu heben. Das bewusste Gefuehl der Entscheidung kommt erst danach und ist nur eine Art Echo. Tatsaechlich gibt es neurowissenschaftliche Experimente, die zeigen, dass Gehirnaktivitaet vor der bewussten Entscheidung messbar ist.\n\nDie Konsequenzen sind krass: Wenn Bewusstsein nichts bewirkt, dann gibt es keinen freien Willen im herkoemmlichen Sinn, und Verantwortung wird fragwuerdig. Kritiker fragen deshalb: Warum sollte die Evolution ein Bewusstsein hervorgebracht haben, wenn es nutzlos ist? Und widerspricht diese Theorie nicht komplett unserer taeglichen Erfahrung?",
+    "kernthesen": [
+      "Bewusstsein ist ein echtes, aber wirkungsloses Nebenprodukt des Gehirns.",
+      "Koerperliche Prozesse verursachen Gedanken, aber Gedanken verursachen keine koerperlichen Veraenderungen.",
+      "Die physische Welt funktioniert komplett ohne Einfluss des Bewusstseins.",
+      "Das Gefuehl, bewusst zu entscheiden, ist eine Illusion.",
+      "Bewusstsein ist ein Zufallsprodukt der Gehirnkomplexitaet ohne eigene Funktion."
+    ],
+    "entstehung": "Der Epiphaenomenalismus wurde im 19. Jahrhundert von Thomas Henry Huxley formuliert. Die Idee baut auf David Humes Zweifel an der Kausalitaet auf und passte zum aufkommenden wissenschaftlichen Materialismus, der alles auf physische Ursachen zurueckfuehren wollte.",
+    "kritik": "Die groesste Kritik: Es widerspricht unserer taeglichen Erfahrung, dass Bewusstsein wirkungslos sein soll. Ausserdem ist unklar, warum die Evolution ein nutzloses Bewusstsein hervorgebracht haben sollte, denn die natuerliche Selektion behaelt nur bei, was einen Vorteil bringt."
+  }
 }

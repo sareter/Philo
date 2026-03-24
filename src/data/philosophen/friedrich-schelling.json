@@ -2,11 +2,27 @@
   "slug": "friedrich-schelling",
   "name": "Friedrich Wilhelm Joseph Schelling",
   "lebensdaten": "1775–1854",
-  "geboren": { "jahr": 1775, "ort": "Leonberg", "land": "Württemberg", "lat": 48.8014, "lng": 9.0157 },
-  "gestorben": { "jahr": 1854, "ort": "Bad Ragaz", "land": "Schweiz", "lat": 47.0067, "lng": 9.5028 },
+  "geboren": {
+    "jahr": 1775,
+    "ort": "Leonberg",
+    "land": "Württemberg",
+    "lat": 48.8014,
+    "lng": 9.0157
+  },
+  "gestorben": {
+    "jahr": 1854,
+    "ort": "Bad Ragaz",
+    "land": "Schweiz",
+    "lat": 47.0067,
+    "lng": 9.5028
+  },
   "epoche": "Aufklärung",
   "region": "Deutschland",
-  "hauptstroemungen": ["Deutscher Idealismus", "Naturphilosophie", "Identitätsphilosophie"],
+  "hauptstroemungen": [
+    "Deutscher Idealismus",
+    "Naturphilosophie",
+    "Identitätsphilosophie"
+  ],
   "kurzbeschreibung": "Friedrich Schelling war ein deutscher Philosoph des Deutschen Idealismus, der als philosophisches Wunderkind galt und bereits mit 23 Jahren eine Professur erhielt. Er durchlief mehrere Denkphasen – von der Naturphilosophie über die Identitätsphilosophie bis zur Spätphilosophie der Offenbarung. Seine Naturphilosophie stellte erstmals die Natur als eigenständiges, sich selbst organisierendes System dar und beeinflusste die Romantik nachhaltig.",
   "biografie": {
     "fruehesLeben": "Friedrich Wilhelm Joseph Schelling wurde am 27. Januar 1775 in Leonberg bei Stuttgart als Sohn eines lutherischen Pfarrers und Orientalisten geboren. Er war ein außerordentliches Wunderkind: Mit fünfzehn Jahren wurde er ins Tübinger Stift aufgenommen (zwei Jahre vor dem regulären Mindestalter), wo er zusammen mit Hölderlin und Hegel studierte. Die drei Stiftler verbanden eine intensive Freundschaft und ein gemeinsames Interesse an der Französischen Revolution und der Philosophie Kants und Fichtes. Bereits während seiner Studienzeit veröffentlichte Schelling philosophische Schriften, die Aufsehen erregten.",
@@ -30,18 +46,111 @@
     }
   ],
   "werke": [
-    { "titel": "System des transzendentalen Idealismus", "jahr": "1800", "beschreibung": "Schellings systematisches Hauptwerk der frühen Phase, das den Weg des Bewusstseins von der Natur zum Selbstbewusstsein und von dort zur Kunst nachzeichnet." },
-    { "titel": "Philosophische Untersuchungen über das Wesen der menschlichen Freiheit", "jahr": "1809", "beschreibung": "Schellings tiefgründigstes Werk, das die menschliche Freiheit als Fähigkeit zum Bösen begreift und eine dunkle Metaphysik des Willens in Gott entwickelt." },
-    { "titel": "Von der Weltseele", "jahr": "1798", "beschreibung": "Ein naturphilosophisches Werk, das die Einheit der Naturkräfte auf ein dynamisches Prinzip – die 'Weltseele' – zurückführt." },
-    { "titel": "Ideen zu einer Philosophie der Natur", "jahr": "1797", "beschreibung": "Schellings erstes großes naturphilosophisches Werk, das die Natur als produktives System begreift und den Mechanismus überwindet." },
-    { "titel": "Bruno oder über das göttliche und natürliche Prinzip der Dinge", "jahr": "1802", "beschreibung": "Ein Dialog, der die Identitätsphilosophie in Anlehnung an Giordano Bruno entwickelt." },
-    { "titel": "Philosophie der Mythologie und der Offenbarung", "jahr": "1856–1858 (posthum)", "beschreibung": "Schellings monumentales Spätwerk, das die Geschichte der Religion als Selbstentfaltung Gottes deutet." }
+    {
+      "titel": "System des transzendentalen Idealismus",
+      "jahr": "1800",
+      "beschreibung": "Schellings systematisches Hauptwerk der frühen Phase, das den Weg des Bewusstseins von der Natur zum Selbstbewusstsein und von dort zur Kunst nachzeichnet."
+    },
+    {
+      "titel": "Philosophische Untersuchungen über das Wesen der menschlichen Freiheit",
+      "jahr": "1809",
+      "beschreibung": "Schellings tiefgründigstes Werk, das die menschliche Freiheit als Fähigkeit zum Bösen begreift und eine dunkle Metaphysik des Willens in Gott entwickelt."
+    },
+    {
+      "titel": "Von der Weltseele",
+      "jahr": "1798",
+      "beschreibung": "Ein naturphilosophisches Werk, das die Einheit der Naturkräfte auf ein dynamisches Prinzip – die 'Weltseele' – zurückführt."
+    },
+    {
+      "titel": "Ideen zu einer Philosophie der Natur",
+      "jahr": "1797",
+      "beschreibung": "Schellings erstes großes naturphilosophisches Werk, das die Natur als produktives System begreift und den Mechanismus überwindet."
+    },
+    {
+      "titel": "Bruno oder über das göttliche und natürliche Prinzip der Dinge",
+      "jahr": "1802",
+      "beschreibung": "Ein Dialog, der die Identitätsphilosophie in Anlehnung an Giordano Bruno entwickelt."
+    },
+    {
+      "titel": "Philosophie der Mythologie und der Offenbarung",
+      "jahr": "1856–1858 (posthum)",
+      "beschreibung": "Schellings monumentales Spätwerk, das die Geschichte der Religion als Selbstentfaltung Gottes deutet."
+    }
   ],
   "zitate": [
-    { "text": "Die Natur ist der sichtbare Geist, der Geist die unsichtbare Natur.", "quelle": "Ideen zu einer Philosophie der Natur", "kontext": "Schellings berühmteste Formel, die die Identität von Natur und Geist ausdrückt." },
-    { "text": "Über der Natur schwebt der Geist, und im Geist ist die Natur.", "quelle": "System des transzendentalen Idealismus", "kontext": "Eine weitere Formulierung der Identitätsphilosophie, die die wechselseitige Durchdringung von Natur und Geist betont." },
-    { "text": "Das Wollen ist Ursein.", "quelle": "Philosophische Untersuchungen über das Wesen der menschlichen Freiheit", "kontext": "Schellings voluntaristische Metaphysik, die den Willen als Urgrund aller Wirklichkeit setzt – eine These, die Schopenhauer beeinflusste." }
+    {
+      "text": "Die Natur ist der sichtbare Geist, der Geist die unsichtbare Natur.",
+      "quelle": "Ideen zu einer Philosophie der Natur",
+      "kontext": "Schellings berühmteste Formel, die die Identität von Natur und Geist ausdrückt."
+    },
+    {
+      "text": "Über der Natur schwebt der Geist, und im Geist ist die Natur.",
+      "quelle": "System des transzendentalen Idealismus",
+      "kontext": "Eine weitere Formulierung der Identitätsphilosophie, die die wechselseitige Durchdringung von Natur und Geist betont."
+    },
+    {
+      "text": "Das Wollen ist Ursein.",
+      "quelle": "Philosophische Untersuchungen über das Wesen der menschlichen Freiheit",
+      "kontext": "Schellings voluntaristische Metaphysik, die den Willen als Urgrund aller Wirklichkeit setzt – eine These, die Schopenhauer beeinflusste."
+    }
   ],
-  "verwandtePhilosophen": ["johann-gottlieb-fichte", "georg-wilhelm-friedrich-hegel", "immanuel-kant", "arthur-schopenhauer", "baruch-spinoza"],
-  "verwandteIsmen": ["idealismus", "deutscher-idealismus", "romantik", "naturphilosophie"]
+  "verwandtePhilosophen": [
+    "johann-gottlieb-fichte",
+    "georg-wilhelm-friedrich-hegel",
+    "immanuel-kant",
+    "arthur-schopenhauer",
+    "baruch-spinoza"
+  ],
+  "verwandteIsmen": [
+    "idealismus",
+    "deutscher-idealismus",
+    "romantik",
+    "naturphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Friedrich Schelling war ein deutscher Philosoph des Deutschen Idealismus, der als philosophisches Wunderkind galt und bereits mit 23 Jahren eine Professur erhielt. Er durchlief mehrere Denkphasen – von der Naturphilosophie ueber die Identitaetsphilosophie bis zur Spaetphilosophie der Offenbarung. Seine Naturphilosophie stellte erstmals die Natur als eigenstaendiges, sich selbst organisierendes System dar und beeinflusste die Romantik nachhaltig.",
+    "biografie": {
+      "fruehesLeben": "Friedrich Wilhelm Joseph Schelling wurde am 27. Januar 1775 in Leonberg bei Stuttgart als Sohn eines lutherischen Pfarrers und Orientalisten geboren. Er war ein ausserordentliches Wunderkind: Mit fuenfzehn Jahren wurde er ins Tuebinger Stift aufgenommen (zwei Jahre vor dem regulaeren Mindestalter), wo er zusammen mit Hoelderlin und Hegel studierte. Die drei Stiftler verbanden eine intensive Freundschaft und ein gemeinsames Interesse an der Franzoesischen Revolution und der Philosophie Kants und Fichtes. Bereits waehrend seiner Studienzeit veroeffentlichte Schelling philosophische Schriften, die Aufsehen erregten.",
+      "schaffen": "1798, mit nur 23 Jahren, wurde Schelling auf Goethes Empfehlung als Professor nach Jena berufen, dem damaligen Zentrum der deutschen Romantik und des Idealismus. Hier entwickelte er in rascher Folge mehrere philosophische Systeme. In seiner Naturphilosophie ('Von der Weltseele', 1798; 'Erster Entwurf eines Systems der Naturphilosophie', 1799) stellte er die Natur als produktives, sich selbst organisierendes System dar – nicht als tote Materie (wie bei den Mechanisten), sondern als 'sichtbarer Geist', waehrend der Geist 'unsichtbare Natur' ist.",
+      "spaetesLeben": "1803 ging Schelling nach Wuerzburg, 1806 nach Muenchen, wo er Generalsekretaer der Akademie der Bildenden Kuenste wurde. 1841 wurde er nach Berlin berufen, um – so der ausdrueckliche Wunsch des preussischen Koenigs – die 'Drachensaat des Hegelschen Pantheismus' zu bekaempfen. Seine Berliner Vorlesungen ueber die Philosophie der Offenbarung, denen unter anderem Kierkegaard, Bakunin, Engels und Burckhardt beiwohnten, waren zunaechst eine Sensation, wurden aber bald als enttaeuschend empfunden. Schelling veroeffentlichte seine Spaetphilosophie nie.",
+      "tod": "Friedrich Schelling starb am 20. August 1854 in Bad Ragaz in der Schweiz, wo er zur Kur weilte. Er wurde auf dem Alten Friedhof in Bad Ragaz beigesetzt. Sein monumentaler philosophischer Nachlass wird bis heute in den 'Historisch-kritischen Ausgabe' ediert.",
+      "nachwirkung": "Schellings Einfluss ist vielfaeltig und oft unterschaetzt. Seine Naturphilosophie beeinflusste die romantische Naturwissenschaft und die Biologie (Hans Driesch). Seine Freiheitsschrift von 1809 wird von Heidegger als das bedeutendste Werk des Deutschen Idealismus gewuerdigt. Seine Spaetphilosophie beeinflusste Kierkegaard und den Existenzialismus. In der Gegenwart wird er von Slavoj Žižek und anderen als Denker des Unbewussten und des Irrationalen wiederentdeckt."
+    },
+    "kernideen": [
+      {
+        "titel": "Naturphilosophie",
+        "beschreibung": "Die Natur ist nicht tote Materie, sondern produktiver Geist: 'Die Natur ist der sichtbare Geist, der Geist die unsichtbare Natur.' Die Natur entwickelt sich stufenweise von der anorganischen Materie ueber das organische Leben zum Bewusstsein."
+      },
+      {
+        "titel": "Identitaetsphilosophie",
+        "beschreibung": "Natur und Geist, Subjekt und Objekt sind identisch – verschiedene Aspekte eines absoluten Grundes, der ueber die Unterscheidung von Subjekt und Objekt hinausgeht."
+      },
+      {
+        "titel": "Philosophie der Freiheit",
+        "beschreibung": "Die menschliche Freiheit ist die Faehigkeit zum Guten und zum Boesen. Das Boese hat seinen Grund in einem dunklen, irrationalen Willen (dem 'Grund in Gott'), der dem rationalen, lichten Willen vorausgeht."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "System des transzendentalen Idealismus",
+        "jahr": "1800",
+        "beschreibung": "Schellings systematisches Hauptwerk der fruehen Phase, das den Weg des Bewusstseins von der Natur zum Selbstbewusstsein und von dort zur Kunst nachzeichnet."
+      },
+      {
+        "titel": "Philosophische Untersuchungen ueber das Wesen der menschlichen Freiheit",
+        "jahr": "1809",
+        "beschreibung": "Schellings tiefgruendigstes Werk, das die menschliche Freiheit als Faehigkeit zum Boesen begreift und eine dunkle Metaphysik des Willens in Gott entwickelt."
+      },
+      {
+        "titel": "Von der Weltseele",
+        "jahr": "1798",
+        "beschreibung": "Ein naturphilosophisches Werk, das die Einheit der Naturkraefte auf ein dynamisches Prinzip – die 'Weltseele' – zurueckfuehrt."
+      },
+      {
+        "titel": "Ideen zu einer Philosophie der Natur",
+        "jahr": "1797",
+        "beschreibung": "Schellings erstes grosses naturphilosophisches Werk, das die Natur als produktives System begreift und den Mechanismus ueberwindet."
+      }
+    ]
+  }
 }

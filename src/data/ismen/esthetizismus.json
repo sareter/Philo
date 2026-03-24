@@ -20,5 +20,18 @@
     { "titel": "Briefe über die ästhetische Erziehung des Menschen", "autor": "Friedrich Schiller", "jahr": "1795" },
     { "titel": "Die Geburt der Tragödie", "autor": "Friedrich Nietzsche", "jahr": "1872" },
     { "titel": "Studies in the History of the Renaissance", "autor": "Walter Pater", "jahr": "1873" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Aesthetizismus sagt: Schoenheit ist der hoechste Wert. Kunst braucht keinen Zweck, sie muss nicht belehren oder nuetzen. Sie existiert einfach um ihrer selbst willen.",
+    "ausfuehrlicheBeschreibung": "Warum muss ein Bild eine Botschaft haben? Warum soll ein Gedicht die Welt verbessern? Der Aesthetizismus sagt: Muss es gar nicht. Kunst ist dann am besten, wenn sie einfach schoen ist, ohne irgendeinen Zweck zu verfolgen. Der Slogan dazu lautet: l'art pour l'art, also Kunst um der Kunst willen.\n\nDie Idee geht zurueck auf Kant, der sagte, echte Schoenheit geniesst man ohne Hintergedanken, einfach so. Oscar Wilde trieb das auf die Spitze: Er meinte, nicht die Kunst ahme das Leben nach, sondern das Leben ahme die Kunst nach. Und Nietzsche sah die Welt als aesthetisches Phaenomen, das nur durch Schoenheit gerechtfertigt werden kann. Das ganze eigene Leben sollte man idealerweise wie ein Kunstwerk gestalten.\n\nKritiker finden das elitaer und weltfremd. Wenn Kunst nur schoen sein soll, ignoriert sie die Probleme der echten Welt. Ausserdem fragen sie: Kann man wirklich sein Leben als Kunstwerk leben, ohne dabei andere zu uebergehen? Trotzdem hat der Aesthetizismus die Idee durchgesetzt, dass Kunst einen Eigenwert hat und sich nicht vor Moral oder Politik rechtfertigen muss.",
+    "kernthesen": [
+      "Schoenheit ist der hoechste Wert und braucht keine Rechtfertigung.",
+      "Kunst existiert um ihrer selbst willen, nicht um zu belehren oder zu nuetzen.",
+      "Die aesthetische Erfahrung ist die hoechste Form menschlicher Verwirklichung.",
+      "Das eigene Leben sollte wie ein Kunstwerk gestaltet werden.",
+      "Schoenheit und Intensitaet sind wichtiger als Moral oder Nuetzlichkeit."
+    ],
+    "entstehung": "Der Aesthetizismus begann mit Kants Analyse der Schoenheit im 18. Jahrhundert und wurde im 19. Jahrhundert zu einer kulturellen Bewegung. In Frankreich praegten Baudelaire und Mallarme die Idee der reinen Kunst, in England Oscar Wilde und Walter Pater. Nietzsche gab dem Ganzen eine philosophische Tiefe.",
+    "kritik": "Kritiker werfen dem Aesthetizismus vor, er sei elitaer und weltfremd. Wenn Kunst keinen moralischen oder politischen Zweck haben soll, wird sie zur Spielerei fuer Privilegierte. Marxisten sehen darin eine Flucht vor der Realitaet, und die Frage bleibt, ob man sein Leben als Kunstwerk leben kann, ohne dabei andere zu verletzen."
+  }
 }

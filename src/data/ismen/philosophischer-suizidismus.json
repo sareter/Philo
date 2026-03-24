@@ -11,13 +11,44 @@
     "Das Leben muss trotz seiner Sinnlosigkeit gelebt werden",
     "Die Revolte gegen das Absurde gibt dem Dasein Würde"
   ],
-  "hauptvertreter": ["albert-camus"],
+  "hauptvertreter": [
+    "albert-camus"
+  ],
   "entstehung": "Der philosophische Suizidismus wurde von Albert Camus in seinem Essay Der Mythos des Sisyphos (1942) begründet. Er entstand im Kontext des französischen Existenzialismus und der Erfahrungen des Zweiten Weltkriegs.",
   "kritik": "Kritiker werfen dem philosophischen Suizidismus vor, er romantisiere eine gefährliche Thematik und könne trotz seiner gegenteiligen Absicht als Legitimation missverstanden werden. Zudem wird die Frage aufgeworfen, ob Camus' heroische Lösung des trotzigen Weiterlebens nicht selbst eine Form der von ihm abgelehnten Illusion darstellt.",
-  "verwandteIsmen": ["absurder-heroismus", "existenzieller-nihilismus", "todesphilosophie"],
+  "verwandteIsmen": [
+    "absurder-heroismus",
+    "existenzieller-nihilismus",
+    "todesphilosophie"
+  ],
   "schluesselwerke": [
-    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
-    {"titel": "Der Fremde", "autor": "Albert Camus", "jahr": "1942"},
-    {"titel": "Die Pest", "autor": "Albert Camus", "jahr": "1947"}
-  ]
+    {
+      "titel": "Der Mythos des Sisyphos",
+      "autor": "Albert Camus",
+      "jahr": "1942"
+    },
+    {
+      "titel": "Der Fremde",
+      "autor": "Albert Camus",
+      "jahr": "1942"
+    },
+    {
+      "titel": "Die Pest",
+      "autor": "Albert Camus",
+      "jahr": "1947"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der philosophische Suizidismus behandelt die Frage des Selbstmords als das fundamentale Problem der Philosophie.",
+    "ausfuehrlicheBeschreibung": "Der philosophische Suizidismus nimmt Albert Camus' beruehmte Eroeffnung des Mythos des Sisyphos zum Ausgangspunkt: «Es gibt nur ein wirklich ernstes philosophisches Problem: den Selbstmord.» Diese Stroemung behandelt die Frage nach dem Lebenswert der Existenz nicht als psychologisches, sondern als genuin philosophisches Problem, das jeder ehrlichen Philosophie zugrunde liegen muss.\n\nCamus unterscheidet dabei zwischen dem physischen Selbstmord und dem philosophischen Selbstmord – letzterer besteht in der Flucht in troestende Illusionen, religioese Hoffnungen oder metaphysische Systeme, die das Absurde leugnen. Beide Formen des Selbstmords werden von Camus abgelehnt: Der physische, weil er die Revolte gegen das Absurde aufgibt, der philosophische, weil er die intellektuelle Ehrlichkeit verraet.\n\nDie Antwort des philosophischen Suizidismus auf seine eigene Grundfrage ist paradox: Gerade weil das Leben keinen vorgegebenen Sinn hat, muss es gelebt werden. Die bewusste Konfrontation mit dem Absurden, die Weigerung, in Illusionen zu fliehen, und das trotzige Weiterleben angesichts der Sinnlosigkeit bilden die ethische Grundhaltung dieser Philosophie.",
+    "kernthesen": [
+      "Die Frage des Selbstmords ist das fundamentale Problem der Philosophie",
+      "Physischer Selbstmord ist keine Loesung des Absurden",
+      "Philosophischer Selbstmord durch Flucht in Illusionen ist intellektuelle Unehrlichkeit",
+      "Das Leben muss trotz seiner Sinnlosigkeit gelebt werden",
+      "Die Revolte gegen das Absurde gibt dem Dasein Wuerde"
+    ],
+    "entstehung": "Der philosophische Suizidismus wurde von Albert Camus in seinem Essay Der Mythos des Sisyphos (1942) begruendet. Er entstand im Kontext des franzoesischen Existenzialismus und der Erfahrungen des Zweiten Weltkriegs.",
+    "kritik": "Kritiker werfen dem philosophischen Suizidismus vor, er romantisiere eine gefaehrliche Thematik und koenne trotz seiner gegenteiligen Absicht als Legitimation missverstanden werden. Zudem wird die Frage aufgeworfen, ob Camus' heroische Loesung des trotzigen Weiterlebens nicht selbst eine Form der von ihm abgelehnten Illusion darstellt."
+  }
 }

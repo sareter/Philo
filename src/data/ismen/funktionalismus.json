@@ -10,14 +10,49 @@
     "Mentale Zustände stehen in kausalen Beziehungen zu sensorischen Inputs, anderen mentalen Zuständen und Verhaltensoutputs",
     "Die funktionale Organisation eines Systems, nicht seine physische Zusammensetzung, bestimmt seine mentalen Eigenschaften"
   ],
-  "hauptvertreter": ["ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Der Funktionalismus entstand in den 1960er Jahren als Reaktion auf die wahrgenommenen Schwächen des Behaviorismus und der Identitätstheorie in der Philosophie des Geistes. Hilary Putnam formulierte in seinen einflussreichen Aufsätzen 'Minds and Machines' (1960) und 'The Nature of Mental States' (1967) die ersten funktionalistischen Positionen, inspiriert durch die Entwicklung der Computerwissenschaft und die Turing-Maschine als theoretisches Modell. Jerry Fodor, David Lewis und David Armstrong trugen wesentlich zur Weiterentwicklung bei. Die kognitive Revolution in der Psychologie und die Entstehung der Kognitionswissenschaft in den 1950er und 1960er Jahren bildeten den breiteren intellektuellen Kontext für die Entwicklung des Funktionalismus.",
   "kritik": "Die gewichtigsten Einwände gegen den Funktionalismus betreffen das Problem der Qualia – der subjektiven Erlebnisqualitäten. Ned Blocks Argument der abwesenden Qualia (China-Gehirn-Argument) zeigt, dass ein System die richtige funktionale Organisation haben könnte, ohne über phänomenales Bewusstsein zu verfügen. John Searles Chinesisches-Zimmer-Argument bestreitet, dass funktionale Organisation hinreichend für Verstehen und Intentionalität ist. Thomas Nagels Fledermaus-Argument verweist auf die irreduzible Subjektivität bewusster Erfahrung, die der Funktionalismus nicht einfangen kann. Frank Jacksons Wissensargument (Mary's Room) legt nahe, dass es phänomenale Tatsachen gibt, die nicht durch funktionale Beschreibungen erfasst werden. Hilary Putnam selbst wandte sich später vom Funktionalismus ab und kritisierte dessen reduktionistische Tendenzen.",
-  "verwandteIsmen": ["behaviorismus", "kognitivismus", "philosophie-des-geistes", "instrumentalismus"],
+  "verwandteIsmen": [
+    "behaviorismus",
+    "kognitivismus",
+    "philosophie-des-geistes",
+    "instrumentalismus"
+  ],
   "schluesselwerke": [
-    { "titel": "The Nature of Mental States", "autor": "Hilary Putnam", "jahr": "1967" },
-    { "titel": "The Language of Thought", "autor": "Jerry Fodor", "jahr": "1975" },
-    { "titel": "An Argument for the Identity Theory", "autor": "David Lewis", "jahr": "1966" },
-    { "titel": "Troubles with Functionalism", "autor": "Ned Block", "jahr": "1978" }
-  ]
+    {
+      "titel": "The Nature of Mental States",
+      "autor": "Hilary Putnam",
+      "jahr": "1967"
+    },
+    {
+      "titel": "The Language of Thought",
+      "autor": "Jerry Fodor",
+      "jahr": "1975"
+    },
+    {
+      "titel": "An Argument for the Identity Theory",
+      "autor": "David Lewis",
+      "jahr": "1966"
+    },
+    {
+      "titel": "Troubles with Functionalism",
+      "autor": "Ned Block",
+      "jahr": "1978"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Funktionalismus ist eine Position in der Philosophie des Geistes, die mentale Zustaende nicht durch ihre innere Beschaffenheit, sondern durch ihre funktionale Rolle definiert.",
+    "ausfuehrlicheBeschreibung": "Der Funktionalismus hat sich seit den 1960er Jahren zu einer der dominierenden Positionen in der Philosophie des Geistes entwickelt und stellt eine Alternative sowohl zum Behaviorismus als auch zur Identitaetstheorie dar. Die zentrale These des Funktionalismus besagt, dass mentale Zustaende wie Ueberzeugungen, Wuensche, Schmerz oder Freude nicht durch ihre materielle Realisierung definiert werden, sondern durch die funktionale Rolle, die sie im kognitiven System eines Organismus spielen.\n\nHilary Putnam fuehrte in den 1960er Jahren die Maschinenstaaten-Version des Funktionalismus ein, indem er mentale Zustaende mit den Zustaenden einer Turing-Maschine verglich. So wie ein und derselbe Programmzustand auf verschiedener Hardware implementiert werden kann, koennten mentale Zustaende in verschiedenen physischen Substraten realisiert sein. Diese These der multiplen Realisierbarkeit wurde zu einem Kernargument gegen die Typ-Identitaetstheorie, die mentale Zustaende mit bestimmten Gehirnzustaenden gleichsetzte.\n\nJerry Fodor entwickelte den Funktionalismus weiter, indem er die Sprache des Denkens (Language of Thought) als computationales Medium mentaler Repraesentationen postulierte. David Lewis und David Armstrong formulierten eine analytische Version des Funktionalismus, die mentale Zustaende ueber ihre kausale Rolle definiert, wie sie in unseren alltagspsychologischen Theorien beschrieben wird.",
+    "kernthesen": [
+      "Mentale Zustaende werden durch ihre funktionale Rolle im kognitiven System definiert, nicht durch ihre materielle Beschaffenheit",
+      "Multiple Realisierbarkeit: Ein und derselbe mentale Zustand kann in verschiedenen physischen Substraten implementiert sein",
+      "Mentale Zustaende stehen in kausalen Beziehungen zu sensorischen Inputs, anderen mentalen Zustaenden und Verhaltensoutputs",
+      "Die funktionale Organisation eines Systems, nicht seine physische Zusammensetzung, bestimmt seine mentalen Eigenschaften"
+    ],
+    "entstehung": "Der Funktionalismus entstand in den 1960er Jahren als Reaktion auf die wahrgenommenen Schwaechen des Behaviorismus und der Identitaetstheorie in der Philosophie des Geistes. Hilary Putnam formulierte in seinen einflussreichen Aufsaetzen 'Minds and Machines' (1960) und 'The Nature of Mental States' (1967) die ersten funktionalistischen Positionen, inspiriert durch die Entwicklung der Computerwissenschaft und die Turing-Maschine als theoretisches Modell. Jerry Fodor, David Lewis und David Armstrong trugen wesentlich zur Weiterentwicklung bei.",
+    "kritik": "Die gewichtigsten Einwaende gegen den Funktionalismus betreffen das Problem der Qualia – der subjektiven Erlebnisqualitaeten. Ned Blocks Argument der abwesenden Qualia (China-Gehirn-Argument) zeigt, dass ein System die richtige funktionale Organisation haben koennte, ohne ueber phaenomenales Bewusstsein zu verfuegen. John Searles Chinesisches-Zimmer-Argument bestreitet, dass funktionale Organisation hinreichend fuer Verstehen und Intentionalitaet ist."
+  }
 }

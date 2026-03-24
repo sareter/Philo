@@ -11,13 +11,43 @@
     "Das menschliche Leben enthält unvermeidlich mehr Leid, als gemeinhin angenommen wird.",
     "Die Menschheit sollte auf natürlichem Wege aussterben, um weiteres Leid zu vermeiden."
   ],
-  "hauptvertreter": ["arthur-schopenhauer"],
+  "hauptvertreter": [
+    "arthur-schopenhauer"
+  ],
   "entstehung": "Antinatalistische Gedanken finden sich bereits in der antiken griechischen Tragödie und im Buddhismus. Schopenhauer begründete im 19. Jahrhundert die philosophische Basis mit seiner pessimistischen Willensmetaphysik. Die systematische Ausarbeitung als eigenständige Position erfolgte jedoch erst im 21. Jahrhundert durch Philosophen wie David Benatar.",
   "kritik": "Kritiker bemängeln, dass der Antinatalism eine einseitig pessimistische Bewertung des Lebens vornimmt und positive Erfahrungen systematisch unterbewertet. Zudem führt die Position in ein praktisches Paradox, da die Vertreter des Antinatalismus selbst existieren und somit vom Wert der Existenz profitieren, den sie theoretisch verneinen.",
-  "verwandteIsmen": ["pessimismus", "nihilismus"],
+  "verwandteIsmen": [
+    "pessimismus",
+    "nihilismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
-    {"titel": "Better Never to Have Been", "autor": "David Benatar", "jahr": "2006"},
-    {"titel": "Über die Nichtigkeit des Daseins", "autor": "Arthur Schopenhauer", "jahr": "1851"}
-  ]
+    {
+      "titel": "Die Welt als Wille und Vorstellung",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1819"
+    },
+    {
+      "titel": "Better Never to Have Been",
+      "autor": "David Benatar",
+      "jahr": "2006"
+    },
+    {
+      "titel": "Über die Nichtigkeit des Daseins",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1851"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Antinatalism vertritt die philosophische Position, dass die Zeugung neuen Lebens moralisch verwerflich ist.",
+    "ausfuehrlicheBeschreibung": "Der Antinatalism ist eine philosophische Position, die die Fortpflanzung als moralisch problematisch oder sogar verwerflich betrachtet. Obwohl antinatalistische Gedanken bereits in der Antike bei Sophokles und im Buddhismus zu finden sind, wurde die Position erst in der Gegenwart systematisch ausgearbeitet. Schopenhauers pessimistische Willensmetaphysik, die das Leben als blindes Streben charakterisiert, das zwangslaeufig in Leiden muendet, bildet eine wichtige Vorlaeuferposition.\n\nDie zentrale Argumentation des Antinatalismus beruht auf einer asymmetrischen Bewertung von Freude und Leid: Waehrend die Abwesenheit von Leid immer gut ist, ist die Abwesenheit von Freude nur dann schlecht, wenn es jemanden gibt, der diese Freude vermisst. Da ein nicht geborenes Wesen niemand ist, der Freude vermissen koennte, gibt es keinen moralischen Grund zur Zeugung, wohl aber Gruende dagegen, da jedes geborene Wesen unweigerlich leiden wird.\n\nIn der gegenwaertigen Debatte wird der Antinatalism von Philosophen wie David Benatar vertreten, der in seinem einflussreichen Werk 'Better Never to Have Been' eine systematische Begruendung liefert. Die Position hat weitreichende Implikationen fuer Fragen der Reproduktionsethik, der Umweltethik und der Bevoelkerungspolitik. Sie steht in enger Verbindung zum Pessimismus Schopenhauers und zur nihilistischen Infragestellung des Wertes menschlicher Existenz.",
+    "kernthesen": [
+      "Die Zeugung neuen Lebens ist moralisch nicht zu rechtfertigen, da sie unvermeidliches Leid verursacht.",
+      "Es besteht eine fundamentale Asymmetrie zwischen der Abwesenheit von Leid (gut) und der Abwesenheit von Freude (nicht schlecht).",
+      "Kein Mensch hat seine eigene Existenz gewaehlt; die Entscheidung wird ohne Zustimmung des Betroffenen getroffen.",
+      "Das menschliche Leben enthaelt unvermeidlich mehr Leid, als gemeinhin angenommen wird.",
+      "Die Menschheit sollte auf natuerlichem Wege aussterben, um weiteres Leid zu vermeiden."
+    ],
+    "entstehung": "Antinatalistische Gedanken finden sich bereits in der antiken griechischen Tragoedie und im Buddhismus. Schopenhauer begruendete im 19. Jahrhundert die philosophische Basis mit seiner pessimistischen Willensmetaphysik. Die systematische Ausarbeitung als eigenstaendige Position erfolgte jedoch erst im 21. Jahrhundert durch Philosophen wie David Benatar.",
+    "kritik": "Kritiker bemaengeln, dass der Antinatalism eine einseitig pessimistische Bewertung des Lebens vornimmt und positive Erfahrungen systematisch unterbewertet. Zudem fuehrt die Position in ein praktisches Paradox, da die Vertreter des Antinatalismus selbst existieren und somit vom Wert der Existenz profitieren, den sie theoretisch verneinen."
+  }
 }

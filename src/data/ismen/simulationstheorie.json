@@ -19,5 +19,18 @@
     {"titel": "Are You Living in a Computer Simulation?", "autor": "Nick Bostrom", "jahr": "2003"},
     {"titel": "Der Staat (Höhlengleichnis)", "autor": "Platon", "jahr": "ca. 375 v. Chr."},
     {"titel": "Meditationen über die Grundlagen der Philosophie", "autor": "René Descartes", "jahr": "1641"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Simulationstheorie fragt, ob unsere gesamte Wirklichkeit vielleicht nur eine Art Computerspiel ist, das von einer viel weiter entwickelten Zivilisation betrieben wird.",
+    "ausfuehrlicheBeschreibung": "Kennst du den Film Matrix? Die Idee dahinter ist gar nicht so abwegig, wie sie klingt. Der Philosoph Nick Bostrom hat 2003 ein Argument aufgestellt, das zeigt: Wenn es moeglich ist, Bewusstsein am Computer zu simulieren, dann leben wir hoechstwahrscheinlich in einer solchen Simulation. Denn eine fortgeschrittene Zivilisation koennte Milliarden davon laufen lassen.\n\nDas Verrueckte ist: Diese Idee ist uralt. Schon Platon erzaehlte vom Hoehlengleichnis, wo Menschen Schatten fuer die Wirklichkeit halten. Und Descartes fragte sich, ob nicht ein boser Geist ihm alles nur vorgaukelt. Die Simulationstheorie nimmt diese alten Fragen und verpackt sie in moderne Technologie-Sprache.\n\nDie spannendste Frage dabei ist eigentlich: Wuerde es ueberhaupt einen Unterschied machen? Wenn dein Leben, deine Gefuehle und Erfahrungen sich echt anfuehlen - ist es dann nicht egal, ob im Hintergrund ein Computer laeuft? Und koenntest du es ueberhaupt jemals herausfinden?",
+    "kernthesen": [
+      "Es ist moeglich, dass unsere ganze Realitaet nur eine Computersimulation ist",
+      "Schon Platon hatte mit dem Hoehlengleichnis eine aehnliche Idee",
+      "Wenn fortgeschrittene Zivilisationen Simulationen erstellen koennen, leben wir wahrscheinlich in einer",
+      "Der Unterschied zwischen echt und simuliert ist vielleicht gar nicht so klar, wie wir denken",
+      "Ob unsere Welt echt oder simuliert ist, laesst sich womoeglich nie herausfinden"
+    ],
+    "entstehung": "Nick Bostrom veroeffentlichte 2003 sein beruehmt gewordenes Simulationsargument. Der Film Matrix hatte die Idee schon 1999 populaer gemacht. Die philosophischen Wurzeln reichen aber bis zu Platon und Descartes zurueck.",
+    "kritik": "Kritiker sagen, die Theorie sei nicht ueberpruefbar und damit wissenschaftlich wertlos. Ausserdem entsteht ein endloses Problem: Wenn wir simuliert sind, wer hat dann die Simulatoren simuliert? Und die Annahme, dass Bewusstsein ueberhaupt am Computer entstehen kann, ist alles andere als gesichert."
+  }
 }

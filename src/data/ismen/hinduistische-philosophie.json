@@ -19,5 +19,18 @@
     {"titel": "Upanishaden", "autor": "Verschiedene Autoren", "jahr": "ca. 800 v. Chr."},
     {"titel": "Bhagavadgita", "autor": "Überliefert", "jahr": "ca. 200 v. Chr."},
     {"titel": "Brahma-Sutra-Bhashya", "autor": "Shankara", "jahr": "ca. 800 n. Chr."}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die hinduistische Philosophie fragt nach dem Zusammenhang von allem, was existiert. Sie sagt: Hinter der ganzen Vielfalt der Welt steckt eine einzige Wirklichkeit, und wir sind Teil davon.",
+    "ausfuehrlicheBeschreibung": "In der hinduistischen Philosophie gibt es sechs grosse Denkschulen, die sich alle auf uralte Texte beziehen, die Veden und Upanishaden. Eine zentrale Idee ist: Es gibt eine Art universelle Kraft oder Wirklichkeit, die Brahman genannt wird. Und das Spannende ist, dass dein eigenes inneres Selbst (Atman) im Grunde mit dieser universellen Wirklichkeit identisch ist. Du bist also viel mehr als nur du selbst.\n\nEine wichtige Richtung, Advaita Vedanta, geht sogar so weit zu sagen: Die ganze Vielfalt, die wir sehen, ist eigentlich eine Taeuschung (Maya). In Wahrheit gibt es nur Brahman. Das ist ein bisschen so, als wuerde man sagen: Der Film auf der Leinwand sieht echt aus, aber eigentlich ist da nur Licht. Andere Schulen sehen das nicht ganz so radikal und sagen: Die einzelnen Seelen sind zwar Teil von Brahman, aber trotzdem irgendwie real.\n\nPraktisch geht es darum, sich aus dem Kreislauf der Wiedergeburt zu befreien. Das kann man durch Wissen, durch Hingabe an Gott oder durch richtiges Handeln erreichen. Das Karma-Prinzip sagt: Was du tust, hat Konsequenzen, nicht nur in diesem Leben. Diese Ideen haben nicht nur Indien gepraegt, sondern auch westliche Denker wie Schopenhauer inspiriert.",
+    "kernthesen": [
+      "Hinter allem steckt eine einzige Wirklichkeit, die Brahman genannt wird.",
+      "Dein innerstes Selbst und diese universelle Wirklichkeit sind im Grunde eins.",
+      "Die Vielfalt der Welt koennte eine Art Taeuschung sein, die uns vom Wesentlichen ablenkt.",
+      "Durch Wissen, Hingabe oder gutes Handeln kann man innere Befreiung erreichen.",
+      "Was du tust, hat Folgen, und zwar ueber dieses eine Leben hinaus."
+    ],
+    "entstehung": "Die hinduistische Philosophie ist ueber Jahrtausende gewachsen, angefangen mit den Veden vor ueber 3000 Jahren. Die Upanishaden haben dann die grossen philosophischen Fragen gestellt. Spaeter haben Denker wie Shankara und Ramanuja diese Ideen in verschiedene Schulen systematisiert.",
+    "kritik": "Kritiker sagen, dass die hinduistische Philosophie das Kastensystem religoes gerechtfertigt hat und damit soziale Ungerechtigkeit stuetzte. Ausserdem wird kritisiert, dass die Abwertung der materiellen Welt als Illusion dazu fuehren kann, dass man reale Probleme nicht ernst genug nimmt."
+  }
 }

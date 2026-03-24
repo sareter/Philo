@@ -11,12 +11,39 @@
     "Kooperation liegt im wohlverstandenen Eigeninteresse",
     "Moralische Normen brauchen keine metaphysische Grundlage"
   ],
-  "hauptvertreter": ["thomas-hobbes"],
+  "hauptvertreter": [
+    "thomas-hobbes"
+  ],
   "entstehung": "Der Kontraktarianismus wurde von Thomas Hobbes im 17. Jahrhundert in seinem Leviathan (1651) begründet und von Denkern wie John Locke und Jean-Jacques Rousseau weiterentwickelt. Er entstand im Kontext der englischen Bürgerkriege und der Suche nach einer rationalen Begründung staatlicher Autorität.",
   "kritik": "Kritiker werfen dem Kontraktarianismus vor, er reduziere Moral auf Eigeninteresse und könne keine Pflichten gegenüber denen begründen, die nicht an der Vertragsschließung beteiligt sind – etwa zukünftige Generationen, Tiere oder Menschen mit Behinderungen. Zudem wird die Frage gestellt, warum ein hypothetischer Vertrag bindende Kraft haben soll.",
-  "verwandteIsmen": ["naturrechtsphilosophie", "rechtspositivismus", "neoliberalismus"],
+  "verwandteIsmen": [
+    "naturrechtsphilosophie",
+    "rechtspositivismus",
+    "neoliberalismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Leviathan", "autor": "Thomas Hobbes", "jahr": "1651"},
-    {"titel": "Moral durch Vereinbarung", "autor": "David Gauthier", "jahr": "1986"}
-  ]
+    {
+      "titel": "Leviathan",
+      "autor": "Thomas Hobbes",
+      "jahr": "1651"
+    },
+    {
+      "titel": "Moral durch Vereinbarung",
+      "autor": "David Gauthier",
+      "jahr": "1986"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kontraktarianismus begruendet Moral und politische Ordnung auf einem Vertrag aus rational kalkuliertem Eigeninteresse.",
+    "ausfuehrlicheBeschreibung": "Der Kontraktarianismus leitet moralische und politische Normen aus einem hypothetischen oder realen Vertrag zwischen rationalen, eigeninteressierten Individuen ab. Menschen akzeptieren moralische Beschraenkungen nicht aus Altruismus oder Pflichtgefuehl, sondern weil die Befolgung von Regeln fuer jeden Einzelnen langfristig vorteilhafter ist als der Naturzustand ohne Regeln.\n\nThomas Hobbes begruendete den Kontraktarianismus mit seiner Analyse des Naturzustands: Ohne Staat und ohne Moral herrscht ein Krieg aller gegen alle, in dem das Leben «einsam, armselig, ekelhaft, tierisch und kurz» ist. Um diesem Zustand zu entkommen, schliessen die Menschen einen Gesellschaftsvertrag, in dem sie ihre natuerliche Freiheit gegen Sicherheit und Ordnung eintauschen. Der Souveraen, dem sie sich unterwerfen, sichert den Frieden.\n\nDer Kontraktarianismus hat den Vorteil, moralische Normen ohne Rekurs auf metaphysische Annahmen begruenden zu koennen: Er braucht weder Gott noch eine objektive Wertordnung, sondern nur die Annahme rationaler Akteure, die ihr Eigeninteresse verfolgen. Gleichzeitig zeigt er, dass Kooperation und moralische Beschraenkung im wohlverstandenen Eigeninteresse liegen – selbst fuer den Egoisten.",
+    "kernthesen": [
+      "Moral und politische Ordnung beruhen auf einem Vertrag zwischen Individuen",
+      "Menschen unterwerfen sich Regeln aus rationalem Eigeninteresse",
+      "Der Naturzustand ohne Regeln ist ein Krieg aller gegen alle",
+      "Kooperation liegt im wohlverstandenen Eigeninteresse",
+      "Moralische Normen brauchen keine metaphysische Grundlage"
+    ],
+    "entstehung": "Der Kontraktarianismus wurde von Thomas Hobbes im 17. Jahrhundert in seinem Leviathan (1651) begruendet und von Denkern wie John Locke und Jean-Jacques Rousseau weiterentwickelt. Er entstand im Kontext der englischen Buergerkriege und der Suche nach einer rationalen Begruendung staatlicher Autoritaet.",
+    "kritik": "Kritiker werfen dem Kontraktarianismus vor, er reduziere Moral auf Eigeninteresse und koenne keine Pflichten gegenueber denen begruenden, die nicht an der Vertragsschliessung beteiligt sind – etwa zukuenftige Generationen, Tiere oder Menschen mit Behinderungen. Zudem wird die Frage gestellt, warum ein hypothetischer Vertrag bindende Kraft haben soll."
+  }
 }

@@ -18,7 +18,10 @@
   },
   "epoche": "Gegenwart",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Posthumanismus", "Feminismus"],
+  "hauptstroemungen": [
+    "Posthumanismus",
+    "Feminismus"
+  ],
   "kurzbeschreibung": "Donna Haraway ist eine amerikanische Wissenschaftstheoretikerin und feministische Philosophin, deren 'Cyborg-Manifest' zu den einflussreichsten Texten der feministischen Theorie gehört. Sie hinterfragt die Grenzen zwischen Mensch und Maschine, Natur und Kultur, Tier und Mensch. Ihre jüngeren Arbeiten zur artübergreifenden Verwandtschaft und zum 'Chthuluzän' entwerfen neue Wege des Zusammenlebens auf einem beschädigten Planeten.",
   "biografie": {
     "fruehesLeben": "Donna Jeanne Haraway wurde 1944 in Denver, Colorado, geboren. Sie studierte Zoologie und Philosophie und promovierte in Biologie an der Yale University. Ihre Ausbildung in Naturwissenschaften und Geisteswissenschaften ermöglichte ihr, die Grenzen zwischen den Disziplinen zu überschreiten.",
@@ -79,6 +82,58 @@
       "kontext": "Haraways Plädoyer gegen apokalyptische Resignation und für aktives Engagement in einer beschädigten Welt."
     }
   ],
-  "verwandtePhilosophen": ["judith-butler", "bruno-latour", "michel-foucault"],
-  "verwandteIsmen": ["posthumanismus", "feminismus"]
+  "verwandtePhilosophen": [
+    "judith-butler",
+    "bruno-latour",
+    "michel-foucault"
+  ],
+  "verwandteIsmen": [
+    "posthumanismus",
+    "feminismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Donna Haraway ist eine amerikanische Wissenschaftstheoretikerin und feministische Philosophin, deren 'Cyborg-Manifest' zu den einflussreichsten Texten der feministischen Theorie gehoert. Sie hinterfragt die Grenzen zwischen Mensch und Maschine, Natur und Kultur, Tier und Mensch. Ihre juengeren Arbeiten zur artuebergreifenden Verwandtschaft und zum 'Chthuluzaen' entwerfen neue Wege des Zusammenlebens auf einem beschaedigten Planeten.",
+    "biografie": {
+      "fruehesLeben": "Donna Jeanne Haraway wurde 1944 in Denver, Colorado, geboren. Sie studierte Zoologie und Philosophie und promovierte in Biologie an der Yale University. Ihre Ausbildung in Naturwissenschaften und Geisteswissenschaften ermoeglichte ihr, die Grenzen zwischen den Disziplinen zu ueberschreiten.",
+      "schaffen": "Haraway lehrte an der University of California, Santa Cruz. Ihr 'Cyborg-Manifest' (1985) wurde zum Gruendungstext des Cyberfeminismus und des Posthumanismus. Sie argumentierte, dass die Figur der Cyborg – halb Mensch, halb Maschine – die starren Grenzen von Geschlecht, Natur und Technologie aufloest. Spaetere Werke wie 'When Species Meet' und 'Staying with the Trouble' erweitern diese Perspektive auf artuebergreifende Beziehungen.",
+      "spaetesLeben": "Haraway lebt in Santa Cruz und ist weiterhin intellektuell aktiv. Ihr Konzept des 'Chthuluzaens' als Alternative zum Anthropozaen findet wachsende Beachtung in der oekologischen Philosophie und den Umweltgeisteswissenschaften.",
+      "tod": "Donna Haraway lebt und arbeitet weiterhin in Santa Cruz, Kalifornien. Sie gilt als eine der einflussreichsten feministischen Theoretikerinnen der Gegenwart.",
+      "nachwirkung": "Haraways Werk hat die feministische Theorie, die Wissenschaftsforschung und die Mensch-Tier-Studien grundlegend beeinflusst. Ihre Konzepte der Cyborg, des situierten Wissens und des artuebergreifenden Verwandtwerdens sind zu Schluesselbegriffen der zeitgenoessischen Kulturtheorie geworden."
+    },
+    "kernideen": [
+      {
+        "titel": "Die Cyborg als feministische Figur",
+        "beschreibung": "Die Cyborg – ein Hybrid aus Mensch und Maschine – ueberwindet die dualistischen Kategorien von maennlich/weiblich, Natur/Kultur, Mensch/Tier. Sie ist eine ironische politische Figur, die zeigt, dass Identitaet nicht essentiell, sondern konstruiert und veraenderbar ist."
+      },
+      {
+        "titel": "Situiertes Wissen",
+        "beschreibung": "Alles Wissen ist von einem bestimmten Standort aus produziert. Objektivitaet besteht nicht in der Illusion einer gottgleichen Perspektive, sondern in der ehrlichen Verortung des eigenen Standpunkts. Situiertes Wissen ist verantwortungsvoller als falsche Universalitaet."
+      },
+      {
+        "titel": "Verwandtschaft machen (Making Kin)",
+        "beschreibung": "Angesichts der oekologischen Krise muessen wir neue Formen der Verwandtschaft ueber die Artengrenzen hinweg schaffen. 'Make kin, not babies' – Verwandtschaft wird nicht durch Blut definiert, sondern durch Verantwortung und Fuersorge fuer andere Lebewesen."
+      },
+      {
+        "titel": "Chthuluzaen",
+        "beschreibung": "Als Alternative zu 'Anthropozaen' und 'Kapitalozaen' schlaegt Haraway das 'Chthuluzaen' vor – eine Epoche des Zusammenlebens vieler Arten in einer beschaedigten Welt. Es geht nicht um menschliche Kontrolle, sondern um das Miteinander von Menschen und Nichtmenschen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Ein Manifest fuer Cyborgs (A Cyborg Manifesto)",
+        "jahr": "1985",
+        "beschreibung": "Der einflussreiche Essay, der die Figur der Cyborg als feministische Strategie zur Ueberwindung dualistischer Kategorien einfuehrt."
+      },
+      {
+        "titel": "Unruhig bleiben (Staying with the Trouble)",
+        "jahr": "2016",
+        "beschreibung": "Ein Plaedoyer fuer das Verweilen im Unbehagen der oekologischen Krise und fuer das Schaffen neuer artuebergreifender Verwandtschaften."
+      },
+      {
+        "titel": "Die Gefaehrten-Spezies (When Species Meet)",
+        "jahr": "2008",
+        "beschreibung": "Eine philosophische Untersuchung der Beziehungen zwischen Menschen und anderen Tieren, insbesondere am Beispiel der Mensch-Hund-Beziehung."
+      }
+    ]
+  }
 }

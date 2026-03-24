@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Analytische Philosophie", "Naturalismus", "Holismus"],
+  "hauptstroemungen": [
+    "Analytische Philosophie",
+    "Naturalismus",
+    "Holismus"
+  ],
   "kurzbeschreibung": "Willard Van Orman Quine war einer der bedeutendsten analytischen Philosophen des 20. Jahrhunderts. Mit seiner Kritik an der Unterscheidung von analytischen und synthetischen Urteilen ('Two Dogmas of Empiricism') erschütterte er die Grundlagen des logischen Empirismus. Sein holistisches Wissenschaftsbild und sein naturalisierter Erkenntnistheorie-Ansatz prägten die analytische Philosophie nachhaltig.",
   "biografie": {
     "fruehesLeben": "Willard Van Orman Quine wurde am 25. Juni 1908 in Akron, Ohio, geboren. Schon als Jugendlicher entwickelte er eine Leidenschaft für Logik und Mathematik. Er studierte Mathematik am Oberlin College und promovierte 1932 in Harvard bei Alfred North Whitehead mit einer Arbeit über die Grundlagen der Mathematik. Ein Stipendium führte ihn nach Europa, wo er den Wiener Kreis und insbesondere Rudolf Carnap kennenlernte, der zu seinem wichtigsten philosophischen Gesprächspartner und Gegner wurde.",
@@ -94,6 +98,68 @@
       "kontext": "Die holistische Metapher des 'Netzes der Überzeugungen', das als Ganzes der Erfahrung gegenübersteht."
     }
   ],
-  "verwandtePhilosophen": ["bertrand-russell", "gottlob-frege", "ludwig-wittgenstein", "richard-rorty", "alfred-north-whitehead", "charles-sanders-peirce"],
-  "verwandteIsmen": ["analytische-philosophie", "empirismus", "naturalismus", "holismus"]
+  "verwandtePhilosophen": [
+    "bertrand-russell",
+    "gottlob-frege",
+    "ludwig-wittgenstein",
+    "richard-rorty",
+    "alfred-north-whitehead",
+    "charles-sanders-peirce"
+  ],
+  "verwandteIsmen": [
+    "analytische-philosophie",
+    "empirismus",
+    "naturalismus",
+    "holismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Willard Van Orman Quine war einer der bedeutendsten analytischen Philosophen des 20. Jahrhunderts. Mit seiner Kritik an der Unterscheidung von analytischen und synthetischen Urteilen ('Two Dogmas of Empiricism') erschuetterte er die Grundlagen des logischen Empirismus. Sein holistisches Wissenschaftsbild und sein naturalisierter Erkenntnistheorie-Ansatz praegten die analytische Philosophie nachhaltig.",
+    "biografie": {
+      "fruehesLeben": "Willard Van Orman Quine wurde am 25. Juni 1908 in Akron, Ohio, geboren. Schon als Jugendlicher entwickelte er eine Leidenschaft fuer Logik und Mathematik. Er studierte Mathematik am Oberlin College und promovierte 1932 in Harvard bei Alfred North Whitehead mit einer Arbeit ueber die Grundlagen der Mathematik. Ein Stipendium fuehrte ihn nach Europa, wo er den Wiener Kreis und insbesondere Rudolf Carnap kennenlernte, der zu seinem wichtigsten philosophischen Gespraechspartner und Gegner wurde.",
+      "schaffen": "Quine lehrte von 1936 bis zu seiner Emeritierung 1978 an der Harvard University und wurde zum einflussreichsten analytischen Philosophen seiner Generation. Sein epochaler Aufsatz 'Two Dogmas of Empiricism' (1951) stellte zwei zentrale Annahmen des logischen Empirismus infrage: die Unterscheidung zwischen analytischen (aufgrund der Bedeutung wahren) und synthetischen (aufgrund der Erfahrung wahren) Saetzen sowie den Reduktionismus – die These, dass jeder sinnvolle Satz auf Erfahrungssaetze zurueckgefuehrt werden kann. Stattdessen argumentierte Quine fuer einen holistischen Empirismus: Unsere Ueberzeugungen bilden ein Netz, das als Ganzes der Erfahrung gegenuebersteht, und keine einzelne Ueberzeugung ist immun gegen Revision.",
+      "spaetesLeben": "Quine blieb bis ins hohe Alter intellektuell aktiv und veroeffentlichte zahlreiche Buecher und Aufsaetze. Er war ein begeisterter Reisender, der ueber 100 Laender besuchte, und ein begabter Kartenzeichner. Seine Autobiografie 'The Time of My Life' (1985) zeichnet ein lebendiges Bild eines Philosophenlebens im 20. Jahrhundert. Er erhielt zahlreiche Ehrendoktortitel und Auszeichnungen.",
+      "tod": "Willard Van Orman Quine starb am 25. Dezember 2000 in Boston, Massachusetts, an den Folgen einer Infektion. Er war 92 Jahre alt.",
+      "nachwirkung": "Quines Einfluss auf die analytische Philosophie ist fundamental. Seine Kritik an der analytisch-synthetisch-Unterscheidung veraenderte die Erkenntnistheorie und die Sprachphilosophie grundlegend. Sein Holismus beeinflusste Donald Davidson, Richard Rorty und viele andere. Die naturalisierte Erkenntnistheorie wurde zum dominierenden Paradigma in der analytischen Philosophie. Seine Theorie der Uebersetzungsunbestimmtheit wirkte auf die Linguistik, die Philosophie des Geistes und die Wissenschaftstheorie."
+    },
+    "kernideen": [
+      {
+        "titel": "Kritik der analytisch-synthetisch-Unterscheidung",
+        "beschreibung": "Die Unterscheidung zwischen analytischen Saetzen (wahr aufgrund ihrer Bedeutung) und synthetischen Saetzen (wahr aufgrund der Erfahrung) ist unhaltbar. Es gibt kein klares Kriterium fuer Analytizitaet, und alle Ueberzeugungen sind prinzipiell revidierbar."
+      },
+      {
+        "titel": "Holistischer Empirismus",
+        "beschreibung": "Unsere Ueberzeugungen stehen nicht einzeln der Erfahrung gegenueber, sondern als Gesamtheit – wie ein 'Netz'. Wenn eine Erfahrung unsere Ueberzeugungen infrage stellt, koennen wir an verschiedenen Stellen des Netzes Revisionen vornehmen."
+      },
+      {
+        "titel": "Ontologische Relativitaet und Uebersetzungsunbestimmtheit",
+        "beschreibung": "Es gibt keine eindeutige Uebersetzung zwischen Sprachen – die 'radikale Uebersetzung' einer voellig fremden Sprache ist prinzipiell unbestimmt. Daraus folgt, dass auch die Referenz unserer Ausdruecke 'unerforschlich' ist."
+      },
+      {
+        "titel": "Naturalisierte Erkenntnistheorie",
+        "beschreibung": "Die Erkenntnistheorie soll nicht nach einer philosophischen Begruendung des Wissens suchen, sondern als Teilgebiet der empirischen Psychologie untersuchen, wie Menschen tatsaechlich auf der Basis sensorischer Reize zu Ueberzeugungen gelangen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Two Dogmas of Empiricism",
+        "jahr": "1951",
+        "beschreibung": "Der einflussreichste philosophische Aufsatz des 20. Jahrhunderts kritisiert die analytisch-synthetisch-Unterscheidung und den Reduktionismus und begruendet den holistischen Empirismus."
+      },
+      {
+        "titel": "Word and Object",
+        "jahr": "1960",
+        "beschreibung": "Quines philosophisches Hauptwerk entwickelt die Theorie der Uebersetzungsunbestimmtheit und der ontologischen Relativitaet anhand des Gedankenexperiments der 'radikalen Uebersetzung'."
+      },
+      {
+        "titel": "From a Logical Point of View",
+        "jahr": "1953",
+        "beschreibung": "Eine einflussreiche Sammlung von Aufsaetzen, die 'Two Dogmas' und den beruehmten Essay 'On What There Is' enthaelt."
+      },
+      {
+        "titel": "Ontological Relativity and Other Essays",
+        "jahr": "1969",
+        "beschreibung": "Enthaelt den programmatischen Aufsatz 'Epistemology Naturalized', der die traditionelle Erkenntnistheorie durch eine empirische Untersuchung ersetzen will."
+      }
+    ]
+  }
 }

@@ -11,14 +11,50 @@
     "Offenbarung, Gebet und Wunder sind möglich, da Gott in die Welt eingreifen kann.",
     "Die Existenz Gottes kann durch philosophische Argumente gestützt oder sogar bewiesen werden."
   ],
-  "hauptvertreter": ["platon", "aristoteles"],
+  "hauptvertreter": [
+    "platon",
+    "aristoteles"
+  ],
   "entstehung": "Der Theismus hat seine Wurzeln in den religiösen Traditionen des Alten Orients und wurde durch die griechische Philosophie, insbesondere durch Platons Timaios und Aristoteles' Lehre vom unbewegten Beweger, philosophisch untermauert. Die jüdische, christliche und islamische Philosophie entwickelten den Theismus systematisch weiter. Thomas von Aquin schuf im 13. Jahrhundert die klassische Synthese von Theismus und aristotelischer Philosophie. Die neuzeitliche Religionsphilosophie hat den Theismus sowohl kritisiert als auch verteidigt und verfeinert.",
   "kritik": "Die stärkste Kritik am Theismus ist das Theodizee-Problem: Die Existenz von Leid und Übel in der Welt scheint mit einem allmächtigen und allgütigen Gott unvereinbar zu sein. Die traditionellen Gottesbeweise wurden von Hume und Kant als logisch mangelhaft erwiesen. Die Naturwissenschaft hat viele Phänomene, die früher als göttliche Eingriffe gedeutet wurden, natürlich erklärt und den Gott der Lücken zunehmend überflüssig gemacht. Der Pluralismus der Religionen wirft die Frage auf, warum ein bestimmter theistischer Glaube vor anderen bevorzugt werden sollte. Feuerbach, Marx, Nietzsche und Freud haben verschiedene naturalistische Erklärungen für die Entstehung des Gottesglaubens vorgeschlagen.",
-  "verwandteIsmen": ["deismus", "pantheismus", "idealismus"],
+  "verwandteIsmen": [
+    "deismus",
+    "pantheismus",
+    "idealismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Summa Theologica", "autor": "Thomas von Aquin", "jahr": "1265-1274" },
-    { "titel": "Proslogion", "autor": "Anselm von Canterbury", "jahr": "1078" },
-    { "titel": "The Existence of God", "autor": "Richard Swinburne", "jahr": "1979" },
-    { "titel": "God and Other Minds", "autor": "Alvin Plantinga", "jahr": "1967" }
-  ]
+    {
+      "titel": "Summa Theologica",
+      "autor": "Thomas von Aquin",
+      "jahr": "1265-1274"
+    },
+    {
+      "titel": "Proslogion",
+      "autor": "Anselm von Canterbury",
+      "jahr": "1078"
+    },
+    {
+      "titel": "The Existence of God",
+      "autor": "Richard Swinburne",
+      "jahr": "1979"
+    },
+    {
+      "titel": "God and Other Minds",
+      "autor": "Alvin Plantinga",
+      "jahr": "1967"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Theismus ist die philosophisch-religioese Position, dass ein persoenlicher Gott existiert, der die Welt geschaffen hat und weiterhin in ihr wirkt.",
+    "ausfuehrlicheBeschreibung": "Der Theismus (von griechisch theos = Gott) ist die Auffassung, dass mindestens ein persoenlicher, bewusster und moralisch vollkommener Gott existiert, der die Welt erschaffen hat und fortwaehrend in ihr wirkt. Der Theismus bildet die philosophische Grundlage der drei grossen abrahamitischen Religionen – Judentum, Christentum und Islam – und hat die westliche Philosophie ueber Jahrtausende hinweg gepraegt.\n\nDie wichtigsten Eigenschaften, die der klassische Theismus Gott zuschreibt, sind Allmacht (Omnipotenz), Allwissenheit (Omniszienz), Allgegenwart (Omnipraesenz), Allguete (Omnibenevolenz), Ewigkeit und Unveraenderlichkeit. Gott hat die Welt aus freiem Willen aus dem Nichts erschaffen (creatio ex nihilo) und erhaelt sie fortwaehrend im Sein.\n\nDie philosophische Theologie hat eine Reihe von Argumenten fuer die Existenz Gottes entwickelt. Der kosmologische Gottesbeweis, formuliert unter anderem von Thomas von Aquin, schliesst von der Existenz der Welt auf einen ersten unbewegten Beweger oder eine erste Ursache. Der teleologische Gottesbeweis (Design-Argument) schliesst von der Ordnung und Zweckmaessigkeit der Natur auf einen intelligenten Schoepfer. Der ontologische Gottesbeweis, zuerst von Anselm von Canterbury formuliert, argumentiert, dass Gott als das, worueber hinaus nichts Groesseres gedacht werden kann, notwendig existieren muss.",
+    "kernthesen": [
+      "Ein persoenlicher, bewusster und moralisch vollkommener Gott existiert.",
+      "Gott hat die Welt aus freiem Willen erschaffen und wirkt fortwaehrend in ihr.",
+      "Gott ist allmaechtig, allwissend, allgegenwaertig und allguetig.",
+      "Offenbarung, Gebet und Wunder sind moeglich, da Gott in die Welt eingreifen kann.",
+      "Die Existenz Gottes kann durch philosophische Argumente gestuetzt oder sogar bewiesen werden."
+    ],
+    "entstehung": "Der Theismus hat seine Wurzeln in den religioesen Traditionen des Alten Orients und wurde durch die griechische Philosophie, insbesondere durch Platons Timaios und Aristoteles' Lehre vom unbewegten Beweger, philosophisch untermauert. Die juedische, christliche und islamische Philosophie entwickelten den Theismus systematisch weiter. Thomas von Aquin schuf im 13. Jahrhundert die klassische Synthese von Theismus und aristotelischer Philosophie. Die neuzeitliche Religionsphilosophie hat den Theismus sowohl kritisiert als auch verteidigt und verfeinert.",
+    "kritik": "Die staerkste Kritik am Theismus ist das Theodizee-Problem: Die Existenz von Leid und Uebel in der Welt scheint mit einem allmaechtigen und allguetigen Gott unvereinbar zu sein. Die traditionellen Gottesbeweise wurden von Hume und Kant als logisch mangelhaft erwiesen. Die Naturwissenschaft hat viele Phaenomene, die frueher als goettliche Eingriffe gedeutet wurden, natuerlich erklaert und den Gott der Luecken zunehmend ueberfluessig gemacht."
+  }
 }

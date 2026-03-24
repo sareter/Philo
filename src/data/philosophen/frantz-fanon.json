@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Postkolonialismus", "Marxismus"],
+  "hauptstroemungen": [
+    "Postkolonialismus",
+    "Marxismus"
+  ],
   "kurzbeschreibung": "Frantz Fanon war ein martinikanisch-französischer Psychiater, Philosoph und Revolutionär, dessen Analysen des Kolonialismus und des Rassismus zu den einflussreichsten Texten der antikolonialen Bewegung gehören. Sein Werk 'Die Verdammten dieser Erde' wurde zum Manifest der Entkolonialisierung. Er verband marxistische Analyse mit psychologischer Erforschung der kolonialen Unterdrückung.",
   "biografie": {
     "fruehesLeben": "Frantz Fanon wurde 1925 in Fort-de-France auf Martinique als Sohn einer schwarzen Mittelklassefamilie geboren. Im Zweiten Weltkrieg kämpfte er auf Seiten des Freien Frankreich und erlebte den Rassismus der französischen Armee. Er studierte Medizin und Psychiatrie in Lyon, wo er auch Philosophie hörte.",
@@ -75,6 +78,55 @@
       "kontext": "Fanons Analyse der kolonialen Konstruktion rassistischer Identitäten."
     }
   ],
-  "verwandtePhilosophen": ["jean-paul-sartre", "edward-said", "karl-marx", "paulo-freire"],
-  "verwandteIsmen": ["postkolonialismus", "marxismus"]
+  "verwandtePhilosophen": [
+    "jean-paul-sartre",
+    "edward-said",
+    "karl-marx",
+    "paulo-freire"
+  ],
+  "verwandteIsmen": [
+    "postkolonialismus",
+    "marxismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Frantz Fanon war ein martinikanisch-franzoesischer Psychiater, Philosoph und Revolutionaer, dessen Analysen des Kolonialismus und des Rassismus zu den einflussreichsten Texten der antikolonialen Bewegung gehoeren. Sein Werk 'Die Verdammten dieser Erde' wurde zum Manifest der Entkolonialisierung. Er verband marxistische Analyse mit psychologischer Erforschung der kolonialen Unterdrueckung.",
+    "biografie": {
+      "fruehesLeben": "Frantz Fanon wurde 1925 in Fort-de-France auf Martinique als Sohn einer schwarzen Mittelklassefamilie geboren. Im Zweiten Weltkrieg kaempfte er auf Seiten des Freien Frankreich und erlebte den Rassismus der franzoesischen Armee. Er studierte Medizin und Psychiatrie in Lyon, wo er auch Philosophie hoerte.",
+      "schaffen": "Als Psychiater in Algerien erlebte Fanon den Algerienkrieg hautnah und schloss sich der algerischen Befreiungsbewegung FLN an. Sein erstes Hauptwerk 'Schwarze Haut, weisse Masken' (1952) analysiert die psychologischen Auswirkungen des Kolonialismus auf die Kolonisierten. 'Die Verdammten dieser Erde' (1961) ist eine radikale Analyse der kolonialen Gewalt und ein Aufruf zur Dekolonisierung.",
+      "spaetesLeben": "Fanon wurde zum Botschafter der algerischen Provisorischen Regierung in Ghana und reiste durch Afrika, um Unterstuetzung fuer die Unabhaengigkeitsbewegungen zu gewinnen. 1960 wurde bei ihm Leukaemie diagnostiziert. Trotz der Krankheit diktierte er 'Die Verdammten dieser Erde' in nur zehn Wochen.",
+      "tod": "Frantz Fanon starb am 6. Dezember 1961 in Bethesda, Maryland, im Alter von 36 Jahren an Leukaemie. Er erlebte die algerische Unabhaengigkeit, die wenige Monate nach seinem Tod erklaert wurde, nicht mehr. Sein Leichnam wurde nach Algerien ueberfuehrt und als Maertyrer der Revolution beigesetzt.",
+      "nachwirkung": "Fanons Werk beeinflusste die Black-Power-Bewegung, die postkoloniale Theorie und die Befreiungsbewegungen in Afrika, Asien und Lateinamerika. Edward Said, Homi Bhabha und Gayatri Spivak beziehen sich auf sein Denken. Seine Analysen der psychologischen Dimension des Rassismus und der Notwendigkeit kultureller Dekolonisierung sind bis heute aktuell."
+    },
+    "kernideen": [
+      {
+        "titel": "Psychologie des Kolonialismus",
+        "beschreibung": "Der Kolonialismus zerstoert nicht nur die wirtschaftliche und politische Selbstbestimmung der Kolonisierten, sondern auch ihre Psyche. Die Kolonisierten internalisieren das rassistische Bild, das die Kolonisatoren von ihnen haben, und versuchen, 'weisse Masken' zu tragen."
+      },
+      {
+        "titel": "Gewalt als Mittel der Befreiung",
+        "beschreibung": "Koloniale Herrschaft beruht auf Gewalt; die Befreiung erfordert daher ebenfalls Gewalt. Die revolutionaere Gewalt hat fuer Fanon eine kathartische Wirkung: Sie befreit die Kolonisierten von der internalisierten Unterwerfung und stellt ihre Menschenwuerde wieder her."
+      },
+      {
+        "titel": "Nationale Kultur und neues Bewusstsein",
+        "beschreibung": "Die Dekolonisierung erfordert nicht nur politische Unabhaengigkeit, sondern die Schaffung einer neuen nationalen Kultur und eines neuen Bewusstseins. Die blosse Uebernahme europaeischer Modelle perpetuiert die koloniale Abhaengigkeit."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Schwarze Haut, weisse Masken (Peau noire, masques blancs)",
+        "jahr": "1952",
+        "beschreibung": "Eine psychoanalytische und phaenomenologische Analyse der Auswirkungen des Rassismus und des Kolonialismus auf die Psyche der Schwarzen."
+      },
+      {
+        "titel": "Die Verdammten dieser Erde (Les Damnés de la Terre)",
+        "jahr": "1961",
+        "beschreibung": "Das Manifest der Dekolonisierung, das die Mechanismen kolonialer Herrschaft analysiert und zur revolutionaeren Befreiung aufruft. Mit einem Vorwort von Jean-Paul Sartre."
+      },
+      {
+        "titel": "Aspekte der Algerischen Revolution (L'An cinq de la révolution algérienne)",
+        "jahr": "1959",
+        "beschreibung": "Eine Analyse der sozialen Veraenderungen, die die algerische Revolution in der Gesellschaft bewirkt, von der Rolle der Frauen bis zur Nutzung neuer Medien."
+      }
+    ]
+  }
 }

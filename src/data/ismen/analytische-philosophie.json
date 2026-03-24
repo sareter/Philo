@@ -20,5 +20,18 @@
     { "titel": "Tractatus Logico-Philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921" },
     { "titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953" },
     { "titel": "Naming and Necessity", "autor": "Saul Kripke", "jahr": "1980" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Analytische Philosophie legt Wert auf klare Sprache, logisches Denken und praezise Argumente. Viele philosophische Probleme entstehen durch sprachliche Verwirrung -- und lassen sich durch genaue Analyse loesen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du streitest mit jemandem und merkt irgendwann: Ihr meint eigentlich dasselbe, aber benutzt die Woerter unterschiedlich. Die analytische Philosophie sagt: Genau so entstehen viele philosophische Probleme. Wenn man die Sprache genau untersucht und klaert, was man eigentlich meint, loesen sich viele vermeintliche Raetsel auf.\n\nDiese Denkrichtung dominiert seit ueber hundert Jahren die Philosophie in England und den USA. Sie nutzt Logik wie ein Werkzeug, aehnlich wie Mathematik: Man baut Argumente Schritt fuer Schritt auf und prueft, ob sie halten. Das kann manchmal trocken wirken, aber es schuetzt vor Schwafelei und ungenauen Behauptungen.\n\nWichtige Vertreter wie Bertrand Russell und Ludwig Wittgenstein haben mit dieser Methode revolutionaere Einsichten gewonnen. Wittgenstein zum Beispiel sagte zuerst, Sprache bilde die Welt ab wie ein Foto. Spaeter aenderte er seine Meinung komplett: Sprache funktioniert wie ein Spiel -- die Bedeutung eines Wortes haengt davon ab, wie wir es benutzen. Heute deckt analytische Philosophie alle Themen ab, von Ethik bis Wissenschaftstheorie.",
+    "kernthesen": [
+      "Philosophie muss klar, logisch und praezise sein -- kein Raum fuer vages Gerede.",
+      "Viele philosophische Probleme entstehen durch sprachliche Missverstaendnisse und lassen sich durch genaue Analyse loesen.",
+      "Logik ist das wichtigste Werkzeug der Philosophie.",
+      "Philosophie sollte eng mit der Naturwissenschaft zusammenarbeiten.",
+      "Die Bedeutung von Woertern zeigt sich darin, wie wir sie benutzen."
+    ],
+    "entstehung": "Anfang des 20. Jahrhunderts gegruendet von Denkern wie Frege, Russell und Moore als Gegenbewegung gegen vage, spekulative Philosophie. Wittgensteins Werke praegten die Richtung entscheidend. Heute ist analytische Philosophie die vorherrschende Tradition in der englischsprachigen Welt.",
+    "kritik": "Kritiker finden analytische Philosophie oft zu technisch und lebensfern -- sie kuemmere sich um Detailprobleme und vergesse die grossen Fragen des Lebens. Andere sagen, nicht alle wichtigen Gedanken lassen sich in logische Formeln pressen."
+  }
 }

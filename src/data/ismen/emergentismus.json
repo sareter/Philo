@@ -19,5 +19,18 @@
     {"titel": "The Analysis of Mind", "autor": "Bertrand Russell", "jahr": "1921"},
     {"titel": "Space, Time, and Deity", "autor": "Samuel Alexander", "jahr": "1920"},
     {"titel": "Emergent Evolution", "autor": "C. Lloyd Morgan", "jahr": "1923"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Emergentismus sagt: Wenn viele einfache Teile zusammenwirken, koennen voellig neue Eigenschaften entstehen, die keins der Teile allein hat. Das Ganze ist mehr als die Summe seiner Teile.",
+    "ausfuehrlicheBeschreibung": "Stell dir ein einzelnes Wassermolekuel vor. Es ist nicht nass. Aber Milliarden Wassermolekuele zusammen erzeugen Naesse. Diese neue Eigenschaft, die aus dem Zusammenspiel entsteht, ohne dass ein einzelnes Teil sie hat, nennt man Emergenz. Der Emergentismus macht daraus eine philosophische Position: In der Natur entstehen immer wieder voellig neue Qualitaeten, wenn Dinge auf bestimmte Weise zusammenwirken.\n\nDas spannendste Beispiel ist das Bewusstsein. Dein Gehirn besteht aus Milliarden Nervenzellen, von denen jede einzelne nur elektrische und chemische Signale verarbeitet. Keine einzige Nervenzelle denkt oder fuehlt etwas. Aber zusammen erzeugen sie Gedanken, Gefuehle und Bewusstsein. Wie genau das funktioniert, ist eines der groessten Raetsel der Wissenschaft.\n\nDer Emergentismus steht zwischen zwei Extremen: Auf der einen Seite gibt es Leute, die sagen, man koenne alles auf Physik und Chemie zurueckfuehren. Auf der anderen Seite stehen die, die Geist und Materie fuer komplett verschiedene Dinge halten. Der Emergentismus sagt: Es gibt nur eine Art von Materie, aber aus ihr koennen echt neue Eigenschaften entstehen, die sich nicht einfach aus den Einzelteilen ableiten lassen.",
+    "kernthesen": [
+      "Wenn viele einfache Teile zusammenwirken, entstehen voellig neue Eigenschaften.",
+      "Diese neuen Eigenschaften sind echt und nicht nur Einbildung.",
+      "Bewusstsein ist das beste Beispiel: Einzelne Nervenzellen denken nicht, aber zusammen erzeugen sie Gedanken.",
+      "Der Emergentismus ist ein Mittelweg zwischen Alles-ist-nur-Physik und Geist-ist-komplett-anders.",
+      "Die Welt ist in Schichten aufgebaut, und jede hoehere Schicht hat neue Eigenschaften."
+    ],
+    "entstehung": "Der Emergentismus entstand Anfang des 20. Jahrhunderts, als Philosophen merkten, dass man nicht alles auf einfache Mechanik zurueckfuehren kann. In den 1990er Jahren wurde die Idee durch die Komplexitaetsforschung wieder populaer.",
+    "kritik": "Kritiker sagen, Emergenz sei oft nur ein schickes Wort dafuer, dass wir etwas noch nicht verstehen. Ausserdem ist unklar, wie neue Eigenschaften wirklich aus einfachen Bausteinen entstehen koennen, ohne dass dabei irgendwelche physikalischen Gesetze verletzt werden."
+  }
 }

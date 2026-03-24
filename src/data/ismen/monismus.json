@@ -19,5 +19,18 @@
     { "titel": "Ethica ordine geometrico demonstrata", "autor": "Baruch de Spinoza", "jahr": "1677" },
     { "titel": "Die Welträtsel", "autor": "Ernst Haeckel", "jahr": "1899" },
     { "titel": "The Analysis of Mind", "autor": "Bertrand Russell", "jahr": "1921" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Monismus sagt: Im Grunde besteht alles aus ein und demselben Stoff. Ob Geist oder Materie, ob Koerper oder Bewusstsein -- am Ende ist alles eins.",
+    "ausfuehrlicheBeschreibung": "Die grosse Frage ist: Woraus besteht die Welt eigentlich? Gibt es Koerper und Geist als zwei verschiedene Sachen, oder ist im Grunde alles dasselbe? Der Monismus sagt: Es gibt nur eine einzige Grundsubstanz, und alles andere sind verschiedene Formen davon. Das ist wie bei Wasser -- es kann fluessig, fest oder gasfoermig sein, aber es ist immer H2O.\n\nSpinoza hat das am radikalsten formuliert: Gott und Natur sind dasselbe. Es gibt nicht einen Gott, der die Welt von aussen erschaffen hat, sondern alles ist Teil einer einzigen unendlichen Substanz. Geist und Koerper sind nicht zwei verschiedene Dinge, sondern zwei Seiten derselben Medaille. Wie bei einem Blatt Papier, das eine Vorder- und eine Rueckseite hat -- es ist trotzdem nur ein Blatt.\n\nAndere Monisten sehen das anders: Materialisten sagen, alles ist letztlich Materie, auch Gedanken und Gefuehle. Idealisten sagen, alles ist letztlich Geist, auch die physische Welt. Und neutrale Monisten sagen: Es gibt einen Grundstoff, der weder rein Materie noch rein Geist ist, sondern etwas Drittes. Alle sind sich aber einig: Die Welt ist im Kern eine Einheit, nicht eine Zweiheit.",
+    "kernthesen": [
+      "Alles in der Welt geht auf ein einziges Grundprinzip oder einen einzigen Stoff zurueck.",
+      "Die scheinbare Vielfalt der Welt ist nur die Oberflaeche -- darunter steckt Einheit.",
+      "Geist und Koerper sind nicht zwei verschiedene Dinge, sondern zwei Seiten derselben Sache.",
+      "Die Trennung von Geist und Koerper beruht auf einem Denkfehler.",
+      "Gott und Natur sind identisch oder Ausdruck desselben Grundprinzips."
+    ],
+    "entstehung": "Schon die fruehesten griechischen Philosophen suchten nach dem einen Urstoff, aus dem alles besteht -- Wasser, Luft oder Feuer. Spinoza formulierte im 17. Jahrhundert den bekanntesten Monismus: Alles ist eine einzige Substanz. Im 19. Jahrhundert machte Ernst Haeckel den Monismus zu einer populaeren Weltanschauung.",
+    "kritik": "Kritiker fragen: Wenn alles eins ist, warum erleben wir die Welt dann als so vielfaeltig? Besonders das Bewusstsein bleibt ein Problem -- wie soll aus rein materiellen Prozessen subjektives Erleben entstehen? Und wenn Geist und Materie dasselbe sind, warum fuehlen sie sich so grundverschieden an?"
+  }
 }

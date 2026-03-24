@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Sizilien / Griechenland",
-  "hauptstroemungen": ["Sophistik", "Rhetorik", "Nihilismus"],
+  "hauptstroemungen": [
+    "Sophistik",
+    "Rhetorik",
+    "Nihilismus"
+  ],
   "kurzbeschreibung": "Gorgias von Leontinoi war einer der bedeutendsten griechischen Sophisten und gilt als Begründer der Kunstprosa. Mit seiner radikalen These, dass nichts existiert, revolutionierte er die Rhetorik und stellte die Möglichkeit objektiver Erkenntnis grundsätzlich in Frage.",
   "biografie": {
     "fruehesLeben": "Gorgias wurde um 483 v. Chr. in Leontinoi (dem heutigen Lentini) auf Sizilien geboren. Er war Schüler des Empedokles und soll auch die Lehren des Zenon von Elea studiert haben. Über seine Jugend ist wenig bekannt, doch bildete das intellektuell reiche Sizilien mit seinem Erbe der pythagoreischen und eleatischen Philosophie einen fruchtbaren Nährboden für seine Entwicklung.",
@@ -80,6 +84,63 @@
       "kontext": "Gorgias über die Kunst als produktive Täuschung – ein Vorläufer moderner Ästhetik."
     }
   ],
-  "verwandtePhilosophen": ["protagoras", "sokrates", "platon", "empedokles", "parmenides"],
-  "verwandteIsmen": ["sophistik", "nihilismus", "relativismus", "skeptizismus"]
+  "verwandtePhilosophen": [
+    "protagoras",
+    "sokrates",
+    "platon",
+    "empedokles",
+    "parmenides"
+  ],
+  "verwandteIsmen": [
+    "sophistik",
+    "nihilismus",
+    "relativismus",
+    "skeptizismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Gorgias von Leontinoi war einer der bedeutendsten griechischen Sophisten und gilt als Begruender der Kunstprosa. Mit seiner radikalen These, dass nichts existiert, revolutionierte er die Rhetorik und stellte die Moeglichkeit objektiver Erkenntnis grundsaetzlich in Frage.",
+    "biografie": {
+      "fruehesLeben": "Gorgias wurde um 483 v. Chr. in Leontinoi (dem heutigen Lentini) auf Sizilien geboren. Er war Schueler des Empedokles und soll auch die Lehren des Zenon von Elea studiert haben. Ueber seine Jugend ist wenig bekannt, doch bildete das intellektuell reiche Sizilien mit seinem Erbe der pythagoreischen und eleatischen Philosophie einen fruchtbaren Naehrboden fuer seine Entwicklung.",
+      "schaffen": "Gorgias' philosophische Hauptleistung ist die Schrift 'Ueber das Nichtseiende oder Ueber die Natur', in der er drei provokante Thesen aufstellt: (1) Nichts existiert. (2) Selbst wenn etwas existierte, waere es nicht erkennbar. (3) Selbst wenn es erkennbar waere, waere es nicht mitteilbar. Diese dreifache Negation – ob ernst gemeint oder als rhetorische Uebung – war eine radikale Herausforderung an die eleatische Ontologie des Parmenides. Gorgias kehrte dessen Argumente gleichsam um: Hatte Parmenides die Realitaet des Nichtseins bestritten, so bestritt Gorgias die Realitaet des Seins. Als Redner war Gorgias unuebertroffen und begruendete einen neuen Prosastil, der durch Antithesen, Parallelismen, rhythmische Klangfiguren und poetische Ausdrucksweise gekennzeichnet war.",
+      "spaetesLeben": "Gorgias reiste als Wanderlehrer durch ganz Griechenland und erwarb ein betraechtliches Vermoegen. Er hielt Reden bei den Olympischen und Pythischen Spielen und wurde ueberall als der groesste Redner seiner Zeit verehrt. In Delphi wurde ihm eine goldene Statue errichtet – eine einzigartige Ehre. Er soll bis ins hoechste Alter geistig und koerperlich ruestig geblieben sein.",
+      "tod": "Gorgias starb um 375 v. Chr. in Larissa in Thessalien im aussergewoehnlichen Alter von etwa 108 Jahren. Auf die Frage nach dem Geheimnis seines langen Lebens soll er geantwortet haben, er habe sich nie von einem anderen etwas zuliebe getan. Cicero berichtet, er habe bis zuletzt an seiner Rhetorik gearbeitet.",
+      "nachwirkung": "Gorgias' Einfluss auf die Rhetorik und die Philosophie war gewaltig. Er begruendete die Kunstprosa und die systematische Stilistik. Sein nihilistisches Argument inspirierte skeptische Philosophen durch die Jahrhunderte. Platon widmete ihm einen gleichnamigen Dialog, in dem Sokrates die Rhetorik als blosse Schmeichelei entlarvt. In der modernen Philosophie wurden seine Argumente ueber die Unmoeglichkeit der Kommunikation von Denkern wie Derrida und der Sprachphilosophie wieder aufgegriffen."
+    },
+    "kernideen": [
+      {
+        "titel": "Dreifache Negation",
+        "beschreibung": "Gorgias' radikale These: (1) Nichts existiert. (2) Wenn etwas existierte, waere es nicht erkennbar. (3) Wenn es erkennbar waere, waere es nicht mitteilbar. Diese dreifache Negation stellt Sein, Erkenntnis und Kommunikation grundsaetzlich in Frage."
+      },
+      {
+        "titel": "Macht der Rede (Logos)",
+        "beschreibung": "Die Rede ist ein maechtiger Herrscher, der mit dem kleinsten und unsichtbarsten Koerper die goettlichsten Werke vollbringt. Worte koennen Furcht vertreiben, Trauer beseitigen, Freude erzeugen und Mitleid erwecken."
+      },
+      {
+        "titel": "Rhetorik als Techne",
+        "beschreibung": "Die Redekunst ist eine erlernbare Kunst (techne), die durch systematisches Training erworben werden kann. Sie verleiht dem Redner Macht ueber die Meinungen und Emotionen der Zuhoerer."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Ueber das Nichtseiende oder Ueber die Natur",
+        "jahr": "ca. 440 v. Chr.",
+        "beschreibung": "Philosophisches Hauptwerk mit der dreifachen Negation von Sein, Erkenntnis und Mitteilbarkeit. Nur in Zusammenfassungen bei Sextus Empiricus und in der pseudo-aristotelischen Schrift 'De Melisso, Xenophane, Gorgia' erhalten."
+      },
+      {
+        "titel": "Lob der Helena (Enkomion auf Helena)",
+        "jahr": "ca. 420 v. Chr.",
+        "beschreibung": "Musterrede, in der Gorgias Helena von der Schuld am Trojanischen Krieg freispricht. Enthaelt eine beruehmte Reflexion ueber die Macht der Worte. Vollstaendig erhalten."
+      },
+      {
+        "titel": "Verteidigung des Palamedes",
+        "jahr": "ca. 420 v. Chr.",
+        "beschreibung": "Fiktive Verteidigungsrede des mythischen Palamedes, der von Odysseus des Verrats beschuldigt wurde. Meisterstueck sophistischer Argumentationskunst. Vollstaendig erhalten."
+      },
+      {
+        "titel": "Olympische Rede",
+        "jahr": "408 v. Chr.",
+        "beschreibung": "Rede bei den Olympischen Spielen, in der Gorgias die griechischen Staedte zur Einheit gegen die Perser aufrief. Nur Fragmente erhalten."
+      }
+    ]
+  }
 }

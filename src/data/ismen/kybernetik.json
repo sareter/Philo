@@ -11,12 +11,39 @@
     "Information ist ein grundlegendes Prinzip der Wirklichkeit",
     "Komplexe Systeme organisieren sich durch Rückkopplungsschleifen selbst"
   ],
-  "hauptvertreter": ["ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Die Kybernetik wurde in den 1940er Jahren von Norbert Wiener begründet und entwickelte sich rasch zu einer interdisziplinären Wissenschaft. Sie entstand aus der Verbindung von Ingenieurwissenschaften, Biologie und Mathematik im Kontext des Zweiten Weltkriegs.",
   "kritik": "Kritiker werfen der Kybernetik vor, sie reduziere den Menschen auf ein informationsverarbeitendes System und unterschlage die Dimensionen von Bewusstsein, Freiheit und Subjektivität. Zudem wird die Frage gestellt, ob die Analogie zwischen Maschinen und Organismen nicht oberflächlich bleibt und wesentliche Unterschiede verdeckt.",
-  "verwandteIsmen": ["systemtheorie", "logischer-atomismus", "naturalistische-erkenntnistheorie"],
+  "verwandteIsmen": [
+    "systemtheorie",
+    "logischer-atomismus",
+    "naturalistische-erkenntnistheorie"
+  ],
   "schluesselwerke": [
-    {"titel": "Kybernetik", "autor": "Norbert Wiener", "jahr": "1948"},
-    {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"}
-  ]
+    {
+      "titel": "Kybernetik",
+      "autor": "Norbert Wiener",
+      "jahr": "1948"
+    },
+    {
+      "titel": "Philosophische Untersuchungen",
+      "autor": "Ludwig Wittgenstein",
+      "jahr": "1953"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Kybernetik ist die Wissenschaft von Steuerung und Kommunikation in Maschinen und lebenden Organismen.",
+    "ausfuehrlicheBeschreibung": "Die Kybernetik untersucht die allgemeinen Prinzipien von Steuerung, Regelung und Kommunikation, die sowohl in technischen Systemen als auch in biologischen Organismen und sozialen Strukturen wirksam sind. Ihr Grundgedanke ist, dass Rueckkopplung – die Rueckwirkung des Ergebnisses einer Handlung auf die Handlung selbst – das zentrale Prinzip aller selbstregulierenden Systeme ist.\n\nDie Kybernetik hat tiefgreifende philosophische Implikationen: Sie stellt die traditionelle Unterscheidung zwischen Mensch und Maschine, zwischen Natur und Technik in Frage, indem sie zeigt, dass beide denselben formalen Prinzipien gehorchen. Ludwig Wittgenstein trug mit seiner Analyse von Sprachspielen und regelgeleitetem Verhalten indirekt zur philosophischen Grundlegung kybernetischen Denkens bei, indem er zeigte, wie Bedeutung durch Verwendungsregeln und kommunikative Rueckkopplung entsteht.\n\nIn der zweiten Haelfte des 20. Jahrhunderts wurde die Kybernetik zu einem Leitparadigma, das weit ueber die Technik hinausreicht. Sie beeinflusste die Biologie, die Soziologie, die Psychologie und die Philosophie des Geistes. Die Frage, ob das menschliche Bewusstsein als kybernetisches System verstanden werden kann, gehoert zu den draengendsten Problemen der gegenwaertigen Philosophie.",
+    "kernthesen": [
+      "Rueckkopplung ist das universelle Prinzip selbstregulierender Systeme",
+      "Steuerung und Kommunikation folgen in Maschinen und Organismen denselben Gesetzen",
+      "Die Unterscheidung zwischen Mensch und Maschine ist graduell, nicht prinzipiell",
+      "Information ist ein grundlegendes Prinzip der Wirklichkeit",
+      "Komplexe Systeme organisieren sich durch Rueckkopplungsschleifen selbst"
+    ],
+    "entstehung": "Die Kybernetik wurde in den 1940er Jahren von Norbert Wiener begruendet und entwickelte sich rasch zu einer interdisziplinaeren Wissenschaft. Sie entstand aus der Verbindung von Ingenieurwissenschaften, Biologie und Mathematik im Kontext des Zweiten Weltkriegs.",
+    "kritik": "Kritiker werfen der Kybernetik vor, sie reduziere den Menschen auf ein informationsverarbeitendes System und unterschlage die Dimensionen von Bewusstsein, Freiheit und Subjektivitaet. Zudem wird die Frage gestellt, ob die Analogie zwischen Maschinen und Organismen nicht oberflaechlich bleibt und wesentliche Unterschiede verdeckt."
+  }
 }

@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Dekonstruktion", "Poststrukturalismus"],
+  "hauptstroemungen": [
+    "Dekonstruktion",
+    "Poststrukturalismus"
+  ],
   "kurzbeschreibung": "Jacques Derrida war der Begründer der Dekonstruktion und einer der einflussreichsten und umstrittensten Philosophen des 20. Jahrhunderts. Seine Analyse der 'Logozentrismus' genannten metaphysischen Tradition des Abendlandes revolutionierte die Philosophie, Literaturwissenschaft und Kulturtheorie. Mit seinen Begriffen der 'différance', der Schrift und der Spur dekonstruierte er die fundamentalen Oppositionen der westlichen Metaphysik.",
   "biografie": {
     "fruehesLeben": "Jacques Derrida wurde am 15. Juli 1930 als Jackie Derrida in El-Biar bei Algier in eine sephardisch-jüdische Familie geboren. Die antisemitische Gesetzgebung des Vichy-Regimes traf ihn 1942, als er vom Gymnasium ausgeschlossen wurde. Diese Erfahrung des Ausschlusses prägte sein späteres Denken über Differenz und Zugehörigkeit. Er ging 1949 nach Frankreich und studierte an der École Normale Supérieure in Paris, wo er sich intensiv mit Husserl, Heidegger und der Phänomenologie beschäftigte. Die Agrégation in Philosophie bestand er 1956.",
@@ -99,6 +102,67 @@
       "kontext": "Derridas Konzept der 'démocratie à venir' – einer noch ausstehenden, wahren Demokratie."
     }
   ],
-  "verwandtePhilosophen": ["martin-heidegger", "edmund-husserl", "michel-foucault", "gilles-deleuze", "jean-francois-lyotard", "friedrich-nietzsche"],
-  "verwandteIsmen": ["dekonstruktion", "poststrukturalismus", "postmoderne"]
+  "verwandtePhilosophen": [
+    "martin-heidegger",
+    "edmund-husserl",
+    "michel-foucault",
+    "gilles-deleuze",
+    "jean-francois-lyotard",
+    "friedrich-nietzsche"
+  ],
+  "verwandteIsmen": [
+    "dekonstruktion",
+    "poststrukturalismus",
+    "postmoderne"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Jacques Derrida war der Begruender der Dekonstruktion und einer der einflussreichsten und umstrittensten Philosophen des 20. Jahrhunderts. Seine Analyse der 'Logozentrismus' genannten metaphysischen Tradition des Abendlandes revolutionierte die Philosophie, Literaturwissenschaft und Kulturtheorie. Mit seinen Begriffen der 'différance', der Schrift und der Spur dekonstruierte er die fundamentalen Oppositionen der westlichen Metaphysik.",
+    "biografie": {
+      "fruehesLeben": "Jacques Derrida wurde am 15. Juli 1930 als Jackie Derrida in El-Biar bei Algier in eine sephardisch-juedische Familie geboren. Die antisemitische Gesetzgebung des Vichy-Regimes traf ihn 1942, als er vom Gymnasium ausgeschlossen wurde. Diese Erfahrung des Ausschlusses praegte sein spaeteres Denken ueber Differenz und Zugehoerigkeit. Er ging 1949 nach Frankreich und studierte an der École Normale Supérieure in Paris, wo er sich intensiv mit Husserl, Heidegger und der Phaenomenologie beschaeftigte. Die Agrégation in Philosophie bestand er 1956.",
+      "schaffen": "1967 veroeffentlichte Derrida drei Buecher, die die Dekonstruktion begruendeten: 'De la grammatologie' (Grammatologie), 'L'écriture et la différence' (Die Schrift und die Differenz) und 'La voix et le phénomène' (Die Stimme und das Phaenomen). In diesen Werken zeigte er, wie die westliche Metaphysik seit Platon die Sprache (das Gesprochene, die Stimme, die Praesenz) ueber die Schrift privilegiert – ein 'Logozentrismus', den er dekonstruierte. Sein Schluesselbegriff 'différance' (ein Neologismus, der 'Unterschied' und 'Aufschub' verbindet) bezeichnet die endlose Bewegung der Bedeutungsverschiebung, die jede stabile Bedeutung unterminiert. Ab den 1970er Jahren erweiterte Derrida sein Denken auf Ethik, Politik, Recht und Religion.",
+      "spaetesLeben": "Derrida wurde zu einem der meistdiskutierten Intellektuellen weltweit, bewundert und angefeindet gleichermassen. 1992 loeste die Verleihung der Ehrendoktorwuerde der Cambridge University einen offenen Protest analytischer Philosophen aus. In seinen spaeten Schriften wandte er sich zunehmend ethischen und politischen Fragen zu: Gastfreundschaft, Vergebung, Todessstrafe, Souveraenitaet und das Tier. Sein Spaetwerk zeigt eine messianische Dimension – eine 'Messianizitaet ohne Messianismus', die Hoffnung auf eine 'kommende Demokratie'.",
+      "tod": "Jacques Derrida starb am 9. Oktober 2004 in Paris an Bauchspeicheldruesenkrebs. Er war 74 Jahre alt. Sein Tod wurde weltweit als Verlust eines der bedeutendsten Denker des 20. Jahrhunderts betrauert.",
+      "nachwirkung": "Derridas Dekonstruktion hat die Literaturwissenschaft, die Philosophie, die Rechtstheorie, die Theologie, die Architektur und die Kulturwissenschaften tiefgreifend veraendert. Er beeinflusste die Yale School of Criticism (de Man, Hartman, Miller), die Gender Studies (Butler), die postkoloniale Theorie (Spivak) und die politische Philosophie. Obwohl die Dekonstruktion in der analytischen Philosophie oft abgelehnt wird, hat sie die kontinentale Tradition grundlegend transformiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Dekonstruktion",
+        "beschreibung": "Die Dekonstruktion ist keine Methode, sondern ein Lektuereverfahren, das die hierarchischen Oppositionen der Metaphysik (Sprache/Schrift, Natur/Kultur, Praesenz/Abwesenheit) offenlegt und ihre scheinbare Natuerlichkeit als Konstruktion erweist. Sie zeigt, wie jeder Text sich selbst untergraebt."
+      },
+      {
+        "titel": "Différance",
+        "beschreibung": "Die 'différance' (mit 'a') ist ein Neologismus, der 'Unterschied' und 'Aufschub' verbindet. Bedeutung entsteht nie durch reine Praesenz, sondern immer durch ein Spiel von Differenzen und Aufschueben. Es gibt kein transzendentales Signifikat ausserhalb des Verweisungszusammenhangs der Zeichen."
+      },
+      {
+        "titel": "Es gibt kein Ausserhalb des Textes",
+        "beschreibung": "Der oft missverstandene Satz 'Il n'y a pas de hors-texte' bedeutet nicht, dass es keine Realitaet gibt, sondern dass alles, was wir erfahren und erkennen, bereits durch Sprache, Schrift und Zeichensysteme vermittelt ist. Es gibt keinen unmittelbaren Zugang zur Wirklichkeit jenseits der Textualitaet."
+      },
+      {
+        "titel": "Logozentrismus und Phonozentrismus",
+        "beschreibung": "Die westliche Metaphysik privilegiert das gesprochene Wort (Stimme) ueber die Schrift und die Praesenz ueber die Abwesenheit. Diese logozentristische Tradition beruht auf der Illusion einer unmittelbaren Selbstpraesenz des Sinns in der Stimme."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Grammatologie (De la grammatologie)",
+        "jahr": "1967",
+        "beschreibung": "Das Gruendungswerk der Dekonstruktion kritisiert den Logozentrismus der westlichen Metaphysik und rehabilitiert die Schrift als urspruenglicher als die Stimme."
+      },
+      {
+        "titel": "Die Schrift und die Differenz (L'écriture et la différence)",
+        "jahr": "1967",
+        "beschreibung": "Eine Sammlung von Essays, die die Dekonstruktion auf verschiedene philosophische und literarische Texte anwenden – von Husserl ueber Lévi-Strauss bis Bataille."
+      },
+      {
+        "titel": "Die Stimme und das Phaenomen (La voix et le phénomène)",
+        "jahr": "1967",
+        "beschreibung": "Eine Dekonstruktion von Husserls Zeichentheorie, die zeigt, wie die phaenomenologische Praesenzmetaphysik sich selbst untergraebt."
+      },
+      {
+        "titel": "Randgaenge der Philosophie (Marges de la philosophie)",
+        "jahr": "1972",
+        "beschreibung": "Eine Sammlung von Essays, die den beruehmten Aufsatz 'La différance' enthaelt und die Dekonstruktion der philosophischen Tradition fortfuehrt."
+      }
+    ]
+  }
 }

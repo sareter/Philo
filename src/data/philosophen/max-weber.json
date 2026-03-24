@@ -18,7 +18,9 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Soziologie"],
+  "hauptstroemungen": [
+    "Soziologie"
+  ],
   "kurzbeschreibung": "Max Weber war ein deutscher Soziologe, Jurist und Nationalökonom, der als einer der Begründer der modernen Soziologie gilt. Seine Analyse des Zusammenhangs von protestantischer Ethik und Kapitalismus sowie seine Theorie der Rationalisierung und Bürokratisierung gehören zu den einflussreichsten sozialwissenschaftlichen Beiträgen überhaupt. Sein Konzept der 'Entzauberung der Welt' wurde zur Schlüsseldiagnose der Moderne.",
   "biografie": {
     "fruehesLeben": "Max Weber wurde 1864 in Erfurt als Sohn eines nationalliberalen Politikers geboren. Er studierte Jura, Geschichte und Nationalökonomie in Heidelberg, Berlin und Göttingen. Früh zeigte er sich als brillanter Gelehrter mit enormer Arbeitskraft und breitem Wissenshorizont.",
@@ -79,6 +81,57 @@
       "kontext": "Webers klassische Definition des modernen Staates, die zum Grundbegriff der Politikwissenschaft wurde."
     }
   ],
-  "verwandtePhilosophen": ["georg-simmel", "karl-marx", "wilhelm-dilthey"],
-  "verwandteIsmen": ["soziologie"]
+  "verwandtePhilosophen": [
+    "georg-simmel",
+    "karl-marx",
+    "wilhelm-dilthey"
+  ],
+  "verwandteIsmen": [
+    "soziologie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Max Weber war ein deutscher Soziologe, Jurist und Nationaloekonom, der als einer der Begruender der modernen Soziologie gilt. Seine Analyse des Zusammenhangs von protestantischer Ethik und Kapitalismus sowie seine Theorie der Rationalisierung und Buerokratisierung gehoeren zu den einflussreichsten sozialwissenschaftlichen Beitraegen ueberhaupt. Sein Konzept der 'Entzauberung der Welt' wurde zur Schluesseldiagnose der Moderne.",
+    "biografie": {
+      "fruehesLeben": "Max Weber wurde 1864 in Erfurt als Sohn eines nationalliberalen Politikers geboren. Er studierte Jura, Geschichte und Nationaloekonomie in Heidelberg, Berlin und Goettingen. Frueh zeigte er sich als brillanter Gelehrter mit enormer Arbeitskraft und breitem Wissenshorizont.",
+      "schaffen": "Weber habilitierte sich 1891 und wurde Professor fuer Nationaloekonomie in Freiburg und Heidelberg. 'Die protestantische Ethik und der Geist des Kapitalismus' (1905) begruendete die Religionssoziologie und analysierte den Zusammenhang zwischen calvinistischer Berufungsethik und kapitalistischem Geist. 'Wirtschaft und Gesellschaft' (posthum) enthaelt seine Herrschaftssoziologie und die Theorie der Buerokratie.",
+      "spaetesLeben": "Weber litt ab 1898 unter schweren Depressionen und konnte jahrelang nicht arbeiten. Nach seiner Genesung entfaltete er eine immense Produktivitaet. In seinen letzten Lebensjahren hielt er die beruehmten Vortraege 'Wissenschaft als Beruf' und 'Politik als Beruf' und engagierte sich politisch in der Weimarer Republik.",
+      "tod": "Max Weber starb am 14. Juni 1920 in Muenchen an der Spanischen Grippe. Er war 56 Jahre alt. Sein Hauptwerk 'Wirtschaft und Gesellschaft' blieb unvollendet und wurde posthum von seiner Frau Marianne Weber herausgegeben.",
+      "nachwirkung": "Weber gilt als einer der einflussreichsten Sozialwissenschaftler der Geschichte. Seine Begriffe – Charisma, Buerokratie, Entzauberung, Idealtyp, Wertfreiheit – sind Grundbegriffe der modernen Sozialwissenschaften. Talcott Parsons, Juergen Habermas und Pierre Bourdieu stehen in seiner Tradition."
+    },
+    "kernideen": [
+      {
+        "titel": "Protestantische Ethik und Kapitalismus",
+        "beschreibung": "Die calvinistische Berufungsethik mit ihrem Konzept der innerweltlichen Askese hat den 'Geist des Kapitalismus' hervorgebracht. Die rastlose Berufsarbeit als Zeichen der goettlichen Erwaehlung schuf die mentale Grundlage fuer die kapitalistische Wirtschaftsordnung."
+      },
+      {
+        "titel": "Entzauberung der Welt",
+        "beschreibung": "Die Rationalisierung hat die Welt 'entzaubert': Mystische und magische Erklaerungen werden durch wissenschaftliche ersetzt. Dieser Prozess fuehrt zu einem Sinnverlust, da die Wissenschaft keine Antwort auf die Frage nach dem Sinn des Lebens geben kann."
+      },
+      {
+        "titel": "Herrschaftssoziologie",
+        "beschreibung": "Weber unterschied drei Typen legitimer Herrschaft: die traditionelle (Gewohnheit), die charismatische (aussergewoehnliche Person) und die rational-legale (Gesetze und Buerokratie). Die moderne Gesellschaft tendiert zur buerokratischen Herrschaft als 'stahlhartem Gehaeuse'."
+      },
+      {
+        "titel": "Wertfreiheit der Wissenschaft",
+        "beschreibung": "Die Wissenschaft soll wertfrei sein: Sie kann sagen, was ist, aber nicht, was sein soll. Werturteile sind subjektiv und gehoeren nicht in die wissenschaftliche Analyse. Der Wissenschaftler muss seine persoenlichen Wertungen von seiner Forschung trennen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die protestantische Ethik und der Geist des Kapitalismus",
+        "jahr": "1905",
+        "beschreibung": "Die bahnbrechende Studie ueber den Zusammenhang zwischen calvinistischer Berufsethik und der Entstehung des modernen Kapitalismus."
+      },
+      {
+        "titel": "Wirtschaft und Gesellschaft",
+        "jahr": "1922",
+        "beschreibung": "Webers posthum veroeffentlichtes Hauptwerk, das eine umfassende Soziologie der Herrschaft, des Rechts, der Religion und der Wirtschaft enthaelt."
+      },
+      {
+        "titel": "Wissenschaft als Beruf / Politik als Beruf",
+        "jahr": "1919",
+        "beschreibung": "Zwei beruehmte Vortraege ueber die Berufung des Wissenschaftlers und des Politikers, die die Ethik der Verantwortung und der Gesinnung unterscheiden."
+      }
+    ]
+  }
 }

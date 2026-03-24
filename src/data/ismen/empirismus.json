@@ -20,5 +20,18 @@
     { "titel": "A Treatise of Human Nature", "autor": "David Hume", "jahr": "1739" },
     { "titel": "An Enquiry Concerning Human Understanding", "autor": "David Hume", "jahr": "1748" },
     { "titel": "Novum Organum", "autor": "Francis Bacon", "jahr": "1620" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Empirismus sagt: Alles, was du weisst, hast du durch deine Sinne gelernt. Ohne Erfahrung ist dein Kopf leer. Es gibt kein angeborenes Wissen.",
+    "ausfuehrlicheBeschreibung": "Woher weisst du, dass Feuer heiss ist? Weil du es mal angefasst oder gespuert hast. Der Empirismus sagt: So funktioniert alles Wissen. Du kommst ohne eingebautes Wissen auf die Welt, dein Geist ist wie ein leeres Blatt, und alles, was du jemals lernst, kommt durch deine fuenf Sinne: Sehen, Hoeren, Fuehlen, Riechen, Schmecken.\n\nDer wichtigste Empirist war John Locke im 17. Jahrhundert. Er widersprach der Idee, dass Menschen mit angeborenen Ideen auf die Welt kommen. Spaeter trieb David Hume das Ganze auf die Spitze: Er fragte sich, woher wir eigentlich wissen, dass auf eine Ursache immer eine Wirkung folgt. Seine Antwort: Wir haben es einfach oft genug erlebt und sind es gewohnt. Echte Sicherheit gibt uns das aber nicht.\n\nDer Empirismus hat die moderne Naturwissenschaft stark beeinflusst: Experimente und Beobachtungen zaehlen mehr als Theorien im Kopf. Gleichzeitig gibt es Grenzen: Mathematik und Logik scheinen nicht aus Sinneserfahrung zu kommen. Und wenn wirklich alles Wissen nur auf Erfahrung beruht, koennten wir uns nie sicher sein, dass morgen die Sonne aufgeht, nur weil sie es gestern getan hat.",
+    "kernthesen": [
+      "Alles Wissen kommt letztlich aus der Sinneserfahrung.",
+      "Der Mensch wird ohne angeborenes Wissen geboren, der Geist ist ein leeres Blatt.",
+      "Begriffe, die sich nicht auf Erfahrung zurueckfuehren lassen, sind inhaltsleer.",
+      "Ursache und Wirkung beobachten wir nicht direkt, wir sind es nur gewohnt.",
+      "Die beste Methode zur Erkenntnis ist das Beobachten und Experimentieren."
+    ],
+    "entstehung": "Der Empirismus entstand im 17. Jahrhundert in England als Gegenposition zum Rationalismus auf dem europaeischen Festland. John Locke legte die Grundlagen, und David Hume trieb die Idee im 18. Jahrhundert auf die Spitze. Im 20. Jahrhundert fuehrte der Wiener Kreis den Empirismus weiter.",
+    "kritik": "Kant zeigte, dass reiner Empirismus Wissenschaft nicht erklaeren kann, weil manche Erkenntnisse nicht aus Erfahrung stammen, zum Beispiel Mathematik. Ausserdem fuehrt konsequenter Empirismus zu einem Skeptizismus, bei dem man sich ueber fast nichts mehr sicher sein kann. Und die Idee des leeren Blatts wird durch die Sprachforschung infrage gestellt, die zeigt, dass bestimmte Faehigkeiten angeboren sein koennten."
+  }
 }

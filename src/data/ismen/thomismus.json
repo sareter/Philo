@@ -11,14 +11,50 @@
     "Das natürliche Sittengesetz ist dem Menschen durch seine Vernunft zugänglich und bildet die Grundlage der Ethik",
     "Universalien existieren in den Dingen als Formen und werden durch Abstraktion erkannt"
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Thomas von Aquin entwickelte sein philosophisch-theologisches System im 13. Jahrhundert, insbesondere in der 'Summa Theologiae' und der 'Summa contra Gentiles'. Er rezipierte die aristotelische Philosophie, die durch arabische Vermittlung (Avicenna, Averroes) wiederentdeckt worden war, und integrierte sie in die christliche Theologie. Nach einer Phase des Bedeutungsverlusts in der frühen Neuzeit erlebte der Thomismus im 19. Jahrhundert eine Renaissance durch Leo XIII. (1879). Der Neothomismus (Maritain, Gilson) und der analytische Thomismus (Anscombe, MacIntyre) haben die Tradition im 20. und 21. Jahrhundert fortgeführt.",
   "kritik": "Kants Kritik der Gottesbeweise stellte die Gültigkeit der fünf Wege infrage. Hume zeigte die Probleme des kosmologischen Gottesbeweis. Der Thomismus wird als zu eng an eine aristotelische Physik und Metaphysik gebunden kritisiert, die durch die moderne Wissenschaft überholt ist. Existenzialisten wie Sartre argumentierten, dass es kein festes menschliches Wesen gibt, auf das sich ein Naturrecht gründen ließe. Der Zusammenhang zwischen thomistischem Naturrecht und kontroversen Positionen der katholischen Kirche (zu Empfängnisverhütung, Homosexualität, Sterbehilfe) wird kritisch diskutiert. Analytische Philosophen kritisieren die metaphysischen Grundbegriffe (Akt/Potenz, Essenz/Existenz) als unklar oder überflüssig.",
-  "verwandteIsmen": ["scholastik", "tugendethik", "mystizismus", "kartesianismus"],
+  "verwandteIsmen": [
+    "scholastik",
+    "tugendethik",
+    "mystizismus",
+    "kartesianismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Summa Theologiae", "autor": "Thomas von Aquin", "jahr": "1265" },
-    { "titel": "Summa contra Gentiles", "autor": "Thomas von Aquin", "jahr": "1264" },
-    { "titel": "The Degrees of Knowledge", "autor": "Jacques Maritain", "jahr": "1932" },
-    { "titel": "Being and Some Philosophers", "autor": "Étienne Gilson", "jahr": "1949" }
-  ]
+    {
+      "titel": "Summa Theologiae",
+      "autor": "Thomas von Aquin",
+      "jahr": "1265"
+    },
+    {
+      "titel": "Summa contra Gentiles",
+      "autor": "Thomas von Aquin",
+      "jahr": "1264"
+    },
+    {
+      "titel": "The Degrees of Knowledge",
+      "autor": "Jacques Maritain",
+      "jahr": "1932"
+    },
+    {
+      "titel": "Being and Some Philosophers",
+      "autor": "Étienne Gilson",
+      "jahr": "1949"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Thomismus ist die philosophisch-theologische Tradition, die auf dem Werk Thomas von Aquins basiert.",
+    "ausfuehrlicheBeschreibung": "Der Thomismus ist eine der einflussreichsten philosophischen und theologischen Traditionen des Abendlandes und praegt bis heute das Denken der katholischen Kirche. Er geht auf Thomas von Aquin (1225-1274) zurueck, der eine monumentale Synthese von aristotelischer Philosophie und christlicher Theologie schuf.\n\nThomas von Aquins Metaphysik basiert auf der aristotelischen Unterscheidung von Akt und Potenz, Materie und Form, sowie seiner eigenen Weiterentwicklung der Unterscheidung von Essenz (Wesen) und Existenz (Sein). In allen geschaffenen Dingen sind Wesen und Sein voneinander verschieden – sie existieren, muessen aber nicht existieren. Nur in Gott fallen Wesen und Sein zusammen: Gott ist 'ipsum esse subsistens' (das subsistierende Sein selbst).\n\nDie fuenf Wege (quinque viae) des Thomas sind die beruehmtesten Gottesbeweise der Philosophiegeschichte. Sie schliessen von der Bewegung (Erstbeweger), von der Wirkursache (Erste Ursache), von der Kontingenz (notwendiges Wesen), von den Graden der Vollkommenheit (hoechstes Gut) und von der Zweckmaessigkeit (intelligenter Ordner) auf die Existenz Gottes.",
+    "kernthesen": [
+      "Glaube und Vernunft sind komplementaer – die natuerliche Vernunft kann grundlegende Wahrheiten ueber Gott und die Moral erkennen",
+      "In allen geschaffenen Dingen sind Wesen und Sein voneinander verschieden; nur in Gott fallen sie zusammen",
+      "Die Existenz Gottes kann durch natuerliche Vernunft bewiesen werden (fuenf Wege)",
+      "Das natuerliche Sittengesetz ist dem Menschen durch seine Vernunft zugaenglich und bildet die Grundlage der Ethik",
+      "Universalien existieren in den Dingen als Formen und werden durch Abstraktion erkannt"
+    ],
+    "entstehung": "Thomas von Aquin entwickelte sein philosophisch-theologisches System im 13. Jahrhundert, insbesondere in der 'Summa Theologiae' und der 'Summa contra Gentiles'. Er rezipierte die aristotelische Philosophie, die durch arabische Vermittlung (Avicenna, Averroes) wiederentdeckt worden war, und integrierte sie in die christliche Theologie. Nach einer Phase des Bedeutungsverlusts in der fruehen Neuzeit erlebte der Thomismus im 19. Jahrhundert eine Renaissance durch Leo XIII. (1879). Der Neothomismus (Maritain, Gilson) und der analytische Thomismus (Anscombe, MacIntyre) haben die Tradition im 20.",
+    "kritik": "Kants Kritik der Gottesbeweise stellte die Gueltigkeit der fuenf Wege infrage. Hume zeigte die Probleme des kosmologischen Gottesbeweis. Der Thomismus wird als zu eng an eine aristotelische Physik und Metaphysik gebunden kritisiert, die durch die moderne Wissenschaft ueberholt ist. Existenzialisten wie Sartre argumentierten, dass es kein festes menschliches Wesen gibt, auf das sich ein Naturrecht gruenden liesse."
+  }
 }

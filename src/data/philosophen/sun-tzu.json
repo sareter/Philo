@@ -18,7 +18,9 @@
   },
   "epoche": "Antike",
   "region": "Asien",
-  "hauptstroemungen": ["Strategie"],
+  "hauptstroemungen": [
+    "Strategie"
+  ],
   "kurzbeschreibung": "Sun Tzu war ein chinesischer General und Militärstratege, der als Verfasser des berühmten Werks 'Die Kunst des Krieges' gilt. Seine strategischen Prinzipien haben nicht nur die Kriegsführung, sondern auch die Unternehmensführung und politische Theorie nachhaltig beeinflusst. Er betonte die Bedeutung von List, Anpassungsfähigkeit und dem Sieg ohne Kampf als höchster strategischer Kunst.",
   "biografie": {
     "fruehesLeben": "Sun Tzu wurde vermutlich um 544 v. Chr. im Staat Qi im heutigen Nordosten Chinas geboren. Über seine frühen Lebensjahre ist wenig Gesichertes bekannt, da historische Quellen spärlich und oft legendenhaft sind. Er stammte möglicherweise aus einer Familie mit militärischer Tradition.",
@@ -76,6 +78,57 @@
       "quelle": "Die Kunst des Krieges"
     }
   ],
-  "verwandtePhilosophen": ["konfuzius", "laozi", "niccolo-machiavelli"],
-  "verwandteIsmen": ["strategie"]
+  "verwandtePhilosophen": [
+    "konfuzius",
+    "laozi",
+    "niccolo-machiavelli"
+  ],
+  "verwandteIsmen": [
+    "strategie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Sun Tzu war ein chinesischer General und Militaerstratege, der als Verfasser des beruehmten Werks 'Die Kunst des Krieges' gilt. Seine strategischen Prinzipien haben nicht nur die Kriegsfuehrung, sondern auch die Unternehmensfuehrung und politische Theorie nachhaltig beeinflusst. Er betonte die Bedeutung von List, Anpassungsfaehigkeit und dem Sieg ohne Kampf als hoechster strategischer Kunst.",
+    "biografie": {
+      "fruehesLeben": "Sun Tzu wurde vermutlich um 544 v. Chr. im Staat Qi im heutigen Nordosten Chinas geboren. Ueber seine fruehen Lebensjahre ist wenig Gesichertes bekannt, da historische Quellen spaerlich und oft legendenhaft sind. Er stammte moeglicherweise aus einer Familie mit militaerischer Tradition.",
+      "schaffen": "Sun Tzu diente als General unter Koenig Helue von Wu und verhalf dem Staat Wu zu bedeutenden militaerischen Siegen. Sein Hauptwerk 'Die Kunst des Krieges' (Sunzi Bingfa) wurde zum einflussreichsten Strategietext der Weltgeschichte. Darin formulierte er dreizehn Kapitel ueber Kriegsfuehrung, die von der Planung ueber Taktik bis zur Spionage reichen.",
+      "spaetesLeben": "Die letzten Lebensjahre Sun Tzus liegen weitgehend im Dunkeln. Nach seinem Dienst unter Koenig Helue soll er sich aus dem oeffentlichen Leben zurueckgezogen haben. Einige Quellen berichten, er sei in Ungnade gefallen, andere deuten auf einen friedlichen Ruhestand hin.",
+      "tod": "Sun Tzu starb vermutlich um 496 v. Chr. Die genauen Umstaende seines Todes sind nicht ueberliefert. Sein Vermaechtnis ueberlebte ihn jedoch um Jahrtausende und beeinflusst bis heute strategisches Denken weltweit.",
+      "nachwirkung": "Die Kunst des Krieges wurde zum meistgelesenen Strategietext der Geschichte und beeinflusste Militaerfuehrer von Napoleon bis Mao Zedong. In der modernen Welt wird das Werk in Wirtschaftsschulen und Managementausbildungen als Grundlagentext verwendet. Sun Tzus Betonung der psychologischen Kriegsfuehrung und des Sieges durch Strategie statt rohe Gewalt bleibt zeitlos relevant."
+    },
+    "kernideen": [
+      {
+        "titel": "Sieg ohne Kampf",
+        "beschreibung": "Die hoechste Kunst der Kriegsfuehrung besteht darin, den Feind ohne Kampf zu besiegen. Durch ueberlegene Strategie, Diplomatie und psychologische Kriegsfuehrung kann der Krieg gewonnen werden, bevor er ueberhaupt beginnt. Dies schont die eigenen Ressourcen und minimiert das Leid."
+      },
+      {
+        "titel": "Kenntnis des Feindes und seiner selbst",
+        "beschreibung": "Wer den Feind und sich selbst kennt, wird in hundert Schlachten nicht in Gefahr geraten. Sun Tzu betont die fundamentale Bedeutung von Aufklaerung, Selbstkenntnis und der genauen Einschaetzung der Kraefteverhaeltnisse als Grundlage jeder erfolgreichen Strategie."
+      },
+      {
+        "titel": "Anpassungsfaehigkeit und Formlosigkeit",
+        "beschreibung": "Wie Wasser, das sich jeder Gelaendeform anpasst, muss der Stratege flexibel auf wechselnde Umstaende reagieren. Starre Plaene fuehren zum Untergang; wahre Meisterschaft liegt in der Faehigkeit, sich unvorhersehbar zu bewegen und die Schwaechen des Gegners auszunutzen."
+      },
+      {
+        "titel": "Taeuschung als strategisches Prinzip",
+        "beschreibung": "Alle Kriegsfuehrung beruht auf Taeuschung. Sun Tzu lehrt, dem Feind falsche Eindruecke zu vermitteln – Staerke zu zeigen, wo Schwaeche ist, und umgekehrt. Die Kontrolle ueber Information und Wahrnehmung ist ein entscheidender strategischer Vorteil."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Kunst des Krieges (Sunzi Bingfa)",
+        "jahr": "ca. 500 v. Chr.",
+        "beschreibung": "Das einflussreichste Strategiewerk der Geschichte, bestehend aus dreizehn Kapiteln ueber Kriegsfuehrung, Taktik, Logistik und Spionage. Es wurde zum Standardwerk fuer Militaerstrategen und Fuehrungskraefte weltweit."
+      },
+      {
+        "titel": "Kapitel ueber Planung (Shi Ji)",
+        "jahr": "ca. 500 v. Chr.",
+        "beschreibung": "Das erste Kapitel der Kunst des Krieges behandelt die fuenf grundlegenden Faktoren der Kriegsfuehrung: den Weg, das Wetter, das Gelaende, die Fuehrung und die Disziplin."
+      },
+      {
+        "titel": "Kapitel ueber Schwaechen und Staerken",
+        "jahr": "ca. 500 v. Chr.",
+        "beschreibung": "In diesem zentralen Abschnitt lehrt Sun Tzu, wie man die eigenen Staerken gegen die Schwaechen des Feindes einsetzt und dabei die Initiative behaelt."
+      }
+    ]
+  }
 }

@@ -20,5 +20,18 @@
     { "titel": "The Right and the Good", "autor": "W.D. Ross", "jahr": "1930" },
     { "titel": "Ethical Intuitionism", "autor": "Michael Huemer", "jahr": "2005" },
     { "titel": "Over de Grondslagen der Wiskunde", "autor": "L.E.J. Brouwer", "jahr": "1907" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Intuitionismus sagt: Manche Dinge erkennen wir durch unmittelbare Einsicht, ohne lange Beweise. In der Ethik betrifft das moralische Wahrheiten, in der Mathematik die Frage, was wirklich bewiesen ist.",
+    "ausfuehrlicheBeschreibung": "Du weisst einfach, dass es falsch ist, jemanden grundlos zu quaelen. Du brauchst keinen langen Beweis dafuer. Der ethische Intuitionismus sagt: Solche moralischen Grundwahrheiten erkennen wir direkt, durch eine Art innere Einsicht. Der Philosoph G.E. Moore meinte, dass gut ein so grundlegender Begriff ist, dass man ihn nicht durch andere Begriffe definieren kann. Man spuert einfach, was gut ist.\n\nW.D. Ross hat das weitergedacht. Er sagte: Wir haben verschiedene Pflichten, zum Beispiel Ehrlichkeit, Dankbarkeit oder Gerechtigkeit. Diese erkennen wir intuitiv. Manchmal kommen sie in Konflikt, und dann muessen wir abwaegen, welche gerade wichtiger ist. Auch dieses Abwaegen beruht auf Intuition.\n\nIn der Mathematik gibt es den Intuitionismus als ganz eigene Richtung. Brouwer meinte: Ein mathematischer Satz ist nur dann wahr, wenn wir ihn konkret beweisen koennen. Es reicht nicht, zu zeigen, dass das Gegenteil falsch waere. Das ist strenger als die normale Mathematik und fuehrt dazu, dass einige mathematische Saetze nicht mehr gelten.",
+    "kernthesen": [
+      "Grundlegende moralische Wahrheiten erkennen wir durch unmittelbare Einsicht, ohne langen Beweis.",
+      "Gut ist ein so einfacher Begriff, dass man ihn nicht weiter definieren kann.",
+      "Wir haben verschiedene Pflichten, die manchmal in Konflikt geraten, und muessen intuitiv abwaegen.",
+      "In der Mathematik existiert etwas nur, wenn man es konkret beweisen kann.",
+      "Indirekte Beweise, also nur zeigen, dass das Gegenteil unmoeglich ist, reichen dem mathematischen Intuitionismus nicht."
+    ],
+    "entstehung": "Der ethische Intuitionismus wurde durch G.E. Moores Principia Ethica 1903 begruendet und durch W.D. Ross weiterentwickelt. Der mathematische Intuitionismus geht auf L.E.J. Brouwer zurueck, der ihn ab 1907 entwickelte. Beide Richtungen betonen die Rolle der unmittelbaren Einsicht.",
+    "kritik": "Gegen den ethischen Intuitionismus wird eingewandt, dass Menschen sehr unterschiedliche moralische Intuitionen haben und sich jeder auf seine eigene Intuition berufen kann. In der Mathematik wird kritisiert, dass der Intuitionismus zu streng ist und viele wichtige mathematische Ergebnisse aufgeben muss."
+  }
 }

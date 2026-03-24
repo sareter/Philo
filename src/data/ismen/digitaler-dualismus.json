@@ -19,5 +19,18 @@
     {"titel": "The IRL Fetish", "autor": "Nathan Jurgenson", "jahr": "2012"},
     {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"},
     {"titel": "The Social Photo", "autor": "Nathan Jurgenson", "jahr": "2019"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Digitaler Dualismus ist die Annahme, dass die Online-Welt und die echte Welt zwei komplett getrennte Dinge sind. Viele Kritiker sagen aber: Stimmt gar nicht, beides ist laengst verschmolzen.",
+    "ausfuehrlicheBeschreibung": "Kennst du den Spruch: Geh mal raus ins echte Leben? Genau das ist Digitaler Dualismus: die Ueberzeugung, dass das Internet eine kuenstliche, weniger echte Welt ist und das richtige Leben nur offline stattfindet. Ein Chat mit Freunden zaehlt demnach weniger als ein Gespraech von Angesicht zu Angesicht.\n\nDer Soziologe Nathan Jurgenson hat den Begriff 2011 gepraegt, allerdings nicht um ihn zu verteidigen, sondern um ihn zu kritisieren. Er sagt: Online und Offline lassen sich gar nicht mehr trennen. Dein Instagram-Post beeinflusst, wie Leute dich im echten Leben sehen, und was du offline erlebst, teilst du online. Beides ist miteinander verwoben.\n\nDie Debatte ist wichtig, weil sie unsere Vorstellung von Authentizitaet hinterfragt. Ist ein Telefonat weniger echt als ein persoenliches Treffen? Ist eine Online-Freundschaft weniger wert? Der Digitale Dualismus wuerde ja sagen, aber die Realitaet der meisten Menschen sieht laengst anders aus.",
+    "kernthesen": [
+      "Die Online-Welt und die Offline-Welt sind angeblich zwei komplett verschiedene Realitaeten.",
+      "Was im Internet passiert, gilt als weniger echt und weniger wichtig als die physische Welt.",
+      "Die Trennung von digital und real erinnert an die alte Frage, ob Koerper und Geist getrennt sind.",
+      "Wer authentisch leben will, muss laut dieser Sicht das Handy weglegen und offline gehen.",
+      "Kritiker sagen: Die Trennung ist eine Illusion, weil Online und Offline laengst verschmolzen sind."
+    ],
+    "entstehung": "Der Begriff wurde 2011 vom Soziologen Nathan Jurgenson gepraegt, als soziale Medien immer mehr den Alltag durchdrangen. Er wollte damit die weit verbreitete Annahme kritisieren, dass das echte Leben nur offline stattfindet.",
+    "kritik": "Die Trennung von Online und Offline ist kuenstlich, weil beides laengst miteinander verschmolzen ist. Wer digitale Erfahrungen als weniger echt abwertet, uebersieht, wie stark das Internet unser taegliches Leben praegt und wie viele echte Beziehungen dort entstehen."
+  }
 }

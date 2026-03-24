@@ -19,5 +19,18 @@
     {"titel": "Material Beings", "autor": "Peter van Inwagen", "jahr": "1990"},
     {"titel": "Objects and Persons", "autor": "Trenton Merricks", "jahr": "2001"},
     {"titel": "There Are No Ordinary Things", "autor": "Cian Dorr", "jahr": "2005"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der mereologische Nihilismus behauptet: Es gibt keine zusammengesetzten Dinge. Ein Tisch, ein Auto oder sogar dein Koerper sind keine echten Einzelobjekte -- es sind nur viele winzige Teile, die zufaellig nah beieinander sind.",
+    "ausfuehrlicheBeschreibung": "Stell dir einen Tisch vor. Du wuerdest sagen: Da steht ein Ding, ein Tisch. Der mereologische Nihilismus sagt: Nein, da stehen nur ganz viele winzige Teilchen, die zufaellig in einer bestimmten Anordnung sind. Der Tisch als einzelnes Objekt existiert gar nicht -- wir nennen diese Ansammlung von Teilchen nur so, weil es praktisch ist.\n\nDas klingt total verrueckt, oder? Aber die Idee dahinter ist gar nicht so dumm. Denn wann genau wird aus einzelnen Teilen ein Ganzes? Wenn du Sand aufschuettest, ab wann ist es ein Haufen? Wenn du einem Stuhl ein Bein wegnimmst, ist es dann noch ein Stuhl? Diese Fragen sind ueberraschend schwer zu beantworten. Die mereologischen Nihilisten loesen das Problem radikal: Zusammengesetzte Dinge gibt es einfach nicht, fertig.\n\nNatuerlich hat das komische Konsequenzen: Streng genommen gibt es dann auch keine Menschen als Einzelwesen, sondern nur Ansammlungen von Atomen. Im Alltag reden wir trotzdem von Tischen und Menschen, weil es praktisch ist -- aber metaphysisch gesehen sind das nur bequeme Abkuerzungen fuer etwas, das eigentlich viel komplizierter ist.",
+    "kernthesen": [
+      "Es gibt keine zusammengesetzten Objekte -- nur die allerkleinsten Bausteine existieren wirklich.",
+      "Wenn Teile nebeneinander liegen, entsteht dadurch kein neues Ding.",
+      "Alltagsgegenstaende wie Tische, Autos oder Koerper sind keine echten Einzelobjekte, sondern Ansammlungen von Teilchen.",
+      "Die Frage 'Wann werden Teile zu einem Ganzen?' wird einfach beantwortet mit: niemals.",
+      "Unsere Alltagssprache ueber Dinge ist praktisch nuetzlich, aber streng genommen falsch."
+    ],
+    "entstehung": "Diese Position wurde vor allem Ende des 20. Jahrhunderts von analytischen Philosophen wie Peter van Inwagen und Trenton Merricks ausgearbeitet. Sie entstand aus der Frage, wann genau Teile ein Ganzes bilden -- und gab die radikale Antwort: nie.",
+    "kritik": "Das offensichtliche Problem: Wenn es keine zusammengesetzten Dinge gibt, gibt es dann auch keine Menschen? Und wie erklaert man Bewusstsein, wenn es eigentlich nur lose Atome gibt? Ausserdem widerspricht diese Position so fundamental unserem Alltagsverstaendnis, dass viele Philosophen sie fuer uebertrieben halten."
+  }
 }

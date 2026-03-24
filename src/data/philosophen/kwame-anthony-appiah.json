@@ -18,7 +18,9 @@
   },
   "epoche": "Gegenwart",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Kosmopolitismus"],
+  "hauptstroemungen": [
+    "Kosmopolitismus"
+  ],
   "kurzbeschreibung": "Kwame Anthony Appiah ist ein ghanaisch-britisch-amerikanischer Philosoph, der für seine Arbeiten zum Kosmopolitismus, zur Identität und zur Moralphilosophie bekannt ist. Er verbindet analytische Philosophie mit einer tiefen Kenntnis afrikanischer Kulturen und plädiert für einen Kosmopolitismus, der universelle Werte mit dem Respekt vor kultureller Vielfalt vereint. Er lehrt an der New York University und schreibt die Kolumne 'The Ethicist' in der New York Times.",
   "biografie": {
     "fruehesLeben": "Kwame Anthony Appiah wurde 1954 in London als Sohn eines ghanaischen Politikers und einer britischen Kunsthistorikerin geboren. Er wuchs in Ghana auf und studierte Philosophie in Cambridge, wo er promovierte.",
@@ -84,6 +86,62 @@
       "kontext": "Die kosmopolitische Erweiterung moralischer Verantwortung über die Grenzen der eigenen Gemeinschaft hinaus."
     }
   ],
-  "verwandtePhilosophen": ["cornel-west", "kwasi-wiredu", "peter-singer"],
-  "verwandteIsmen": ["kosmopolitismus"]
+  "verwandtePhilosophen": [
+    "cornel-west",
+    "kwasi-wiredu",
+    "peter-singer"
+  ],
+  "verwandteIsmen": [
+    "kosmopolitismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Kwame Anthony Appiah ist ein ghanaisch-britisch-amerikanischer Philosoph, der fuer seine Arbeiten zum Kosmopolitismus, zur Identitaet und zur Moralphilosophie bekannt ist. Er verbindet analytische Philosophie mit einer tiefen Kenntnis afrikanischer Kulturen und plaediert fuer einen Kosmopolitismus, der universelle Werte mit dem Respekt vor kultureller Vielfalt vereint. Er lehrt an der New York University und schreibt die Kolumne 'The Ethicist' in der New York Times.",
+    "biografie": {
+      "fruehesLeben": "Kwame Anthony Appiah wurde 1954 in London als Sohn eines ghanaischen Politikers und einer britischen Kunsthistorikerin geboren. Er wuchs in Ghana auf und studierte Philosophie in Cambridge, wo er promovierte.",
+      "schaffen": "Appiah entwickelte eine philosophische Position des 'verwurzelten Kosmopolitismus', die in 'Cosmopolitanism: Ethics in a World of Strangers' (2006) ihren klarsten Ausdruck fand. In 'The Honor Code' (2010) analysiert er die Rolle der Ehre bei moralischen Revolutionen. Seine Arbeiten zur afrikanischen Philosophie und Identitaetspolitik sind ebenfalls einflussreich.",
+      "spaetesLeben": "Appiah lehrt an der New York University und ist als oeffentlicher Intellektueller in den USA weit bekannt. Seine Kolumne 'The Ethicist' in der New York Times macht philosophische Ethik einem breiten Publikum zugaenglich.",
+      "tod": "Kwame Anthony Appiah lebt und arbeitet weiterhin in New York.",
+      "nachwirkung": "Appiah hat den Kosmopolitismus als praktische Philosophie fuer eine globalisierte Welt neu formuliert. Seine Arbeiten zur Identitaetspolitik und zum Verhaeltnis von universellen Werten und kultureller Vielfalt praegen die zeitgenoessische Debatte."
+    },
+    "kernideen": [
+      {
+        "titel": "Kosmopolitismus",
+        "beschreibung": "Appiah vertritt einen Kosmopolitismus, der zwei Grundsaetze verbindet: die Verpflichtung gegenueber allen Menschen, nicht nur den Angehoerigen der eigenen Gruppe, und den Respekt vor der Vielfalt menschlicher Lebensformen. Universalismus und Partikularismus sind keine Gegensaetze."
+      },
+      {
+        "titel": "Gegen die Identitaetspolitik",
+        "beschreibung": "Appiah kritisiert die Essentialisierung von Identitaetskategorien wie Rasse, Religion oder Ethnizitaet. Identitaeten sind nicht feststehende Wesenheiten, sondern historisch gewachsene und veraenderbare soziale Konstruktionen."
+      },
+      {
+        "titel": "Ehre und moralische Revolution",
+        "beschreibung": "Grosse moralische Veraenderungen – wie die Abschaffung der Sklaverei oder des Fussbindens – werden nicht nur durch rationale Argumente bewirkt, sondern durch Verschiebungen im Ehrgefuehl einer Gesellschaft. Was als ehrenhaft oder ehrlos gilt, ist ein maechtiger Motor moralischen Wandels."
+      },
+      {
+        "titel": "Konversation ueber Grenzen hinweg",
+        "beschreibung": "Moralischer Fortschritt entsteht nicht durch theoretische Uebereinstimmung, sondern durch Konversation und Begegnung ueber kulturelle Grenzen hinweg. Man muss nicht dieselben Werte teilen, um miteinander auszukommen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Cosmopolitanism: Ethics in a World of Strangers",
+        "jahr": "2006",
+        "beschreibung": "Appiahs zugaenglichstes und einflussreichstes Werk, das den Kosmopolitismus als praktische Ethik fuer eine globalisierte Welt darstellt."
+      },
+      {
+        "titel": "The Honor Code: How Moral Revolutions Happen",
+        "jahr": "2010",
+        "beschreibung": "Eine faszinierende Analyse der Rolle der Ehre bei grossen moralischen Umwaelzungen, vom Ende des Duells bis zur Abschaffung des Fussbindens."
+      },
+      {
+        "titel": "The Lies That Bind: Rethinking Identity",
+        "jahr": "2018",
+        "beschreibung": "Eine kritische Untersuchung der Identitaetskategorien Rasse, Religion, Nation, Klasse und Kultur und ihrer Rolle in der modernen Welt."
+      },
+      {
+        "titel": "In My Father's House: Africa in the Philosophy of Culture",
+        "jahr": "1992",
+        "beschreibung": "Eine philosophische Auseinandersetzung mit dem Panafrikanismus und der Frage, was es bedeutet, Afrikaner zu sein."
+      }
+    ]
+  }
 }

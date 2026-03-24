@@ -11,13 +11,45 @@
     "Philosophische Übungen – Meditation, Reflexion, Selbstprüfung – können das Leben verwandeln.",
     "Die Philosophie hat eine therapeutische Dimension, die jenseits der Psychotherapie liegt."
   ],
-  "hauptvertreter": ["sokrates", "marcus-aurelius"],
+  "hauptvertreter": [
+    "sokrates",
+    "marcus-aurelius"
+  ],
   "entstehung": "Die philosophische Praxis wurde 1981 von Gerd Achenbach in Deutschland als 'philosophische Beratung' begründet. Pierre Hadots Forschung zur antiken Philosophie als Lebensform (1995) und Lou Marinoffs 'Plato, Not Prozac!' (1999) trugen zur internationalen Verbreitung bei.",
   "kritik": "Kritiker werfen der philosophischen Praxis vor, psychische Erkrankungen zu verharmlosen und sich ohne ausreichende klinische Ausbildung auf therapeutisches Terrain zu begeben. Zudem wird die Frage gestellt, ob die Anwendung antiker Weisheit auf moderne Probleme nicht die historische Distanz verfehle.",
-  "verwandteIsmen": ["stoizismus", "logotherapie", "existenzialismus"],
+  "verwandteIsmen": [
+    "stoizismus",
+    "logotherapie",
+    "existenzialismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Philosophie als Lebensform", "autor": "Pierre Hadot", "jahr": "1995"},
-    {"titel": "Philosophische Praxis", "autor": "Gerd Achenbach", "jahr": "1984"},
-    {"titel": "Plato, Not Prozac!", "autor": "Lou Marinoff", "jahr": "1999"}
-  ]
+    {
+      "titel": "Philosophie als Lebensform",
+      "autor": "Pierre Hadot",
+      "jahr": "1995"
+    },
+    {
+      "titel": "Philosophische Praxis",
+      "autor": "Gerd Achenbach",
+      "jahr": "1984"
+    },
+    {
+      "titel": "Plato, Not Prozac!",
+      "autor": "Lou Marinoff",
+      "jahr": "1999"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die philosophische Praxis versteht Philosophie als konkrete Lebenskunst und therapeutische Begleitung.",
+    "ausfuehrlicheBeschreibung": "Die philosophische Praxis wurde 1981 von Gerd Achenbach in Deutschland begruendet und knuepft an die antike Tradition der Philosophie als Lebenskunst an. In der Antike war Philosophie kein rein akademisches Unterfangen, sondern eine praktische Uebung der Seele: Sokrates fuehrte Gespraeche auf dem Marktplatz, die Stoiker wie Marcus Aurelius praktizierten taegliche Selbstbesinnung, und die Epikureer pflegten eine Philosophie der Lebensfreude. Diese Tradition hatte in der Moderne ihre Bedeutung verloren und wird durch die philosophische Praxis wiederbelebt.\n\nDie philosophische Praxis bietet keinen therapeutischen Behandlungsplan, sondern einen offenen Denkraum, in dem existenzielle Fragen – nach Sinn, Freiheit, Tod, Beziehung und Verantwortung – philosophisch erkundet werden. Sie unterscheidet sich von der Psychotherapie dadurch, dass sie den Ratsuchenden nicht als 'Patienten' betrachtet, sondern als denkenden Menschen, der philosophische Werkzeuge benoetigt, um seine Lebenssituation zu klaeren. Pierre Hadots Wiederentdeckung der antiken Philosophie als 'geistiger Uebung' hat dieser Bewegung wichtige historische Grundlagen gegeben.\n\nIn der Gegenwart ist die philosophische Praxis ein wachsendes Feld, das Einzelberatung, Gruppengespraeche, philosophische Cafés und Workshops in Unternehmen umfasst. Sie bietet eine Alternative zur Medikalisierung existenzieller Probleme und erinnert daran, dass die Frage nach dem guten Leben keine Krankheit ist, sondern die grundlegendste Frage der Philosophie.",
+    "kernthesen": [
+      "Philosophie ist in ihrem Ursprung eine praktische Lebenskunst, nicht nur eine akademische Disziplin.",
+      "Existenzielle Fragen – nach Sinn, Freiheit und Tod – sind keine Krankheiten, sondern philosophische Herausforderungen.",
+      "Das sokratische Gespraech ist das Modell philosophischer Beratung und Selbsterkenntnis.",
+      "Philosophische Uebungen – Meditation, Reflexion, Selbstpruefung – koennen das Leben verwandeln.",
+      "Die Philosophie hat eine therapeutische Dimension, die jenseits der Psychotherapie liegt."
+    ],
+    "entstehung": "Die philosophische Praxis wurde 1981 von Gerd Achenbach in Deutschland als 'philosophische Beratung' begruendet. Pierre Hadots Forschung zur antiken Philosophie als Lebensform (1995) und Lou Marinoffs 'Plato, Not Prozac!' (1999) trugen zur internationalen Verbreitung bei.",
+    "kritik": "Kritiker werfen der philosophischen Praxis vor, psychische Erkrankungen zu verharmlosen und sich ohne ausreichende klinische Ausbildung auf therapeutisches Terrain zu begeben. Zudem wird die Frage gestellt, ob die Anwendung antiker Weisheit auf moderne Probleme nicht die historische Distanz verfehle."
+  }
 }

@@ -2,11 +2,27 @@
   "slug": "gottfried-wilhelm-leibniz",
   "name": "Gottfried Wilhelm Leibniz",
   "lebensdaten": "1646–1716",
-  "geboren": { "jahr": 1646, "ort": "Leipzig", "land": "Deutschland", "lat": 51.3397, "lng": 12.3731 },
-  "gestorben": { "jahr": 1716, "ort": "Hannover", "land": "Deutschland", "lat": 52.3759, "lng": 9.7320 },
+  "geboren": {
+    "jahr": 1646,
+    "ort": "Leipzig",
+    "land": "Deutschland",
+    "lat": 51.3397,
+    "lng": 12.3731
+  },
+  "gestorben": {
+    "jahr": 1716,
+    "ort": "Hannover",
+    "land": "Deutschland",
+    "lat": 52.3759,
+    "lng": 9.732
+  },
   "epoche": "Aufklärung",
   "region": "Deutschland",
-  "hauptstroemungen": ["Rationalismus", "Monadologie", "Theodizee"],
+  "hauptstroemungen": [
+    "Rationalismus",
+    "Monadologie",
+    "Theodizee"
+  ],
   "kurzbeschreibung": "Gottfried Wilhelm Leibniz war ein universaler Gelehrter und einer der letzten großen Polyhistoren der europäischen Geistesgeschichte. Als Philosoph, Mathematiker, Physiker, Jurist, Historiker und Diplomat leistete er bahnbrechende Beiträge in zahlreichen Disziplinen. Er erfand unabhängig von Newton die Infinitesimalrechnung und entwickelte mit der Monadologie eines der originellsten metaphysischen Systeme der Philosophiegeschichte.",
   "biografie": {
     "fruehesLeben": "Gottfried Wilhelm Leibniz wurde am 1. Juli 1646 (nach dem julianischen Kalender am 21. Juni) in Leipzig als Sohn des Professors für Moralphilosophie Friedrich Leibniz geboren. Sein Vater starb, als er sechs Jahre alt war, hinterließ ihm aber eine umfangreiche Bibliothek, in die sich der frühreife Knabe vertiefte. Mit acht Jahren hatte er sich Latein beigebracht, mit zwölf lernte er Griechisch und begann Logik zu studieren. Mit fünfzehn trat er in die Universität Leipzig ein und studierte Philosophie und Rechtswissenschaften. Er promovierte 1666 in Altdorf bei Nürnberg mit einer juristischen Dissertation und lehnte eine Professur ab, um sich dem praktischen Leben zu widmen. In Nürnberg wurde er Mitglied einer alchemistischen Gesellschaft, bevor er in den Dienst des Mainzer Kurfürsten Johann Philipp von Schönborn trat.",
@@ -34,19 +50,119 @@
     }
   ],
   "werke": [
-    { "titel": "Monadologie", "jahr": "1714", "beschreibung": "Eine knappe Zusammenfassung von Leibniz' metaphysischem System in 90 Paragraphen, die die Monadenlehre, die prästabilierte Harmonie und die Theodizee in konzentrierter Form darstellt." },
-    { "titel": "Essais de Théodicée (Theodizee)", "jahr": "1710", "beschreibung": "Das einzige größere philosophische Werk, das Leibniz zu Lebzeiten veröffentlichte. Es verteidigt die Güte Gottes angesichts des Übels in der Welt und entwickelt die Lehre von der besten aller möglichen Welten." },
-    { "titel": "Nouveaux essais sur l'entendement humain", "jahr": "1765 (posthum)", "beschreibung": "Eine Auseinandersetzung mit Lockes 'Essay', in der Leibniz dessen Empirismus kritisiert und die Existenz angeborener Ideen verteidigt. Das Werk wurde wegen Lockes Tod zurückgehalten." },
-    { "titel": "Discours de métaphysique", "jahr": "1686", "beschreibung": "Eine grundlegende Darstellung der Leibnizschen Metaphysik, die den Substanzbegriff, die individuelle Substanz und das Verhältnis von Gott und Welt behandelt." },
-    { "titel": "Leibniz-Clarke-Korrespondenz", "jahr": "1715–1716", "beschreibung": "Ein philosophischer Briefwechsel mit Samuel Clarke über Raum, Zeit, Gottes Verhältnis zur Welt und das Prinzip des zureichenden Grundes – eines der bedeutendsten philosophischen Streitgespräche." },
-    { "titel": "De arte combinatoria", "jahr": "1666", "beschreibung": "Leibniz' Habilitationsschrift, die eine universale Kombinatorik als Methode der Wissenschaft entwirft und die Idee einer formalen Logik und einer universalen Zeichensprache vorwegnimmt." }
+    {
+      "titel": "Monadologie",
+      "jahr": "1714",
+      "beschreibung": "Eine knappe Zusammenfassung von Leibniz' metaphysischem System in 90 Paragraphen, die die Monadenlehre, die prästabilierte Harmonie und die Theodizee in konzentrierter Form darstellt."
+    },
+    {
+      "titel": "Essais de Théodicée (Theodizee)",
+      "jahr": "1710",
+      "beschreibung": "Das einzige größere philosophische Werk, das Leibniz zu Lebzeiten veröffentlichte. Es verteidigt die Güte Gottes angesichts des Übels in der Welt und entwickelt die Lehre von der besten aller möglichen Welten."
+    },
+    {
+      "titel": "Nouveaux essais sur l'entendement humain",
+      "jahr": "1765 (posthum)",
+      "beschreibung": "Eine Auseinandersetzung mit Lockes 'Essay', in der Leibniz dessen Empirismus kritisiert und die Existenz angeborener Ideen verteidigt. Das Werk wurde wegen Lockes Tod zurückgehalten."
+    },
+    {
+      "titel": "Discours de métaphysique",
+      "jahr": "1686",
+      "beschreibung": "Eine grundlegende Darstellung der Leibnizschen Metaphysik, die den Substanzbegriff, die individuelle Substanz und das Verhältnis von Gott und Welt behandelt."
+    },
+    {
+      "titel": "Leibniz-Clarke-Korrespondenz",
+      "jahr": "1715–1716",
+      "beschreibung": "Ein philosophischer Briefwechsel mit Samuel Clarke über Raum, Zeit, Gottes Verhältnis zur Welt und das Prinzip des zureichenden Grundes – eines der bedeutendsten philosophischen Streitgespräche."
+    },
+    {
+      "titel": "De arte combinatoria",
+      "jahr": "1666",
+      "beschreibung": "Leibniz' Habilitationsschrift, die eine universale Kombinatorik als Methode der Wissenschaft entwirft und die Idee einer formalen Logik und einer universalen Zeichensprache vorwegnimmt."
+    }
   ],
   "zitate": [
-    { "text": "Wir leben in der besten aller möglichen Welten.", "quelle": "Essais de Théodicée", "kontext": "Leibniz' berühmteste These, die Voltaire in 'Candide' satirisch parodierte, aber tiefer begründet ist als die Karikatur vermuten lässt." },
-    { "text": "Nichts ist ohne Grund.", "quelle": "Monadologie, §32", "kontext": "Das Prinzip des zureichenden Grundes (principium rationis sufficientis), eines der Grundprinzipien der Leibnizschen Philosophie." },
-    { "text": "Die Monaden haben keine Fenster, durch die etwas hinein- oder heraustreten könnte.", "quelle": "Monadologie, §7", "kontext": "Leibniz' bildhafte Beschreibung der kausalen Geschlossenheit der Monaden, die keine Wechselwirkung untereinander haben." },
-    { "text": "Calculemus! – Lasst uns rechnen!", "quelle": "De arte combinatoria", "kontext": "Leibniz' Vision, dass philosophische Streitfragen durch Berechnung gelöst werden könnten, wenn man eine universale Zeichensprache und einen logischen Kalkül entwickelt." }
+    {
+      "text": "Wir leben in der besten aller möglichen Welten.",
+      "quelle": "Essais de Théodicée",
+      "kontext": "Leibniz' berühmteste These, die Voltaire in 'Candide' satirisch parodierte, aber tiefer begründet ist als die Karikatur vermuten lässt."
+    },
+    {
+      "text": "Nichts ist ohne Grund.",
+      "quelle": "Monadologie, §32",
+      "kontext": "Das Prinzip des zureichenden Grundes (principium rationis sufficientis), eines der Grundprinzipien der Leibnizschen Philosophie."
+    },
+    {
+      "text": "Die Monaden haben keine Fenster, durch die etwas hinein- oder heraustreten könnte.",
+      "quelle": "Monadologie, §7",
+      "kontext": "Leibniz' bildhafte Beschreibung der kausalen Geschlossenheit der Monaden, die keine Wechselwirkung untereinander haben."
+    },
+    {
+      "text": "Calculemus! – Lasst uns rechnen!",
+      "quelle": "De arte combinatoria",
+      "kontext": "Leibniz' Vision, dass philosophische Streitfragen durch Berechnung gelöst werden könnten, wenn man eine universale Zeichensprache und einen logischen Kalkül entwickelt."
+    }
   ],
-  "verwandtePhilosophen": ["rene-descartes", "baruch-spinoza", "immanuel-kant", "john-locke", "georg-wilhelm-friedrich-hegel"],
-  "verwandteIsmen": ["rationalismus", "idealismus", "optimismus"]
+  "verwandtePhilosophen": [
+    "rene-descartes",
+    "baruch-spinoza",
+    "immanuel-kant",
+    "john-locke",
+    "georg-wilhelm-friedrich-hegel"
+  ],
+  "verwandteIsmen": [
+    "rationalismus",
+    "idealismus",
+    "optimismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Gottfried Wilhelm Leibniz war ein universaler Gelehrter und einer der letzten grossen Polyhistoren der europaeischen Geistesgeschichte. Als Philosoph, Mathematiker, Physiker, Jurist, Historiker und Diplomat leistete er bahnbrechende Beitraege in zahlreichen Disziplinen. Er erfand unabhaengig von Newton die Infinitesimalrechnung und entwickelte mit der Monadologie eines der originellsten metaphysischen Systeme der Philosophiegeschichte.",
+    "biografie": {
+      "fruehesLeben": "Gottfried Wilhelm Leibniz wurde am 1. Juli 1646 (nach dem julianischen Kalender am 21. Juni) in Leipzig als Sohn des Professors fuer Moralphilosophie Friedrich Leibniz geboren. Sein Vater starb, als er sechs Jahre alt war, hinterliess ihm aber eine umfangreiche Bibliothek, in die sich der fruehreife Knabe vertiefte. Mit acht Jahren hatte er sich Latein beigebracht, mit zwoelf lernte er Griechisch und begann Logik zu studieren. Mit fuenfzehn trat er in die Universitaet Leipzig ein und studierte Philosophie und Rechtswissenschaften. Er promovierte 1666 in Altdorf bei Nuernberg mit einer juristischen Dissertation und lehnte eine Professur ab, um sich dem praktischen Leben zu widmen.",
+      "schaffen": "Leibniz' intellektuelles Schaffen war von einer ueberwaeltigenden Vielseitigkeit und Produktivitaet gepraegt. In der Mathematik erfand er unabhaengig von Newton die Infinitesimalrechnung – der daraus entstandene Prioritaetsstreit vergiftete die Beziehungen zwischen englischer und kontinentaler Mathematik fuer Jahrzehnte. Seine Notation (das Integral- und Differentialzeichen) setzte sich durch und wird bis heute verwendet. Er konstruierte eine mechanische Rechenmaschine, die alle vier Grundrechenarten beherrschte, und entwarf das binaere Zahlensystem, das die Grundlage der modernen Computertechnik bildet. In der Philosophie entwickelte er die Monadologie, eine metaphysische Theorie, die die Wirklichkeit als aus unendlich vielen einfachen, unteilbaren Substanzen (Monaden) bestehend beschreibt.",
+      "spaetesLeben": "Ab 1676 diente Leibniz als Bibliothekar und Historiograph der Herzoege von Braunschweig-Lueneburg in Hannover, eine Stellung, die er bis zu seinem Tod innehatte. Er wurde mit der Aufgabe betraut, die Geschichte des Welfenhauses zu schreiben – ein Projekt, das nie vollendet wurde, ihm aber ausgedehnte Archivreisen durch Deutschland, Oesterreich und Italien ermoeglichte. Er war treibende Kraft bei der Gruendung der Berliner Akademie der Wissenschaften (1700), deren erster Praesident er wurde. In seinen letzten Jahren korrespondierte er intensiv mit dem englischen Philosophen Samuel Clarke (als Sprachrohr Newtons) ueber Raum, Zeit und Gottes Verhaeltnis zur Welt – ein philosophischer Briefwechsel, der zu den bedeutendsten der Philosophiegeschichte zaehlt.",
+      "tod": "Leibniz starb am 14. November 1716 in Hannover, einsam und von seinem Dienstherrn, dem inzwischen zum Koenig von England aufgestiegenen Georg I., weitgehend vergessen. Sein Begraebnis war aermlich – nur sein Sekretaer folgte dem Sarg. Die Royal Society und die Berliner Akademie nahmen keine Notiz von seinem Tod. Erst Jahrzehnte spaeter wurde sein immenses Erbe gewuerdigt. Sein Nachlass umfasst etwa 200.000 Seiten handschriftlicher Notizen, deren Erschliessung bis heute andauert.",
+      "nachwirkung": "Leibniz' Einfluss erstreckt sich ueber praktisch alle Bereiche des Wissens. In der Mathematik ist sein Erbe allgegenwaertig (Infinitesimalrechnung, binaeres System). In der Philosophie entwickelten Wolff und Baumgarten seine Ideen zur 'Leibniz-Wolffschen Schulphilosophie', die die deutsche Aufklaerung dominierte und Kants Ausgangspunkt bildete. Voltaires satirische Figur des Dr. Pangloss in 'Candide' parodiert seine Lehre von der 'besten aller moeglichen Welten'. In der analytischen Philosophie des 20. Jahrhunderts wurden seine Ideen ueber moegliche Welten (Kripke, Lewis), ueber die Identitaet (principium identitatis indiscernibilium) und ueber die Logik (characteristica universalis) fruchtbar aufgegriffen. Russell widmete ihm eine einflussreiche Monografie."
+    },
+    "kernideen": [
+      {
+        "titel": "Monadologie",
+        "beschreibung": "Die Wirklichkeit besteht aus unendlich vielen einfachen, unteilbaren Substanzen (Monaden), die keine raeumliche Ausdehnung haben, aber Perzeption und Appetition (inneres Streben) besitzen. Jede Monade ist ein 'lebendiger Spiegel des Universums'."
+      },
+      {
+        "titel": "Praestabilierte Harmonie",
+        "beschreibung": "Da Monaden keine kausale Wechselwirkung haben ('keine Fenster'), hat Gott bei der Schoepfung eine vorherbestimmte Harmonie zwischen allen Monaden eingerichtet. Leib und Seele wirken nicht aufeinander ein, sondern laufen wie zwei synchronisierte Uhren parallel."
+      },
+      {
+        "titel": "Beste aller moeglichen Welten",
+        "beschreibung": "Gott hat unter allen logisch moeglichen Welten diejenige zur Wirklichkeit gebracht, die die groesste Vielfalt bei gleichzeitig groesster Ordnung aufweist. Das Uebel in der Welt ist notwendig, um das groesstmoegliche Gute zu ermoeglichen."
+      },
+      {
+        "titel": "Principium rationis sufficientis",
+        "beschreibung": "Nichts geschieht ohne zureichenden Grund. Dieses Prinzip ist neben dem Satz vom Widerspruch das zweite fundamentale Prinzip der Leibnizschen Philosophie und begruendet sowohl die Metaphysik als auch die Naturwissenschaft."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Monadologie",
+        "jahr": "1714",
+        "beschreibung": "Eine knappe Zusammenfassung von Leibniz' metaphysischem System in 90 Paragraphen, die die Monadenlehre, die praestabilierte Harmonie und die Theodizee in konzentrierter Form darstellt."
+      },
+      {
+        "titel": "Essais de Théodicée (Theodizee)",
+        "jahr": "1710",
+        "beschreibung": "Das einzige groessere philosophische Werk, das Leibniz zu Lebzeiten veroeffentlichte. Es verteidigt die Guete Gottes angesichts des Uebels in der Welt und entwickelt die Lehre von der besten aller moeglichen Welten."
+      },
+      {
+        "titel": "Nouveaux essais sur l'entendement humain",
+        "jahr": "1765 (posthum)",
+        "beschreibung": "Eine Auseinandersetzung mit Lockes 'Essay', in der Leibniz dessen Empirismus kritisiert und die Existenz angeborener Ideen verteidigt. Das Werk wurde wegen Lockes Tod zurueckgehalten."
+      },
+      {
+        "titel": "Discours de métaphysique",
+        "jahr": "1686",
+        "beschreibung": "Eine grundlegende Darstellung der Leibnizschen Metaphysik, die den Substanzbegriff, die individuelle Substanz und das Verhaeltnis von Gott und Welt behandelt."
+      }
+    ]
+  }
 }

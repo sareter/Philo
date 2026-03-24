@@ -19,5 +19,18 @@
     {"titel": "Meeting the Universe Halfway", "autor": "Karen Barad", "jahr": "2007"},
     {"titel": "Agential Realism", "autor": "Karen Barad", "jahr": "2003"},
     {"titel": "Diffracting Diffraction", "autor": "Karen Barad", "jahr": "2014"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Agentieller Realismus sagt: Wir beobachten die Welt nicht einfach von aussen -- wir sind Teil von ihr und veraendern sie, indem wir sie untersuchen. Materie und Bedeutung sind untrennbar verbunden.",
+    "ausfuehrlicheBeschreibung": "Normalerweise denken wir: Hier bin ich, dort ist die Welt, und ich schaue sie mir an. Die Physikerin und Philosophin Karen Barad sagt: So einfach ist das nicht. In der Quantenphysik hat man entdeckt, dass das Messen eines Teilchens das Teilchen veraendert. Barad nimmt diese Idee und uebertraegt sie auf die ganze Welt: Wir sind nicht getrennt von dem, was wir beobachten. Wir sind mittendrin.\n\nBarad verwendet dafuer den Begriff 'Intra-Aktion'. Normalerweise reden wir von 'Interaktion' -- zwei fertige Dinge treffen aufeinander. Aber bei Intra-Aktion entstehen die Dinge erst durch ihre Begegnung. Stell dir vor, du und dein bester Freund -- ihr seid nicht einfach zwei fertige Personen, die sich getroffen haben. Ihr habt euch gegenseitig veraendert und zu dem gemacht, was ihr seid.\n\nDas hat auch Folgen fuer die Ethik: Wenn wir die Welt mitgestalten, indem wir sie erforschen, dann tragen wir auch Verantwortung dafuer. Wir koennen nicht so tun, als waeren wir neutrale Beobachter. Jede Untersuchung, jedes Experiment veraendert die Welt ein Stueck weit.",
+    "kernthesen": [
+      "Wir beobachten die Welt nicht von aussen -- wir sind Teil von ihr und veraendern sie dabei.",
+      "Dinge entstehen erst durch ihre Begegnung miteinander, nicht vorher.",
+      "Materie ist nicht einfach totes Zeug -- sie ist aktiv an der Entstehung von Bedeutung beteiligt.",
+      "Die Trennung zwischen Beobachter und Beobachtetem ist kuenstlich.",
+      "Weil wir die Welt mitgestalten, tragen wir auch Verantwortung fuer das, was dabei herauskommt."
+    ],
+    "entstehung": "Karen Barad hat den Agentiellen Realismus ab den 1990er Jahren entwickelt. Sie verband Erkenntnisse aus der Quantenphysik mit feministischer Theorie und Wissenschaftsphilosophie. Ihr Hauptwerk 'Meeting the Universe Halfway' erschien 2007.",
+    "kritik": "Kritiker sagen, man koenne Erkenntnisse aus der Quantenphysik nicht einfach auf die normale Welt und die Gesellschaft uebertragen. Ausserdem fragen sie, ob man noch sinnvoll kritisieren kann, wenn es keine klare Grenze zwischen Beobachter und Welt mehr gibt."
+  }
 }

@@ -11,14 +11,50 @@
     "Es gibt keine objektive Wahrheit, keine universelle Moral und keinen vorgegebenen Lebenssinn.",
     "Der Nihilismus muss durchlebt und überwunden werden, nicht verdrängt."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der philosophische Nihilismus entstand im 19. Jahrhundert als Reaktion auf die zunehmende Säkularisierung und den Verlust religiöser Gewissheiten. Friedrich Heinrich Jacobi verwendete den Begriff bereits 1799 kritisch gegen die Philosophie Fichtes. In Russland bezeichnete er die radikale Bewegung der 1860er Jahre. Nietzsches Analyse des Nihilismus als Konsequenz des Todes Gottes, entwickelt in den 1880er Jahren, wurde zur philosophisch bedeutsamsten Fassung des Begriffs.",
   "kritik": "Der Nihilismus wird häufig als selbstwidersprüchlich kritisiert: Die Behauptung, es gebe keine Wahrheit, scheint selbst einen Wahrheitsanspruch zu erheben. Ethiker wenden ein, dass der moralische Nihilismus praktisch undurchführbar ist, da jede Gesellschaft auf gemeinsamen Werten und Normen beruht. Religiöse Denker sehen im Nihilismus die destruktive Konsequenz der Abkehr von Gott. Pragmatisten argumentieren, dass die Frage nach dem absoluten Sinn des Lebens verfehlt ist und dass pragmatische, lokale Sinngebungen für ein gutes Leben ausreichen. Kritiker bemängeln zudem, dass der Nihilismus in seiner populären Form zu einer zynischen Gleichgültigkeit führt, die soziale Verantwortung und politisches Engagement untergräbt.",
-  "verwandteIsmen": ["existenzialismus", "atheismus", "skeptizismus", "postmodernismus"],
+  "verwandteIsmen": [
+    "existenzialismus",
+    "atheismus",
+    "skeptizismus",
+    "postmodernismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883-1885" },
-    { "titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882" },
-    { "titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942" },
-    { "titel": "Der Wille zur Macht (Nachlass)", "autor": "Friedrich Nietzsche", "jahr": "1901" }
-  ]
+    {
+      "titel": "Also sprach Zarathustra",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1883-1885"
+    },
+    {
+      "titel": "Die fröhliche Wissenschaft",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1882"
+    },
+    {
+      "titel": "Der Mythos des Sisyphos",
+      "autor": "Albert Camus",
+      "jahr": "1942"
+    },
+    {
+      "titel": "Der Wille zur Macht (Nachlass)",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1901"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Nihilismus ist die philosophische Position, dass das Leben keinen objektiven Sinn, Zweck oder intrinsischen Wert hat und dass traditionelle Werte und Ueberzeugungen unbegruendet sind.",
+    "ausfuehrlicheBeschreibung": "Der Nihilismus (von lateinisch nihil = nichts) ist eine der radikalsten und verstoerendsten Positionen der Philosophiegeschichte. Er durchzieht verschiedene Bereiche der Philosophie: als erkenntnistheoretischer Nihilismus leugnet er die Moeglichkeit sicherer Erkenntnis, als moralischer Nihilismus die Existenz objektiver moralischer Werte, als existenzieller Nihilismus den Sinn des Lebens.\n\nDer Begriff Nihilismus wurde im 19. Jahrhundert populaer. In Russland bezeichnete er die radikale Bewegung junger Intellektueller, die alle traditionellen Autoritaeten und Werte ablehnten – Iwan Turgenjew praegte den Begriff in seinem Roman Vaeter und Soehne (1862). Philosophisch wurde der Nihilismus vor allem durch Friedrich Nietzsche (1844-1900) zu einem zentralen Thema.\n\nNietzsches Analyse des Nihilismus ist die tiefgreifendste und einflussreichste. Er diagnostizierte den Tod Gottes nicht als freudige Befreiung, sondern als katastrophales Ereignis, dessen Konsequenzen die europaeische Kultur noch nicht begriffen habe. Der Tod Gottes bedeutet fuer Nietzsche die Entwertung aller bisherigen hoechsten Werte: Wenn die transzendente Grundlage der abendlaendischen Moral und Metaphysik wegfaellt, verlieren alle darauf aufgebauten Werte, Normen und Sinngebungen ihre Gueltigkeit.",
+    "kernthesen": [
+      "Das Leben hat keinen objektiven Sinn, Zweck oder intrinsischen Wert.",
+      "Traditionelle moralische Werte und metaphysische Ueberzeugungen sind unbegruendet.",
+      "Der Tod Gottes bedeutet die Entwertung aller hoechsten Werte der abendlaendischen Kultur (Nietzsche).",
+      "Es gibt keine objektive Wahrheit, keine universelle Moral und keinen vorgegebenen Lebenssinn.",
+      "Der Nihilismus muss durchlebt und ueberwunden werden, nicht verdraengt."
+    ],
+    "entstehung": "Der philosophische Nihilismus entstand im 19. Jahrhundert als Reaktion auf die zunehmende Saekularisierung und den Verlust religioeser Gewissheiten. Friedrich Heinrich Jacobi verwendete den Begriff bereits 1799 kritisch gegen die Philosophie Fichtes. In Russland bezeichnete er die radikale Bewegung der 1860er Jahre. Nietzsches Analyse des Nihilismus als Konsequenz des Todes Gottes, entwickelt in den 1880er Jahren, wurde zur philosophisch bedeutsamsten Fassung des Begriffs.",
+    "kritik": "Der Nihilismus wird haeufig als selbstwiderspruechlich kritisiert: Die Behauptung, es gebe keine Wahrheit, scheint selbst einen Wahrheitsanspruch zu erheben. Ethiker wenden ein, dass der moralische Nihilismus praktisch undurchfuehrbar ist, da jede Gesellschaft auf gemeinsamen Werten und Normen beruht. Religioese Denker sehen im Nihilismus die destruktive Konsequenz der Abkehr von Gott."
+  }
 }

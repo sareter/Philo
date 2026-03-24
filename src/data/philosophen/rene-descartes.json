@@ -48,5 +48,29 @@
     { "text": "Es genügt nicht, einen guten Geist zu haben; die Hauptsache ist, ihn gut anzuwenden.", "quelle": "Discours de la méthode, Teil I", "kontext": "Descartes betont die Bedeutung der richtigen Methode über die bloße natürliche Begabung." }
   ],
   "verwandtePhilosophen": ["baruch-spinoza", "gottfried-wilhelm-leibniz", "blaise-pascal", "john-locke", "immanuel-kant"],
-  "verwandteIsmen": ["rationalismus", "dualismus", "kartesianismus"]
+  "verwandteIsmen": ["rationalismus", "dualismus", "kartesianismus"],
+  "einfach": {
+    "kurzbeschreibung": "Rene Descartes gilt als Vater der modernen Philosophie. Er bezweifelte alles, bis er auf eine Sache kam, die er nicht bezweifeln konnte: 'Ich denke, also bin ich.'",
+    "biografie": {
+      "fruehesLeben": "Descartes wurde 1596 in Frankreich geboren. Seine Mutter starb, als er ein Jahr alt war. Er besuchte eine der besten Schulen Europas, war aber unzufrieden mit dem, was man dort lernte. Mit 23 hatte er eine Art Vision, die ihm zeigte, dass er eine neue Methode zur Wahrheitsfindung entwickeln sollte.",
+      "schaffen": "Er zog in die Niederlande und schrieb dort seine wichtigsten Werke. Seine Methode: Zweifle an allem, was man auch nur ein bisschen bezweifeln kann. Das Einzige, was uebrig blieb, war das Denken selbst – 'Ich denke, also bin ich'. Von da aus baute er sein ganzes Wissenssystem neu auf. Er kam auch zu dem Schluss, dass Geist und Koerper zwei voellig verschiedene Dinge sind. Nebenbei erfand er das Koordinatensystem, das man heute im Matheunterricht lernt.",
+      "spaetesLeben": "Er geriet in Konflikte mit Theologen, die seine Ideen als Bedrohung sahen. 1649 folgte er einer Einladung der Koenigin von Schweden.",
+      "tod": "In Stockholm musste er jeden Morgen um fuenf Uhr aufstehen, obwohl er sonst immer bis mittags schlief. Der strenge Winter tat sein Uebriges – er starb 1650 an einer Lungenentzuendung.",
+      "nachwirkung": "Descartes praegte die gesamte westliche Philosophie. Sein methodischer Zweifel wurde zum Vorbild wissenschaftlicher Skepsis. Das Leib-Seele-Problem, das er aufwarf, wird bis heute diskutiert."
+    },
+    "kernideen": [
+      {"titel": "Methodischer Zweifel", "beschreibung": "Zweifle an allem, was du auch nur ein bisschen bezweifeln kannst. Nur was diesem Test standhaelt, zaehlt als sicheres Wissen."},
+      {"titel": "Cogito, ergo sum", "beschreibung": "Selbst wenn mich jemand in allem taeuscht, kann ich nicht daran zweifeln, dass ich denke. Also existiere ich: 'Ich denke, also bin ich.'"},
+      {"titel": "Substanzendualismus", "beschreibung": "Geist und Koerper sind zwei komplett verschiedene Dinge. Wie sie zusammenarbeiten, ist das grosse Raetsel – das sogenannte Leib-Seele-Problem."},
+      {"titel": "Klare und deutliche Erkenntnis", "beschreibung": "Nur das darf als wahr gelten, was man klar und deutlich erkennt. Das ist der Massstab fuer sichere Erkenntnis."}
+    ],
+    "werke": [
+      {"titel": "Discours de la méthode (Abhandlung über die Methode)", "jahr": "1637", "beschreibung": "Sein beruhmtes Werk mit den vier Regeln des richtigen Denkens und dem 'Ich denke, also bin ich'."},
+      {"titel": "Meditationes de prima philosophia", "jahr": "1641", "beschreibung": "Sechs Meditationen, in denen er den methodischen Zweifel, Gottesbeweise und den Unterschied von Geist und Koerper durchdenkt."},
+      {"titel": "Principia Philosophiae", "jahr": "1644", "beschreibung": "Ein umfassendes System seiner Naturphilosophie mit einer mechanistischen Erklaerung der Welt."},
+      {"titel": "Les Passions de l'âme (Die Leidenschaften der Seele)", "jahr": "1649", "beschreibung": "Sein letztes Werk ueber Gefuehle und die Frage, wie man gut lebt."},
+      {"titel": "La Géométrie (Die Geometrie)", "jahr": "1637", "beschreibung": "Das Werk, in dem er die analytische Geometrie und das Koordinatensystem einfuehrt."},
+      {"titel": "Regulae ad directionem ingenii", "jahr": "ca. 1628", "beschreibung": "Ein fruehes, unvollendetes Werk mit Regeln fuer richtiges Denken."}
+    ]
+  }
 }

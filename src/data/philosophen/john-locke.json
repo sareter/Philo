@@ -47,5 +47,60 @@
     { "text": "Der Mensch wird als unbeschriebenes Blatt geboren.", "quelle": "Essay Concerning Human Understanding, Buch II, Kapitel 1", "kontext": "Die berühmte Tabula-rasa-These, die alle angeborenen Ideen leugnet und die Erfahrung als einzige Quelle der Erkenntnis setzt." }
   ],
   "verwandtePhilosophen": ["thomas-hobbes", "david-hume", "george-berkeley", "jean-jacques-rousseau", "montesquieu", "immanuel-kant"],
-  "verwandteIsmen": ["empirismus", "liberalismus", "kontraktualismus"]
+  "verwandteIsmen": ["empirismus", "liberalismus", "kontraktualismus"],
+  "einfach": {
+    "kurzbeschreibung": "Locke ist der Vater des Liberalismus: Jeder Mensch hat von Geburt an Rechte auf Leben, Freiheit und Eigentum, und der Staat muss diese schuetzen.",
+    "biografie": {
+      "fruehesLeben": "Locke wurde 1632 in Somerset, England, geboren. Er studierte in Oxford, fand das aber langweilig und wandte sich lieber der Naturwissenschaft und Medizin zu. Er wurde Arzt und Berater eines maechtigen Politikers, Lord Shaftesbury, und geriet so mitten in die grosse Politik.",
+      "schaffen": "Locke schrieb, dass der Mensch als 'unbeschriebenes Blatt' geboren wird -- alles Wissen kommt aus Erfahrung, nicht aus angeborenen Ideen. Politisch argumentierte er: Menschen haben natuerliche Rechte auf Leben, Freiheit und Eigentum. Der Staat entsteht durch einen Vertrag zwischen den Buergern, und wenn die Regierung ihre Rechte verletzt, darf das Volk sich wehren. Er plaedierte auch fuer die Trennung von Kirche und Staat.",
+      "spaetesLeben": "Als sein Arbeitgeber ins Exil musste, floh Locke nach Holland. Dort schrieb er seine wichtigsten Werke fertig. Nach der Glorious Revolution kehrte er triumphal nach England zurueck und wurde zum gefeiertsten Philosophen seiner Zeit.",
+      "tod": "Locke starb 1704 auf dem Landsitz einer Freundin in Essex. Er hatte sich eine bescheidene Grabinschrift selbst geschrieben.",
+      "nachwirkung": "Die amerikanische Unabhaengigkeitserklaerung uebernahm Lockes Ideen fast woertlich. Die franzoesische Revolution berief sich auf ihn. Seine Philosophie praegt die westlichen Demokratien bis heute."
+    },
+    "kernideen": [
+      {
+        "titel": "Tabula rasa",
+        "beschreibung": "Bei der Geburt ist dein Kopf wie ein leeres Blatt. Alles, was du weisst, hast du irgendwann durch Erfahrung gelernt."
+      },
+      {
+        "titel": "Natuerliche Rechte",
+        "beschreibung": "Jeder Mensch hat von Natur aus das Recht auf Leben, Freiheit und Eigentum. Der Staat existiert nur, um diese Rechte zu schuetzen."
+      },
+      {
+        "titel": "Gesellschaftsvertrag und Widerstandsrecht",
+        "beschreibung": "Die Regierung beruht auf der Zustimmung der Buerger. Wenn sie ihre Pflichten verletzt, darf das Volk sie absetzen."
+      },
+      {
+        "titel": "Religioese Toleranz",
+        "beschreibung": "Der Staat hat nichts in Glaubensfragen verloren. Religion ist Privatsache, und Kirche und Staat muessen getrennt sein."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "An Essay Concerning Human Understanding",
+        "jahr": "1689",
+        "beschreibung": "Lockes Hauptwerk zur Erkenntnistheorie: Alles Wissen kommt aus der Erfahrung, es gibt keine angeborenen Ideen."
+      },
+      {
+        "titel": "Two Treatises of Government",
+        "jahr": "1689",
+        "beschreibung": "Lockes politisches Hauptwerk ueber natuerliche Rechte, den Gesellschaftsvertrag und das Recht auf Widerstand."
+      },
+      {
+        "titel": "A Letter Concerning Toleration",
+        "jahr": "1689",
+        "beschreibung": "Ein leidenschaftliches Plaedoyer fuer religioese Toleranz und die Trennung von Kirche und Staat."
+      },
+      {
+        "titel": "Some Thoughts Concerning Education",
+        "jahr": "1693",
+        "beschreibung": "Eine einflussreiche Schrift ueber Erziehung, die auf Vernunft und praktische Erfahrung setzt."
+      },
+      {
+        "titel": "The Reasonableness of Christianity",
+        "jahr": "1695",
+        "beschreibung": "Locke stellt das Christentum als vernuenftige Religion dar, die nur wenige Grundsaetze braucht."
+      }
+    ]
+  }
 }

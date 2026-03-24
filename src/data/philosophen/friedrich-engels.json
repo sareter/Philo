@@ -2,11 +2,28 @@
   "slug": "friedrich-engels",
   "name": "Friedrich Engels",
   "lebensdaten": "1820–1895",
-  "geboren": { "jahr": 1820, "ort": "Barmen (Wuppertal)", "land": "Preußen", "lat": 51.2562, "lng": 7.1508 },
-  "gestorben": { "jahr": 1895, "ort": "London", "land": "England", "lat": 51.5074, "lng": -0.1278 },
+  "geboren": {
+    "jahr": 1820,
+    "ort": "Barmen (Wuppertal)",
+    "land": "Preußen",
+    "lat": 51.2562,
+    "lng": 7.1508
+  },
+  "gestorben": {
+    "jahr": 1895,
+    "ort": "London",
+    "land": "England",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
   "epoche": "19. Jahrhundert",
   "region": "Deutschland / England",
-  "hauptstroemungen": ["Materialismus", "Sozialismus", "Kommunismus", "Dialektischer Materialismus"],
+  "hauptstroemungen": [
+    "Materialismus",
+    "Sozialismus",
+    "Kommunismus",
+    "Dialektischer Materialismus"
+  ],
   "kurzbeschreibung": "Friedrich Engels war ein deutscher Philosoph, Sozialwissenschaftler und Revolutionär, der zusammen mit Karl Marx den wissenschaftlichen Sozialismus begründete. Seine eigenständigen Beiträge – insbesondere 'Die Lage der arbeitenden Klasse in England' und die Entwicklung des dialektischen Materialismus – sowie seine lebenslange finanzielle und intellektuelle Unterstützung von Marx machten ihn zu einer Schlüsselfigur der modernen Geistesgeschichte.",
   "biografie": {
     "fruehesLeben": "Friedrich Engels wurde am 28. November 1820 in Barmen (heute Teil von Wuppertal) als ältester Sohn eines wohlhabenden Textilfabrikanten geboren. Seine Familie war streng pietistisch; Engels rebellierte schon früh gegen die religiöse Enge seines Elternhauses. Er verließ das Gymnasium ein Jahr vor dem Abitur und trat als Kaufmannslehrling in ein Bremer Handelshaus ein. In Bremen begann er unter Pseudonym journalistisch zu arbeiten und wandte sich unter dem Einfluss der Junghegelianer und des jungen David Friedrich Strauß vom Christentum ab. 1841–1842 leistete er seinen Militärdienst in Berlin ab und hörte nebenbei Vorlesungen an der Universität, wo er Kontakt zu den Junghegelianern knüpfte.",
@@ -30,18 +47,110 @@
     }
   ],
   "werke": [
-    { "titel": "Die Lage der arbeitenden Klasse in England", "jahr": "1845", "beschreibung": "Eine empirische Studie des industriellen Elends in Manchester, die als Meilenstein der Sozialforschung und als Anklage gegen die kapitalistische Ausbeutung gilt." },
-    { "titel": "Anti-Dühring (Herrn Eugen Dührings Umwälzung der Wissenschaft)", "jahr": "1878", "beschreibung": "Engels' systematische Darstellung des dialektischen Materialismus als umfassende Weltanschauung – das einflussreichste Werk des orthodoxen Marxismus." },
-    { "titel": "Der Ursprung der Familie, des Privateigentums und des Staats", "jahr": "1884", "beschreibung": "Eine Analyse der Entstehung von Familie, Eigentum und Staat aus der Auflösung der urgemeinschaftlichen Gesellschaft, basierend auf Lewis H. Morgans ethnologischen Forschungen." },
-    { "titel": "Dialektik der Natur", "jahr": "1883 (posthum, unvollendet)", "beschreibung": "Engels' Versuch, die Dialektik als allgemeines Naturgesetz nachzuweisen, mit Studien zur Naturwissenschaft und deren philosophischen Implikationen." },
-    { "titel": "Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie", "jahr": "1886", "beschreibung": "Eine knappe Darstellung der philosophischen Grundlagen des Marxismus und seiner Beziehung zur Hegelschen und Feuerbachschen Philosophie." },
-    { "titel": "Manifest der Kommunistischen Partei (mit Marx)", "jahr": "1848", "beschreibung": "Das gemeinsam mit Marx verfasste politische Programm der kommunistischen Bewegung." }
+    {
+      "titel": "Die Lage der arbeitenden Klasse in England",
+      "jahr": "1845",
+      "beschreibung": "Eine empirische Studie des industriellen Elends in Manchester, die als Meilenstein der Sozialforschung und als Anklage gegen die kapitalistische Ausbeutung gilt."
+    },
+    {
+      "titel": "Anti-Dühring (Herrn Eugen Dührings Umwälzung der Wissenschaft)",
+      "jahr": "1878",
+      "beschreibung": "Engels' systematische Darstellung des dialektischen Materialismus als umfassende Weltanschauung – das einflussreichste Werk des orthodoxen Marxismus."
+    },
+    {
+      "titel": "Der Ursprung der Familie, des Privateigentums und des Staats",
+      "jahr": "1884",
+      "beschreibung": "Eine Analyse der Entstehung von Familie, Eigentum und Staat aus der Auflösung der urgemeinschaftlichen Gesellschaft, basierend auf Lewis H. Morgans ethnologischen Forschungen."
+    },
+    {
+      "titel": "Dialektik der Natur",
+      "jahr": "1883 (posthum, unvollendet)",
+      "beschreibung": "Engels' Versuch, die Dialektik als allgemeines Naturgesetz nachzuweisen, mit Studien zur Naturwissenschaft und deren philosophischen Implikationen."
+    },
+    {
+      "titel": "Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie",
+      "jahr": "1886",
+      "beschreibung": "Eine knappe Darstellung der philosophischen Grundlagen des Marxismus und seiner Beziehung zur Hegelschen und Feuerbachschen Philosophie."
+    },
+    {
+      "titel": "Manifest der Kommunistischen Partei (mit Marx)",
+      "jahr": "1848",
+      "beschreibung": "Das gemeinsam mit Marx verfasste politische Programm der kommunistischen Bewegung."
+    }
   ],
   "zitate": [
-    { "text": "Ein Gran Handeln ist mehr wert als ein Zentner Theorie.", "quelle": "Brief an Marx, 1851", "kontext": "Engels' pragmatische Grundhaltung, die Theorie immer auf die Praxis bezog." },
-    { "text": "Die Geschichte macht nichts, sie besitzt keinen ungeheuren Reichtum, sie kämpft keine Kämpfe! Es ist vielmehr der Mensch, der wirkliche, lebendige Mensch, der das alles tut.", "quelle": "Die Heilige Familie (mit Marx)", "kontext": "Eine anti-idealistische Grundaussage, die die Geschichte als Werk konkreter Menschen versteht." },
-    { "text": "Freiheit ist die Einsicht in die Notwendigkeit.", "quelle": "Anti-Dühring", "kontext": "Engels' Definition der Freiheit im Anschluss an Hegel und Spinoza: Frei ist, wer die Gesetzmäßigkeiten der Natur und Geschichte begreift und danach handelt." }
+    {
+      "text": "Ein Gran Handeln ist mehr wert als ein Zentner Theorie.",
+      "quelle": "Brief an Marx, 1851",
+      "kontext": "Engels' pragmatische Grundhaltung, die Theorie immer auf die Praxis bezog."
+    },
+    {
+      "text": "Die Geschichte macht nichts, sie besitzt keinen ungeheuren Reichtum, sie kämpft keine Kämpfe! Es ist vielmehr der Mensch, der wirkliche, lebendige Mensch, der das alles tut.",
+      "quelle": "Die Heilige Familie (mit Marx)",
+      "kontext": "Eine anti-idealistische Grundaussage, die die Geschichte als Werk konkreter Menschen versteht."
+    },
+    {
+      "text": "Freiheit ist die Einsicht in die Notwendigkeit.",
+      "quelle": "Anti-Dühring",
+      "kontext": "Engels' Definition der Freiheit im Anschluss an Hegel und Spinoza: Frei ist, wer die Gesetzmäßigkeiten der Natur und Geschichte begreift und danach handelt."
+    }
   ],
-  "verwandtePhilosophen": ["karl-marx", "georg-wilhelm-friedrich-hegel", "ludwig-feuerbach", "adam-smith"],
-  "verwandteIsmen": ["marxismus", "kommunismus", "sozialismus", "materialismus"]
+  "verwandtePhilosophen": [
+    "karl-marx",
+    "georg-wilhelm-friedrich-hegel",
+    "ludwig-feuerbach",
+    "adam-smith"
+  ],
+  "verwandteIsmen": [
+    "marxismus",
+    "kommunismus",
+    "sozialismus",
+    "materialismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Friedrich Engels war ein deutscher Philosoph, Sozialwissenschaftler und Revolutionaer, der zusammen mit Karl Marx den wissenschaftlichen Sozialismus begruendete. Seine eigenstaendigen Beitraege – insbesondere 'Die Lage der arbeitenden Klasse in England' und die Entwicklung des dialektischen Materialismus – sowie seine lebenslange finanzielle und intellektuelle Unterstuetzung von Marx machten ihn zu einer Schluesselfigur der modernen Geistesgeschichte.",
+    "biografie": {
+      "fruehesLeben": "Friedrich Engels wurde am 28. November 1820 in Barmen (heute Teil von Wuppertal) als aeltester Sohn eines wohlhabenden Textilfabrikanten geboren. Seine Familie war streng pietistisch; Engels rebellierte schon frueh gegen die religioese Enge seines Elternhauses. Er verliess das Gymnasium ein Jahr vor dem Abitur und trat als Kaufmannslehrling in ein Bremer Handelshaus ein. In Bremen begann er unter Pseudonym journalistisch zu arbeiten und wandte sich unter dem Einfluss der Junghegelianer und des jungen David Friedrich Strauss vom Christentum ab. 1841–1842 leistete er seinen Militaerdienst in Berlin ab und hoerte nebenbei Vorlesungen an der Universitaet, wo er Kontakt zu den Junghegelianern knuepfte.",
+      "schaffen": "1842 sandte ihn sein Vater nach Manchester, um in der Textilfabrik der Familie Ermen & Engels zu arbeiten. Dort erlebte er aus naechster Naehe das Elend der englischen Arbeiterklasse und verfasste seine erste bedeutende Schrift: 'Die Lage der arbeitenden Klasse in England' (1845), eine empirische Studie des industriellen Elends, die als Meilenstein der Sozialforschung gilt. 1844 begegnete er in Paris Karl Marx, und es begann eine der produktivsten intellektuellen Partnerschaften der Geschichte. Gemeinsam verfassten sie 'Die Heilige Familie' (1845), 'Die deutsche Ideologie' (1845–46) und das 'Manifest der Kommunistischen Partei' (1848).",
+      "spaetesLeben": "Um Marx finanziell zu unterstuetzen, arbeitete Engels zwanzig Jahre lang (1850–1870) in der Fabrik seiner Familie in Manchester – eine Doppelexistenz als Kapitalist und Kommunist, die ihn quaelte. Nach dem Verkauf seiner Anteile 1870 zog er nach London und widmete sich ganz der politischen und intellektuellen Arbeit. Nach Marx' Tod 1883 uebernahm er die Herausgabe der Baende II und III des 'Kapital' aus Marx' schwer lesbaren Manuskripten – eine editorische Meisterleistung. Er wurde zur fuehrenden Autoritaet der internationalen Arbeiterbewegung und beriet sozialistische Parteien in ganz Europa.",
+      "tod": "Friedrich Engels starb am 5. August 1895 in London an Speiseroehrenkrebs. Seinem Wunsch entsprechend wurde seine Asche im Meer vor der Kueste bei Eastbourne verstreut. Er hinterliess keine Kinder, vermachte aber einen Teil seines betraechtlichen Vermoegens den Toechtern von Karl Marx.",
+      "nachwirkung": "Engels' Bedeutung fuer die Geistesgeschichte ist eng mit der von Marx verbunden, umfasst aber auch eigenstaendige Beitraege. Seine Systematisierung des Marxismus zum 'dialektischen Materialismus' und 'historischen Materialismus' wurde zur offiziellen Philosophie des Marxismus-Leninismus – mit allen Vereinfachungen, die das mit sich brachte. Seine Studien zur Lage der Arbeiterklasse gelten als Pionierleistungen der empirischen Sozialforschung. Seine Schriften ueber die Unterdrueckung der Frau beeinflussten den sozialistischen Feminismus."
+    },
+    "kernideen": [
+      {
+        "titel": "Dialektischer Materialismus",
+        "beschreibung": "Engels systematisierte die dialektische Methode als allgemeines Naturgesetz: Die Natur und die Geschichte entwickeln sich durch den Widerstreit von Gegensaetzen, qualitative Spruenge und die Negation der Negation."
+      },
+      {
+        "titel": "Historischer Materialismus",
+        "beschreibung": "Die Produktionsweise des materiellen Lebens bestimmt den sozialen, politischen und geistigen Lebensprozess. Die Geschichte wird durch die Entwicklung der Produktivkraefte und die Veraenderung der Produktionsverhaeltnisse angetrieben."
+      },
+      {
+        "titel": "Kritik der politischen Oekonomie",
+        "beschreibung": "Engels und Marx analysierten den Kapitalismus als ein System, das auf der Ausbeutung der Arbeiterklasse beruht und aufgrund seiner inneren Widersprueche zum Zusammenbruch verurteilt ist."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Lage der arbeitenden Klasse in England",
+        "jahr": "1845",
+        "beschreibung": "Eine empirische Studie des industriellen Elends in Manchester, die als Meilenstein der Sozialforschung und als Anklage gegen die kapitalistische Ausbeutung gilt."
+      },
+      {
+        "titel": "Anti-Duehring (Herrn Eugen Duehrings Umwaelzung der Wissenschaft)",
+        "jahr": "1878",
+        "beschreibung": "Engels' systematische Darstellung des dialektischen Materialismus als umfassende Weltanschauung – das einflussreichste Werk des orthodoxen Marxismus."
+      },
+      {
+        "titel": "Der Ursprung der Familie, des Privateigentums und des Staats",
+        "jahr": "1884",
+        "beschreibung": "Eine Analyse der Entstehung von Familie, Eigentum und Staat aus der Aufloesung der urgemeinschaftlichen Gesellschaft, basierend auf Lewis H. Morgans ethnologischen Forschungen."
+      },
+      {
+        "titel": "Dialektik der Natur",
+        "jahr": "1883 (posthum, unvollendet)",
+        "beschreibung": "Engels' Versuch, die Dialektik als allgemeines Naturgesetz nachzuweisen, mit Studien zur Naturwissenschaft und deren philosophischen Implikationen."
+      }
+    ]
+  }
 }

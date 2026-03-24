@@ -86,5 +86,27 @@
     }
   ],
   "verwandtePhilosophen": ["thomas-von-aquin", "aristoteles", "boethius", "augustinus", "duns-scotus"],
-  "verwandteIsmen": ["scholastik", "aristotelismus", "empirismus", "naturphilosophie"]
+  "verwandteIsmen": ["scholastik", "aristotelismus", "empirismus", "naturphilosophie"],
+  "einfach": {
+    "kurzbeschreibung": "Albertus Magnus war der vielseitigste Gelehrte des Mittelalters und Lehrer von Thomas von Aquin. Er brachte die Philosophie von Aristoteles und die arabische Wissenschaft nach Europa und war gleichzeitig ein begeisterter Naturforscher.",
+    "biografie": {
+      "fruehesLeben": "Albertus wurde um 1200 in Lauingen in Schwaben geboren. Er studierte in Italien, trat dem Dominikanerorden bei und begann bald, an verschiedenen Orten in Deutschland zu lehren.",
+      "schaffen": "In Paris wurde der junge Thomas von Aquin sein Schueler, und Albertus erkannte sofort dessen Genie. Sein Lebenswerk war es, die gesamten Schriften von Aristoteles zu kommentieren, ueber 40 Baende lang. Er schrieb auch die wichtigsten Buecher ueber Pflanzen, Tiere und Mineralien des Mittelalters, alle mit eigenen Beobachtungen. Man nannte ihn den Doctor universalis, weil er in allen Fachgebieten bewandert war.",
+      "spaetesLeben": "Albertus wurde Bischof von Regensburg, legte das Amt aber nach zwei Jahren nieder, um sich wieder der Forschung zu widmen. Im hohen Alter verteidigte er in Paris die Lehren seines verstorbenen Schuelers Thomas.",
+      "tod": "Albertus starb 1280 in Koeln mit etwa 80 Jahren. Er wurde 1931 heiliggesprochen und ist der Schutzpatron der Naturwissenschaftler.",
+      "nachwirkung": "Ohne Albertus haette Thomas von Aquin sein Werk nicht schaffen koennen. Seine naturwissenschaftlichen Arbeiten zeigen einen erstaunlich modernen Geist, weil er auf eigene Beobachtung bestand."
+    },
+    "kernideen": [
+      {"titel": "Eigenstaendigkeit der Philosophie", "beschreibung": "Philosophie und Naturforschung haben ihre eigenen Methoden und sind von der Theologie unabhaengig. Bei Naturfragen zaehlt Aristoteles, nicht die Bibel."},
+      {"titel": "Empirische Naturforschung", "beschreibung": "In der Naturwissenschaft muss man selbst beobachten und Erfahrungen machen, statt sich nur auf alte Texte zu verlassen."},
+      {"titel": "Synthese von Aristoteles und christlicher Theologie", "beschreibung": "Die Philosophie von Aristoteles laesst sich mit dem christlichen Glauben vereinbaren. Albertus bereitete damit die grosse Synthese seines Schuelers Thomas vor."}
+    ],
+    "werke": [
+      {"titel": "Paraphrasen und Kommentare zu Aristoteles", "jahr": "ca. 1250–1270", "beschreibung": "Ueber 40 Baende, die das gesamte Werk von Aristoteles erklaeren und kommentieren."},
+      {"titel": "De vegetabilibus (Ueber die Pflanzen)", "jahr": "ca. 1256", "beschreibung": "Das wichtigste Pflanzenbuch des Mittelalters, mit vielen eigenen Beobachtungen."},
+      {"titel": "De animalibus (Ueber die Tiere)", "jahr": "ca. 1258", "beschreibung": "26 Buecher ueber Tiere, die auf Aristoteles aufbauen, aber durch eigene Beobachtungen ergaenzt werden."},
+      {"titel": "De mineralibus (Ueber die Mineralien)", "jahr": "ca. 1262", "beschreibung": "Fuenf Buecher ueber Gesteine, Mineralien und Edelsteine."},
+      {"titel": "Summa Theologiae", "jahr": "ca. 1270", "beschreibung": "Albertus' eigenes theologisches Hauptwerk, das die gesamte Theologie systematisch behandelt."}
+    ]
+  }
 }

@@ -18,7 +18,10 @@
   },
   "epoche": "Gegenwart",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Postkolonialismus", "Feminismus"],
+  "hauptstroemungen": [
+    "Postkolonialismus",
+    "Feminismus"
+  ],
   "kurzbeschreibung": "Gayatri Chakravorty Spivak ist eine indisch-amerikanische Literaturtheoretikerin und Philosophin, die als eine der Begründerinnen der postkolonialen Theorie gilt. Ihr einflussreicher Essay 'Can the Subaltern Speak?' ist einer der meistzitierten Texte der Kulturwissenschaften. Sie verbindet Dekonstruktion, Feminismus und marxistische Analyse zu einer radikalen Kritik westlicher Wissensproduktion.",
   "biografie": {
     "fruehesLeben": "Gayatri Chakravorty Spivak wurde 1942 in Kalkutta, Indien, geboren. Sie studierte Englische Literatur in Kalkutta und ging in die USA, wo sie an der Cornell University bei Paul de Man promovierte.",
@@ -74,6 +77,59 @@
       "kontext": "Spivaks Reflexion über die Verstrickung postkolonialer Kritik in die Strukturen, die sie kritisiert."
     }
   ],
-  "verwandtePhilosophen": ["jacques-derrida", "michel-foucault", "enrique-dussel"],
-  "verwandteIsmen": ["postkolonialismus", "feminismus", "dekonstruktivismus"]
+  "verwandtePhilosophen": [
+    "jacques-derrida",
+    "michel-foucault",
+    "enrique-dussel"
+  ],
+  "verwandteIsmen": [
+    "postkolonialismus",
+    "feminismus",
+    "dekonstruktivismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Gayatri Chakravorty Spivak ist eine indisch-amerikanische Literaturtheoretikerin und Philosophin, die als eine der Begruenderinnen der postkolonialen Theorie gilt. Ihr einflussreicher Essay 'Can the Subaltern Speak?' ist einer der meistzitierten Texte der Kulturwissenschaften. Sie verbindet Dekonstruktion, Feminismus und marxistische Analyse zu einer radikalen Kritik westlicher Wissensproduktion.",
+    "biografie": {
+      "fruehesLeben": "Gayatri Chakravorty Spivak wurde 1942 in Kalkutta, Indien, geboren. Sie studierte Englische Literatur in Kalkutta und ging in die USA, wo sie an der Cornell University bei Paul de Man promovierte.",
+      "schaffen": "Spivak wurde zunaechst durch ihre englische Uebersetzung von Derridas 'De la grammatologie' (1976) bekannt. Ihr Essay 'Can the Subaltern Speak?' (1988) wurde zum Schluesseltext der postkolonialen Theorie. In 'A Critique of Postcolonial Reason' (1999) entwickelte sie eine umfassende Kritik der westlichen Philosophie aus postkolonialer Perspektive.",
+      "spaetesLeben": "Spivak ist University Professor an der Columbia University in New York und setzt sich aktiv fuer Bildungsprojekte in laendlichen Gebieten Indiens und Bangladeschs ein.",
+      "tod": "Gayatri Spivak lebt und arbeitet weiterhin an der Columbia University.",
+      "nachwirkung": "Spivak hat die postkoloniale Theorie, die feministische Philosophie und die Kulturwissenschaften tiefgreifend beeinflusst. Ihre Frage nach der Stimme der Subalternen praegt die Debatten ueber Repraesentation, Macht und Wissen bis heute."
+    },
+    "kernideen": [
+      {
+        "titel": "Kann die Subalterne sprechen?",
+        "beschreibung": "Spivak argumentiert, dass die Subalterne – die am staerksten marginalisierten Gruppen der postkolonialen Welt – innerhalb der bestehenden Machtstrukturen nicht sprechen koennen, weil ihre Stimme stets durch die Kategorien der Herrschenden vermittelt und verzerrt wird."
+      },
+      {
+        "titel": "Strategischer Essentialismus",
+        "beschreibung": "Obwohl Identitaeten sozial konstruiert sind, kann es fuer unterdrueckte Gruppen politisch notwendig sein, voruebergehend eine essentielle Identitaet anzunehmen, um politisch handlungsfaehig zu werden. Dieser strategische Essentialismus darf jedoch nicht zur permanenten Festschreibung werden."
+      },
+      {
+        "titel": "Epistemische Gewalt",
+        "beschreibung": "Der Kolonialismus war nicht nur eine politische und oekonomische, sondern auch eine epistemische Gewalt: Er zerstoerte die Wissenssysteme der Kolonisierten und ersetzte sie durch westliche Kategorien, die die Kolonisierten als das 'Andere' der Vernunft konstruierten."
+      },
+      {
+        "titel": "Kritik der westlichen Wissensproduktion",
+        "beschreibung": "Spivak zeigt, wie die westliche Philosophie und Literatur ihre Universalitaetsansprueche auf der Ausblendung und Instrumentalisierung nicht-westlicher Subjekte aufbauen. Selbst wohlmeinende westliche Intellektuelle reproduzieren oft koloniale Machtstrukturen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Can the Subaltern Speak?",
+        "jahr": "1988",
+        "beschreibung": "Spivaks einflussreichster Essay, der die Frage stellt, ob die am staerksten Marginalisierten innerhalb der bestehenden Diskursordnungen ueberhaupt gehoert werden koennen."
+      },
+      {
+        "titel": "A Critique of Postcolonial Reason",
+        "jahr": "1999",
+        "beschreibung": "Eine umfassende Kritik der westlichen Philosophie, Literatur und Sozialwissenschaften aus postkolonialer Perspektive."
+      },
+      {
+        "titel": "Of Grammatology (Uebersetzung und Vorwort)",
+        "jahr": "1976",
+        "beschreibung": "Spivaks englische Uebersetzung von Derridas Hauptwerk mit einem ausfuehrlichen Vorwort, das die Dekonstruktion einem anglophonen Publikum zugaenglich machte."
+      }
+    ]
+  }
 }

@@ -18,7 +18,9 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Neukantianismus"],
+  "hauptstroemungen": [
+    "Neukantianismus"
+  ],
   "kurzbeschreibung": "Wilhelm Windelband war ein deutscher Philosoph und Begründer der Südwestdeutschen Schule des Neukantianismus. Er führte die einflussreiche Unterscheidung zwischen nomothetischen (gesetzsuchenden) und idiographischen (das Einzelne beschreibenden) Wissenschaften ein. Als bedeutender Philosophiehistoriker verfasste er ein Lehrbuch der Geschichte der Philosophie, das Generationen von Studenten prägte.",
   "biografie": {
     "fruehesLeben": "Wilhelm Windelband wurde 1848 in Potsdam geboren. Er studierte Philosophie und Geschichte in Jena, Berlin und Göttingen, unter anderem bei Hermann Lotze und Kuno Fischer.",
@@ -70,6 +72,54 @@
       "kontext": "Windelbands Überzeugung von der untrennbaren Verbindung zwischen Philosophie und Philosophiegeschichte."
     }
   ],
-  "verwandtePhilosophen": ["heinrich-rickert", "hermann-lotze", "immanuel-kant", "ernst-troeltsch"],
-  "verwandteIsmen": ["neukantianismus"]
+  "verwandtePhilosophen": [
+    "heinrich-rickert",
+    "hermann-lotze",
+    "immanuel-kant",
+    "ernst-troeltsch"
+  ],
+  "verwandteIsmen": [
+    "neukantianismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Wilhelm Windelband war ein deutscher Philosoph und Begruender der Suedwestdeutschen Schule des Neukantianismus. Er fuehrte die einflussreiche Unterscheidung zwischen nomothetischen (gesetzsuchenden) und idiographischen (das Einzelne beschreibenden) Wissenschaften ein. Als bedeutender Philosophiehistoriker verfasste er ein Lehrbuch der Geschichte der Philosophie, das Generationen von Studenten praegte.",
+    "biografie": {
+      "fruehesLeben": "Wilhelm Windelband wurde 1848 in Potsdam geboren. Er studierte Philosophie und Geschichte in Jena, Berlin und Goettingen, unter anderem bei Hermann Lotze und Kuno Fischer.",
+      "schaffen": "Windelband begruendete die Suedwestdeutsche oder Badische Schule des Neukantianismus, die sich auf die Wertphilosophie und die Methodologie der Geisteswissenschaften konzentrierte. Seine Rektoratsrede 'Geschichte und Naturwissenschaft' (1894) formulierte die beruehmte Unterscheidung zwischen nomothetischen und idiographischen Methoden.",
+      "spaetesLeben": "Windelband lehrte in Zuerich, Freiburg, Strassburg und ab 1903 in Heidelberg, wo er Heinrich Rickert als seinen Nachfolger aufbaute.",
+      "tod": "Wilhelm Windelband starb 1915 in Heidelberg waehrend des Ersten Weltkriegs. Sein Schueler Heinrich Rickert fuehrte die Badische Schule fort.",
+      "nachwirkung": "Windelbands Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften praegt die Wissenschaftstheorie bis heute. Seine Philosophiegeschichte blieb ueber Jahrzehnte das massgebliche Lehrbuch."
+    },
+    "kernideen": [
+      {
+        "titel": "Nomothetisch und Idiographisch",
+        "beschreibung": "Windelband unterscheidet zwei grundlegende wissenschaftliche Methoden: Die nomothetische Methode sucht allgemeine Gesetze (Naturwissenschaften), die idiographische beschreibt das Einmalige und Individuelle (Geschichtswissenschaften). Beide sind gleichwertig, aber methodisch verschieden."
+      },
+      {
+        "titel": "Wertphilosophie",
+        "beschreibung": "In Anknuepfung an Lotze versteht Windelband die Philosophie als Wissenschaft von den allgemeingueltigen Werten. Das Wahre, Gute und Schoene sind nicht Dinge, sondern Werte, die gelten und an denen sich menschliches Urteilen orientiert."
+      },
+      {
+        "titel": "Philosophie als Geschichte ihrer Probleme",
+        "beschreibung": "Die Geschichte der Philosophie ist nicht eine Abfolge von Systemen, sondern die fortschreitende Klaerung grundlegender Probleme. Windelband ordnet die Philosophiegeschichte nach Problemen, nicht nach Personen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Lehrbuch der Geschichte der Philosophie",
+        "jahr": "1892",
+        "beschreibung": "Windelbands einflussreichstes Werk, ein umfassendes Lehrbuch der Philosophiegeschichte, das nach Problemen statt nach Personen geordnet ist und Generationen von Studenten praegte."
+      },
+      {
+        "titel": "Geschichte und Naturwissenschaft (Rektoratsrede)",
+        "jahr": "1894",
+        "beschreibung": "Die beruehmte Rede, in der Windelband die Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften einfuehrte."
+      },
+      {
+        "titel": "Praeludien",
+        "jahr": "1884",
+        "beschreibung": "Eine Sammlung philosophischer Aufsaetze und Reden, die Windelbands wertphilosophischen Neukantianismus in verschiedenen Anwendungsfeldern darstellt."
+      }
+    ]
+  }
 }

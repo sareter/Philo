@@ -82,5 +82,55 @@
     }
   ],
   "verwandtePhilosophen": ["ludwig-wittgenstein", "daniel-dennett", "hilary-putnam"],
-  "verwandteIsmen": ["sprachphilosophie", "philosophie-des-geistes"]
+  "verwandteIsmen": ["sprachphilosophie", "philosophie-des-geistes"],
+  "einfach": {
+    "kurzbeschreibung": "Searle ist bekannt fuer sein Gedankenexperiment 'Das Chinesische Zimmer', das zeigen soll: Computer koennen nicht wirklich denken, sie schieben nur Symbole hin und her.",
+    "biografie": {
+      "fruehesLeben": "Searle wurde 1932 in Denver, USA, geboren und studierte als Stipendiat in Oxford bei dem Sprachphilosophen J. L. Austin. Dort entdeckte er seine Leidenschaft fuer die Frage, was wir eigentlich tun, wenn wir sprechen.",
+      "schaffen": "Als Professor in Berkeley entwickelte Searle die Sprechakttheorie weiter: Sprechen ist nicht nur Informationen austauschen, sondern auch Handeln -- wir versprechen, befehlen, bitten. Sein beruehmtes 'Chinesisches Zimmer' argumentiert: Ein Computer, der chinesische Zeichen nach Regeln verschiebt, versteht trotzdem kein Chinesisch -- genauso wenig 'versteht' ein Computer wirklich etwas.",
+      "spaetesLeben": "Searle wandte sich zunehmend der Frage zu, wie gesellschaftliche Dinge wie Geld oder Ehe funktionieren: Sie existieren, weil wir alle kollektiv an sie glauben.",
+      "tod": "Searle lebt in Kalifornien. Seine philosophische Karriere umfasst ueber sechs Jahrzehnte.",
+      "nachwirkung": "Das Chinesische Zimmer ist eines der meistdiskutierten Gedankenexperimente in der Philosophie und hat die Debatte ueber Kuenstliche Intelligenz massgeblich gepraegt."
+    },
+    "kernideen": [
+      {
+        "titel": "Das Chinesische Zimmer",
+        "beschreibung": "Stell dir vor, du sitzt in einem Zimmer und verschiebst chinesische Zeichen nach Regeln, ohne Chinesisch zu koennen. Genau so arbeiten Computer: Sie verarbeiten Symbole, aber sie verstehen nichts."
+      },
+      {
+        "titel": "Sprechakttheorie",
+        "beschreibung": "Wenn du sprichst, tust du etwas: Du versprichst, fragst, befiehlst. Sprache ist nicht nur Information, sondern Handlung."
+      },
+      {
+        "titel": "Kollektive Intentionalitaet und institutionelle Tatsachen",
+        "beschreibung": "Geld, Ehe, Staaten -- das alles existiert nur, weil wir gemeinsam akzeptieren, dass es so ist."
+      },
+      {
+        "titel": "Biologischer Naturalismus",
+        "beschreibung": "Bewusstsein ist real und wird vom Gehirn erzeugt, aehnlich wie Verdauung vom Magen. Es ist weder nur Physik noch etwas Uebernatuerliches."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Sprechakte (Speech Acts)",
+        "jahr": "1969",
+        "beschreibung": "Searles Grundlagenwerk darueber, was wir eigentlich tun, wenn wir sprechen."
+      },
+      {
+        "titel": "Geist, Gehirn und Wissenschaft (Minds, Brains and Science)",
+        "jahr": "1984",
+        "beschreibung": "Eine verstaendliche Darstellung seiner Argumente gegen die Idee, dass Computer denken koennen."
+      },
+      {
+        "titel": "Die Konstruktion der gesellschaftlichen Wirklichkeit (The Construction of Social Reality)",
+        "jahr": "1995",
+        "beschreibung": "Wie gesellschaftliche Dinge wie Geld und Gesetze durch gemeinsames Akzeptieren entstehen."
+      },
+      {
+        "titel": "Die Wiederentdeckung des Geistes (The Rediscovery of the Mind)",
+        "jahr": "1992",
+        "beschreibung": "Ein Plaedoyer dafuer, dass Bewusstsein real und nicht auf blosse Gehirnchemie reduzierbar ist."
+      }
+    ]
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
     {"titel": "Was ist Eigentum?", "autor": "Pierre-Joseph Proudhon", "jahr": "1840"},
     {"titel": "Staatlichkeit und Anarchie", "autor": "Michail Bakunin", "jahr": "1873"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der libertaere Sozialismus will eine Gesellschaft ohne Chefs und ohne Kapitalismus. Die Menschen sollen sich selbst organisieren, Betriebe gemeinsam fuehren und Entscheidungen zusammen treffen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, an deinem Arbeitsplatz gaebe es keinen Chef, sondern alle wuerden gemeinsam entscheiden, was gemacht wird und wie die Gewinne verteilt werden. Und stell dir vor, es gaebe auch keine Regierung, die von oben herab bestimmt -- stattdessen organisieren sich Nachbarschaften und Staedte selbst. Das ist die Grundidee des libertaeren Sozialismus.\n\nDie Anhaenger dieser Idee finden: Der Kapitalismus ist unfair, weil wenige Besitzer den Gewinn einstreichen, waehrend die Arbeitenden den ganzen Job machen. Aber sie finden auch, dass der Staatssozialismus keine Loesung ist, weil da einfach der Staat zum neuen Chef wird. Also wollen sie beides abschaffen -- Kapitalismus und Staatsmacht.\n\nWas soll stattdessen kommen? Selbstverwaltung. Betriebe gehoeren allen, die dort arbeiten. Gemeinden regeln ihre Sachen selbst und schliessen sich freiwillig mit anderen zusammen. Keine Hierarchien, keine Herrschaft von oben -- sondern Solidaritaet und gegenseitige Hilfe. Klingt utopisch? Vielleicht, aber es gab historisch tatsaechlich Versuche, das umzusetzen.",
+    "kernthesen": [
+      "Freiheit und Gleichheit gehoeren zusammen -- man kann nicht das eine ohne das andere haben.",
+      "Sowohl Kapitalismus als auch staatlicher Sozialismus sind Formen von Unterdrueckung.",
+      "Menschen sollen ihre Betriebe und Gemeinden selbst verwalten, ohne Chefs und Buerokratie.",
+      "Ziel ist eine Gesellschaft, in der sich freie Menschen freiwillig zusammenschliessen.",
+      "Jede Form von Hierarchie -- ob wirtschaftlich, politisch oder kulturell -- muss abgeschafft werden."
+    ],
+    "entstehung": "Diese Idee entstand im 19. Jahrhundert, als Arbeiter unter miserablen Bedingungen in Fabriken schufteten. Denker wie Proudhon und Bakunin sagten: Wir brauchen weder Kapitalisten noch einen starken Staat -- die Menschen koennen sich selbst organisieren.",
+    "kritik": "Kritiker fragen: Wie soll das praktisch funktionieren? Ohne Staat und ohne Markt braucht man trotzdem irgendeine Struktur, um Konflikte zu loesen und grosse Projekte zu koordinieren. Die Annahme, dass alle Menschen freiwillig kooperieren, sei zu optimistisch."
+  }
 }

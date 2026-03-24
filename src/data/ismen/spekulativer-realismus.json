@@ -19,5 +19,18 @@
     {"titel": "Nach der Endlichkeit", "autor": "Quentin Meillassoux", "jahr": "2006"},
     {"titel": "Tool-Being", "autor": "Graham Harman", "jahr": "2002"},
     {"titel": "Nihil Unbound", "autor": "Ray Brassier", "jahr": "2007"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Spekulative Realismus sagt: Die Philosophie hat sich seit Kant zu sehr auf den Menschen konzentriert. Es gibt eine Realitaet da draussen, die voellig unabhaengig von uns existiert, und wir koennen darueber nachdenken.",
+    "ausfuehrlicheBeschreibung": "Seit Kant galt in der Philosophie ein ungeschriebenes Gesetz: Wir koennen nur darueber reden, wie die Welt fuer uns erscheint, nie darueber, wie sie wirklich an sich ist. Der Spekulative Realismus sagt: Das ist Unsinn. Es gibt eine Welt da draussen, die existiert hat, bevor es Menschen gab, und die weiter existieren wird, wenn wir weg sind. Und die Philosophie muss sich trauen, darueber zu sprechen.\n\nDas klingt vielleicht selbstverstaendlich, war aber in der Philosophie eine ziemliche Provokation. Quentin Meillassoux argumentiert zum Beispiel: Wenn die Wissenschaft sagen kann, dass das Universum 13,8 Milliarden Jahre alt ist, dann macht sie eine Aussage ueber eine Realitaet, die es lange vor jedem menschlichen Bewusstsein gab. Das beweist, dass wir ueber die Welt an sich reden koennen.\n\nDie Bewegung entstand 2007 bei einer Konferenz in London und hat seitdem die Philosophie ordentlich aufgemischt. Sie hat den Fokus zurueck auf die grossen Fragen gelenkt: Was existiert wirklich? Warum gelten bestimmte Naturgesetze? Und was ist die Welt unabhaengig davon, was wir ueber sie denken?",
+    "kernthesen": [
+      "Die Philosophie muss aufhoeren, alles nur auf den Menschen zu beziehen",
+      "Es gibt eine Realitaet, die voellig unabhaengig von unserem Denken existiert",
+      "Die Naturwissenschaft zeigt uns, dass wir ueber die Welt an sich Aussagen machen koennen",
+      "Naturgesetze sind nicht zwingend notwendig - sie koennten auch ganz anders sein",
+      "Die Philosophie muss sich wieder den grossen Fragen der Metaphysik und Ontologie zuwenden"
+    ],
+    "entstehung": "Der Spekulative Realismus entstand 2007 bei einer Konferenz in London. Quentin Meillassoux' Buch Nach der Endlichkeit von 2006 gilt als Gruendungstext. Die Bewegung war von Anfang an vielfaeltig und entwickelte sich in verschiedene Richtungen.",
+    "kritik": "Kritiker sagen, der Spekulative Realismus ueberzeichne die bisherige Philosophie als zu menschenzentriert und baue einen Strohmann auf. Ausserdem sei der Anspruch, ueber die Realitaet an sich reden zu koennen, philosophisch nicht ausreichend begruendet."
+  }
 }

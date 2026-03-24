@@ -11,14 +11,52 @@
     "Die Seele ist unsterblich und erinnert sich an die Ideen, die sie vor der Verkörperung geschaut hat (Anamnesis).",
     "Der gerechte Staat wird von Philosophen regiert, die die Idee des Guten erkannt haben."
   ],
-  "hauptvertreter": ["platon", "sokrates", "aristoteles"],
+  "hauptvertreter": [
+    "platon",
+    "sokrates",
+    "aristoteles"
+  ],
   "entstehung": "Der Platonismus geht auf Platon (ca. 428-348 v. Chr.) zurück, der als Schüler des Sokrates um 387 v. Chr. die Akademie in Athen gründete – die erste institutionalisierte Philosophenschule der westlichen Welt. Platon entwickelte seine Philosophie in dialogischer Form weiter und baute auf den Fragen und der Methode seines Lehrers Sokrates auf. Die Akademie bestand in verschiedenen Formen fast tausend Jahre lang und war das intellektuelle Zentrum des antiken Athen.",
   "kritik": "Die Hauptkritik am Platonismus richtet sich gegen die Ideenlehre. Bereits Aristoteles, Platons bedeutendster Schüler, erhob schwerwiegende Einwände: Das sogenannte Argument des Dritten Menschen zeigt, dass die Erklärung der Ähnlichkeit zwischen Dingen durch Teilhabe an einer gemeinsamen Idee in einen unendlichen Regress führt. Nominalisten bestreiten die unabhängige Existenz von Universalien grundsätzlich. Empiristen kritisieren die Abwertung der Sinneserfahrung und die Annahme angeborener Ideen. Die politische Philosophie Platons wurde als autoritär und totalitär kritisiert, besonders prominent durch Karl Popper in Die offene Gesellschaft und ihre Feinde. Zudem wird die strenge Trennung von Ideen- und Sinnenwelt als metaphysisch unhaltbar angesehen.",
-  "verwandteIsmen": ["neoplatonismus", "idealismus", "rationalismus", "realismus"],
+  "verwandteIsmen": [
+    "neoplatonismus",
+    "idealismus",
+    "rationalismus",
+    "realismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Politeia (Der Staat)", "autor": "Platon", "jahr": "ca. 375 v. Chr." },
-    { "titel": "Symposion", "autor": "Platon", "jahr": "ca. 385 v. Chr." },
-    { "titel": "Phaidon", "autor": "Platon", "jahr": "ca. 385 v. Chr." },
-    { "titel": "Timaios", "autor": "Platon", "jahr": "ca. 360 v. Chr." }
-  ]
+    {
+      "titel": "Politeia (Der Staat)",
+      "autor": "Platon",
+      "jahr": "ca. 375 v. Chr."
+    },
+    {
+      "titel": "Symposion",
+      "autor": "Platon",
+      "jahr": "ca. 385 v. Chr."
+    },
+    {
+      "titel": "Phaidon",
+      "autor": "Platon",
+      "jahr": "ca. 385 v. Chr."
+    },
+    {
+      "titel": "Timaios",
+      "autor": "Platon",
+      "jahr": "ca. 360 v. Chr."
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Platonismus ist die philosophische Tradition, die auf den Lehren Platons aufbaut.",
+    "ausfuehrlicheBeschreibung": "Der Platonismus ist wohl die einflussreichste philosophische Tradition der westlichen Geistesgeschichte. Alfred North Whitehead bemerkte einmal, die gesamte europaeische Philosophie bestehe aus Fussnoten zu Platon. Diese Einschaetzung mag uebertrieben sein, doch sie verdeutlicht die ueberragende Bedeutung des platonischen Denkens.\n\nDas Herzstueck des Platonismus ist die Ideenlehre (auch Formenlehre genannt). Platon unterscheidet zwischen der sinnlich wahrnehmbaren Welt des Werdens und der intelligiblen Welt des Seins. Die Ideen oder Formen sind ewige, unveraenderliche, vollkommene Wesenheiten, die den sinnlichen Dingen zugrunde liegen. Der Tisch, den wir sehen, ist nur ein unvollkommenes Abbild der Idee des Tisches. An der Spitze der Ideenhierarchie steht die Idee des Guten, die wie die Sonne im beruehmten Sonnengleichnis alles andere erst erkennbar und seiend macht.\n\nDie Erkenntnistheorie des Platonismus ist eng mit der Ideenlehre verknuepft. Wahre Erkenntnis (Episteme) richtet sich auf die unveraenderlichen Ideen, waehrend die Sinneswahrnehmung nur Meinung (Doxa) liefert. In seiner Anamnesislehre argumentiert Platon, dass alles Lernen eigentlich Wiedererinnerung ist: Die Seele hat die Ideen vor ihrer Verkoerperung geschaut und erinnert sich an sie, wenn sie durch sinnliche Erfahrungen angeregt wird.",
+    "kernthesen": [
+      "Es gibt eine hoehere Welt unveraenderlicher Ideen (Formen), die der sinnlichen Welt zugrunde liegt.",
+      "Wahre Erkenntnis richtet sich auf die Ideen, nicht auf die wandelbaren Sinneserscheinungen.",
+      "Die Idee des Guten steht an der Spitze der Ideenhierarchie und ist Grund allen Seins und Erkennens.",
+      "Die Seele ist unsterblich und erinnert sich an die Ideen, die sie vor der Verkoerperung geschaut hat (Anamnesis).",
+      "Der gerechte Staat wird von Philosophen regiert, die die Idee des Guten erkannt haben."
+    ],
+    "entstehung": "Der Platonismus geht auf Platon (ca. 428-348 v. Chr.) zurueck, der als Schueler des Sokrates um 387 v. Chr. die Akademie in Athen gruendete – die erste institutionalisierte Philosophenschule der westlichen Welt. Platon entwickelte seine Philosophie in dialogischer Form weiter und baute auf den Fragen und der Methode seines Lehrers Sokrates auf. Die Akademie bestand in verschiedenen Formen fast tausend Jahre lang und war das intellektuelle Zentrum des antiken Athen.",
+    "kritik": "Die Hauptkritik am Platonismus richtet sich gegen die Ideenlehre. Bereits Aristoteles, Platons bedeutendster Schueler, erhob schwerwiegende Einwaende: Das sogenannte Argument des Dritten Menschen zeigt, dass die Erklaerung der Aehnlichkeit zwischen Dingen durch Teilhabe an einer gemeinsamen Idee in einen unendlichen Regress fuehrt. Nominalisten bestreiten die unabhaengige Existenz von Universalien grundsaetzlich."
+  }
 }

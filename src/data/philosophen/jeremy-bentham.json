@@ -47,5 +47,60 @@
     { "text": "Die Frage ist nicht: Können sie denken? oder: Können sie sprechen? sondern: Können sie leiden?", "quelle": "Introduction to the Principles of Morals and Legislation, Kapitel 17", "kontext": "Benthams bahnbrechendes Argument für den Tierschutz, das die Leidensfähigkeit zum moralischen Kriterium erhebt." }
   ],
   "verwandtePhilosophen": ["john-stuart-mill", "adam-smith", "david-hume", "john-locke", "thomas-hobbes"],
-  "verwandteIsmen": ["utilitarismus", "liberalismus", "rechtspositivismus"]
+  "verwandteIsmen": ["utilitarismus", "liberalismus", "rechtspositivismus"],
+  "einfach": {
+    "kurzbeschreibung": "Bentham war der Erfinder des Utilitarismus: Eine Handlung ist gut, wenn sie moeglichst vielen Menschen moeglichst viel Glueck bringt.",
+    "biografie": {
+      "fruehesLeben": "Bentham wurde 1748 in London geboren und war ein echtes Wunderkind -- mit drei las er Geschichtsbuecher, mit zwoelf ging er an die Uni. Er studierte Jura, fand das englische Rechtssystem aber so chaotisch und ungerecht, dass er es komplett reformieren wollte.",
+      "schaffen": "In seinem Hauptwerk erklaerte er: Die Natur hat uns zwei Herren gegeben -- Schmerz und Lust. Eine gute Handlung ist eine, die moeglichst viel Glueck fuer moeglichst viele Menschen bringt. Er entwickelte sogar eine Formel, um Glueck zu berechnen. Ausserdem entwarf er das Panoptikum, ein Gefaengnis, in dem alle Insassen jederzeit beobachtet werden koennen. Er setzte sich auch fuer Tierschutz, Frauenrechte und die Abschaffung der Todesstrafe ein.",
+      "spaetesLeben": "Bentham lebte als wohlhabender Privatgelehrter und empfing Reformer aus der ganzen Welt. Er half bei der Gruendung des University College London, der ersten englischen Uni, die jeden aufnahm, egal welcher Religion.",
+      "tod": "Bentham starb 1832 in London. Sein Skelett sitzt bis heute, angezogen in seine Kleidung, in einem Glaskasten im University College London -- so hatte er es in seinem Testament gewuenscht.",
+      "nachwirkung": "Sein Utilitarismus wurde von John Stuart Mill weiterentwickelt und ist bis heute eine der wichtigsten ethischen Theorien. Das Panoptikum wurde durch Foucault zum Symbol fuer Ueberwachung in der modernen Gesellschaft."
+    },
+    "kernideen": [
+      {
+        "titel": "Prinzip der Nuetzlichkeit (Utilitarismus)",
+        "beschreibung": "Die richtige Handlung ist die, die das groesste Glueck fuer die groesste Zahl an Menschen bringt."
+      },
+      {
+        "titel": "Hedonistischer Kalkuel",
+        "beschreibung": "Bentham glaubte, man koenne Glueck und Leid messen -- nach Staerke, Dauer und anderen Kriterien, um bessere Entscheidungen zu treffen."
+      },
+      {
+        "titel": "Rechtspositivismus",
+        "beschreibung": "Es gibt keine 'natuerlichen Rechte', die vom Himmel fallen. Rechte existieren nur, weil Gesetze sie schaffen."
+      },
+      {
+        "titel": "Panoptikum",
+        "beschreibung": "Ein Gefaengnismodell, bei dem ein Waechter alle Insassen sehen kann, ohne dass die wissen, ob sie gerade beobachtet werden -- allein die Moeglichkeit der Ueberwachung soll fuer Ordnung sorgen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "An Introduction to the Principles of Morals and Legislation",
+        "jahr": "1789",
+        "beschreibung": "Benthams Hauptwerk, in dem er sein Gluecksprinzip als Grundlage fuer Moral und Gesetze vorstellt."
+      },
+      {
+        "titel": "A Fragment on Government",
+        "jahr": "1776",
+        "beschreibung": "Eine scharfe Kritik am bestehenden englischen Rechtssystem und ein Ruf nach Reformen."
+      },
+      {
+        "titel": "Panopticon; or, The Inspection-House",
+        "jahr": "1791",
+        "beschreibung": "Der Entwurf eines Gefaengnisses, in dem totale Ueberwachung moeglich ist."
+      },
+      {
+        "titel": "The Rationale of Reward",
+        "jahr": "1825",
+        "beschreibung": "Eine Untersuchung darueber, wie Belohnungssysteme in Gesetzen und Erziehung wirken."
+      },
+      {
+        "titel": "Constitutional Code",
+        "jahr": "1830 (unvollendet)",
+        "beschreibung": "Benthams Versuch, eine komplette Verfassung auf Basis des Utilitarismus zu schreiben."
+      }
+    ]
+  }
 }

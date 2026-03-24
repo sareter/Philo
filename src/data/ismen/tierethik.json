@@ -11,14 +11,50 @@
     "Die Massentierhaltung und viele Formen der Tiernutzung sind moralisch nicht zu rechtfertigen",
     "Tiere haben als Subjekte eines Lebens inhärenten moralischen Wert und grundlegende Rechte"
   ],
-  "hauptvertreter": ["peter-singer"],
+  "hauptvertreter": [
+    "peter-singer"
+  ],
   "entstehung": "Die philosophische Reflexion über den moralischen Status von Tieren hat Vorläufer bei Pythagoras, Plutarch und in der indischen Ahimsa-Tradition. Jeremy Bentham formulierte im 18. Jahrhundert das Argument, dass die Fähigkeit zu leiden, nicht die Fähigkeit zu denken, die moralisch relevante Eigenschaft sei. Arthur Schopenhauer betonte das Mitleid als Grundlage der Moral und schloss Tiere ein. Die moderne Tierethik begann mit Peter Singers 'Animal Liberation' (1975) und Tom Regans 'The Case for Animal Rights' (1983). Seitdem hat sich die Tierethik zu einem eigenständigen akademischen Feld mit eigenen Zeitschriften, Lehrstühlen und Forschungszentren entwickelt.",
   "kritik": "Anthropozentrische Kritiker argumentieren, dass nur Menschen als vernunftbegabte Wesen vollen moralischen Status haben. Die Gleichsetzung von Speziesismus mit Rassismus wird als überzogen und beleidigend kritisiert. Utilitaristische Tierethik kann in Konflikt mit menschlichen Interessen geraten – darf man ein Tier retten, wenn dies auf Kosten eines Menschen geht? Die Frage, wo die Grenze der moralischen Berücksichtigung liegt (Insekten? Pflanzen? Einzeller?), bleibt ungelöst. Kulturrelativistische Einwände verweisen auf die unterschiedliche Stellung von Tieren in verschiedenen Kulturen. Die praktische Umsetzbarkeit einer konsequenten Tierethik in modernen Industriegesellschaften wird bezweifelt.",
-  "verwandteIsmen": ["bioethik", "umweltethik", "konsequentialismus", "egalitarismus"],
+  "verwandteIsmen": [
+    "bioethik",
+    "umweltethik",
+    "konsequentialismus",
+    "egalitarismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975" },
-    { "titel": "The Case for Animal Rights", "autor": "Tom Regan", "jahr": "1983" },
-    { "titel": "Introduction to Animal Rights", "autor": "Gary Francione", "jahr": "2000" },
-    { "titel": "Frontiers of Justice", "autor": "Martha Nussbaum", "jahr": "2006" }
-  ]
+    {
+      "titel": "Animal Liberation",
+      "autor": "Peter Singer",
+      "jahr": "1975"
+    },
+    {
+      "titel": "The Case for Animal Rights",
+      "autor": "Tom Regan",
+      "jahr": "1983"
+    },
+    {
+      "titel": "Introduction to Animal Rights",
+      "autor": "Gary Francione",
+      "jahr": "2000"
+    },
+    {
+      "titel": "Frontiers of Justice",
+      "autor": "Martha Nussbaum",
+      "jahr": "2006"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Tierethik ist ein Bereich der angewandten Ethik, der den moralischen Status von Tieren und die Pflichten des Menschen gegenueber Tieren untersucht.",
+    "ausfuehrlicheBeschreibung": "Die Tierethik hat sich seit den 1970er Jahren zu einem der wichtigsten und kontroversesten Bereiche der angewandten Ethik entwickelt. Sie stellt die traditionelle anthropozentrische Ethik infrage, die moralische Beruecksichtigung ausschliesslich Menschen vorbehaelt, und fordert eine Erweiterung des moralischen Kreises auf empfindungsfaehige nichtmenschliche Wesen.\n\nPeter Singer begruendete mit 'Animal Liberation' (1975) die moderne Tierethik aus einer utilitaristischen Perspektive. Sein zentrales Argument basiert auf dem Prinzip der gleichen Interessenabwaegung: Die Interessen aller empfindungsfaehigen Wesen verdienen gleiche Beruecksichtigung, unabhaengig von der Spezieszugehoerigkeit. Die Bevorzugung der eigenen Spezies ('Speziesismus') ist moralisch ebenso willkuerlich wie Rassismus oder Sexismus. Entscheidend ist die Faehigkeit zu leiden, nicht die Zugehoerigkeit zu einer bestimmten Spezies.\n\nTom Regan entwickelte in 'The Case for Animal Rights' (1983) eine rechtebasierte Tierethik. Regan argumentierte, dass Tiere als 'Subjekte eines Lebens' (subjects-of-a-life) inhaerenten Wert besitzen und daher Traeger moralischer Rechte sind. Im Gegensatz zu Singers Utilitarismus, der die Gesamtbilanz von Leid und Freude abwaegt, besteht Regan auf unverletzlichen individuellen Rechten der Tiere. Kein Tier darf als blosses Mittel fuer menschliche Zwecke behandelt werden.",
+    "kernthesen": [
+      "Tiere verdienen moralische Beruecksichtigung aufgrund ihrer Empfindungsfaehigkeit",
+      "Speziesismus – die Bevorzugung der eigenen Spezies – ist moralisch ebenso willkuerlich wie Rassismus",
+      "Die Interessen aller empfindungsfaehigen Wesen verdienen gleiche Beruecksichtigung",
+      "Die Massentierhaltung und viele Formen der Tiernutzung sind moralisch nicht zu rechtfertigen",
+      "Tiere haben als Subjekte eines Lebens inhaerenten moralischen Wert und grundlegende Rechte"
+    ],
+    "entstehung": "Die philosophische Reflexion ueber den moralischen Status von Tieren hat Vorlaeufer bei Pythagoras, Plutarch und in der indischen Ahimsa-Tradition. Jeremy Bentham formulierte im 18. Jahrhundert das Argument, dass die Faehigkeit zu leiden, nicht die Faehigkeit zu denken, die moralisch relevante Eigenschaft sei. Arthur Schopenhauer betonte das Mitleid als Grundlage der Moral und schloss Tiere ein. Die moderne Tierethik begann mit Peter Singers 'Animal Liberation' (1975) und Tom Regans 'The Case for Animal Rights' (1983).",
+    "kritik": "Anthropozentrische Kritiker argumentieren, dass nur Menschen als vernunftbegabte Wesen vollen moralischen Status haben. Die Gleichsetzung von Speziesismus mit Rassismus wird als ueberzogen und beleidigend kritisiert. Utilitaristische Tierethik kann in Konflikt mit menschlichen Interessen geraten – darf man ein Tier retten, wenn dies auf Kosten eines Menschen geht? Die Frage, wo die Grenze der moralischen Beruecksichtigung liegt (Insekten? Pflanzen? Einzeller?), bleibt ungeloest."
+  }
 }

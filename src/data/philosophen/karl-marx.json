@@ -49,5 +49,70 @@
     { "text": "Die Religion ist der Seufzer der bedrängten Kreatur, das Gemüt einer herzlosen Welt, wie sie der Geist geistloser Zustände ist. Sie ist das Opium des Volkes.", "quelle": "Zur Kritik der Hegelschen Rechtsphilosophie. Einleitung (1843)", "kontext": "Marx' berühmte Religionskritik, die Religion als Ausdruck und zugleich Betäubungsmittel menschlichen Leidens versteht." }
   ],
   "verwandtePhilosophen": ["georg-wilhelm-friedrich-hegel", "ludwig-feuerbach", "friedrich-engels", "adam-smith", "jeremy-bentham"],
-  "verwandteIsmen": ["marxismus", "kommunismus", "sozialismus", "materialismus"]
+  "verwandteIsmen": ["marxismus", "kommunismus", "sozialismus", "materialismus"],
+  "einfach": {
+    "kurzbeschreibung": "Marx analysierte, wie der Kapitalismus funktioniert, und rief zur Revolution auf. Sein beruemtester Satz: Philosophen haben die Welt nur interpretiert -- es kommt darauf an, sie zu veraendern.",
+    "biografie": {
+      "fruehesLeben": "Marx wurde 1818 in Trier als Sohn eines juedischen Anwalts geboren, der zum Protestantismus konvertiert war. Er studierte Jura und Philosophie in Bonn und Berlin und schloss sich den radikalen Junghegelianern an. Eine akademische Karriere war wegen seiner Ansichten unmoeglich, also wurde er Journalist.",
+      "schaffen": "Im Pariser Exil lernte Marx Friedrich Engels kennen -- der Beginn einer der beruehmtesten Freundschaften der Geschichte. Er entwickelte den historischen Materialismus: Nicht Ideen treiben die Geschichte an, sondern wirtschaftliche Verhaeltnisse. Im 'Kommunistischen Manifest' rief er zur proletarischen Revolution auf. In London schrieb er sein Hauptwerk 'Das Kapital', eine detaillierte Analyse, wie der Kapitalismus funktioniert und warum er die Arbeiter ausbeutet.",
+      "spaetesLeben": "Marx lebte in London in Armut und ueberlebte nur dank der finanziellen Hilfe von Engels. Mehrere seiner Kinder starben. Er war fuehrender Kopf der Ersten Internationale, einer Vereinigung der Arbeiterbewegungen.",
+      "tod": "Marx starb 1883 in London. Sein Freund Engels hielt die Grabrede: 'Sein Name wird durch die Jahrhunderte fortleben.'",
+      "nachwirkung": "Marx' Ideen inspirierten Revolutionen auf der ganzen Welt. Unabhaengig von der Politik bleibt seine Analyse des Kapitalismus wissenschaftlich bedeutend. Nach der Finanzkrise 2008 erlebte sein Werk ein weltweites Comeback."
+    },
+    "kernideen": [
+      {
+        "titel": "Historischer Materialismus",
+        "beschreibung": "Nicht Ideen bestimmen die Geschichte, sondern wirtschaftliche Verhaeltnisse. Wer die Produktionsmittel besitzt, bestimmt auch Politik, Recht und Kultur."
+      },
+      {
+        "titel": "Klassenkampf",
+        "beschreibung": "Die ganze Geschichte ist ein Kampf zwischen denen, die besitzen, und denen, die arbeiten. Im Kapitalismus kaempfen Arbeiter gegen Kapitalisten."
+      },
+      {
+        "titel": "Mehrwerttheorie",
+        "beschreibung": "Arbeiter produzieren mehr Wert, als sie als Lohn bekommen. Die Differenz steckt der Kapitalist ein -- das ist der Kern der Ausbeutung."
+      },
+      {
+        "titel": "Entfremdung",
+        "beschreibung": "Im Kapitalismus wird Arbeit zur reinen Pflicht statt zur Selbstverwirklichung. Der Arbeiter fuehlt sich fremd gegenueber seiner Arbeit, dem Produkt und sich selbst."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das Kapital. Kritik der politischen Oekonomie",
+        "jahr": "1867 (Bd. I)",
+        "beschreibung": "Marx' Hauptwerk, eine riesige Analyse des Kapitalismus und seiner Ausbeutungsmechanismen."
+      },
+      {
+        "titel": "Manifest der Kommunistischen Partei",
+        "jahr": "1848",
+        "beschreibung": "Das mit Engels verfasste Manifest, das die Geschichte als Klassenkampf deutet und zur Revolution aufruft."
+      },
+      {
+        "titel": "Oekonomisch-philosophische Manuskripte",
+        "jahr": "1844 (posthum 1932)",
+        "beschreibung": "Marx' fruehe Schriften ueber Entfremdung und was Arbeit eigentlich fuer den Menschen bedeuten sollte."
+      },
+      {
+        "titel": "Die deutsche Ideologie",
+        "jahr": "1845--1846 (posthum)",
+        "beschreibung": "Das mit Engels geschriebene Werk, das den historischen Materialismus begruendet."
+      },
+      {
+        "titel": "Zur Kritik der politischen Oekonomie",
+        "jahr": "1859",
+        "beschreibung": "Eine Vorarbeit zum 'Kapital' mit der beruemten Idee von Basis und Ueberbau."
+      },
+      {
+        "titel": "Der achtzehnte Brumaire des Louis Bonaparte",
+        "jahr": "1852",
+        "beschreibung": "Eine politische Analyse mit dem beruehten Satz: Geschichte wiederholt sich -- erst als Tragoedie, dann als Farce."
+      },
+      {
+        "titel": "Thesen ueber Feuerbach",
+        "jahr": "1845 (posthum 1888)",
+        "beschreibung": "Elf kurze Thesen, darunter die beruehmteste: Es kommt darauf an, die Welt zu veraendern."
+      }
+    ]
+  }
 }

@@ -85,5 +85,55 @@
     }
   ],
   "verwandtePhilosophen": ["karl-marx", "sigmund-freud", "ernst-bloch", "herbert-marcuse"],
-  "verwandteIsmen": ["marxismus", "humanismus"]
+  "verwandteIsmen": ["marxismus", "humanismus"],
+  "einfach": {
+    "kurzbeschreibung": "Erich Fromm war ein Psychologe und Philosoph, der erklaerte, warum Menschen vor der Freiheit fliehen und warum Haben nicht gluecklich macht. Sein Buch 'Die Kunst des Liebens' wurde ein Weltbestseller.",
+    "biografie": {
+      "fruehesLeben": "Fromm wurde 1900 in Frankfurt in einer juedischen Familie geboren. Er studierte Soziologie, Psychologie und Philosophie und wurde Psychoanalytiker. Schon frueh interessierte er sich dafuer, Marx und Freud zu verbinden.",
+      "schaffen": "Er gehoerte zur Frankfurter Schule, emigrierte 1934 in die USA und wurde mit seinen Buechern weltberuehmt. Er erklaerte, warum Menschen vor Freiheit fliehen und lieber einem Fuehrer folgen. Sein Buch 'Die Kunst des Liebens' zeigte, dass Liebe kein Zufall ist, sondern gelernt werden muss.",
+      "spaetesLeben": "Er lebte lange in Mexiko und engagierte sich gegen den Kalten Krieg und fuer die Friedensbewegung. Seine letzten Jahre verbrachte er in der Schweiz.",
+      "tod": "Fromm starb 1980 in der Schweiz, kurz vor seinem 80. Geburtstag. Seine Buecher werden weltweit in ueber 30 Sprachen gelesen.",
+      "nachwirkung": "Seine Ideen beeinflussten die Studentenbewegung der 1960er und die Friedensbewegung. Seine Warnung, dass eine Gesellschaft, die nur auf Konsum und Besitz setzt, die Menschen ungluecklich macht, ist heute aktueller denn je."
+    },
+    "kernideen": [
+      {
+        "titel": "Flucht vor der Freiheit",
+        "beschreibung": "Freiheit macht vielen Menschen Angst, weil sie Unsicherheit bedeutet. Deshalb fliehen manche in Autoritarismus oder Anpassung, statt ihre Freiheit zu nutzen."
+      },
+      {
+        "titel": "Haben oder Sein",
+        "beschreibung": "Es gibt zwei Lebensweisen: Haben (Besitz, Konsum) und Sein (Erleben, Verbundenheit). Unsere Gesellschaft foerdert das Haben, aber gluecklich macht das Sein."
+      },
+      {
+        "titel": "Die Kunst des Liebens",
+        "beschreibung": "Liebe ist nicht etwas, das einem einfach passiert, sondern eine Faehigkeit, die man lernen und ueben muss, wie jede andere Kunst auch."
+      },
+      {
+        "titel": "Humanistischer Sozialismus",
+        "beschreibung": "Fromm wollte eine Gesellschaft, in der jeder Mensch sich frei entfalten kann, statt nur zu funktionieren und zu konsumieren."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Furcht vor der Freiheit (Escape from Freedom)",
+        "jahr": "1941",
+        "beschreibung": "Erklaert, warum Menschen vor der Freiheit fliehen und in Autoritarismus oder Anpassung Zuflucht suchen."
+      },
+      {
+        "titel": "Die Kunst des Liebens (The Art of Loving)",
+        "jahr": "1956",
+        "beschreibung": "Der Weltbestseller, der zeigt, dass Liebe eine Kunst ist, die erlernt werden muss."
+      },
+      {
+        "titel": "Haben oder Sein (To Have or to Be?)",
+        "jahr": "1976",
+        "beschreibung": "Stellt die Frage, ob wir leben, um zu besitzen, oder ob es noch etwas Wichtigeres gibt."
+      },
+      {
+        "titel": "Die Seele des Menschen (The Heart of Man)",
+        "jahr": "1964",
+        "beschreibung": "Untersucht, warum Menschen sowohl zum Guten als auch zum Boesen faehig sind."
+      }
+    ]
+  }
 }

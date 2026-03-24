@@ -11,14 +11,55 @@
     "Die Geschichte der Philosophie ist selbst ein wesentlicher Teil des Philosophierens",
     "Philosophische Erkenntnis lässt sich nicht auf formale Analyse reduzieren"
   ],
-  "hauptvertreter": ["martin-heidegger", "jean-paul-sartre", "michel-foucault", "jacques-derrida", "simone-de-beauvoir", "albert-camus"],
+  "hauptvertreter": [
+    "martin-heidegger",
+    "jean-paul-sartre",
+    "michel-foucault",
+    "jacques-derrida",
+    "simone-de-beauvoir",
+    "albert-camus"
+  ],
   "entstehung": "Die Kontinentalphilosophie als eigenständige Tradition entstand durch die Divergenz der europäischen und angelsächsischen Philosophie im frühen 20. Jahrhundert. Husserls Phänomenologie (ab 1900), Heideggers Fundamentalontologie (1927), der französische Existenzialismus (1940er/50er Jahre), Gadamers Hermeneutik (1960), der französische Strukturalismus (1960er Jahre) und der Poststrukturalismus (1960er/70er Jahre) bilden die Hauptströmungen. Die Bezeichnung 'Kontinentalphilosophie' setzte sich in den 1970er und 1980er Jahren als Kontrastbegriff zur analytischen Philosophie durch.",
   "kritik": "Analytische Philosophen kritisieren die Kontinentalphilosophie als unklar, begrifflich unpräzise und argumentativ unzureichend. Bertrand Russell und Rudolf Carnap kritisierten Heideggers Sprache als sinnloses Wortgeklingel. John Searle warf Derrida vor, Obskurantismus als Tiefe auszugeben. Die 'Sokal-Affäre' (1996) zeigte, dass postmoderne Theorie anfällig für pseudowissenschaftlichen Jargon ist. Die Kontinentalphilosophie wird beschuldigt, politisch radikale Positionen ohne ausreichende argumentative Begründung einzunehmen. Heideggers Verstrickung in den Nationalsozialismus und die Frage nach dem Zusammenhang zwischen seiner Philosophie und seiner Politik bleiben ein dauerhaftes Problem.",
-  "verwandteIsmen": ["kritische-theorie", "antifoundationalismus", "hegelianismus", "romantizismus"],
+  "verwandteIsmen": [
+    "kritische-theorie",
+    "antifoundationalismus",
+    "hegelianismus",
+    "romantizismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927" },
-    { "titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943" },
-    { "titel": "Wahrheit und Methode", "autor": "Hans-Georg Gadamer", "jahr": "1960" },
-    { "titel": "Die Schrift und die Differenz", "autor": "Jacques Derrida", "jahr": "1967" }
-  ]
+    {
+      "titel": "Sein und Zeit",
+      "autor": "Martin Heidegger",
+      "jahr": "1927"
+    },
+    {
+      "titel": "Das Sein und das Nichts",
+      "autor": "Jean-Paul Sartre",
+      "jahr": "1943"
+    },
+    {
+      "titel": "Wahrheit und Methode",
+      "autor": "Hans-Georg Gadamer",
+      "jahr": "1960"
+    },
+    {
+      "titel": "Die Schrift und die Differenz",
+      "autor": "Jacques Derrida",
+      "jahr": "1967"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Kontinentalphilosophie ist eine Sammelbezeichnung fuer philosophische Traditionen, die sich primaer auf dem europaeischen Kontinent entwickelt haben, darunter Phaenomenologie, Existenzialismus, Hermeneutik, Strukturalismus, Poststrukturalismus und Kritische Theorie.",
+    "ausfuehrlicheBeschreibung": "Die Kontinentalphilosophie bezeichnet ein breites Spektrum philosophischer Traditionen, die sich vornehmlich in Deutschland und Frankreich entwickelt haben und sich in Stil und Methode von der analytischen Philosophie unterscheiden. Die Bezeichnung 'kontinental' ist ein Kontrastbegriff zur angelsaechsisch dominierten analytischen Tradition und wird seit der Mitte des 20. Jahrhunderts verwendet.\n\nDie Phaenomenologie, begruendet von Edmund Husserl, bildet eine der Hauptwurzeln der Kontinentalphilosophie. Husserls Programm einer 'Philosophie als strenge Wissenschaft' zielte darauf ab, die Strukturen des Bewusstseins durch systematische Analyse der Erfahrung freizulegen. Die phaenomenologische Methode – die 'Reduktion' auf die unmittelbaren Gegebenheiten des Bewusstseins – beeinflusste alle nachfolgenden kontinentalen Stroemungen.\n\nMartin Heidegger transformierte die Phaenomenologie in eine Fundamentalontologie. 'Sein und Zeit' (1927) analysierte die Grundstrukturen des menschlichen Daseins – In-der-Welt-sein, Sorge, Angst, Sein-zum-Tode – und fragte nach dem Sinn von Sein ueberhaupt. Heideggers Spaetphilosophie thematisierte die 'Seinsvergessenheit' der abendlaendischen Metaphysik und suchte nach einem urspruenglicheren Zugang zum Sein.",
+    "kernthesen": [
+      "Philosophie muss die existenzielle Situation und die Lebenswelt des Menschen beruecksichtigen",
+      "Verstehen ist ein geschichtlich vermitteltes Geschehen, kein methodisch kontrollierbarer Akt",
+      "Die Strukturen von Sprache, Macht und Kultur praegen das menschliche Denken und Handeln",
+      "Die Geschichte der Philosophie ist selbst ein wesentlicher Teil des Philosophierens",
+      "Philosophische Erkenntnis laesst sich nicht auf formale Analyse reduzieren"
+    ],
+    "entstehung": "Die Kontinentalphilosophie als eigenstaendige Tradition entstand durch die Divergenz der europaeischen und angelsaechsischen Philosophie im fruehen 20. Jahrhundert. Husserls Phaenomenologie (ab 1900), Heideggers Fundamentalontologie (1927), der franzoesische Existenzialismus (1940er/50er Jahre), Gadamers Hermeneutik (1960), der franzoesische Strukturalismus (1960er Jahre) und der Poststrukturalismus (1960er/70er Jahre) bilden die Hauptstroemungen. Die Bezeichnung 'Kontinentalphilosophie' setzte sich in den 1970er und 1980er Jahren als Kontrastbegriff zur analytischen Philosophie durch.",
+    "kritik": "Analytische Philosophen kritisieren die Kontinentalphilosophie als unklar, begrifflich unpraezise und argumentativ unzureichend. Bertrand Russell und Rudolf Carnap kritisierten Heideggers Sprache als sinnloses Wortgeklingel. John Searle warf Derrida vor, Obskurantismus als Tiefe auszugeben. Die 'Sokal-Affaere' (1996) zeigte, dass postmoderne Theorie anfaellig fuer pseudowissenschaftlichen Jargon ist."
+  }
 }

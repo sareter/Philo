@@ -11,14 +11,48 @@
     "Der Föderalismus verbindet politische Einheit mit kultureller und regionaler Vielfalt.",
     "Föderale Ordnungen ermöglichen politische Experimente und fördern demokratische Teilhabe."
   ],
-  "hauptvertreter": ["montesquieu"],
+  "hauptvertreter": [
+    "montesquieu"
+  ],
   "entstehung": "Die Idee des Föderalismus hat Wurzeln in der Antike, insbesondere in den griechischen Staatenbünden und der römischen Bundesgenossenschaft. Johannes Althusius entwarf im 17. Jahrhundert eine systematische föderale Theorie. Die Aufklärung lieferte mit Montesquieus Gewaltenteilungslehre die philosophische Grundlage. Die amerikanische Verfassung von 1787 und die Federalist Papers schufen die erste moderne föderale Ordnung. In Europa entwickelte sich der Föderalismus im 19. und 20. Jahrhundert als Antwort auf die Herausforderungen von Nationalismus und Zentralismus.",
   "kritik": "Kritiker des Föderalismus bemängeln, dass er zu ineffizienten Entscheidungsprozessen führt, da die Abstimmung zwischen verschiedenen Ebenen zeitaufwendig und kostspielig ist. Unitaristen argumentieren, dass föderale Strukturen die Handlungsfähigkeit des Staates schwächen und die Umsetzung einheitlicher Standards erschweren. Die Verteilung von Kompetenzen kann zu Zuständigkeitskonflikten und politischen Blockaden führen. Demokratietheoretiker weisen darauf hin, dass föderale Systeme zu einer Überrepräsentation kleiner Einheiten führen können und damit das Prinzip der Gleichheit der Stimmen verletzen. Zudem wird kritisiert, dass der Föderalismus regionale Ungleichheiten verstärken und die nationale Solidarität untergraben kann.",
-  "verwandteIsmen": ["liberalismus", "republikanismus"],
+  "verwandteIsmen": [
+    "liberalismus",
+    "republikanismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Vom Geist der Gesetze", "autor": "Montesquieu", "jahr": "1748" },
-    { "titel": "Federalist Papers", "autor": "Alexander Hamilton, James Madison und John Jay", "jahr": "1788" },
-    { "titel": "Politica", "autor": "Johannes Althusius", "jahr": "1603" },
-    { "titel": "Das föderalistische Prinzip", "autor": "Pierre-Joseph Proudhon", "jahr": "1863" }
-  ]
+    {
+      "titel": "Vom Geist der Gesetze",
+      "autor": "Montesquieu",
+      "jahr": "1748"
+    },
+    {
+      "titel": "Federalist Papers",
+      "autor": "Alexander Hamilton, James Madison und John Jay",
+      "jahr": "1788"
+    },
+    {
+      "titel": "Politica",
+      "autor": "Johannes Althusius",
+      "jahr": "1603"
+    },
+    {
+      "titel": "Das föderalistische Prinzip",
+      "autor": "Pierre-Joseph Proudhon",
+      "jahr": "1863"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Foederalismus ist die politische Philosophie, die eine bundesstaatliche Ordnung mit vertikaler Gewaltenteilung zwischen Zentralstaat und Gliedstaaten befuerwortet.",
+    "ausfuehrlicheBeschreibung": "Der Foederalismus (von lateinisch foedus = Bund, Vertrag) ist eine politische Ordnungsidee, die Macht auf mehrere staatliche Ebenen verteilt und damit sowohl die Einheit des Ganzen als auch die Eigenstaendigkeit der Teile gewaehrleisten will. Er verbindet das Prinzip der Einheit mit dem der Vielfalt und bildet eine Alternative sowohl zum zentralistischen Einheitsstaat als auch zur losen Konfoederation unabhaengiger Staaten.\n\nDie philosophischen Grundlagen des Foederalismus wurden in der Aufklaerung gelegt. Montesquieu entwickelte in Vom Geist der Gesetze (1748) die Theorie der Gewaltenteilung und erkannte in der foederalen Ordnung eine Moeglichkeit, die Vorteile grosser Reiche mit denen kleiner Republiken zu verbinden. Grosse Reiche seien durch Despotismus bedroht, kleine Republiken durch aeussere Feinde – der Foederalismus biete einen Ausweg aus diesem Dilemma. Johannes Althusius hatte bereits im 17. Jahrhundert in seiner Politica (1603) eine foederale Gesellschaftstheorie entworfen, die den Staat als einen stufenweisen Aufbau von Gemeinschaften verstand.\n\nDie praktische Verwirklichung des Foederalismus erfolgte vor allem durch die amerikanische Verfassung von 1787. Die Federalist Papers von Alexander Hamilton, James Madison und John Jay lieferten die theoretische Begruendung fuer den amerikanischen Bundesstaat und entwickelten die Idee der checks and balances als Schutz vor Tyrannei. Madison argumentierte, dass ein grosser foederaler Staat die Gefahr der Faktionsherrschaft besser eindaemmen koenne als kleine homogene Republiken.",
+    "kernthesen": [
+      "Politische Macht sollte auf mehrere staatliche Ebenen verteilt werden, um Machtmissbrauch zu verhindern.",
+      "Die vertikale Gewaltenteilung zwischen Zentralstaat und Gliedstaaten schuetzt die Freiheit der Buerger.",
+      "Das Subsidiaritaetsprinzip verlangt, dass Aufgaben von der kleinsten kompetenten Einheit wahrgenommen werden.",
+      "Der Foederalismus verbindet politische Einheit mit kultureller und regionaler Vielfalt.",
+      "Foederale Ordnungen ermoeglichen politische Experimente und foerdern demokratische Teilhabe."
+    ],
+    "entstehung": "Die Idee des Foederalismus hat Wurzeln in der Antike, insbesondere in den griechischen Staatenbuenden und der roemischen Bundesgenossenschaft. Johannes Althusius entwarf im 17. Jahrhundert eine systematische foederale Theorie. Die Aufklaerung lieferte mit Montesquieus Gewaltenteilungslehre die philosophische Grundlage. Die amerikanische Verfassung von 1787 und die Federalist Papers schufen die erste moderne foederale Ordnung. In Europa entwickelte sich der Foederalismus im 19. und 20. Jahrhundert als Antwort auf die Herausforderungen von Nationalismus und Zentralismus.",
+    "kritik": "Kritiker des Foederalismus bemaengeln, dass er zu ineffizienten Entscheidungsprozessen fuehrt, da die Abstimmung zwischen verschiedenen Ebenen zeitaufwendig und kostspielig ist. Unitaristen argumentieren, dass foederale Strukturen die Handlungsfaehigkeit des Staates schwaechen und die Umsetzung einheitlicher Standards erschweren. Die Verteilung von Kompetenzen kann zu Zustaendigkeitskonflikten und politischen Blockaden fuehren."
+  }
 }

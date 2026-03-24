@@ -20,5 +20,18 @@
     { "titel": "Kritik der praktischen Vernunft", "autor": "Immanuel Kant", "jahr": "1788" },
     { "titel": "Die Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1797" },
     { "titel": "Creating the Kingdom of Ends", "autor": "Christine Korsgaard", "jahr": "1996" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Pflichtethik sagt: Moralisch gut handeln heisst, seine Pflicht zu tun, egal ob man Lust darauf hat oder nicht. Es zaehlt nicht das Ergebnis, sondern ob man aus dem richtigen Grund gehandelt hat.",
+    "ausfuehrlicheBeschreibung": "Kant, der bekannteste Vertreter der Pflichtethik, hatte eine klare Idee: Wirklich moralisch gut ist nur, wer aus Pflicht handelt, also weil es das Richtige ist, und nicht weil es sich gut anfuehlt oder Vorteile bringt. Wenn du jemandem hilfst, weil du Mitleid hast, ist das nett, aber moralisch wertvoll im strengen Sinn ist es nur, wenn du es tust, weil es deine Pflicht ist.\n\nDas zentrale Werkzeug ist der 'kategorische Imperativ': Handle so, dass die Regel, nach der du handelst, ein allgemeines Gesetz sein koennte. Bevor du luegst, frag dich: Was waere, wenn alle luegen wuerden? Dann wuerde Vertrauen zusammenbrechen und Luegen selbst wuerde sinnlos. Also darfst du nicht luegen, egal in welcher Situation. Es gibt vollkommene Pflichten, die immer gelten (nicht luegen, nicht morden), und unvollkommene Pflichten, die Spielraum lassen (anderen helfen, sich weiterbilden).\n\nDie Pflichtethik unterscheidet sich stark von der Frage 'Was bringt das beste Ergebnis?' (Konsequentialismus) und von 'Welcher Charakter ist gut?' (Tugendethik). Kritiker finden den Ansatz lebensfremd: Muss eine gute Tat mit Widerwillen getan werden, damit sie zaehlt? Und was macht man, wenn zwei Pflichten sich widersprechen? Trotzdem bleibt die Pflichtethik eine der einflussreichsten Moraltheorien ueberhaupt.",
+    "kernthesen": [
+      "Moralisch handeln heisst, seine Pflicht zu tun, unabhaengig von Gefuehlen oder Ergebnissen.",
+      "Nur der gute Wille, der aus Pflicht handelt, ist wirklich moralisch gut.",
+      "Das moralische Gesetz gilt fuer alle und laesst sich nicht durch persoenliche Wuensche aushebeln.",
+      "Manche Pflichten gelten ausnahmslos, andere lassen Spielraum in der Umsetzung.",
+      "Die eigene Vernunft ist die Quelle moralischer Verpflichtung, nicht Gott oder Tradition."
+    ],
+    "entstehung": "Die Pflichtethik hat Wurzeln in den religioesen Gebotstraditionen des Judentums und Christentums. Ihre philosophische Form erhielt sie durch Immanuel Kant in den 1780er Jahren mit der 'Grundlegung zur Metaphysik der Sitten'. Im 20. Jahrhundert wurde sie durch Autorinnen wie Christine Korsgaard und Onora O'Neill erneuert.",
+    "kritik": "Schiller spottete: Muss man eine gute Tat mit Widerwillen tun, damit sie moralischen Wert hat? Hegel nannte die Pflichtethik 'leeren Formalismus'. Konsequentialisten kritisieren, dass die Pflichtethik katastrophale Folgen in Kauf nimmt, nur um Regeln einzuhalten. Und was tut man, wenn zwei Pflichten sich widersprechen?"
+  }
 }

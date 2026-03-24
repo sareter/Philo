@@ -11,13 +11,44 @@
     "Ein rein prozeduraler Liberalismus ohne substanzielle Werte unterminiert seinen eigenen Bestand.",
     "Gerechte Institutionen müssen sowohl individuelle Rechte als auch das Gemeinwohl berücksichtigen."
   ],
-  "hauptvertreter": ["john-rawls"],
+  "hauptvertreter": [
+    "john-rawls"
+  ],
   "entstehung": "Der kommunitaristische Liberalismus entwickelte sich in den 1980er und 1990er Jahren aus der Debatte zwischen Rawls' Liberalismus und seinen kommunitaristischen Kritikern. Charles Taylors 'Quellen des Selbst' (1989) und Michael Walzers 'Sphären der Gerechtigkeit' (1983) legten wichtige Grundlagen für diese Synthese.",
   "kritik": "Kritiker von links werfen dem kommunitaristischen Liberalismus vor, konservative Gemeinschaftsvorstellungen zu legitimieren und progressive Individualrechte zu gefährden. Liberale Kritiker sehen die Gefahr, dass die Betonung der Gemeinschaft zu Konformismus und zur Unterdrückung von Minderheiten führen könne.",
-  "verwandteIsmen": ["liberalismus", "kommunitarismus", "republikanismus"],
+  "verwandteIsmen": [
+    "liberalismus",
+    "kommunitarismus",
+    "republikanismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Politischer Liberalismus", "autor": "John Rawls", "jahr": "1993"},
-    {"titel": "Quellen des Selbst", "autor": "Charles Taylor", "jahr": "1989"},
-    {"titel": "Sphären der Gerechtigkeit", "autor": "Michael Walzer", "jahr": "1983"}
-  ]
+    {
+      "titel": "Politischer Liberalismus",
+      "autor": "John Rawls",
+      "jahr": "1993"
+    },
+    {
+      "titel": "Quellen des Selbst",
+      "autor": "Charles Taylor",
+      "jahr": "1989"
+    },
+    {
+      "titel": "Sphären der Gerechtigkeit",
+      "autor": "Michael Walzer",
+      "jahr": "1983"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der kommunitaristische Liberalismus sucht eine Synthese aus liberaler Freiheit und gemeinschaftlicher Bindung.",
+    "ausfuehrlicheBeschreibung": "Der kommunitaristische Liberalismus entstand in den 1980er und 1990er Jahren als Vermittlungsversuch zwischen dem Liberalismus John Rawls' und der kommunitaristischen Kritik von Michael Sandel, Alasdair MacIntyre und Charles Taylor. Waehrend der Rawls'sche Liberalismus das Individuum als autonom und vorsozial konzipiert, betonen die Kommunitaristen, dass Personen immer schon in Gemeinschaften, Traditionen und kulturelle Kontexte eingebettet sind, die ihre Identitaet und ihre Wertvorstellungen praegen.\n\nDer kommunitaristische Liberalismus versucht, beide Einsichten zu verbinden: Er haelt an den liberalen Grundrechten und der politischen Freiheit fest, erkennt aber an, dass diese nur in einer Gesellschaft verwirklicht werden koennen, die durch gemeinsame Werte, Institutionen und Solidaritaet zusammengehalten wird. Rawls selbst naeherte sich in seinem Spaetwerk 'Politischer Liberalismus' (1993) dieser Position an, indem er den Fokus von einer umfassenden auf eine 'politische' Gerechtigkeitskonzeption verlagerte, die mit verschiedenen umfassenden Lehren vertraeglich sein soll.\n\nDer kommunitaristische Liberalismus hat die Debatten ueber Multikulturalismus, Staatsbuergerschaft und soziale Gerechtigkeit nachhaltig gepraegt. Er bietet einen Rahmen fuer die Frage, wie liberale Gesellschaften den Zusammenhalt bewahren koennen, ohne die individuelle Freiheit und die kulturelle Vielfalt zu opfern. In der Gegenwart gewinnt er angesichts wachsender gesellschaftlicher Polarisierung erneut an Bedeutung.",
+    "kernthesen": [
+      "Individuelle Freiheit und gemeinschaftliche Bindung sind keine Gegensaetze, sondern einander bedingend.",
+      "Der Mensch ist immer schon in Gemeinschaften eingebettet, die seine Identitaet und Werte praegen.",
+      "Liberale Grundrechte koennen nur in einer Gesellschaft mit gemeinsamen Werten und Solidaritaet verwirklicht werden.",
+      "Ein rein prozeduraler Liberalismus ohne substanzielle Werte unterminiert seinen eigenen Bestand.",
+      "Gerechte Institutionen muessen sowohl individuelle Rechte als auch das Gemeinwohl beruecksichtigen."
+    ],
+    "entstehung": "Der kommunitaristische Liberalismus entwickelte sich in den 1980er und 1990er Jahren aus der Debatte zwischen Rawls' Liberalismus und seinen kommunitaristischen Kritikern. Charles Taylors 'Quellen des Selbst' (1989) und Michael Walzers 'Sphaeren der Gerechtigkeit' (1983) legten wichtige Grundlagen fuer diese Synthese.",
+    "kritik": "Kritiker von links werfen dem kommunitaristischen Liberalismus vor, konservative Gemeinschaftsvorstellungen zu legitimieren und progressive Individualrechte zu gefaehrden. Liberale Kritiker sehen die Gefahr, dass die Betonung der Gemeinschaft zu Konformismus und zur Unterdrueckung von Minderheiten fuehren koenne."
+  }
 }

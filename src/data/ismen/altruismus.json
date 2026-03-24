@@ -19,5 +19,18 @@
     {"titel": "Über die Grundlage der Moral", "autor": "Arthur Schopenhauer", "jahr": "1840"},
     {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"},
     {"titel": "The Life You Can Save", "autor": "Peter Singer", "jahr": "2009"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Altruismus heisst: Anderen helfen, auch wenn man selbst nichts davon hat. Die Philosophie fragt, ob das moeglich ist und ob wir dazu verpflichtet sind.",
+    "ausfuehrlicheBeschreibung": "Altruismus ist das Gegenteil von Egoismus. Statt nur an sich selbst zu denken, stellt man das Wohl anderer in den Vordergrund. Schopenhauer erklaerte das mit Mitleid: Wenn du siehst, wie jemand leidet, fuehlt sich das auch fuer dich schlecht an -- weil wir im Grunde alle miteinander verbunden sind. Dieses Mitleid ist fuer ihn die Basis von Moral.\n\nHeute gibt es die Bewegung des 'effektiven Altruismus', die vom Philosophen Peter Singer inspiriert wurde. Die Idee: Es reicht nicht, einfach nett zu sein. Wenn du wirklich helfen willst, solltest du herausfinden, wo dein Geld oder deine Zeit den groessten Unterschied macht. Zehn Euro an die richtige Organisation koennen mehr bewirken als hundert Euro an die falsche.\n\nDie grosse Frage bleibt: Gibt es echten Altruismus, oder steckt immer ein Stueck Eigennutz dahinter? Hilfst du anderen, weil es sich gut anfuehlt? Weil du gut dastehen willst? Manche Psychologen sagen: Jede Hilfe dient auch dem eigenen Wohlbefinden. Aber selbst wenn das stimmt -- ist das wirklich schlimm?",
+    "kernthesen": [
+      "Moralisches Handeln bedeutet, nicht nur an sich selbst zu denken, sondern auch an andere.",
+      "Mitleid und Empathie sind die natuerliche Grundlage fuer gutes Handeln.",
+      "Wir haben eine moralische Pflicht, das Leiden anderer zu verringern, wo wir koennen.",
+      "Unsere Verantwortung endet nicht bei Familie oder Nation -- sie gilt fuer alle Menschen.",
+      "Effektiver Altruismus fordert: Hilf so, dass es den groessten Unterschied macht."
+    ],
+    "entstehung": "Den Begriff praegte Auguste Comte in den 1850er Jahren. Schopenhauer legte die philosophische Grundlage mit seiner Theorie des Mitleids. Peter Singer machte ab den 1970er Jahren den effektiven Altruismus populaer -- die Idee, Helfen mit Kopf und Herz zu verbinden.",
+    "kritik": "Kritiker fragen: Ist echte Selbstlosigkeit ueberhaupt moeglich, oder steckt immer ein wenig Eigeninteresse dahinter? Ausserdem kann uebertriebener Altruismus zur Selbstaufopferung fuehren -- wer nur an andere denkt, vergisst sich selbst."
+  }
 }

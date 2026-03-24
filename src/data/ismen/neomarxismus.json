@@ -11,13 +11,43 @@
     "Entfremdung betrifft nicht nur die Arbeit, sondern durchdringt alle Lebensbereiche der modernen Gesellschaft.",
     "Kritische Theorie muss die bestehende Gesellschaft im Licht ihrer unrealisierten Möglichkeiten beurteilen."
   ],
-  "hauptvertreter": ["karl-marx"],
+  "hauptvertreter": [
+    "karl-marx"
+  ],
   "entstehung": "Der Neomarxismus entstand in den 1920er Jahren durch Lukács' Geschichte und Klassenbewusstsein und Gramscis Hegemonietheorie. Die Gründung des Instituts für Sozialforschung in Frankfurt 1923 markierte den institutionellen Beginn der Kritischen Theorie als wichtigster Strömung des Neomarxismus.",
   "kritik": "Kritiker werfen dem Neomarxismus vor, sich von der materiellen Basis der marxistischen Analyse zu entfernen und in kulturpessimistischen Elitismus zu verfallen. Zudem wird bemängelt, dass die Kritische Theorie keine konstruktiven Alternativen zur bestehenden Gesellschaft entwickelt und sich in akademischer Selbstreferenzialität erschöpft.",
-  "verwandteIsmen": ["marxismus", "kritische-theorie"],
+  "verwandteIsmen": [
+    "marxismus",
+    "kritische-theorie"
+  ],
   "schluesselwerke": [
-    {"titel": "Geschichte und Klassenbewusstsein", "autor": "Georg Lukács", "jahr": "1923"},
-    {"titel": "Dialektik der Aufklärung", "autor": "Max Horkheimer und Theodor W. Adorno", "jahr": "1947"},
-    {"titel": "Der eindimensionale Mensch", "autor": "Herbert Marcuse", "jahr": "1964"}
-  ]
+    {
+      "titel": "Geschichte und Klassenbewusstsein",
+      "autor": "Georg Lukács",
+      "jahr": "1923"
+    },
+    {
+      "titel": "Dialektik der Aufklärung",
+      "autor": "Max Horkheimer und Theodor W. Adorno",
+      "jahr": "1947"
+    },
+    {
+      "titel": "Der eindimensionale Mensch",
+      "autor": "Herbert Marcuse",
+      "jahr": "1964"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Neomarxismus erneuert die marxistische Theorie unter Einbeziehung von Psychoanalyse, Kulturkritik und kritischer Theorie.",
+    "ausfuehrlicheBeschreibung": "Der Neomarxismus entstand in den 1920er und 1930er Jahren als Versuch, die marxistische Theorie angesichts der Erfahrungen des 20. Jahrhunderts zu erneuern. Georg Lukács, Antonio Gramsci und die Denker der Frankfurter Schule erkannten, dass der orthodoxe Marxismus die Komplexitaet moderner Gesellschaften nicht mehr angemessen erfasste. Die Frage, warum die proletarische Revolution in den westlichen Industrielaendern ausblieb, fuehrte zu einer Vertiefung der Analyse von Ideologie, Kultur und Bewusstsein.\n\nDie Frankfurter Schule – insbesondere Max Horkheimer, Theodor W. Adorno und Herbert Marcuse – verband marxistische Gesellschaftskritik mit Freuds Psychoanalyse und Webers Rationalisierungstheorie. Ihre Kritische Theorie zeigte, wie die Kulturindustrie und der Konsumismus die Menschen in eine „eindimensionale“ Existenz einschliessen und revolutionaeres Bewusstsein verhindern. Karl Marx' Entfremdungsbegriff wurde auf neue Formen der kulturellen und psychischen Entfremdung ausgeweitet.\n\nIn den 1960er und 1970er Jahren wurde der Neomarxismus zur theoretischen Grundlage der Studentenbewegung und der Neuen Linken. Louis Althussers strukturalistischer Marxismus und Juergen Habermas' Theorie des kommunikativen Handelns stellen weitere bedeutende Entwicklungen dar. In der Gegenwart wirkt der Neomarxismus in der Globalisierungskritik, der Kulturwissenschaft und der politischen Oekonomie fort.",
+    "kernthesen": [
+      "Die marxistische Theorie muss um kulturelle, psychologische und ideologische Analysen erweitert werden.",
+      "Herrschaft in modernen Gesellschaften funktioniert nicht nur oekonomisch, sondern auch durch kulturelle Hegemonie.",
+      "Die Kulturindustrie erzeugt falsches Bewusstsein und verhindert emanzipatorische Veraenderung.",
+      "Entfremdung betrifft nicht nur die Arbeit, sondern durchdringt alle Lebensbereiche der modernen Gesellschaft.",
+      "Kritische Theorie muss die bestehende Gesellschaft im Licht ihrer unrealisierten Moeglichkeiten beurteilen."
+    ],
+    "entstehung": "Der Neomarxismus entstand in den 1920er Jahren durch Lukács' Geschichte und Klassenbewusstsein und Gramscis Hegemonietheorie. Die Gruendung des Instituts fuer Sozialforschung in Frankfurt 1923 markierte den institutionellen Beginn der Kritischen Theorie als wichtigster Stroemung des Neomarxismus.",
+    "kritik": "Kritiker werfen dem Neomarxismus vor, sich von der materiellen Basis der marxistischen Analyse zu entfernen und in kulturpessimistischen Elitismus zu verfallen. Zudem wird bemaengelt, dass die Kritische Theorie keine konstruktiven Alternativen zur bestehenden Gesellschaft entwickelt und sich in akademischer Selbstreferenzialitaet erschoepft."
+  }
 }

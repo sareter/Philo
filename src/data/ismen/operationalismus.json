@@ -19,5 +19,18 @@
     {"titel": "The Logic of Modern Physics", "autor": "Percy W. Bridgman", "jahr": "1927"},
     {"titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934"},
     {"titel": "The Nature of Physical Theory", "autor": "Percy W. Bridgman", "jahr": "1936"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Operationalismus sagt: Ein wissenschaftlicher Begriff hat nur dann eine Bedeutung, wenn man ihn messen oder testen kann. Was man nicht messen kann, ist wissenschaftlich gesehen sinnlos.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand benutzt ein kompliziertes Wort in der Wissenschaft, aber niemand kann erklaren, wie man das, was gemeint ist, eigentlich messen soll. Der Operationalismus sagt: Dann ist das Wort sinnlos. Ein Begriff wie 'Laenge' bedeutet nichts anderes als das, was passiert, wenn du ein Lineal anlegst oder einen Laser benutzt.\n\nDiese Idee kam in den 1920er Jahren auf, als Einstein mit seiner Relativitaetstheorie zeigte, dass selbst einfache Begriffe wie 'gleichzeitig' gar nicht so klar sind, wie man dachte. Der Physiker Bridgman sagte daraufhin: Wir muessen jeden wissenschaftlichen Begriff durch konkrete Messverfahren definieren. Das hatte grossen Einfluss, zum Beispiel auf die Psychologie, wo man anfing, nur noch beobachtbares Verhalten zu untersuchen statt ueber unsichtbare 'innere Zustaende' zu spekulieren.\n\nHeute gilt der strenge Operationalismus als zu eng gefasst. Nicht alles in der Wissenschaft laesst sich direkt messen, und trotzdem koennen theoretische Begriffe nuetzlich sein. Aber die Grundidee, dass Wissenschaft an konkreten Beobachtungen und Messungen verankert sein muss, ist bis heute wichtig.",
+    "kernthesen": [
+      "Ein wissenschaftlicher Begriff ist nur das, was man messen kann.",
+      "Wenn du etwas nicht messen oder testen kannst, ist es wissenschaftlich gesehen bedeutungslos.",
+      "Unterschiedliche Messverfahren koennen unterschiedliche Begriffe ergeben, auch wenn sie gleich heissen.",
+      "Rein philosophische Spekulationen ohne Bezug zur Messung gehoeren nicht in die Wissenschaft.",
+      "Wissenschaftliche Theorien muessen immer auf echten Beobachtungen und Messungen aufbauen."
+    ],
+    "entstehung": "Der Operationalismus entstand in den 1920er Jahren, als Einsteins Relativitaetstheorie zeigte, dass scheinbar klare Begriffe wie 'Gleichzeitigkeit' gar nicht so eindeutig sind. Der Physiker Bridgman forderte daraufhin, dass jeder wissenschaftliche Begriff durch ein konkretes Messverfahren definiert werden muss.",
+    "kritik": "Kritiker sagen, dass der Operationalismus zu streng ist. Wenn jedes Messverfahren einen eigenen Begriff definiert, zerfaellt die Wissenschaft in lauter Einzelteile. Ausserdem gibt es nuetzliche theoretische Ideen, die man nicht direkt messen kann, die aber trotzdem wissenschaftlich wertvoll sind."
+  }
 }

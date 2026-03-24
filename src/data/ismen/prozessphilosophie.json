@@ -14,10 +14,38 @@
   "hauptvertreter": [],
   "entstehung": "Die Prozessphilosophie entstand in den 1920er Jahren aus Whiteheads Reflexion über die Grundlagen der Naturwissenschaft und der Mathematik. Heraklits antike Lehre vom Fluss aller Dinge, Leibniz' Monadologie und Bergsons Philosophie der Dauer bilden wichtige Vorläufer.",
   "kritik": "Kritiker bemängeln, dass Whiteheads System extrem abstrakt und schwer verständlich ist und seine spekulative Kosmologie empirisch kaum überprüfbar bleibt. Zudem wird eingewandt, dass die Prozessphilosophie die Beständigkeit und Identität von Dingen nicht angemessen erklären kann.",
-  "verwandteIsmen": ["pragmatismus", "emergentismus"],
+  "verwandteIsmen": [
+    "pragmatismus",
+    "emergentismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Prozess und Realität", "autor": "Alfred North Whitehead", "jahr": "1929"},
-    {"titel": "Wissenschaft und moderne Welt", "autor": "Alfred North Whitehead", "jahr": "1925"},
-    {"titel": "Schöpferische Entwicklung", "autor": "Henri Bergson", "jahr": "1907"}
-  ]
+    {
+      "titel": "Prozess und Realität",
+      "autor": "Alfred North Whitehead",
+      "jahr": "1929"
+    },
+    {
+      "titel": "Wissenschaft und moderne Welt",
+      "autor": "Alfred North Whitehead",
+      "jahr": "1925"
+    },
+    {
+      "titel": "Schöpferische Entwicklung",
+      "autor": "Henri Bergson",
+      "jahr": "1907"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Prozessphilosophie betrachtet die Wirklichkeit als dynamischen Prozess des Werdens statt als Ansammlung statischer Substanzen.",
+    "ausfuehrlicheBeschreibung": "Die Prozessphilosophie wurde massgeblich von Alfred North Whitehead in seinem Hauptwerk „Prozess und Realitaet“ (1929) entwickelt. Whitehead kritisierte die gesamte westliche Metaphysik seit Aristoteles fuer ihre Fixierung auf Substanzen und statische Kategorien. Stattdessen schlug er vor, die Wirklichkeit als einen staendigen Prozess des Werdens zu verstehen, in dem „aktuale Ereignisse“ (actual occasions) die grundlegenden Bausteine der Realitaet bilden.\n\nFuer Whitehead ist jedes Ereignis ein Prozess der „Konkreszenz“ – ein Zusammenwachsen vielfaeltiger Einfluesse zu einer neuen Einheit der Erfahrung. Jedes Ereignis nimmt vergangene Ereignisse in sich auf (Prehension) und bringt etwas genuines Neues hervor. Diese Sicht der Wirklichkeit ueberwindet die cartesische Trennung von Geist und Materie: Erfahrung ist nicht auf menschliches Bewusstsein beschraenkt, sondern durchzieht die gesamte Natur in unterschiedlichen Graden.\n\nDie Prozessphilosophie hat weitreichende Auswirkungen auf Theologie, Naturphilosophie und Oekologie gehabt. Die Prozesstheologie Charles Hartshornes begreift Gott als mitfuehlenden Teilnehmer am kosmischen Prozess. In der Oekologie bietet die Prozessphilosophie eine Grundlage fuer ein relationales Naturverstaendnis, das die wechselseitige Abhaengigkeit aller Lebewesen betont. In der Physik finden prozessphilosophische Ideen Anklang in der Quantenmechanik und der Relativitaetstheorie.",
+    "kernthesen": [
+      "Wirklichkeit besteht aus Prozessen und Ereignissen, nicht aus statischen Substanzen.",
+      "Werden ist fundamentaler als Sein – alles Seiende ist im Fluss.",
+      "Jedes Ereignis ist ein kreativer Akt, der Neues in die Welt bringt.",
+      "Erfahrung durchzieht die gesamte Natur und ist nicht auf menschliches Bewusstsein beschraenkt.",
+      "Beziehungen und wechselseitige Abhaengigkeiten sind konstitutiv fuer alle Wirklichkeit."
+    ],
+    "entstehung": "Die Prozessphilosophie entstand in den 1920er Jahren aus Whiteheads Reflexion ueber die Grundlagen der Naturwissenschaft und der Mathematik. Heraklits antike Lehre vom Fluss aller Dinge, Leibniz' Monadologie und Bergsons Philosophie der Dauer bilden wichtige Vorlaeufer.",
+    "kritik": "Kritiker bemaengeln, dass Whiteheads System extrem abstrakt und schwer verstaendlich ist und seine spekulative Kosmologie empirisch kaum ueberpruefbar bleibt. Zudem wird eingewandt, dass die Prozessphilosophie die Bestaendigkeit und Identitaet von Dingen nicht angemessen erklaeren kann."
+  }
 }

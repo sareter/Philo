@@ -80,5 +80,50 @@
     }
   ],
   "verwandtePhilosophen": ["laozi", "siddhartha-gautama"],
-  "verwandteIsmen": ["konfuzianismus", "tugendethik"]
+  "verwandteIsmen": ["konfuzianismus", "tugendethik"],
+  "einfach": {
+    "kurzbeschreibung": "Konfuzius war ein chinesischer Weiser, dessen Lehren ueber Respekt, Menschlichkeit und richtiges Verhalten Ostasien ueber Jahrtausende gepraeget haben.",
+    "biografie": {
+      "fruehesLeben": "Konfuzius wurde 551 v. Chr. in Qufu in China geboren. Sein Vater starb frueh, und er wuchs in bescheidenen Verhaeltnissen auf. Schon als Kind interessierte er sich fuer Lernen und alte Traditionen.",
+      "schaffen": "Konfuzius arbeitete als Beamter und stieg zum Justizminister auf. Enttaeuscht von der Politik wanderte er jahrelang durch China und versuchte, Herrscher von seinen Idealen zu ueberzeugen. Er sammelte viele Schueler um sich und lehrte sie Menschlichkeit, Respekt und richtiges Verhalten.",
+      "spaetesLeben": "Nach Jahren des Wanderns kehrte Konfuzius in seine Heimat zurueck und widmete sich dem Unterrichten und der Bearbeitung alter Texte. Seine letzten Jahre waren von persoenlichen Verlusten gepraeget.",
+      "tod": "Konfuzius starb 479 v. Chr. in Qufu im Alter von 73 Jahren. Sein Grab wurde zur Pilgerstaette und gehoert heute zum UNESCO-Weltkulturerbe.",
+      "nachwirkung": "Die Lehren des Konfuzius wurden zur offiziellen Staatsphilosophie Chinas und praegten Bildung und Ethik in ganz Ostasien ueber Jahrhunderte. Sein Einfluss ist bis heute spuerbar."
+    },
+    "kernideen": [
+      {
+        "titel": "Ren (Menschlichkeit)",
+        "beschreibung": "Die wichtigste Tugend: Behandle andere mit Mitgefuehl und Respekt. Wer das schafft, wird zum edlen Menschen."
+      },
+      {
+        "titel": "Li (Rituelle Ordnung)",
+        "beschreibung": "Gute Umgangsformen und Rituale sind nicht blosse Formalitaet, sondern Ausdruck innerer Tugendhaftigkeit und halten die Gesellschaft zusammen."
+      },
+      {
+        "titel": "Junzi (Der Edle Mensch)",
+        "beschreibung": "Das Ideal des Konfuzianismus: ein Mensch, der sich durch Bildung und moralische Integritaet staendig verbessert und anderen ein Vorbild ist."
+      },
+      {
+        "titel": "Zhengming (Richtigstellung der Namen)",
+        "beschreibung": "Ordnung beginnt damit, dass jeder seine Rolle richtig versteht und ausfuellt -- wenn Begriffe durcheinander geraten, geraet auch die Gesellschaft durcheinander."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Lunyu (Gespraeche des Konfuzius)",
+        "jahr": "ca. 475 v. Chr.",
+        "beschreibung": "Die von Schuelern gesammelten Ausspruche und Dialoge des Konfuzius -- das wichtigste Buch seiner Lehre."
+      },
+      {
+        "titel": "Chunqiu (Fruehlings- und Herbstannalen)",
+        "jahr": "ca. 480 v. Chr.",
+        "beschreibung": "Eine Chronik, die historische Ereignisse moralisch bewertet und als Leitfaden fuer gerechtes Regieren diente."
+      },
+      {
+        "titel": "Yijing-Kommentare (Buch der Wandlungen)",
+        "jahr": "ca. 500 v. Chr.",
+        "beschreibung": "Philosophische Kommentare zum Buch der Wandlungen mit kosmologischen und ethischen Deutungen."
+      }
+    ]
+  }
 }

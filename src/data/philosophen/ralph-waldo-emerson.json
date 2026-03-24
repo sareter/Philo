@@ -109,5 +109,30 @@
     }
   ],
   "verwandtePhilosophen": ["henry-david-thoreau", "immanuel-kant", "platon", "friedrich-nietzsche", "william-james"],
-  "verwandteIsmen": ["transzendentalismus", "idealismus", "individualismus", "romantik", "pragmatismus"]
+  "verwandteIsmen": ["transzendentalismus", "idealismus", "individualismus", "romantik", "pragmatismus"],
+  "einfach": {
+    "kurzbeschreibung": "Ralph Waldo Emerson war ein amerikanischer Denker und Schriftsteller, der fand, dass man auf sich selbst vertrauen soll und dass die Natur der Schluessel zur Erkenntnis ist.",
+    "biografie": {
+      "fruehesLeben": "Emerson wurde 1803 in Boston geboren. Sein Vater starb frueh, und seine Tante wurde seine wichtigste geistige Bezugsperson. Er studierte in Harvard und wurde zunaechst Pfarrer, gab das Amt aber auf, weil er mit den Kirchenritualen nicht mehr einverstanden war.",
+      "schaffen": "Er reiste nach Europa und traf dort wichtige Denker. Nach seiner Rueckkehr liess er sich in Concord nieder und wurde Vortragsredner und Essayist. Sein Essay 'Nature' wurde zum Gruendungstext des Transzendentalismus – der Idee, dass es eine geistige Wirklichkeit jenseits unserer Sinne gibt. Sein beruehmtester Essay 'Self-Reliance' fordert: Vertraue dir selbst und sei kein Mitlaeufer.",
+      "spaetesLeben": "In den 1850ern setzte er sich gegen die Sklaverei ein. Im Alter litt er an Gedaechtnisverlust, blieb aber als 'Weiser von Concord' verehrt.",
+      "tod": "Emerson starb 1882 in Concord an einer Lungenentzuendung und wurde neben seinen Freunden Thoreau und Hawthorne begraben.",
+      "nachwirkung": "Er begruendete die erste eigene amerikanische Philosophie und inspirierte Generationen von Schriftstellern und Denkern. Sein Konzept des Selbstvertrauens praegt die amerikanische Kultur bis heute."
+    },
+    "kernideen": [
+      {"titel": "Selbstvertrauen (Self-Reliance)", "beschreibung": "Vertraue deinem eigenen Urteil und sei kein Mitlaeufer. Nur wer sich selbst treu bleibt, lebt wirklich authentisch."},
+      {"titel": "Die Überseele (Over-Soul)", "beschreibung": "Es gibt eine universelle Seele, die alles verbindet. Durch Nachdenken und Intuition kann jeder Mensch Zugang zu dieser hoeheren Wahrheit finden."},
+      {"titel": "Natur als Offenbarung des Geistes", "beschreibung": "Die Natur ist nicht nur Materie, sondern Ausdruck des Geistes. Wer die Natur bewusst erlebt, kommt dem Goettlichen naeher."},
+      {"titel": "Transzendentalismus", "beschreibung": "Es gibt eine geistige Wirklichkeit jenseits unserer Sinne, die man durch Intuition und innere Erfahrung erreichen kann."},
+      {"titel": "Kompensation und geistiges Wachstum", "beschreibung": "Das Leben gleicht sich aus: Verlust und Gewinn stehen in einem Gleichgewicht. Auch durch schwierige Erfahrungen waechst man."}
+    ],
+    "werke": [
+      {"titel": "Nature", "jahr": "1836", "beschreibung": "Der Gruendungstext des Transzendentalismus ueber die Natur als Spiegel des Geistes."},
+      {"titel": "The American Scholar", "jahr": "1837", "beschreibung": "Eine Rede, die als 'Amerikas intellektuelle Unabhaengigkeitserklaerung' bezeichnet wurde."},
+      {"titel": "Essays: First Series", "jahr": "1841", "beschreibung": "Seine erste Essaysammlung mit dem beruehmten 'Self-Reliance' ueber das Vertrauen in sich selbst."},
+      {"titel": "Essays: Second Series", "jahr": "1844", "beschreibung": "Die zweite Essaysammlung, in der er auch ueber den Verlust seines Sohnes nachdenkt."},
+      {"titel": "Representative Men", "jahr": "1850", "beschreibung": "Portraets grosser Persoenlichkeiten wie Platon, Shakespeare und Goethe."},
+      {"titel": "The Conduct of Life", "jahr": "1860", "beschreibung": "Spaete Essays ueber praktische Lebensfragen wie Schicksal, Macht und Kultur."}
+    ]
+  }
 }

@@ -11,14 +11,51 @@
     "Die Naturwissenschaft erklärt die Welt ohne Rückgriff auf übernatürliche Ursachen.",
     "Moral ist ohne Gott möglich und sogar notwendig autonom begründet (Euthyphron-Dilemma)."
   ],
-  "hauptvertreter": ["friedrich-nietzsche", "sokrates"],
+  "hauptvertreter": [
+    "friedrich-nietzsche",
+    "sokrates"
+  ],
   "entstehung": "Atheistische Positionen finden sich bereits in der antiken Philosophie. Der systematische philosophische Atheismus entstand in der Aufklärung des 18. Jahrhunderts, als die Fortschritte der Naturwissenschaft und die Religionskritik der Aufklärer den Gottesglauben erstmals breit in Frage stellten. Feuerbach, Marx und Nietzsche formulierten im 19. Jahrhundert die einflussreichsten philosophischen Religionskritiken. Im 20. und 21. Jahrhundert wurde der Atheismus durch analytische Philosophie und Naturwissenschaft weiter gestärkt.",
   "kritik": "Theisten argumentieren, dass der Atheismus die Existenz des Universums, die Feinabstimmung der Naturkonstanten und das Vorhandensein von Bewusstsein und Moral nicht befriedigend erklären kann. Der kosmologische Gottesbeweis fragt, warum es überhaupt etwas gibt und nicht nichts. Existenzialisten wie Kierkegaard wenden ein, dass der Gottesglaube eine existenzielle Entscheidung ist, die sich nicht auf rationale Argumente reduzieren lässt. Alvin Plantinga argumentiert, dass der Gottesglaube eine properly basic belief sein kann, die keiner weiteren Begründung bedarf. Dostojewskis Einwand – Wenn es keinen Gott gibt, ist alles erlaubt – wird als Argument dafür angeführt, dass der Atheismus keine objektive Moral begründen kann. Pragmatisten fragen, ob der Atheismus dem menschlichen Bedürfnis nach Sinn und Hoffnung gerecht wird.",
-  "verwandteIsmen": ["materialismus", "naturalismus", "agnostizismus", "nihilismus"],
+  "verwandteIsmen": [
+    "materialismus",
+    "naturalismus",
+    "agnostizismus",
+    "nihilismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Das Wesen des Christentums", "autor": "Ludwig Feuerbach", "jahr": "1841" },
-    { "titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882" },
-    { "titel": "System der Natur", "autor": "Paul-Henri Thiry d'Holbach", "jahr": "1770" },
-    { "titel": "The God Delusion", "autor": "Richard Dawkins", "jahr": "2006" }
-  ]
+    {
+      "titel": "Das Wesen des Christentums",
+      "autor": "Ludwig Feuerbach",
+      "jahr": "1841"
+    },
+    {
+      "titel": "Die fröhliche Wissenschaft",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1882"
+    },
+    {
+      "titel": "System der Natur",
+      "autor": "Paul-Henri Thiry d'Holbach",
+      "jahr": "1770"
+    },
+    {
+      "titel": "The God Delusion",
+      "autor": "Richard Dawkins",
+      "jahr": "2006"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der philosophische Atheismus ist die Position, dass es keinen Gott oder keine Goetter gibt, oder dass der Gottesglaube rational unbegruendet ist.",
+    "ausfuehrlicheBeschreibung": "Der philosophische Atheismus ist die begruendete Ablehnung des Glaubens an die Existenz Gottes oder von Goettern. Im Unterschied zum blossen Nicht-Glauben stuetzt sich der philosophische Atheismus auf Argumente und Ueberlegungen, die die Nichtexistenz Gottes wahrscheinlich oder sicher machen sollen.\n\nBereits in der Antike gab es atheistische Positionen. Diagoras von Melos wurde im 5. Jahrhundert v. Chr. als Atheist beruechtigt. Die Atomisten Demokrit und Epikur erklaerten die Welt rein materialistisch, ohne auf goettliche Intervention zurueckzugreifen. Epikur argumentierte, die Goetter existierten zwar, kuemmerten sich aber nicht um die Menschen – eine Position, die dem Atheismus nahekommt.\n\nIn der Neuzeit gewann der Atheismus durch die Aufklaerung an Bedeutung. Baron d'Holbach vertrat in seinem System der Natur (1770) einen expliziten materialistischen Atheismus und erklaerte Religion als Produkt von Unwissenheit, Furcht und priesterlichem Betrug. Denis Diderot entwickelte in seinen Schriften atheistische und materialistische Positionen.",
+    "kernthesen": [
+      "Es gibt keinen Gott oder keine Goetter; der Gottesglaube ist rational unbegruendet.",
+      "Die Existenz von Leid und Uebel in der Welt ist unvereinbar mit einem allmaechtigen und allguetigen Gott (Theodizee-Problem).",
+      "Religion ist ein menschliches Kulturprodukt, das durch psychologische, soziale und historische Faktoren erklaert werden kann.",
+      "Die Naturwissenschaft erklaert die Welt ohne Rueckgriff auf uebernatuerliche Ursachen.",
+      "Moral ist ohne Gott moeglich und sogar notwendig autonom begruendet (Euthyphron-Dilemma)."
+    ],
+    "entstehung": "Atheistische Positionen finden sich bereits in der antiken Philosophie. Der systematische philosophische Atheismus entstand in der Aufklaerung des 18. Jahrhunderts, als die Fortschritte der Naturwissenschaft und die Religionskritik der Aufklaerer den Gottesglauben erstmals breit in Frage stellten. Feuerbach, Marx und Nietzsche formulierten im 19. Jahrhundert die einflussreichsten philosophischen Religionskritiken. Im 20. und 21. Jahrhundert wurde der Atheismus durch analytische Philosophie und Naturwissenschaft weiter gestaerkt.",
+    "kritik": "Theisten argumentieren, dass der Atheismus die Existenz des Universums, die Feinabstimmung der Naturkonstanten und das Vorhandensein von Bewusstsein und Moral nicht befriedigend erklaeren kann. Der kosmologische Gottesbeweis fragt, warum es ueberhaupt etwas gibt und nicht nichts. Existenzialisten wie Kierkegaard wenden ein, dass der Gottesglaube eine existenzielle Entscheidung ist, die sich nicht auf rationale Argumente reduzieren laesst."
+  }
 }

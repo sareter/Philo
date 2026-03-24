@@ -20,5 +20,18 @@
     { "titel": "Wissenschaftliche Weltauffassung – Der Wiener Kreis", "autor": "Wiener Kreis", "jahr": "1929" },
     { "titel": "Language, Truth and Logic", "autor": "Alfred Jules Ayer", "jahr": "1936" },
     { "titel": "Two Dogmas of Empiricism", "autor": "Willard Van Orman Quine", "jahr": "1951" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der logische Positivismus sagt: Nur was man ueberpruefen oder logisch beweisen kann, ist ueberhaupt eine sinnvolle Aussage. Alles andere -- wie Metaphysik oder Religionsphilosophie -- ist leeres Gerede.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand sagt: 'Das Nichts nichtet.' Klingt irgendwie tief, oder? Die logischen Positivisten wuerden sagen: Das ist genauso sinnvoll wie eine zufaellige Buchstabenfolge. Denn man kann diesen Satz weder mit Logik beweisen noch durch Beobachtung ueberpruefen. Und wenn man das nicht kann, dann ist der Satz schlicht sinnlos -- nicht falsch, sondern sinnlos.\n\nDiese Philosophen trafen sich in den 1920er Jahren in Wien und nannten sich den Wiener Kreis. Sie waren ueberzeugt: Echtes Wissen kommt nur aus zwei Quellen -- Logik und Erfahrung. Mathematik und Logik sind wahr, weil sie in sich stimmig sind. Alles andere muss man durch Beobachtung und Experimente ueberpruefen koennen. Was sich weder logisch beweisen noch empirisch testen laesst, gehoert nicht in die Philosophie.\n\nDas Ironische: Ihr eigenes Hauptprinzip -- dass nur ueberpruefbare Aussagen sinnvoll sind -- laesst sich selbst nicht ueberpruefen. Trotzdem haben sie die Philosophie veraendert: Die Forderung nach Klarheit, logischer Strenge und wissenschaftlicher Pruefbarkeit ist geblieben und praegt die analytische Philosophie bis heute.",
+    "kernthesen": [
+      "Nur Aussagen, die man ueberpruefen oder logisch beweisen kann, sind ueberhaupt sinnvoll.",
+      "Aussagen ueber Gott, das Sein oder den Sinn des Lebens sind weder wahr noch falsch -- sie sind einfach sinnlos.",
+      "Logik ist das wichtigste Werkzeug der Philosophie.",
+      "Es gibt eine einheitliche Wissenschaft, die alles Wissen auf Beobachtung und Logik aufbaut.",
+      "Philosophie ist keine eigene Wissenschaft mit eigenem Thema, sondern sie hilft den anderen Wissenschaften, klar zu denken."
+    ],
+    "entstehung": "In den 1920er Jahren trafen sich Philosophen, Mathematiker und Wissenschaftler in Wien regelmaessig zum Diskutieren -- der sogenannte Wiener Kreis. Sie wollten die Philosophie so streng und klar machen wie die Naturwissenschaften. Als die Nazis an die Macht kamen, flohen die meisten in die USA und nach England.",
+    "kritik": "Das groesste Problem: Die Grundregel 'Nur ueberpruefbare Aussagen sind sinnvoll' ist selbst nicht ueberpruefbar -- sie widerspricht sich also selbst. Ausserdem ist es fragwuerdig, moralische Aussagen wie 'Folter ist falsch' als sinnlos abzutun. Und auch Wissenschaftler machen staendig Annahmen, die man nicht direkt ueberpruefen kann."
+  }
 }

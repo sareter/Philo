@@ -7,7 +7,7 @@
     "ort": "Soloi",
     "land": "Kilikien (heutige Türkei)",
     "lat": 36.74,
-    "lng": 34.80
+    "lng": 34.8
   },
   "gestorben": {
     "jahr": -206,
@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Kilikien / Griechenland",
-  "hauptstroemungen": ["Stoizismus", "Logik", "Determinismus"],
+  "hauptstroemungen": [
+    "Stoizismus",
+    "Logik",
+    "Determinismus"
+  ],
   "kurzbeschreibung": "Chrysipp von Soloi war der dritte Schulhaupt der Stoa und ihr systematischster Denker. Er formte die stoische Philosophie zu einem geschlossenen System und wurde der bedeutendste Logiker der Antike nach Aristoteles.",
   "biografie": {
     "fruehesLeben": "Chrysipp wurde 279 v. Chr. in Soloi in Kilikien (Kleinasien) geboren. Er kam als junger Mann nach Athen und wurde Schüler des Kleanthes, des zweiten Schulhauptes der Stoa. Einige Quellen berichten, er habe zuvor auch die Vorlesungen der Akademiker Arkesilaos und Lakydes besucht, deren skeptische Argumente er später energisch bekämpfte. Er soll als Langstreckenläufer begonnen haben, bevor er sich der Philosophie zuwandte.",
@@ -84,6 +88,67 @@
       "kontext": "Eines der berühmten stoischen Paradoxien, die Chrysipp systematisch verteidigte."
     }
   ],
-  "verwandtePhilosophen": ["zenon-von-kition", "seneca", "epiktet", "marcus-aurelius", "heraklit"],
-  "verwandteIsmen": ["stoizismus", "determinismus", "kompatibilismus", "rationalismus"]
+  "verwandtePhilosophen": [
+    "zenon-von-kition",
+    "seneca",
+    "epiktet",
+    "marcus-aurelius",
+    "heraklit"
+  ],
+  "verwandteIsmen": [
+    "stoizismus",
+    "determinismus",
+    "kompatibilismus",
+    "rationalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Chrysipp von Soloi war der dritte Schulhaupt der Stoa und ihr systematischster Denker. Er formte die stoische Philosophie zu einem geschlossenen System und wurde der bedeutendste Logiker der Antike nach Aristoteles.",
+    "biografie": {
+      "fruehesLeben": "Chrysipp wurde 279 v. Chr. in Soloi in Kilikien (Kleinasien) geboren. Er kam als junger Mann nach Athen und wurde Schueler des Kleanthes, des zweiten Schulhauptes der Stoa. Einige Quellen berichten, er habe zuvor auch die Vorlesungen der Akademiker Arkesilaos und Lakydes besucht, deren skeptische Argumente er spaeter energisch bekaempfte. Er soll als Langstreckenlaeufer begonnen haben, bevor er sich der Philosophie zuwandte.",
+      "schaffen": "Chrysipp war ein unglaublich produktiver Autor: Ihm werden ueber 705 Schriften zugeschrieben, von denen jedoch keine einzige vollstaendig erhalten ist. Es hiess: 'Wenn es Chrysipp nicht gaebe, gaebe es die Stoa nicht.' Er systematisierte die stoische Lehre in allen drei Bereichen – Logik, Physik und Ethik – und verteidigte sie gegen die Angriffe der skeptischen Akademie. In der Logik entwickelte er die Aussagenlogik (im Gegensatz zu Aristoteles' Begriffslogik) mit fuenf unbeweisbaren Grundschluessen. Er analysierte Konditionale ('wenn... dann'), Disjunktionen ('entweder... oder') und andere logische Verknuepfungen mit einer Praezision, die erst in der modernen Logik wieder erreicht wurde. Er untersuchte auch logische Paradoxien wie den 'Luegner' ('Dieser Satz ist falsch').",
+      "spaetesLeben": "Nach dem Tod des Kleanthes um 230 v. Chr. uebernahm Chrysipp die Leitung der stoischen Schule und fuehrte sie ueber drei Jahrzehnte mit grosser Energie. Er war bekannt fuer seine polemische Schaerfe und seine unermuedliche Schaffenskraft – angeblich schrieb er 500 Zeilen pro Tag.",
+      "tod": "Chrysipp starb 206 v. Chr. in Athen. Ueber seinen Tod gibt es zwei Versionen: Nach einer starb er an einem Lachanfall, nachdem er gesehen hatte, wie ein Esel seine Feigen frass, und scherzte, man solle dem Esel noch reinen Wein dazu geben. Nach der anderen Version starb er an uebermaessigem Weingenuss. Er wurde etwa 73 Jahre alt.",
+      "nachwirkung": "Chrysipp gilt als der eigentliche Architekt des stoischen Systems. Seine Logik war ein Meilenstein der Geistesgeschichte und wurde erst durch Frege und Russell im 19./20. Jahrhundert in ihrer Bedeutung voll gewuerdigt. Die stoische Aussagenlogik ist der direkteste antike Vorlaeufer der modernen mathematischen Logik. Sein Kompatibilismus – der Versuch, Determinismus und freien Willen zu vereinen – ist bis heute ein zentrales Thema der Philosophie."
+    },
+    "kernideen": [
+      {
+        "titel": "Stoische Aussagenlogik",
+        "beschreibung": "Chrysipp entwickelte eine vollstaendige Aussagenlogik mit fuenf unbeweisbaren Grundschluessen. Er analysierte Konditionale, Disjunktionen und Konjunktionen und legte damit den Grundstein fuer die moderne formale Logik."
+      },
+      {
+        "titel": "Kompatibilismus (Schicksal und freier Wille)",
+        "beschreibung": "Alles geschieht nach dem Schicksal (heimarmene), aber der Mensch hat dennoch einen freien Willen. Aeussere Ursachen loesen Handlungen aus, aber die innere Zustimmung (synkatathesis) der Seele ist unser eigener Beitrag."
+      },
+      {
+        "titel": "Theorie der Leidenschaften",
+        "beschreibung": "Leidenschaften sind Fehlurteile der Vernunft – falsche Meinungen darueber, was gut oder schlecht ist. Es gibt vier Grundleidenschaften: Begierde, Furcht, Lust und Schmerz. Sie koennen durch vernuenftige Einsicht ueberwunden werden."
+      },
+      {
+        "titel": "Kosmischer Determinismus",
+        "beschreibung": "Das Universum ist vollstaendig durch die kausale Verkettung von Ursachen bestimmt. Der goettliche Logos (identisch mit dem Schicksal) durchdringt alles und lenkt den Kosmos mit Notwendigkeit."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Logische Untersuchungen",
+        "jahr": "ca. 240 v. Chr.",
+        "beschreibung": "Umfangreiche logische Schriften, die die stoische Aussagenlogik begruendeten. Enthielten die fuenf unbeweisbaren Grundschluesse und die Analyse logischer Paradoxien. Nur Fragmente erhalten."
+      },
+      {
+        "titel": "Ueber das Schicksal (Peri Heimarmenes)",
+        "jahr": "ca. 240 v. Chr.",
+        "beschreibung": "Darstellung und Verteidigung des stoischen Determinismus. Chrysipps Versuch, Schicksal und freien Willen zu vereinen."
+      },
+      {
+        "titel": "Ueber die Leidenschaften",
+        "jahr": "ca. 235 v. Chr.",
+        "beschreibung": "Systematische Analyse der Leidenschaften als Fehlurteile und Anleitung zur Apatheia. In vier Buechern, von denen Galen umfangreiche Zusammenfassungen ueberliefert."
+      },
+      {
+        "titel": "Ueber die Natur (Peri Physeos)",
+        "jahr": "ca. 245 v. Chr.",
+        "beschreibung": "Physikalisches Hauptwerk ueber die stoische Kosmologie, den goettlichen Logos und die Struktur des Universums."
+      }
+    ]
+  }
 }

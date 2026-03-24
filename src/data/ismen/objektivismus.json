@@ -11,14 +11,49 @@
     "Individuelle Rechte sind unveräußerlich und der Laissez-faire-Kapitalismus ist das einzige moralisch gerechtfertigte Gesellschaftssystem",
     "Es gibt objektive Standards für Wahrheit, Moral und Ästhetik"
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Ayn Rands Objektivismus entwickelte sich seit den 1940er Jahren, zunächst in ihren Romanen 'The Fountainhead' (1943) und 'Atlas Shrugged' (1957), die ihre philosophischen Ideen in narrativer Form darstellten. In den 1960er Jahren systematisierte Rand ihre Philosophie in essayistischer Form, insbesondere in 'The Virtue of Selfishness' (1964) und 'Capitalism: The Unknown Ideal' (1966). Leonard Peikoff, Rands designierter intellektueller Erbe, veröffentlichte 1991 'Objectivism: The Philosophy of Ayn Rand' als systematische Darstellung. Die breitere philosophische Tradition des Objektivismus reicht jedoch weiter zurück und umfasst verschiedene Formen des Realismus und Rationalismus seit der Antike.",
   "kritik": "Rands Objektivismus wird in der akademischen Philosophie weitgehend als unsystematisch und argumentativ unzureichend kritisiert. Der rationale Egoismus wird als ethisch problematisch angesehen, da er Solidarität und Fürsorge für andere als moralische Schwächen disqualifiziert. Die strikte Ablehnung jeder Form von Altruismus widerspricht sowohl der moralischen Intuition als auch den Erkenntnissen der Evolutionsbiologie über kooperatives Verhalten. Die politische Forderung nach unreguliertem Kapitalismus ignoriert Marktversagen, Externalitäten und die historischen Erfahrungen mit unregulierten Märkten. Erkenntnistheoretisch wird kritisiert, dass Rand die Probleme der Wahrnehmungstheorie und Begriffsbildung stark vereinfacht. Robert Nozick, obwohl selbst libertär, kritisierte die logischen Lücken in Rands Argumentation.",
-  "verwandteIsmen": ["libertarismus", "anti-realismus", "subjektivismus"],
+  "verwandteIsmen": [
+    "libertarismus",
+    "anti-realismus",
+    "subjektivismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Atlas Shrugged", "autor": "Ayn Rand", "jahr": "1957" },
-    { "titel": "The Virtue of Selfishness", "autor": "Ayn Rand", "jahr": "1964" },
-    { "titel": "Introduction to Objectivist Epistemology", "autor": "Ayn Rand", "jahr": "1979" },
-    { "titel": "Objectivism: The Philosophy of Ayn Rand", "autor": "Leonard Peikoff", "jahr": "1991" }
-  ]
+    {
+      "titel": "Atlas Shrugged",
+      "autor": "Ayn Rand",
+      "jahr": "1957"
+    },
+    {
+      "titel": "The Virtue of Selfishness",
+      "autor": "Ayn Rand",
+      "jahr": "1964"
+    },
+    {
+      "titel": "Introduction to Objectivist Epistemology",
+      "autor": "Ayn Rand",
+      "jahr": "1979"
+    },
+    {
+      "titel": "Objectivism: The Philosophy of Ayn Rand",
+      "autor": "Leonard Peikoff",
+      "jahr": "1991"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Objektivismus ist eine philosophische Position, die die Existenz einer objektiven, bewusstseinsunabhaengigen Realitaet behauptet und rationale Erkenntnis dieser Realitaet fuer moeglich haelt.",
+    "ausfuehrlicheBeschreibung": "Der Objektivismus bezeichnet in der Philosophie allgemein die Auffassung, dass es objektive, vom erkennenden Subjekt unabhaengige Wahrheiten, Werte oder Tatsachen gibt. In seiner systematischsten und bekanntesten Auspraegung wurde er von der russisch-amerikanischen Philosophin und Romanautorin Ayn Rand (1905-1982) als umfassendes philosophisches System entwickelt.\n\nRands Objektivismus umfasst fuenf Hauptbereiche: Metaphysik, Epistemologie, Ethik, Politik und Aesthetik. In der Metaphysik vertritt Rand einen strikten Realismus: Die Realitaet existiert unabhaengig vom Bewusstsein, und das Bewusstsein hat die Aufgabe, die Realitaet zu erfassen, nicht sie zu erschaffen. Das Axiom 'Existenz existiert' bildet den Ausgangspunkt ihres Systems. Die Identitaet der Dinge ('A ist A') ist ein fundamentales metaphysisches Prinzip.\n\nIn der Epistemologie vertritt Rand einen rationalen Empirismus. Die Sinneswahrnehmung liefert den Ausgangspunkt aller Erkenntnis und ist als solche unfehlbar – Irrtuemer entstehen erst auf der Ebene begrifflicher Interpretation. Die Vernunft ist das einzige Mittel zur Erkenntnis und der einzige Leitfaden zum Handeln. Rand entwickelte eine eigenstaendige Begriffstheorie, die Begriffe als mentale Integrationen von Wahrnehmungsdaten versteht.",
+    "kernthesen": [
+      "Die Realitaet existiert objektiv und unabhaengig vom Bewusstsein",
+      "Die Vernunft ist das einzige zuverlaessige Mittel zur Erkenntnis der Wirklichkeit",
+      "Rationales Eigeninteresse ist die Grundlage einer objektiven Ethik",
+      "Individuelle Rechte sind unveraeusserlich und der Laissez-faire-Kapitalismus ist das einzige moralisch gerechtfertigte Gesellschaftssystem",
+      "Es gibt objektive Standards fuer Wahrheit, Moral und Aesthetik"
+    ],
+    "entstehung": "Ayn Rands Objektivismus entwickelte sich seit den 1940er Jahren, zunaechst in ihren Romanen 'The Fountainhead' (1943) und 'Atlas Shrugged' (1957), die ihre philosophischen Ideen in narrativer Form darstellten. In den 1960er Jahren systematisierte Rand ihre Philosophie in essayistischer Form, insbesondere in 'The Virtue of Selfishness' (1964) und 'Capitalism: The Unknown Ideal' (1966). Leonard Peikoff, Rands designierter intellektueller Erbe, veroeffentlichte 1991 'Objectivism: The Philosophy of Ayn Rand' als systematische Darstellung.",
+    "kritik": "Rands Objektivismus wird in der akademischen Philosophie weitgehend als unsystematisch und argumentativ unzureichend kritisiert. Der rationale Egoismus wird als ethisch problematisch angesehen, da er Solidaritaet und Fuersorge fuer andere als moralische Schwaechen disqualifiziert. Die strikte Ablehnung jeder Form von Altruismus widerspricht sowohl der moralischen Intuition als auch den Erkenntnissen der Evolutionsbiologie ueber kooperatives Verhalten."
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
     {"titel": "Gegenseitige Hilfe in der Tier- und Menschenwelt", "autor": "Pjotr Kropotkin", "jahr": "1902"},
     {"titel": "Die Eroberung des Brotes", "autor": "Pjotr Kropotkin", "jahr": "1892"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Anarcho-Kommunismus will gleichzeitig den Staat und das Privateigentum abschaffen. Alles gehoert allen, und die Menschen organisieren sich freiwillig und von unten.",
+    "ausfuehrlicheBeschreibung": "Anarcho-Kommunismus nimmt zwei radikale Ideen und packt sie zusammen. Vom Anarchismus kommt: Kein Staat, keine Regierung, keine Hierarchie. Vom Kommunismus kommt: Kein Privateigentum an Fabriken, Land oder Maschinen -- alles gehoert der Gemeinschaft. Das Ergebnis: Eine Gesellschaft ohne Chefs und ohne Superreiche.\n\nDer wichtigste Denker war Pjotr Kropotkin. Er sagte: Die Natur zeigt uns, dass Zusammenarbeit genauso wichtig ist wie Konkurrenz. Tiere helfen sich gegenseitig, und Menschen koennen das auch -- ohne dass ein Staat sie dazu zwingt. Die Verteilung soll nach dem Prinzip funktionieren: Jeder traegt bei, was er kann, und bekommt, was er braucht.\n\nDas klingt utopisch, und es gab auch echte Versuche. Im Spanischen Buergerkrieg (1936-39) haben Anarchisten in Teilen Spaniens solche Gesellschaften aufgebaut. Kritiker sagen aber: Solche Systeme funktionieren hoechstens in kleinen Gruppen. Eine ganze Gesellschaft ohne zentrale Organisation und ohne Eigentumsrechte -- das wird schnell chaotisch.",
+    "kernthesen": [
+      "Staat und Privateigentum muessen gleichzeitig abgeschafft werden.",
+      "Auch ein 'Arbeiterstaat' fuehrt am Ende zu Unterdrueckung -- jede Regierung wird korrupt.",
+      "Menschen koennen freiwillig zusammenarbeiten, ohne dass jemand sie zwingt.",
+      "Die Gesellschaft organisiert sich von unten, durch direkte Demokratie in kleinen Gruppen.",
+      "Jeder traegt bei, was er kann, und bekommt, was er braucht."
+    ],
+    "entstehung": "Der Anarcho-Kommunismus entstand im 19. Jahrhundert aus dem Streit zwischen Marxisten und Anarchisten. Kropotkin formulierte die wichtigste Version: Er uebernahm Marx' Kritik am Kapitalismus, lehnte aber dessen Idee eines Uebergangsstaats ab.",
+    "kritik": "Kritiker sagen: Eine moderne Gesellschaft mit Millionen von Menschen kann nicht ohne zentrale Koordination funktionieren. Wer baut die Strassen, wer organisiert die Krankenhaeuser? Historische Versuche sind gescheitert oder wurden von aussen zerstoert."
+  }
 }

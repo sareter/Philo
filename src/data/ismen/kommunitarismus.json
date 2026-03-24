@@ -11,14 +11,50 @@
     "Gemeinschaftliche Werte und Tugenden haben Vorrang vor abstrakten individuellen Rechten",
     "Das gute Leben lässt sich nur innerhalb geteilter Praktiken und Traditionen verwirklichen"
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Der Kommunitarismus entstand in den frühen 1980er Jahren als philosophische Bewegung, die sich kritisch mit dem liberalen Individualismus auseinandersetzte. Die wichtigsten Gründungstexte erschienen in rascher Folge: Alasdair MacIntyres 'After Virtue' (1981), Michael Sandels 'Liberalism and the Limits of Justice' (1982), Michael Walzers 'Spheres of Justice' (1983) und Charles Taylors verschiedene Aufsätze der 1980er Jahre. Die Wurzeln des kommunitaristischen Denkens reichen jedoch weiter zurück – zu Aristoteles' Konzeption des Menschen als politisches Wesen, zu Hegels Kritik an Kants abstraktem Moralismus und zu Tocquevilles Analyse der amerikanischen Demokratie.",
   "kritik": "Liberale Kritiker werfen dem Kommunitarismus vor, individuelle Freiheitsrechte zugunsten kollektiver Werte zu opfern. Die Betonung von Gemeinschaft und Tradition könne zur Unterdrückung von Minderheiten und Nonkonformisten führen. Will Kymlicka argumentierte, dass der Kommunitarismus keine befriedigende Antwort auf die Frage gibt, was geschehen soll, wenn Gemeinschaftswerte mit individuellen Rechten kollidieren. Feministische Kritikerinnen wie Susan Moller Okin wiesen darauf hin, dass viele traditionelle Gemeinschaften patriarchale Strukturen aufweisen. Der Vorwurf des kulturellen Relativismus besagt, dass der Kommunitarismus keine universalen Maßstäbe zur Kritik ungerechter Gemeinschaften bietet.",
-  "verwandteIsmen": ["republikanismus", "tugendethik", "kontraktualismus", "egalitarismus"],
+  "verwandteIsmen": [
+    "republikanismus",
+    "tugendethik",
+    "kontraktualismus",
+    "egalitarismus"
+  ],
   "schluesselwerke": [
-    { "titel": "After Virtue", "autor": "Alasdair MacIntyre", "jahr": "1981" },
-    { "titel": "Liberalism and the Limits of Justice", "autor": "Michael Sandel", "jahr": "1982" },
-    { "titel": "Spheres of Justice", "autor": "Michael Walzer", "jahr": "1983" },
-    { "titel": "Sources of the Self", "autor": "Charles Taylor", "jahr": "1989" }
-  ]
+    {
+      "titel": "After Virtue",
+      "autor": "Alasdair MacIntyre",
+      "jahr": "1981"
+    },
+    {
+      "titel": "Liberalism and the Limits of Justice",
+      "autor": "Michael Sandel",
+      "jahr": "1982"
+    },
+    {
+      "titel": "Spheres of Justice",
+      "autor": "Michael Walzer",
+      "jahr": "1983"
+    },
+    {
+      "titel": "Sources of the Self",
+      "autor": "Charles Taylor",
+      "jahr": "1989"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kommunitarismus ist eine politisch-philosophische Stroemung, die die Bedeutung von Gemeinschaft, Tradition und geteilten Werten fuer die Identitaet des Einzelnen und das gute Zusammenleben betont.",
+    "ausfuehrlicheBeschreibung": "Der Kommunitarismus entstand in den 1980er Jahren als kritische Reaktion auf den liberalen Individualismus, insbesondere auf John Rawls' Gerechtigkeitstheorie. Die kommunitaristische Kritik richtet sich gegen die liberale Vorstellung eines abstrakten, von sozialen Bindungen und kulturellen Kontexten losgeloesten Individuums und betont stattdessen die konstitutive Bedeutung von Gemeinschaften fuer die Identitaet und das Wohl des Einzelnen.\n\nMichael Sandel formulierte in 'Liberalism and the Limits of Justice' (1982) eine der einflussreichsten kommunitaristischen Kritiken an Rawls. Sandel argumentierte, dass Rawls' Konzeption der Person als 'ungebundenes Selbst' (unencumbered self) unhaltbar ist. Menschen sind immer schon in bestimmte Gemeinschaften, Traditionen und Wertvorstellungen eingebettet, die ihre Identitaet konstitutiv praegen. Die Vorstellung, man koenne hinter einem 'Schleier des Nichtwissens' von allen partikularen Bindungen abstrahieren, verkennt die grundlegende Situiertheit menschlicher Existenz.\n\nAlasdair MacIntyre entwickelte in 'After Virtue' (1981) eine philosophiegeschichtlich fundierte Kritik an der modernen Moralphilosophie. Die gegenwaertige moralische Uneinigkeit sei das Ergebnis des Scheiterns des aufklaererischen Projekts einer rationalen Moralbegruendung. MacIntyre plaedierte fuer eine Rueckkehr zur aristotelischen Tugendethik, die in konkreten Praxisgemeinschaften verankert ist und das gute Leben im Rahmen einer narrativen Einheit des Lebens definiert.",
+    "kernthesen": [
+      "Die Identitaet des Einzelnen wird konstitutiv durch seine Zugehoerigkeit zu Gemeinschaften gepraegt",
+      "Das liberale Konzept eines abstrakten, ungebundenen Selbst ist philosophisch unhaltbar",
+      "Gerechtigkeit und Moral koennen nur im Rahmen konkreter kultureller Traditionen und Praktiken verstanden werden",
+      "Gemeinschaftliche Werte und Tugenden haben Vorrang vor abstrakten individuellen Rechten",
+      "Das gute Leben laesst sich nur innerhalb geteilter Praktiken und Traditionen verwirklichen"
+    ],
+    "entstehung": "Der Kommunitarismus entstand in den fruehen 1980er Jahren als philosophische Bewegung, die sich kritisch mit dem liberalen Individualismus auseinandersetzte. Die wichtigsten Gruendungstexte erschienen in rascher Folge: Alasdair MacIntyres 'After Virtue' (1981), Michael Sandels 'Liberalism and the Limits of Justice' (1982), Michael Walzers 'Spheres of Justice' (1983) und Charles Taylors verschiedene Aufsaetze der 1980er Jahre.",
+    "kritik": "Liberale Kritiker werfen dem Kommunitarismus vor, individuelle Freiheitsrechte zugunsten kollektiver Werte zu opfern. Die Betonung von Gemeinschaft und Tradition koenne zur Unterdrueckung von Minderheiten und Nonkonformisten fuehren. Will Kymlicka argumentierte, dass der Kommunitarismus keine befriedigende Antwort auf die Frage gibt, was geschehen soll, wenn Gemeinschaftswerte mit individuellen Rechten kollidieren."
+  }
 }

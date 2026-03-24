@@ -19,5 +19,18 @@
     {"titel": "Meditationen über die Erste Philosophie", "autor": "René Descartes", "jahr": "1641"},
     {"titel": "Die Leidenschaften der Seele", "autor": "René Descartes", "jahr": "1649"},
     {"titel": "Das Ich und sein Gehirn", "autor": "Karl Popper und John Eccles", "jahr": "1977"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Interaktionismus sagt: Geist und Koerper sind zwei verschiedene Dinge, aber sie wirken aufeinander ein. Deine Gedanken koennen deinen Koerper bewegen, und koerperliche Reize beeinflussen dein Bewusstsein.",
+    "ausfuehrlicheBeschreibung": "Du denkst dir: Ich hebe jetzt meine Hand. Und dann hebt sich deine Hand. Dein Gedanke, etwas Geistiges, hat etwas Koerperliches verursacht. Umgekehrt: Du fasst auf eine heisse Herdplatte und spuerst Schmerz. Ein koerperlicher Reiz hat ein Bewusstseinserlebnis ausgeloest. Der Interaktionismus sagt: So funktioniert das, Geist und Koerper sind zwar grundverschieden, aber sie beeinflussen sich gegenseitig.\n\nDas Ganze geht auf Descartes zurueck, den beruemten Philosophen mit dem Satz Ich denke, also bin ich. Er meinte, der Geist sei eine eigene Substanz, komplett anders als die Materie des Koerpers. Aber irgendwie muessen die beiden kommunizieren. Descartes schlug vor, das passiere ueber die Zirbeldruese im Gehirn. Schon damals hat die Philosophin Elisabeth von der Pfalz gefragt: Wie soll das gehen? Wie kann etwas Nicht-Materielles auf etwas Materielles einwirken?\n\nDiese Frage ist bis heute nicht befriedigend geloest. Die Neurowissenschaft zeigt, dass alles, was wir denken und fuehlen, mit Gehirnprozessen zusammenhaengt. Trotzdem bleibt der Interaktionismus verlockend, weil er unserer alltaeglichen Erfahrung entspricht: Wir haben das Gefuehl, dass unsere Gedanken wirklich etwas bewirken.",
+    "kernthesen": [
+      "Geist und Koerper sind grundverschieden, wirken aber aufeinander ein.",
+      "Deine Gedanken und Absichten koennen koerperliche Handlungen verursachen.",
+      "Koerperliche Reize wie Schmerz erzeugen bewusste Erlebnisse im Geist.",
+      "Descartes meinte, die Zirbeldruese sei die Schnittstelle zwischen Geist und Koerper.",
+      "Der Interaktionismus entspricht unserer alltaeglichen Erfahrung, ist aber schwer zu erklaeren."
+    ],
+    "entstehung": "Descartes hat den Interaktionismus im 17. Jahrhundert formuliert, vor allem in seinen Meditationen und in Die Leidenschaften der Seele. Er entstand als Konsequenz seines Dualismus, also der Ueberzeugung, dass Geist und Koerper zwei verschiedene Substanzen sind.",
+    "kritik": "Das Hauptproblem ist: Niemand kann erklaeren, wie zwei voellig verschiedene Substanzen aufeinander einwirken sollen. Wenn der Geist keinen Ort im Raum hat, wie kann er dann das Gehirn beeinflussen? Die moderne Hirnforschung legt nahe, dass mentale Vorgaenge immer an physische Gehirnprozesse gebunden sind."
+  }
 }

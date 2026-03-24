@@ -86,5 +86,27 @@
     }
   ],
   "verwandtePhilosophen": ["john-dewey", "william-james", "charles-sanders-peirce", "ludwig-wittgenstein", "juergen-habermas", "willard-van-orman-quine"],
-  "verwandteIsmen": ["pragmatismus", "neopragmatismus", "liberalismus", "anti-fundamentalismus"]
+  "verwandteIsmen": ["pragmatismus", "neopragmatismus", "liberalismus", "anti-fundamentalismus"],
+  "einfach": {
+    "kurzbeschreibung": "Richard Rorty war ein amerikanischer Philosoph, der fand, dass es keine objektive Wahrheit gibt – und dass das okay ist, solange wir fuereinander einstehen und miteinander reden.",
+    "biografie": {
+      "fruehesLeben": "Rorty wurde 1931 in New York als Sohn linksintellektueller Eltern geboren. Er war ein Wunderkind und studierte bereits mit 15 Jahren an der University of Chicago.",
+      "schaffen": "Er begann als klassischer Philosoph in Princeton, stellte dann aber mit seinem Buch 'Philosophy and the Mirror of Nature' die gesamte westliche Erkenntnistheorie infrage. Seine Botschaft: Unser Denken spiegelt die Wirklichkeit nicht wider, und das muss es auch nicht. Wichtiger ist, dass wir gute Gespraeche fuehren und fuereinander einstehen. Er entwickelte das Ideal des 'liberalen Ironikers' – jemand, der weiss, dass seine Ueberzeugungen nicht die absolute Wahrheit sind, aber trotzdem leidenschaftlich fuer Freiheit kaempft.",
+      "spaetesLeben": "Er wandte sich zunehmend der Politik zu und warnte frueh vor dem Aufstieg populistischer Fuehrerfiguren in den USA.",
+      "tod": "Rorty starb 2007 in Palo Alto an Bauchspeicheldruesenkrebs mit 75 Jahren.",
+      "nachwirkung": "Er belebte den Pragmatismus als Philosophie neu und baute eine Bruecke zwischen verschiedenen philosophischen Traditionen. Seine politischen Analysen erwiesen sich als erstaunlich prophetisch."
+    },
+    "kernideen": [
+      {"titel": "Anti-Repräsentationalismus", "beschreibung": "Unser Denken und unsere Sprache spiegeln die Wirklichkeit nicht wider wie ein Spiegel. Wahrheit ist das, was sich in unseren Gespraechen bewaehrt."},
+      {"titel": "Liberaler Ironismus", "beschreibung": "Man kann wissen, dass die eigenen Ueberzeugungen nicht die absolute Wahrheit sind, und trotzdem leidenschaftlich fuer Freiheit und gegen Grausamkeit kaempfen."},
+      {"titel": "Kontingenz und Solidarität", "beschreibung": "Unsere Sprache, unsere Identitaet und unsere Gesellschaft sind nicht von Natur aus so – sie sind historisch gewachsen. Solidaritaet entsteht, wenn wir das Leiden anderer als dem eigenen aehnlich empfinden."}
+    ],
+    "werke": [
+      {"titel": "Philosophy and the Mirror of Nature", "jahr": "1979", "beschreibung": "Sein bahnbrechendes Werk, das die Idee infrage stellt, unser Denken koenne die Wirklichkeit widerspiegeln."},
+      {"titel": "Consequences of Pragmatism", "jahr": "1982", "beschreibung": "Eine Essaysammlung, die den Pragmatismus als Alternative zu anderen Philosophien vorstellt."},
+      {"titel": "Contingency, Irony, and Solidarity", "jahr": "1989", "beschreibung": "Sein bekanntestes Werk ueber das Ideal des liberalen Ironikers, der ohne absolute Wahrheiten fuer Solidaritaet kaempft."},
+      {"titel": "Achieving Our Country", "jahr": "1998", "beschreibung": "Eine Kritik an der akademischen Linken und ein Plaedoyer fuer praktisches politisches Engagement."},
+      {"titel": "Philosophy as Cultural Politics", "jahr": "2007", "beschreibung": "Seine letzte Aufsatzsammlung, die Philosophie als eine Form von Kulturpolitik versteht."}
+    ]
+  }
 }

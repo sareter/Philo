@@ -93,5 +93,65 @@
     }
   ],
   "verwandtePhilosophen": ["theodor-w-adorno", "max-horkheimer", "karl-popper", "john-rawls", "john-dewey", "hannah-arendt"],
-  "verwandteIsmen": ["kritische-theorie", "diskursethik", "deliberative-demokratie", "frankfurter-schule"]
+  "verwandteIsmen": ["kritische-theorie", "diskursethik", "deliberative-demokratie", "frankfurter-schule"],
+  "einfach": {
+    "kurzbeschreibung": "Habermas ist Deutschlands wichtigster lebender Philosoph. Seine grosse Idee: Gute Entscheidungen entstehen, wenn alle gleichberechtigt miteinander reden koennen.",
+    "biografie": {
+      "fruehesLeben": "Habermas wurde 1929 in Duesseldorf geboren. Als Jugendlicher erlebte er das Ende des Nationalsozialismus und die Nuernberger Prozesse -- das praegte sein lebenslanges Engagement fuer Demokratie. Er studierte Philosophie, Geschichte und Psychologie und wurde Assistent von Adorno in Frankfurt.",
+      "schaffen": "Sein erstes grosses Werk untersuchte, wie die oeffentliche Diskussion in der Demokratie funktioniert und warum sie in Gefahr ist. Sein Hauptwerk 'Theorie des kommunikativen Handelns' erklaerte: Sprache ist das Werkzeug, mit dem wir uns verstaendigen, und eine Gesellschaft funktioniert nur, wenn offene, herrschaftsfreie Diskussion moeglich ist. In der Diskursethik sagt er: Eine Regel ist nur dann gerecht, wenn alle Betroffenen ihr in einem fairen Gespraech zustimmen koennten.",
+      "spaetesLeben": "Auch nach seiner Pensionierung blieb Habermas einer der aktivsten Intellektuellen weltweit. Er mischte sich in Debatten ueber Europa, Krieg und Religion ein und schrieb 2019 noch eine riesige zweibandige Philosophiegeschichte.",
+      "tod": "Habermas lebt und arbeitet weiterhin bei Muenchen.",
+      "nachwirkung": "Habermas gehoert zu den meistzitierten Denkern der Welt. Seine Ideen ueber Kommunikation, Demokratie und faire Diskussion praegen Philosophie, Politik und Recht weltweit."
+    },
+    "kernideen": [
+      {
+        "titel": "Kommunikatives Handeln",
+        "beschreibung": "Das Wichtigste in einer Gesellschaft ist, dass Menschen miteinander reden, um sich zu verstaendigen -- nicht um den anderen zu manipulieren oder zu ueberreden."
+      },
+      {
+        "titel": "Diskursethik",
+        "beschreibung": "Eine Regel ist nur dann gerecht, wenn alle Betroffenen ihr in einem fairen, offenen Gespraech zustimmen koennten."
+      },
+      {
+        "titel": "Strukturwandel der Oeffentlichkeit",
+        "beschreibung": "Im 18. Jahrhundert entstand ein oeffentlicher Raum fuer freie Diskussion. Durch Massenmedien und Kommerzialisierung ist dieser Raum heute in Gefahr."
+      },
+      {
+        "titel": "Deliberative Demokratie",
+        "beschreibung": "Demokratie funktioniert nicht nur durch Wahlen, sondern vor allem durch oeffentliche Diskussion, an der alle Buerger teilnehmen koennen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Strukturwandel der Oeffentlichkeit",
+        "jahr": "1962",
+        "beschreibung": "Eine Analyse, wie der oeffentliche Raum fuer freie Diskussion entstanden ist und wie er in der Moderne verfaellt."
+      },
+      {
+        "titel": "Erkenntnis und Interesse",
+        "jahr": "1968",
+        "beschreibung": "Eine Untersuchung darueber, welche Interessen unser Wissen und unsere Wissenschaft antreiben."
+      },
+      {
+        "titel": "Theorie des kommunikativen Handelns",
+        "jahr": "1981",
+        "beschreibung": "Habermas' Hauptwerk, das zeigt, warum Verstaendigung durch Sprache die Grundlage einer funktionierenden Gesellschaft ist."
+      },
+      {
+        "titel": "Der philosophische Diskurs der Moderne",
+        "jahr": "1985",
+        "beschreibung": "Eine Verteidigung der Aufklaerung und der Moderne gegen ihre postmodernen Kritiker."
+      },
+      {
+        "titel": "Faktizitaet und Geltung",
+        "jahr": "1992",
+        "beschreibung": "Habermas' Theorie darueber, wie Recht und Demokratie zusammenhaengen und sich gegenseitig stuetzen."
+      },
+      {
+        "titel": "Auch eine Geschichte der Philosophie",
+        "jahr": "2019",
+        "beschreibung": "Eine riesige Philosophiegeschichte in zwei Baenden, die zeigt, wie sich das Denken nach der Metaphysik entwickelt hat."
+      }
+    ]
+  }
 }

@@ -85,5 +85,55 @@
     }
   ],
   "verwandtePhilosophen": ["martin-heidegger", "wilhelm-windelband", "friedrich-nietzsche"],
-  "verwandteIsmen": ["perspektivismus", "existenzialismus"]
+  "verwandteIsmen": ["perspektivismus", "existenzialismus"],
+  "einfach": {
+    "kurzbeschreibung": "Ortega war Spaniens wichtigster Philosoph des 20. Jahrhunderts. Sein beruemtester Satz: 'Ich bin ich und mein Umstand' -- du bist immer in einer bestimmten Situation, und die gehoert zu dir.",
+    "biografie": {
+      "fruehesLeben": "Ortega wurde 1883 in Madrid in eine intellektuelle Familie geboren. Er studierte Philosophie in Madrid und in Deutschland, wo er den Neukantianismus kennenlernte.",
+      "schaffen": "Ortega entwickelte seine Philosophie der 'vitalen Vernunft': Denken ist nicht abstrakt, sondern immer im konkreten Leben verwurzelt. Sein beruhmtestes Buch 'Der Aufstand der Massen' warnte vor dem 'Massenmenschen', der alles fuer selbstverstaendlich haelt und keine Verantwortung uebernimmt. Er glaubte auch, dass Wahrheit immer von einem bestimmten Blickwinkel abhaengt.",
+      "spaetesLeben": "Der Spanische Buergerkrieg zwang Ortega ins Exil nach Frankreich, Holland und Argentinien. Er kehrte 1945 nach Spanien zurueck, hielt aber Distanz zum Franco-Regime.",
+      "tod": "Ortega starb 1955 in Madrid. Das Regime nutzte seinen Tod fuer Propaganda, obwohl er zeitlebens fuer liberale Demokratie eingetreten war.",
+      "nachwirkung": "Ortega hat die spanische Philosophie international bekannt gemacht und mit seinem brillanten Schreibstil philosophisches Denken einem breiten Publikum zugaenglich gemacht."
+    },
+    "kernideen": [
+      {
+        "titel": "Vitale Vernunft (Razon vital)",
+        "beschreibung": "Vernunft ist nicht abstrakt, sondern im echten Leben verwurzelt. 'Ich bin ich und mein Umstand' -- du existierst immer in einer bestimmten Situation."
+      },
+      {
+        "titel": "Perspektivismus",
+        "beschreibung": "Jeder Mensch sieht die Welt aus einem einzigartigen Blickwinkel. Die volle Wahrheit ergibt sich erst, wenn man viele Perspektiven zusammennimmt."
+      },
+      {
+        "titel": "Der Aufstand der Massen",
+        "beschreibung": "Der 'Massenmensch' haelt die Errungenschaften der Zivilisation fuer selbstverstaendlich und uebernimmt keine Verantwortung. Das gefaehrdet die Demokratie."
+      },
+      {
+        "titel": "Das Leben als Grundwirklichkeit",
+        "beschreibung": "Das Leben ist die grundlegendste Wirklichkeit. Leben heisst, sich staendig entscheiden zu muessen, ohne fertige Antworten zu haben."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "La rebelion de las masas (Der Aufstand der Massen)",
+        "jahr": "1929",
+        "beschreibung": "Ortegas beruhmtestes Buch ueber die Gefahr, wenn Menschen die Zivilisation fuer selbstverstaendlich halten."
+      },
+      {
+        "titel": "Meditaciones del Quijote (Betrachtungen ueber Don Quijote)",
+        "jahr": "1914",
+        "beschreibung": "Sein erstes philosophisches Werk mit dem beruemten Satz 'Ich bin ich und mein Umstand'."
+      },
+      {
+        "titel": "El tema de nuestro tiempo (Die Aufgabe unserer Zeit)",
+        "jahr": "1923",
+        "beschreibung": "Eine Schrift, die die 'vitale Vernunft' als neuen Weg der Philosophie vorstellt."
+      },
+      {
+        "titel": "Que es filosofia? (Was ist Philosophie?)",
+        "jahr": "1957",
+        "beschreibung": "Posthum veroeffentlichte Vorlesungen ueber das Leben als Grundlage allen Denkens."
+      }
+    ]
+  }
 }

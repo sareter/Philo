@@ -19,5 +19,18 @@
     {"titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975"},
     {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"},
     {"titel": "The Point of View of the Universe", "autor": "Peter Singer", "jahr": "2014"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Beim Sentientismus geht es darum, dass jedes Wesen, das Schmerz oder Freude fuehlen kann, moralisch zaehlt - egal ob Mensch oder Tier.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du siehst, wie ein Hund getreten wird. Du findest das falsch, oder? Aber warum? Der Sentientismus sagt: Weil der Hund Schmerz fuehlen kann. Und genau das ist der entscheidende Punkt. Nicht ob jemand ein Mensch ist, sondern ob er leiden kann, bestimmt, ob er moralisch zaehlt.\n\nDer Philosoph Peter Singer hat das Ganze richtig bekannt gemacht. Er sagt: Wenn wir finden, dass es falsch ist, Menschen zu quaelen, dann muessen wir das auch bei Tieren falsch finden - denn ihr Schmerz ist genauso real. Nur weil ein Schwein kein Mensch ist, leidet es nicht weniger. Singer nennt die Bevorzugung der eigenen Art Speziesismus und vergleicht das mit Rassismus.\n\nDas hat ziemlich heftige Konsequenzen: Massentierhaltung, Tierversuche und vieles mehr sieht ploetzlich ganz anders aus, wenn man das Leid der Tiere ernst nimmt. Es geht nicht darum, dass Tiere genau dieselben Rechte wie Menschen bekommen, sondern darum, dass ihr Leiden genauso zaehlt wie unseres.",
+    "kernthesen": [
+      "Ob jemand fuehlen kann, ist das Einzige, was moralisch zaehlt",
+      "Tiere nur deshalb schlechter zu behandeln, weil sie keine Menschen sind, ist genauso unfair wie Rassismus",
+      "Gleiches Leid verdient gleiche Beruecksichtigung, egal bei welcher Art",
+      "Massentierhaltung ist eine der schlimmsten moralischen Katastrophen unserer Zeit",
+      "Moralischer Fortschritt heisst, immer mehr Wesen in unseren Schutz einzubeziehen"
+    ],
+    "entstehung": "Schon im 18. Jahrhundert sagte Jeremy Bentham, die entscheidende Frage sei nicht, ob Tiere denken koennen, sondern ob sie leiden koennen. Peter Singer machte diese Idee 1975 mit seinem Buch Animal Liberation zur weltweiten Debatte.",
+    "kritik": "Kritiker sagen, dass der Sentientismus die besonderen Beziehungen zwischen Menschen unterschaetzt - zum Beispiel zu Familie oder Freunden. Ausserdem ist schwer festzulegen, ab wann genau ein Wesen wirklich fuehlen kann. Wo zieht man die Grenze - bei Insekten, bei Einzellern?"
+  }
 }

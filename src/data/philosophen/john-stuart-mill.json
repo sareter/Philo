@@ -44,5 +44,66 @@
     { "text": "Wenn die ganze Menschheit minus einer Person einer Meinung wäre und nur eine einzige Person der entgegengesetzten Meinung, so wäre die Menschheit nicht mehr berechtigt, diese eine Person zum Schweigen zu bringen, als diese, wenn sie die Macht dazu hätte, die ganze Menschheit.", "quelle": "On Liberty, Kapitel 2", "kontext": "Mills leidenschaftliches Plädoyer für die Meinungsfreiheit, das keine Mehrheitsdiktatur duldet." }
   ],
   "verwandtePhilosophen": ["jeremy-bentham", "adam-smith", "david-hume", "mary-wollstonecraft", "karl-marx"],
-  "verwandteIsmen": ["utilitarismus", "liberalismus", "empirismus", "feminismus"]
+  "verwandteIsmen": ["utilitarismus", "liberalismus", "empirismus", "feminismus"],
+  "einfach": {
+    "kurzbeschreibung": "Mill verfeinerte den Utilitarismus und kaempfte leidenschaftlich fuer individuelle Freiheit und Frauenrechte. Sein Motto: Deine Freiheit endet dort, wo du anderen schadest.",
+    "biografie": {
+      "fruehesLeben": "Mill wurde 1806 in London geboren und bekam eine der haertesten Erziehungen der Geschichte: Mit drei lernte er Griechisch, mit acht las er Platon im Original, mit zwoelf studierte er Logik. Das machte ihn unglaublich gebildet, fuehrte aber mit zwanzig zu einem schweren Zusammenbruch. Durch Poesie fand er zurueck und erkannte, dass Bildung auch die Gefuehle ansprechen muss.",
+      "schaffen": "Mill arbeitete 35 Jahre bei der Ostindien-Kompanie und schrieb nebenbei seine wichtigsten Werke. Er verbesserte Benthams Utilitarismus: Nicht nur die Menge an Glueck zaehlt, sondern auch die Qualitaet. In 'On Liberty' formulierte er sein beruhmtes Schadensprinzip: Die Gesellschaft darf deine Freiheit nur einschraenken, wenn du anderen damit schadest. Er setzte sich auch frueh fuer Frauenrechte ein.",
+      "spaetesLeben": "Nach dem Tod seiner Frau Harriet zog Mill nach Avignon in die Naehe ihres Grabes. Er wurde Abgeordneter im britischen Parlament und brachte als erster einen Antrag auf Frauenwahlrecht ein.",
+      "tod": "Mill starb 1873 in Avignon im Alter von 66 Jahren und wurde neben seiner Frau beigesetzt.",
+      "nachwirkung": "'On Liberty' ist bis heute einer der meistgelesenen Texte der politischen Philosophie. Sein Utilitarismus und sein Einsatz fuer Frauenrechte waren ihrer Zeit weit voraus."
+    },
+    "kernideen": [
+      {
+        "titel": "Schadensprinzip (Harm Principle)",
+        "beschreibung": "Die Gesellschaft darf deine Freiheit nur einschraenken, wenn du anderen damit schadest. Was du mit dir selbst machst, geht niemanden etwas an."
+      },
+      {
+        "titel": "Qualitativer Utilitarismus",
+        "beschreibung": "Nicht jedes Vergnuegen ist gleich wertvoll. Geistige Freuden sind mehr wert als koerperliche: Lieber ein nachdenklicher Sokrates als ein gluecklicher Dummkopf."
+      },
+      {
+        "titel": "Individuelle Freiheit und Meinungsfreiheit",
+        "beschreibung": "Meinungsfreiheit ist unverzichtbar fuer den Fortschritt. Auch falsche Meinungen muessen erlaubt sein, weil sie uns helfen, die Wahrheit besser zu verstehen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "On Liberty (Ueber die Freiheit)",
+        "jahr": "1859",
+        "beschreibung": "Mills klassische Verteidigung der individuellen Freiheit mit dem beruhmten Schadensprinzip."
+      },
+      {
+        "titel": "Utilitarianism (Der Utilitarismus)",
+        "jahr": "1863",
+        "beschreibung": "Die klassische Darstellung des Utilitarismus, die zwischen hoeheren und niederen Freuden unterscheidet."
+      },
+      {
+        "titel": "A System of Logic",
+        "jahr": "1843",
+        "beschreibung": "Mills Hauptwerk zur Wissenschaftstheorie, das die Methoden der empirischen Forschung systematisch darstellt."
+      },
+      {
+        "titel": "The Subjection of Women (Die Hoerigkeit der Frau)",
+        "jahr": "1869",
+        "beschreibung": "Eine leidenschaftliche Argumentation fuer die rechtliche und politische Gleichstellung der Frauen."
+      },
+      {
+        "titel": "Considerations on Representative Government",
+        "jahr": "1861",
+        "beschreibung": "Mills Theorie der repraesentativen Demokratie mit Forderungen nach Minderheitenschutz."
+      },
+      {
+        "titel": "Autobiography",
+        "jahr": "1873 (posthum)",
+        "beschreibung": "Mills beeindruckende Autobiografie ueber seine extreme Erziehung und seine geistige Krise."
+      },
+      {
+        "titel": "Principles of Political Economy",
+        "jahr": "1848",
+        "beschreibung": "Mills umfassendes Werk zur Wirtschaftstheorie, das liberale mit sozialen Ideen verbindet."
+      }
+    ]
+  }
 }

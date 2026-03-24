@@ -11,13 +11,43 @@
     "Der Polytheismus ist toleranter als der Monotheismus, da er Pluralität im Göttlichen anerkennt.",
     "Die kosmische Ordnung entsteht aus dem Zusammenspiel verschiedener göttlicher Mächte."
   ],
-  "hauptvertreter": ["platon"],
+  "hauptvertreter": [
+    "platon"
+  ],
   "entstehung": "Der Polytheismus ist die älteste bekannte Form religiösen Glaubens und findet sich in nahezu allen frühen Kulturen. In der griechischen Philosophie wurde der Polytheismus von den Vorsokratikern, Platon und den Stoikern philosophisch reflektiert und teilweise rationalisiert. Die monotheistische Kritik am Polytheismus begann mit dem biblischen Prophetismus und der griechischen Naturphilosophie.",
   "kritik": "Dem Polytheismus wird vorgeworfen, dass er keine letzte Einheit der Wirklichkeit begründen kann und in einem Pluralismus göttlicher Mächte verharrt, der keine konsistente Weltordnung ermöglicht. Philosophisch wurde der Polytheismus bereits in der Antike durch die Suche nach einem einheitlichen Weltprinzip in Frage gestellt.",
-  "verwandteIsmen": ["theismus", "animismus"],
+  "verwandteIsmen": [
+    "theismus",
+    "animismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Timaios", "autor": "Platon", "jahr": "-360"},
-    {"titel": "Nomoi", "autor": "Platon", "jahr": "-347"},
-    {"titel": "Theogonie", "autor": "Hesiod", "jahr": "-700"}
-  ]
+    {
+      "titel": "Timaios",
+      "autor": "Platon",
+      "jahr": "-360"
+    },
+    {
+      "titel": "Nomoi",
+      "autor": "Platon",
+      "jahr": "-347"
+    },
+    {
+      "titel": "Theogonie",
+      "autor": "Hesiod",
+      "jahr": "-700"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Polytheismus ist die religioes-philosophische Ueberzeugung, dass multiple goettliche Wesen existieren, die verschiedene Aspekte der Wirklichkeit verkoerpern und regieren.",
+    "ausfuehrlicheBeschreibung": "Der Polytheismus bezeichnet den Glauben an die Existenz mehrerer Goetter, die verschiedene Aspekte der Natur, der menschlichen Erfahrung und des kosmischen Geschehens repraesentieren. In der griechischen Antike, der geistigen Wiege der westlichen Philosophie, war der Polytheismus die vorherrschende religioese Weltanschauung. Die olympischen Goetter verkoerperten verschiedene Kraefte und Dimensionen des Lebens: Zeus die Herrschaft, Athene die Weisheit, Aphrodite die Liebe, Ares den Krieg.\n\nPlaton stand zum Polytheismus seiner Zeit in einem komplexen Verhaeltnis. Einerseits kritisierte er die mythologischen Goettererzaehlungen, insbesondere die Darstellung der Goetter als moralisch fragwuerdig in Homers Epen. Andererseits entwickelte er in seinen spaeteren Werken eine kosmologische Theologie, die dem Kosmos Goettlichkeit zuschreibt und die Gestirne als goettliche Wesen betrachtet. Sein Demiurg im Timaios ist zwar ein einziger Schoepfergott, existiert aber neben anderen goettlichen Wesen.\n\nIn der gegenwaertigen Religionsphilosophie erfaehrt der Polytheismus eine Neubewertung. Gegen den Exklusivitaetsanspruch des Monotheismus wird argumentiert, dass der Polytheismus die Vielfalt und Widerspruechlichkeit der menschlichen Erfahrung besser abbildet als der Glaube an einen einzigen, allumfassenden Gott. Der Polytheismus erlaubt Wertepluralismus und Toleranz, da verschiedene Goetter verschiedene, teils widerstreitende Werte verkoerpern koennen.",
+    "kernthesen": [
+      "Es existieren multiple goettliche Wesen, die verschiedene Aspekte der Wirklichkeit regieren.",
+      "Die Vielfalt der Goetter spiegelt die Vielfalt und Komplexitaet der menschlichen Welterfahrung wider.",
+      "Verschiedene Goetter verkoerpern verschiedene, teils widerstreitende Werte und Kraefte.",
+      "Der Polytheismus ist toleranter als der Monotheismus, da er Pluralitaet im Goettlichen anerkennt.",
+      "Die kosmische Ordnung entsteht aus dem Zusammenspiel verschiedener goettlicher Maechte."
+    ],
+    "entstehung": "Der Polytheismus ist die aelteste bekannte Form religioesen Glaubens und findet sich in nahezu allen fruehen Kulturen. In der griechischen Philosophie wurde der Polytheismus von den Vorsokratikern, Platon und den Stoikern philosophisch reflektiert und teilweise rationalisiert. Die monotheistische Kritik am Polytheismus begann mit dem biblischen Prophetismus und der griechischen Naturphilosophie.",
+    "kritik": "Dem Polytheismus wird vorgeworfen, dass er keine letzte Einheit der Wirklichkeit begruenden kann und in einem Pluralismus goettlicher Maechte verharrt, der keine konsistente Weltordnung ermoeglicht. Philosophisch wurde der Polytheismus bereits in der Antike durch die Suche nach einem einheitlichen Weltprinzip in Frage gestellt."
+  }
 }

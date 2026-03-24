@@ -11,12 +11,39 @@
     "Ethnozentrismus ist die Wurzel kultureller Arroganz",
     "Das Fremde erscheint nur aufgrund von Gewohnheit und Vorurteil als barbarisch"
   ],
-  "hauptvertreter": ["michel-de-montaigne"],
+  "hauptvertreter": [
+    "michel-de-montaigne"
+  ],
   "entstehung": "Der Kulturrelativismus hat seine philosophischen Wurzeln in Montaignes Essais des 16. Jahrhunderts, wurde aber als systematische Position erst im 20. Jahrhundert von Kulturanthropologen wie Franz Boas und Melville Herskovits ausgearbeitet.",
   "kritik": "Kritiker werfen dem Kulturrelativismus vor, er mache eine Kritik an Menschenrechtsverletzungen in anderen Kulturen unmöglich und führe zu einem moralischen Relativismus. Zudem wird die Frage gestellt, ob der Kulturrelativismus nicht selbst ein Produkt der westlichen Kultur ist und sich damit selbst relativiert.",
-  "verwandteIsmen": ["moralischer-relativismus", "sozialer-konstruktivismus", "ethischer-pluralismus"],
+  "verwandteIsmen": [
+    "moralischer-relativismus",
+    "sozialer-konstruktivismus",
+    "ethischer-pluralismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580"},
-    {"titel": "Kulturrelativismus", "autor": "Melville Herskovits", "jahr": "1972"}
-  ]
+    {
+      "titel": "Essais",
+      "autor": "Michel de Montaigne",
+      "jahr": "1580"
+    },
+    {
+      "titel": "Kulturrelativismus",
+      "autor": "Melville Herskovits",
+      "jahr": "1972"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kulturrelativismus betrachtet alle Kulturen als gleichwertig und lehnt die Bewertung einer Kultur nach den Massstaeben einer anderen ab.",
+    "ausfuehrlicheBeschreibung": "Der Kulturrelativismus behauptet, dass kulturelle Praktiken, Werte und Ueberzeugungen nur im Kontext der jeweiligen Kultur verstanden und bewertet werden koennen. Es gibt keinen universellen Standpunkt, von dem aus Kulturen verglichen oder bewertet werden koennten – jeder solche Versuch ist selbst kulturell bedingt und daher partikular.\n\nMichel de Montaigne gilt als einer der fruehesten Vertreter dieser Haltung: In seinen Essais reflektierte er ueber die Begegnung mit fremden Voelkern und kam zu dem Schluss, dass das, was wir fuer barbarisch halten, oft nur das ist, was uns fremd ist. Die vermeintliche Ueberlegenheit der europaeischen Zivilisation beruht nicht auf objektiver Ueberlegenheit, sondern auf Gewohnheit und Vorurteil.\n\nDer Kulturrelativismus hat eine wichtige kritische Funktion: Er entlarvt den Ethnozentrismus und die kulturelle Arroganz, mit der Gesellschaften ihre eigenen Werte fuer universal erklaeren. Gleichzeitig wirft er ein fundamentales Problem auf: Wenn alle kulturellen Praktiken gleichwertig sind, gibt es dann keine Moeglichkeit mehr, Menschenrechtsverletzungen, Unterdrueckung oder Gewalt in anderen Kulturen zu kritisieren?",
+    "kernthesen": [
+      "Alle Kulturen sind prinzipiell gleichwertig",
+      "Kulturelle Praktiken sind nur im Kontext ihrer Kultur verstaendlich",
+      "Es gibt keinen universellen Standpunkt zur Bewertung von Kulturen",
+      "Ethnozentrismus ist die Wurzel kultureller Arroganz",
+      "Das Fremde erscheint nur aufgrund von Gewohnheit und Vorurteil als barbarisch"
+    ],
+    "entstehung": "Der Kulturrelativismus hat seine philosophischen Wurzeln in Montaignes Essais des 16. Jahrhunderts, wurde aber als systematische Position erst im 20. Jahrhundert von Kulturanthropologen wie Franz Boas und Melville Herskovits ausgearbeitet.",
+    "kritik": "Kritiker werfen dem Kulturrelativismus vor, er mache eine Kritik an Menschenrechtsverletzungen in anderen Kulturen unmoeglich und fuehre zu einem moralischen Relativismus. Zudem wird die Frage gestellt, ob der Kulturrelativismus nicht selbst ein Produkt der westlichen Kultur ist und sich damit selbst relativiert."
+  }
 }

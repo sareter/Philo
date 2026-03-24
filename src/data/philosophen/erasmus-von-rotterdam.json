@@ -50,5 +50,75 @@
     { "text": "Die größte Torheit ist es, weise Ratschläge zu geben und selbst törichte Fehler zu begehen.", "quelle": "Lob der Torheit", "kontext": "Eine der vielen ironischen Beobachtungen der personifizierten Torheit über die Widersprüchlichkeit menschlichen Verhaltens." }
   ],
   "verwandtePhilosophen": ["thomas-morus", "michel-de-montaigne", "martin-luther", "francis-bacon"],
-  "verwandteIsmen": ["humanismus", "pazifismus", "christlicher-humanismus"]
+  "verwandteIsmen": ["humanismus", "pazifismus", "christlicher-humanismus"],
+  "einfach": {
+    "kurzbeschreibung": "Erasmus war der beruehmteste Gelehrte der Renaissance. Er setzte sich fuer Bildung, Toleranz und Frieden ein und schrieb mit dem 'Lob der Torheit' eine der witzigsten Satiren aller Zeiten.",
+    "biografie": {
+      "fruehesLeben": "Erasmus wurde um 1466 in Rotterdam als unehelicher Sohn eines Priesters geboren. Nach dem Tod seiner Eltern kam er ins Kloster, das ihm aber nicht gefiel. Er nutzte jede Gelegenheit, um zu studieren und Kontakte zu knuepfen.",
+      "schaffen": "Er reiste durch ganz Europa und wurde mit allen wichtigen Denkern seiner Zeit befreundet. Sein 'Lob der Torheit' machte sich auf brillante Weise ueber Kirche und Gesellschaft lustig. Er veroeffentlichte auch die erste gedruckte Fassung des griechischen Neuen Testaments, was die Grundlage fuer Luthers Bibeluebersetzung wurde.",
+      "spaetesLeben": "Als die Reformation ausbrach, sass er zwischen den Stuehlen: Er hatte die Kirche kritisiert, wollte aber keine Spaltung. Beide Seiten griffen ihn an. Er stritt oeffentlich mit Luther ueber den freien Willen.",
+      "tod": "Erasmus starb 1536 in Basel. Seine letzten Worte sollen 'Lieber Gott' auf Niederlaendisch gewesen sein. Das Erasmus-Austauschprogramm der EU ist nach ihm benannt.",
+      "nachwirkung": "Er legte den Grundstein fuer moderne Textkritik, foerderte humanistische Bildung und setzte Massstaebe fuer religioese Toleranz. Sein kosmopolitischer Geist lebt im Erasmus-Programm weiter."
+    },
+    "kernideen": [
+      {
+        "titel": "Christlicher Humanismus",
+        "beschreibung": "Erasmus wollte das Beste der antiken Bildung mit dem christlichen Glauben verbinden. Wahre Froemmigkeit kommt von innen, nicht von aeusseren Ritualen."
+      },
+      {
+        "titel": "Bildung und Erziehung",
+        "beschreibung": "Bildung ist der Schluessel zu einer besseren Gesellschaft. Sie soll Vernunft, Redekunst und moralisches Urteil schulen."
+      },
+      {
+        "titel": "Toleranz und Frieden",
+        "beschreibung": "In einer Zeit voller religioser Konflikte plaedierte Erasmus unmuedig fuer Dialog und Frieden. Krieg und Gewalt sind mit dem christlichen Geist unvereinbar."
+      },
+      {
+        "titel": "Textkritik und Ad-fontes-Prinzip",
+        "beschreibung": "Zurueck zu den Quellen! Erasmus zeigte, dass man Originaltexte lesen muss statt sich auf fehlerhafte Uebersetzungen zu verlassen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Lob der Torheit (Encomium Moriae)",
+        "jahr": "1511",
+        "beschreibung": "Eine geniale Satire, in der die personifizierte Dummheit sich selbst lobt und dabei Kirche und Gesellschaft aufs Korn nimmt."
+      },
+      {
+        "titel": "Adagia",
+        "jahr": "1500",
+        "beschreibung": "Eine riesige Sammlung antiker Sprichwoerter mit klugen Kommentaren, die Erasmus europaweit bekannt machte."
+      },
+      {
+        "titel": "Novum Instrumentum (Griechisches Neues Testament)",
+        "jahr": "1516",
+        "beschreibung": "Die erste gedruckte Ausgabe des griechischen Neuen Testaments, ein Meilenstein der Bibelwissenschaft."
+      },
+      {
+        "titel": "Enchiridion militis Christiani (Handbuch des christlichen Streiters)",
+        "jahr": "1503",
+        "beschreibung": "Ein Leitfaden, der innerliche Froemmigkeit ueber aeussere Rituale stellt."
+      },
+      {
+        "titel": "De libero arbitrio (Ueber den freien Willen)",
+        "jahr": "1524",
+        "beschreibung": "Seine Streitschrift gegen Luther, in der er die menschliche Willensfreiheit verteidigt."
+      },
+      {
+        "titel": "Colloquia familiaria (Vertraute Gespraeche)",
+        "jahr": "1518",
+        "beschreibung": "Witzige Dialoge, die urspruenglich als Lateinuebungen gedacht waren und zu einer Satire des Alltagslebens wurden."
+      },
+      {
+        "titel": "Institutio principis Christiani (Die Erziehung eines christlichen Fuersten)",
+        "jahr": "1516",
+        "beschreibung": "Ein Gegenentwurf zu Machiavellis 'Fuerst': Der ideale Herrscher regiert mit Weisheit und Friedensliebe."
+      },
+      {
+        "titel": "Querela Pacis (Die Klage des Friedens)",
+        "jahr": "1517",
+        "beschreibung": "Eine leidenschaftliche Friedensschrift, in der der personifizierte Frieden ueber seine Vertreibung klagt."
+      }
+    ]
+  }
 }

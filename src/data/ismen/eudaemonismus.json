@@ -11,13 +11,44 @@
     "Der Mensch verwirklicht seine Eudaimonia durch den Gebrauch seiner spezifisch menschlichen Fähigkeiten.",
     "Ein glückseliges Leben erfordert ein ganzes Leben tugendhafter Tätigkeit, nicht nur momentanes Wohlbefinden."
   ],
-  "hauptvertreter": ["aristoteles", "epikur"],
+  "hauptvertreter": [
+    "aristoteles",
+    "epikur"
+  ],
   "entstehung": "Der Eudämonismus ist so alt wie die systematische Ethik der griechischen Antike. Sokrates, Platon und Aristoteles entwickelten die Grundlagen, während Epikureer und Stoiker eigene Varianten formulierten. Die Frage „Was ist das gute Leben?“ stand im Zentrum aller antiken Ethik.",
   "kritik": "Kant kritisierte den Eudämonismus als heteronome Ethik, die das Moralgesetz von subjektiven Glücksvorstellungen abhängig macht. Zudem wird eingewandt, dass der Begriff der Eudaimonia zu vage bleibt und verschiedene Interpretationen zulässt, was seine Eignung als ethisches Fundament einschränkt.",
-  "verwandteIsmen": ["tugendethik", "hedonismus"],
+  "verwandteIsmen": [
+    "tugendethik",
+    "hedonismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Nikomachische Ethik", "autor": "Aristoteles", "jahr": "-340"},
-    {"titel": "Brief an Menoikeus", "autor": "Epikur", "jahr": "-300"},
-    {"titel": "Von der Glückseligkeit", "autor": "Seneca", "jahr": "58"}
-  ]
+    {
+      "titel": "Nikomachische Ethik",
+      "autor": "Aristoteles",
+      "jahr": "-340"
+    },
+    {
+      "titel": "Brief an Menoikeus",
+      "autor": "Epikur",
+      "jahr": "-300"
+    },
+    {
+      "titel": "Von der Glückseligkeit",
+      "autor": "Seneca",
+      "jahr": "58"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Eudaemonismus ist die philosophische Lehre, dass Glueckseligkeit  das hoechste Gut und das letzte Ziel allen menschlichen Handelns darstellt.",
+    "ausfuehrlicheBeschreibung": "Der Eudaemonismus bildet das Fundament der antiken Ethik und wurde von nahezu allen grossen Philosophen der Antike vertreten, wenn auch in unterschiedlicher Auspraegung. Aristoteles definierte Eudaimonia als das hoechste Gut, auf das alles menschliche Streben ausgerichtet ist. Fuer ihn besteht Glueckseligkeit in der Verwirklichung der spezifisch menschlichen Faehigkeiten – vor allem der Vernunft – in einem ganzen, gelungenen Leben. Eudaimonia ist daher nicht blosses Vergnuegen, sondern umfassendes Gedeihen.\n\nEpikur deutete die Eudaimonia in hedonistischer Richtung um: Glueckseligkeit bestehe in der Lust (Hedone) und der Abwesenheit von Schmerz (Ataraxia). Doch auch Epikurs Hedonismus ist kein platter Genuss, sondern eine kultivierte Lebensform, die Maessigung, Freundschaft und philosophische Betrachtung einschliesst. Die Stoiker wiederum sahen Eudaimonia im tugendhaften Leben gemaess der Natur und der Vernunft, unabhaengig von aeusseren Guetern.\n\nIn der Neuzeit wurde der Eudaemonismus durch deontologische und utilitaristische Ethiken verdraengt. Kant kritisierte den Eudaemonismus als Ethik der Selbstliebe, die das moralische Handeln an subjektives Wohlbefinden binde statt an das Pflichtgebot der Vernunft. In der Gegenwart erlebt der Eudaemonismus jedoch eine Renaissance im Rahmen der Tugendethik und der positiven Psychologie, die das gelingende Leben wieder zum Gegenstand philosophischer und empirischer Forschung machen.",
+    "kernthesen": [
+      "Glueckseligkeit (Eudaimonia) ist das hoechste Gut und das letzte Ziel menschlichen Handelns.",
+      "Eudaimonia ist kein blosses Lustgefuehl, sondern umfassendes menschliches Gedeihen.",
+      "Tugenden sind Mittel zur Erreichung der Glueckseligkeit und zugleich Bestandteil des guten Lebens.",
+      "Der Mensch verwirklicht seine Eudaimonia durch den Gebrauch seiner spezifisch menschlichen Faehigkeiten.",
+      "Ein glueckseliges Leben erfordert ein ganzes Leben tugendhafter Taetigkeit, nicht nur momentanes Wohlbefinden."
+    ],
+    "entstehung": "Der Eudaemonismus ist so alt wie die systematische Ethik der griechischen Antike. Sokrates, Platon und Aristoteles entwickelten die Grundlagen, waehrend Epikureer und Stoiker eigene Varianten formulierten. Die Frage „Was ist das gute Leben?“ stand im Zentrum aller antiken Ethik.",
+    "kritik": "Kant kritisierte den Eudaemonismus als heteronome Ethik, die das Moralgesetz von subjektiven Gluecksvorstellungen abhaengig macht. Zudem wird eingewandt, dass der Begriff der Eudaimonia zu vage bleibt und verschiedene Interpretationen zulaesst, was seine Eignung als ethisches Fundament einschraenkt."
+  }
 }

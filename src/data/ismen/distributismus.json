@@ -19,5 +19,18 @@
     {"titel": "Rerum Novarum", "autor": "Papst Leo XIII.", "jahr": "1891"},
     {"titel": "What's Wrong with the World", "autor": "G.K. Chesterton", "jahr": "1910"},
     {"titel": "The Servile State", "autor": "Hilaire Belloc", "jahr": "1912"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Distributismus will, dass moeglichst viele Menschen Eigentum besitzen, nicht nur ein paar Reiche oder der Staat. Lieber viele kleine Betriebe als wenige Grosskonzerne.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, es gibt nur zwei Optionen: Entweder gehoert fast alles wenigen Superreichen (Kapitalismus pur) oder der Staat besitzt alles (Sozialismus pur). Der Distributismus sagt: Beides ist Mist. Besser waere es, wenn moeglichst viele Menschen ihren eigenen kleinen Laden, ihren eigenen Hof oder ihre eigene Werkstatt haetten.\n\nDie Idee kam von katholischen Denkern wie G.K. Chesterton und Hilaire Belloc im fruehen 20. Jahrhundert. Sie sahen, wie die Industrialisierung dazu fuehrte, dass wenige Fabrikbesitzer immer reicher wurden, waehrend die Arbeiter nichts besassen. Ihr Gegenmittel: Eigentum breit streuen, damit moeglichst viele Menschen selbststaendig und unabhaengig leben koennen.\n\nEin wichtiges Prinzip dabei ist Subsidiaritaet: Entscheidungen sollen dort getroffen werden, wo sie direkt betreffen. Die kleine Baeckerei vor Ort ist besser als der Grosskonzern, die Gemeinde wichtiger als der Zentralstaat. Genossenschaften und Familienunternehmen sind das Ideal.",
+    "kernthesen": [
+      "Eigentum soll moeglichst breit verteilt sein, nicht bei wenigen konzentriert.",
+      "Weder reiner Kapitalismus noch reiner Sozialismus sind gerechte Systeme.",
+      "Entscheidungen sollen so nah wie moeglich bei den betroffenen Menschen getroffen werden.",
+      "Kleine Betriebe und Genossenschaften sind besser als Grosskonzerne.",
+      "Privateigentum ist wichtig, bringt aber auch Verantwortung gegenueber der Gemeinschaft mit sich."
+    ],
+    "entstehung": "Der Distributismus entstand Anfang des 20. Jahrhunderts in England. G.K. Chesterton und Hilaire Belloc sahen die Probleme der Industrialisierung und suchten einen dritten Weg zwischen Kapitalismus und Sozialismus, inspiriert von der katholischen Soziallehre.",
+    "kritik": "Kritiker sagen, dass es in einer modernen Wirtschaft unrealistisch ist, Eigentum so breit zu verteilen. Liberale finden, der Staat duerfe nicht vorschreiben, wem was gehoert, und Sozialisten halten den Distributismus fuer zu konservativ und halbherzig."
+  }
 }

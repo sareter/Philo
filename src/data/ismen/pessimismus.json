@@ -20,5 +20,18 @@
     { "titel": "Philosophie des Unbewussten", "autor": "Eduard von Hartmann", "jahr": "1869" },
     { "titel": "Vom Nachteil, geboren worden zu sein", "autor": "Emil Cioran", "jahr": "1973" },
     { "titel": "Better Never to Have Been", "autor": "David Benatar", "jahr": "2006" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der philosophische Pessimismus sagt: Das Leben ist im Kern leidvoll, und das Uebel in der Welt ueberwiegt das Gute. Er fragt, ob Existenz ueberhaupt erstrebenswert ist.",
+    "ausfuehrlicheBeschreibung": "Schopenhauer, der beruehmteste Pessimist, sah das so: Der Mensch wird von endlosen Wuenschen getrieben. Wenn ein Wunsch erfuellt wird, kommt kurz Zufriedenheit, dann Langeweile, dann der naechste Wunsch. Das Leben pendelt zwischen Schmerz und Langeweile. Echte, dauerhafte Zufriedenheit ist eine Illusion. Seine Loesung: Aufhoeren zu wollen. Den 'Willen zum Leben' verneinen, durch Askese und Zurueckgezogenheit.\n\nNietzsche war zunaechst von Schopenhauer beeindruckt, entwickelte aber eine andere Haltung. Er unterschied den 'Pessimismus der Schwaeche' (Schopenhauer gibt auf) vom 'Pessimismus der Staerke' (das Leiden anerkennen und trotzdem das Leben bejahen). Der Uebermensch nimmt das Leid an und sagt trotzdem Ja zum Leben. Im Buddhismus ist 'alles Leben ist Leiden' sogar die erste edle Wahrheit.\n\nDie radikalste moderne Version ist der Anti-Natalismus von David Benatar: Weil Existenz immer mit Leid verbunden ist, ist es moralisch falsch, Kinder in die Welt zu setzen. Das klingt extrem, aber es zeigt, wohin konsequenter Pessimismus fuehren kann. Kritiker sagen: Der Pessimismus blendet die echten Fortschritte bei Gesundheit, Wohlstand und Sicherheit aus und laehmt uns, statt zum Handeln zu motivieren.",
+    "kernthesen": [
+      "Das Leben ist grundsaetzlich leidvoll, und das Uebel ueberwiegt das Gute.",
+      "Der Mensch wird von endlosen Wuenschen getrieben, die nie dauerhaft befriedigt werden koennen.",
+      "Nicht zu existieren waere besser als zu existieren.",
+      "Den Willen zum Leben zu verneinen ist der einzige Ausweg aus dem Leiden.",
+      "Bewusstsein selbst ist die Quelle des spezifisch menschlichen Leidens."
+    ],
+    "entstehung": "Vorlaeufer finden sich in der antiken Tragoedie und im Buddhismus. Schopenhauer begruendete den philosophischen Pessimismus im fruehen 19. Jahrhundert systematisch. Nietzsche setzte sich kritisch damit auseinander. Im 21. Jahrhundert hat David Benatar den Anti-Natalismus als radikalste Form formuliert.",
+    "kritik": "Optimisten argumentieren, dass der Pessimismus die echten Fortschritte bei Lebenserwartung, Armut und Gewalt ignoriert. Schopenhauers Sicht wird als einseitig kritisiert. Ausserdem ist die Behauptung, Nichtexistenz sei besser als Existenz, logisch schwierig, weil Nichtexistenz kein Zustand ist, den man erleben kann."
+  }
 }

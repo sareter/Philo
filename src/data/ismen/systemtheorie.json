@@ -11,12 +11,39 @@
     "System und Lebenswelt müssen unterschieden werden",
     "Die Kolonialisierung der Lebenswelt durch Systeme gefährdet die Freiheit"
   ],
-  "hauptvertreter": ["juergen-habermas"],
+  "hauptvertreter": [
+    "juergen-habermas"
+  ],
   "entstehung": "Die Systemtheorie entwickelte sich im 20. Jahrhundert aus der allgemeinen Systemtheorie Ludwig von Bertalanffys und wurde von Niklas Luhmann zur soziologischen Großtheorie ausgebaut. Habermas entwickelte sie in kritischer Auseinandersetzung mit Luhmann weiter.",
   "kritik": "Kritiker werfen der Systemtheorie vor, sie eliminiere das handelnde Subjekt aus der Sozialtheorie und mache den Menschen zum bloßen Anhängsel sozialer Systeme. Zudem wird die hohe Abstraktion der Theorie als lebensfern und politisch konservativ kritisiert.",
-  "verwandteIsmen": ["kybernetik", "sozialer-konstruktivismus", "diskursethik"],
+  "verwandteIsmen": [
+    "kybernetik",
+    "sozialer-konstruktivismus",
+    "diskursethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Theorie des kommunikativen Handelns", "autor": "Jürgen Habermas", "jahr": "1981"},
-    {"titel": "Soziale Systeme", "autor": "Niklas Luhmann", "jahr": "1984"}
-  ]
+    {
+      "titel": "Theorie des kommunikativen Handelns",
+      "autor": "Jürgen Habermas",
+      "jahr": "1981"
+    },
+    {
+      "titel": "Soziale Systeme",
+      "autor": "Niklas Luhmann",
+      "jahr": "1984"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Systemtheorie betrachtet die Gesellschaft als ein komplexes System sich selbst reproduzierender Kommunikationen.",
+    "ausfuehrlicheBeschreibung": "Die Systemtheorie ist ein umfassendes theoretisches Paradigma, das die Gesellschaft nicht als Summe von Individuen, sondern als ein System von Kommunikationen begreift. Soziale Systeme reproduzieren sich selbst durch Kommunikation und unterscheiden sich von ihrer Umwelt durch eine spezifische Leitdifferenz. Politik, Wirtschaft, Wissenschaft, Recht und Kunst sind funktional differenzierte Teilsysteme, die jeweils nach eigener Logik operieren.\n\nJuergen Habermas setzte sich intensiv mit der Systemtheorie auseinander und entwickelte sie kritisch weiter. Er unterschied zwischen System und Lebenswelt und warnte vor der Kolonialisierung der Lebenswelt durch systemische Imperative: Wenn die Logik von Geld und Macht in Bereiche eindringt, die auf Verstaendigung angewiesen sind, droht der Verlust sozialer Solidaritaet und individueller Autonomie.\n\nDie Systemtheorie hat die Sozialwissenschaften und die Philosophie des 20. Jahrhunderts nachhaltig gepraegt. Sie bietet ein Instrumentarium zur Analyse komplexer sozialer Zusammenhaenge, das weder auf individualistische noch auf kollektivistische Reduktionen angewiesen ist. Gleichzeitig wirft sie fundamentale Fragen auf: Ist der Mensch nur ein Element in sozialen Systemen oder mehr als das?",
+    "kernthesen": [
+      "Gesellschaft besteht aus Kommunikationen, nicht aus Menschen",
+      "Soziale Systeme reproduzieren sich selbst durch ihre eigenen Operationen",
+      "Funktionale Differenzierung ist das Strukturprinzip moderner Gesellschaften",
+      "System und Lebenswelt muessen unterschieden werden",
+      "Die Kolonialisierung der Lebenswelt durch Systeme gefaehrdet die Freiheit"
+    ],
+    "entstehung": "Die Systemtheorie entwickelte sich im 20. Jahrhundert aus der allgemeinen Systemtheorie Ludwig von Bertalanffys und wurde von Niklas Luhmann zur soziologischen Grosstheorie ausgebaut. Habermas entwickelte sie in kritischer Auseinandersetzung mit Luhmann weiter.",
+    "kritik": "Kritiker werfen der Systemtheorie vor, sie eliminiere das handelnde Subjekt aus der Sozialtheorie und mache den Menschen zum blossen Anhaengsel sozialer Systeme. Zudem wird die hohe Abstraktion der Theorie als lebensfern und politisch konservativ kritisiert."
+  }
 }

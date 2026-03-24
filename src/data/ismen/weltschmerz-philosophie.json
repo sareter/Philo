@@ -11,12 +11,40 @@
     "Die Unvollkommenheit der Welt ist nicht zu beheben",
     "Weltschmerz richtet sich auf die Gesamtheit des Daseins, nicht auf Einzelnes"
   ],
-  "hauptvertreter": ["arthur-schopenhauer"],
+  "hauptvertreter": [
+    "arthur-schopenhauer"
+  ],
   "entstehung": "Die Weltschmerz-Philosophie entstand im frühen 19. Jahrhundert im Kontext der deutschen Romantik und des philosophischen Pessimismus. Schopenhauers Hauptwerk von 1819 lieferte die metaphysische Grundlage für den zuvor eher literarisch gebrauchten Begriff.",
   "kritik": "Kritiker werfen der Weltschmerz-Philosophie vor, sie verallgemeinere eine subjektive Stimmungslage zu einer universellen Wahrheit. Zudem wird argumentiert, dass sie durch ihre Absolutheit jede Möglichkeit der Verbesserung und des Fortschritts leugnet und so zu politischer Passivität führt.",
-  "verwandteIsmen": ["kosmischer-pessimismus", "leidensphilosophie", "melancholismus", "nihilistischer-pessimismus"],
+  "verwandteIsmen": [
+    "kosmischer-pessimismus",
+    "leidensphilosophie",
+    "melancholismus",
+    "nihilistischer-pessimismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
-    {"titel": "Aphorismen zur Lebensweisheit", "autor": "Arthur Schopenhauer", "jahr": "1851"}
-  ]
+    {
+      "titel": "Die Welt als Wille und Vorstellung",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1819"
+    },
+    {
+      "titel": "Aphorismen zur Lebensweisheit",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1851"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Weltschmerz-Philosophie erhebt den Weltschmerz – das tiefe Leid an der Unvollkommenheit der Welt – zum philosophischen Konzept.",
+    "ausfuehrlicheBeschreibung": "Die Weltschmerz-Philosophie macht den im 19. Jahrhundert gepraegten Begriff des Weltschmerzes zum Gegenstand systematischer philosophischer Reflexion. Weltschmerz bezeichnet das tiefe, umfassende Leid, das aus der Erkenntnis der Kluft zwischen den Idealen des Menschen und der Wirklichkeit der Welt erwaechst. Es ist kein blosses Gefuehl, sondern eine philosophische Einsicht in die fundamentale Unvollkommenheit des Daseins.\n\nArthur Schopenhauer lieferte die tiefste philosophische Begruendung des Weltschmerzes: Der blinde Wille, der alles Seiende durchdringt, erzeugt unablaessig Beduerfnisse und Wuensche, deren Befriedigung nie von Dauer ist. Das Leben pendelt zwischen Schmerz und Langeweile, und selbst die Erfuellung eines Wunsches fuehrt nur zu neuer Leere. Die Welt ist, wie sie ist, die schlechteste aller moeglichen.\n\nDer Weltschmerz unterscheidet sich von gewoehnlicher Traurigkeit durch seine kosmische Dimension: Er richtet sich nicht auf einzelne Ereignisse, sondern auf die Gesamtheit des Daseins. Er ist die emotionale Antwort auf die philosophische Einsicht, dass die Welt nicht so sein kann, wie der Mensch es sich wuenscht – und dass dieser Zustand nicht zu aendern ist.",
+    "kernthesen": [
+      "Zwischen Ideal und Wirklichkeit klafft eine unueberbrueckbare Kluft",
+      "Der Weltschmerz ist keine blosse Stimmung, sondern eine philosophische Einsicht",
+      "Das Dasein pendelt zwischen Schmerz und Langeweile",
+      "Die Unvollkommenheit der Welt ist nicht zu beheben",
+      "Weltschmerz richtet sich auf die Gesamtheit des Daseins, nicht auf Einzelnes"
+    ],
+    "entstehung": "Die Weltschmerz-Philosophie entstand im fruehen 19. Jahrhundert im Kontext der deutschen Romantik und des philosophischen Pessimismus. Schopenhauers Hauptwerk von 1819 lieferte die metaphysische Grundlage fuer den zuvor eher literarisch gebrauchten Begriff.",
+    "kritik": "Kritiker werfen der Weltschmerz-Philosophie vor, sie verallgemeinere eine subjektive Stimmungslage zu einer universellen Wahrheit. Zudem wird argumentiert, dass sie durch ihre Absolutheit jede Moeglichkeit der Verbesserung und des Fortschritts leugnet und so zu politischer Passivitaet fuehrt."
+  }
 }

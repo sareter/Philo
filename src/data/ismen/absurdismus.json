@@ -19,5 +19,18 @@
     {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
     {"titel": "Der Fremde", "autor": "Albert Camus", "jahr": "1942"},
     {"titel": "Die Pest", "autor": "Albert Camus", "jahr": "1947"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Absurdismus beschreibt den Widerspruch zwischen unserem Wunsch nach Sinn und einer Welt, die uns keinen Sinn liefert. Die Loesung: Diesen Widerspruch aushalten, ohne sich etwas vorzumachen.",
+    "ausfuehrlicheBeschreibung": "Wir Menschen suchen staendig nach Sinn. Warum bin ich hier? Was soll das alles? Aber das Universum antwortet nicht. Es ist einfach da, ohne Erklaerung, ohne Plan. Diesen Widerspruch -- wir wollen Sinn, die Welt gibt keinen -- nennt man das Absurde.\n\nDer Absurdismus sagt: Fluechte dich nicht in Religion oder irgendwelche grossen Theorien, nur um diesen Widerspruch loszuwerden. Das waere Selbstbetrug. Aber verzweifle auch nicht und gib nicht auf. Stattdessen: Halte den Widerspruch aus. Lebe trotzdem mit voller Leidenschaft. Das ist wie Sisyphos, der seinen Stein immer wieder den Berg hochrollt, obwohl er weiss, dass der Stein jedes Mal wieder runterrollen wird.\n\nDer Absurdismus ist nicht dasselbe wie Nihilismus (alles ist egal) oder Existenzialismus (schaff dir deinen eigenen Sinn). Er sagt eher: Akzeptiere, dass es keinen fertigen Sinn gibt, und lebe trotzdem so intensiv wie moeglich. Das klingt erstmal hart, ist aber eigentlich eine ziemlich befreiende Idee.",
+    "kernthesen": [
+      "Der Mensch sucht nach Sinn, aber die Welt liefert keinen -- das ist das Absurde.",
+      "Wer sich in Religion oder Ideologien fluechtet, betreibt Selbstbetrug.",
+      "Die richtige Reaktion ist nicht Aufgeben, sondern trotziges Weiterleben.",
+      "Das Leben kann auch ohne grossen Sinn leidenschaftlich und wertvoll sein.",
+      "Sisyphos ist das perfekte Bild dafuer: Er weiss, dass es sinnlos ist, und macht trotzdem weiter."
+    ],
+    "entstehung": "Albert Camus hat den Absurdismus in den 1940er Jahren begruendet, vor allem mit seinem Essay 'Der Mythos des Sisyphos'. Er wollte sich bewusst vom Existenzialismus Sartres abgrenzen und eine eigene Antwort auf die Sinnfrage finden.",
+    "kritik": "Kritiker sagen: Wenn man gegen die Sinnlosigkeit rebelliert, schafft man sich damit ja doch wieder einen Sinn -- das ist ein Widerspruch. Ausserdem bietet der Absurdismus keine klare Anleitung, wie man im Alltag gute Entscheidungen treffen soll."
+  }
 }

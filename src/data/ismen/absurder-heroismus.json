@@ -19,5 +19,18 @@
     {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
     {"titel": "Der Mensch in der Revolte", "autor": "Albert Camus", "jahr": "1951"},
     {"titel": "Die Pest", "autor": "Albert Camus", "jahr": "1947"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Absurder Heroismus heisst: Auch wenn das Leben keinen tieferen Sinn hat, kaempft man trotzdem weiter -- nicht aus Hoffnung, sondern aus Trotz und Staerke.",
+    "ausfuehrlicheBeschreibung": "Stell dir Sisyphos vor: Er muss fuer immer einen riesigen Stein einen Berg hochrollen, und jedes Mal rollt der Stein wieder runter. Klingt nach der schlimmsten Strafe ueberhaupt, oder? Aber der Philosoph Albert Camus sagt: Stell dir vor, Sisyphos ist trotzdem gluecklich. Warum? Weil er sein Schicksal kennt, es annimmt und sich nicht unterkriegen laesst.\n\nDas ist absurder Heroismus: Du weisst, dass das Leben im grossen Ganzen keinen vorgegebenen Sinn hat. Es gibt keinen Masterplan, kein grosses Ziel, auf das alles hinauslaeuft. Aber anstatt daran zu verzweifeln oder dich in irgendwelche Illusionen zu fluechten, machst du trotzdem weiter. Du lebst bewusst, intensiv und mit voller Kraft.\n\nDas Ganze ist keine deprimierende Philosophie, auch wenn es erstmal so klingt. Im Gegenteil: Es geht darum, jeden Moment wirklich zu leben, anstatt auf ein Paradies zu warten. Es geht um die Freiheit, die entsteht, wenn man aufhoert, nach einem grossen Sinn zu suchen, und stattdessen einfach da ist -- mit allem, was dazugehoert.",
+    "kernthesen": [
+      "Auch ohne grossen Sinn im Leben kann man bewusst und stark weiterleben.",
+      "Sisyphos steht fuer jeden Menschen, der trotz allem nicht aufgibt.",
+      "Trotz und Lebenskraft sind die richtige Antwort auf eine sinnlose Welt.",
+      "Man muss die Wirklichkeit klar sehen und sich trotzdem nicht unterkriegen lassen.",
+      "Glueck ist moeglich, auch wenn es keinen uebergeordneten Lebenssinn gibt."
+    ],
+    "entstehung": "Albert Camus entwickelte diese Idee in den 1940er Jahren, vor allem in seinem Essay 'Der Mythos des Sisyphos'. Er suchte eine Antwort auf die Frage: Was tun, wenn das Leben keinen Sinn hat? Seine Antwort: Weitermachen, aber bewusst und ohne sich etwas vorzumachen.",
+    "kritik": "Kritiker fragen sich, ob man wirklich gluecklich sein kann, wenn man weiss, dass alles sinnlos ist. Manche meinen auch, dass die Vorstellung vom 'gluecklichen Sisyphos' selbst eine Art Selbsttaeuschung ist -- also genau das, was Camus eigentlich ablehnt."
+  }
 }

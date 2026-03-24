@@ -20,5 +20,18 @@
     { "titel": "Zur Genealogie der Moral", "autor": "Friedrich Nietzsche", "jahr": "1887" },
     { "titel": "Der Einzige und sein Eigentum", "autor": "Max Stirner", "jahr": "1844" },
     { "titel": "Die 120 Tage von Sodom", "autor": "Marquis de Sade", "jahr": "1785" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Amoralismus sagt: Gut und Boese sind keine echten Tatsachen, sondern von Menschen erfundene Kategorien. Der Mensch sollte jenseits dieser Regeln leben.",
+    "ausfuehrlicheBeschreibung": "Was ist gut? Was ist boese? Fuer Amoralisten sind das keine echten Eigenschaften der Welt, sondern Etiketten, die Menschen erfunden haben. Nietzsche ging sogar weiter und sagte: Die traditionelle Moral -- sei brav, gehorche, opfere dich auf -- wurde von den Schwachen erfunden, um die Starken in Schach zu halten. Gut und Boese sind also Werkzeuge der Macht.\n\nDas heisst nicht, dass Amoralisten einfach alles machen, worauf sie Lust haben. Es geht eher darum, die Regeln, nach denen wir leben, kritisch zu hinterfragen. Warum gilt etwas als gut oder boese? Wer profitiert davon? Nietzsche wollte, dass der Mensch aufhoert, blind Regeln zu folgen, und stattdessen eigene Werte schafft -- Werte, die das Leben bejahen.\n\nDer Amoralismus ist eine radikale Position, die viele Menschen abstosst. Aber seine Grundfrage ist berechtigt: Sind unsere moralischen Regeln wirklich objektiv wahr, oder sind sie das Ergebnis von Geschichte, Kultur und Machtverhaeltnissen? Diese Frage stellen sich auch viele moderne Philosophen, ohne gleich alle Moral abzulehnen.",
+    "kernthesen": [
+      "Gut und Boese sind keine objektiven Tatsachen, sondern von Menschen gemachte Kategorien.",
+      "Traditionelle Moral dient oft dazu, bestimmte Machtverhaeltnisse aufrechtzuerhalten.",
+      "Der Mensch sollte aufhoeren, blind moralischen Regeln zu folgen, und eigene Werte schaffen.",
+      "Moralische Pflichten sind Formen von Fremdbestimmung, die die persoenliche Freiheit einschraenken.",
+      "Wir brauchen eine komplett neue Bewertung dessen, was wirklich wichtig im Leben ist."
+    ],
+    "entstehung": "Schon in der Antike gab es Denker, die Moral als Menschenwerk betrachteten. Max Stirner lehnte 1844 alle moralischen Pflichten ab. Die bekannteste Version stammt von Nietzsche, der in den 1880er Jahren die gesamte westliche Moraltradition radikal in Frage stellte.",
+    "kritik": "Kritiker sagen: Ohne gemeinsame Moral funktioniert kein Zusammenleben. Wer alle Regeln ablehnt, oeffnet die Tuer fuer das Recht des Staerkeren. Ausserdem steckt im Amoralismus selbst eine moralische Annahme: naemlich dass es besser ist, ohne Moral zu leben -- und das ist ja auch eine Wertung."
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Erstes Surrealistisches Manifest", "autor": "André Breton", "jahr": "1924"},
     {"titel": "Die kommunizierenden Röhren", "autor": "André Breton", "jahr": "1932"},
     {"titel": "Die Traumdeutung", "autor": "Sigmund Freud", "jahr": "1900"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Surrealismus will die Grenzen zwischen Traum und Wirklichkeit aufloesen. Er sieht im Unbewussten und in der Fantasie eine hoehere Wahrheit als in der nuechternen Vernunft.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du schreibst einfach drauflos, ohne nachzudenken, ohne zu planen, ohne zu kontrollieren, was aus deiner Feder kommt. Genau das war eine der Methoden der Surrealisten. Sie glaubten, dass unser Verstand uns einsperrt und dass die wirklich spannenden Ideen aus dem Unbewussten kommen - aus Traeumen, Zufaellen und unkontrollierten Gedanken.\n\nAndre Breton gruendete die Bewegung 1924 in Paris. Er war stark von Freuds Psychoanalyse beeinflusst und glaubte, dass Traeume und das Unbewusste uns eine tiefere Wahrheit zeigen als die rationale Welt. Die Surrealisten experimentierten mit automatischem Schreiben, Traumprotokollen und Collagen, um diese verborgene Wirklichkeit anzuzapfen.\n\nDer Surrealismus war nicht nur eine Kunstbewegung, sondern auch ein politisches und philosophisches Programm. Die Befreiung der Fantasie sollte gleichzeitig eine Befreiung der Gesellschaft sein. Bis heute beeinflusst der Surrealismus Kunst, Werbung und Populaerkultur - jedes Mal, wenn du ein absurdes, traumhaftes Bild siehst, steckt ein Stueck Surrealismus darin.",
+    "kernthesen": [
+      "Das Unbewusste ist eine Quelle schoepferischer Kraft, die ueber den Verstand hinausgeht",
+      "Die Grenzen zwischen Traum und Wirklichkeit sollen aufgeloest werden",
+      "Automatisches Schreiben ohne Kontrolle fuehrt zu einer tieferen Wahrheit",
+      "Wenn scheinbar Unvereinbares zusammenkommt, entsteht eine neue, hoehere Realitaet",
+      "Die Befreiung der Fantasie ist gleichzeitig eine politische und kuenstlerische Revolution"
+    ],
+    "entstehung": "Der Surrealismus entstand 1924 in Paris, als Andre Breton das Erste Surrealistische Manifest veroeffentlichte. Die Bewegung entwickelte sich aus dem Dadaismus und wurde stark von Sigmund Freuds Entdeckung des Unbewussten beeinflusst.",
+    "kritik": "Kritiker finden die Methoden der Surrealisten willkuerlich und werfen ihnen vor, das Unbewusste zu romantisieren. Marxisten sahen darin Weltflucht statt echten politischen Kampf, und Rationalisten bemeangelten die Preisgabe der Vernunft."
+  }
 }

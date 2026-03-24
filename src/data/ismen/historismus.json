@@ -20,5 +20,18 @@
     { "titel": "Geschichten der romanischen und germanischen Völker", "autor": "Leopold von Ranke", "jahr": "1824" },
     { "titel": "Die Entstehung des Historismus", "autor": "Friedrich Meinecke", "jahr": "1936" },
     { "titel": "Der Historismus und seine Probleme", "autor": "Ernst Troeltsch", "jahr": "1922" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Historismus sagt: Alles ist durch seine Geschichte gepraegt. Um etwas wirklich zu verstehen, muss man wissen, woher es kommt und in welcher Zeit es entstanden ist.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand sagt dir, ein bestimmtes Verhalten sei schon immer falsch gewesen. Der Historismus wuerde sagen: Moment mal, das kommt drauf an, wann und wo. Was heute als falsch gilt, war vielleicht frueher ganz normal, und umgekehrt. Alles, was Menschen denken, glauben und tun, ist durch die jeweilige Zeit gepraegt. Es gibt keine ewigen Wahrheiten, die fuer alle Zeiten gelten.\n\nDer Historiker Ranke meinte, jede Epoche hat ihren eigenen Wert. Man darf das Mittelalter nicht daran messen, wie wir heute denken. Stattdessen muss man versuchen zu verstehen, wie die Menschen damals ihre Welt gesehen haben. Der Philosoph Dilthey hat das weiter gedacht und gesagt: Die Geisteswissenschaften wie Geschichte oder Literaturwissenschaft funktionieren anders als die Naturwissenschaften. In der Physik erklaert man Dinge durch Gesetze. In der Geschichte muss man sich in die Menschen und ihre Zeit hineinfuehlen.\n\nDas Problem dabei ist: Wenn wirklich alles nur aus seiner Zeit heraus gilt, woher nehmen wir dann Massstaebe, um irgendetwas zu bewerten? Wenn die Moral von gestern nicht mehr gilt und die von heute auch irgendwann ueberholt sein wird, gibt es dann ueberhaupt richtig und falsch? Diese Frage hat den Historismus in eine Krise gestuerzt, die bis heute nachwirkt.",
+    "kernthesen": [
+      "Alles, was Menschen denken und tun, ist durch die jeweilige Zeit und den Ort gepraegt.",
+      "Jede Epoche hat ihren eigenen Wert und darf nicht an heutigen Massstaeben gemessen werden.",
+      "Es gibt keine ewigen Wahrheiten, die fuer alle Zeiten und Kulturen gelten.",
+      "Geschichte versteht man nicht durch Gesetze, sondern durch Einfuehlung in vergangene Lebenswelten.",
+      "Der Mensch ist ein durch und durch geschichtliches Wesen."
+    ],
+    "entstehung": "Der Historismus entstand im 19. Jahrhundert in Deutschland als Gegenbewegung zur Aufklaerung, die an zeitlose Vernunftwahrheiten glaubte. Historiker wie Ranke und Philosophen wie Dilthey haben ihn gepraegt. Anfang des 20. Jahrhunderts geriet er in eine Krise, weil sein Relativismus problematisch wurde.",
+    "kritik": "Der groesste Kritikpunkt ist: Wenn alles relativ und geschichtlich bedingt ist, dann auch der Historismus selbst. Er saegt sozusagen an dem Ast, auf dem er sitzt. Ausserdem kann man fragen, ob zum Beispiel Mathematik oder Logik wirklich nur geschichtlich bedingt sind."
+  }
 }

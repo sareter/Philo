@@ -18,7 +18,9 @@
   },
   "epoche": "Gegenwart",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Philosophie des Geistes"],
+  "hauptstroemungen": [
+    "Philosophie des Geistes"
+  ],
   "kurzbeschreibung": "Thomas Nagel ist ein amerikanischer Philosoph, der grundlegende Beiträge zur Philosophie des Geistes, zur Ethik und zur politischen Philosophie geleistet hat. Sein berühmter Aufsatz 'Wie ist es, eine Fledermaus zu sein?' wurde zum Klassiker der Bewusstseinsphilosophie. Nagel vertritt einen anti-reduktionistischen Standpunkt und argumentiert, dass das Bewusstsein nicht vollständig physikalisch erklärt werden kann.",
   "biografie": {
     "fruehesLeben": "Thomas Nagel wurde 1937 in Belgrad geboren und emigrierte als Kind in die USA. Er studierte an der Cornell University, der Oxford University und der Harvard University, wo er bei John Rawls promovierte. Früh zeigte sich sein Interesse an grundlegenden philosophischen Fragen.",
@@ -77,6 +79,59 @@
       "quelle": "Der Blick von nirgendwo"
     }
   ],
-  "verwandtePhilosophen": ["john-rawls", "daniel-dennett", "derek-parfit", "frank-jackson"],
-  "verwandteIsmen": ["philosophie-des-geistes"]
+  "verwandtePhilosophen": [
+    "john-rawls",
+    "daniel-dennett",
+    "derek-parfit",
+    "frank-jackson"
+  ],
+  "verwandteIsmen": [
+    "philosophie-des-geistes"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Thomas Nagel ist ein amerikanischer Philosoph, der grundlegende Beitraege zur Philosophie des Geistes, zur Ethik und zur politischen Philosophie geleistet hat. Sein beruehmter Aufsatz 'Wie ist es, eine Fledermaus zu sein?' wurde zum Klassiker der Bewusstseinsphilosophie. Nagel vertritt einen anti-reduktionistischen Standpunkt und argumentiert, dass das Bewusstsein nicht vollstaendig physikalisch erklaert werden kann.",
+    "biografie": {
+      "fruehesLeben": "Thomas Nagel wurde 1937 in Belgrad geboren und emigrierte als Kind in die USA. Er studierte an der Cornell University, der Oxford University und der Harvard University, wo er bei John Rawls promovierte. Frueh zeigte sich sein Interesse an grundlegenden philosophischen Fragen.",
+      "schaffen": "Nagel lehrte an der Princeton University und ab 1980 an der New York University. Sein Aufsatz 'What Is It Like to Be a Bat?' (1974) wurde zum einflussreichsten Text der Bewusstseinsphilosophie. Darin argumentiert er, dass subjektive Erfahrung einen irreduziblen Aspekt der Wirklichkeit darstellt, der durch keine physikalische Theorie eingefangen werden kann.",
+      "spaetesLeben": "Mit 'Mind and Cosmos' (2012) provozierte Nagel eine heftige Debatte, indem er den reduktiven Materialismus als philosophisch unzureichend kritisierte und fuer einen natuerlichen Teleologismus plaedierte. Obwohl selbst Atheist, argumentierte er, dass die materialistische Weltsicht das Bewusstsein nicht erklaeren kann.",
+      "tod": "Thomas Nagel lebt in New York und ist emeritierter Professor der New York University. Er gilt als einer der bedeutendsten analytischen Philosophen der Gegenwart.",
+      "nachwirkung": "Nagels Argument gegen den Reduktionismus hat die Philosophie des Geistes nachhaltig gepraegt. Sein Fledermaus-Aufsatz ist der meistzitierte Text der Bewusstseinsphilosophie. Seine Verbindung von analytischer Philosophie mit existentiellen Fragen hat neue Wege in der Philosophie eroeffnet."
+    },
+    "kernideen": [
+      {
+        "titel": "Subjektive Erfahrung und das Fledermaus-Problem",
+        "beschreibung": "Es gibt etwas, wie es ist, eine Fledermaus zu sein – eine subjektive Erfahrung, die wir nicht vollstaendig verstehen koennen, auch wenn wir alles ueber die Neurobiologie der Fledermaus wissen. Das Bewusstsein hat eine irreduzibel subjektive Dimension, die keine objektive Wissenschaft einfangen kann."
+      },
+      {
+        "titel": "Der Blick von nirgendwo (The View from Nowhere)",
+        "beschreibung": "Die Philosophie steht in einem Spannungsverhaeltnis zwischen der subjektiven Perspektive des Einzelnen und dem Streben nach objektiver Wahrheit. Wir koennen nie ganz vom 'Blick von nirgendwo' aus denken, aber wir koennen auch nicht bei der reinen Subjektivitaet stehenbleiben."
+      },
+      {
+        "titel": "Kritik des Reduktionismus",
+        "beschreibung": "Der materialistische Reduktionismus kann das Bewusstsein nicht erklaeren. Die Existenz subjektiver Erfahrung zeigt, dass die Wirklichkeit mehr enthaelt als das, was die Physik beschreibt. Dies bedeutet nicht, dass es Geister gibt, sondern dass unsere Naturwissenschaft unvollstaendig ist."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Wie ist es, eine Fledermaus zu sein? (What Is It Like to Be a Bat?)",
+        "jahr": "1974",
+        "beschreibung": "Der beruehmteste Aufsatz der Bewusstseinsphilosophie, der die Irreduzibilitaet subjektiver Erfahrung argumentiert."
+      },
+      {
+        "titel": "Der Blick von nirgendwo (The View from Nowhere)",
+        "jahr": "1986",
+        "beschreibung": "Nagels philosophisches Hauptwerk ueber das Spannungsverhaeltnis zwischen subjektiver und objektiver Perspektive in Erkenntnistheorie, Ethik und Philosophie des Geistes."
+      },
+      {
+        "titel": "Geist und Kosmos (Mind and Cosmos)",
+        "jahr": "2012",
+        "beschreibung": "Eine provokante Kritik des materialistischen Naturalismus, die argumentiert, dass Bewusstsein und Werte natuerliche Teleologie voraussetzen."
+      },
+      {
+        "titel": "Die Moeglichkeit des Altruismus (The Possibility of Altruism)",
+        "jahr": "1970",
+        "beschreibung": "Nagels erstes Buch, das die rationale Grundlage des Altruismus und der unparteiischen moralischen Erwaegung untersucht."
+      }
+    ]
+  }
 }

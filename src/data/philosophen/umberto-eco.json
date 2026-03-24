@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Semiotik", "Strukturalismus"],
+  "hauptstroemungen": [
+    "Semiotik",
+    "Strukturalismus"
+  ],
   "kurzbeschreibung": "Umberto Eco war ein italienischer Semiotiker, Philosoph und Romancier, der als einer der bedeutendsten Intellektuellen des 20. Jahrhunderts gilt. Er entwickelte eine allgemeine Theorie der Zeichen und der Interpretation und wurde durch seinen Roman 'Der Name der Rose' weltberühmt. Sein Werk verbindet akademische Semiotik mit literarischer Praxis und kulturkritischer Analyse.",
   "biografie": {
     "fruehesLeben": "Umberto Eco wurde 1932 in Alessandria im Piemont geboren. Er studierte mittelalterliche Philosophie und Ästhetik an der Universität Turin und promovierte über die Ästhetik Thomas von Aquins.",
@@ -84,6 +87,64 @@
       "kontext": "Ecos Position zwischen hermeneutischer Offenheit und dem Beharren auf Interpretationsstandards."
     }
   ],
-  "verwandtePhilosophen": ["charles-sanders-peirce", "ferdinand-de-saussure", "gianni-vattimo", "benedetto-croce"],
-  "verwandteIsmen": ["semiotik", "strukturalismus"]
+  "verwandtePhilosophen": [
+    "charles-sanders-peirce",
+    "ferdinand-de-saussure",
+    "gianni-vattimo",
+    "benedetto-croce"
+  ],
+  "verwandteIsmen": [
+    "semiotik",
+    "strukturalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Umberto Eco war ein italienischer Semiotiker, Philosoph und Romancier, der als einer der bedeutendsten Intellektuellen des 20. Jahrhunderts gilt. Er entwickelte eine allgemeine Theorie der Zeichen und der Interpretation und wurde durch seinen Roman 'Der Name der Rose' weltberuehmt. Sein Werk verbindet akademische Semiotik mit literarischer Praxis und kulturkritischer Analyse.",
+    "biografie": {
+      "fruehesLeben": "Umberto Eco wurde 1932 in Alessandria im Piemont geboren. Er studierte mittelalterliche Philosophie und Aesthetik an der Universitaet Turin und promovierte ueber die Aesthetik Thomas von Aquins.",
+      "schaffen": "Eco entwickelte eine umfassende Theorie der Semiotik (Zeichenlehre), die in 'A Theory of Semiotics' (1976) ihren systematischen Ausdruck fand. Sein Konzept des 'offenen Kunstwerks' (1962) revolutionierte die Aesthetik. Mit 'Der Name der Rose' (1980) gelang ihm ein Welterfolg, der semiotische Theorie und historischen Krimi verband.",
+      "spaetesLeben": "Eco war Professor fuer Semiotik an der Universitaet Bologna und einer der meistgelesenen Intellektuellen der Welt. Er publizierte bis zu seinem Tod Romane, akademische Werke und kulturkritische Essays.",
+      "tod": "Umberto Eco starb 2016 in Mailand an den Folgen einer Krebserkrankung. Sein Tod wurde als Verlust eines der letzten grossen europaeischen Universalgelehrten betrauert.",
+      "nachwirkung": "Ecos Semiotik hat die Zeichen- und Medientheorie tiefgreifend gepraegt. Seine Romane haben die Verbindung von intellektuellem Anspruch und populaerer Erzaehlung zu einem literarischen Modell gemacht."
+    },
+    "kernideen": [
+      {
+        "titel": "Semiotik als allgemeine Kulturtheorie",
+        "beschreibung": "Die gesamte menschliche Kultur kann als ein System von Zeichen verstanden werden. Semiotik untersucht, wie Zeichen Bedeutung erzeugen, und ist damit die Grundlagenwissenschaft aller Kulturwissenschaften."
+      },
+      {
+        "titel": "Das offene Kunstwerk",
+        "beschreibung": "Moderne Kunstwerke sind 'offen': Sie legen ihre Bedeutung nicht fest, sondern laden den Rezipienten zur aktiven Mitgestaltung des Sinns ein. Jede Interpretation ist eine 'Auffuehrung' des Werks, die es neu realisiert."
+      },
+      {
+        "titel": "Die Grenzen der Interpretation",
+        "beschreibung": "Obwohl Texte prinzipiell unendlich viele Interpretationen zulassen, gibt es Grenzen der Interpretation: Nicht jede Lesart ist gleich gueltig. Der Text selbst setzt seiner Deutung Widerstaende entgegen."
+      },
+      {
+        "titel": "Der Modell-Leser",
+        "beschreibung": "Jeder Text konstruiert seinen idealen Leser – den 'Modell-Leser', der die vom Text vorgesehenen Interpretationsstrategien anwendet. Die Analyse dieses Modell-Lesers ist ein Schluessel zum Verstaendnis der Textstruktur."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Il nome della rosa (Der Name der Rose)",
+        "jahr": "1980",
+        "beschreibung": "Ecos erster und beruehmtester Roman, ein historischer Kriminalroman in einem mittelalterlichen Kloster, der zugleich ein Meisterwerk semiotischer Literatur ist."
+      },
+      {
+        "titel": "Opera aperta (Das offene Kunstwerk)",
+        "jahr": "1962",
+        "beschreibung": "Ecos bahnbrechende aesthetische Schrift, die die Offenheit und Mehrdeutigkeit moderner Kunstwerke als deren wesentliches Merkmal beschreibt."
+      },
+      {
+        "titel": "A Theory of Semiotics (Einfuehrung in die Semiotik)",
+        "jahr": "1976",
+        "beschreibung": "Ecos systematisches semiotisches Hauptwerk, das eine umfassende Theorie der Zeichenprozesse und der kulturellen Bedeutungsproduktion entwirft."
+      },
+      {
+        "titel": "I limiti dell'interpretazione (Die Grenzen der Interpretation)",
+        "jahr": "1990",
+        "beschreibung": "Eine Kritik der unbegrenzten Semiose, die gegen den Dekonstruktivismus die Grenzen gueltiger Interpretation verteidigt."
+      }
+    ]
+  }
 }

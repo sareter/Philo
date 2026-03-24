@@ -11,13 +11,43 @@
     "Gelassenheit – das Loslassen aller Vorstellungen – öffnet den Zugang zum göttlichen Urgrund.",
     "Die Gottheit jenseits von Gott übersteigt alle Kategorien von Sein und Nichtsein."
   ],
-  "hauptvertreter": ["meister-eckhart"],
+  "hauptvertreter": [
+    "meister-eckhart"
+  ],
   "entstehung": "Die apophatische Tradition beginnt bei Platon und wird durch Pseudo-Dionysius Areopagita im 5. Jahrhundert systematisiert. Im Mittelalter entwickelte Meister Eckhart die radikalste Form der negativen Theologie in der westlichen Tradition, beeinflusst durch Neuplatonismus und christliche Mystik.",
   "kritik": "Dem Apophatismus wird vorgeworfen, dass er in einen Agnostizismus mündet, der keine sinnvollen Aussagen über Gott mehr zulässt. Wenn nichts Positives über Gott gesagt werden kann, droht der Gottesbegriff jede Bedeutung zu verlieren. Zudem können die mystischen Erfahrungen, auf die sich der Apophatismus beruft, weder intersubjektiv überprüft noch kommuniziert werden.",
-  "verwandteIsmen": ["mystizismus", "theismus"],
+  "verwandteIsmen": [
+    "mystizismus",
+    "theismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Deutsche Predigten und Traktate", "autor": "Meister Eckhart", "jahr": "1310"},
-    {"titel": "Über die mystische Theologie", "autor": "Pseudo-Dionysius Areopagita", "jahr": "500"},
-    {"titel": "Die Wolke des Nichtwissens", "autor": "Unbekannt", "jahr": "1370"}
-  ]
+    {
+      "titel": "Deutsche Predigten und Traktate",
+      "autor": "Meister Eckhart",
+      "jahr": "1310"
+    },
+    {
+      "titel": "Über die mystische Theologie",
+      "autor": "Pseudo-Dionysius Areopagita",
+      "jahr": "500"
+    },
+    {
+      "titel": "Die Wolke des Nichtwissens",
+      "autor": "Unbekannt",
+      "jahr": "1370"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Apophatismus, auch negative Theologie genannt, ist die Methode, Gott ausschliesslich durch Verneinung zu bestimmen.",
+    "ausfuehrlicheBeschreibung": "Der Apophatismus oder die negative Theologie vertritt die Auffassung, dass das goettliche Wesen alle menschlichen Begriffe und Vorstellungen uebersteigt und daher nur durch Negationen angemessen beschrieben werden kann. Gott ist nicht gut (im menschlichen Sinne), nicht maechtig (im menschlichen Sinne), nicht seiend (im gewoehnlichen Sinne) – er transzendiert alle Kategorien, die auf endliche Wesen anwendbar sind. Diese Methode der systematischen Verneinung soll verhindern, dass Gott auf menschliche Massstaebe reduziert wird.\n\nMeister Eckhart, der bedeutendste Vertreter der deutschen Mystik, radikalisierte die apophatische Tradition in einzigartiger Weise. Er sprach von Gott als der 'wuesten Gottheit' jenseits aller Bestimmungen und Eigenschaften. Das hoechste mystische Erlebnis besteht fuer Eckhart in der Gelassenheit – dem Loslassen aller Vorstellungen, auch der Vorstellung von Gott selbst –, um in den Urgrund der Gottheit einzugehen, der jenseits von Sein und Nichtsein liegt.\n\nDie apophatische Tradition hat Wurzeln bei Pseudo-Dionysius Areopagita und reicht ueber die mittelalterliche Mystik bis in die moderne Philosophie. Jacques Derridas Dekonstruktion und Emmanuel Levinas' Philosophie der Alteritaet tragen apophatische Zuege, insofern sie die Unzulaenglichkeit aller begrifflichen Bestimmungen gegenueber dem radikal Anderen betonen. Der Apophatismus erinnert daran, dass die tiefsten Wirklichkeiten moeglicherweise jenseits der Sprache liegen.",
+    "kernthesen": [
+      "Gott uebersteigt alle menschlichen Begriffe und kann nur durch Verneinung bestimmt werden.",
+      "Positive Aussagen ueber Gott reduzieren das Goettliche auf menschliche Massstaebe.",
+      "Die hoechste Gotteserkenntnis besteht im Wissen um das eigene Nichtwissen.",
+      "Gelassenheit – das Loslassen aller Vorstellungen – oeffnet den Zugang zum goettlichen Urgrund.",
+      "Die Gottheit jenseits von Gott uebersteigt alle Kategorien von Sein und Nichtsein."
+    ],
+    "entstehung": "Die apophatische Tradition beginnt bei Platon und wird durch Pseudo-Dionysius Areopagita im 5. Jahrhundert systematisiert. Im Mittelalter entwickelte Meister Eckhart die radikalste Form der negativen Theologie in der westlichen Tradition, beeinflusst durch Neuplatonismus und christliche Mystik.",
+    "kritik": "Dem Apophatismus wird vorgeworfen, dass er in einen Agnostizismus muendet, der keine sinnvollen Aussagen ueber Gott mehr zulaesst. Wenn nichts Positives ueber Gott gesagt werden kann, droht der Gottesbegriff jede Bedeutung zu verlieren. Zudem koennen die mystischen Erfahrungen, auf die sich der Apophatismus beruft, weder intersubjektiv ueberprueft noch kommuniziert werden."
+  }
 }

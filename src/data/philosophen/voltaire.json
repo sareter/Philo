@@ -2,11 +2,27 @@
   "slug": "voltaire",
   "name": "Voltaire",
   "lebensdaten": "1694–1778",
-  "geboren": { "jahr": 1694, "ort": "Paris", "land": "Frankreich", "lat": 48.8566, "lng": 2.3522 },
-  "gestorben": { "jahr": 1778, "ort": "Paris", "land": "Frankreich", "lat": 48.8566, "lng": 2.3522 },
+  "geboren": {
+    "jahr": 1694,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "gestorben": {
+    "jahr": 1778,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
   "epoche": "Aufklärung",
   "region": "Frankreich",
-  "hauptstroemungen": ["Aufklärung", "Deismus", "Toleranz"],
+  "hauptstroemungen": [
+    "Aufklärung",
+    "Deismus",
+    "Toleranz"
+  ],
   "kurzbeschreibung": "Voltaire, eigentlich François-Marie Arouet, war der wortgewaltigste und einflussreichste Schriftsteller der französischen Aufklärung. Mit seinem scharfen Witz, seiner beißenden Satire und seinem unermüdlichen Kampf gegen Fanatismus, Aberglauben und Ungerechtigkeit wurde er zum Inbegriff des aufklärerischen Intellektuellen. Sein philosophischer Roman 'Candide' und seine Kampagnen für religiöse Toleranz machten ihn zur Ikone der Gedankenfreiheit.",
   "biografie": {
     "fruehesLeben": "François-Marie Arouet, der sich später Voltaire nannte, wurde am 21. November 1694 in Paris als Sohn des wohlhabenden Notars François Arouet geboren. Er besuchte das Jesuitenkolleg Louis-le-Grand, wo er eine exzellente klassische Bildung erhielt und sein literarisches Talent entwickelte. Sein Vater drängte ihn zum Jurastudium, doch der junge Arouet widmete sich lieber der Literatur und dem gesellschaftlichen Leben der Pariser Salons. Seine spitze Zunge und seine satirischen Verse brachten ihn mehrfach in Schwierigkeiten: 1717 wurde er für elf Monate in die Bastille geworfen, weil er dem Regenten Philippe d'Orléans satirische Verse gewidmet hatte. In der Haft begann er sein erstes Theaterstück 'Œdipe' und nahm das Pseudonym Voltaire an.",
@@ -34,20 +50,124 @@
     }
   ],
   "werke": [
-    { "titel": "Candide ou l'Optimisme", "jahr": "1759", "beschreibung": "Voltaires berühmtester philosophischer Roman, eine satirische Abrechnung mit dem Leibnizschen Optimismus, die den naiven Jüngling Candide durch eine Welt voller Katastrophen führt." },
-    { "titel": "Lettres philosophiques (Philosophische Briefe)", "jahr": "1734", "beschreibung": "Eine Darstellung der englischen Philosophie, Wissenschaft und Politik, die als verschleierte Kritik am französischen Absolutismus gelesen wurde und Voltaire ins Exil trieb." },
-    { "titel": "Traité sur la tolérance", "jahr": "1763", "beschreibung": "Eine leidenschaftliche Verteidigung der religiösen Toleranz, verfasst anlässlich des Falls Jean Calas, die zu den Gründungstexten der modernen Menschenrechtsidee zählt." },
-    { "titel": "Dictionnaire philosophique (Philosophisches Wörterbuch)", "jahr": "1764", "beschreibung": "Eine alphabetisch geordnete Sammlung philosophischer und satirischer Artikel, die Voltaires aufklärerische Kritik an Religion, Aberglauben und Despotismus bündelt." },
-    { "titel": "Le Siècle de Louis XIV", "jahr": "1751", "beschreibung": "Ein Meisterwerk der Geschichtsschreibung, das die Epoche Ludwigs XIV. als Kulturgeschichte darstellt und damit die Geschichtswissenschaft modernisierte." },
-    { "titel": "Zadig ou la Destinée", "jahr": "1747", "beschreibung": "Ein philosophischer Roman über den weisen Babylonier Zadig, der trotz seiner Tugend und Klugheit vom Schicksal verfolgt wird – eine Meditation über Vorsehung und Zufall." },
-    { "titel": "Micromégas", "jahr": "1752", "beschreibung": "Eine philosophische Erzählung über einen Riesen vom Stern Sirius, der die Erde besucht und die Eitelkeit der Menschen satirisch bloßstellt." }
+    {
+      "titel": "Candide ou l'Optimisme",
+      "jahr": "1759",
+      "beschreibung": "Voltaires berühmtester philosophischer Roman, eine satirische Abrechnung mit dem Leibnizschen Optimismus, die den naiven Jüngling Candide durch eine Welt voller Katastrophen führt."
+    },
+    {
+      "titel": "Lettres philosophiques (Philosophische Briefe)",
+      "jahr": "1734",
+      "beschreibung": "Eine Darstellung der englischen Philosophie, Wissenschaft und Politik, die als verschleierte Kritik am französischen Absolutismus gelesen wurde und Voltaire ins Exil trieb."
+    },
+    {
+      "titel": "Traité sur la tolérance",
+      "jahr": "1763",
+      "beschreibung": "Eine leidenschaftliche Verteidigung der religiösen Toleranz, verfasst anlässlich des Falls Jean Calas, die zu den Gründungstexten der modernen Menschenrechtsidee zählt."
+    },
+    {
+      "titel": "Dictionnaire philosophique (Philosophisches Wörterbuch)",
+      "jahr": "1764",
+      "beschreibung": "Eine alphabetisch geordnete Sammlung philosophischer und satirischer Artikel, die Voltaires aufklärerische Kritik an Religion, Aberglauben und Despotismus bündelt."
+    },
+    {
+      "titel": "Le Siècle de Louis XIV",
+      "jahr": "1751",
+      "beschreibung": "Ein Meisterwerk der Geschichtsschreibung, das die Epoche Ludwigs XIV. als Kulturgeschichte darstellt und damit die Geschichtswissenschaft modernisierte."
+    },
+    {
+      "titel": "Zadig ou la Destinée",
+      "jahr": "1747",
+      "beschreibung": "Ein philosophischer Roman über den weisen Babylonier Zadig, der trotz seiner Tugend und Klugheit vom Schicksal verfolgt wird – eine Meditation über Vorsehung und Zufall."
+    },
+    {
+      "titel": "Micromégas",
+      "jahr": "1752",
+      "beschreibung": "Eine philosophische Erzählung über einen Riesen vom Stern Sirius, der die Erde besucht und die Eitelkeit der Menschen satirisch bloßstellt."
+    }
   ],
   "zitate": [
-    { "text": "Écrasez l'infâme! – Zermalmt das Niederträchtige!", "quelle": "Briefwechsel", "kontext": "Voltaires berühmter Schlachtruf gegen religiösen Fanatismus und institutionalisierte Intoleranz, mit dem er viele seiner Briefe unterzeichnete." },
-    { "text": "Il faut cultiver notre jardin. – Wir müssen unseren Garten bestellen.", "quelle": "Candide, letztes Kapitel", "kontext": "Der berühmte Schlusssatz des Candide, der als Plädoyer für praktisches Handeln statt metaphysischer Spekulation gelesen wird." },
-    { "text": "Wenn Gott nicht existierte, müsste man ihn erfinden.", "quelle": "Épître à l'auteur du livre des Trois Imposteurs (1768)", "kontext": "Voltaires pragmatisches Argument für den Gottesglauben: Religion ist als moralische Stütze der Gesellschaft notwendig." },
-    { "text": "Ich bin nicht einverstanden mit dem, was Sie sagen, aber ich werde bis zum Tod Ihr Recht verteidigen, es zu sagen.", "quelle": "Fälschlich Voltaire zugeschrieben (Evelyn Beatrice Hall, 1906)", "kontext": "Obwohl nicht von Voltaire selbst formuliert, drückt dieses Zitat den Geist seiner Philosophie der Redefreiheit treffend aus." }
+    {
+      "text": "Écrasez l'infâme! – Zermalmt das Niederträchtige!",
+      "quelle": "Briefwechsel",
+      "kontext": "Voltaires berühmter Schlachtruf gegen religiösen Fanatismus und institutionalisierte Intoleranz, mit dem er viele seiner Briefe unterzeichnete."
+    },
+    {
+      "text": "Il faut cultiver notre jardin. – Wir müssen unseren Garten bestellen.",
+      "quelle": "Candide, letztes Kapitel",
+      "kontext": "Der berühmte Schlusssatz des Candide, der als Plädoyer für praktisches Handeln statt metaphysischer Spekulation gelesen wird."
+    },
+    {
+      "text": "Wenn Gott nicht existierte, müsste man ihn erfinden.",
+      "quelle": "Épître à l'auteur du livre des Trois Imposteurs (1768)",
+      "kontext": "Voltaires pragmatisches Argument für den Gottesglauben: Religion ist als moralische Stütze der Gesellschaft notwendig."
+    },
+    {
+      "text": "Ich bin nicht einverstanden mit dem, was Sie sagen, aber ich werde bis zum Tod Ihr Recht verteidigen, es zu sagen.",
+      "quelle": "Fälschlich Voltaire zugeschrieben (Evelyn Beatrice Hall, 1906)",
+      "kontext": "Obwohl nicht von Voltaire selbst formuliert, drückt dieses Zitat den Geist seiner Philosophie der Redefreiheit treffend aus."
+    }
   ],
-  "verwandtePhilosophen": ["jean-jacques-rousseau", "denis-diderot", "montesquieu", "david-hume", "john-locke"],
-  "verwandteIsmen": ["aufklaerung", "deismus", "liberalismus"]
+  "verwandtePhilosophen": [
+    "jean-jacques-rousseau",
+    "denis-diderot",
+    "montesquieu",
+    "david-hume",
+    "john-locke"
+  ],
+  "verwandteIsmen": [
+    "aufklaerung",
+    "deismus",
+    "liberalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Voltaire, eigentlich François-Marie Arouet, war der wortgewaltigste und einflussreichste Schriftsteller der franzoesischen Aufklaerung. Mit seinem scharfen Witz, seiner beissenden Satire und seinem unermuedlichen Kampf gegen Fanatismus, Aberglauben und Ungerechtigkeit wurde er zum Inbegriff des aufklaererischen Intellektuellen. Sein philosophischer Roman 'Candide' und seine Kampagnen fuer religioese Toleranz machten ihn zur Ikone der Gedankenfreiheit.",
+    "biografie": {
+      "fruehesLeben": "François-Marie Arouet, der sich spaeter Voltaire nannte, wurde am 21. November 1694 in Paris als Sohn des wohlhabenden Notars François Arouet geboren. Er besuchte das Jesuitenkolleg Louis-le-Grand, wo er eine exzellente klassische Bildung erhielt und sein literarisches Talent entwickelte. Sein Vater draengte ihn zum Jurastudium, doch der junge Arouet widmete sich lieber der Literatur und dem gesellschaftlichen Leben der Pariser Salons. Seine spitze Zunge und seine satirischen Verse brachten ihn mehrfach in Schwierigkeiten: 1717 wurde er fuer elf Monate in die Bastille geworfen, weil er dem Regenten Philippe d'Orléans satirische Verse gewidmet hatte. In der Haft begann er sein erstes Theaterstueck 'Œdipe' und nahm das Pseudonym Voltaire an.",
+      "schaffen": "Voltaires literarisches Schaffen war von ueberwaeltigender Produktivitaet und Vielfalt: Er schrieb Tragoedien, Komoedien, Epen, philosophische Erzaehlungen, historische Werke, Essays, Pamphlete und eine ungeheure Korrespondenz (ueber 20.000 erhaltene Briefe). Sein philosophischer Roman 'Candide ou l'Optimisme' (1759) ist eine der brillantesten Satiren der Weltliteratur: In der Geschichte des naiven Juenglings Candide, der von seinem Lehrer Pangloss gelernt hat, in der 'besten aller moeglichen Welten' zu leben, und nun eine Katastrophe nach der anderen erlebt, parodiert Voltaire den Optimismus von Leibniz. Die Loesung liegt nicht in philosophischen Systemen, sondern im praktischen Handeln: 'Il faut cultiver notre jardin' (Wir muessen unseren Garten bestellen).",
+      "spaetesLeben": "Nach einem dreijaehrigen Aufenthalt am Hof Friedrichs des Grossen in Potsdam (1750–1753), der mit einem Zerwuerfnis endete, liess sich Voltaire 1755 in der Naehe von Genf nieder und erwarb 1759 das Gut Ferney an der franzoesisch-schweizerischen Grenze, wo er als 'Patriarch von Ferney' ein quasi-fuerstliches Leben fuehrte und Besucher aus ganz Europa empfing. Von Ferney aus fuehrte er seine beruehmten Kampagnen gegen Justizirrtuemer und religioese Verfolgung, insbesondere den Fall Jean Calas (1762), eines protestantischen Kaufmanns, der faelschlich des Mordes an seinem Sohn beschuldigt und auf dem Rad hingerichtet worden war. Voltaires unermuedlicher Einsatz fuehrte zur posthumen Rehabilitierung von Calas und machte ihn zum Vorbild des engagierten Intellektuellen.",
+      "tod": "Im Februar 1778 kehrte der 83-jaehrige Voltaire nach fast dreissig Jahren im Exil triumphal nach Paris zurueck. Er wurde von der Bevoelkerung enthusiastisch gefeiert und erlebte noch die Auffuehrung seiner letzten Tragoedie 'Irène'. Die Aufregung und Anstrengung erschoepften ihn jedoch, und er starb am 30. Mai 1778 in Paris. Da die Kirche ihm ein christliches Begraebnis verweigerte, wurden seine sterblichen Ueberreste heimlich ausserhalb der Stadt beigesetzt. 1791, waehrend der Franzoesischen Revolution, wurden sie im Triumph ins Panthéon ueberfuehrt.",
+      "nachwirkung": "Voltaire ist die Verkoerperung der Aufklaerung. Sein Name steht fuer den Kampf gegen Fanatismus, Aberglauben und Tyrannei. Sein Einfluss auf die Franzoesische Revolution, den Liberalismus und die Menschenrechtsbewegung ist immens. Das ihm (faelschlich) zugeschriebene Zitat 'Ich missbillige, was Sie sagen, aber ich werde bis zum Tod Ihr Recht verteidigen, es zu sagen' ist zum Inbegriff der Redefreiheit geworden. Seine philosophischen Erzaehlungen werden weltweit gelesen, und 'Candide' gehoert zum Kanon der Weltliteratur."
+    },
+    "kernideen": [
+      {
+        "titel": "Kampf gegen Fanatismus und Intoleranz",
+        "beschreibung": "Voltaires lebenslanges Projekt war der Kampf gegen religioesen Fanatismus, Aberglauben und Intoleranz. Sein Schlachtruf 'Écrasez l'infâme!' (Zermalmt das Niedertraechtige!) richtete sich gegen die institutionalisierte religioese Intoleranz."
+      },
+      {
+        "titel": "Deismus",
+        "beschreibung": "Voltaire glaubte an einen Schoepfergott, der das Universum wie ein Uhrmacher geschaffen hat, aber nicht in den Lauf der Welt eingreift. Er lehnte Offenbarung, Wunder und die organisierte Religion ab, hielt aber an einem vernunftgemaessen Gottesglauben fest."
+      },
+      {
+        "titel": "Kritik am philosophischen Optimismus",
+        "beschreibung": "In 'Candide' und im 'Poème sur le désastre de Lisbonne' kritisierte Voltaire den Leibnizschen Optimismus, dass wir in der 'besten aller moeglichen Welten' leben. Das Erdbeben von Lissabon 1755 war fuer ihn ein Beweis gegen jeden naiven Optimismus."
+      },
+      {
+        "titel": "Praktische Philosophie des Gartenbaus",
+        "beschreibung": "Die beruehmte Schlussfolgerung des 'Candide' – 'Wir muessen unseren Garten bestellen' – bedeutet, dass statt metaphysischer Spekulation praktisches, nuetzliches Handeln im Alltag den Weg zum Glueck weist."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Candide ou l'Optimisme",
+        "jahr": "1759",
+        "beschreibung": "Voltaires beruehmtester philosophischer Roman, eine satirische Abrechnung mit dem Leibnizschen Optimismus, die den naiven Juengling Candide durch eine Welt voller Katastrophen fuehrt."
+      },
+      {
+        "titel": "Lettres philosophiques (Philosophische Briefe)",
+        "jahr": "1734",
+        "beschreibung": "Eine Darstellung der englischen Philosophie, Wissenschaft und Politik, die als verschleierte Kritik am franzoesischen Absolutismus gelesen wurde und Voltaire ins Exil trieb."
+      },
+      {
+        "titel": "Traité sur la tolérance",
+        "jahr": "1763",
+        "beschreibung": "Eine leidenschaftliche Verteidigung der religioesen Toleranz, verfasst anlaesslich des Falls Jean Calas, die zu den Gruendungstexten der modernen Menschenrechtsidee zaehlt."
+      },
+      {
+        "titel": "Dictionnaire philosophique (Philosophisches Woerterbuch)",
+        "jahr": "1764",
+        "beschreibung": "Eine alphabetisch geordnete Sammlung philosophischer und satirischer Artikel, die Voltaires aufklaererische Kritik an Religion, Aberglauben und Despotismus buendelt."
+      }
+    ]
+  }
 }

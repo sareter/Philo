@@ -20,5 +20,18 @@
     { "titel": "Strukturale Anthropologie", "autor": "Claude Lévi-Strauss", "jahr": "1958" },
     { "titel": "Mythologies", "autor": "Roland Barthes", "jahr": "1957" },
     { "titel": "Die Ordnung der Dinge", "autor": "Michel Foucault", "jahr": "1966" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Strukturalismus sagt: Hinter allem, was Menschen tun - Sprache, Kultur, Mythen - stecken verborgene Muster und Strukturen, die wichtiger sind als die einzelnen Akteure.",
+    "ausfuehrlicheBeschreibung": "Stell dir eine Sprache vor. Jedes einzelne Wort hat fuer sich genommen keine feste Bedeutung - es bekommt seine Bedeutung erst dadurch, dass es sich von anderen Woertern unterscheidet. Kalt bedeutet etwas, weil es warm gibt. Der Strukturalismus nimmt diese Idee und wendet sie auf alles an: Kultur, Mythen, Literatur, sogar die menschliche Psyche.\n\nDie Grundidee kommt vom Sprachwissenschaftler Saussure. Claude Levi-Strauss uebertrug sie auf Kulturen und zeigte: Mythen aus voellig verschiedenen Kulturen haben erstaunlich aehnliche Strukturen. Roland Barthes analysierte Alltagsphaenomene wie Werbung und Wrestling als Zeichensysteme mit verborgenen Botschaften. Ueberall fanden die Strukturalisten: Nicht der einzelne Mensch ist entscheidend, sondern die Strukturen, in denen er steckt.\n\nDas war ziemlich provokant, weil es heisst: Du bist nicht so frei und individuell, wie du denkst. Die Strukturen deiner Sprache, deiner Kultur und deiner Gesellschaft bestimmen viel mehr, als dir bewusst ist. Der Strukturalismus hat die Geistes- und Sozialwissenschaften revolutioniert, bevor er vom Poststrukturalismus abgeloest wurde.",
+    "kernthesen": [
+      "Hinter kulturellen Phaenomenen stecken verborgene Strukturen, die den Beteiligten oft nicht bewusst sind",
+      "Die Bedeutung eines Elements ergibt sich aus seinen Unterschieden zu anderen Elementen im System",
+      "Sprachliche Zeichen sind willkuerlich - es gibt keinen natuerlichen Zusammenhang zwischen Wort und Ding",
+      "Universelle Strukturen des menschlichen Geistes liegen allen Kulturen zugrunde",
+      "Nicht der einzelne Mensch, sondern die Struktur ist der Ausgangspunkt der Analyse"
+    ],
+    "entstehung": "Der Strukturalismus entstand in den 1950er und 1960er Jahren in Frankreich, basierend auf Saussures Sprachwissenschaft vom Anfang des 20. Jahrhunderts. Levi-Strauss uebertrug den Ansatz auf die Ethnologie und loeeste damit eine intellektuelle Revolution aus. In den 1960ern wurde der Strukturalismus zur dominierenden Denkrichtung in Frankreich.",
+    "kritik": "Kritiker finden es problematisch, dass der Strukturalismus den einzelnen Menschen und seine Freiheit fast komplett ausblendet. Die Behauptung universeller Strukturen des Geistes laesst sich kaum beweisen. Ausserdem wurde kritisiert, dass der Strukturalismus zu abstrakt ist und die gelebte Erfahrung ignoriert."
+  }
 }

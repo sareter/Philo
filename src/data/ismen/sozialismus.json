@@ -20,5 +20,18 @@
     { "titel": "Utopia", "autor": "Thomas Morus", "jahr": "1516" },
     { "titel": "Die Voraussetzungen des Sozialismus", "autor": "Eduard Bernstein", "jahr": "1899" },
     { "titel": "Das Kapital im 21. Jahrhundert", "autor": "Thomas Piketty", "jahr": "2013" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Sozialismus will, dass Fabriken, Land und andere Produktionsmittel nicht einigen wenigen Reichen gehoeren, sondern der Allgemeinheit - damit alle fair behandelt werden.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, ein Fabrikbesitzer verdient Millionen, waehrend seine Arbeiter kaum genug zum Leben haben. Der Sozialismus sagt: Das ist grundlegend unfair. Die Loesung? Die Fabriken und Ressourcen sollen nicht Einzelpersonen gehoeren, sondern der Gemeinschaft. So soll verhindert werden, dass wenige auf Kosten vieler reich werden.\n\nDie Idee ist alt, aber richtig gross wurde sie im 19. Jahrhundert, als die Arbeitsbedingungen in den Fabriken katastrophal waren. Karl Marx analysierte den Kapitalismus und sagte voraus, dass er irgendwann zusammenbrechen wuerde. Es gab aber auch andere Ansaetze: Manche wollten Modellgemeinschaften gruenden, andere den Wandel durch demokratische Reformen erreichen.\n\nIm 20. Jahrhundert wurde der Sozialismus in vielen Laendern ausprobiert - mit sehr unterschiedlichen Ergebnissen. Die Sowjetunion und andere kommunistische Staaten scheiterten oft an Autoritarismus und Wirtschaftsproblemen. Die skandinavischen Sozialdemokratien hingegen schufen relativ faire Gesellschaften. Die Debatte, wie eine gerechte Wirtschaftsordnung aussehen soll, ist heute aktueller denn je.",
+    "kernthesen": [
+      "Fabriken und Produktionsmittel sollen der Allgemeinheit gehoeren, nicht einzelnen Reichen",
+      "Soziale Gleichheit und die Ueberwindung von Klassenunterschieden sind die wichtigsten Ziele",
+      "Der Kapitalismus erzeugt systematisch Ungleichheit und Ausbeutung",
+      "Zusammenarbeit und Solidaritaet sollen wichtiger sein als Konkurrenz und Eigennutz",
+      "Der Staat soll die Wirtschaft im Interesse aller lenken und fuer soziale Gerechtigkeit sorgen"
+    ],
+    "entstehung": "Der moderne Sozialismus entstand im 19. Jahrhundert als Reaktion auf die miserablen Arbeitsbedingungen in den Fabriken der Industrialisierung. Fruehe Sozialisten gruendeten Modellgemeinschaften, Marx und Engels schufen die theoretischen Grundlagen. Aus der Bewegung entstanden spaeter Parteien und Gewerkschaften.",
+    "kritik": "Liberale Kritiker sagen, dass eine vom Staat gelenkte Wirtschaft ineffizient ist und Innovation erstickt. Die Geschichte zeigt, dass sozialistische Staaten oft in Diktaturen abrutschten. Konservative halten den Sozialismus fuer utopisch und freiheitsfeindlich. Anarchisten wiederum finden, dass auch der Sozialismus nur neue Formen von Herrschaft schafft."
+  }
 }

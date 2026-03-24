@@ -18,7 +18,9 @@
   },
   "epoche": "Gegenwart",
   "region": "Europa",
-  "hauptstroemungen": ["Biopolitik"],
+  "hauptstroemungen": [
+    "Biopolitik"
+  ],
   "kurzbeschreibung": "Giorgio Agamben ist ein italienischer Philosoph, dessen Werk die Schnittstellen von Politik, Recht und Ontologie erkundet. Sein Konzept des 'Homo sacer' – des Menschen, der getötet, aber nicht geopfert werden kann – analysiert die souveräne Macht über das nackte Leben. Sein Projekt 'Homo sacer' gehört zu den einflussreichsten philosophischen Unternehmungen der Gegenwart.",
   "biografie": {
     "fruehesLeben": "Giorgio Agamben wurde 1942 in Rom geboren. Er studierte Rechtswissenschaft an der Universität Rom und promovierte mit einer Arbeit über das politische Denken Simone Weils. In den 1960er Jahren besuchte er Martin Heideggers Seminare in Le Thor, die sein Denken nachhaltig prägten.",
@@ -79,6 +81,58 @@
       "kontext": "Agambens Idee der Profanierung als subversiver politischer Praxis gegen die kapitalistische Sakralisierung."
     }
   ],
-  "verwandtePhilosophen": ["michel-foucault", "martin-heidegger", "walter-benjamin", "byung-chul-han"],
-  "verwandteIsmen": ["biopolitik"]
+  "verwandtePhilosophen": [
+    "michel-foucault",
+    "martin-heidegger",
+    "walter-benjamin",
+    "byung-chul-han"
+  ],
+  "verwandteIsmen": [
+    "biopolitik"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Giorgio Agamben ist ein italienischer Philosoph, dessen Werk die Schnittstellen von Politik, Recht und Ontologie erkundet. Sein Konzept des 'Homo sacer' – des Menschen, der getoetet, aber nicht geopfert werden kann – analysiert die souveraene Macht ueber das nackte Leben. Sein Projekt 'Homo sacer' gehoert zu den einflussreichsten philosophischen Unternehmungen der Gegenwart.",
+    "biografie": {
+      "fruehesLeben": "Giorgio Agamben wurde 1942 in Rom geboren. Er studierte Rechtswissenschaft an der Universitaet Rom und promovierte mit einer Arbeit ueber das politische Denken Simone Weils. In den 1960er Jahren besuchte er Martin Heideggers Seminare in Le Thor, die sein Denken nachhaltig praegten.",
+      "schaffen": "Agamben lehrte an verschiedenen europaeischen und amerikanischen Universitaeten, darunter Venedig, Verona und Paris. Sein Hauptprojekt 'Homo sacer' (1995-2015) umfasst neun Baende und analysiert die Beziehung zwischen souveraener Macht, Ausnahmezustand und nacktem Leben. Philosophisch verbindet er Foucaults Biopolitik mit Heideggers Ontologie und Walter Benjamins Geschichtsphilosophie.",
+      "spaetesLeben": "Agamben lebt in Venedig und veroeffentlicht weiterhin zu Fragen der Politik, Aesthetik und Ontologie. Seine kritischen Stellungnahmen zum Ausnahmezustand in der Terrorbekaempfung und waehrend der Covid-19-Pandemie loesten heftige Kontroversen aus.",
+      "tod": "Giorgio Agamben lebt und arbeitet weiterhin in Venedig. Er gilt als einer der einflussreichsten politischen Philosophen der Gegenwart.",
+      "nachwirkung": "Agambens Konzepte des 'Homo sacer', des Ausnahmezustands und des 'Lagers' als biopolitisches Paradigma der Moderne haben die politische Philosophie, die Rechtstheorie und die Kulturwissenschaften tiefgreifend beeinflusst. Sein Werk wird weltweit intensiv diskutiert und kontrovers rezipiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Homo sacer und das nackte Leben",
+        "beschreibung": "Der Homo sacer ist eine Figur des archaischen roemischen Rechts: ein Mensch, der getoetet, aber nicht geopfert werden darf. In ihm zeigt sich die souveraene Macht, die das nackte Leben aus dem politischen Raum ausschliesst und zugleich einschliesst."
+      },
+      {
+        "titel": "Der Ausnahmezustand",
+        "beschreibung": "Der Ausnahmezustand ist nicht die Ausnahme, sondern das verborgene Paradigma des modernen Regierens. In ihm suspendiert der Souveraen das Recht, um es angeblich zu schuetzen. In der modernen Politik wird der Ausnahmezustand zur Regel."
+      },
+      {
+        "titel": "Das Lager als Paradigma der Moderne",
+        "beschreibung": "Das Konzentrationslager – nicht die Stadt – ist das biopolitische Paradigma der Moderne. Es ist der Raum, in dem der Ausnahmezustand zur Regel wird und Menschen auf ihr nacktes Leben reduziert werden. Fluechtlingslager und Abschiebezentren folgen dieser Logik."
+      },
+      {
+        "titel": "Profanierung",
+        "beschreibung": "Profanierung ist der Gegenakt zur Sakralisierung: Sie gibt dem allgemeinen Gebrauch zurueck, was dem freien Zugang entzogen wurde. In einer Welt, in der der Kapitalismus alles heiligt (dem Konsum entzieht), ist Profanierung ein subversiver politischer Akt."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Homo sacer. Die souveraene Macht und das nackte Leben",
+        "jahr": "1995",
+        "beschreibung": "Das Grundlagenwerk des Homo-sacer-Projekts, das die Beziehung zwischen souveraener Macht und dem nackten Leben analysiert."
+      },
+      {
+        "titel": "Ausnahmezustand (Stato di eccezione)",
+        "jahr": "2003",
+        "beschreibung": "Eine Analyse des Ausnahmezustands als verborgenes Paradigma des modernen Regierens, von der Roemischen Republik bis zum 'Krieg gegen den Terror'."
+      },
+      {
+        "titel": "Was von Auschwitz bleibt (Quel che resta di Auschwitz)",
+        "jahr": "1998",
+        "beschreibung": "Eine philosophische Reflexion ueber die Zeugenschaft, die Scham der Ueberlebenden und die Figur des 'Muselmanns' als Grenzgestalt des Menschlichen."
+      }
+    ]
+  }
 }

@@ -11,14 +11,51 @@
     "Der Mensch ist von Natur aus ein politisches Wesen (zoon politikon).",
     "Erkenntnis beginnt mit der Sinneserfahrung und wird durch logisches Denken vervollkommnet."
   ],
-  "hauptvertreter": ["aristoteles", "platon"],
+  "hauptvertreter": [
+    "aristoteles",
+    "platon"
+  ],
   "entstehung": "Der Aristotelismus hat seinen Ursprung in der Lehrtätigkeit des Aristoteles, der nach zwanzig Jahren als Schüler in Platons Akademie um 335 v. Chr. seine eigene Schule, das Lykeion (Peripatos), in Athen gründete. Dort entwickelte er sein umfassendes philosophisches System, das nahezu alle Wissensgebiete umfasste – von Logik und Metaphysik über Naturwissenschaft und Biologie bis hin zu Ethik, Politik und Poetik. Seine Nachfolger, die Peripatetiker, führten seine Arbeit fort.",
   "kritik": "Die aristotelische Naturphilosophie wurde durch die wissenschaftliche Revolution des 17. Jahrhunderts weitgehend überwunden – seine Physik, Kosmologie und Biologie gelten heute als überholt. Die Teleologie wird von vielen modernen Naturwissenschaftlern als unwissenschaftlich abgelehnt, da sie natürlichen Prozessen eine Absicht unterstellt. Feministinnen kritisieren Aristoteles' hierarchische Geschlechterordnung, die Frauen als unvollständige Männer betrachtet. Seine Rechtfertigung der Sklaverei als naturgemäß wird heute einhellig verurteilt. In der Metaphysik wird der Hylemorphismus als schwer vereinbar mit der modernen Physik angesehen. Dennoch wird die aristotelische Tugendethik auch von Kritikern oft als wertvoller Beitrag zur Moralphilosophie anerkannt.",
-  "verwandteIsmen": ["platonismus", "realismus", "naturalismus", "empirismus"],
+  "verwandteIsmen": [
+    "platonismus",
+    "realismus",
+    "naturalismus",
+    "empirismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Nikomachische Ethik", "autor": "Aristoteles", "jahr": "ca. 340 v. Chr." },
-    { "titel": "Metaphysik", "autor": "Aristoteles", "jahr": "ca. 340 v. Chr." },
-    { "titel": "Politik", "autor": "Aristoteles", "jahr": "ca. 335 v. Chr." },
-    { "titel": "Organon", "autor": "Aristoteles", "jahr": "ca. 350 v. Chr." }
-  ]
+    {
+      "titel": "Nikomachische Ethik",
+      "autor": "Aristoteles",
+      "jahr": "ca. 340 v. Chr."
+    },
+    {
+      "titel": "Metaphysik",
+      "autor": "Aristoteles",
+      "jahr": "ca. 340 v. Chr."
+    },
+    {
+      "titel": "Politik",
+      "autor": "Aristoteles",
+      "jahr": "ca. 335 v. Chr."
+    },
+    {
+      "titel": "Organon",
+      "autor": "Aristoteles",
+      "jahr": "ca. 350 v. Chr."
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Aristotelismus ist die auf Aristoteles zurueckgehende philosophische Tradition, die empirische Beobachtung, logische Analyse und die Lehre von den vier Ursachen in den Mittelpunkt stellt.",
+    "ausfuehrlicheBeschreibung": "Der Aristotelismus geht auf Aristoteles (384-322 v. Chr.) zurueck, der als der vielleicht universalste Denker der Antike gilt. Als Schueler Platons entwickelte er ein eigenstaendiges philosophisches System, das in vielen Punkten von seinem Lehrer abwich und eine staerkere Hinwendung zur empirischen Wirklichkeit vollzog.\n\nAristoteles' Metaphysik unterscheidet sich fundamental vom Platonismus. Statt einer getrennten Ideenwelt nimmt Aristoteles an, dass die Form (eidos) den konkreten Einzeldingen innewohnt. Jedes Ding ist eine Einheit aus Materie (hylē) und Form – die sogenannte hylemorphistische Lehre. Die Form ist das Wesen eines Dinges, das es zu dem macht, was es ist, aber sie existiert nicht unabhaengig von der Materie.\n\nZentral fuer den Aristotelismus ist die Lehre von den vier Ursachen (aitiai): die Materialursache (woraus etwas besteht), die Formursache (was etwas ist), die Wirkursache (wer oder was etwas hervorbringt) und die Zweckursache (wozu etwas dient). Die Teleologie, die Lehre von der Zweckgerichtetheit aller Dinge, durchzieht das gesamte aristotelische Denken. Jedes Ding strebt nach der Verwirklichung seiner ihm eigentuemlichen Moeglichkeiten – es bewegt sich von der Potentialitaet (dynamis) zur Aktualitaet (energeia).",
+    "kernthesen": [
+      "Form und Materie sind untrennbar verbunden; die Formen existieren nicht getrennt von den konkreten Dingen (Hylemorphismus).",
+      "Alles in der Natur ist zweckgerichtet (Teleologie); jedes Ding strebt nach Verwirklichung seiner Moeglichkeiten.",
+      "Die Tugend liegt in der Mitte zwischen zwei Extremen (Mesotes-Lehre).",
+      "Der Mensch ist von Natur aus ein politisches Wesen (zoon politikon).",
+      "Erkenntnis beginnt mit der Sinneserfahrung und wird durch logisches Denken vervollkommnet."
+    ],
+    "entstehung": "Der Aristotelismus hat seinen Ursprung in der Lehrtaetigkeit des Aristoteles, der nach zwanzig Jahren als Schueler in Platons Akademie um 335 v. Chr. seine eigene Schule, das Lykeion (Peripatos), in Athen gruendete. Dort entwickelte er sein umfassendes philosophisches System, das nahezu alle Wissensgebiete umfasste – von Logik und Metaphysik ueber Naturwissenschaft und Biologie bis hin zu Ethik, Politik und Poetik. Seine Nachfolger, die Peripatetiker, fuehrten seine Arbeit fort.",
+    "kritik": "Die aristotelische Naturphilosophie wurde durch die wissenschaftliche Revolution des 17. Jahrhunderts weitgehend ueberwunden – seine Physik, Kosmologie und Biologie gelten heute als ueberholt. Die Teleologie wird von vielen modernen Naturwissenschaftlern als unwissenschaftlich abgelehnt, da sie natuerlichen Prozessen eine Absicht unterstellt. Feministinnen kritisieren Aristoteles' hierarchische Geschlechterordnung, die Frauen als unvollstaendige Maenner betrachtet."
+  }
 }

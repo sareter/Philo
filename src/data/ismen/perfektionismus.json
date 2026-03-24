@@ -19,5 +19,18 @@
     {"titel": "Nikomachische Ethik", "autor": "Aristoteles", "jahr": "-335"},
     {"titel": "Politeia", "autor": "Platon", "jahr": "-375"},
     {"titel": "Über die Freiheit", "autor": "John Stuart Mill", "jahr": "1859"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der philosophische Perfektionismus sagt: Ein gutes Leben besteht darin, das Beste aus seinen Faehigkeiten zu machen. Der Mensch soll sich weiterentwickeln und seine Anlagen so gut wie moeglich entfalten.",
+    "ausfuehrlicheBeschreibung": "Die Grundidee ist einfach: Jeder Mensch hat bestimmte Faehigkeiten, und ein gutes Leben besteht darin, diese Faehigkeiten so gut wie moeglich zu entwickeln. Aristoteles hat das schon vor ueber 2000 Jahren gesagt. Fuer ihn ist das hoechste Gut die 'Eudaimonia', also ein gelingendes, erfuelltes Leben, das man durch die Ausuebung von Tugenden und besonders durch den Gebrauch der Vernunft erreicht.\n\nPlaton ging noch weiter: Er glaubte, dass es eine objektive Idee des Guten gibt, nach der alles strebt. Wer sie erkennt, lebt das bestmoegliche Leben. Deswegen sollten laut Platon Philosophen den Staat regieren, weil sie am naechsten an diese Erkenntnis herankommen. In der Neuzeit hat Nietzsche mit seinem 'Uebermenschen' eine andere Version vorgelegt: Der Mensch soll ueber sich selbst hinauswachsen.\n\nHeute ist der Perfektionismus umstritten, weil er sagt: Manche Lebensweisen sind objektiv besser als andere. Das passt nicht gut zum Liberalismus, der sagt, jeder soll so leben, wie er will. Die grosse Frage ist: Darf der Staat bestimmte Lebensformen foerdern und andere benachteiligen, weil er sie fuer weniger wertvoll haelt?",
+    "kernthesen": [
+      "Ein gutes Leben besteht darin, seine menschlichen Faehigkeiten bestmoeglich zu entfalten.",
+      "Es gibt eine objektive menschliche Natur, an der man messen kann, was 'gut' bedeutet.",
+      "Tugenden sind Staerken, die man durch Uebung und Erziehung entwickeln muss.",
+      "Der Gebrauch der Vernunft ist die hoechste und wichtigste menschliche Aktivitaet.",
+      "Der Staat sollte aktiv die Bedingungen foerdern, unter denen Menschen sich entfalten koennen."
+    ],
+    "entstehung": "Der philosophische Perfektionismus hat seinen Ursprung bei Platon und Aristoteles im 4. Jahrhundert v. Chr. Platon sah das Streben nach dem Guten als hoechstes Ziel, und Aristoteles entwickelte die Tugendethik als Anleitung zur menschlichen Vervollkommnung.",
+    "kritik": "Kritiker sagen: Wer bestimmt denn, was das 'bestmoegliche' Leben ist? Der Perfektionismus laeuft Gefahr, bestimmte Lebensweisen als minderwertig abzustempeln und staatliche Bevormundung zu rechtfertigen. Das ist ein Problem fuer die individuelle Freiheit."
+  }
 }

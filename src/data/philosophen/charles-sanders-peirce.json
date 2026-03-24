@@ -18,7 +18,12 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Pragmatismus", "Semiotik", "Logik", "Fallibilismus"],
+  "hauptstroemungen": [
+    "Pragmatismus",
+    "Semiotik",
+    "Logik",
+    "Fallibilismus"
+  ],
   "kurzbeschreibung": "Charles Sanders Peirce gilt als Begründer des Pragmatismus und der modernen Semiotik. Er war ein universaler Gelehrter, dessen Arbeiten in Logik, Wissenschaftstheorie und Zeichentheorie erst im 20. Jahrhundert ihre volle Wirkung entfalteten. Trotz seiner genialen Beiträge lebte er in Armut und Isolation und wurde erst posthum als einer der größten amerikanischen Denker anerkannt.",
   "biografie": {
     "fruehesLeben": "Charles Sanders Peirce wurde am 10. September 1839 in Cambridge, Massachusetts, als Sohn des renommierten Mathematikers Benjamin Peirce geboren, der an der Harvard University lehrte. Sein Vater erkannte früh die außergewöhnliche Begabung seines Sohnes und förderte ihn intensiv in Mathematik und Naturwissenschaften. Charles studierte an der Harvard University, wo er 1859 seinen Bachelor und 1862 seinen Master in Chemie erhielt. Bereits als Jugendlicher hatte er sich intensiv mit Kants 'Kritik der reinen Vernunft' beschäftigt und diese nahezu auswendig gelernt. Seine frühe intellektuelle Entwicklung war geprägt von der Verbindung naturwissenschaftlicher Strenge mit philosophischer Reflexion.",
@@ -84,6 +89,67 @@
       "kontext": "Peirces erstes Gebot der wissenschaftlichen Forschung und Ausdruck seines Fallibilismus."
     }
   ],
-  "verwandtePhilosophen": ["william-james", "john-dewey", "gottlob-frege", "willard-van-orman-quine", "richard-rorty"],
-  "verwandteIsmen": ["pragmatismus", "semiotik", "fallibilismus", "realismus"]
+  "verwandtePhilosophen": [
+    "william-james",
+    "john-dewey",
+    "gottlob-frege",
+    "willard-van-orman-quine",
+    "richard-rorty"
+  ],
+  "verwandteIsmen": [
+    "pragmatismus",
+    "semiotik",
+    "fallibilismus",
+    "realismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Charles Sanders Peirce gilt als Begruender des Pragmatismus und der modernen Semiotik. Er war ein universaler Gelehrter, dessen Arbeiten in Logik, Wissenschaftstheorie und Zeichentheorie erst im 20. Jahrhundert ihre volle Wirkung entfalteten. Trotz seiner genialen Beitraege lebte er in Armut und Isolation und wurde erst posthum als einer der groessten amerikanischen Denker anerkannt.",
+    "biografie": {
+      "fruehesLeben": "Charles Sanders Peirce wurde am 10. September 1839 in Cambridge, Massachusetts, als Sohn des renommierten Mathematikers Benjamin Peirce geboren, der an der Harvard University lehrte. Sein Vater erkannte frueh die aussergewoehnliche Begabung seines Sohnes und foerderte ihn intensiv in Mathematik und Naturwissenschaften. Charles studierte an der Harvard University, wo er 1859 seinen Bachelor und 1862 seinen Master in Chemie erhielt. Bereits als Jugendlicher hatte er sich intensiv mit Kants 'Kritik der reinen Vernunft' beschaeftigt und diese nahezu auswendig gelernt. Seine fruehe intellektuelle Entwicklung war gepraegt von der Verbindung naturwissenschaftlicher Strenge mit philosophischer Reflexion.",
+      "schaffen": "Von 1861 bis 1891 arbeitete Peirce fuer die United States Coast and Geodetic Survey als Wissenschaftler und fuehrte geodaetische und astronomische Messungen durch. Nebenbei lehrte er zeitweise an der Johns Hopkins University (1879–1884), wo er das erste amerikanische Logik-Seminar leitete und Studenten wie John Dewey und Thorstein Veblen beeinflusste. In den 1870er Jahren formulierte er in den Aufsaetzen 'The Fixation of Belief' (1877) und 'How to Make Our Ideas Clear' (1878) die Grundlagen des Pragmatismus – die er selbst 'Pragmatizismus' nannte, um sich von William James' populaererer Version abzugrenzen. Seine Beitraege zur formalen Logik waren bahnbrechend: Er entwickelte unabhaengig von Frege eine Quantorenlogik und leistete Pionierarbeit in der Relationslogik.",
+      "spaetesLeben": "Nach seiner Entlassung bei der Coast Survey 1891 und dem Verlust seiner Lehrposition an der Johns Hopkins University (aufgrund eines Skandals um seine zweite Ehe) zog sich Peirce auf sein Landgut 'Arisbe' in Milford, Pennsylvania, zurueck. Dort lebte er in zunehmender Armut und Isolation, unterstuetzt nur durch gelegentliche Zuwendungen seines Freundes William James. Trotz seiner schwierigen Lebenslage arbeitete er unermuedlich an seinem philosophischen System und verfasste Tausende von Seiten unveroeffentlichter Manuskripte. Er entwickelte seine kosmologische Philosophie des Tychismus (Rolle des Zufalls), Synechismus (Kontinuitaet) und Agapismus (evolutionaere Liebe). Seine Versuche, ein systematisches philosophisches Hauptwerk zu verfassen, blieben jedoch fragmentarisch.",
+      "tod": "Charles Sanders Peirce starb am 19. April 1914 in Milford, Pennsylvania, verarmt und nahezu vergessen. Seine zweite Frau Juliette ueberlebte ihn nur knapp. Sein enormer Nachlass von etwa 80.000 Manuskriptseiten wurde von der Harvard University erworben. Die systematische Aufarbeitung dieses Nachlasses begann erst Jahrzehnte nach seinem Tod und dauert bis heute an.",
+      "nachwirkung": "Peirces Einfluss auf die Philosophie des 20. Jahrhunderts ist immens, wenn auch verzoegert. Er gilt als Begruender des Pragmatismus, als Vater der modernen Semiotik und als einer der bedeutendsten Logiker der Geschichte. Seine Zeichentheorie beeinflusste Umberto Eco, Roman Jakobson und die gesamte Kommunikationswissenschaft. Seine Wissenschaftstheorie, insbesondere der Fallibilismus und die Abduktion, wirkte auf Karl Popper und die analytische Wissenschaftsphilosophie. Der sogenannte 'Neopragmatismus' von Quine, Putnam und Rorty knuepft an seine Ideen an. Heute wird Peirce zunehmend als einer der originellsten und vielseitigsten Denker der westlichen Philosophie gewuerdigt."
+    },
+    "kernideen": [
+      {
+        "titel": "Pragmatische Maxime",
+        "beschreibung": "Die pragmatische Maxime besagt, dass die Bedeutung eines Begriffs in seinen praktischen Konsequenzen liegt. Um einen Begriff zu klaeren, muessen wir untersuchen, welche praktischen Auswirkungen seine Anwendung hat. Dies ist die Grundlage des Pragmatismus."
+      },
+      {
+        "titel": "Semiotik und Zeichentheorie",
+        "beschreibung": "Peirce entwickelte eine umfassende Theorie der Zeichen mit der fundamentalen Trichotomie von Ikon (Aehnlichkeitsbeziehung), Index (kausale Beziehung) und Symbol (konventionelle Beziehung). Jedes Zeichen besteht aus Repraesentamen, Objekt und Interpretant."
+      },
+      {
+        "titel": "Abduktion",
+        "beschreibung": "Neben Deduktion und Induktion identifizierte Peirce die Abduktion als dritte fundamentale Schlussform: den Schluss auf die beste Erklaerung. Die Abduktion ist der kreative Prozess, durch den neue Hypothesen generiert werden."
+      },
+      {
+        "titel": "Fallibilismus",
+        "beschreibung": "Peirce vertrat die Position, dass all unser Wissen prinzipiell fehlbar ist und dass absolute Gewissheit unerreichbar bleibt. Wissenschaftlicher Fortschritt besteht in der fortschreitenden Korrektur von Irrtuemern durch die Forschungsgemeinschaft."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "The Fixation of Belief",
+        "jahr": "1877",
+        "beschreibung": "In diesem grundlegenden Aufsatz unterscheidet Peirce vier Methoden der Ueberzeugungsbildung – Beharrlichkeit, Autoritaet, apriorische Methode und wissenschaftliche Methode – und argumentiert fuer die Ueberlegenheit der wissenschaftlichen Methode."
+      },
+      {
+        "titel": "How to Make Our Ideas Clear",
+        "jahr": "1878",
+        "beschreibung": "Der Gruendungstext des Pragmatismus, in dem Peirce die pragmatische Maxime formuliert: Die Bedeutung eines Begriffs liegt in seinen vorstellbaren praktischen Konsequenzen."
+      },
+      {
+        "titel": "Collected Papers of Charles Sanders Peirce",
+        "jahr": "1931–1958",
+        "beschreibung": "Die posthum in acht Baenden herausgegebene Sammlung seiner wichtigsten Schriften zu Logik, Semiotik, Pragmatismus, Wissenschaftstheorie und Metaphysik."
+      },
+      {
+        "titel": "The Essential Peirce",
+        "jahr": "1992–1998",
+        "beschreibung": "Eine zweibaendige Auswahl seiner wichtigsten Texte, die einen besseren Zugang zu seinem Werk bietet als die aelteren Collected Papers."
+      }
+    ]
+  }
 }

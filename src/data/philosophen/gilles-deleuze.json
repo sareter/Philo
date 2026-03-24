@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Poststrukturalismus", "Differenzphilosophie", "Immanenzphilosophie"],
+  "hauptstroemungen": [
+    "Poststrukturalismus",
+    "Differenzphilosophie",
+    "Immanenzphilosophie"
+  ],
   "kurzbeschreibung": "Gilles Deleuze war einer der originellsten und einflussreichsten Philosophen des 20. Jahrhunderts. Seine Philosophie der Differenz und der Immanenz, seine Zusammenarbeit mit Félix Guattari und seine Beiträge zur Filmphilosophie, Literaturtheorie und politischen Philosophie haben das zeitgenössische Denken grundlegend transformiert. Er dachte Philosophie als Schöpfung neuer Begriffe.",
   "biografie": {
     "fruehesLeben": "Gilles Deleuze wurde am 18. Januar 1925 in Paris geboren und wuchs in einer bürgerlichen Familie auf. Sein Bruder Georges war im Widerstand aktiv und wurde von den Nazis deportiert und ermordet. Deleuze studierte Philosophie an der Sorbonne, wo er von Jean Hyppolite und Ferdinand Alquié unterrichtet wurde. Er bestand 1948 die Agrégation in Philosophie und unterrichtete an verschiedenen Gymnasien und Universitäten.",
@@ -99,6 +103,67 @@
       "kontext": "Die Fluchtlinie als kreative Transformation statt passiver Rückzug."
     }
   ],
-  "verwandtePhilosophen": ["friedrich-nietzsche", "michel-foucault", "jacques-derrida", "jean-francois-lyotard", "slavoj-zizek"],
-  "verwandteIsmen": ["poststrukturalismus", "differenzphilosophie", "immanenzphilosophie", "postmoderne"]
+  "verwandtePhilosophen": [
+    "friedrich-nietzsche",
+    "michel-foucault",
+    "jacques-derrida",
+    "jean-francois-lyotard",
+    "slavoj-zizek"
+  ],
+  "verwandteIsmen": [
+    "poststrukturalismus",
+    "differenzphilosophie",
+    "immanenzphilosophie",
+    "postmoderne"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Gilles Deleuze war einer der originellsten und einflussreichsten Philosophen des 20. Jahrhunderts. Seine Philosophie der Differenz und der Immanenz, seine Zusammenarbeit mit Félix Guattari und seine Beitraege zur Filmphilosophie, Literaturtheorie und politischen Philosophie haben das zeitgenoessische Denken grundlegend transformiert. Er dachte Philosophie als Schoepfung neuer Begriffe.",
+    "biografie": {
+      "fruehesLeben": "Gilles Deleuze wurde am 18. Januar 1925 in Paris geboren und wuchs in einer buergerlichen Familie auf. Sein Bruder Georges war im Widerstand aktiv und wurde von den Nazis deportiert und ermordet. Deleuze studierte Philosophie an der Sorbonne, wo er von Jean Hyppolite und Ferdinand Alquié unterrichtet wurde. Er bestand 1948 die Agrégation in Philosophie und unterrichtete an verschiedenen Gymnasien und Universitaeten.",
+      "schaffen": "Deleuzes fruehes Werk bestand aus innovativen Monografien ueber einzelne Philosophen: Hume, Nietzsche, Kant, Bergson, Spinoza und Leibniz, die er jeweils auf ueberraschende Weise neu las. Sein philosophisches Hauptwerk 'Differenz und Wiederholung' (1968) und 'Logik des Sinns' (1969) entwickelten eine radikale Philosophie der Differenz, die gegen die platonische Tradition der Identitaet und Repraesentation gerichtet war. Die Zusammenarbeit mit dem Psychoanalytiker und politischen Aktivisten Félix Guattari ab 1969 fuehrte zu den monumentalen Werken 'Anti-Oedipus' (1972) und 'Tausend Plateaus' (1980), die zusammen das Projekt 'Kapitalismus und Schizophrenie' bilden. Der 'Anti-Oedipus' kritisierte die Psychoanalyse und den Kapitalismus und fuehrte das Konzept der 'Wunschmaschinen' ein.",
+      "spaetesLeben": "Deleuze lehrte von 1969 bis zu seiner Emeritierung 1987 an der Universitaet Paris VIII (Vincennes/Saint-Denis), einer experimentellen Universitaet, die nach 1968 gegruendet wurde. Er war kein oeffentlicher Intellektueller im Stil Sartres, sondern zog das Denken und Schreiben dem medialen Auftritt vor. In seinen letzten Lebensjahren litt er zunehmend unter einer schweren Lungenerkrankung, die ihm das Atmen und Schreiben erschwerte.",
+      "tod": "Am 4. November 1995 stuerzte sich Gilles Deleuze aus dem Fenster seiner Wohnung in Paris. Er war 70 Jahre alt und konnte aufgrund seiner Lungenerkrankung nicht mehr arbeiten – fuer einen Denker, der das Denken als Lebensform verstand, ein unertraeglicher Zustand.",
+      "nachwirkung": "Deleuzes Einfluss waechst stetig und erstreckt sich ueber Philosophie, Kunst, Film, Architektur, Politikwissenschaft, Biologie und Informatik. Seine Begriffe – Rhizom, Deterritorialisierung, Immanenzebene, Fluchtlinie – sind zu Grundbegriffen der zeitgenoessischen Theorie geworden. Er beeinflusste die Actor-Network-Theory (Latour), die Assemblage-Theorie (DeLanda), die Affect-Theory, die Kunsttheorie und die Medientheorie. Zusammen mit Guattari gilt er als einer der wichtigsten Denker der Postmoderne und des Posthumanismus."
+    },
+    "kernideen": [
+      {
+        "titel": "Differenz und Wiederholung",
+        "beschreibung": "Gegen die platonische Tradition, die die Identitaet ueber die Differenz stellt, denkt Deleuze die Differenz an sich – eine Differenz, die nicht auf Identitaet zurueckgefuehrt werden kann. Die Wiederholung ist nicht die Wiederkehr des Gleichen, sondern die Produktion des Neuen."
+      },
+      {
+        "titel": "Rhizom",
+        "beschreibung": "Das Rhizom ist ein Gegenmodell zum hierarchischen Baum. Es hat keine Wurzel und kein Zentrum, sondern besteht aus heterogenen Verbindungen, die sich in alle Richtungen ausbreiten. Jeder Punkt kann mit jedem anderen verbunden werden."
+      },
+      {
+        "titel": "Deterritorialisierung und Fluchtlinien",
+        "beschreibung": "Deterritorialisierung bezeichnet den Prozess, durch den Systeme (soziale, psychische, biologische) ihre feste Ordnung verlassen und sich in Bewegung setzen. Fluchtlinien sind die Linien, entlang derer Systeme sich transformieren und Neues entsteht."
+      },
+      {
+        "titel": "Immanenzebene",
+        "beschreibung": "Die Philosophie operiert auf einer 'Immanenzebene' – einem Feld reiner Immanenz ohne Transzendenz, auf dem Begriffe geschaffen werden. Es gibt keine hoehere Instanz jenseits der Immanenz."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Differenz und Wiederholung",
+        "jahr": "1968",
+        "beschreibung": "Deleuzes philosophisches Hauptwerk entwickelt eine Ontologie der Differenz, die gegen die Metaphysik der Identitaet und Repraesentation gerichtet ist."
+      },
+      {
+        "titel": "Logik des Sinns",
+        "jahr": "1969",
+        "beschreibung": "Eine strukturalistische Analyse des Sinns als Oberflaechenereignis, inspiriert von Lewis Carroll und den Stoikern."
+      },
+      {
+        "titel": "Anti-Oedipus (mit Félix Guattari)",
+        "jahr": "1972",
+        "beschreibung": "Der erste Band von 'Kapitalismus und Schizophrenie' kritisiert die Psychoanalyse und den Kapitalismus und fuehrt das Konzept der Wunschmaschinen und der Schizoanalyse ein."
+      },
+      {
+        "titel": "Tausend Plateaus (mit Félix Guattari)",
+        "jahr": "1980",
+        "beschreibung": "Der zweite Band von 'Kapitalismus und Schizophrenie' entwickelt eine radikal neue Ontologie mit den Begriffen Rhizom, Deterritorialisierung und Koerper ohne Organe."
+      }
+    ]
+  }
 }

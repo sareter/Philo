@@ -19,5 +19,18 @@
     {"titel": "L'existentialisme est un humanisme", "autor": "Jean-Paul Sartre", "jahr": "1946"},
     {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
     {"titel": "Situation Ethics", "autor": "Joseph Fletcher", "jahr": "1966"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Situationsethik sagt: Es gibt keine starren Regeln, die immer gelten. Was richtig ist, haengt von der konkreten Situation ab.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand fragt dich: Darf man luegen? Die meisten wuerden sagen: Nein. Aber was, wenn du damit jemandem das Leben rettest? Genau hier setzt die Situationsethik an. Sie sagt: Starre Regeln funktionieren nicht, weil jede Situation anders ist. Man muss immer den Einzelfall betrachten.\n\nJean-Paul Sartre, der bekannteste Vertreter, hat das mit einem Beispiel erklaert: Ein junger Mann muss sich entscheiden, ob er seine kranke Mutter pflegt oder in den Widerstand gegen die Nazis geht. Keine allgemeine Regel kann ihm diese Entscheidung abnehmen. Er muss selbst waehlen und die volle Verantwortung dafuer tragen.\n\nDas klingt erst mal befreiend, ist aber auch eine riesige Last. Denn wenn es keine festen Regeln gibt, kannst du dich nirgendwo verstecken. Du kannst nicht sagen: Ich habe nur die Regeln befolgt. Du bist immer selbst verantwortlich fuer das, was du tust.",
+    "kernthesen": [
+      "Was moralisch richtig ist, muss in jeder Situation neu entschieden werden",
+      "Es gibt keine vorgegebene Ordnung, die uns sagt, was wir tun sollen",
+      "Wir sind frei, aber genau deshalb auch voll verantwortlich fuer unsere Entscheidungen",
+      "Keine allgemeine Regel kann dir die Last der Entscheidung abnehmen",
+      "Flexibilitaet in moralischen Fragen ist kein Zeichen von Schwaeche, sondern von echter Verantwortung"
+    ],
+    "entstehung": "Die Situationsethik wurde im 20. Jahrhundert vor allem von Jean-Paul Sartre philosophisch begruendet. Er argumentierte, dass es keine feste menschliche Natur gibt und wir deshalb in jeder Situation selbst entscheiden muessen. Joseph Fletcher brachte die Idee 1966 in die christliche Theologie ein.",
+    "kritik": "Kritiker warnen, dass ohne feste Regeln alles erlaubt werden kann - man koennte jede Handlung mit der Situation rechtfertigen. Ausserdem ist es fuer die meisten Menschen schlicht ueberfordernd, jede Entscheidung komplett neu durchdenken zu muessen."
+  }
 }

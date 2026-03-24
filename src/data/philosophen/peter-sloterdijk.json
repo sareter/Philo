@@ -85,5 +85,27 @@
     }
   ],
   "verwandtePhilosophen": ["friedrich-nietzsche", "martin-heidegger", "byung-chul-han"],
-  "verwandteIsmen": ["postmodernismus"]
+  "verwandteIsmen": ["postmodernismus"],
+  "einfach": {
+    "kurzbeschreibung": "Peter Sloterdijk ist ein deutscher Philosoph und Kulturkritiker, der mit provokanten Ideen ueber Zynismus, Raeume und Selbstverbesserung zu den meistgelesenen Denkern der Gegenwart gehoert.",
+    "biografie": {
+      "fruehesLeben": "Sloterdijk wurde 1947 in Karlsruhe geboren. Er studierte Philosophie und Germanistik und verbrachte in den 1970ern Zeit in einem Ashram in Indien, was sein Denken stark praegte.",
+      "schaffen": "Mit seiner 'Kritik der zynischen Vernunft' landete er 1983 einen Bestseller – das meistverkaufte Philosophie-Buch der deutschen Nachkriegszeit. Danach schrieb er die riesige Sphaeren-Trilogie, in der er erklaert, wie Menschen immer Raeume schaffen, um darin zu leben. Ausserdem moderierte er eine Philosophie-Sendung im ZDF.",
+      "spaetesLeben": "Sloterdijk lebt weiterhin in Karlsruhe und veroeffentlicht regelmaessig neue Buecher. Seine Aussagen zu Migration und Politik sorgen immer wieder fuer heftige Debatten.",
+      "tod": "Peter Sloterdijk lebt und arbeitet weiterhin. Sein Werk umfasst ueber 50 Buecher.",
+      "nachwirkung": "Seine Ideen ueber Zynismus, Raeume und Selbstformung haben die deutsche Philosophie stark gepraegt. Die Sphaeren-Trilogie gilt als einer der kuhnsten philosophischen Entwuerfe des 21. Jahrhunderts."
+    },
+    "kernideen": [
+      {"titel": "Zynische Vernunft", "beschreibung": "Heute wissen die Leute oft, dass etwas falsch laeuft, machen aber trotzdem weiter. Das ist moderner Zynismus – man hat die Illusion durchschaut, handelt aber trotzdem danach."},
+      {"titel": "Sphärologie", "beschreibung": "Menschen schaffen immer Raeume um sich herum – von der Mutter-Kind-Beziehung bis zur globalisierten Welt. Diese 'Sphaeren' sind das Grundprinzip menschlichen Lebens."},
+      {"titel": "Anthropotechnik", "beschreibung": "Der Mensch formt sich selbst durch Uebung – ob Sport, Meditation oder Lernen. 'Du musst dein Leben aendern' ist der zentrale Gedanke."},
+      {"titel": "Thymos und Zorn", "beschreibung": "Neben dem Verlangen nach Dingen treibt uns auch Stolz, Ehrgeiz und Zorn an. Die Politik hat diese Kraft lange uebersehen, und darum waechst jetzt der Populismus."}
+    ],
+    "werke": [
+      {"titel": "Kritik der zynischen Vernunft", "jahr": "1983", "beschreibung": "Das meistverkaufte deutsche Philosophie-Buch der Nachkriegszeit ueber den modernen Zynismus."},
+      {"titel": "Sphären I: Blasen", "jahr": "1998", "beschreibung": "Der erste Band seiner grossen Trilogie ueber die Raeume, die Menschen schaffen, um zusammen zu leben."},
+      {"titel": "Du musst dein Leben ändern", "jahr": "2009", "beschreibung": "Ein Buch darueber, wie Menschen sich durch Uebung und Training selbst verbessern koennen."},
+      {"titel": "Zorn und Zeit", "jahr": "2006", "beschreibung": "Eine Untersuchung von Zorn und Stolz als unterschaetzten Kraften in der Politik und Geschichte."}
+    ]
+  }
 }

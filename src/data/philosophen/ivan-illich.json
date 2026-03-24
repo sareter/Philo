@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Gesellschaftskritik"],
+  "hauptstroemungen": [
+    "Gesellschaftskritik"
+  ],
   "kurzbeschreibung": "Ivan Illich war ein österreichisch-amerikanischer Denker, Priester und Gesellschaftskritiker, der die Institutionen der modernen Gesellschaft radikal in Frage stellte. Seine Kritik an Schule, Medizin und Verkehr als kontraproduktiven Institutionen machte ihn zu einem der einflussreichsten Querdenker des 20. Jahrhunderts. Er argumentierte, dass diese Institutionen ab einem bestimmten Punkt genau das Gegenteil dessen bewirken, wofür sie geschaffen wurden.",
   "biografie": {
     "fruehesLeben": "Ivan Illich wurde 1926 in Wien als Sohn eines kroatischen Vaters und einer sephardisch-jüdischen Mutter geboren. Er studierte Kristallografie, Philosophie und Theologie in Florenz und Rom und wurde zum katholischen Priester geweiht.",
@@ -84,6 +86,61 @@
       "kontext": "Illichs paradoxe Analyse, dass schneller Verkehr die Gesellschaft insgesamt mehr Zeit kostet als er spart."
     }
   ],
-  "verwandtePhilosophen": ["gustavo-gutierrez", "michel-foucault"],
-  "verwandteIsmen": ["gesellschaftskritik"]
+  "verwandtePhilosophen": [
+    "gustavo-gutierrez",
+    "michel-foucault"
+  ],
+  "verwandteIsmen": [
+    "gesellschaftskritik"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Ivan Illich war ein oesterreichisch-amerikanischer Denker, Priester und Gesellschaftskritiker, der die Institutionen der modernen Gesellschaft radikal in Frage stellte. Seine Kritik an Schule, Medizin und Verkehr als kontraproduktiven Institutionen machte ihn zu einem der einflussreichsten Querdenker des 20. Jahrhunderts. Er argumentierte, dass diese Institutionen ab einem bestimmten Punkt genau das Gegenteil dessen bewirken, wofuer sie geschaffen wurden.",
+    "biografie": {
+      "fruehesLeben": "Ivan Illich wurde 1926 in Wien als Sohn eines kroatischen Vaters und einer sephardisch-juedischen Mutter geboren. Er studierte Kristallografie, Philosophie und Theologie in Florenz und Rom und wurde zum katholischen Priester geweiht.",
+      "schaffen": "Illich arbeitete zunaechst als Priester in New York und Puerto Rico, bevor er in Cuernavaca, Mexiko, das Centro Intercultural de Documentación (CIDOC) gruendete. Seine wichtigsten Werke – 'Deschooling Society' (1971), 'Medical Nemesis' (1975) und 'Energy and Equity' (1974) – kritisieren die kontraproduktiven Wirkungen moderner Institutionen.",
+      "spaetesLeben": "Illich loeste sich von der institutionellen Kirche und lebte als wandernder Gelehrter zwischen Mexiko, den USA und Deutschland. In seinen letzten Jahren befasste er sich mit der Geschichte der Sinne und des Lesens.",
+      "tod": "Ivan Illich starb 2002 in Bremen an den Folgen eines Gesichtstumors, den er aus philosophischer Ueberzeugung nicht behandeln liess – eine konsequente Anwendung seiner Kritik an der modernen Medizin.",
+      "nachwirkung": "Illichs Gesellschaftskritik hat die Entschulungsbewegung, die Alternativmedizin und die Wachstumskritik inspiriert. Seine Analyse kontraproduktiver Institutionen wird in Zeiten der Klimakrise und der Bildungsdebatte neu gelesen."
+    },
+    "kernideen": [
+      {
+        "titel": "Entschulung der Gesellschaft",
+        "beschreibung": "Das Schulsystem erzeugt Abhaengigkeit statt Bildung und verwechselt den Konsum von Lehrleistungen mit wirklichem Lernen. Illich plaediert fuer die Abschaffung der Schulpflicht und die Schaffung von 'Lernnetzwerken', die selbstbestimmtes Lernen ermoeglichen."
+      },
+      {
+        "titel": "Kontraproduktivitaet",
+        "beschreibung": "Moderne Institutionen werden ab einem bestimmten Entwicklungsstand kontraproduktiv: Krankenhaeuser machen krank (Iatrogenesis), Schulen verhindern Bildung, Verkehrssysteme verlangsamen die Fortbewegung. Je mehr die Institution waechst, desto staerker wirkt sie gegen ihren urspruenglichen Zweck."
+      },
+      {
+        "titel": "Konvivialitaet",
+        "beschreibung": "Illich entwirft als Alternative zur industriellen Gesellschaft eine 'konviviale' Gesellschaft, in der die Menschen die Werkzeuge kontrollieren, statt von ihnen kontrolliert zu werden. Konvivialitaet bedeutet produktive Autonomie und kreative Zwischenmenschlichkeit."
+      },
+      {
+        "titel": "Radikales Monopol",
+        "beschreibung": "Bestimmte Gueter und Dienstleistungen erlangen ein 'radikales Monopol', indem sie die Alternativen eliminieren: Das Auto zerstoert die fussgaengerfreundliche Stadt, die professionelle Medizin delegitimiert die Selbstfuersorge."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Deschooling Society (Entschulung der Gesellschaft)",
+        "jahr": "1971",
+        "beschreibung": "Illichs bekanntestes Werk, eine radikale Kritik des Schulsystems als einer Institution, die Lernen verhindert statt foerdert."
+      },
+      {
+        "titel": "Medical Nemesis (Die Nemesis der Medizin)",
+        "jahr": "1975",
+        "beschreibung": "Eine Analyse der kontraproduktiven Wirkungen der modernen Medizin, die nach Illich mehr Krankheit erzeugt als sie heilt."
+      },
+      {
+        "titel": "Tools for Conviviality (Selbstbegrenzung)",
+        "jahr": "1973",
+        "beschreibung": "Illichs Entwurf einer konvivialen Gesellschaft, in der die Werkzeuge dem Menschen dienen statt umgekehrt."
+      },
+      {
+        "titel": "Energy and Equity (Energie und Gerechtigkeit)",
+        "jahr": "1974",
+        "beschreibung": "Eine Analyse des Zusammenhangs zwischen Energieverbrauch und sozialer Ungleichheit, die zeigt, dass schneller Verkehr die Gesellschaft insgesamt verlangsamt."
+      }
+    ]
+  }
 }

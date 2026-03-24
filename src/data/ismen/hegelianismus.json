@@ -11,14 +11,53 @@
     "Was vernünftig ist, ist wirklich, und was wirklich ist, ist vernünftig",
     "Das Wahre ist das Ganze – Wahrheit kann nur im System des Ganzen erkannt werden"
   ],
-  "hauptvertreter": ["georg-wilhelm-friedrich-hegel", "karl-marx", "theodor-w-adorno"],
+  "hauptvertreter": [
+    "georg-wilhelm-friedrich-hegel",
+    "karl-marx",
+    "theodor-w-adorno"
+  ],
   "entstehung": "Der Hegelianismus begründet sich auf Hegels Hauptwerken: 'Phänomenologie des Geistes' (1807), 'Wissenschaft der Logik' (1812-1816), 'Enzyklopädie der philosophischen Wissenschaften' (1817) und 'Grundlinien der Philosophie des Rechts' (1821). Nach Hegels Tod (1831) spaltete sich die Schule in Rechts- und Linkshegelianer. Marx entwickelte den historischen Materialismus als materialistische Transformation des Hegelianismus. Im 20. Jahrhundert erlebte Hegel durch Kojèves Interpretation und die Frankfurter Schule eine Renaissance.",
   "kritik": "Kierkegaard kritisierte Hegels System als abstrakte Spekulation, die das existenzielle Individuum ignoriert. Schopenhauer verspottete Hegel als 'geistigen Kaliban'. Die analytische Philosophie (Russell, Moore) lehnte Hegels Idealismus als unklar und unwissenschaftlich ab. Karl Popper kritisierte Hegel als Vorläufer des Totalitarismus in 'Die offene Gesellschaft und ihre Feinde'. Die dialektische Methode wird als logisch fragwürdig kritisiert – Widersprüche können nicht produktiv sein, wenn die klassische Logik gilt. Der Geschichtsoptimismus erscheint nach den Katastrophen des 20. Jahrhunderts naiv. Adorno kritisierte den 'Identitätszwang' des hegelianischen Systems, der das Nicht-Identische unterdrückt.",
-  "verwandteIsmen": ["kantianismus", "historismus", "kritische-theorie", "romantizismus", "koharentismus"],
+  "verwandteIsmen": [
+    "kantianismus",
+    "historismus",
+    "kritische-theorie",
+    "romantizismus",
+    "koharentismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Phänomenologie des Geistes", "autor": "G.W.F. Hegel", "jahr": "1807" },
-    { "titel": "Wissenschaft der Logik", "autor": "G.W.F. Hegel", "jahr": "1812" },
-    { "titel": "Grundlinien der Philosophie des Rechts", "autor": "G.W.F. Hegel", "jahr": "1821" },
-    { "titel": "Introduction à la lecture de Hegel", "autor": "Alexandre Kojève", "jahr": "1947" }
-  ]
+    {
+      "titel": "Phänomenologie des Geistes",
+      "autor": "G.W.F. Hegel",
+      "jahr": "1807"
+    },
+    {
+      "titel": "Wissenschaft der Logik",
+      "autor": "G.W.F. Hegel",
+      "jahr": "1812"
+    },
+    {
+      "titel": "Grundlinien der Philosophie des Rechts",
+      "autor": "G.W.F. Hegel",
+      "jahr": "1821"
+    },
+    {
+      "titel": "Introduction à la lecture de Hegel",
+      "autor": "Alexandre Kojève",
+      "jahr": "1947"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Hegelianismus ist die philosophische Tradition, die auf Georg Wilhelm Friedrich Hegels System des absoluten Idealismus basiert.",
+    "ausfuehrlicheBeschreibung": "Der Hegelianismus bezeichnet die philosophische Tradition, die auf G.W.F. Hegels (1770-1831) System aufbaut – dem wohl umfassendsten und ambitioniertesten philosophischen Unternehmen der Neuzeit. Hegel beanspruchte, die gesamte Wirklichkeit als systematische Selbstentfaltung des Geistes (Absoluter Idealismus) zu begreifen.\n\nDie dialektische Methode ist das Herzstueck des Hegelianismus. Die Dialektik beschreibt die Bewegung des Denkens und der Wirklichkeit durch These, Antithese und Synthese (obwohl Hegel selbst diese Terminologie selten verwendet). Jeder Begriff enthaelt seinen Widerspruch und treibt durch diesen Widerspruch ueber sich hinaus zu einer hoeheren Einheit, die beide Momente in sich 'aufhebt' (bewahrt und ueberwindet zugleich). Die 'Phaenomenologie des Geistes' (1807) zeichnet die Reise des Bewusstseins von der sinnlichen Gewissheit bis zum absoluten Wissen nach.\n\nHegels Geschichtsphilosophie versteht die Weltgeschichte als 'Fortschritt im Bewusstsein der Freiheit'. Die Geschichte ist kein zufaelliges Chaos, sondern die rationale Selbstverwirklichung des Weltgeistes. Der orientalische Despotismus (einer ist frei), die griechisch-roemische Welt (einige sind frei) und die germanisch-christliche Welt (alle sind frei) bilden die Stufen dieses Fortschritts.",
+    "kernthesen": [
+      "Die Wirklichkeit ist die Selbstentfaltung des absoluten Geistes",
+      "Die dialektische Methode (These-Antithese-Synthese) ist die Grundstruktur des Denkens und der Wirklichkeit",
+      "Die Weltgeschichte ist der Fortschritt im Bewusstsein der Freiheit",
+      "Was vernuenftig ist, ist wirklich, und was wirklich ist, ist vernuenftig",
+      "Das Wahre ist das Ganze – Wahrheit kann nur im System des Ganzen erkannt werden"
+    ],
+    "entstehung": "Der Hegelianismus begruendet sich auf Hegels Hauptwerken: 'Phaenomenologie des Geistes' (1807), 'Wissenschaft der Logik' (1812-1816), 'Enzyklopaedie der philosophischen Wissenschaften' (1817) und 'Grundlinien der Philosophie des Rechts' (1821). Nach Hegels Tod (1831) spaltete sich die Schule in Rechts- und Linkshegelianer. Marx entwickelte den historischen Materialismus als materialistische Transformation des Hegelianismus. Im 20. Jahrhundert erlebte Hegel durch Kojèves Interpretation und die Frankfurter Schule eine Renaissance.",
+    "kritik": "Kierkegaard kritisierte Hegels System als abstrakte Spekulation, die das existenzielle Individuum ignoriert. Schopenhauer verspottete Hegel als 'geistigen Kaliban'. Die analytische Philosophie (Russell, Moore) lehnte Hegels Idealismus als unklar und unwissenschaftlich ab. Karl Popper kritisierte Hegel als Vorlaeufer des Totalitarismus in 'Die offene Gesellschaft und ihre Feinde'."
+  }
 }

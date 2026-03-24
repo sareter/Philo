@@ -11,13 +11,44 @@
     "Authentische Existenz erfordert die Übernahme der eigenen Endlichkeit und Geworfenheit.",
     "Therapeutische Hilfe muss den ganzen Menschen in seiner konkreten Lebenssituation ansprechen."
   ],
-  "hauptvertreter": ["martin-heidegger"],
+  "hauptvertreter": [
+    "martin-heidegger"
+  ],
   "entstehung": "Die Existenzialanalyse wurde ab den 1930er Jahren von Ludwig Binswanger und ab den 1950er Jahren von Medard Boss entwickelt. Beide bezogen sich auf Heideggers 'Sein und Zeit' (1927) und die persönliche Zusammenarbeit mit Heidegger. Sie entstand als philosophische Alternative zur Psychoanalyse und zur behavioristischen Psychologie.",
   "kritik": "Kritiker werfen der Existenzialanalyse vor, empirisch nicht überprüfbar zu sein und sich einer wissenschaftlichen Evaluation zu entziehen. Zudem wird bemängelt, dass die schwierige philosophische Terminologie den therapeutischen Zugang erschwere und die Methode elitär erscheinen lasse.",
-  "verwandteIsmen": ["existenzialismus", "phaenomenologie", "logotherapie"],
+  "verwandteIsmen": [
+    "existenzialismus",
+    "phaenomenologie",
+    "logotherapie"
+  ],
   "schluesselwerke": [
-    {"titel": "Grundformen und Erkenntnis menschlichen Daseins", "autor": "Ludwig Binswanger", "jahr": "1942"},
-    {"titel": "Grundriss der Medizin und der Psychologie", "autor": "Medard Boss", "jahr": "1975"},
-    {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"}
-  ]
+    {
+      "titel": "Grundformen und Erkenntnis menschlichen Daseins",
+      "autor": "Ludwig Binswanger",
+      "jahr": "1942"
+    },
+    {
+      "titel": "Grundriss der Medizin und der Psychologie",
+      "autor": "Medard Boss",
+      "jahr": "1975"
+    },
+    {
+      "titel": "Sein und Zeit",
+      "autor": "Martin Heidegger",
+      "jahr": "1927"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Existenzialanalyse ist eine philosophisch-therapeutische Methode, die das menschliche Dasein in seinen Grundstrukturen – Geworfenheit, Sorge, Sein-zum-Tode – analysiert und den Menschen zur authentischen Existenz fuehren will.",
+    "ausfuehrlicheBeschreibung": "Die Existenzialanalyse (Daseinsanalyse) wurde von Ludwig Binswanger und Medard Boss auf der Grundlage von Heideggers Fundamentalontologie als therapeutischer Ansatz entwickelt. Sie uebertraegt Heideggers philosophische Analyse der Grundstrukturen des Daseins – Geworfenheit, Entwurf, Sein-zum-Tode, Sorge – auf das Verstaendnis psychischer Stoerungen und existenzieller Krisen. Anders als die Psychoanalyse Freuds versteht sie den Menschen nicht als Triebwesen, sondern als ein Wesen, das in seinem Sein immer schon auf die Frage nach dem Sinn verwiesen ist.\n\nBinswanger entwickelte die Existenzialanalyse als 'phaenomenologische Anthropologie', die das In-der-Welt-Sein des Menschen in seinen verschiedenen Dimensionen – Umwelt, Mitwelt, Eigenwelt – untersucht. Boss arbeitete direkt mit Heidegger zusammen und entwickelte die 'Daseinsanalytische Psychotherapie', die den Patienten nicht auf unbewusste Mechanismen reduziert, sondern seine konkrete Existenz in ihrer Offenheit und Verletzlichkeit in den Blick nimmt. Die Krankheit wird als besondere Weise des In-der-Welt-Seins verstanden.\n\nDie Existenzialanalyse hat die humanistische Psychologie, die existenzielle Psychotherapie und die philosophische Praxis nachhaltig beeinflusst. Sie bietet ein philosophisch fundiertes Verstaendnis psychischen Leidens, das den Menschen als ganzen in den Blick nimmt und nicht auf biologische oder psychische Mechanismen reduziert. In der Gegenwart erfaehrt sie erneutes Interesse als Alternative zu rein naturwissenschaftlichen Ansaetzen in der Psychiatrie.",
+    "kernthesen": [
+      "Psychische Stoerungen sind Weisen des In-der-Welt-Seins, nicht blosse Fehlfunktionen.",
+      "Der Mensch ist immer schon auf die Frage nach dem Sinn seines Daseins verwiesen.",
+      "Angst, Schuld und Tod sind keine pathologischen Zustaende, sondern Grundstrukturen der Existenz.",
+      "Authentische Existenz erfordert die Uebernahme der eigenen Endlichkeit und Geworfenheit.",
+      "Therapeutische Hilfe muss den ganzen Menschen in seiner konkreten Lebenssituation ansprechen."
+    ],
+    "entstehung": "Die Existenzialanalyse wurde ab den 1930er Jahren von Ludwig Binswanger und ab den 1950er Jahren von Medard Boss entwickelt. Beide bezogen sich auf Heideggers 'Sein und Zeit' (1927) und die persoenliche Zusammenarbeit mit Heidegger. Sie entstand als philosophische Alternative zur Psychoanalyse und zur behavioristischen Psychologie.",
+    "kritik": "Kritiker werfen der Existenzialanalyse vor, empirisch nicht ueberpruefbar zu sein und sich einer wissenschaftlichen Evaluation zu entziehen. Zudem wird bemaengelt, dass die schwierige philosophische Terminologie den therapeutischen Zugang erschwere und die Methode elitaer erscheinen lasse."
+  }
 }

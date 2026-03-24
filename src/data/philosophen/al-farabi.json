@@ -75,5 +75,26 @@
     }
   ],
   "verwandtePhilosophen": ["aristoteles", "platon", "ibn-khaldun", "al-kindi", "al-ghazali"],
-  "verwandteIsmen": ["aristotelismus", "rationalismus", "neoplatonismus"]
+  "verwandteIsmen": ["aristotelismus", "rationalismus", "neoplatonismus"],
+  "einfach": {
+    "kurzbeschreibung": "Al-Farabi wurde der Zweite Lehrer genannt (nach Aristoteles) und war einer der wichtigsten Philosophen der islamischen Welt. Er versuchte, griechische Philosophie und islamischen Glauben miteinander zu verbinden.",
+    "biografie": {
+      "fruehesLeben": "Al-Farabi wurde um 872 im heutigen Kasachstan geboren. Er zog nach Bagdad, das damals das Zentrum der islamischen Gelehrsamkeit war, und studierte dort Philosophie, Logik und Musik.",
+      "schaffen": "In Bagdad entwickelte Al-Farabi ein grosses philosophisches System. Er verband die Ideen von Aristoteles mit islamischer Theologie. Sein wichtigstes Werk beschreibt eine ideale Stadt, in der ein weiser Herrscher die Menschen zum Glueck fuehrt.",
+      "spaetesLeben": "Spaeter verliess Al-Farabi Bagdad und lebte am Hof eines Herrschers in Aleppo. Obwohl er beruehmt war, lebte er angeblich sehr bescheiden.",
+      "tod": "Al-Farabi starb 950 in Damaskus. Wie genau er starb, ist nicht sicher ueberliefert.",
+      "nachwirkung": "Al-Farabi gilt als Begruender der islamischen Philosophie. Ohne ihn haetten spaetere grosse Denker wie Avicenna und Averroes nicht so arbeiten koennen, wie sie es taten."
+    },
+    "kernideen": [
+      {"titel": "Die Musterstadt (al-Madina al-Fadila)", "beschreibung": "Al-Farabi entwarf eine ideale Stadt, in der ein philosophischer Herrscher die Buerger zum Glueck fuehrt, aehnlich wie Platon es in seinem Staat beschrieben hat."},
+      {"titel": "Emanationslehre", "beschreibung": "Alles fliesst stufenweise aus Gott heraus, von den hoechsten geistigen Wesen bis hinunter zur materiellen Welt, und der Mensch kann durch Vernunft Erkenntnis erlangen."},
+      {"titel": "Harmonisierung von Philosophie und Religion", "beschreibung": "Philosophie und Religion sagen laut Al-Farabi dasselbe, nur auf verschiedene Weisen: Philosophie durch Beweise, Religion durch Bilder und Geschichten."},
+      {"titel": "Klassifikation der Wissenschaften", "beschreibung": "Al-Farabi ordnete alle Wissenschaften in ein System, das im Mittelalter zur Grundlage fuer die Einteilung des Wissens wurde."}
+    ],
+    "werke": [
+      {"titel": "Kitab al-Madina al-Fadila (Die Musterstadt)", "jahr": "942", "beschreibung": "Al-Farabis Hauptwerk, das eine ideale Staatsordnung beschreibt, die sich an der Ordnung des Universums orientiert."},
+      {"titel": "Ihsa al-Ulum (Aufzaehlung der Wissenschaften)", "jahr": "940", "beschreibung": "Eine einflussreiche Einteilung aller Wissenschaften, die sowohl die islamische als auch die christliche Welt praegte."},
+      {"titel": "Kitab al-Huruf (Buch der Buchstaben)", "jahr": "945", "beschreibung": "Eine Untersuchung ueber den Zusammenhang von Sprache, Logik und dem Wesen der Dinge."}
+    ]
+  }
 }

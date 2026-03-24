@@ -11,13 +11,44 @@
     "Weder Reduktion auf Teile noch auf Wirkungen kann ein Objekt erschöpfend erfassen.",
     "Ästhetik ist eine grundlegende Kategorie der Ontologie, nicht nur der Kunst."
   ],
-  "hauptvertreter": ["martin-heidegger"],
+  "hauptvertreter": [
+    "martin-heidegger"
+  ],
   "entstehung": "Die Objektorientierte Ontologie wurde von Graham Harman ab 1999 entwickelt, ausgehend von seiner Heidegger-Interpretation in 'Tool-Being'. Sie wurde Teil des Spekulativen Realismus und gewann durch Ian Bogost, Timothy Morton und Levi Bryant weitere Vertreter und Anwendungsfelder.",
   "kritik": "Kritiker werfen der OOO vor, dass die These eines unzugänglichen Objektkerns philosophisch nicht begründet werden kann, da jede Aussage darüber bereits einen Zugang voraussetzt. Zudem wird bemängelt, dass die Gleichstellung aller Objekte ethisch problematisch sei und menschliches Leid relativiere.",
-  "verwandteIsmen": ["spekulativer-realismus", "neuer-materialismus", "flacher-ontologie"],
+  "verwandteIsmen": [
+    "spekulativer-realismus",
+    "neuer-materialismus",
+    "flacher-ontologie"
+  ],
   "schluesselwerke": [
-    {"titel": "Tool-Being", "autor": "Graham Harman", "jahr": "2002"},
-    {"titel": "The Quadruple Object", "autor": "Graham Harman", "jahr": "2011"},
-    {"titel": "Hyperobjects", "autor": "Timothy Morton", "jahr": "2013"}
-  ]
+    {
+      "titel": "Tool-Being",
+      "autor": "Graham Harman",
+      "jahr": "2002"
+    },
+    {
+      "titel": "The Quadruple Object",
+      "autor": "Graham Harman",
+      "jahr": "2011"
+    },
+    {
+      "titel": "Hyperobjects",
+      "autor": "Timothy Morton",
+      "jahr": "2013"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Objektorientierte Ontologie  stellt Objekte ins Zentrum der Philosophie und argumentiert, dass alle Entitaeten – ob menschlich oder nicht – gleichermassen real sind und sich gegenseitig nie vollstaendig erschliessen koennen.",
+    "ausfuehrlicheBeschreibung": "Die Objektorientierte Ontologie wurde von Graham Harman entwickelt und geht von der These aus, dass Objekte – seien es Steine, Gedanken, Nationen oder Quarks – das grundlegende Mobiliar der Wirklichkeit bilden. Jedes Objekt besitzt einen unzugaenglichen Kern, der sich jeder Relation und jedem Zugriff entzieht. Diese Idee knuepft an Heideggers Analyse des Zuhandenen an: Dinge erscheinen uns gewoehnlich als Werkzeuge, doch ihre eigentliche Realitaet liegt tiefer als jede Verwendung und jede Wahrnehmung.\n\nHarman unterscheidet zwischen realen und sinnlichen Objekten sowie realen und sinnlichen Qualitaeten und entwickelt daraus ein vierfaches Modell der Wirklichkeit. Die OOO lehnt sowohl den 'Unterminierer' ab – wer Objekte auf ihre Teile reduziert – als auch den 'Ueberminierer' – wer Objekte auf ihre Wirkungen oder Relationen reduziert. Objekte sind irreduzibel und halten immer etwas in Reserve, das sich jeder Beziehung entzieht. Timothy Morton hat die OOO auf oekologische Fragen angewandt und den Begriff der 'Hyperobjekte' gepraegt.\n\nDie OOO hat Debatten in Philosophie, Kunst, Architektur und Oekologie angestossen, indem sie den Anthropozentrismus herausfordert und eine 'flache Ontologie' vorschlaegt, in der Menschen keine bevorzugte Stellung geniessen. Sie bietet neue Perspektiven fuer das Verstaendnis von Kunst als eigenstaendigem Objekt und fuer die Begegnung mit den oekologischen Herausforderungen des Anthropozaens.",
+    "kernthesen": [
+      "Objekte bilden das Grundgeruest der Wirklichkeit und sind irreduzibel auf ihre Teile oder Relationen.",
+      "Jedes Objekt besitzt einen verborgenen Kern, der sich jedem Zugriff entzieht.",
+      "Menschen haben keinen ontologischen Sonderstatus gegenueber anderen Objekten.",
+      "Weder Reduktion auf Teile noch auf Wirkungen kann ein Objekt erschoepfend erfassen.",
+      "Aesthetik ist eine grundlegende Kategorie der Ontologie, nicht nur der Kunst."
+    ],
+    "entstehung": "Die Objektorientierte Ontologie wurde von Graham Harman ab 1999 entwickelt, ausgehend von seiner Heidegger-Interpretation in 'Tool-Being'. Sie wurde Teil des Spekulativen Realismus und gewann durch Ian Bogost, Timothy Morton und Levi Bryant weitere Vertreter und Anwendungsfelder.",
+    "kritik": "Kritiker werfen der OOO vor, dass die These eines unzugaenglichen Objektkerns philosophisch nicht begruendet werden kann, da jede Aussage darueber bereits einen Zugang voraussetzt. Zudem wird bemaengelt, dass die Gleichstellung aller Objekte ethisch problematisch sei und menschliches Leid relativiere."
+  }
 }

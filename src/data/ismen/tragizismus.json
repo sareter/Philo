@@ -11,13 +11,44 @@
     "Die bejahende Annahme des Tragischen kann Quelle von Größe und Schöpferkraft sein.",
     "Jeder Optimismus, der das Tragische verleugnet, ist intellektuelle Unredlichkeit."
   ],
-  "hauptvertreter": ["friedrich-nietzsche", "arthur-schopenhauer"],
+  "hauptvertreter": [
+    "friedrich-nietzsche",
+    "arthur-schopenhauer"
+  ],
   "entstehung": "Der Tragizismus entwickelte sich im 19. Jahrhundert aus Schopenhauers pessimistischer Willensmetaphysik und Nietzsches früher Tragödientheorie. Schellings Spätphilosophie und Kierkegaards Existenzdenken trugen ebenfalls zur Ausformung des tragischen Denkens bei.",
   "kritik": "Kritiker werfen dem Tragizismus vor, dass er in Fatalismus und Passivität mündet, indem er die Möglichkeit gesellschaftlicher Verbesserung leugnet. Zudem wird eingewandt, dass die Erhebung des Tragischen zur Universalkategorie einer bestimmten historischen Erfahrung entspringt und nicht ohne Weiteres verallgemeinert werden kann.",
-  "verwandteIsmen": ["pessimismus", "existenzialismus"],
+  "verwandteIsmen": [
+    "pessimismus",
+    "existenzialismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1818"},
-    {"titel": "Die Geburt der Tragödie", "autor": "Friedrich Nietzsche", "jahr": "1872"},
-    {"titel": "Von der Wahrheit", "autor": "Karl Jaspers", "jahr": "1947"}
-  ]
+    {
+      "titel": "Die Welt als Wille und Vorstellung",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1818"
+    },
+    {
+      "titel": "Die Geburt der Tragödie",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1872"
+    },
+    {
+      "titel": "Von der Wahrheit",
+      "autor": "Karl Jaspers",
+      "jahr": "1947"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Tragizismus betrachtet das Tragische als unaufhebbare Grundstruktur der menschlichen Existenz.",
+    "ausfuehrlicheBeschreibung": "Der Tragizismus entstand im 19. Jahrhundert als philosophische Reaktion auf den Optimismus der Aufklaerung und des deutschen Idealismus. Arthur Schopenhauer entwickelte die erste systematische tragische Philosophie, indem er das Leben als Ausdruck eines blinden, unvernuenftigen Willens deutete. Das Dasein ist wesentlich Leiden: Der Wille treibt den Menschen in ein rastloses Streben, das nie dauerhaft befriedigt werden kann. Jede Erfuellung gebiert neue Wuensche, und das Leben pendelt zwischen Schmerz und Langeweile.\n\nFriedrich Nietzsche uebernahm Schopenhauers Diagnose des Tragischen, zog aber andere Konsequenzen. Statt der Verneinung des Willens forderte er die bejahende Annahme des Tragischen als Quelle von Groesse und Schoepferkraft. In seiner „Geburt der Tragoedie“ deutete Nietzsche die griechische Tragoedie als Ausdruck einer Kultur, die das Schreckliche und Absurde des Daseins nicht verleugnete, sondern in kuenstlerischer Gestaltung bejahte. Der tragische Held sagt Ja zum Leben trotz allen Leidens.\n\nDer Tragizismus hat die Existenzphilosophie des 20. Jahrhunderts tiefgreifend beeinflusst. Karl Jaspers' Konzept der „Grenzsituationen“ – Tod, Leiden, Kampf, Schuld – greift tragizistische Motive auf. In der Literatur und im Theater bleibt das Tragische eine zentrale Kategorie. Der Tragizismus erinnert gegen allen Fortschrittsoptimismus daran, dass menschliches Dasein von Endlichkeit, Scheitern und unloesbaren Konflikten gezeichnet ist.",
+    "kernthesen": [
+      "Das Tragische ist eine unaufhebbare Grundstruktur der menschlichen Existenz.",
+      "Das Leben ist von unaufloesbaren Konflikten und Leiden durchzogen, die nicht durch Fortschritt ueberwunden werden koennen.",
+      "Der blinde Wille treibt den Menschen in ein rastloses, letztlich unbefriedigendes Streben.",
+      "Die bejahende Annahme des Tragischen kann Quelle von Groesse und Schoepferkraft sein.",
+      "Jeder Optimismus, der das Tragische verleugnet, ist intellektuelle Unredlichkeit."
+    ],
+    "entstehung": "Der Tragizismus entwickelte sich im 19. Jahrhundert aus Schopenhauers pessimistischer Willensmetaphysik und Nietzsches frueher Tragoedientheorie. Schellings Spaetphilosophie und Kierkegaards Existenzdenken trugen ebenfalls zur Ausformung des tragischen Denkens bei.",
+    "kritik": "Kritiker werfen dem Tragizismus vor, dass er in Fatalismus und Passivitaet muendet, indem er die Moeglichkeit gesellschaftlicher Verbesserung leugnet. Zudem wird eingewandt, dass die Erhebung des Tragischen zur Universalkategorie einer bestimmten historischen Erfahrung entspringt und nicht ohne Weiteres verallgemeinert werden kann."
+  }
 }

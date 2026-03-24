@@ -119,5 +119,79 @@
     }
   ],
   "verwandtePhilosophen": ["simone-de-beauvoir", "albert-camus", "martin-heidegger", "edmund-husserl", "maurice-merleau-ponty", "michel-foucault"],
-  "verwandteIsmen": ["existenzialismus", "phaenomenologie", "marxismus", "humanismus"]
+  "verwandteIsmen": ["existenzialismus", "phaenomenologie", "marxismus", "humanismus"],
+  "einfach": {
+    "kurzbeschreibung": "Sartre war der Star des Existenzialismus und sagte: Du bist frei, du entscheidest selbst, wer du bist -- niemand sonst.",
+    "biografie": {
+      "fruehesLeben": "Sartre wurde 1905 in Paris geboren. Sein Vater starb frueh, und er wuchs bei seiner Mutter und seinem Grossvater auf, umgeben von Buechern. Er studierte Philosophie und lernte dabei Simone de Beauvoir kennen, die seine Lebenspartnerin wurde. In Berlin entdeckte er die Philosophie von Husserl und Heidegger, die ihn stark beeinflussten.",
+      "schaffen": "Sein Hauptwerk 'Das Sein und das Nichts' erklaerte, warum der Mensch radikal frei ist und sich nicht hinter Ausreden verstecken kann. Sein Vortrag 'Der Existenzialismus ist ein Humanismus' machte diese Ideen weltbekannt. Er schrieb auch Romane und Theaterstuecke wie 'Der Ekel' und 'Geschlossene Gesellschaft'. Spaeter versuchte er, Existenzialismus und Marxismus zu verbinden, und engagierte sich politisch gegen Kriege und fuer soziale Gerechtigkeit.",
+      "spaetesLeben": "Sartre wurde zu einer der bekanntesten Persoenlichkeiten Frankreichs. 1964 lehnte er den Nobelpreis fuer Literatur ab, weil er unabhaengig bleiben wollte. Er unterstuetzte die Studentenbewegung von 1968. In seinen letzten Jahren erblindete er fast vollstaendig und konnte nicht mehr schreiben.",
+      "tod": "Sartre starb 1980 in Paris. Ueber 50.000 Menschen kamen zu seiner Beerdigung -- ein Zeichen dafuer, wie wichtig er fuer viele Menschen war.",
+      "nachwirkung": "Sartre machte den Existenzialismus zur weltweit bekanntesten Philosophie seiner Zeit. Seine Ideen ueber Freiheit, Selbsttaeuschung und die Beziehung zu anderen praeegen die Philosophie bis heute."
+    },
+    "kernideen": [
+      {
+        "titel": "Die Existenz geht der Essenz voraus",
+        "beschreibung": "Du bist nicht als fertiger Mensch geboren. Zuerst existierst du, und dann entscheidest du durch deine Handlungen, wer du bist."
+      },
+      {
+        "titel": "Radikale Freiheit und Verantwortung",
+        "beschreibung": "Du bist zur Freiheit verurteilt -- du kannst nicht nicht waehlen. Aber damit bist du auch fuer alles verantwortlich, was du tust."
+      },
+      {
+        "titel": "Unaufrichtigkeit (Mauvaise foi)",
+        "beschreibung": "Wenn du so tust, als haettest du keine Wahl ('Ich musste das tun'), dann beluegst du dich selbst, um deiner Freiheit auszuweichen."
+      },
+      {
+        "titel": "Der Blick (Le regard)",
+        "beschreibung": "Wenn andere dich ansehen, wirst du zum Objekt ihres Urteils. Deshalb sagte Sartre: 'Die Hoelle, das sind die anderen.'"
+      },
+      {
+        "titel": "Engagement",
+        "beschreibung": "Philosophen duerfen nicht nur nachdenken, sie muessen sich auch politisch einsetzen und die Welt aktiv veraendern."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Der Ekel (La Nausee)",
+        "jahr": "1938",
+        "beschreibung": "Ein Roman ueber einen Mann, der ploetzlich merkt, wie sinnlos und absurd das ganze Dasein eigentlich ist."
+      },
+      {
+        "titel": "Das Sein und das Nichts (L'Etre et le Neant)",
+        "jahr": "1943",
+        "beschreibung": "Sartres philosophisches Hauptwerk, in dem er erklaert, warum der Mensch radikal frei ist."
+      },
+      {
+        "titel": "Die Fliegen (Les Mouches)",
+        "jahr": "1943",
+        "beschreibung": "Ein Theaterstueck, das eine antike Geschichte nutzt, um ueber Freiheit im besetzten Frankreich zu sprechen."
+      },
+      {
+        "titel": "Geschlossene Gesellschaft (Huis clos)",
+        "jahr": "1944",
+        "beschreibung": "Drei Tote sitzen in einem Raum in der Hoelle und merken: Die Hoelle, das sind die anderen."
+      },
+      {
+        "titel": "Der Existenzialismus ist ein Humanismus",
+        "jahr": "1946",
+        "beschreibung": "Ein beruehmter Vortrag, in dem Sartre seine Philosophie fuer alle verstaendlich zusammenfasst."
+      },
+      {
+        "titel": "Kritik der dialektischen Vernunft",
+        "jahr": "1960",
+        "beschreibung": "Sartres Versuch, Existenzialismus und Marxismus zu einer Theorie zu verbinden."
+      },
+      {
+        "titel": "Die Woerter (Les Mots)",
+        "jahr": "1964",
+        "beschreibung": "Sartres Autobiografie ueber seine Kindheit und wie er zum Schriftsteller wurde."
+      },
+      {
+        "titel": "Der Idiot der Familie (L'Idiot de la famille)",
+        "jahr": "1971--1972",
+        "beschreibung": "Eine riesige, unvollendete Studie ueber den Schriftsteller Gustave Flaubert."
+      }
+    ]
+  }
 }

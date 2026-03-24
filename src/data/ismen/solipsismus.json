@@ -19,5 +19,17 @@
     { "titel": "A Treatise Concerning the Principles of Human Knowledge", "autor": "George Berkeley", "jahr": "1710" },
     { "titel": "Tractatus Logico-Philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921" },
     { "titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Solipsismus ist die Idee, dass du dir nur bei einer einzigen Sache sicher sein kannst: dass du selbst existierst. Alles andere - die ganze Welt, andere Menschen - koennte nur in deinem Kopf stattfinden.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du traeumt gerade. Im Traum fuehlt sich alles echt an - andere Menschen, Orte, Gespraeche. Aber nichts davon existiert wirklich ausserhalb deines Kopfes. Der Solipsismus fragt: Woher weisst du eigentlich, dass du gerade nicht traeumst? Woher weisst du, dass die Welt um dich herum wirklich da ist und nicht nur eine Projektion deines Bewusstseins?\n\nDescartes hat diese Frage im 17. Jahrhundert aufgeworfen. Er zweifelte an allem und kam zum Schluss: Das Einzige, woran ich nicht zweifeln kann, ist, dass ich gerade zweifle. Also existiere ich - Ich denke, also bin ich. Aber was ist mit allem anderen? Der Solipsismus nimmt diesen Gedanken ernst und sagt: Vielleicht gibt es wirklich nur dein Bewusstsein.\n\nFast kein Philosoph glaubt ernsthaft, dass der Solipsismus stimmt. Aber er ist ein extrem nuetzliches Gedankenexperiment, weil er uns zeigt, wie wenig wir eigentlich beweisen koennen. Wittgenstein hat spaeter argumentiert, dass Sprache ohne andere Menschen gar nicht funktionieren wuerde - und damit den Solipsismus elegant ausgehebelt.",
+    "kernthesen": [
+      "Nur die eigene Existenz ist wirklich sicher",
+      "Die Aussenwelt und andere Menschen koennten nur Einbildung sein",
+      "Es gibt keinen wasserdichten Beweis dafuer, dass ausserhalb deines Bewusstseins irgendetwas existiert",
+      "Du kannst nie wirklich wissen, was andere fuehlen oder denken, weil du keinen direkten Zugang zu ihrem Bewusstsein hast"
+    ],
+    "entstehung": "Das Problem entstand mit Descartes im 17. Jahrhundert, als er systematisch an allem zweifelte. George Berkeley verschaerfte die Lage mit seiner These, dass Dinge nur existieren, wenn sie wahrgenommen werden. Wittgenstein versuchte im 20. Jahrhundert, den Solipsismus mit seinem Privatsprachenargument zu widerlegen.",
+    "kritik": "Der offensichtlichste Einwand: Wenn du behauptest, nur du existierst, an wen richtest du dann diese Behauptung? Das ist ein Widerspruch. Ausserdem funktioniert Sprache nur in einer Gemeinschaft, und im Alltag muessen wir staendig davon ausgehen, dass andere Menschen echt sind, sonst koennten wir gar nicht handeln."
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"},
     {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
     {"titel": "Walden oder Leben in den Wäldern", "autor": "Henry David Thoreau", "jahr": "1854"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Minimalismus sagt: Weniger ist mehr. Wenn du alles Ueberfluessige weglasst -- im Denken, im Reden, im Leben -- kommst du zum Wesentlichen und wirst freier.",
+    "ausfuehrlicheBeschreibung": "Kennst du das Gefuehl, wenn dein Zimmer voellig vollgestopft ist und du dich erst wohl fuehlst, nachdem du ausgemistet hast? Der Minimalismus uebertraegt dieses Prinzip auf alles: auf die Philosophie, die Kunst und die Lebensfuehrung. Die Idee ist, dass wir von zu viel Zeug, zu vielen Informationen und zu vielen komplizierten Gedanken umgeben sind -- und dass Klarheit erst entsteht, wenn wir radikal reduzieren.\n\nIn der Philosophie hat Wittgenstein das auf den Punkt gebracht: Worueber man nicht klar reden kann, darueber soll man lieber schweigen. Viele philosophische Probleme entstehen seiner Meinung nach nur, weil wir die Sprache missbrauchen und unnoetig kompliziert reden. Wenn wir klar und einfach formulieren, loesen sich viele Scheinprobleme in Luft auf.\n\nIm Alltag bedeutet Minimalismus: weniger Besitz, weniger Ablenkung, mehr Fokus auf das, was wirklich zaehlt. Das passt gut zusammen mit alten Weisheitstraditionen wie dem Zen-Buddhismus oder der Stoa, die schon vor Jahrhunderten sagten: Weniger Wuensche, mehr innere Ruhe. Heute verbinden viele den Minimalismus auch mit Nachhaltigkeit -- wer weniger konsumiert, schadet der Umwelt weniger.",
+    "kernthesen": [
+      "Wenn man alles Ueberfluessige wegnimmt, kommt man zu mehr Klarheit im Denken und Leben.",
+      "Viele philosophische Probleme entstehen nur durch unkare Sprache und loesen sich durch praezises Reden auf.",
+      "Was man nicht klar sagen kann, darueber sollte man schweigen.",
+      "Die groesste Wirkung erreicht man mit den einfachsten Mitteln.",
+      "Wer auf Ueberfluessiges verzichtet, gewinnt innere Freiheit und tieferes Erleben."
+    ],
+    "entstehung": "Der Minimalismus hat Wurzeln in der antiken Stoa und im Zen-Buddhismus. Wittgensteins Tractatus von 1921 brachte das minimalistische Denken in die Philosophie. Als Kunstrichtung entstand der Minimalismus in den 1960er Jahren in den USA.",
+    "kritik": "Kritiker sagen, dass man durch die Beschraenkung auf das vermeintlich Wesentliche wichtige Dinge uebersieht. Nicht alles, was sich nicht klar sagen laesst, ist sinnlos -- Liebe, Sinn, Schoenheit lassen sich schwer in einfache Saetze packen und sind trotzdem wichtig."
+  }
 }

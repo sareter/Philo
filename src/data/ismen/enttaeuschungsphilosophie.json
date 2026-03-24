@@ -18,5 +18,18 @@
   "schluesselwerke": [
     {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"},
     {"titel": "Die Grundbegriffe der Metaphysik", "autor": "Martin Heidegger", "jahr": "1983"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Enttaeuschungsphilosophie sieht in jeder Enttaeuschung auch eine Ent-Taeuschung: Wenn Erwartungen zerplatzen, fallen Illusionen weg, und man sieht die Welt, wie sie wirklich ist.",
+    "ausfuehrlicheBeschreibung": "Du hast dir etwas total schoen vorgestellt, und dann kommt es ganz anders. Das tut weh. Aber die Enttaeuschungsphilosophie sagt: Genau in diesem Moment passiert auch etwas Gutes. Denn Ent-Taeuschung heisst woertlich, dass eine Taeuschung aufgehoben wird. Du hast dich vorher selbst belogen, und jetzt siehst du die Realitaet.\n\nHeidegger beschrieb das so: Im Alltag sind wir voller Erwartungen und Annahmen, die uns die Welt in einem bestimmten Licht zeigen. Wenn diese Erwartungen zusammenbrechen, werden wir auf uns selbst zurueckgeworfen. Die Dinge zeigen sich dann, wie sie wirklich sind, ohne den Filter unserer Wuensche und Hoffnungen. Das ist unangenehm, aber es bringt uns der Wahrheit naeher.\n\nDie Grundidee ist also: Jede Enttaeuschung kann ein Erkenntnisgewinn sein. Jede geplatzte Illusion bringt dich ein Stueck naeher an die Realitaet. Allerdings fragen Kritiker zu Recht: Fuehrt das Ablegen von Illusionen wirklich zur Wahrheit, oder wird man dadurch einfach nur zynisch?",
+    "kernthesen": [
+      "Enttaeuschung ist gleichzeitig schmerzhaft und befreiend, weil sie Illusionen zerstoert.",
+      "Wenn Erwartungen zusammenbrechen, zeigen sich die Dinge, wie sie wirklich sind.",
+      "Die alltaegliche Vertrautheit mit der Welt beruht oft auf Selbsttaeuschung.",
+      "Jede Enttaeuschung kann ein Schritt zu tieferer Erkenntnis sein.",
+      "Enttaeuschung gehoert grundlegend zum Menschsein dazu."
+    ],
+    "entstehung": "Die Enttaeuschungsphilosophie entstand im 20. Jahrhundert aus der Tradition Heideggers. Die Erfahrungen der Weltkriege und der Zusammenbruch alter Gewissheiten bildeten den Hintergrund fuer eine systematische Auseinandersetzung mit Enttaeuschung und Illusionsverlust.",
+    "kritik": "Kritiker sagen, diese Philosophie ueberschaetzt die Enttaeuschung und unterschaetzt den Wert von Hoffnung und positiven Erwartungen. Ausserdem ist fraglich, ob das Ablegen von Illusionen wirklich zur Wahrheit fuehrt oder nur zu neuen, vielleicht bittereren Taeuschungen."
+  }
 }

@@ -18,5 +18,18 @@
   "schluesselwerke": [
     {"titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580"},
     {"titel": "Anatomie der Melancholie", "autor": "Robert Burton", "jahr": "1621"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Melancholismus sagt: Traurigkeit und Schwermut sind keine Schwaeche, sondern ein Weg, die Welt tiefer zu verstehen. Wer melancholisch ist, sieht Dinge, die anderen verborgen bleiben.",
+    "ausfuehrlicheBeschreibung": "Jeder kennt das Gefuehl, wenn man abends allein dasitzt und ueber das Leben nachdenkt -- ueber die Vergaenglichkeit, darueber dass nichts fuer immer bleibt. Normalerweise schuettelt man das ab und macht weiter. Der Melancholismus sagt: Halt, genau dieses Gefuehl ist wertvoll. In dieser Schwermut steckt eine tiefere Erkenntnis als in oberflaechlicher Froehlichkeit.\n\nMontaigne hat sich in einen Turm zurueckgezogen und endlos ueber sich selbst nachgedacht -- ueber seine Aengste, seine Schwaechen, seine Sterblichkeit. Das war fuer ihn kein Zeichen von Depression, sondern die ehrlichste Art, sich selbst und die Welt zu verstehen. Die Melancholie wurde seit der Antike mit Genialitaet verbunden: Wer tief empfindet, denkt auch tief.\n\nDer Melancholismus ist kein platter Pessimismus. Es geht nicht darum, alles schlecht zu finden. Es geht um eine Art liebevolle Traurigkeit gegenueber der Vergaenglichkeit. Man weiss, dass alles Schoene irgendwann vorbei ist -- und gerade deshalb schaetzt man es umso mehr.",
+    "kernthesen": [
+      "Melancholie ist keine Krankheit, sondern eine Art, die Welt tiefer zu sehen.",
+      "In der Schwermut steckt ein besonderer Zugang zur Wahrheit.",
+      "Alles ist vergaenglich und endlich -- das zu fuehlen ist der Anfang von Weisheit.",
+      "Echte Selbsterkenntnis braucht den Mut, sich auch den dunklen Seiten zu stellen.",
+      "Das Vergaengliche verdient unsere Wertschaetzung, gerade weil es vergaenglich ist."
+    ],
+    "entstehung": "Die Idee, dass Melancholie etwas Wertvolles ist, reicht bis in die Antike zurueck. In der Renaissance wurde sie von Denkern wie Montaigne zu einer philosophischen Haltung aufgewertet. Seitdem wird die Schwermut immer wieder als Quelle von Kreativitaet und tiefem Nachdenken gesehen.",
+    "kritik": "Manche sagen, der Melancholismus macht echtes Leiden zur schoenen Pose. Wer wirklich unter Depressionen leidet, findet es nicht besonders philosophisch. Ausserdem ist es ein Luxus, melancholisch zu sein -- wer um seine Existenz kaempft, hat keine Zeit fuer schwermuetige Betrachtungen."
+  }
 }

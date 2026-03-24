@@ -129,5 +129,34 @@
     }
   ],
   "verwandtePhilosophen": ["platon", "sokrates", "thomas-von-aquin", "thales", "empedokles", "demokrit", "alexander-der-grosse"],
-  "verwandteIsmen": ["aristotelismus", "empirismus", "realismus", "tugendethik"]
+  "verwandteIsmen": ["aristotelismus", "empirismus", "realismus", "tugendethik"],
+  "einfach": {
+    "kurzbeschreibung": "Aristoteles war der beruehmteste Schueler Platons und so vielseitig, dass er als Universalgelehrter gilt. Er begruendete die Logik, erforschte Tiere, dachte ueber Politik nach und fragte, was ein gutes Leben ausmacht.",
+    "biografie": {
+      "fruehesLeben": "Aristoteles wurde 384 v. Chr. in Nordgriechenland geboren. Sein Vater war Arzt am makedonischen Koenigshof. Mit 17 ging er nach Athen und studierte 20 Jahre lang bei Platon. Nach Platons Tod uebernahm nicht er die Akademie, sondern Platons Neffe.",
+      "schaffen": "Aristoteles reiste durch Kleinasien, wo er biologische Forschung betrieb. Dann wurde er Erzieher des jungen Alexander des Grossen. Spaeter gruendete er in Athen seine eigene Schule, das Lykeion. Dort forschte er in fast allen Wissensgebieten: Logik, Physik, Biologie, Ethik, Politik und Dichtung.",
+      "spaetesLeben": "Als Alexander der Grosse starb, wurde die Stimmung in Athen anti-makedonisch. Aristoteles wurde der Gottlosigkeit angeklagt. Er floh, angeblich mit den Worten, er wolle den Athenern nicht Gelegenheit geben, sich ein zweites Mal an der Philosophie zu versuendigen.",
+      "tod": "Aristoteles starb 322 v. Chr. auf Euboea, nur ein Jahr nach seiner Flucht aus Athen, mit 62 Jahren.",
+      "nachwirkung": "Aristoteles beeinflusste praktisch alles. Im Mittelalter nannte man ihn einfach den Philosophen. Seine Logik war 2000 Jahre lang die Grundlage des Denkens, und seine Ethik wird bis heute studiert."
+    },
+    "kernideen": [
+      {"titel": "Hylemorphismus (Form und Materie)", "beschreibung": "Jedes Ding besteht aus Materie (dem Stoff) und Form (dem Wesen). Anders als Platon sagte Aristoteles, dass die Formen nicht in einer eigenen Welt existieren, sondern in den Dingen selbst."},
+      {"titel": "Die vier Ursachen", "beschreibung": "Alles laesst sich durch vier Ursachen erklaeren: Woraus ist es? Was ist es? Wer hat es gemacht? Wozu dient es? Die letzte Frage, das Ziel, war fuer Aristoteles die wichtigste."},
+      {"titel": "Tugendethik und die Mesotes-Lehre", "beschreibung": "Tugend liegt in der Mitte zwischen zwei Extremen. Tapferkeit zum Beispiel liegt zwischen Feigheit und Leichtsinn. Ein gutes Leben besteht darin, seine Vernunft bestmoeglich einzusetzen."},
+      {"titel": "Syllogistik (Formale Logik)", "beschreibung": "Aristoteles erfand die formale Logik: Aus zwei Aussagen folgt eine dritte. Beispiel: Alle Menschen sind sterblich. Sokrates ist ein Mensch. Also ist Sokrates sterblich."},
+      {"titel": "Akt und Potenz", "beschreibung": "Jedes Ding hat Moeglichkeiten (Potenz) und Wirklichkeit (Akt). Veraenderung bedeutet, dass eine Moeglichkeit zur Wirklichkeit wird, wie wenn aus einem Samen eine Pflanze waechst."}
+    ],
+    "werke": [
+      {"titel": "Nikomachische Ethik", "jahr": "ca. 335–322 v. Chr.", "beschreibung": "Das Hauptwerk ueber Ethik, das fragt, was ein gutes Leben ausmacht und die Tugendethik entwickelt."},
+      {"titel": "Politik", "jahr": "ca. 335–322 v. Chr.", "beschreibung": "Eine Untersuchung verschiedener Staatsformen mit dem beruehmten Satz, der Mensch sei von Natur aus ein politisches Wesen."},
+      {"titel": "Metaphysik", "jahr": "ca. 335–322 v. Chr.", "beschreibung": "Die Untersuchung des Seins an sich, mit der Lehre von Form und Materie und dem Unbewegten Beweger."},
+      {"titel": "Organon (Logische Schriften)", "jahr": "ca. 350–322 v. Chr.", "beschreibung": "Die Sammlung der logischen Schriften, die die formale Logik begruendeten."},
+      {"titel": "Physik", "jahr": "ca. 350–322 v. Chr.", "beschreibung": "Die Grundlegung der Naturphilosophie ueber Bewegung, Raum, Zeit und Ursachen."},
+      {"titel": "De Anima (Ueber die Seele)", "jahr": "ca. 350 v. Chr.", "beschreibung": "Eine Untersuchung der Seele als das, was einen lebenden Koerper von einem toten unterscheidet."},
+      {"titel": "Poetik", "jahr": "ca. 335 v. Chr.", "beschreibung": "Die Theorie der Dichtkunst mit der beruehmten Idee, dass Tragoedie durch Furcht und Mitleid reinigt."},
+      {"titel": "Rhetorik", "jahr": "ca. 335 v. Chr.", "beschreibung": "Eine systematische Anleitung zur Redekunst und Ueberzeugung."},
+      {"titel": "Historia Animalium (Tiergeschichte)", "jahr": "ca. 343–335 v. Chr.", "beschreibung": "Eine umfangreiche Beschreibung von ueber 500 Tierarten, ein Grundlagenwerk der Biologie."},
+      {"titel": "Eudemische Ethik", "jahr": "ca. 350 v. Chr.", "beschreibung": "Ein frueheres Werk ueber Ethik, das aehnliche Themen wie die Nikomachische Ethik behandelt."}
+    ]
+  }
 }

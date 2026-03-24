@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Ontologie", "Realismus"],
+  "hauptstroemungen": [
+    "Ontologie",
+    "Realismus"
+  ],
   "kurzbeschreibung": "Nicolai Hartmann war ein deutsch-baltischer Philosoph, der eine der umfassendsten Ontologien des 20. Jahrhunderts entwickelte. Er vertrat einen kritischen Realismus und entwarf eine Schichtenontologie, die die Wirklichkeit in vier Seinsschichten gliedert: anorganische, organische, seelische und geistige. Gegen den Idealismus seiner Zeit bestand er darauf, dass die Realität unabhängig vom erkennenden Subjekt existiert.",
   "biografie": {
     "fruehesLeben": "Nicolai Hartmann wurde 1882 in Riga, im damaligen Russischen Reich, als Sohn einer deutsch-baltischen Familie geboren. Er studierte Philosophie in St. Petersburg und Marburg, wo er Schüler der Neukantianer Hermann Cohen und Paul Natorp wurde.",
@@ -79,6 +82,58 @@
       "kontext": "Hartmanns These von der Tragik der Wertekonflikte als Grundsituation der Moral."
     }
   ],
-  "verwandtePhilosophen": ["hermann-lotze", "edmund-husserl", "wilhelm-windelband"],
-  "verwandteIsmen": ["ontologie", "realismus"]
+  "verwandtePhilosophen": [
+    "hermann-lotze",
+    "edmund-husserl",
+    "wilhelm-windelband"
+  ],
+  "verwandteIsmen": [
+    "ontologie",
+    "realismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Nicolai Hartmann war ein deutsch-baltischer Philosoph, der eine der umfassendsten Ontologien des 20. Jahrhunderts entwickelte. Er vertrat einen kritischen Realismus und entwarf eine Schichtenontologie, die die Wirklichkeit in vier Seinsschichten gliedert: anorganische, organische, seelische und geistige. Gegen den Idealismus seiner Zeit bestand er darauf, dass die Realitaet unabhaengig vom erkennenden Subjekt existiert.",
+    "biografie": {
+      "fruehesLeben": "Nicolai Hartmann wurde 1882 in Riga, im damaligen Russischen Reich, als Sohn einer deutsch-baltischen Familie geboren. Er studierte Philosophie in St. Petersburg und Marburg, wo er Schueler der Neukantianer Hermann Cohen und Paul Natorp wurde.",
+      "schaffen": "Hartmann wandte sich vom Neukantianismus ab und entwickelte eine eigenstaendige realistische Ontologie. Sein Hauptwerk 'Zur Grundlegung der Ontologie' (1935) und die weiteren Baende seiner Ontologie entfalteten ein System der Seinsschichten. Daneben verfasste er bedeutende Werke zur Ethik und Erkenntnistheorie.",
+      "spaetesLeben": "Hartmann lehrte in Marburg, Koeln, Berlin und Goettingen und war einer der angesehensten deutschen Philosophen seiner Zeit, obwohl seine Ontologie in einer vom Existenzialismus und der analytischen Philosophie dominierten Epoche zunehmend isoliert dastand.",
+      "tod": "Nicolai Hartmann starb 1950 in Goettingen. Sein umfangreiches Werk geriet nach seinem Tod zunaechst in den Hintergrund, wird aber seit Ende des 20. Jahrhunderts wiederentdeckt.",
+      "nachwirkung": "Hartmanns Schichtenontologie hat die Diskussionen ueber Emergenz und Supervenienz in der analytischen Philosophie des Geistes vorweggenommen. Seine Ethik und Ontologie werden international zunehmend rezipiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Schichtenontologie",
+        "beschreibung": "Die Wirklichkeit ist in vier Seinsschichten gegliedert: die anorganische (physisch-materielle), die organische (lebendige), die seelische und die geistige Schicht. Jede hoehere Schicht setzt die niedrigere voraus, laesst sich aber nicht auf sie reduzieren."
+      },
+      {
+        "titel": "Kritischer Realismus",
+        "beschreibung": "Die Welt existiert unabhaengig vom erkennenden Subjekt. Erkenntnis ist nicht Konstruktion der Wirklichkeit, sondern Erfassung eines Ansichseienden. Dieses Ansichseiende ist allerdings nie vollstaendig erkennbar – es bleibt immer ein irrationaler Rest."
+      },
+      {
+        "titel": "Kategorienanalyse",
+        "beschreibung": "Jede Seinsschicht hat eigene Kategorien (Strukturprinzipien), die nicht auf die Kategorien anderer Schichten reduzierbar sind. Die Kategorien der hoeheren Schichten bauen auf denen der niedrigeren auf, sind aber ihnen gegenueber eigenstaendig und neuartig."
+      },
+      {
+        "titel": "Materiale Wertethik",
+        "beschreibung": "Hartmann entwickelte eine materiale Wertethik, die eine Vielfalt objektiver Werte anerkennt, die in Konflikten zueinander stehen koennen. Ethische Situationen sind oft tragisch, weil sie die Verwirklichung eines Wertes nur auf Kosten eines anderen erlauben."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Zur Grundlegung der Ontologie",
+        "jahr": "1935",
+        "beschreibung": "Der erste Band von Hartmanns systematischer Ontologie, der die Grundlagen seiner Schichtentheorie legt und die Ontologie als zentrale philosophische Disziplin rehabilitiert."
+      },
+      {
+        "titel": "Ethik",
+        "jahr": "1926",
+        "beschreibung": "Hartmanns umfassendes ethisches Werk, das eine materiale Wertethik entwirft und die Tragik ethischer Konflikte herausarbeitet."
+      },
+      {
+        "titel": "Der Aufbau der realen Welt",
+        "jahr": "1940",
+        "beschreibung": "Der dritte Band der Ontologie, der die Kategorienstruktur der vier Seinsschichten im Detail analysiert."
+      }
+    ]
+  }
 }

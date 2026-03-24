@@ -11,12 +11,40 @@
     "Erkenntnis wird nicht an Wahrheit, sondern an Viabilität gemessen",
     "Objektivität im traditionellen Sinne ist eine Illusion"
   ],
-  "hauptvertreter": ["ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Der radikale Konstruktivismus entwickelte sich im 20. Jahrhundert aus verschiedenen Quellen: Wittgensteins Sprachphilosophie, Piagets genetischer Epistemologie und von Foersters Kybernetik zweiter Ordnung. Ernst von Glasersfeld prägte den Begriff in den 1970er Jahren.",
   "kritik": "Kritiker werfen dem radikalen Konstruktivismus einen performativen Selbstwiderspruch vor: Wenn alle Erkenntnis Konstruktion ist, dann ist auch die These des Konstruktivismus nur eine Konstruktion und kann keinen Wahrheitsanspruch erheben. Zudem wird die praktische Widerlegung durch den Erfolg der Naturwissenschaften angeführt.",
-  "verwandteIsmen": ["sozialer-konstruktivismus", "epistemischer-nihilismus", "kulturrelativismus", "ordinary-language-philosophy"],
+  "verwandteIsmen": [
+    "sozialer-konstruktivismus",
+    "epistemischer-nihilismus",
+    "kulturrelativismus",
+    "ordinary-language-philosophy"
+  ],
   "schluesselwerke": [
-    {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
-    {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"}
-  ]
+    {
+      "titel": "Philosophische Untersuchungen",
+      "autor": "Ludwig Wittgenstein",
+      "jahr": "1953"
+    },
+    {
+      "titel": "Tractatus logico-philosophicus",
+      "autor": "Ludwig Wittgenstein",
+      "jahr": "1921"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der radikale Konstruktivismus behauptet, dass jede Wirklichkeit eine Konstruktion des erkennenden Subjekts ist.",
+    "ausfuehrlicheBeschreibung": "Der radikale Konstruktivismus radikalisiert den Konstruktivismus, indem er behauptet, dass nicht nur soziale Tatsachen, sondern die gesamte Wirklichkeit eine Konstruktion des erkennenden Subjekts ist. Es gibt keinen direkten Zugang zu einer bewusstseinsunabhaengigen Realitaet – alles, was wir erkennen, ist durch unsere kognitiven Strukturen, unsere Sprache und unsere Erfahrungen geformt.\n\nLudwig Wittgenstein leistete mit seiner Sprachphilosophie einen wesentlichen Beitrag zur konstruktivistischen Wende: Indem er zeigte, dass die Grenzen unserer Sprache die Grenzen unserer Welt bedeuten, machte er deutlich, dass Wirklichkeit immer sprachlich vermittelt und damit konstruiert ist. Die Sprachspiele, in denen wir uns bewegen, bestimmen, was als wirklich gelten kann und was nicht.\n\nDer radikale Konstruktivismus hat weitreichende Konsequenzen fuer das Verstaendnis von Wahrheit und Objektivitaet: Wenn alle Erkenntnis Konstruktion ist, dann gibt es keine objektive Wahrheit im traditionellen Sinne. Erkenntnis kann nicht an einer unabhaengigen Realitaet gemessen werden, sondern nur an ihrer Viabilitaet – ihrer Brauchbarkeit fuer das Ueberleben und Handeln in der Welt.",
+    "kernthesen": [
+      "Jede Wirklichkeit ist eine Konstruktion des erkennenden Subjekts",
+      "Eine bewusstseinsunabhaengige Realitaet ist prinzipiell unzugaenglich",
+      "Die Grenzen unserer Sprache sind die Grenzen unserer Welt",
+      "Erkenntnis wird nicht an Wahrheit, sondern an Viabilitaet gemessen",
+      "Objektivitaet im traditionellen Sinne ist eine Illusion"
+    ],
+    "entstehung": "Der radikale Konstruktivismus entwickelte sich im 20. Jahrhundert aus verschiedenen Quellen: Wittgensteins Sprachphilosophie, Piagets genetischer Epistemologie und von Foersters Kybernetik zweiter Ordnung. Ernst von Glasersfeld praegte den Begriff in den 1970er Jahren.",
+    "kritik": "Kritiker werfen dem radikalen Konstruktivismus einen performativen Selbstwiderspruch vor: Wenn alle Erkenntnis Konstruktion ist, dann ist auch die These des Konstruktivismus nur eine Konstruktion und kann keinen Wahrheitsanspruch erheben. Zudem wird die praktische Widerlegung durch den Erfolg der Naturwissenschaften angefuehrt."
+  }
 }

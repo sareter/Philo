@@ -19,5 +19,18 @@
     {"titel": "Homers Wettkampf", "autor": "Friedrich Nietzsche", "jahr": "1872"},
     {"titel": "Über das Agonale bei den Griechen", "autor": "Jacob Burckhardt", "jahr": "1872"},
     {"titel": "Über das Politische", "autor": "Chantal Mouffe", "jahr": "2005"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Agonismus sagt: Wettstreit und Konflikte sind nicht schlecht -- sie treiben uns an, besser zu werden. Ohne Rivalitaet gibt es keinen Fortschritt.",
+    "ausfuehrlicheBeschreibung": "Die alten Griechen waren verrueckt nach Wettbewerb. Sie hatten nicht nur die Olympischen Spiele, sondern auch Wettkaempfe in Dichtung, Redekunst und Musik. Der Agonismus nimmt diese Idee und sagt: Wettstreit ist ein Grundprinzip des Lebens. Wenn niemand dich herausfordert, wirst du auch nie dein Bestes geben.\n\nNietzsche hat das philosophisch auf den Punkt gebracht: Die Griechen haben es geschafft, den zerstoererischen Kampf in einen produktiven Wettbewerb zu verwandeln. Statt sich gegenseitig umzubringen, haben sie sich gegenseitig angespornt. Und genau das brauchen wir auch in der Gesellschaft: echten Wettbewerb, der alle nach oben zieht.\n\nIn der heutigen Politik sagt die Philosophin Chantal Mouffe etwas Aehnliches: Demokratie braucht echte Auseinandersetzung. Wenn alle immer nur nett zueinander sind und Konflikte vermeiden, dann stagniert die Gesellschaft. Aber der Wettstreit muss fair sein -- Gegner statt Feinde, Debatte statt Krieg.",
+    "kernthesen": [
+      "Wettbewerb und Rivalitaet treiben Menschen zu Hoechstleistungen an.",
+      "Konflikte sind nicht schlecht -- man muss sie nur in produktive Bahnen lenken.",
+      "Ohne Herausforderung gibt es keine Weiterentwicklung.",
+      "Demokratie braucht echten Wettstreit, nicht kuenstliche Harmonie.",
+      "Wer alle Konflikte abschaffen will, laehmt die Gesellschaft."
+    ],
+    "entstehung": "Die Idee stammt aus der griechischen Wettkampfkultur. Nietzsche hat sie 1872 in seinem Text 'Homers Wettkampf' philosophisch beschrieben. Heute wird sie vor allem von Chantal Mouffe als politische Theorie weiterentwickelt.",
+    "kritik": "Kritiker sagen, der Agonismus verherrlicht Konflikte und unterschaetzt, wie viel man durch vernuenftige Einigung erreichen kann. Ausserdem ist es in der Praxis schwer, die Grenze zwischen gesundem Wettbewerb und schaedlichem Kampf zu ziehen."
+  }
 }

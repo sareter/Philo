@@ -19,5 +19,18 @@
     {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"},
     {"titel": "Die Philosophie des logischen Atomismus", "autor": "Bertrand Russell", "jahr": "1918"},
     {"titel": "Principia Mathematica", "autor": "Bertrand Russell", "jahr": "1910"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der logische Atomismus sagt: Die Welt besteht aus einfachsten Bausteinen, und unsere Sprache bildet diese Bausteine ab. Wenn wir Sprache genau genug analysieren, verstehen wir auch die Wirklichkeit.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du koenntest jeden komplizierten Satz in ganz einfache Bausteine zerlegen -- so wie du ein Lego-Modell in einzelne Steine auseinandernehmen kannst. Genau das wollten Russell und Wittgenstein mit der Sprache machen. Ihre Idee: Jeder Satz laesst sich auf einfachste Aussagen zurueckfuehren, die jeweils eine einfache Tatsache beschreiben.\n\nDas Spannende daran: Sie glaubten, dass die Struktur unserer Sprache der Struktur der Wirklichkeit entspricht. Ein Satz ist wie ein Bild der Realitaet -- wenn der Satz richtig gebaut ist, bildet er eine Tatsache ab. Philosophie wird damit zur Sprachanalyse: Wir muessen herausfinden, was unsere Saetze wirklich bedeuten, und alles, was sich nicht klar ausdruecken laesst, koennen wir getrost weglassen.\n\nInteressanterweise hat Wittgenstein selbst spaeter seine eigene Theorie verworfen. Er erkannte, dass Sprache viel vielfaeltiger funktioniert als nur als Abbild der Wirklichkeit. Trotzdem war der logische Atomismus ein wichtiger Startpunkt fuer die gesamte analytische Philosophie.",
+    "kernthesen": [
+      "Die Wirklichkeit besteht aus einfachsten Tatsachen, so wie Materie aus Atomen besteht.",
+      "Unsere Sprache bildet die Struktur der Wirklichkeit ab wie ein Foto die Realitaet.",
+      "Jeden komplexen Satz kann man in einfache Grundaussagen zerlegen.",
+      "Philosophie ist im Kern Sprachanalyse -- wir muessen klaeren, was unsere Saetze wirklich bedeuten.",
+      "Worueber man nicht klar reden kann, darueber sollte man besser schweigen."
+    ],
+    "entstehung": "Der logische Atomismus wurde in den 1910er und 1920er Jahren von Bertrand Russell und dem jungen Ludwig Wittgenstein entwickelt. Wittgensteins Tractatus logico-philosophicus von 1921 ist das bekannteste Werk dieser Richtung.",
+    "kritik": "Die Grundannahme, dass Sprache die Wirklichkeit eins zu eins abbildet, hat sich als zu einfach erwiesen. Wittgenstein selbst hat spaeter gezeigt, dass Sprache viel mehr kann als nur Tatsachen abbilden -- wir scherzen, bitten, fluchen, erzaehlen Geschichten und vieles mehr."
+  }
 }

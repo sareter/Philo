@@ -86,5 +86,27 @@
     }
   ],
   "verwandtePhilosophen": ["augustinus", "thomas-von-aquin", "boethius", "peter-abaelard", "duns-scotus"],
-  "verwandteIsmen": ["scholastik", "rationalismus", "christliche-philosophie", "realismus"]
+  "verwandteIsmen": ["scholastik", "rationalismus", "christliche-philosophie", "realismus"],
+  "einfach": {
+    "kurzbeschreibung": "Anselm von Canterbury war ein mittelalterlicher Moench und Erzbischof, der den beruehmtesten Gottesbeweis der Geschichte erfand: Wenn Gott das Groesste ist, was man sich vorstellen kann, dann muss er auch wirklich existieren.",
+    "biografie": {
+      "fruehesLeben": "Anselm wurde 1033 in Aosta in Norditalien geboren. Als Jugendlicher wollte er ins Kloster, aber sein Vater erlaubte es nicht. Nach dem Tod seiner Mutter verliess er die Heimat und wanderte durch Frankreich, bis er in der Abtei Bec in der Normandie landete.",
+      "schaffen": "Im Kloster Bec schrieb Anselm seine wichtigsten Werke. Im Proslogion formulierte er seinen beruehmten Gottesbeweis: Gott ist das Groesste, was man sich vorstellen kann. Etwas, das wirklich existiert, ist groesser als etwas, das nur gedacht wird. Also muss Gott auch wirklich existieren. Dieser Beweis wird bis heute diskutiert.",
+      "spaetesLeben": "Anselm wurde Erzbischof von Canterbury, was er eigentlich gar nicht wollte. Er geriet in schwere Konflikte mit den englischen Koenigen und musste zweimal ins Exil gehen.",
+      "tod": "Anselm starb 1109 in Canterbury mit 76 Jahren. Er wurde spaeter heiliggesprochen und zum Kirchenlehrer erklaert.",
+      "nachwirkung": "Sein Gottesbeweis ist der meistdiskutierte der Philosophiegeschichte. Grosse Denker wie Descartes, Kant und Goedel haben sich damit auseinandergesetzt. Sein Motto Fides quaerens intellectum (der Glaube sucht das Verstehen) wurde zum Programm der gesamten Scholastik."
+    },
+    "kernideen": [
+      {"titel": "Ontologischer Gottesbeweis", "beschreibung": "Gott ist das Groesste, was man sich denken kann. Etwas, das wirklich existiert, ist groesser als etwas, das nur im Kopf existiert. Also muss Gott auch in Wirklichkeit existieren."},
+      {"titel": "Fides Quaerens Intellectum", "beschreibung": "Man muss zuerst glauben, um zu verstehen. Aber der Glaube will von sich aus verstanden werden. Glaube und Vernunft ergaenzen sich."},
+      {"titel": "Satisfaktionslehre", "beschreibung": "Die Suende hat Gottes Ehre unendlich verletzt. Nur ein Gott-Mensch wie Jesus konnte diese unendliche Schuld begleichen."}
+    ],
+    "werke": [
+      {"titel": "Proslogion", "jahr": "1077–1078", "beschreibung": "Das Buch mit dem beruehmten Gottesbeweis, eines der meistdiskutierten philosophischen Werke aller Zeiten."},
+      {"titel": "Monologion", "jahr": "1076", "beschreibung": "Eine Meditation ueber das Wesen Gottes mit verschiedenen Beweisen fuer seine Existenz."},
+      {"titel": "Cur Deus Homo (Warum Gott Mensch wurde)", "jahr": "1098", "beschreibung": "Anselms theologisches Hauptwerk, das erklaert, warum Gott Mensch werden musste, um die Menschen zu erloesen."},
+      {"titel": "De Veritate (Ueber die Wahrheit)", "jahr": "ca. 1080", "beschreibung": "Ein Dialog ueber die Frage, was Wahrheit eigentlich ist."},
+      {"titel": "De Libertate Arbitrii (Ueber die Freiheit des Willens)", "jahr": "ca. 1080–1085", "beschreibung": "Ein Dialog darueber, was echte Freiheit bedeutet."}
+    ]
+  }
 }

@@ -11,12 +11,40 @@
     "Die Relativität der Moral erfordert Toleranz",
     "Moralische Überzeugungen beruhen auf nicht weiter begründbaren Entscheidungen"
   ],
-  "hauptvertreter": ["michel-de-montaigne"],
+  "hauptvertreter": [
+    "michel-de-montaigne"
+  ],
   "entstehung": "Der moralische Relativismus hat frühe Wurzeln in der antiken Sophistik und wurde von Montaigne in der Renaissance erneuert. Als systematische philosophische Position entfaltete er sich im 20. Jahrhundert im Zusammenhang mit der Kulturanthropologie und dem ethischen Pluralismus.",
   "kritik": "Kritiker werfen dem moralischen Relativismus vor, er mache jede moralische Kritik unmöglich und führe zu einer Gleichgültigkeit gegenüber Unrecht. Zudem wird argumentiert, dass der Relativismus selbst einen universellen Anspruch erhebt – nämlich den, dass alle Moral relativ sei –, und sich damit selbst widerspricht.",
-  "verwandteIsmen": ["kulturrelativismus", "wertnihilismus", "ethischer-pluralismus", "non-kognitivismus"],
+  "verwandteIsmen": [
+    "kulturrelativismus",
+    "wertnihilismus",
+    "ethischer-pluralismus",
+    "non-kognitivismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580"},
-    {"titel": "Ethik und der Materialismus der Geschichte", "autor": "Karl Vorländer", "jahr": "1906"}
-  ]
+    {
+      "titel": "Essais",
+      "autor": "Michel de Montaigne",
+      "jahr": "1580"
+    },
+    {
+      "titel": "Ethik und der Materialismus der Geschichte",
+      "autor": "Karl Vorländer",
+      "jahr": "1906"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der moralische Relativismus behauptet, dass moralische Urteile kulturabhaengig sind und keine universelle Geltung beanspruchen koennen.",
+    "ausfuehrlicheBeschreibung": "Der moralische Relativismus vertritt die These, dass es keine universell gueltigen moralischen Normen gibt. Was als richtig oder falsch, gut oder boese gilt, ist relativ zur jeweiligen Kultur, Gesellschaft oder historischen Epoche. Es gibt keinen archimedischen Punkt, von dem aus moralische Urteile objektiv gefaellt werden koennten.\n\nMichel de Montaigne war einer der ersten europaeischen Denker, der die Relativitaet moralischer Urteile systematisch reflektierte. In seinen Essais zeigte er, dass Praktiken, die in Europa als unmoralisch galten – etwa Kannibalismus –, in anderen Kulturen einen sinnvollen Platz hatten, waehrend europaeische Praktiken wie Folter und religioese Verfolgung mindestens ebenso barbarisch waren. Diese Einsicht untergraebt jeden Anspruch auf moralische Ueberlegenheit.\n\nDer moralische Relativismus stellt die Ethik vor ein fundamentales Dilemma: Wenn es keine universellen moralischen Wahrheiten gibt, wie kann dann zwischen konkurrierenden moralischen Systemen entschieden werden? Der Relativist antwortet: gar nicht – und genau darin liegt die Herausforderung. Die Konsequenz ist entweder Toleranz gegenueber allen moralischen Systemen oder die Einsicht, dass moralische Ueberzeugungen letztlich auf nicht weiter begruendbaren Entscheidungen beruhen.",
+    "kernthesen": [
+      "Es gibt keine universell gueltigen moralischen Normen",
+      "Moralische Urteile sind relativ zur jeweiligen Kultur",
+      "Kein moralisches System kann objektive Ueberlegenheit beanspruchen",
+      "Die Relativitaet der Moral erfordert Toleranz",
+      "Moralische Ueberzeugungen beruhen auf nicht weiter begruendbaren Entscheidungen"
+    ],
+    "entstehung": "Der moralische Relativismus hat fruehe Wurzeln in der antiken Sophistik und wurde von Montaigne in der Renaissance erneuert. Als systematische philosophische Position entfaltete er sich im 20. Jahrhundert im Zusammenhang mit der Kulturanthropologie und dem ethischen Pluralismus.",
+    "kritik": "Kritiker werfen dem moralischen Relativismus vor, er mache jede moralische Kritik unmoeglich und fuehre zu einer Gleichgueltigkeit gegenueber Unrecht. Zudem wird argumentiert, dass der Relativismus selbst einen universellen Anspruch erhebt – naemlich den, dass alle Moral relativ sei –, und sich damit selbst widerspricht."
+  }
 }

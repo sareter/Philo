@@ -19,5 +19,18 @@
     { "titel": "Brief an Menoikeus", "autor": "Epikur", "jahr": "ca. 300 v. Chr." },
     { "titel": "Kyriai Doxai (Hauptlehrsätze)", "autor": "Epikur", "jahr": "ca. 300 v. Chr." },
     { "titel": "De rerum natura (Über die Natur der Dinge)", "autor": "Lukrez", "jahr": "ca. 55 v. Chr." }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Epikureismus lehrt: Das gute Leben besteht nicht aus Party und Exzess, sondern aus Seelenruhe, Schmerzfreiheit und guten Freundschaften. Hab keine Angst vor dem Tod und geniesse die einfachen Dinge.",
+    "ausfuehrlicheBeschreibung": "Viele denken bei Epikur an Voellerei und Partys, aber das Gegenteil ist der Fall. Epikur sagte: Das beste Leben ist eins ohne Schmerz und ohne Sorgen. Echtes Glueck entsteht nicht durch Luxus, sondern durch innere Ruhe, gutes Essen in angenehmer Gesellschaft und das Fehlen von Angst. Sein beruehmter Garten in Athen war kein Partyort, sondern ein Ort fuer Freundschaft und philosophische Gespraeche.\n\nEpikur hatte ein paar geniale Tricks gegen die grossen Aengste der Menschen: Vor den Goettern brauchst du keine Angst zu haben, denn sie kuemmern sich nicht um uns. Vor dem Tod auch nicht, denn solange du lebst, ist der Tod nicht da, und wenn er da ist, bist du nicht mehr da. Das Gute ist leicht zu bekommen, und das Schlimme ist leicht zu ertragen. Diese vier Saetze nannte er sein Heilmittel.\n\nWissenschaftlich war Epikur auch spannend: Er glaubte, die Welt besteht aus winzigen Teilchen, den Atomen, die sich im leeren Raum bewegen. Das war fuer die damalige Zeit eine unglaublich moderne Idee. Und im Gegensatz zu anderen Philosophen, die alles als vorherbestimmt sahen, glaubte Epikur an den freien Willen.",
+    "kernthesen": [
+      "Echtes Glueck bedeutet keine Schmerzen und keine Sorgen, nicht Luxus und Exzess.",
+      "Die Welt besteht aus Atomen und leerem Raum, es gibt keine uebernatuerliche Steuerung.",
+      "Vor dem Tod muss man keine Angst haben: Wo er ist, sind wir nicht, und umgekehrt.",
+      "Die Goetter existieren vielleicht, aber sie mischen sich nicht in unser Leben ein.",
+      "Freundschaft ist eine der wichtigsten Quellen fuer ein glueckliches Leben."
+    ],
+    "entstehung": "Epikur gruendete seine Schule um 306 v. Chr. in einem Garten in Athen. Das Besondere: Auch Frauen und Sklaven waren willkommen. Seine Philosophie verband praktische Lebensweisheit mit einer naturwissenschaftlichen Weltsicht und wurde zur wichtigsten Gegenstroemung der Stoiker.",
+    "kritik": "Schon in der Antike wurde Epikur vorgeworfen, er predige ein egoistisches Leben, das sich vor gesellschaftlicher Verantwortung drueckt. Das Christentum lehnte ihn ab, weil er die Sterblichkeit der Seele lehrte und keine goettliche Vorsehung anerkannte. Heute kritisiert man vor allem den Rueckzug aus der Politik, den Epikur empfahl."
+  }
 }

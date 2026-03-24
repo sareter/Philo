@@ -19,5 +19,18 @@
     {"titel": "Utilitarismus", "autor": "John Stuart Mill", "jahr": "1863"},
     {"titel": "Einführung in die Prinzipien der Moral und Gesetzgebung", "autor": "Jeremy Bentham", "jahr": "1789"},
     {"titel": "The Morality of Freedom", "autor": "Joseph Raz", "jahr": "1986"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kommensurabilismus sagt: Alle Werte lassen sich auf einen gemeinsamen Massstab bringen und miteinander vergleichen. Moralische Konflikte sind deshalb im Prinzip loesbar.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du musst dich entscheiden: Ein Studium, das dich gluecklich macht, oder ein Job, der gut bezahlt wird. Kann man Glueck und Geld ueberhaupt vergleichen? Der Kommensurabilismus sagt: Ja, im Prinzip schon. Es gibt irgendeinen gemeinsamen Massstab, auf den man verschiedene Werte zurueckfuehren kann, zum Beispiel Nutzen oder Wohlbefinden.\n\nDiese Idee steckt im Utilitarismus. Bentham meinte, man koennte Glueck und Leid sogar berechnen. Mill hat das etwas verfeinert, aber die Grundidee blieb: Wenn alle Werte vergleichbar sind, kann man rational die beste Entscheidung treffen. In der Praxis sieht man das bei Kosten-Nutzen-Analysen, wo zum Beispiel Umweltschutz und Wirtschaftswachstum in Geldwerte umgerechnet werden.\n\nKritiker halten das fuer problematisch. Kann man wirklich den Wert einer Freundschaft mit dem Wert von Gesundheit vergleichen? Manche Dinge scheinen so grundverschieden zu sein, dass ein gemeinsamer Massstab sie verzerrt. Isaiah Berlin meinte, es gibt echte Wertekonflikte, die man nicht einfach wegrechnen kann.",
+    "kernthesen": [
+      "Alle Werte lassen sich auf einen gemeinsamen Massstab bringen.",
+      "Moralische Konflikte sind prinzipiell loesbar, weil man die Werte vergleichen kann.",
+      "Verschiedene Gueter wie Gesundheit, Freiheit und Wissen sind miteinander vergleichbar.",
+      "Rationale Entscheidungen setzen voraus, dass man Optionen vergleichen kann.",
+      "Nutzen oder Wohlbefinden koennte der gemeinsame Massstab fuer alle Werte sein."
+    ],
+    "entstehung": "Der Kommensurabilismus hat seine Wurzeln bei Bentham und Mill im 19. Jahrhundert. Die moderne Diskussion wurde durch die Kosten-Nutzen-Analyse und die Debatte ueber Wertepluralismus in der politischen Philosophie angestossen.",
+    "kritik": "Kritiker sagen, die Reduktion aller Werte auf einen Massstab zerstoere ihre Eigenart. Kann man den Wert einer Freundschaft wirklich in Geld ausdruecken? Isaiah Berlin und Bernard Williams betonen, dass es echte Wertekonflikte gibt, bei denen man etwas Wichtiges verliert, egal wie man sich entscheidet."
+  }
 }

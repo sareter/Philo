@@ -66,5 +66,23 @@
     }
   ],
   "verwandtePhilosophen": ["thales", "anaximander", "heraklit", "empedokles", "anaxagoras"],
-  "verwandteIsmen": ["naturalismus", "materialismus", "monismus"]
+  "verwandteIsmen": ["naturalismus", "materialismus", "monismus"],
+  "einfach": {
+    "kurzbeschreibung": "Anaximenes war der dritte grosse Denker aus Milet. Er sagte, dass Luft der Grundstoff aller Dinge ist: Wird sie duenner, entsteht Feuer; wird sie dichter, entstehen Wolken, Wasser und Stein.",
+    "biografie": {
+      "fruehesLeben": "Anaximenes wurde um 585 v. Chr. in Milet geboren und war ein Schueler Anaximanders. Ueber sein persoenliches Leben ist fast nichts bekannt.",
+      "schaffen": "Seine Hauptidee war, dass Luft der Grundstoff von allem ist. Durch Verdichtung wird Luft zu Wind, Wolken, Wasser und Stein; durch Verduennung wird sie zu Feuer. Damit erklaerte er als Erster qualitative Unterschiede durch einen rein mengemaessigen Mechanismus. Er glaubte auch, dass die Luft den Kosmos belebt wie die Seele den Koerper.",
+      "spaetesLeben": "Ueber seine spaeteren Jahre ist nichts Sicheres bekannt. Er lebte in einer Zeit, in der die Perser Ionien bedrohten.",
+      "tod": "Anaximenes starb um 528 v. Chr. in Milet. Mit seinem Tod endete die grosse Zeit der Milesischen Schule.",
+      "nachwirkung": "Sein Erklaerungsmodell, dass qualitative Unterschiede auf quantitative Veraenderungen zurueckgehen, wurde zum Grundprinzip der Naturwissenschaft."
+    },
+    "kernideen": [
+      {"titel": "Luft als Urprinzip", "beschreibung": "Luft ist der Grundstoff aller Dinge. Sie durchdringt den ganzen Kosmos und haelt ihn zusammen, so wie die Seele den Koerper zusammenhaelt."},
+      {"titel": "Verdichtung und Verduennung", "beschreibung": "Alles entsteht, indem Luft dichter oder duenner wird. Duenne Luft wird zu Feuer, dichte Luft zu Wind, Wolken, Wasser und schliesslich Stein."},
+      {"titel": "Kosmische Seele", "beschreibung": "Die Luft ist gleichzeitig das Lebensprinzip: Sie beseelt den Kosmos genauso wie den Menschen."}
+    ],
+    "werke": [
+      {"titel": "Ueber die Natur (Peri Physeos)", "jahr": "ca. 545 v. Chr.", "beschreibung": "Sein Hauptwerk, in einfacher Sprache geschrieben, von dem nur wenige Bruchstuecke erhalten sind."}
+    ]
+  }
 }

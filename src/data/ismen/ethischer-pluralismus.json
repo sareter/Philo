@@ -11,13 +11,45 @@
     "Ein übergreifender Konsens ist trotz ethischer Vielfalt möglich",
     "Pluralismus ist der Normalzustand demokratischer Gesellschaften"
   ],
-  "hauptvertreter": ["john-rawls"],
+  "hauptvertreter": [
+    "john-rawls"
+  ],
   "entstehung": "Der ethische Pluralismus entwickelte sich im 20. Jahrhundert als Antwort auf monistische Ethikkonzeptionen und die Herausforderung des Zusammenlebens in kulturell vielfältigen Gesellschaften. Rawls' Eine Theorie der Gerechtigkeit (1971) und Isaiah Berlins Wertepluralismus bilden seine wichtigsten Grundlagen.",
   "kritik": "Kritiker werfen dem ethischen Pluralismus vor, er biete keine klaren Entscheidungskriterien für moralische Konflikte und könne in der Praxis zu Entscheidungsunfähigkeit führen. Zudem wird die Frage gestellt, ob ein Pluralismus, der bestimmte Werte als unverhandelbar setzt, wirklich pluralistisch ist.",
-  "verwandteIsmen": ["moralischer-relativismus", "kulturrelativismus", "diskursethik", "care-ethik"],
+  "verwandteIsmen": [
+    "moralischer-relativismus",
+    "kulturrelativismus",
+    "diskursethik",
+    "care-ethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Eine Theorie der Gerechtigkeit", "autor": "John Rawls", "jahr": "1971"},
-    {"titel": "Politischer Liberalismus", "autor": "John Rawls", "jahr": "1993"},
-    {"titel": "Vier Essays über die Freiheit", "autor": "Isaiah Berlin", "jahr": "1969"}
-  ]
+    {
+      "titel": "Eine Theorie der Gerechtigkeit",
+      "autor": "John Rawls",
+      "jahr": "1971"
+    },
+    {
+      "titel": "Politischer Liberalismus",
+      "autor": "John Rawls",
+      "jahr": "1993"
+    },
+    {
+      "titel": "Vier Essays über die Freiheit",
+      "autor": "Isaiah Berlin",
+      "jahr": "1969"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der ethische Pluralismus erkennt die Legitimitaet verschiedener ethischer Systeme und Werte an.",
+    "ausfuehrlicheBeschreibung": "Der ethische Pluralismus vertritt die Position, dass es verschiedene, gleichermassen gueltige ethische Systeme und Werte gibt, die nicht auf ein einziges Prinzip reduziert werden koennen. Freiheit, Gleichheit, Gerechtigkeit, Fuersorge und andere Werte sind jeweils in sich berechtigt, koennen aber miteinander in Konflikt geraten, ohne dass ein uebergeordnetes Prinzip diesen Konflikt aufloesen koennte.\n\nJohn Rawls entwickelte mit seiner Theorie der Gerechtigkeit einen Rahmen, der verschiedene ethische Ansprueche in einer pluralistischen Gesellschaft versoehnen soll. Seine Idee eines uebergreifenden Konsenses zeigt, wie Menschen mit unterschiedlichen moralischen Ueberzeugungen dennoch gemeinsame Grundsaetze der Gerechtigkeit akzeptieren koennen. Der ethische Pluralismus wird bei Rawls nicht als Defizit, sondern als Normalzustand demokratischer Gesellschaften betrachtet.\n\nDer ethische Pluralismus unterscheidet sich vom moralischen Relativismus dadurch, dass er nicht behauptet, alle moralischen Positionen seien gleichermassen gueltig. Er erkennt vielmehr an, dass es verschiedene berechtigte Wertperspektiven gibt, die in einem vernuenftigen Dialog ausgehandelt werden muessen. Pluralismus bedeutet nicht Beliebigkeit, sondern die Anerkennung einer irreduziblen Vielfalt des Guten.",
+    "kernthesen": [
+      "Es gibt mehrere gleichberechtigte ethische Systeme und Werte",
+      "Moralische Werte koennen nicht auf ein einziges Prinzip reduziert werden",
+      "Wertkonflikte sind unvermeidlich und nicht endgueltig loesbar",
+      "Ein uebergreifender Konsens ist trotz ethischer Vielfalt moeglich",
+      "Pluralismus ist der Normalzustand demokratischer Gesellschaften"
+    ],
+    "entstehung": "Der ethische Pluralismus entwickelte sich im 20. Jahrhundert als Antwort auf monistische Ethikkonzeptionen und die Herausforderung des Zusammenlebens in kulturell vielfaeltigen Gesellschaften. Rawls' Eine Theorie der Gerechtigkeit (1971) und Isaiah Berlins Wertepluralismus bilden seine wichtigsten Grundlagen.",
+    "kritik": "Kritiker werfen dem ethischen Pluralismus vor, er biete keine klaren Entscheidungskriterien fuer moralische Konflikte und koenne in der Praxis zu Entscheidungsunfaehigkeit fuehren. Zudem wird die Frage gestellt, ob ein Pluralismus, der bestimmte Werte als unverhandelbar setzt, wirklich pluralistisch ist."
+  }
 }

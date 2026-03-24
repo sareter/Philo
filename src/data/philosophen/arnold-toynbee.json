@@ -80,5 +80,26 @@
     }
   ],
   "verwandtePhilosophen": ["ibn-khaldun", "ernst-troeltsch", "georg-wilhelm-friedrich-hegel"],
-  "verwandteIsmen": ["historismus"]
+  "verwandteIsmen": ["historismus"],
+  "einfach": {
+    "kurzbeschreibung": "Arnold Toynbee war ein britischer Historiker, der die Geschichte von 21 Zivilisationen verglich und fragte, warum manche aufbluehen und andere untergehen. Seine Antwort: Es kommt darauf an, wie eine Gesellschaft auf Herausforderungen reagiert.",
+    "biografie": {
+      "fruehesLeben": "Toynbee wurde 1889 in London geboren. Er studierte Altertumswissenschaften in Oxford und arbeitete im Ersten Weltkrieg fuer den britischen Geheimdienst.",
+      "schaffen": "Sein Lebenswerk A Study of History erschien in zwoelf Baenden. Darin verglich er 21 Zivilisationen und suchte nach wiederkehrenden Mustern ihres Aufstiegs und Niedergangs. Er leitete ueber 30 Jahre eine Forschungsabteilung in London.",
+      "spaetesLeben": "In den 1950ern wurde Toynbee zu einem der bekanntesten Intellektuellen der Welt und erschien sogar auf dem Cover des Time Magazine. Spaeter interessierte er sich zunehmend fuer Religion und Spiritualitaet.",
+      "tod": "Toynbee starb 1975 in York mit 86 Jahren. Sein Werk wurde in der Wissenschaft kontrovers diskutiert, blieb aber in der breiten Oeffentlichkeit einflussreich.",
+      "nachwirkung": "Toynbees Ideen beeinflussten Samuel Huntingtons beruehmtes Buch Kampf der Kulturen und bleiben ein Bezugspunkt fuer Diskussionen ueber Aufstieg und Niedergang von Zivilisationen."
+    },
+    "kernideen": [
+      {"titel": "Herausforderung und Antwort", "beschreibung": "Zivilisationen wachsen, indem sie kreativ auf Herausforderungen reagieren. Wenn sie das nicht mehr schaffen, gehen sie unter."},
+      {"titel": "Vergleichende Zivilisationsanalyse", "beschreibung": "Toynbee untersuchte 21 Zivilisationen und verglich ihre Entstehung, Bluete und ihren Untergang, um allgemeine Muster zu finden."},
+      {"titel": "Kreative Minderheit und innerer Proletariat", "beschreibung": "Zivilisationen werden von kreativen Fuehrern aufgebaut. Wenn diese ihre Kreativitaet verlieren und nur noch herrschen, wendet sich das Volk ab."},
+      {"titel": "Universalstaat und Universalkirche", "beschreibung": "Am Ende einer Zivilisation entsteht oft ein Grossreich als letzter Versuch, die Ordnung zu halten, und eine neue Religion, die den Uebergang zur naechsten Zivilisation einleitet."}
+    ],
+    "werke": [
+      {"titel": "A Study of History", "jahr": "1934", "beschreibung": "Toynbees riesiges Lebenswerk in zwoelf Baenden, das 21 Zivilisationen vergleicht."},
+      {"titel": "Civilization on Trial", "jahr": "1948", "beschreibung": "Essays, die seine Geschichtsphilosophie auf die Probleme der westlichen Welt anwenden."},
+      {"titel": "Mankind and Mother Earth", "jahr": "1976", "beschreibung": "Sein letztes Werk, eine Weltgeschichte, die die Beziehung zwischen Menschheit und Natur ins Zentrum stellt."}
+    ]
+  }
 }

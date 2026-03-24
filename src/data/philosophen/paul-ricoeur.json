@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Hermeneutik", "Phänomenologie"],
+  "hauptstroemungen": [
+    "Hermeneutik",
+    "Phänomenologie"
+  ],
   "kurzbeschreibung": "Paul Ricœur war ein französischer Philosoph, der Phänomenologie, Hermeneutik und analytische Philosophie in einem einzigartigen Denken verband. Seine Arbeiten zur Metapher, zur narrativen Identität und zur Frage des Bösen gehören zu den bedeutendsten philosophischen Beiträgen des 20. Jahrhunderts. Er vermittelte zwischen der kontinentalen und der analytischen Tradition und suchte stets den Dialog zwischen gegensätzlichen Positionen.",
   "biografie": {
     "fruehesLeben": "Paul Ricœur wurde 1913 in Valence als Waise geboren und wuchs bei seinen Großeltern in Rennes auf. Er studierte Philosophie in Rennes und Paris. Im Zweiten Weltkrieg geriet er in deutsche Kriegsgefangenschaft, wo er Husserl und Jaspers studierte und Husserls 'Ideen I' ins Französische übersetzte.",
@@ -84,6 +87,64 @@
       "kontext": "Die Kernthese, dass wir die Zeit nur durch das Erzählen von Geschichten erfahren und gestalten können."
     }
   ],
-  "verwandtePhilosophen": ["hans-georg-gadamer", "edmund-husserl", "emmanuel-levinas", "martin-heidegger"],
-  "verwandteIsmen": ["hermeneutik", "phaenomenologie"]
+  "verwandtePhilosophen": [
+    "hans-georg-gadamer",
+    "edmund-husserl",
+    "emmanuel-levinas",
+    "martin-heidegger"
+  ],
+  "verwandteIsmen": [
+    "hermeneutik",
+    "phaenomenologie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Paul Ricœur war ein franzoesischer Philosoph, der Phaenomenologie, Hermeneutik und analytische Philosophie in einem einzigartigen Denken verband. Seine Arbeiten zur Metapher, zur narrativen Identitaet und zur Frage des Boesen gehoeren zu den bedeutendsten philosophischen Beitraegen des 20. Jahrhunderts. Er vermittelte zwischen der kontinentalen und der analytischen Tradition und suchte stets den Dialog zwischen gegensaetzlichen Positionen.",
+    "biografie": {
+      "fruehesLeben": "Paul Ricœur wurde 1913 in Valence als Waise geboren und wuchs bei seinen Grosseltern in Rennes auf. Er studierte Philosophie in Rennes und Paris. Im Zweiten Weltkrieg geriet er in deutsche Kriegsgefangenschaft, wo er Husserl und Jaspers studierte und Husserls 'Ideen I' ins Franzoesische uebersetzte.",
+      "schaffen": "Ricœur lehrte an den Universitaeten Strassburg, Paris-Nanterre und Chicago. Sein umfangreiches Werk umfasst eine Phaenomenologie des Willens, eine Hermeneutik der Symbole, eine Theorie der Metapher ('Die lebendige Metapher', 1975) und eine Philosophie der Erzaehlung ('Zeit und Erzaehlung', 1983-85). Er suchte stets den Dialog zwischen verschiedenen philosophischen Traditionen.",
+      "spaetesLeben": "In seinen spaeten Jahren widmete sich Ricœur der Frage der Anerkennung, der Gerechtigkeit und der Erinnerung. Sein letztes grosses Werk 'Gedaechtnis, Geschichte, Vergessen' (2000) verbindet Geschichtsphilosophie mit Gedaechtnistheorie. Er blieb bis kurz vor seinem Tod intellektuell produktiv.",
+      "tod": "Paul Ricœur starb am 20. Mai 2005 in Châtenay-Malabry bei Paris. Er hinterliess eines der umfangreichsten und vielseitigsten philosophischen Werke des 20. Jahrhunderts.",
+      "nachwirkung": "Ricœurs Werk hat die Hermeneutik, die Narratologie, die Religionsphilosophie und die Ethik nachhaltig beeinflusst. Seine Theorie der narrativen Identitaet – wir verstehen uns selbst durch die Geschichten, die wir ueber uns erzaehlen – hat weitreichende Wirkung in Psychologie, Literaturwissenschaft und Philosophie entfaltet."
+    },
+    "kernideen": [
+      {
+        "titel": "Narrative Identitaet",
+        "beschreibung": "Wir verstehen uns selbst durch die Geschichten, die wir ueber unser Leben erzaehlen. Identitaet ist keine feste Substanz, sondern ein narratives Konstrukt, das sich im Erzaehlen staendig fortschreibt. Zwischen dem unveraenderlichen Selbst (idem) und dem sich wandelnden Selbst (ipse) vermittelt die Erzaehlung."
+      },
+      {
+        "titel": "Die lebendige Metapher",
+        "beschreibung": "Die Metapher ist nicht blosser rhetorischer Schmuck, sondern eine kreative Sprachleistung, die neue Bedeutungen und Wirklichkeiten erschliesst. In der Metapher wird die Sprache produktiv: Sie zeigt uns die Welt auf neue Weise."
+      },
+      {
+        "titel": "Hermeneutik des Verdachts und des Vertrauens",
+        "beschreibung": "Ricœur unterscheidet eine Hermeneutik des Verdachts (Marx, Nietzsche, Freud), die verborgene Motive entlarvt, von einer Hermeneutik des Vertrauens, die den Sinn von Texten und Symbolen ernst nimmt. Beide sind notwendig und ergaenzen einander."
+      },
+      {
+        "titel": "Das Boese und die Fehlbarkeit",
+        "beschreibung": "Der Mensch ist fehlbar: Er kann das Boese wollen. Das Boese laesst sich nicht rational erklaeren, sondern nur symbolisch und narrativ erschliessen. Die Mythen und Symbole des Boesen enthalten eine Weisheit, die die rationale Philosophie nicht ersetzen kann."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Zeit und Erzaehlung (Temps et Récit)",
+        "jahr": "1983",
+        "beschreibung": "Das dreiteilige Hauptwerk, das die Beziehung zwischen der menschlichen Zeiterfahrung und der narrativen Konfiguration analysiert."
+      },
+      {
+        "titel": "Die lebendige Metapher (La Métaphore vive)",
+        "jahr": "1975",
+        "beschreibung": "Eine Theorie der Metapher als kreative Sprachleistung, die neue Wirklichkeiten erschliesst."
+      },
+      {
+        "titel": "Das Selbst als ein Anderer (Soi-même comme un autre)",
+        "jahr": "1990",
+        "beschreibung": "Eine philosophische Anthropologie, die das Selbst durch die Beziehung zum Anderen und durch die narrative Identitaet bestimmt."
+      },
+      {
+        "titel": "Gedaechtnis, Geschichte, Vergessen (La Mémoire, l'histoire, l'oubli)",
+        "jahr": "2000",
+        "beschreibung": "Eine umfassende Untersuchung des Gedaechtnisses, der Geschichtsschreibung und des Vergessens aus phaenomenologischer und hermeneutischer Perspektive."
+      }
+    ]
+  }
 }

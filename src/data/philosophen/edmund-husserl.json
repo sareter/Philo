@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Phänomenologie", "Transzendentalphilosophie"],
+  "hauptstroemungen": [
+    "Phänomenologie",
+    "Transzendentalphilosophie"
+  ],
   "kurzbeschreibung": "Edmund Husserl ist der Begründer der Phänomenologie, einer der einflussreichsten philosophischen Strömungen des 20. Jahrhunderts. Mit dem Ruf 'Zu den Sachen selbst!' schuf er eine Methode der philosophischen Beschreibung von Bewusstseinsphänomenen, die das gesamte kontinentale Denken revolutionierte. Sein Werk beeinflusste Heidegger, Sartre, Merleau-Ponty, Derrida und viele andere maßgeblich.",
   "biografie": {
     "fruehesLeben": "Edmund Gustav Albrecht Husserl wurde am 8. April 1859 im mährischen Proßnitz (heute Prostějov, Tschechien) in eine jüdische Familie geboren. Er studierte zunächst Mathematik, Physik und Astronomie in Leipzig, Berlin und Wien. In Berlin hörte er Vorlesungen bei Karl Weierstraß und Leopold Kronecker. 1883 promovierte er in Wien in Mathematik mit einer Arbeit über Variationsrechnung. Der entscheidende Wendepunkt kam durch die Begegnung mit Franz Brentano in Wien (1884–1886), dessen Lehre von der Intentionalität des Bewusstseins Husserl zur Philosophie führte. In Halle habilitierte er sich 1887 bei Carl Stumpf mit der 'Philosophie der Arithmetik'.",
@@ -94,6 +97,67 @@
       "kontext": "Die Beschreibung der Lebenswelt als selbstverständlicher Boden aller Erfahrung und Wissenschaft."
     }
   ],
-  "verwandtePhilosophen": ["martin-heidegger", "jean-paul-sartre", "maurice-merleau-ponty", "jacques-derrida", "gottlob-frege", "ernst-cassirer"],
-  "verwandteIsmen": ["phaenomenologie", "transzendentalphilosophie", "idealismus"]
+  "verwandtePhilosophen": [
+    "martin-heidegger",
+    "jean-paul-sartre",
+    "maurice-merleau-ponty",
+    "jacques-derrida",
+    "gottlob-frege",
+    "ernst-cassirer"
+  ],
+  "verwandteIsmen": [
+    "phaenomenologie",
+    "transzendentalphilosophie",
+    "idealismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Edmund Husserl ist der Begruender der Phaenomenologie, einer der einflussreichsten philosophischen Stroemungen des 20. Jahrhunderts. Mit dem Ruf 'Zu den Sachen selbst!' schuf er eine Methode der philosophischen Beschreibung von Bewusstseinsphaenomenen, die das gesamte kontinentale Denken revolutionierte. Sein Werk beeinflusste Heidegger, Sartre, Merleau-Ponty, Derrida und viele andere massgeblich.",
+    "biografie": {
+      "fruehesLeben": "Edmund Gustav Albrecht Husserl wurde am 8. April 1859 im maehrischen Prossnitz (heute Prostějov, Tschechien) in eine juedische Familie geboren. Er studierte zunaechst Mathematik, Physik und Astronomie in Leipzig, Berlin und Wien. In Berlin hoerte er Vorlesungen bei Karl Weierstrass und Leopold Kronecker. 1883 promovierte er in Wien in Mathematik mit einer Arbeit ueber Variationsrechnung. Der entscheidende Wendepunkt kam durch die Begegnung mit Franz Brentano in Wien (1884–1886), dessen Lehre von der Intentionalitaet des Bewusstseins Husserl zur Philosophie fuehrte. In Halle habilitierte er sich 1887 bei Carl Stumpf mit der 'Philosophie der Arithmetik'.",
+      "schaffen": "In Halle (1887–1901) entwickelte Husserl die Grundlagen der Phaenomenologie. Seine 'Logischen Untersuchungen' (1900/1901) widerlegten den Psychologismus in der Logik und begruendeten die phaenomenologische Methode. 1901 wechselte er nach Goettingen, wo er mit dem 'Goettinger Kreis' die phaenomenologische Bewegung formierte. Seine 'Ideen zu einer reinen Phaenomenologie' (1913) vollzogen die 'transzendentale Wende' und fuehrten die phaenomenologische Reduktion (Epoché) als zentrale Methode ein. 1916 folgte er einem Ruf nach Freiburg im Breisgau, wo Martin Heidegger sein Assistent wurde. In Freiburg entwickelte er die genetische Phaenomenologie und die Theorie der Lebenswelt.",
+      "spaetesLeben": "Die letzten Jahre Husserls waren von persoenlicher Tragoedie und politischer Verfolgung gepraegt. Nach der Machtergreifung der Nationalsozialisten wurde ihm als Jude 1933 die Lehrberechtigung entzogen. 1936 wurde ihm die deutsche Staatsbuergerschaft aberkannt. Sein ehemaliger Schueler und Nachfolger Martin Heidegger, der 1933 Rektor der Universitaet Freiburg geworden war und sich dem Nationalsozialismus angenaehert hatte, distanzierte sich von seinem Lehrer – ein Bruch, der Husserl tief verletzte. Trotz dieser Widrigkeiten arbeitete er unermuedlich an seinem Spaetwerk, der 'Krisis'-Schrift, die eine fundamentale Kritik der modernen Wissenschaften aus phaenomenologischer Perspektive enthielt.",
+      "tod": "Edmund Husserl starb am 27. April 1938 in Freiburg im Breisgau an einer Rippenfellentzuendung. Sein enormer Nachlass von etwa 40.000 Seiten in Gabelsberger Kurzschrift wurde vom belgischen Franziskanerpater Herman Leo Van Breda unter dramatischen Umstaenden vor den Nationalsozialisten gerettet und nach Loewen gebracht, wo das Husserl-Archiv gegruendet wurde.",
+      "nachwirkung": "Husserls Phaenomenologie wurde zur einflussreichsten philosophischen Methode des 20. Jahrhunderts auf dem europaeischen Kontinent. Sie beeinflusste direkt den Existenzialismus (Heidegger, Sartre, Merleau-Ponty), die Hermeneutik (Gadamer, Ricoeur), die Dekonstruktion (Derrida) und die Sozialphilosophie (Schuetz, Habermas). Die Phaenomenologie wirkt bis heute in der Philosophie des Geistes, der Kognitionswissenschaft und der qualitativen Sozialforschung nach. Das Husserl-Archiv in Loewen und Freiburg setzt die Aufarbeitung seines monumentalen Nachlasses fort."
+    },
+    "kernideen": [
+      {
+        "titel": "Intentionalitaet",
+        "beschreibung": "Das Bewusstsein ist immer Bewusstsein von etwas – es ist intentional auf Gegenstaende gerichtet. Diese von Brentano uebernommene und weiterentwickelte Grundeinsicht bildet das Fundament der gesamten Phaenomenologie."
+      },
+      {
+        "titel": "Phaenomenologische Reduktion (Epoché)",
+        "beschreibung": "Die Epoché ist die methodische Einklammerung der 'natuerlichen Einstellung' und aller Vorannahmen ueber die Existenz der Aussenwelt. Sie ermoeglicht den Zugang zu den reinen Bewusstseinsphaenomenen und ihren Wesensstrukturen."
+      },
+      {
+        "titel": "Lebenswelt",
+        "beschreibung": "Die Lebenswelt ist die vorwissenschaftliche, alltaegliche Erfahrungswelt, die den Boden aller wissenschaftlichen Theoriebildung bildet. In der 'Krisis'-Schrift diagnostiziert Husserl eine Krise der Wissenschaften, die ihre lebensweltlichen Grundlagen vergessen haben."
+      },
+      {
+        "titel": "Wesensschau (Eidetische Reduktion)",
+        "beschreibung": "Durch die eidetische Reduktion werden die invarianten Wesensstrukturen von Phaenomenen erfasst. Durch freie Variation in der Phantasie lassen sich die notwendigen und wesentlichen Merkmale eines Phaenomens von seinen zufaelligen unterscheiden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Logische Untersuchungen",
+        "jahr": "1900/1901",
+        "beschreibung": "Das Gruendungswerk der Phaenomenologie in zwei Baenden. Der erste Band widerlegt den Psychologismus in der Logik, der zweite entwickelt die phaenomenologische Analyse von Bedeutung, Bewusstsein und Erkenntnis."
+      },
+      {
+        "titel": "Ideen zu einer reinen Phaenomenologie und phaenomenologischen Philosophie",
+        "jahr": "1913",
+        "beschreibung": "Das programmatische Hauptwerk der transzendentalen Phaenomenologie, in dem Husserl die phaenomenologische Reduktion als Methode einfuehrt und die Grundstrukturen des reinen Bewusstseins analysiert."
+      },
+      {
+        "titel": "Vorlesungen zur Phaenomenologie des inneren Zeitbewusstseins",
+        "jahr": "1928",
+        "beschreibung": "Husserls einflussreiche Analyse der Zeitkonstitution im Bewusstsein, herausgegeben von Martin Heidegger, die zeigt, wie das Zeitbewusstsein durch Retention, Urimpression und Protention strukturiert ist."
+      },
+      {
+        "titel": "Cartesianische Meditationen",
+        "jahr": "1931",
+        "beschreibung": "Fuenf Meditationen, die das Programm der transzendentalen Phaenomenologie in kompakter Form darstellen und die Probleme der Intersubjektivitaet und der Fremderfahrung behandeln."
+      }
+    ]
+  }
 }

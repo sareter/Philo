@@ -11,14 +11,51 @@
     "Kontemplative Versenkung und innere Reinigung sind der Weg zur mystischen Erfahrung",
     "Die letzte Wirklichkeit entzieht sich der sprachlichen Beschreibung"
   ],
-  "hauptvertreter": ["platon", "baruch-spinoza"],
+  "hauptvertreter": [
+    "platon",
+    "baruch-spinoza"
+  ],
   "entstehung": "Der philosophische Mystizismus hat seine Wurzeln in den antiken Mysterienkulten, im Platonismus und im Neuplatonismus (Plotin, 3. Jh. n. Chr.). Die christliche Mystik entwickelte sich durch Pseudo-Dionysius Areopagita, Meister Eckhart, Hildegard von Bingen, Teresa von Ávila und Johannes vom Kreuz. Der islamische Sufismus (Rumi, Ibn Arabi) und die jüdische Kabbala stellen parallele Traditionen dar. In der Neuzeit beeinflusste der Mystizismus Philosophen wie Spinoza, Schelling und Hegel. William James behandelte den Mystizismus als empirisches Phänomen.",
   "kritik": "Rationalisten kritisieren den Mystizismus als irrational und unwissenschaftlich – mystische Erfahrungen seien subjektive psychologische Zustände ohne objektiven Erkenntnisgehalt. Bertrand Russell argumentierte, dass mystische Erlebnisse durch Hirnchemie erklärt werden können und keinen Zugang zu einer höheren Wirklichkeit bieten. Die Unaussprechlichkeit mystischer Erfahrungen macht sie für argumentative Prüfung unzugänglich. Die Behauptung einer 'philosophia perennis' – eines gemeinsamen Kerns aller Mystik – wird von Religionswissenschaftlern als Vereinfachung kritisiert, die die tiefen Unterschiede zwischen mystischen Traditionen verkennt. Die Geschichte des Mystizismus zeigt auch problematische Entwicklungen wie Sektenbildung, Autoritarismus und psychische Instabilität.",
-  "verwandteIsmen": ["thomismus", "romantizismus", "pessimismus", "scholastik"],
+  "verwandteIsmen": [
+    "thomismus",
+    "romantizismus",
+    "pessimismus",
+    "scholastik"
+  ],
   "schluesselwerke": [
-    { "titel": "Enneaden", "autor": "Plotin", "jahr": "ca. 270" },
-    { "titel": "Deutsche Predigten und Traktate", "autor": "Meister Eckhart", "jahr": "ca. 1310" },
-    { "titel": "The Varieties of Religious Experience", "autor": "William James", "jahr": "1902" },
-    { "titel": "The Perennial Philosophy", "autor": "Aldous Huxley", "jahr": "1945" }
-  ]
+    {
+      "titel": "Enneaden",
+      "autor": "Plotin",
+      "jahr": "ca. 270"
+    },
+    {
+      "titel": "Deutsche Predigten und Traktate",
+      "autor": "Meister Eckhart",
+      "jahr": "ca. 1310"
+    },
+    {
+      "titel": "The Varieties of Religious Experience",
+      "autor": "William James",
+      "jahr": "1902"
+    },
+    {
+      "titel": "The Perennial Philosophy",
+      "autor": "Aldous Huxley",
+      "jahr": "1945"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Mystizismus ist eine philosophisch-religioese Tradition, die eine unmittelbare, ueberbegriffliche Erfahrung des Absoluten, Goettlichen oder Einen anstrebt.",
+    "ausfuehrlicheBeschreibung": "Der Mystizismus umfasst eine breite Tradition religioeser und philosophischer Denkweisen, die eine direkte, unmittelbare Erfahrung einer letzten Wirklichkeit – des Goettlichen, des Absoluten, des Einen – anstreben. Diese Erfahrung gilt als jenseits der Reichweite diskursiver Vernunft und begrifflichen Denkens liegend und wird oft als 'unio mystica' (mystische Vereinigung) beschrieben.\n\nPlotins Neuplatonismus bildet eine der wichtigsten philosophischen Grundlagen des westlichen Mystizismus. Plotin beschrieb die gesamte Wirklichkeit als Emanation des Einen (hen), das jenseits von Sein und Denken liegt. Die Seele kann durch stufenweise Abkehr von der Sinnenwelt und Rueckkehr zu ihrem Ursprung eine ekstatische Vereinigung mit dem Einen erfahren, die sich der sprachlichen Beschreibung entzieht.\n\nMeister Eckhart, der bedeutendste Mystiker des Mittelalters, entwickelte eine radikale Theologie der 'Gelassenheit' und der 'Gottesgeburt in der Seele'. Gott ist fuer Eckhart die namenlose, unbegreifliche 'Gottheit' jenseits aller Bestimmungen. Die mystische Erfahrung besteht im 'Durchbruch' zur Gottheit, bei dem die Seele alle Vorstellungen und Bilder – auch die von Gott – hinter sich laesst. Eckharts kuehne Formulierungen brachten ihm die Verurteilung durch die Kirche ein.",
+    "kernthesen": [
+      "Eine unmittelbare, ueberbegriffliche Erfahrung des Absoluten ist moeglich und erstrebenswert",
+      "Die diskursive Vernunft und begriffliches Denken reichen nicht aus, um die letzte Wirklichkeit zu erfassen",
+      "Die mystische Vereinigung (unio mystica) ueberwindet die Trennung zwischen Subjekt und Objekt",
+      "Kontemplative Versenkung und innere Reinigung sind der Weg zur mystischen Erfahrung",
+      "Die letzte Wirklichkeit entzieht sich der sprachlichen Beschreibung"
+    ],
+    "entstehung": "Der philosophische Mystizismus hat seine Wurzeln in den antiken Mysterienkulten, im Platonismus und im Neuplatonismus (Plotin, 3. Jh. n. Chr.). Die christliche Mystik entwickelte sich durch Pseudo-Dionysius Areopagita, Meister Eckhart, Hildegard von Bingen, Teresa von Ávila und Johannes vom Kreuz. Der islamische Sufismus (Rumi, Ibn Arabi) und die juedische Kabbala stellen parallele Traditionen dar. In der Neuzeit beeinflusste der Mystizismus Philosophen wie Spinoza, Schelling und Hegel. William James behandelte den Mystizismus als empirisches Phaenomen.",
+    "kritik": "Rationalisten kritisieren den Mystizismus als irrational und unwissenschaftlich – mystische Erfahrungen seien subjektive psychologische Zustaende ohne objektiven Erkenntnisgehalt. Bertrand Russell argumentierte, dass mystische Erlebnisse durch Hirnchemie erklaert werden koennen und keinen Zugang zu einer hoeheren Wirklichkeit bieten. Die Unaussprechlichkeit mystischer Erfahrungen macht sie fuer argumentative Pruefung unzugaenglich."
+  }
 }

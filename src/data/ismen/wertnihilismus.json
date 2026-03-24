@@ -11,13 +11,45 @@
     "Keine Moral kann universelle Geltung beanspruchen",
     "Die Freiheit zur Schaffung neuer Werte folgt aus dem Wertnihilismus"
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der Wertnihilismus wurde von Friedrich Nietzsche im späten 19. Jahrhundert als Diagnose der europäischen Kultur formuliert. Er entstand im Kontext der Säkularisierung und des Zusammenbruchs metaphysischer Weltbilder.",
   "kritik": "Kritiker werfen dem Wertnihilismus vor, er untergrabe jede Möglichkeit moralischen Handelns und führe zu Willkür und Gewalt. Zudem wird argumentiert, dass die Erfahrung von Werten – etwa die unmittelbare Erfahrung, dass Grausamkeit falsch ist – nicht einfach als Projektion abgetan werden kann.",
-  "verwandteIsmen": ["aktiver-nihilismus", "passiver-nihilismus", "moralischer-relativismus", "epistemischer-nihilismus"],
+  "verwandteIsmen": [
+    "aktiver-nihilismus",
+    "passiver-nihilismus",
+    "moralischer-relativismus",
+    "epistemischer-nihilismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882"},
-    {"titel": "Zur Genealogie der Moral", "autor": "Friedrich Nietzsche", "jahr": "1887"},
-    {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"}
-  ]
+    {
+      "titel": "Die fröhliche Wissenschaft",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1882"
+    },
+    {
+      "titel": "Zur Genealogie der Moral",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1887"
+    },
+    {
+      "titel": "Jenseits von Gut und Böse",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1886"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Wertnihilismus behauptet, dass es keine objektiven Werte gibt.",
+    "ausfuehrlicheBeschreibung": "Der Wertnihilismus ist die radikale These, dass keine Werte objektiv existieren. Gut und Boese, Schoen und Haesslich, Heilig und Profan – all diese Unterscheidungen haben keine Grundlage in der Wirklichkeit, sondern sind menschliche Projektionen auf eine an sich wertfreie Welt. Es gibt keine moralischen Tatsachen, nur moralische Interpretationen.\n\nFriedrich Nietzsche diagnostizierte den Wertnihilismus als die unvermeidliche Konsequenz des Zusammenbruchs der christlich-abendlaendischen Wertordnung. Mit dem Tod Gottes verlieren alle Werte, die auf ihm gegruendet waren, ihre Geltung. Nietzsche sah darin sowohl eine Gefahr als auch eine Chance: Die Gefahr liegt in der Desorientierung und dem Verfallen in den passiven Nihilismus; die Chance besteht in der Moeglichkeit, neue, lebensbejahende Werte zu schaffen.\n\nDer Wertnihilismus hat weitreichende Konsequenzen fuer die Ethik: Wenn es keine objektiven Werte gibt, dann kann keine Moral universelle Geltung beanspruchen. Jede ethische Position ist letztlich eine Perspektive unter vielen, und die Frage ist nicht, welche Werte wahr sind, sondern welche Werte der Mensch setzen will – und warum.",
+    "kernthesen": [
+      "Es gibt keine objektiven Werte in der Wirklichkeit",
+      "Alle Werte sind menschliche Setzungen und Projektionen",
+      "Der Tod Gottes hat die traditionelle Wertordnung zerstoert",
+      "Keine Moral kann universelle Geltung beanspruchen",
+      "Die Freiheit zur Schaffung neuer Werte folgt aus dem Wertnihilismus"
+    ],
+    "entstehung": "Der Wertnihilismus wurde von Friedrich Nietzsche im spaeten 19. Jahrhundert als Diagnose der europaeischen Kultur formuliert. Er entstand im Kontext der Saekularisierung und des Zusammenbruchs metaphysischer Weltbilder.",
+    "kritik": "Kritiker werfen dem Wertnihilismus vor, er untergrabe jede Moeglichkeit moralischen Handelns und fuehre zu Willkuer und Gewalt. Zudem wird argumentiert, dass die Erfahrung von Werten – etwa die unmittelbare Erfahrung, dass Grausamkeit falsch ist – nicht einfach als Projektion abgetan werden kann."
+  }
 }

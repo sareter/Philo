@@ -19,5 +19,18 @@
     {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"},
     {"titel": "Der Imperialismus als höchstes Stadium des Kapitalismus", "autor": "Wladimir Lenin", "jahr": "1917"},
     {"titel": "Die Verdammten dieser Erde", "autor": "Frantz Fanon", "jahr": "1961"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Imperialismus bedeutet, dass maechtige Staaten andere Voelker und Laender unterwerfen, um ihre Macht und ihren Reichtum zu vergroessern. Philosophisch wird gefragt, warum das passiert und welche Folgen es hat.",
+    "ausfuehrlicheBeschreibung": "Beim Imperialismus geht es darum, dass starke Laender schwaechere beherrschen. Im 19. Jahrhundert haben europaeische Maechte grosse Teile Afrikas und Asiens zu Kolonien gemacht. Marx und spaeter Lenin haben das so erklaert: Der Kapitalismus braucht staendig neue Maerkte und Rohstoffe, und wenn die im eigenen Land ausgehen, sucht man sie eben woanders. Kolonien waren also nicht nur ein politisches Projekt, sondern ein wirtschaftliches.\n\nAber Imperialismus ist nicht nur eine Sache von Geld und Macht. Denker wie Frantz Fanon haben gezeigt, dass die Unterdrueckung auch in den Koepfen stattfindet. Den kolonisierten Voelkern wurde eingeredet, ihre Kultur sei minderwertig. Ihre Sprachen, Traditionen und ihr Wissen wurden abgewertet. Edward Said hat analysiert, wie der Westen ein Bild vom Orient konstruiert hat, das vor allem dazu diente, die eigene Ueberlegenheit zu begruenden.\n\nHeute wird der Begriff Imperialismus auch breiter verwendet, zum Beispiel fuer wirtschaftliche oder kulturelle Dominanz, auch wenn keine Kolonien mehr existieren. Die Frage, wie die Folgen des Kolonialismus bis heute nachwirken, ist eine der wichtigsten Debatten in der politischen Philosophie.",
+    "kernthesen": [
+      "Imperialismus entsteht aus dem Drang des Kapitalismus, staendig zu wachsen und neue Maerkte zu finden.",
+      "Die Ausbeutung von Kolonien war kein Zufall, sondern ein zentraler Teil der wirtschaftlichen Entwicklung.",
+      "Imperialismus unterdrueckt nicht nur wirtschaftlich, sondern auch kulturell und psychologisch.",
+      "Rivalitaeten zwischen Grossmaechten um Kolonien fuehren zu Kriegen.",
+      "Um den Imperialismus zu ueberwinden, muss man laut Marx das Wirtschaftssystem aendern."
+    ],
+    "entstehung": "Der moderne Imperialismus begann im 19. Jahrhundert, als europaeische Staaten um Kolonien in Afrika und Asien wettkaempften. Marx analysierte die wirtschaftlichen Hintergruende, und Lenin schrieb 1917 sein beruemtes Buch darueber, dass der Imperialismus die hoechste Stufe des Kapitalismus sei.",
+    "kritik": "Kritiker sagen, die marxistische Erklaerung sei zu einseitig wirtschaftlich und uebersehe, dass auch Religion, Nationalstolz und Rassismus den Imperialismus angetrieben haben. Ausserdem hat die Sowjetunion gezeigt, dass auch nicht-kapitalistische Staaten imperial handeln koennen."
+  }
 }

@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Griechenland",
-  "hauptstroemungen": ["Sokratik", "Klassische griechische Philosophie", "Ethik"],
+  "hauptstroemungen": [
+    "Sokratik",
+    "Klassische griechische Philosophie",
+    "Ethik"
+  ],
   "kurzbeschreibung": "Sokrates gilt als Begründer der abendländischen Philosophie und revolutionierte das philosophische Denken durch seine Methode des fragenden Dialogs. Er hinterließ keine eigenen Schriften, wurde aber durch die Werke seiner Schüler, insbesondere Platons, zur einflussreichsten Gestalt der Philosophiegeschichte.",
   "biografie": {
     "fruehesLeben": "Sokrates wurde 469 v. Chr. im Demos Alopeke, einem Vorort Athens, als Sohn des Steinmetzen Sophroniskos und der Hebamme Phainarete geboren. Über seine Jugend ist wenig Gesichertes bekannt, doch wird angenommen, dass er zunächst den Beruf seines Vaters erlernte und als Steinmetz arbeitete. Der antiken Überlieferung zufolge soll er sogar die Statuen der bekleideten Grazien auf der Akropolis geschaffen haben. Er genoss eine grundlegende Bildung, die für athenische Bürger üblich war, und kam früh mit den Lehren der Naturphilosophen in Berührung, insbesondere mit den Ideen des Anaxagoras und des Archelaos, der als sein Lehrer gilt. Als junger Mann nahm Sokrates als Hoplit an mehreren Feldzügen des Peloponnesischen Krieges teil, unter anderem bei der Belagerung von Potidaia (432–430 v. Chr.), bei der Schlacht von Delion (424 v. Chr.) und bei Amphipolis (422 v. Chr.). Bei diesen Kampfhandlungen zeichnete er sich durch außergewöhnliche Tapferkeit und körperliche Ausdauer aus – so soll er barfuß im Schnee marschiert sein und seinem verwundeten Kameraden Alkibiades das Leben gerettet haben.",
@@ -83,6 +87,54 @@
       "kontext": "Eine der zahlreichen Lebensweisheiten, die Sokrates zugeschrieben werden."
     }
   ],
-  "verwandtePhilosophen": ["platon", "aristoteles", "xenophon", "antisthenes", "diogenes-von-sinope", "protagoras", "gorgias"],
-  "verwandteIsmen": ["sokratik", "idealismus", "rationalismus", "ethischer-intellektualismus"]
+  "verwandtePhilosophen": [
+    "platon",
+    "aristoteles",
+    "xenophon",
+    "antisthenes",
+    "diogenes-von-sinope",
+    "protagoras",
+    "gorgias"
+  ],
+  "verwandteIsmen": [
+    "sokratik",
+    "idealismus",
+    "rationalismus",
+    "ethischer-intellektualismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Sokrates gilt als Begruender der abendlaendischen Philosophie und revolutionierte das philosophische Denken durch seine Methode des fragenden Dialogs. Er hinterliess keine eigenen Schriften, wurde aber durch die Werke seiner Schueler, insbesondere Platons, zur einflussreichsten Gestalt der Philosophiegeschichte.",
+    "biografie": {
+      "fruehesLeben": "Sokrates wurde 469 v. Chr. im Demos Alopeke, einem Vorort Athens, als Sohn des Steinmetzen Sophroniskos und der Hebamme Phainarete geboren. Ueber seine Jugend ist wenig Gesichertes bekannt, doch wird angenommen, dass er zunaechst den Beruf seines Vaters erlernte und als Steinmetz arbeitete. Der antiken Ueberlieferung zufolge soll er sogar die Statuen der bekleideten Grazien auf der Akropolis geschaffen haben. Er genoss eine grundlegende Bildung, die fuer athenische Buerger ueblich war, und kam frueh mit den Lehren der Naturphilosophen in Beruehrung, insbesondere mit den Ideen des Anaxagoras und des Archelaos, der als sein Lehrer gilt. Als junger Mann nahm Sokrates als Hoplit an mehreren Feldzuegen des Peloponnesischen Krieges teil, unter anderem bei der Belagerung von Potidaia (432–430 v. Chr.",
+      "schaffen": "Sokrates' philosophische Taetigkeit bestand ausschliesslich im muendlichen Dialog. Er wanderte durch die Strassen Athens, den Marktplatz (Agora) und die Gymnasien und suchte das Gespraech mit Buergern aller Staende. Seine beruehmte Methode, die spaeter als Maeeutik (Hebammenkunst) bekannt wurde, bestand darin, durch geschicktes Fragen den Gespraechspartner dazu zu bringen, sein vermeintliches Wissen kritisch zu ueberpruefen und die eigenen Irrtuemer zu erkennen. Der Ausgangspunkt war dabei stets seine beruehmte Einsicht: 'Ich weiss, dass ich nichts weiss.' Diese sokratische Ironie – das vorgetaeuschte Nichtwissen – war ein wesentliches Element seiner Gespraechsfuehrung.",
+      "spaetesLeben": "In seinen spaeteren Jahren geriet Sokrates zunehmend in Konflikt mit dem politischen Establishment Athens. Waehrend der Herrschaft der Dreissig Tyrannen (404–403 v. Chr.) weigerte er sich, an der Verhaftung des Leon von Salamis mitzuwirken, was ihn in Lebensgefahr brachte. Bereits die Komoedie 'Die Wolken' des Aristophanes (423 v. Chr.) hatte ihn als vermeintlichen Sophisten und Naturphilosophen verspottet und damit sein oeffentliches Ansehen beschaedigt. Im Jahr 399 v. Chr. wurde Sokrates von den athenischen Buergern Meletos, Anytos und Lykon angeklagt. Die Anklage lautete auf Gottlosigkeit (Asebeia) – er fuehre neue Gottheiten ein und erkenne die Goetter des Staates nicht an – sowie auf Verfuehrung der Jugend.",
+      "tod": "Der Prozess gegen Sokrates fand 399 v. Chr. vor einem Geschworenengericht aus 501 Richtern statt. Platons 'Apologie' ueberliefert die Verteidigungsrede des Sokrates, in der er seine philosophische Mission als goettlichen Auftrag darstellte. Er wurde mit knapper Mehrheit (281 zu 220 Stimmen) schuldig gesprochen. Als ihm die Moeglichkeit gegeben wurde, eine Gegenstrafe vorzuschlagen, provozierte er das Gericht, indem er zunaechst vorschlug, man solle ihn auf Staatskosten im Prytaneion speisen lassen. Schliesslich bot er eine geringe Geldstrafe an. Das Gericht verurteilte ihn daraufhin zum Tod durch den Schierlingsbecher. Obwohl seine Freunde die Flucht aus dem Gefaengnis organisierten – wie Platon im Dialog 'Kriton' schildert –, lehnte Sokrates dies ab.",
+      "nachwirkung": "Der Tod des Sokrates erschuetterte die athenische Gesellschaft und wurde zum Gruendungsmythos der westlichen Philosophie. Seine Schueler gruendeten verschiedene philosophische Schulen: Platon die Akademie, Antisthenes die kynische Schule, Aristippos die kyrenaische Schule und Euklid von Megara die megarische Schule. Durch Platons Dialoge wurde Sokrates zur zentralen Figur der abendlaendischen Philosophie. Sein Einfluss reicht weit ueber die Antike hinaus – seine Methode des kritischen Fragens, sein Beharren auf begrifflicher Klarheit und seine ethische Grundhaltung praegen das philosophische Denken bis heute. Kierkegaard sah in ihm den Prototyp des existenziellen Denkers, und die sokratische Methode wird noch immer in der Paedagogik und in der philosophischen Praxis eingesetzt."
+    },
+    "kernideen": [
+      {
+        "titel": "Sokratische Methode (Maeeutik)",
+        "beschreibung": "Die Hebammenkunst des Geistes: Durch gezieltes Fragen hilft Sokrates seinen Gespraechspartnern, eigene Erkenntnisse zu 'gebaeren'. Er behauptet selbst kein Wissen zu besitzen, sondern lediglich andere dabei zu unterstuetzen, ihre verborgenen Einsichten ans Licht zu bringen."
+      },
+      {
+        "titel": "Ethischer Intellektualismus",
+        "beschreibung": "Sokrates vertritt die These, dass Tugend mit Wissen identisch ist. Wer wirklich erkennt, was gut ist, wird auch entsprechend handeln. Fehlverhalten beruht demnach stets auf Unwissenheit – niemand tut freiwillig das Boese."
+      },
+      {
+        "titel": "Das Nichtwissen",
+        "beschreibung": "Die beruehmte Einsicht 'Ich weiss, dass ich nichts weiss' bildet den Ausgangspunkt sokratischen Philosophierens. Nur wer seine eigene Unwissenheit erkennt, kann wahres Wissen erlangen. Dies unterscheidet den Philosophen von den Sophisten, die Wissen nur vortaeuschen."
+      },
+      {
+        "titel": "Das Daimonion",
+        "beschreibung": "Sokrates berichtet von einer inneren goettlichen Stimme, die ihn vor falschen Handlungen warnt. Dieses Daimonion gibt nie positive Anweisungen, sondern aeussert sich nur ablehnend – es ist eine Art moralischer Instinkt oder goettliche Eingebung."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Keine eigenen Schriften",
+        "jahr": "–",
+        "beschreibung": "Sokrates hat bewusst keine Schriften hinterlassen. Er war der Ueberzeugung, dass wahre Philosophie nur im lebendigen Gespraech stattfinden kann. Seine Lehren sind ausschliesslich durch die Werke seiner Schueler ueberliefert, insbesondere durch Platons Dialoge, Xenophons Memorabilien und Aristophanes'..."
+      }
+    ]
+  }
 }

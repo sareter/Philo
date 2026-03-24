@@ -80,5 +80,26 @@
     }
   ],
   "verwandtePhilosophen": ["karl-marx", "frantz-fanon", "erich-fromm", "antonio-gramsci"],
-  "verwandteIsmen": ["marxismus", "humanismus"]
+  "verwandteIsmen": ["marxismus", "humanismus"],
+  "einfach": {
+    "kurzbeschreibung": "Paulo Freire war ein brasilianischer Lehrer und Denker, der fand, dass Bildung Menschen frei machen kann, statt sie kleinzuhalten.",
+    "biografie": {
+      "fruehesLeben": "Freire wurde 1921 in Brasilien geboren. Seine Familie war arm, und als Kind erlebte er Hunger und Ausgrenzung. Das hat ihn sein Leben lang gepraegt.",
+      "schaffen": "In den 1960er Jahren entwickelte er eine neue Art, Menschen das Lesen beizubringen, die gleichzeitig ihr politisches Bewusstsein staerkte. Sein beruehmtestes Buch 'Paedagogik der Unterdrueckten' wurde weltbekannt. Er kritisierte Schulen, die Wissen einfach nur 'einfuellen', statt zum Mitdenken anzuregen.",
+      "spaetesLeben": "Nach einem Militaerputsch in Brasilien musste er fliehen und lebte im Exil in Chile, den USA und der Schweiz. 1980 kehrte er zurueck und wurde spaeter Bildungsminister in Sao Paulo.",
+      "tod": "Freire starb 1997 in Sao Paulo an einem Herzinfarkt. 2012 wurde er offiziell zum 'Patron der brasilianischen Erziehung' erklaert.",
+      "nachwirkung": "Seine Ideen haben die Bildung weltweit veraendert. Von Alphabetisierungsprogrammen in Afrika bis zu paedagogischen Konzepten in Europa – Freires Einfluss ist ueberall spuerbar."
+    },
+    "kernideen": [
+      {"titel": "Pädagogik der Unterdrückten", "beschreibung": "Bildung kann Menschen entweder unterdruecken oder befreien. Befreiende Bildung heisst: miteinander reden, gemeinsam denken, die eigene Situation verstehen."},
+      {"titel": "Bankiers-Konzept vs. problemformulierende Bildung", "beschreibung": "Im alten System werden Schueler wie leere Gefaesse behandelt, die man mit Wissen fuellt. Freire wollte stattdessen, dass Schueler aktiv mitdenken und ihre eigenen Erfahrungen einbringen."},
+      {"titel": "Conscientização (Bewusstseinsbildung)", "beschreibung": "Menschen sollen lernen, ihre Situation kritisch zu sehen und zu erkennen, dass sie die Welt veraendern koennen."},
+      {"titel": "Dialog als Grundlage der Bildung", "beschreibung": "Echte Bildung passiert im Gespraech auf Augenhoehe. Lehrer und Schueler lernen voneinander."}
+    ],
+    "werke": [
+      {"titel": "Pädagogik der Unterdrückten (Pedagogia do Oprimido)", "jahr": "1968", "beschreibung": "Sein Hauptwerk, das erklaert, wie Bildung Menschen befreien kann statt sie kleinzuhalten."},
+      {"titel": "Erziehung als Praxis der Freiheit (Educação como Prática da Liberdade)", "jahr": "1967", "beschreibung": "Sein erstes Buch, in dem er seine Methode zum Lesen- und Schreibenlernen vorstellt."},
+      {"titel": "Pädagogik der Hoffnung (Pedagogia da Esperança)", "jahr": "1992", "beschreibung": "Ein Rueckblick auf sein Hauptwerk, zwanzig Jahre spaeter, mit neuen Gedanken und Erfahrungen."}
+    ]
+  }
 }

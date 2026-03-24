@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Magna Graecia (Unteritalien)",
-  "hauptstroemungen": ["Vorsokratik", "Eleatische Schule", "Ontologie"],
+  "hauptstroemungen": [
+    "Vorsokratik",
+    "Eleatische Schule",
+    "Ontologie"
+  ],
   "kurzbeschreibung": "Parmenides von Elea begründete die Ontologie als Lehre vom Sein und stellte mit seiner These, dass Veränderung unmöglich sei, die gesamte griechische Philosophie vor eine fundamentale Herausforderung. Sein Lehrgedicht ist das erste systematische metaphysische Werk der westlichen Tradition.",
   "biografie": {
     "fruehesLeben": "Parmenides wurde um 515 v. Chr. in Elea (dem heutigen Velia in Süditalien) geboren, einer griechischen Kolonie an der tyrrhenischen Küste Lukaniens. Er stammte aus einer wohlhabenden und angesehenen Familie. Diogenes Laertios berichtet, er sei ein Schüler des Xenophanes gewesen, habe aber auch Kontakt zu dem Pythagoreer Ameinias gehabt, der ihn zur Philosophie bekehrte. Als angesehener Bürger von Elea soll er seiner Stadt Gesetze gegeben haben, die so vortrefflich waren, dass die Beamten jedes Jahr schwören mussten, sich an die Gesetze des Parmenides zu halten.",
@@ -74,6 +78,53 @@
       "kontext": "Die Göttin warnt Parmenides davor, den falschen Weg des Nichtseins einzuschlagen."
     }
   ],
-  "verwandtePhilosophen": ["zenon-von-elea", "heraklit", "empedokles", "anaxagoras", "demokrit", "platon"],
-  "verwandteIsmen": ["eleatismus", "rationalismus", "monismus", "idealismus"]
+  "verwandtePhilosophen": [
+    "zenon-von-elea",
+    "heraklit",
+    "empedokles",
+    "anaxagoras",
+    "demokrit",
+    "platon"
+  ],
+  "verwandteIsmen": [
+    "eleatismus",
+    "rationalismus",
+    "monismus",
+    "idealismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Parmenides von Elea begruendete die Ontologie als Lehre vom Sein und stellte mit seiner These, dass Veraenderung unmoeglich sei, die gesamte griechische Philosophie vor eine fundamentale Herausforderung. Sein Lehrgedicht ist das erste systematische metaphysische Werk der westlichen Tradition.",
+    "biografie": {
+      "fruehesLeben": "Parmenides wurde um 515 v. Chr. in Elea (dem heutigen Velia in Sueditalien) geboren, einer griechischen Kolonie an der tyrrhenischen Kueste Lukaniens. Er stammte aus einer wohlhabenden und angesehenen Familie. Diogenes Laertios berichtet, er sei ein Schueler des Xenophanes gewesen, habe aber auch Kontakt zu dem Pythagoreer Ameinias gehabt, der ihn zur Philosophie bekehrte. Als angesehener Buerger von Elea soll er seiner Stadt Gesetze gegeben haben, die so vortrefflich waren, dass die Beamten jedes Jahr schwoeren mussten, sich an die Gesetze des Parmenides zu halten.",
+      "schaffen": "Parmenides verfasste sein philosophisches Hauptwerk in Form eines Lehrgedichts in Hexametern, von dem bedeutende Fragmente erhalten sind. Das Gedicht beginnt mit einem allegorischen Prooemium: Der junge Parmenides faehrt auf einem Wagen, gezogen von Stuten und begleitet von den Toechtern der Sonne, zum Tor von Tag und Nacht, wo ihn die Goettin Dike (Gerechtigkeit) empfaengt und ihm den 'Weg der Wahrheit' und den 'Weg der Meinung' offenbart. Der Weg der Wahrheit enthaelt das revolutionaere Argument: Das Seiende ist, und das Nichtseiende ist nicht. Es ist unmoeglich, das Nichtseiende zu denken oder auszusprechen. Daraus folgt mit strenger Logik, dass Entstehen und Vergehen, Veraenderung und Vielheit blosser Schein sind. Das wahre Sein ist ewig, unveraenderlich, unteilbar, vollkommen und kugelfoermig.",
+      "spaetesLeben": "In seinem spaeteren Leben genoss Parmenides hohes Ansehen als Gesetzgeber und Philosoph. Platon berichtet im Dialog 'Parmenides', dass der alte Parmenides zusammen mit seinem Schueler Zenon um 450 v. Chr. nach Athen reiste und dort den jungen Sokrates traf. Ob diese Begegnung historisch ist, ist umstritten, doch zeigt sie den Respekt, den Platon dem eleatischen Denker entgegenbrachte.",
+      "tod": "Parmenides starb um 450 v. Chr. in Elea. Ueber die genauen Umstaende seines Todes ist nichts bekannt. Er wurde etwa 65 Jahre alt und hinterliess mit der Eleatischen Schule eine der einflussreichsten philosophischen Traditionen der Antike.",
+      "nachwirkung": "Parmenides' Einfluss auf die Philosophiegeschichte ist kaum zu ueberschaetzen. Seine Forderung nach logischer Stringenz und seine Unterscheidung zwischen Wahrheit und Meinung praegten das gesamte philosophische Denken. Platon uebernahm wesentliche Elemente seiner Seinslehre und nannte Parmenides in einem gleichnamigen Dialog 'ehrwuerdig und zugleich furchtbar'. Aristoteles rang zeitlebens mit den eleatischen Argumenten. In der modernen analytischen Philosophie gilt Parmenides als Begruender der Ontologie und als erster Vertreter eines rein rationalistischen Denkens. Heidegger sah in Parmenides' Seinsfrage den Ursprung der gesamten abendlaendischen Metaphysik."
+    },
+    "kernideen": [
+      {
+        "titel": "Das Sein ist, das Nichtsein ist nicht",
+        "beschreibung": "Der fundamentale Grundsatz der eleatischen Philosophie: Es gibt nur Sein, kein Nichtsein. Das Nichtseiende kann weder gedacht noch ausgesprochen werden. Daraus folgt, dass Entstehen und Vergehen unmoeglich sind."
+      },
+      {
+        "titel": "Unveraenderlichkeit des Seins",
+        "beschreibung": "Das wahre Sein ist ewig, unveraenderlich, unteilbar, vollkommen und in sich abgeschlossen wie eine wohlgerundete Kugel. Bewegung, Veraenderung und Vielheit sind blosser Schein."
+      },
+      {
+        "titel": "Weg der Wahrheit vs. Weg der Meinung",
+        "beschreibung": "Parmenides unterscheidet streng zwischen dem Weg der Wahrheit (aletheia), der durch reines Denken zum unveraenderlichen Sein fuehrt, und dem Weg der Meinung (doxa), der auf truegerischer Sinneswahrnehmung beruht."
+      },
+      {
+        "titel": "Identitaet von Denken und Sein",
+        "beschreibung": "Denken und Sein sind dasselbe: 'Denn dasselbe ist Denken und Sein.' Nur was ist, kann gedacht werden, und was gedacht wird, muss sein."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Ueber die Natur (Peri Physeos)",
+        "jahr": "ca. 480 v. Chr.",
+        "beschreibung": "Lehrgedicht in Hexametern, von dem etwa 160 Verse erhalten sind. Es besteht aus einem allegorischen Prooemium, dem 'Weg der Wahrheit' (Ontologie) und dem 'Weg der Meinung' (Kosmologie). Das erste systematische metaphysische Werk der westlichen Philosophie."
+      }
+    ]
+  }
 }

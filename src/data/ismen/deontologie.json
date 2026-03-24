@@ -11,14 +11,52 @@
     "Es gibt absolute moralische Verbote, die durch keine noch so guten Konsequenzen aufgehoben werden können",
     "Der moralische Wert einer Handlung liegt im guten Willen und der Achtung vor dem moralischen Gesetz"
   ],
-  "hauptvertreter": ["immanuel-kant", "john-rawls"],
+  "hauptvertreter": [
+    "immanuel-kant",
+    "john-rawls"
+  ],
   "entstehung": "Die deontologische Tradition hat Wurzeln in den Zehn Geboten und anderen religiösen Pflichtenethiken. Ihre philosophische Begründung erhielt sie durch Immanuel Kants Moralphilosophie in den 1780er Jahren. W.D. Ross entwickelte in den 1930er Jahren den pluralistischen Intuitionismus als Alternative zu Kants Monismus. Im 20. Jahrhundert wurde die Deontologie durch Autoren wie John Rawls, Robert Nozick, T.M. Scanlon und Christine Korsgaard weiterentwickelt. Die Deontologie erlebte in den 1970er Jahren eine Renaissance als Gegenposition zum damals dominierenden Utilitarismus.",
   "kritik": "Der Haupteinwand gegen die Deontologie betrifft ihre scheinbare Indifferenz gegenüber den Konsequenzen: Ist es wirklich moralisch geboten, die Wahrheit zu sagen, wenn dies zum Tod Unschuldiger führt? Kants eigenes Beispiel des Mörders an der Tür wird häufig als reductio ad absurdum angeführt. Konsequentialisten argumentieren, dass eine Ethik, die katastrophale Folgen ignoriert, unmenschlich ist. Der Rigorismus-Vorwurf betrifft die Inflexibilität deontologischer Regeln in komplexen Situationen. Die Frage, wie mit Pflichtenkollisionen umzugehen ist, bleibt in kantischen Ansätzen unterbelichtet. Tugendethiker kritisieren, dass die Deontologie den Charakter des Handelnden und die Rolle von Emotionen in der Moral vernachlässigt.",
-  "verwandteIsmen": ["pflichtethik", "kantianismus", "konsequentialismus", "tugendethik", "kontraktualismus"],
+  "verwandteIsmen": [
+    "pflichtethik",
+    "kantianismus",
+    "konsequentialismus",
+    "tugendethik",
+    "kontraktualismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Grundlegung zur Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1785" },
-    { "titel": "Kritik der praktischen Vernunft", "autor": "Immanuel Kant", "jahr": "1788" },
-    { "titel": "The Right and the Good", "autor": "W.D. Ross", "jahr": "1930" },
-    { "titel": "Anarchy, State, and Utopia", "autor": "Robert Nozick", "jahr": "1974" }
-  ]
+    {
+      "titel": "Grundlegung zur Metaphysik der Sitten",
+      "autor": "Immanuel Kant",
+      "jahr": "1785"
+    },
+    {
+      "titel": "Kritik der praktischen Vernunft",
+      "autor": "Immanuel Kant",
+      "jahr": "1788"
+    },
+    {
+      "titel": "The Right and the Good",
+      "autor": "W.D. Ross",
+      "jahr": "1930"
+    },
+    {
+      "titel": "Anarchy, State, and Utopia",
+      "autor": "Robert Nozick",
+      "jahr": "1974"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Deontologie ist eine ethische Theorie, die die moralische Richtigkeit einer Handlung nicht an ihren Folgen, sondern an ihrer Uebereinstimmung mit moralischen Pflichten, Regeln oder Prinzipien bemisst.",
+    "ausfuehrlicheBeschreibung": "Die Deontologie (von griechisch deon – Pflicht) stellt neben dem Konsequentialismus und der Tugendethik eine der drei Hauptstroemungen der normativen Ethik dar. Ihr zentraler Gedanke besagt, dass bestimmte Handlungen unabhaengig von ihren Folgen moralisch geboten, verboten oder erlaubt sind. Die moralische Qualitaet einer Handlung bemisst sich an ihrer Uebereinstimmung mit moralischen Pflichten und Prinzipien.\n\nImmanuel Kant entwickelte die einflussreichste deontologische Ethik in seiner 'Grundlegung zur Metaphysik der Sitten' (1785) und der 'Kritik der praktischen Vernunft' (1788). Der kategorische Imperativ als oberstes Moralprinzip lautet in seiner bekanntesten Formulierung: 'Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.' Eine Handlung ist moralisch richtig, wenn ihre Maxime (das subjektive Handlungsprinzip) verallgemeinerbar ist, ohne einen Widerspruch zu erzeugen.\n\nKants Menschheitsformel des kategorischen Imperativs lautet: 'Handle so, dass du die Menschheit sowohl in deiner Person als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloss als Mittel brauchest.' Dieses Prinzip verbietet die blosse Instrumentalisierung von Personen und begruendet die unantastbare Wuerde des Menschen.",
+    "kernthesen": [
+      "Die moralische Richtigkeit einer Handlung bemisst sich an ihrer Uebereinstimmung mit Pflichten und Prinzipien, nicht an ihren Folgen",
+      "Der kategorische Imperativ fordert die Verallgemeinerbarkeit der eigenen Handlungsmaxime",
+      "Personen duerfen niemals bloss als Mittel, sondern muessen stets auch als Zweck behandelt werden",
+      "Es gibt absolute moralische Verbote, die durch keine noch so guten Konsequenzen aufgehoben werden koennen",
+      "Der moralische Wert einer Handlung liegt im guten Willen und der Achtung vor dem moralischen Gesetz"
+    ],
+    "entstehung": "Die deontologische Tradition hat Wurzeln in den Zehn Geboten und anderen religioesen Pflichtenethiken. Ihre philosophische Begruendung erhielt sie durch Immanuel Kants Moralphilosophie in den 1780er Jahren. W.D. Ross entwickelte in den 1930er Jahren den pluralistischen Intuitionismus als Alternative zu Kants Monismus. Im 20. Jahrhundert wurde die Deontologie durch Autoren wie John Rawls, Robert Nozick, T.M. Scanlon und Christine Korsgaard weiterentwickelt. Die Deontologie erlebte in den 1970er Jahren eine Renaissance als Gegenposition zum damals dominierenden Utilitarismus.",
+    "kritik": "Der Haupteinwand gegen die Deontologie betrifft ihre scheinbare Indifferenz gegenueber den Konsequenzen: Ist es wirklich moralisch geboten, die Wahrheit zu sagen, wenn dies zum Tod Unschuldiger fuehrt? Kants eigenes Beispiel des Moerders an der Tuer wird haeufig als reductio ad absurdum angefuehrt. Konsequentialisten argumentieren, dass eine Ethik, die katastrophale Folgen ignoriert, unmenschlich ist."
+  }
 }

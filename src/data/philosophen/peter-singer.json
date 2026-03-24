@@ -88,5 +88,28 @@
     }
   ],
   "verwandtePhilosophen": ["john-rawls", "robert-nozick", "noam-chomsky"],
-  "verwandteIsmen": ["utilitarismus", "tierethik", "effektiver-altruismus", "konsequentialismus"]
+  "verwandteIsmen": ["utilitarismus", "tierethik", "effektiver-altruismus", "konsequentialismus"],
+  "einfach": {
+    "kurzbeschreibung": "Peter Singer ist ein australischer Philosoph, der die moderne Tierrechtsbewegung gegruendet hat und der Meinung ist, dass wir viel mehr fuer Tiere und arme Menschen tun muessen.",
+    "biografie": {
+      "fruehesLeben": "Singer wurde 1946 in Melbourne als Sohn juedischer Emigranten aus Oesterreich geboren. Drei seiner Grosseltern starben im Holocaust. Er studierte Philosophie und wurde an der Universitaet Oxford zum Utilitaristen.",
+      "schaffen": "Sein Buch 'Animal Liberation' von 1975 wurde zur Bibel der Tierrechtsbewegung. Er sagt, dass Tiere genauso zaehlen wie Menschen, wenn es um Leiden geht. Sein Lehrbuch 'Praktische Ethik' wurde das meistverkaufte Ethik-Buch der Welt. Spaeter gruendete er die Effective-Altruism-Bewegung, die mit Vernunft und Daten das meiste Gute tun will.",
+      "spaetesLeben": "Singer ist Professor an der Princeton University und einer der bekanntesten Philosophen der Welt. Seine Standpunkte zu Tierrechten und Armut haben echte politische Auswirkungen gehabt.",
+      "tod": "Peter Singer lebt und arbeitet weiterhin in Princeton und Melbourne.",
+      "nachwirkung": "Er hat die Diskussion ueber Tierrechte komplett veraendert und die Effective-Altruism-Bewegung mitgegruendet, die Milliarden Dollar in wirksame Hilfe geleitet hat."
+    },
+    "kernideen": [
+      {"titel": "Gleiche Interessenabwägung", "beschreibung": "Das Leiden eines Tieres zaehlt genauso wie das Leiden eines Menschen. Alle Wesen, die fuehlen koennen, verdienen gleiche Beruecksichtigung."},
+      {"titel": "Speziesismus", "beschreibung": "Tiere nur deshalb schlechter zu behandeln, weil sie keine Menschen sind, ist genauso ungerecht wie Rassismus oder Sexismus."},
+      {"titel": "Effektiver Altruismus", "beschreibung": "Wir sollten mit Vernunft und Fakten herausfinden, wie wir am meisten Gutes tun koennen, und dann auch wirklich handeln."},
+      {"titel": "Präferenzutilitarismus", "beschreibung": "Die richtige Handlung ist die, die die Wuensche und Interessen aller Betroffenen am besten erfuellt."}
+    ],
+    "werke": [
+      {"titel": "Animal Liberation (Die Befreiung der Tiere)", "jahr": "1975", "beschreibung": "Das Buch, das die moderne Tierrechtsbewegung gestartet hat und erklaert, warum Tierquaelerei moralisch falsch ist."},
+      {"titel": "Praktische Ethik (Practical Ethics)", "jahr": "1979", "beschreibung": "Das meistverkaufte Ethik-Lehrbuch, das schwierige Themen wie Abtreibung, Sterbehilfe und Armut behandelt."},
+      {"titel": "The Expanding Circle", "jahr": "1981", "beschreibung": "Ein Buch darueber, wie die Menschheit immer mehr Wesen in ihren Kreis der moralischen Ruecksicht aufnimmt."},
+      {"titel": "The Life You Can Save", "jahr": "2009", "beschreibung": "Ein Argument dafuer, dass wir moralisch verpflichtet sind, den aermsten Menschen der Welt zu helfen."},
+      {"titel": "The Most Good You Can Do", "jahr": "2015", "beschreibung": "Eine Darstellung des effektiven Altruismus als Philosophie und Bewegung."}
+    ]
+  }
 }

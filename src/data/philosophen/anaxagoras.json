@@ -75,5 +75,24 @@
     }
   ],
   "verwandtePhilosophen": ["empedokles", "parmenides", "sokrates", "demokrit", "thales"],
-  "verwandteIsmen": ["pluralismus", "naturalismus", "rationalismus"]
+  "verwandteIsmen": ["pluralismus", "naturalismus", "rationalismus"],
+  "einfach": {
+    "kurzbeschreibung": "Anaxagoras brachte die Philosophie nach Athen und war der erste Philosoph, der wegen seiner Lehren verfolgt wurde. Er sagte, dass ein kosmischer Geist die Welt ordnet, und erklaerte die Sonne als gluehenden Stein statt als Gott.",
+    "biografie": {
+      "fruehesLeben": "Anaxagoras wurde um 500 v. Chr. in Kleinasien geboren. Er kam aus einer reichen Familie, gab aber sein Vermoegen auf, um sich ganz der Philosophie zu widmen. Um 480 v. Chr. brachte er die Philosophie nach Athen.",
+      "schaffen": "Seine grosse Idee war der Nous, ein kosmischer Geist, der die Welt aus einer Urmischung heraus ordnet. Er sagte auch, dass in jedem Ding ein Anteil von allem enthalten ist. In der Astronomie war er revolutionaer: Er erklaerte die Sonne als gluehenden Stein und Mondfinsternisse durch den Erdschatten.",
+      "spaetesLeben": "Die Gegner seines Freundes Perikles klagten Anaxagoras wegen Gottlosigkeit an, weil er die Sonne nicht als Gott bezeichnete. Es war der erste bekannte Prozess gegen einen Philosophen.",
+      "tod": "Anaxagoras wurde aus Athen verbannt und zog nach Lampsakos, wo er hoch geehrt wurde und um 428 v. Chr. starb. Auf seinem Grabstein stand angeblich, er habe die Grenzen der Wahrheit am weitesten vorangetrieben.",
+      "nachwirkung": "Seine Idee des Nous als ordnender Geist war ein Meilenstein. Sokrates, Platon und Aristoteles griffen sie auf und entwickelten sie weiter."
+    },
+    "kernideen": [
+      {"titel": "Der Nous (Geist/Vernunft)", "beschreibung": "Der Nous ist ein kosmischer Geist, der die Welt aus einem Urchaos heraus geordnet hat. Er ist von allem anderen getrennt, aber hat Macht ueber alles."},
+      {"titel": "Alles in Allem", "beschreibung": "In jedem Ding steckt ein bisschen von allem anderen. Schnee enthaelt zum Beispiel auch Spuren von Schwarz, aber das Weisse ueberwiegt."},
+      {"titel": "Homoeomerie (Gleichteiligkeit)", "beschreibung": "Die Grundbausteine der Welt sind unendlich viele verschiedene Samen, die man immer weiter teilen kann, ohne dass sie ihre Eigenschaften verlieren."},
+      {"titel": "Naturalistische Astronomie", "beschreibung": "Die Sonne ist kein Gott, sondern ein gluehender Stein. Der Mond leuchtet nicht selbst, sondern wird von der Sonne angestrahlt."}
+    ],
+    "werke": [
+      {"titel": "Ueber die Natur (Peri Physeos)", "jahr": "ca. 460 v. Chr.", "beschreibung": "Sein einziges bekanntes Werk, von dem nur etwa 20 Bruchstuecke erhalten sind."}
+    ]
+  }
 }

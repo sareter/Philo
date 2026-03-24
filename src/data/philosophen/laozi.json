@@ -18,7 +18,9 @@
   },
   "epoche": "Antike",
   "region": "Asien",
-  "hauptstroemungen": ["Daoismus"],
+  "hauptstroemungen": [
+    "Daoismus"
+  ],
   "kurzbeschreibung": "Laozi gilt als der legendäre Begründer des Daoismus und Verfasser des Daodejing, eines der einflussreichsten philosophischen Werke der Menschheitsgeschichte. Seine Lehre vom Dao als dem unbenennbaren Urgrund aller Dinge und vom Wu Wei als dem Prinzip des Nicht-Eingreifens prägte das chinesische Denken nachhaltig. Ob Laozi eine historische Person war oder eine mythische Gestalt, ist bis heute umstritten.",
   "biografie": {
     "fruehesLeben": "Nach der Überlieferung wurde Laozi im 6. Jahrhundert v. Chr. in der Provinz Henan geboren. Er soll als Archivar am Hof der Zhou-Dynastie gearbeitet haben. Über sein frühes Leben gibt es kaum gesicherte historische Informationen.",
@@ -79,6 +81,56 @@
       "kontext": "Die daoistische Betonung der Selbsterkenntnis als höchste Form der Weisheit."
     }
   ],
-  "verwandtePhilosophen": ["konfuzius", "siddhartha-gautama"],
-  "verwandteIsmen": ["daoismus"]
+  "verwandtePhilosophen": [
+    "konfuzius",
+    "siddhartha-gautama"
+  ],
+  "verwandteIsmen": [
+    "daoismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Laozi gilt als der legendaere Begruender des Daoismus und Verfasser des Daodejing, eines der einflussreichsten philosophischen Werke der Menschheitsgeschichte. Seine Lehre vom Dao als dem unbenennbaren Urgrund aller Dinge und vom Wu Wei als dem Prinzip des Nicht-Eingreifens praegte das chinesische Denken nachhaltig. Ob Laozi eine historische Person war oder eine mythische Gestalt, ist bis heute umstritten.",
+    "biografie": {
+      "fruehesLeben": "Nach der Ueberlieferung wurde Laozi im 6. Jahrhundert v. Chr. in der Provinz Henan geboren. Er soll als Archivar am Hof der Zhou-Dynastie gearbeitet haben. Ueber sein fruehes Leben gibt es kaum gesicherte historische Informationen.",
+      "schaffen": "Die Legende berichtet, dass Laozi das Daodejing verfasste, als er China in Richtung Westen verlassen wollte. Ein Grenzwaechter bat ihn, seine Weisheit niederzuschreiben, woraufhin er das Werk in 81 kurzen Kapiteln verfasste. Das Daodejing verbindet kosmologische Betrachtungen mit politischer Philosophie und Lebensweisheit.",
+      "spaetesLeben": "Der Legende nach verliess Laozi China auf einem Wasserbueffel reitend durch den westlichen Pass. Was danach geschah, ist unbekannt. In spaeteren Jahrhunderten wurde er im religioesen Daoismus als Gottheit verehrt.",
+      "tod": "Ueber den Tod des Laozi gibt es keine historischen Berichte. Die Tradition schweigt sich ueber die Umstaende seines Ablebens aus. In der daoistischen Religion gilt er teilweise als unsterblich.",
+      "nachwirkung": "Das Daodejing wurde zu einem der meistuebersetzten Buecher der Weltliteratur und beeinflusste neben dem chinesischen Daoismus auch den Zen-Buddhismus. Laozis Gedanken ueber Natuerlichkeit, Bescheidenheit und das Nicht-Handeln finden bis heute weltweite Beachtung in Philosophie, Kunst und Lebensfuehrung."
+    },
+    "kernideen": [
+      {
+        "titel": "Das Dao (Der Weg)",
+        "beschreibung": "Das Dao ist der unbenennbare, unfassbare Urgrund aller Dinge, der allem zugrunde liegt und alles durchdringt. Es laesst sich nicht in Worte fassen – 'Das Dao, das man aussprechen kann, ist nicht das ewige Dao'. Es ist zugleich Quelle und Ziel aller Existenz."
+      },
+      {
+        "titel": "Wu Wei (Nicht-Handeln)",
+        "beschreibung": "Wu Wei bedeutet nicht Passivitaet, sondern das Handeln im Einklang mit dem natuerlichen Lauf der Dinge. Der Weise greift nicht gewaltsam in die Ordnung der Natur ein, sondern folgt ihr wie das Wasser, das den Weg des geringsten Widerstands nimmt."
+      },
+      {
+        "titel": "Die Kraft des Weichen",
+        "beschreibung": "Laozi lehrt, dass das Weiche und Nachgiebige das Harte und Starre ueberwindet. Wasser ist das Sinnbild dieser Kraft: Es ist das Nachgiebigste aller Dinge und doch vermag es den haertesten Stein zu hoehlen."
+      },
+      {
+        "titel": "Rueckkehr zur Einfachheit",
+        "beschreibung": "Der Daoismus plaediert fuer eine Rueckkehr zur natuerlichen Einfachheit und Bescheidenheit. Ueberfluessiges Wissen, uebermaessiger Besitz und kuenstliche Konventionen entfernen den Menschen von seiner wahren Natur."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Daodejing (Tao Te King)",
+        "jahr": "ca. 600 v. Chr.",
+        "beschreibung": "Das Hauptwerk des Daoismus in 81 Kapiteln verbindet mystische Kosmologie mit politischer Philosophie und Lebensweisheit. Es ist eines der meistuebersetzten Buecher der Weltliteratur."
+      },
+      {
+        "titel": "Hua Hu Jing",
+        "jahr": "ca. 300 v. Chr.",
+        "beschreibung": "Ein Laozi zugeschriebener Text, dessen Authentizitaet umstritten ist, der aber wichtige daoistische Lehren ueber die Kultivierung des Geistes enthaelt."
+      },
+      {
+        "titel": "Qingjing Jing",
+        "jahr": "unbekannt",
+        "beschreibung": "Ein kurzer, Laozi zugeschriebener daoistischer Text ueber die Reinheit und Stille des Geistes als Weg zur Erleuchtung."
+      }
+    ]
+  }
 }

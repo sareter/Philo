@@ -11,13 +11,43 @@
     "Im positiven Zeitalter wird die Gesellschaft rational von einer Expertenelite geleitet.",
     "Sachkompetenz, nicht Popularität, sollte über politische Macht entscheiden."
   ],
-  "hauptvertreter": ["auguste-comte"],
+  "hauptvertreter": [
+    "auguste-comte"
+  ],
   "entstehung": "Der Technokratismus hat seine philosophischen Wurzeln in Comtes Positivismus des 19. Jahrhunderts und in Saint-Simons Vision einer industriellen Gesellschaft. Die Technokratie-Bewegung der 1930er Jahre in Nordamerika popularisierte die Idee, während Nachkriegsinstitutionen wie die EU technokratische Elemente realisierten.",
   "kritik": "Dem Technokratismus wird vorgeworfen, dass er politische Entscheidungen fälschlich als rein technische Fragen darstellt und damit demokratische Legitimation untergräbt. Politische Fragen betreffen Werte und Interessen, die nicht wissenschaftlich entschieden werden können. Zudem fehlt Experten oft der Blick für die Lebenswirklichkeit der betroffenen Menschen.",
-  "verwandteIsmen": ["positivismus", "szientismus"],
+  "verwandteIsmen": [
+    "positivismus",
+    "szientismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Cours de philosophie positive", "autor": "Auguste Comte", "jahr": "1842"},
-    {"titel": "Catéchisme positiviste", "autor": "Auguste Comte", "jahr": "1852"},
-    {"titel": "The Engineers and the Price System", "autor": "Thorstein Veblen", "jahr": "1921"}
-  ]
+    {
+      "titel": "Cours de philosophie positive",
+      "autor": "Auguste Comte",
+      "jahr": "1842"
+    },
+    {
+      "titel": "Catéchisme positiviste",
+      "autor": "Auguste Comte",
+      "jahr": "1852"
+    },
+    {
+      "titel": "The Engineers and the Price System",
+      "autor": "Thorstein Veblen",
+      "jahr": "1921"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Technokratismus ist die politische Philosophie, die eine Herrschaft der Experten und Sachverstaendigen anstelle demokratisch gewaehlter Politiker fordert.",
+    "ausfuehrlicheBeschreibung": "Der Technokratismus beruht auf der Ueberzeugung, dass gesellschaftliche und politische Probleme im Kern technische Probleme sind, die am besten von Fachleuten und Wissenschaftlern geloest werden koennen. Demokratische Entscheidungsprozesse, die auf dem Mehrheitswillen uninformierter Buerger beruhen, sind demnach ineffizient und fuehren zu suboptimalen Ergebnissen. Auguste Comte, der Begruender des Positivismus, legte die philosophischen Grundlagen fuer den Technokratismus mit seiner Vision einer von Wissenschaftlern und Ingenieuren geleiteten Gesellschaft.\n\nComte teilte die Geschichte der Menschheit in drei Stadien ein: das theologische, das metaphysische und das positive Stadium. Im positiven Stadium, das seiner Ansicht nach angebrochen war, sollten wissenschaftliche Methoden die religioesen und metaphysischen Spekulation abloesen und zur Grundlage gesellschaftlicher Organisation werden. Eine Expertenelite, die die Gesetze der sozialen Physik kennt, sollte die Gesellschaft rational lenken und den sozialen Fortschritt planen.\n\nDer Technokratismus hat im 20. Jahrhundert verschiedene Auspraegungen erfahren, von der Technokratie-Bewegung in den USA der 1930er Jahre bis zur Expertokratie der Europaeischen Union. In der Gegenwart erlebt der technokratische Gedanke eine Wiederbelebung durch die Diskussion ueber algorithmische Governance und datengesteuerte Politik. Die philosophische Kritik betont dagegen, dass politische Entscheidungen immer auch Wertentscheidungen sind, die nicht allein durch technisches Wissen geloest werden koennen.",
+    "kernthesen": [
+      "Gesellschaftliche Probleme sind im Kern technische Probleme, die von Experten geloest werden sollten.",
+      "Demokratische Entscheidungsprozesse sind ineffizient und fuehren zu suboptimalen Ergebnissen.",
+      "Wissenschaftliche Methoden sollten die Grundlage politischer Entscheidungen bilden.",
+      "Im positiven Zeitalter wird die Gesellschaft rational von einer Expertenelite geleitet.",
+      "Sachkompetenz, nicht Popularitaet, sollte ueber politische Macht entscheiden."
+    ],
+    "entstehung": "Der Technokratismus hat seine philosophischen Wurzeln in Comtes Positivismus des 19. Jahrhunderts und in Saint-Simons Vision einer industriellen Gesellschaft. Die Technokratie-Bewegung der 1930er Jahre in Nordamerika popularisierte die Idee, waehrend Nachkriegsinstitutionen wie die EU technokratische Elemente realisierten.",
+    "kritik": "Dem Technokratismus wird vorgeworfen, dass er politische Entscheidungen faelschlich als rein technische Fragen darstellt und damit demokratische Legitimation untergraebt. Politische Fragen betreffen Werte und Interessen, die nicht wissenschaftlich entschieden werden koennen. Zudem fehlt Experten oft der Blick fuer die Lebenswirklichkeit der betroffenen Menschen."
+  }
 }

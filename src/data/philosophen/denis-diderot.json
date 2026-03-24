@@ -2,11 +2,27 @@
   "slug": "denis-diderot",
   "name": "Denis Diderot",
   "lebensdaten": "1713–1784",
-  "geboren": { "jahr": 1713, "ort": "Langres", "land": "Frankreich", "lat": 47.8622, "lng": 5.3336 },
-  "gestorben": { "jahr": 1784, "ort": "Paris", "land": "Frankreich", "lat": 48.8566, "lng": 2.3522 },
+  "geboren": {
+    "jahr": 1713,
+    "ort": "Langres",
+    "land": "Frankreich",
+    "lat": 47.8622,
+    "lng": 5.3336
+  },
+  "gestorben": {
+    "jahr": 1784,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
   "epoche": "Aufklärung",
   "region": "Frankreich",
-  "hauptstroemungen": ["Materialismus", "Aufklärung", "Enzyklopädismus"],
+  "hauptstroemungen": [
+    "Materialismus",
+    "Aufklärung",
+    "Enzyklopädismus"
+  ],
   "kurzbeschreibung": "Denis Diderot war ein französischer Philosoph, Schriftsteller und Kunstkritiker, der als Herausgeber der 'Encyclopédie' das ambitionierteste intellektuelle Projekt der Aufklärung leitete. Sein vielseitiges Schaffen umfasst materialistische Philosophie, bahnbrechende Ästhetik, innovative Romane und Dialoge. Er gilt als einer der originellsten und vielseitigsten Denker des 18. Jahrhunderts.",
   "biografie": {
     "fruehesLeben": "Denis Diderot wurde am 5. Oktober 1713 in Langres in der Champagne als Sohn eines wohlhabenden Messerschmieds geboren. Er besuchte das Jesuitenkolleg in Langres und wurde möglicherweise sogar tonuriert, da seine Familie ihn für den geistlichen Stand bestimmte. 1728 oder 1729 ging er nach Paris, wo er am Collège d'Harcourt und am Collège Louis-le-Grand studierte. Er erwarb 1732 den Grad eines Magister Artium, weigerte sich aber, einen bürgerlichen Beruf zu ergreifen, und lebte zehn Jahre lang als mittelloser Bohemien in Paris – von Gelegenheitsarbeiten als Übersetzer, Hauslehrer und Ghostwriter. 1743 heiratete er heimlich Antoinette Champion, eine Wäscherin, gegen den Willen seines Vaters, der ihn daraufhin kurzzeitig in einem Kloster einsperren ließ.",
@@ -30,19 +46,116 @@
     }
   ],
   "werke": [
-    { "titel": "Encyclopédie (Herausgeber)", "jahr": "1751–1772", "beschreibung": "Das monumentale Lexikon der Aufklärung in 28 Text- und 11 Tafelbänden, das Diderot über zwei Jahrzehnte lang herausgab und das zum intellektuellen Hauptwerk der Epoche wurde." },
-    { "titel": "Le Neveu de Rameau (Rameaus Neffe)", "jahr": "1761 (posthum)", "beschreibung": "Ein brillanter philosophischer Dialog zwischen einem Philosophen und einem zynischen Parasiten, den Goethe ins Deutsche übersetzte und Hegel als Meisterwerk pries." },
-    { "titel": "Jacques le Fataliste et son maître", "jahr": "1796 (posthum)", "beschreibung": "Ein experimenteller Roman über einen Diener und seinen Herrn, der die Frage des Determinismus behandelt und mit seiner metafiktionalen Erzähltechnik den modernen Roman vorwegnimmt." },
-    { "titel": "Le Rêve de d'Alembert (D'Alemberts Traum)", "jahr": "1830 (posthum)", "beschreibung": "Ein philosophischer Dialog, in dem Diderot seinen Materialismus am kühnsten entwickelt: Materie ist empfindungsfähig, und Bewusstsein entsteht aus der Komplexität der materiellen Organisation." },
-    { "titel": "La Religieuse (Die Nonne)", "jahr": "1796 (posthum)", "beschreibung": "Ein Roman über das Schicksal einer jungen Frau, die gegen ihren Willen ins Kloster gezwungen wird – eine scharfe Kritik an erzwungenen Klostergelübden." },
-    { "titel": "Lettre sur les aveugles", "jahr": "1749", "beschreibung": "Eine Abhandlung über die Erkenntnistheorie, die am Beispiel eines Blinden die Abhängigkeit unserer Vorstellungen von den Sinnesorganen demonstriert." },
-    { "titel": "Salons", "jahr": "1759–1781", "beschreibung": "Kunstkritiken der Pariser Salonausstellungen, die die moderne Kunstkritik als literarische Gattung begründeten." }
+    {
+      "titel": "Encyclopédie (Herausgeber)",
+      "jahr": "1751–1772",
+      "beschreibung": "Das monumentale Lexikon der Aufklärung in 28 Text- und 11 Tafelbänden, das Diderot über zwei Jahrzehnte lang herausgab und das zum intellektuellen Hauptwerk der Epoche wurde."
+    },
+    {
+      "titel": "Le Neveu de Rameau (Rameaus Neffe)",
+      "jahr": "1761 (posthum)",
+      "beschreibung": "Ein brillanter philosophischer Dialog zwischen einem Philosophen und einem zynischen Parasiten, den Goethe ins Deutsche übersetzte und Hegel als Meisterwerk pries."
+    },
+    {
+      "titel": "Jacques le Fataliste et son maître",
+      "jahr": "1796 (posthum)",
+      "beschreibung": "Ein experimenteller Roman über einen Diener und seinen Herrn, der die Frage des Determinismus behandelt und mit seiner metafiktionalen Erzähltechnik den modernen Roman vorwegnimmt."
+    },
+    {
+      "titel": "Le Rêve de d'Alembert (D'Alemberts Traum)",
+      "jahr": "1830 (posthum)",
+      "beschreibung": "Ein philosophischer Dialog, in dem Diderot seinen Materialismus am kühnsten entwickelt: Materie ist empfindungsfähig, und Bewusstsein entsteht aus der Komplexität der materiellen Organisation."
+    },
+    {
+      "titel": "La Religieuse (Die Nonne)",
+      "jahr": "1796 (posthum)",
+      "beschreibung": "Ein Roman über das Schicksal einer jungen Frau, die gegen ihren Willen ins Kloster gezwungen wird – eine scharfe Kritik an erzwungenen Klostergelübden."
+    },
+    {
+      "titel": "Lettre sur les aveugles",
+      "jahr": "1749",
+      "beschreibung": "Eine Abhandlung über die Erkenntnistheorie, die am Beispiel eines Blinden die Abhängigkeit unserer Vorstellungen von den Sinnesorganen demonstriert."
+    },
+    {
+      "titel": "Salons",
+      "jahr": "1759–1781",
+      "beschreibung": "Kunstkritiken der Pariser Salonausstellungen, die die moderne Kunstkritik als literarische Gattung begründeten."
+    }
   ],
   "zitate": [
-    { "text": "Der erste Schritt zur Philosophie ist der Unglaube.", "quelle": "Letzte Worte (zugeschrieben)", "kontext": "Diderots angebliche letzte Worte, die seinen philosophischen Geist des Zweifels und der Skepsis verkörpern." },
-    { "text": "Der Mensch wird erst aufhören, Übel zu tun, wenn er aufgeklärt ist.", "quelle": "Encyclopédie", "kontext": "Diderots aufklärerische Überzeugung, dass Bildung und Wissen die Grundlage moralischer Verbesserung sind." },
-    { "text": "Nur die Leidenschaften, nur die großen Leidenschaften können die Seele zu großen Dingen erheben.", "quelle": "Pensées philosophiques", "kontext": "Diderots Verteidigung der Leidenschaften gegen eine übertriebene Vernunftgläubigkeit." }
+    {
+      "text": "Der erste Schritt zur Philosophie ist der Unglaube.",
+      "quelle": "Letzte Worte (zugeschrieben)",
+      "kontext": "Diderots angebliche letzte Worte, die seinen philosophischen Geist des Zweifels und der Skepsis verkörpern."
+    },
+    {
+      "text": "Der Mensch wird erst aufhören, Übel zu tun, wenn er aufgeklärt ist.",
+      "quelle": "Encyclopédie",
+      "kontext": "Diderots aufklärerische Überzeugung, dass Bildung und Wissen die Grundlage moralischer Verbesserung sind."
+    },
+    {
+      "text": "Nur die Leidenschaften, nur die großen Leidenschaften können die Seele zu großen Dingen erheben.",
+      "quelle": "Pensées philosophiques",
+      "kontext": "Diderots Verteidigung der Leidenschaften gegen eine übertriebene Vernunftgläubigkeit."
+    }
   ],
-  "verwandtePhilosophen": ["voltaire", "jean-jacques-rousseau", "montesquieu", "david-hume", "francis-bacon"],
-  "verwandteIsmen": ["materialismus", "aufklaerung", "enzyklopaedismus", "naturalismus"]
+  "verwandtePhilosophen": [
+    "voltaire",
+    "jean-jacques-rousseau",
+    "montesquieu",
+    "david-hume",
+    "francis-bacon"
+  ],
+  "verwandteIsmen": [
+    "materialismus",
+    "aufklaerung",
+    "enzyklopaedismus",
+    "naturalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Denis Diderot war ein franzoesischer Philosoph, Schriftsteller und Kunstkritiker, der als Herausgeber der 'Encyclopédie' das ambitionierteste intellektuelle Projekt der Aufklaerung leitete. Sein vielseitiges Schaffen umfasst materialistische Philosophie, bahnbrechende Aesthetik, innovative Romane und Dialoge. Er gilt als einer der originellsten und vielseitigsten Denker des 18. Jahrhunderts.",
+    "biografie": {
+      "fruehesLeben": "Denis Diderot wurde am 5. Oktober 1713 in Langres in der Champagne als Sohn eines wohlhabenden Messerschmieds geboren. Er besuchte das Jesuitenkolleg in Langres und wurde moeglicherweise sogar tonuriert, da seine Familie ihn fuer den geistlichen Stand bestimmte. 1728 oder 1729 ging er nach Paris, wo er am Collège d'Harcourt und am Collège Louis-le-Grand studierte. Er erwarb 1732 den Grad eines Magister Artium, weigerte sich aber, einen buergerlichen Beruf zu ergreifen, und lebte zehn Jahre lang als mittelloser Bohemien in Paris – von Gelegenheitsarbeiten als Uebersetzer, Hauslehrer und Ghostwriter. 1743 heiratete er heimlich Antoinette Champion, eine Waescherin, gegen den Willen seines Vaters, der ihn daraufhin kurzzeitig in einem Kloster einsperren liess.",
+      "schaffen": "Diderots intellektueller Durchbruch kam mit den 'Pensées philosophiques' (1746), einem deistischen Werk, das vom Pariser Parlament verbrannt wurde. Sein 'Lettre sur les aveugles' (Brief ueber die Blinden, 1749), der eine materialistische Erkenntnistheorie und einen atheistischen Standpunkt entwickelte, brachte ihm drei Monate Haft im Gefaengnis von Vincennes ein. Das Mammutprojekt seines Lebens war die Herausgabe der 'Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers' (1751–1772), an der er ueber zwanzig Jahre lang arbeitete.",
+      "spaetesLeben": "In den 1770er Jahren unternahm Diderot auf Einladung Katharinas der Grossen eine Reise nach St. Petersburg (1773–1774), wo er die Kaiserin in philosophischen Gespraechen beriet. Die Erfahrung desillusionierte ihn jedoch hinsichtlich der Moeglichkeit, aufgeklaerte Reformen durch Monarchen durchzusetzen. Seine spaeten philosophischen Schriften, insbesondere der 'Supplément au Voyage de Bougainville' und die 'Réfutation d'Helvétius', zeigen einen zunehmend materialistischen und deterministischen Denker, der die moralischen und politischen Implikationen seiner Philosophie konsequent durchdachte.",
+      "tod": "Denis Diderot starb am 31. Juli 1784 in Paris. Seine letzten Worte sollen gewesen sein: 'Der erste Schritt zur Philosophie ist der Unglaube.' Er wurde in der Kirche Saint-Roch beigesetzt, doch sein Grab ging waehrend der Revolution verloren. Viele seiner wichtigsten Werke wurden erst Jahrzehnte nach seinem Tod veroeffentlicht.",
+      "nachwirkung": "Diderots volle Bedeutung wurde erst im 19. und 20. Jahrhundert erkannt, als seine unveroeffentlichten Werke nach und nach ans Licht kamen. Die 'Encyclopédie' gilt als eines der Schluesselwerke der Aufklaerung und als Vorlaeuferin moderner Wissenssysteme. Seine Romane und Dialoge werden als Vorlaeufer des modernen Romans gewuerdigt. Sein materialistischer Naturalismus beeinflusste die Wissenschaftsphilosophie. Goethe, Hegel, Marx und Sartre schaetzten ihn als Denker. In der modernen Aesthetik gilt er als Begruender der Kunstkritik."
+    },
+    "kernideen": [
+      {
+        "titel": "Enzyklopaedismus",
+        "beschreibung": "Diderots Ideal war die systematische Erfassung und Verbreitung allen menschlichen Wissens. Die Encyclopédie sollte nicht nur Wissen sammeln, sondern das Denken der Menschen veraendern und die Grundlagen fuer eine aufgeklaerte Gesellschaft legen."
+      },
+      {
+        "titel": "Materialismus",
+        "beschreibung": "Diderot entwickelte einen dynamischen Materialismus, der die Materie als aktiv und lebendig auffasste. Er sah Bewusstsein und Empfindung als Eigenschaften der Materie selbst und lehnte den Dualismus von Geist und Materie ab."
+      },
+      {
+        "titel": "Aesthetische Theorie",
+        "beschreibung": "Diderot begruendete die moderne Kunstkritik und entwickelte eine Theorie des buergerlichen Dramas und des realistischen Romans. Er forderte, dass Kunst die Wahrheit und das wirkliche Leben darstellen solle, statt idealisierten Konventionen zu folgen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Encyclopédie (Herausgeber)",
+        "jahr": "1751–1772",
+        "beschreibung": "Das monumentale Lexikon der Aufklaerung in 28 Text- und 11 Tafelbaenden, das Diderot ueber zwei Jahrzehnte lang herausgab und das zum intellektuellen Hauptwerk der Epoche wurde."
+      },
+      {
+        "titel": "Le Neveu de Rameau (Rameaus Neffe)",
+        "jahr": "1761 (posthum)",
+        "beschreibung": "Ein brillanter philosophischer Dialog zwischen einem Philosophen und einem zynischen Parasiten, den Goethe ins Deutsche uebersetzte und Hegel als Meisterwerk pries."
+      },
+      {
+        "titel": "Jacques le Fataliste et son maître",
+        "jahr": "1796 (posthum)",
+        "beschreibung": "Ein experimenteller Roman ueber einen Diener und seinen Herrn, der die Frage des Determinismus behandelt und mit seiner metafiktionalen Erzaehltechnik den modernen Roman vorwegnimmt."
+      },
+      {
+        "titel": "Le Rêve de d'Alembert (D'Alemberts Traum)",
+        "jahr": "1830 (posthum)",
+        "beschreibung": "Ein philosophischer Dialog, in dem Diderot seinen Materialismus am kuehnsten entwickelt: Materie ist empfindungsfaehig, und Bewusstsein entsteht aus der Komplexitaet der materiellen Organisation."
+      }
+    ]
+  }
 }

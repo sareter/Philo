@@ -11,13 +11,43 @@
     "Der Versuch, Glück zu maximieren, kann zu gefährlichem Utopismus führen.",
     "Die Vermeidung von Grausamkeit ist die grundlegendste moralische Forderung."
   ],
-  "hauptvertreter": ["karl-popper"],
+  "hauptvertreter": [
+    "karl-popper"
+  ],
   "entstehung": "Der Negative Utilitarismus wurde von Karl Popper in „Die offene Gesellschaft und ihre Feinde“ (1945) formuliert. Er entstand als Reaktion auf die totalitären Ideologien des 20. Jahrhunderts, die im Namen zukünftigen Glücks gegenwärtiges Leid rechtfertigten.",
   "kritik": "Die schwerste Kritik am Negativen Utilitarismus lautet, dass er in seiner konsequenten Form die Auslöschung der Menschheit als moralisch geboten erscheinen lässt, da dies alles Leid beenden würde. Zudem wird eingewandt, dass eine reine Leidvermeidung ohne positives Glücksstreben ein verarmtes Verständnis des guten Lebens ergibt.",
-  "verwandteIsmen": ["utilitarismus", "pessimismus"],
+  "verwandteIsmen": [
+    "utilitarismus",
+    "pessimismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die offene Gesellschaft und ihre Feinde", "autor": "Karl Popper", "jahr": "1945"},
-    {"titel": "Negative Utilitarianism", "autor": "R. N. Smart", "jahr": "1958"},
-    {"titel": "Better Never to Have Been", "autor": "David Benatar", "jahr": "2006"}
-  ]
+    {
+      "titel": "Die offene Gesellschaft und ihre Feinde",
+      "autor": "Karl Popper",
+      "jahr": "1945"
+    },
+    {
+      "titel": "Negative Utilitarianism",
+      "autor": "R. N. Smart",
+      "jahr": "1958"
+    },
+    {
+      "titel": "Better Never to Have Been",
+      "autor": "David Benatar",
+      "jahr": "2006"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Negative Utilitarismus vertritt die Position, dass die Minimierung von Leid moralisch vorrangig ist gegenueber der Maximierung von Glueck.",
+    "ausfuehrlicheBeschreibung": "Der Negative Utilitarismus wurde massgeblich von Karl Popper in seiner „Offenen Gesellschaft und ihre Feinde“ (1945) formuliert. Popper kritisierte den klassischen Utilitarismus fuer seinen Versuch, Glueck zu maximieren, und argumentierte stattdessen, dass die Minimierung von Leid das vorrangige moralische Ziel sein sollte. Die Asymmetrie zwischen Leid und Glueck ist fundamental: Intensives Leiden wiegt schwerer als die gleiche Intensitaet von Freude.\n\nDiese Asymmetrie hat weitreichende praktische Konsequenzen. Waehrend der positive Utilitarismus utopische Projekte rechtfertigen kann – selbst um den Preis gegenwaertigen Leids –, fordert der Negative Utilitarismus eine konservativere Politik, die sich auf die Beseitigung konkreter Missstaende konzentriert. Popper formulierte dies als den Grundsatz: „Arbeite fuer die Beseitigung konkreter Uebel, statt fuer die Verwirklichung abstrakter Gueter.“ Diese Haltung ist auch mit Poppers Kritik am historischen Utopismus verbunden.\n\nDer Negative Utilitarismus hat sowohl in der theoretischen Ethik als auch in der politischen Philosophie Einfluss gewonnen. In der Bioethik fuehrt er zu einer besonderen Betonung der Schmerzlinderung und der Palliativmedizin. In der politischen Philosophie begruendet er eine Prioritaet der Armutsbekaempfung und der Beseitigung von Unterdrueckung gegenueber der Verfolgung positiver Ideale.",
+    "kernthesen": [
+      "Die Minimierung von Leid hat moralischen Vorrang vor der Maximierung von Glueck.",
+      "Intensives Leiden wiegt moralisch schwerer als eine gleiche Intensitaet von Freude.",
+      "Politik sollte konkrete Uebel beseitigen, statt abstrakte Utopien zu verwirklichen.",
+      "Der Versuch, Glueck zu maximieren, kann zu gefaehrlichem Utopismus fuehren.",
+      "Die Vermeidung von Grausamkeit ist die grundlegendste moralische Forderung."
+    ],
+    "entstehung": "Der Negative Utilitarismus wurde von Karl Popper in „Die offene Gesellschaft und ihre Feinde“ (1945) formuliert. Er entstand als Reaktion auf die totalitaeren Ideologien des 20. Jahrhunderts, die im Namen zukuenftigen Gluecks gegenwaertiges Leid rechtfertigten.",
+    "kritik": "Die schwerste Kritik am Negativen Utilitarismus lautet, dass er in seiner konsequenten Form die Ausloeschung der Menschheit als moralisch geboten erscheinen laesst, da dies alles Leid beenden wuerde. Zudem wird eingewandt, dass eine reine Leidvermeidung ohne positives Gluecksstreben ein verarmtes Verstaendnis des guten Lebens ergibt."
+  }
 }

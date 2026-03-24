@@ -80,5 +80,26 @@
     }
   ],
   "verwandtePhilosophen": ["al-farabi", "al-kindi", "ibn-khaldun", "david-hume"],
-  "verwandteIsmen": ["mystizismus", "skeptizismus"]
+  "verwandteIsmen": ["mystizismus", "skeptizismus"],
+  "einfach": {
+    "kurzbeschreibung": "Al-Ghazali war ein islamischer Denker, der die griechische Philosophie scharf kritisierte und stattdessen die mystische Gotteserfahrung in den Mittelpunkt stellte. Er veraenderte damit die gesamte islamische Geistesgeschichte.",
+    "biografie": {
+      "fruehesLeben": "Al-Ghazali wurde 1058 im heutigen Iran geboren. Er war so begabt, dass er schon jung Professor an der angesehensten Hochschule in Bagdad wurde.",
+      "schaffen": "Auf dem Hoehepunkt seiner Karriere hatte Al-Ghazali eine tiefe Lebenskrise. Er gab seine Professur auf und wandte sich der Mystik zu. Er schrieb ein Buch, das die griechisch beeinflusste Philosophie angriff, und ein anderes, das Theologie und Mystik verband.",
+      "spaetesLeben": "Nach Jahren des Wanderns kehrte er in seine Heimatstadt zurueck und gruendete dort eine kleine Sufi-Gemeinschaft, in der er bis zu seinem Tod lehrte.",
+      "tod": "Al-Ghazali starb 1111 in seiner Geburtsstadt Tus. Seine letzten Worte sollen gewesen sein, dass er bereit sei, Gott zu begegnen.",
+      "nachwirkung": "Al-Ghazalis Einfluss auf den Islam wird oft mit dem von Augustinus auf das Christentum verglichen. Seine Kritik an der griechischen Philosophie und seine mystische Theologie praegen den Islam bis heute."
+    },
+    "kernideen": [
+      {"titel": "Kritik der aristotelischen Philosophie", "beschreibung": "Al-Ghazali argumentierte, dass die Thesen der griechisch beeinflussten Philosophen weder logisch beweisbar noch mit dem Islam vereinbar sind."},
+      {"titel": "Skeptizismus und Gewissheit", "beschreibung": "Al-Ghazali zweifelte an allem, aehnlich wie spaeter Descartes. Echte Gewissheit fand er nicht durch Logik, sondern durch mystische Erfahrung."},
+      {"titel": "Synthese von Theologie und Mystik", "beschreibung": "Er machte die mystische Gotteserfahrung des Sufismus zu einem anerkannten Teil des islamischen Glaubens."},
+      {"titel": "Kritik der Kausalitaet", "beschreibung": "Feuer verbrennt Baumwolle nicht aus eigener Kraft, sondern weil Gott es so will. Diese Idee beeinflusste spaeter den Philosophen David Hume."}
+    ],
+    "werke": [
+      {"titel": "Tahafut al-Falasifa (Die Inkohaerenz der Philosophen)", "jahr": "1095", "beschreibung": "Eine systematische Kritik an den griechisch beeinflussten Philosophen, die die Rolle der Philosophie in der islamischen Welt grundlegend veraenderte."},
+      {"titel": "Ihya Ulum al-Din (Wiederbelebung der Religionswissenschaften)", "jahr": "1106", "beschreibung": "Ein riesiges Werk in vierzig Buechern, das islamische Theologie, Ethik und Mystik miteinander verbindet."},
+      {"titel": "Al-Munqidh min al-Dalal (Der Erretter aus dem Irrtum)", "jahr": "1108", "beschreibung": "Al-Ghazalis persoenlicher Bericht darueber, wie er durch Zweifel zur mystischen Gewissheit fand."}
+    ]
+  }
 }

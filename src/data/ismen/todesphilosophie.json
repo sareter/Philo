@@ -11,13 +11,45 @@
     "Der Tod verleiht dem Leben seine Dringlichkeit und Einmaligkeit",
     "Die Konfrontation mit dem Tod befreit von uneigentlicher Lebensführung"
   ],
-  "hauptvertreter": ["martin-heidegger", "albert-camus"],
+  "hauptvertreter": [
+    "martin-heidegger",
+    "albert-camus"
+  ],
   "entstehung": "Die Todesphilosophie des 20. Jahrhunderts entwickelte sich aus der existenzialistischen Tradition und den Erschütterungen der Weltkriege. Heideggers Sein und Zeit (1927) und Camus' Der Mythos des Sisyphos (1942) bilden ihre philosophischen Grundlagentexte.",
   "kritik": "Kritiker werfen der Todesphilosophie eine morbide Fixierung vor, die das Leben zugunsten des Todes vernachlässigt. Zudem wird argumentiert, dass die Forderung nach ständiger Todeskonfrontation psychologisch ungesund und existenziell überfordernd sein kann.",
-  "verwandteIsmen": ["philosophischer-suizidismus", "angstphilosophie", "existenzieller-nihilismus"],
+  "verwandteIsmen": [
+    "philosophischer-suizidismus",
+    "angstphilosophie",
+    "existenzieller-nihilismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"},
-    {"titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942"},
-    {"titel": "Geschichte des Todes", "autor": "Philippe Ariès", "jahr": "1977"}
-  ]
+    {
+      "titel": "Sein und Zeit",
+      "autor": "Martin Heidegger",
+      "jahr": "1927"
+    },
+    {
+      "titel": "Der Mythos des Sisyphos",
+      "autor": "Albert Camus",
+      "jahr": "1942"
+    },
+    {
+      "titel": "Geschichte des Todes",
+      "autor": "Philippe Ariès",
+      "jahr": "1977"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Todesphilosophie macht den Tod zum zentralen Gegenstand philosophischer Reflexion.",
+    "ausfuehrlicheBeschreibung": "Die Todesphilosophie stellt den Tod ins Zentrum des philosophischen Denkens und fragt, wie die Endlichkeit des Lebens dessen Bedeutung, Struktur und Wert bestimmt. Im Gegensatz zu Ansaetzen, die den Tod als blosses Ende betrachten, sieht sie ihn als eine Kraft, die das gesamte Leben durchdringt und formt.\n\nMartin Heidegger entwickelte eine Ontologie des Todes, die das Sein-zum-Tode als konstitutiv fuer das menschliche Dasein begreift: Nur weil der Mensch um seinen Tod weiss, kann er sein Leben als Ganzes in den Blick nehmen und authentisch existieren. Das Vorlaufen zum Tode befreit von der Verfallenheit an das Man und ermoeglicht eine eigentliche Existenz. Albert Camus hingegen naeherte sich dem Tod ueber das Absurde: Der Tod macht jede menschliche Anstrengung letztlich nichtig, und doch muss der Mensch trotzdem weiterleben.\n\nDie Todesphilosophie hat weitreichende Konsequenzen fuer die Ethik, die Lebensfuehrung und das Selbstverstaendnis des Menschen. Sie zeigt, dass der Tod nicht nur das Ende des Lebens markiert, sondern es in jedem Augenblick durchdringt und dem Dasein seine Dringlichkeit, Ernsthaftigkeit und unwiederholbare Einmaligkeit verleiht.",
+    "kernthesen": [
+      "Der Tod ist nicht nur das Ende des Lebens, sondern durchdringt es in jedem Augenblick",
+      "Das Sein-zum-Tode ist konstitutiv fuer menschliches Dasein",
+      "Nur im Angesicht des Todes ist authentische Existenz moeglich",
+      "Der Tod verleiht dem Leben seine Dringlichkeit und Einmaligkeit",
+      "Die Konfrontation mit dem Tod befreit von uneigentlicher Lebensfuehrung"
+    ],
+    "entstehung": "Die Todesphilosophie des 20. Jahrhunderts entwickelte sich aus der existenzialistischen Tradition und den Erschuetterungen der Weltkriege. Heideggers Sein und Zeit (1927) und Camus' Der Mythos des Sisyphos (1942) bilden ihre philosophischen Grundlagentexte.",
+    "kritik": "Kritiker werfen der Todesphilosophie eine morbide Fixierung vor, die das Leben zugunsten des Todes vernachlaessigt. Zudem wird argumentiert, dass die Forderung nach staendiger Todeskonfrontation psychologisch ungesund und existenziell ueberfordernd sein kann."
+  }
 }

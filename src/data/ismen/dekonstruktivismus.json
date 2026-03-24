@@ -11,14 +11,50 @@
     "Es gibt kein Außerhalb des Textes (il n'y a pas de hors-texte) – alle Erfahrung ist sprachlich vermittelt.",
     "Die Dekonstruktion ist keine Zerstörung, sondern eine Öffnung für das Andere und das Unmögliche."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Die Dekonstruktion wurde von Jacques Derrida in seinen drei 1967 veröffentlichten Werken (De la grammatologie, L'écriture et la différence, La voix et le phénomène) begründet. Sie entstand in kritischer Auseinandersetzung mit Husserls Phänomenologie, Heideggers Destruktion der Metaphysik und Saussures Linguistik. In den 1970er und 1980er Jahren wurde die Dekonstruktion in den USA zu einer einflussreichen literaturwissenschaftlichen Methode und verbreitete sich von dort in andere Disziplinen.",
   "kritik": "Die Dekonstruktion wurde von analytischen Philosophen als obskurantistisch und logisch inkonsistent kritisiert. John Searle warf Derrida vor, die normale Sprachverwendung zu ignorieren und Texte willkürlich umzudeuten. Jürgen Habermas sah in der Dekonstruktion eine ästhetizistische Auflösung der Philosophie, die deren Wahrheitsanspruch untergräbt. Der Vorwurf des Relativismus und Nihilismus besagt, dass die Dekonstruktion keine positiven Normen oder Wahrheiten formulieren kann. Marxisten kritisieren die Fixierung auf Sprache und Text und die Vernachlässigung materieller Bedingungen. Praktiker verschiedener Disziplinen bemängeln, dass die Dekonstruktion zwar aufdeckend, aber nicht aufbauend sei und keine konstruktiven Alternativen biete.",
-  "verwandteIsmen": ["poststrukturalismus", "postmodernismus", "relativismus", "nihilismus"],
+  "verwandteIsmen": [
+    "poststrukturalismus",
+    "postmodernismus",
+    "relativismus",
+    "nihilismus"
+  ],
   "schluesselwerke": [
-    { "titel": "De la grammatologie", "autor": "Jacques Derrida", "jahr": "1967" },
-    { "titel": "La voix et le phénomène", "autor": "Jacques Derrida", "jahr": "1967" },
-    { "titel": "L'écriture et la différence", "autor": "Jacques Derrida", "jahr": "1967" },
-    { "titel": "Spectres de Marx", "autor": "Jacques Derrida", "jahr": "1993" }
-  ]
+    {
+      "titel": "De la grammatologie",
+      "autor": "Jacques Derrida",
+      "jahr": "1967"
+    },
+    {
+      "titel": "La voix et le phénomène",
+      "autor": "Jacques Derrida",
+      "jahr": "1967"
+    },
+    {
+      "titel": "L'écriture et la différence",
+      "autor": "Jacques Derrida",
+      "jahr": "1967"
+    },
+    {
+      "titel": "Spectres de Marx",
+      "autor": "Jacques Derrida",
+      "jahr": "1993"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Dekonstruktivismus ist eine von Jacques Derrida begruendete philosophische Methode und Denkrichtung, die die verborgenen Voraussetzungen, Widersprueche und Hierarchien in Texten und Denktraditionen aufdeckt.",
+    "ausfuehrlicheBeschreibung": "Der Dekonstruktivismus, auch Dekonstruktion (déconstruction) genannt, ist eine der einflussreichsten und umstrittensten philosophischen Methoden des spaeten 20. Jahrhunderts. Er wurde von Jacques Derrida (1930-2004) entwickelt und hat die Geisteswissenschaften, die Literaturtheorie, die Architektur und die politische Philosophie tiefgreifend beeinflusst.\n\nDerrida entwickelte die Dekonstruktion in kritischer Auseinandersetzung mit der gesamten westlichen philosophischen Tradition, die er als Logozentrismus oder Metaphysik der Praesenz charakterisiert. Diese Tradition privilegiert die unmittelbare Anwesenheit, die gesprochene Sprache, die Vernunft und die Identitaet gegenueber der Abwesenheit, der Schrift, dem Koerper und der Differenz.\n\nDie Dekonstruktion arbeitet in einem doppelten Schritt: Zunaechst wird gezeigt, dass ein philosophischer Text auf einer binaeren Opposition beruht, in der ein Term als primaer und natuerlich, der andere als sekundaer und abgeleitet gilt (z.B. Sprache/Schrift, Natur/Kultur, Wahrheit/Fiktion). Dann wird gezeigt, dass der vermeintlich sekundaere Term fuer den primaeren konstitutiv ist – dass also die Schrift der Sprache vorausgeht, nicht umgekehrt, und dass die Opposition selbst instabil ist.",
+    "kernthesen": [
+      "Die westliche Philosophie beruht auf hierarchischen binaeren Oppositionen, die dekonstruiert werden muessen.",
+      "Bedeutung ist nie vollstaendig praesent, sondern wird unaufhoerlich aufgeschoben (différance).",
+      "Jeder Text untergraebt seine eigenen Grundannahmen und enthaelt Widersprueche, die durch aufmerksame Lektuere aufgedeckt werden koennen.",
+      "Es gibt kein Ausserhalb des Textes (il n'y a pas de hors-texte) – alle Erfahrung ist sprachlich vermittelt.",
+      "Die Dekonstruktion ist keine Zerstoerung, sondern eine Oeffnung fuer das Andere und das Unmoegliche."
+    ],
+    "entstehung": "Die Dekonstruktion wurde von Jacques Derrida in seinen drei 1967 veroeffentlichten Werken (De la grammatologie, L'écriture et la différence, La voix et le phénomène) begruendet. Sie entstand in kritischer Auseinandersetzung mit Husserls Phaenomenologie, Heideggers Destruktion der Metaphysik und Saussures Linguistik. In den 1970er und 1980er Jahren wurde die Dekonstruktion in den USA zu einer einflussreichen literaturwissenschaftlichen Methode und verbreitete sich von dort in andere Disziplinen.",
+    "kritik": "Die Dekonstruktion wurde von analytischen Philosophen als obskurantistisch und logisch inkonsistent kritisiert. John Searle warf Derrida vor, die normale Sprachverwendung zu ignorieren und Texte willkuerlich umzudeuten. Juergen Habermas sah in der Dekonstruktion eine aesthetizistische Aufloesung der Philosophie, die deren Wahrheitsanspruch untergraebt. Der Vorwurf des Relativismus und Nihilismus besagt, dass die Dekonstruktion keine positiven Normen oder Wahrheiten formulieren kann."
+  }
 }

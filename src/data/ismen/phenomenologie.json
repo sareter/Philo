@@ -20,5 +20,18 @@
     { "titel": "Ideen zu einer reinen Phänomenologie", "autor": "Edmund Husserl", "jahr": "1913" },
     { "titel": "Die Krisis der europäischen Wissenschaften", "autor": "Edmund Husserl", "jahr": "1936" },
     { "titel": "Phänomenologie der Wahrnehmung", "autor": "Maurice Merleau-Ponty", "jahr": "1945" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Phaenomenologie will die Dinge so beschreiben, wie sie uns im Bewusstsein erscheinen, ohne vorschnelle Theorien oder Annahmen. Ihr Motto: Zurueck zu den Sachen selbst!",
+    "ausfuehrlicheBeschreibung": "Husserl, der Gruender der Phaenomenologie, hatte ein Problem mit der Philosophie seiner Zeit: Alle steckten in komplizierten Theorien und Systemen fest, anstatt erstmal genau hinzuschauen, was eigentlich passiert, wenn wir etwas erleben. Sein Aufruf war einfach: Zurueck zu den Sachen selbst! Beschreibe erstmal genau, wie die Dinge dir im Bewusstsein erscheinen, bevor du Theorien darueber aufstellst.\n\nEin wichtiger Begriff ist die Intentionalitaet: Bewusstsein ist immer Bewusstsein von etwas. Du denkst immer an etwas, du nimmst immer etwas wahr, du fuehlst immer etwas. Das Bewusstsein ist wie ein Scheinwerfer, der immer auf etwas gerichtet ist. Husserls Methode, die 'Epoche', besteht darin, alle Annahmen ueber die Aussenwelt einzuklammern und nur noch zu beschreiben, was sich im Bewusstsein zeigt.\n\nDie Phaenomenologie hat eine riesige Wirkung gehabt. Heidegger machte daraus eine Frage nach dem Sinn des Seins, Merleau-Ponty untersuchte die Rolle des Koerpers, Sartre nutzte sie fuer seinen Existenzialismus. Die Grundidee, dass man erstmal genau beschreiben soll, bevor man erklaert, klingt bescheiden, hat aber die Philosophie des 20. Jahrhunderts grundlegend veraendert.",
+    "kernthesen": [
+      "Zurueck zu den Sachen selbst: Beschreibe die Dinge so, wie sie im Bewusstsein erscheinen.",
+      "Bewusstsein ist immer auf etwas gerichtet (Intentionalitaet).",
+      "Die phaenomenologische Methode klammert alle Vorannahmen ueber die Aussenwelt ein.",
+      "Die Lebenswelt, also unsere alltaegliche Erfahrungswelt, ist die Grundlage aller Erkenntnis.",
+      "Philosophie soll als strenge Wissenschaft die Grundlagen allen Wissens freilegen."
+    ],
+    "entstehung": "Die Phaenomenologie wurde von Edmund Husserl zu Beginn des 20. Jahrhunderts begruendet. Seine 'Logischen Untersuchungen' von 1900/01 gelten als Gruendungswerk. Die Bewegung breitete sich schnell nach Frankreich aus und wurde zu einer der wichtigsten Stroemungen des 20. Jahrhunderts.",
+    "kritik": "Analytische Philosophen bemangeln, dass die Phaenomenologie oft zu kompliziert geschrieben ist und zu wenig klare Argumente liefert. Ausserdem wird gefragt, ob die Methode nicht das Bewusstsein von der Welt isoliert und den Zugang zu anderen Menschen problematisch macht. Naturwissenschaftler kritisieren, dass die Phaenomenologie Hirnforschung und Psychologie ignoriert."
+  }
 }

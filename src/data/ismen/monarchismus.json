@@ -19,5 +19,18 @@
     {"titel": "Leviathan", "autor": "Thomas Hobbes", "jahr": "1651"},
     {"titel": "Sechs Bücher über den Staat", "autor": "Jean Bodin", "jahr": "1576"},
     {"titel": "Patriarcha", "autor": "Robert Filmer", "jahr": "1680"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Monarchismus sagt: Ein Land wird am besten von einem einzelnen Herrscher regiert. Nur so gibt es Ordnung und Stabilitaet, weil nicht staendig verschiedene Gruppen um die Macht streiten.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, es gibt keine Regierung, keine Polizei, keine Gesetze. Thomas Hobbes meinte, in so einem Zustand wuerde jeder gegen jeden kaempfen -- das Leben waere kurz, brutal und gemein. Sein Ausweg: Alle Menschen einigen sich darauf, ihre Macht an einen Herrscher abzugeben, der dafuer fuer Ordnung sorgt. Das ist der Deal -- du gibst Freiheit ab und bekommst Sicherheit.\n\nWichtig: Hobbes argumentierte nicht mit Gott oder goettlichem Recht. Er sagte: Es ist einfach vernuenftig, sich einem starken Herrscher zu unterwerfen, weil die Alternative schlimmer ist. Und diese Macht darf nicht aufgeteilt werden -- wenn verschiedene Gruppen mitregieren, gibt es nur Streit und am Ende Buergerkrieg.\n\nHeute gibt es immer noch Monarchien, aber die meisten funktionieren ganz anders als Hobbes es sich vorstellte. In Laendern wie England oder Schweden ist der Koenig vor allem ein Symbol, die eigentliche Macht liegt beim Parlament. Die Idee, dass ein Einzelner uneingeschraenkt herrschen sollte, hat sich historisch nicht bewaehrt -- zu oft wurde die Macht missbraucht.",
+    "kernthesen": [
+      "Ein einzelner Herrscher sorgt am besten fuer Ordnung und Stabilitaet.",
+      "Ohne starke Fuehrung herrscht Chaos -- jeder kaempft gegen jeden.",
+      "Die Macht darf nicht aufgeteilt werden, weil das zu Konflikten fuehrt.",
+      "Menschen geben ihre Freiheit freiwillig ab im Tausch gegen Sicherheit und Frieden.",
+      "Eine Dynastie sorgt fuer Kontinuitaet und langfristiges Denken."
+    ],
+    "entstehung": "Schon Platon und Aristoteles hielten die Monarchie fuer eine moegliche gute Regierungsform. Im 17. Jahrhundert begruendete Hobbes die absolute Monarchie philosophisch -- als Reaktion auf den englischen Buergerkrieg, der ihm die Schrecken von Gesetzlosigkeit vor Augen fuehrte.",
+    "kritik": "Das offensichtliche Problem: Wenn ein Einzelner alle Macht hat, wer kontrolliert ihn dann? Die Geschichte zeigt, dass absolute Herrscher ihre Macht oft missbraucht haben. Ausserdem ist es ein Gluecksspiel, ob der naechste Koenig kompetent ist -- er erbt den Thron ja nicht wegen seiner Faehigkeiten. Demokraten sagen: Politische Macht muss von den Menschen ausgehen, die regiert werden."
+  }
 }

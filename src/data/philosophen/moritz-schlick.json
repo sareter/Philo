@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Logischer Positivismus"],
+  "hauptstroemungen": [
+    "Logischer Positivismus"
+  ],
   "kurzbeschreibung": "Moritz Schlick war ein deutsch-österreichischer Philosoph und Begründer des Wiener Kreises, der einflussreichsten Gruppe des logischen Positivismus. Er vertrat die Auffassung, dass nur empirisch überprüfbare Aussagen sinnvoll sind, und formulierte das Verifikationsprinzip als Kriterium der Bedeutsamkeit. Sein gewaltsamer Tod durch einen ehemaligen Studenten 1936 markierte das Ende des Wiener Kreises.",
   "biografie": {
     "fruehesLeben": "Moritz Schlick wurde 1882 in Berlin in eine wohlhabende Familie geboren. Er studierte Physik bei Max Planck in Berlin und promovierte 1904 über die Reflexion des Lichts. Von der Physik wandte er sich der Philosophie zu.",
@@ -75,6 +77,54 @@
       "kontext": "Die provokante These des logischen Positivismus, dass Metaphysik kein Irrtum, sondern Unsinn ist."
     }
   ],
-  "verwandtePhilosophen": ["ludwig-wittgenstein", "rudolf-carnap", "ernst-mach"],
-  "verwandteIsmen": ["logischer-positivismus", "empirismus"]
+  "verwandtePhilosophen": [
+    "ludwig-wittgenstein",
+    "rudolf-carnap",
+    "ernst-mach"
+  ],
+  "verwandteIsmen": [
+    "logischer-positivismus",
+    "empirismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Moritz Schlick war ein deutsch-oesterreichischer Philosoph und Begruender des Wiener Kreises, der einflussreichsten Gruppe des logischen Positivismus. Er vertrat die Auffassung, dass nur empirisch ueberpruefbare Aussagen sinnvoll sind, und formulierte das Verifikationsprinzip als Kriterium der Bedeutsamkeit. Sein gewaltsamer Tod durch einen ehemaligen Studenten 1936 markierte das Ende des Wiener Kreises.",
+    "biografie": {
+      "fruehesLeben": "Moritz Schlick wurde 1882 in Berlin in eine wohlhabende Familie geboren. Er studierte Physik bei Max Planck in Berlin und promovierte 1904 ueber die Reflexion des Lichts. Von der Physik wandte er sich der Philosophie zu.",
+      "schaffen": "Schlick wurde 1922 auf den Lehrstuhl fuer Naturphilosophie an der Universitaet Wien berufen, wo er den Wiener Kreis gruendete. Er war einer der ersten Philosophen, die Einsteins Relativitaetstheorie philosophisch interpretierten. Als Leiter des Wiener Kreises formulierte er das Verifikationsprinzip und die Grundlagen des logischen Positivismus.",
+      "spaetesLeben": "In den 1930er Jahren geriet der Wiener Kreis unter zunehmenden politischen Druck. Viele Mitglieder emigrierten, doch Schlick blieb in Wien.",
+      "tod": "Am 22. Juni 1936 wurde Moritz Schlick auf der Philosophenstiege der Universitaet Wien von seinem ehemaligen Studenten Johann Nelboeck erschossen. Der Mord wurde von der austrofaschistischen Presse als Tat gegen einen 'juedischen' Philosophen gebilligt, obwohl Schlick kein Jude war.",
+      "nachwirkung": "Schlick und der Wiener Kreis haben die analytische Philosophie des 20. Jahrhunderts tiefgreifend gepraegt. Das Verifikationsprinzip, obwohl vielfach kritisiert und modifiziert, bleibt ein Meilenstein der Wissenschaftsphilosophie."
+    },
+    "kernideen": [
+      {
+        "titel": "Verifikationsprinzip",
+        "beschreibung": "Eine Aussage ist nur dann sinnvoll, wenn sie prinzipiell durch Erfahrung ueberprueft werden kann. Metaphysische, theologische und ethische Aussagen, die dieser Bedingung nicht genuegen, sind nicht falsch, sondern sinnlos."
+      },
+      {
+        "titel": "Philosophie als Klaerung der Sprache",
+        "beschreibung": "Philosophie ist keine Wissenschaft, die eigene Erkenntnisse produziert, sondern eine Taetigkeit der logischen Klaerung von Aussagen. Philosophische Probleme sind in Wirklichkeit Scheinprobleme, die durch die Analyse der Sprache aufgeloest werden koennen."
+      },
+      {
+        "titel": "Wissenschaftliche Weltauffassung",
+        "beschreibung": "Schlick und der Wiener Kreis vertraten eine einheitliche wissenschaftliche Weltauffassung: Alle echten Erkenntnisfragen sind durch die Methoden der empirischen Wissenschaften zu beantworten. Was sich nicht empirisch klaeren laesst, ist keine echte Frage."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Allgemeine Erkenntnislehre",
+        "jahr": "1918",
+        "beschreibung": "Schlicks fruehes erkenntnistheoretisches Hauptwerk, das eine realistische Position mit einer Theorie der Erkenntnis als Zuordnung verbindet."
+      },
+      {
+        "titel": "Fragen der Ethik",
+        "jahr": "1930",
+        "beschreibung": "Eine empiristische Ethik, die moralische Urteile als Ausdruck von Lust und Unlust deutet und die Frage nach dem guten Leben psychologisch zu beantworten versucht."
+      },
+      {
+        "titel": "Raum und Zeit in der gegenwaertigen Physik",
+        "jahr": "1917",
+        "beschreibung": "Eine der ersten und klarsten philosophischen Darstellungen von Einsteins Relativitaetstheorie, die Schlick international bekannt machte."
+      }
+    ]
+  }
 }

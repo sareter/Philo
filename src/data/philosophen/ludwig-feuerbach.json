@@ -18,7 +18,11 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Materialismus", "Atheismus", "Anthropologie"],
+  "hauptstroemungen": [
+    "Materialismus",
+    "Atheismus",
+    "Anthropologie"
+  ],
   "kurzbeschreibung": "Ludwig Feuerbach war ein deutscher Philosoph, der als radikaler Religionskritiker und Begründer des anthropologischen Materialismus die Philosophiegeschichte des 19. Jahrhunderts entscheidend prägte. Mit seiner These, dass nicht Gott den Menschen, sondern der Mensch Gott nach seinem eigenen Bild geschaffen habe, vollzog er eine kopernikanische Wende in der Religionsphilosophie. Sein Denken übte einen tiefgreifenden Einfluss auf Karl Marx, Friedrich Engels und die gesamte materialistische Tradition aus.",
   "biografie": {
     "fruehesLeben": "Ludwig Andreas Feuerbach wurde am 28. Juli 1804 in Landshut, Bayern, als vierter Sohn des berühmten Rechtsgelehrten Paul Johann Anselm Ritter von Feuerbach geboren. Sein Vater war einer der bedeutendsten Juristen Deutschlands und Verfasser des Bayerischen Strafgesetzbuches. In diesem hochgebildeten Elternhaus wuchs Ludwig mit seinen Brüdern auf, die ebenfalls bedeutende Karrieren einschlugen – Karl Wilhelm wurde Mathematiker, Eduard Rechtsgelehrter. Ludwig begann 1823 ein Theologiestudium in Heidelberg, wo er Vorlesungen bei dem Hegelianer Karl Daub hörte, die ihn für die Philosophie Hegels begeisterten. Er wechselte nach Berlin, um bei Hegel selbst zu studieren, und wurde zu einem seiner engagiertesten Schüler. Unter Hegels Einfluss wandte er sich von der Theologie ab und widmete sich ganz der Philosophie. 1828 promovierte er in Erlangen mit einer Arbeit über die 'Einheit, Allgemeinheit und Unendlichkeit der Vernunft' und habilitierte sich dort als Privatdozent.",
@@ -108,6 +112,68 @@
       "kontext": "Feuerbachs Zusammenfassung seines Lebenswerks: die Rückführung der Theologie auf ihre anthropologischen Grundlagen."
     }
   ],
-  "verwandtePhilosophen": ["georg-wilhelm-friedrich-hegel", "karl-marx", "friedrich-engels", "friedrich-nietzsche", "arthur-schopenhauer"],
-  "verwandteIsmen": ["materialismus", "atheismus", "positivismus", "marxismus", "hegelianismus"]
+  "verwandtePhilosophen": [
+    "georg-wilhelm-friedrich-hegel",
+    "karl-marx",
+    "friedrich-engels",
+    "friedrich-nietzsche",
+    "arthur-schopenhauer"
+  ],
+  "verwandteIsmen": [
+    "materialismus",
+    "atheismus",
+    "positivismus",
+    "marxismus",
+    "hegelianismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Ludwig Feuerbach war ein deutscher Philosoph, der als radikaler Religionskritiker und Begruender des anthropologischen Materialismus die Philosophiegeschichte des 19. Jahrhunderts entscheidend praegte. Mit seiner These, dass nicht Gott den Menschen, sondern der Mensch Gott nach seinem eigenen Bild geschaffen habe, vollzog er eine kopernikanische Wende in der Religionsphilosophie. Sein Denken uebte einen tiefgreifenden Einfluss auf Karl Marx, Friedrich Engels und die gesamte materialistische Tradition aus.",
+    "biografie": {
+      "fruehesLeben": "Ludwig Andreas Feuerbach wurde am 28. Juli 1804 in Landshut, Bayern, als vierter Sohn des beruehmten Rechtsgelehrten Paul Johann Anselm Ritter von Feuerbach geboren. Sein Vater war einer der bedeutendsten Juristen Deutschlands und Verfasser des Bayerischen Strafgesetzbuches. In diesem hochgebildeten Elternhaus wuchs Ludwig mit seinen Bruedern auf, die ebenfalls bedeutende Karrieren einschlugen – Karl Wilhelm wurde Mathematiker, Eduard Rechtsgelehrter. Ludwig begann 1823 ein Theologiestudium in Heidelberg, wo er Vorlesungen bei dem Hegelianer Karl Daub hoerte, die ihn fuer die Philosophie Hegels begeisterten. Er wechselte nach Berlin, um bei Hegel selbst zu studieren, und wurde zu einem seiner engagiertesten Schueler.",
+      "schaffen": "Feuerbachs akademische Karriere wurde 1830 durch den Skandal um seine anonym veroeffentlichte Schrift 'Gedanken ueber Tod und Unsterblichkeit' jaeh beendet. Darin leugnete er die persoenliche Unsterblichkeit der Seele – eine Position, die in der damaligen Gesellschaft untragbar war. Obwohl das Werk anonym erschien, wurde seine Autorschaft rasch bekannt, und er verlor jede Aussicht auf eine Professur. Er zog sich auf das Gut Bruckberg bei Ansbach zurueck, wo seine Frau Bertha Loew Miteigentuemerin einer Porzellanfabrik war. Dort lebte er als Privatgelehrter und widmete sich seinem philosophischen Werk. 1841 erschien sein epochemachendes Hauptwerk 'Das Wesen des Christentums', das wie ein Donnerschlag in die philosophische Landschaft einschlug.",
+      "spaetesLeben": "1848, waehrend der Maerzrevolution, wurde Feuerbach von Studenten nach Heidelberg eingeladen, um Vorlesungen ueber das Wesen der Religion zu halten. Diese Vorlesungen, die auch von Arbeitern besucht wurden, zeigten sein Bemuehen, die Philosophie einem breiteren Publikum zugaenglich zu machen. Doch die Restauration nach der gescheiterten Revolution machte solche Hoffnungen zunichte. 1860 ging die Porzellanfabrik in Bruckberg bankrott, und Feuerbach verlor seine materielle Existenzgrundlage. Er zog nach Rechenberg bei Nuernberg, wo er in zunehmender Armut lebte und auf die finanzielle Unterstuetzung von Freunden angewiesen war.",
+      "tod": "Ludwig Feuerbach starb am 13. September 1872 in Rechenberg bei Nuernberg. Er war 68 Jahre alt und hatte die letzten Jahre seines Lebens nach zwei Schlaganfaellen (1867 und 1870) in zunehmender koerperlicher Schwaeche verbracht. Sein Begraebnis wurde zu einer bemerkenswerten politischen Demonstration: Tausende von Arbeitern und Sozialdemokraten begleiteten den Sarg durch Nuernberg, obwohl die Behoerden versucht hatten, die Feierlichkeiten klein zu halten. Es war eine der groessten Trauerkundgebungen, die Nuernberg bis dahin erlebt hatte, und zeigte den Einfluss, den Feuerbachs Ideen auf die entstehende Arbeiterbewegung gewonnen hatten.",
+      "nachwirkung": "Feuerbachs Einfluss auf die nachfolgende Philosophie und Gesellschaftstheorie ist immens. Karl Marx uebernahm seine Religionskritik und seine Wendung von Hegel zum Materialismus, ging aber in seinen 'Thesen ueber Feuerbach' (1845) ueber ihn hinaus, indem er den 'anschauenden Materialismus' Feuerbachs durch den 'praktischen' historischen Materialismus ersetzte. Friedrich Engels wuerdigte ihn als entscheidendes Bindeglied zwischen Hegel und Marx. Sigmund Freud und die psychoanalytische Religionskritik knuepften an Feuerbachs Projektionstheorie an. In der modernen Religionswissenschaft und Religionssoziologie ist seine Erklaerung der Religion als menschliche Projektion nach wie vor einflussreich. Martin Buber, Karl Barth und andere Theologen des 20."
+    },
+    "kernideen": [
+      {
+        "titel": "Religion als Projektion",
+        "beschreibung": "Feuerbachs zentrale These lautet, dass die Religion eine Projektion des menschlichen Wesens ist. Nicht Gott hat den Menschen, sondern der Mensch hat Gott nach seinem eigenen Bild geschaffen. Die Eigenschaften, die der Mensch Gott zuschreibt – Liebe, Weisheit, Gerechtigkeit –, sind in Wahrheit seine eigenen idealisierten Wesenszuege, die er sich selbst entfremdet und als goettliches Wesen verehrt."
+      },
+      {
+        "titel": "Theologie als Anthropologie",
+        "beschreibung": "Die wahre Bedeutung der Theologie erschliesst sich erst, wenn man sie als verhuellte Anthropologie liest. Alle Aussagen ueber Gott sind in Wahrheit Aussagen ueber den Menschen. Das Geheimnis der Theologie ist die Anthropologie – die Erkenntnis des Menschen ueber sich selbst."
+      },
+      {
+        "titel": "Sinnlichkeit und Materialismus",
+        "beschreibung": "Feuerbach betonte die Sinnlichkeit als Grundlage aller Erkenntnis und wandte sich gegen den abstrakten Idealismus Hegels. Der wirkliche Mensch ist ein leibliches, sinnliches, beduerftiges Wesen, das in der Natur und in der Gemeinschaft mit anderen Menschen lebt. 'Der Mensch ist, was er isst' – Geist und Bewusstsein sind untrennbar mit dem Koerper und seinen materiellen Bedingungen verbunden."
+      },
+      {
+        "titel": "Kritik an Hegel",
+        "beschreibung": "Feuerbach kritisierte Hegels Idealismus als eine saekularisierte Form der Theologie. Hegels 'absoluter Geist' sei nichts anderes als ein philosophischer Ersatz fuer den christlichen Gott. Die wahre Philosophie muesse vom konkreten, sinnlichen Menschen ausgehen, nicht von abstrakten Begriffen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das Wesen des Christentums",
+        "jahr": "1841",
+        "beschreibung": "Feuerbachs epochemachendes Hauptwerk, in dem er die christliche Religion als Projektion des menschlichen Wesens entlarvt. Das Buch wurde zum Schluesselwerk der Religionskritik des 19. Jahrhunderts und beeinflusste Marx, Engels, Nietzsche und Freud."
+      },
+      {
+        "titel": "Gedanken ueber Tod und Unsterblichkeit",
+        "jahr": "1830",
+        "beschreibung": "Feuerbachs erste groessere Veroeffentlichung, in der er die persoenliche Unsterblichkeit der Seele bestreitet. Das Werk kostete ihn seine akademische Karriere, zeigt aber bereits die Grundzuege seines spaeteren religionskritischen Denkens."
+      },
+      {
+        "titel": "Vorlaeufige Thesen zur Reform der Philosophie",
+        "jahr": "1842",
+        "beschreibung": "Eine programmatische Schrift, in der Feuerbach die Umkehrung der Hegelschen Philosophie fordert: Nicht der Geist bestimmt das Sein, sondern das Sein bestimmt den Geist. Diese Schrift wurde zur direkten Inspirationsquelle fuer Marx' materialistische Geschichtsauffassung."
+      },
+      {
+        "titel": "Grundsaetze der Philosophie der Zukunft",
+        "jahr": "1843",
+        "beschreibung": "Eine systematische Darstellung von Feuerbachs eigener Philosophie, die den sinnlichen, leiblichen Menschen zum Ausgangspunkt des Philosophierens macht. Marx nannte dieses Werk begeistert die 'einzigen Schriften, worin ein wirklicher theoretischer Umwaelzungsinhalt steckt'."
+      }
+    ]
+  }
 }

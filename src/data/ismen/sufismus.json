@@ -19,5 +19,18 @@
     {"titel": "Fusus al-Hikam (Die Ringsteine der Weisheit)", "autor": "Ibn Arabi", "jahr": "1229"},
     {"titel": "Masnavi", "autor": "Dschalal ad-Din Rumi", "jahr": "1273"},
     {"titel": "Ihya Ulum ad-Din (Wiederbelebung der Religionswissenschaften)", "autor": "Al-Ghazali", "jahr": "1095"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Sufismus ist die mystische Seite des Islam. Es geht darum, Gott nicht nur durch Regeln und Gesetze, sondern durch innere Erfahrung, Liebe und Hingabe direkt zu erleben.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, Religion waere wie ein Haus. Die aeusseren Regeln - beten, fasten, Vorschriften befolgen - sind wie die Waende und das Dach. Der Sufismus sagt: Das ist alles wichtig, aber es gibt noch ein Inneres, einen Kern. Und der besteht aus der direkten, persoenlichen Erfahrung Gottes durch Liebe und Hingabe.\n\nDie Sufis entwickelten Praktiken, um Gott naeher zu kommen: Meditation, rhythmische Gottesanrufung, Musik und Tanz. Die beruemtesten sind die Derwische, die sich im Kreis drehen. Rumi, einer der groessten Dichter aller Zeiten, war ein Sufi und schrieb ueber die Liebe zu Gott in einer Sprache, die bis heute Menschen auf der ganzen Welt beruehrt.\n\nDas hoechste Ziel im Sufismus ist Fana - die Aufloesung des eigenen Egos in Gott. Das klingt radikal, und genau das war es auch: Orthodoxe Gelehrte haben die Sufis oft dafuer kritisiert, dass sie die Grenze zwischen Mensch und Gott verwischen. Trotzdem hat der Sufismus die islamische Kultur in Literatur, Musik und Philosophie enorm bereichert.",
+    "kernthesen": [
+      "Die direkte Gotteserfahrung steht ueber dem blossen Befolgen von Regeln und Gesetzen",
+      "Das hoechste Ziel ist die Aufloesung des Egos und die Vereinigung mit Gott",
+      "Goettliche Liebe ist die treibende Kraft hinter der gesamten Schoepfung",
+      "Letztlich ist alles, was existiert, eins mit Gott",
+      "Der mystische Weg fuehrt ueber innere Reinigung und verschiedene Stationen zur Erkenntnis"
+    ],
+    "entstehung": "Der Sufismus entstand im 8. Jahrhundert als asketische Gegenbewegung innerhalb des Islam. Fruehe Mystikerinnen wie Rabia al-Adawiyya betonten die reine Gottesliebe. Im 12. und 13. Jahrhundert erreichte er mit Ibn Arabi und Rumi seinen Hoehepunkt.",
+    "kritik": "Orthodoxe islamische Theologen kritisieren den Sufismus dafuer, dass er die Grenze zwischen Gott und Mensch verwischt. Ausserdem wird die Gefahr eines Personenkults um charismatische Lehrer und die Vernachlaessigung der aeusseren religiosen Pflichten bemaengelt."
+  }
 }

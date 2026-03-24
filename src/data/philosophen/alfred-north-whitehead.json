@@ -95,5 +95,29 @@
     }
   ],
   "verwandtePhilosophen": ["bertrand-russell", "william-james", "gottlob-frege", "willard-van-orman-quine", "ernst-cassirer"],
-  "verwandteIsmen": ["prozessphilosophie", "logizismus", "organismus-philosophie", "metaphysik"]
+  "verwandteIsmen": ["prozessphilosophie", "logizismus", "organismus-philosophie", "metaphysik"],
+  "einfach": {
+    "kurzbeschreibung": "Alfred North Whitehead war ein britischer Mathematiker und Philosoph, der zusammen mit Bertrand Russell ein riesiges Logik-Werk schrieb und spaeter eine eigene Philosophie entwickelte: die Prozessphilosophie, die sagt, dass alles in der Welt staendig im Werden ist.",
+    "biografie": {
+      "fruehesLeben": "Whitehead wurde 1861 in England als Sohn eines Pfarrers geboren. Er studierte Mathematik in Cambridge und wurde dort Dozent. Sein aeltester Sohn fiel im Ersten Weltkrieg, was sein spaeteres Denken ueber Vergaenglichkeit stark praegte.",
+      "schaffen": "In der ersten Phase seines Lebens schrieb er mit seinem Schueler Bertrand Russell die Principia Mathematica, ein riesiges Werk, das die gesamte Mathematik auf Logik zurueckfuehren wollte. Spaeter wandte er sich der Naturphilosophie zu. In Harvard entwickelte er dann seine Prozessphilosophie: Die Welt besteht nicht aus festen Dingen, sondern aus Prozessen und Ereignissen.",
+      "spaetesLeben": "Whitehead lehrte bis 1937 in Harvard und blieb auch danach geistig aktiv. Er und seine Frau fuehrten ein offenes Haus, in dem Studenten und Kollegen zum Gespraech willkommen waren.",
+      "tod": "Whitehead starb 1947 in Cambridge, Massachusetts. Auf seinen Wunsch hin verbrannte seine Frau seinen gesamten Nachlass.",
+      "nachwirkung": "Whiteheads Prozessphilosophie begruendete eine eigene philosophische Tradition. Seine Ideen sind heute wieder aktuell, weil sie gut zur Quantenphysik und zur Oekologie passen."
+    },
+    "kernideen": [
+      {"titel": "Prozessphilosophie", "beschreibung": "Die Welt besteht nicht aus festen Dingen, sondern aus Prozessen. Alles ist staendig im Werden und Vergehen."},
+      {"titel": "Der Trugschluss der fehlplatzierten Konkretheit", "beschreibung": "Wir verwechseln oft unsere abstrakten Modelle von der Welt mit der Welt selbst. Das ist ein haeufiger Denkfehler."},
+      {"titel": "Kreativitaet als letzte Kategorie", "beschreibung": "Kreativitaet ist das grundlegendste Prinzip der Wirklichkeit. Jeder Moment ist ein kreativer Akt, in dem aus Vielem etwas Neues entsteht."},
+      {"titel": "Gott und die Welt", "beschreibung": "Gott hat zwei Seiten: eine, die alle Moeglichkeiten enthaelt, und eine, die alles Vergangene bewahrt, sodass nichts wirklich verloren geht."}
+    ],
+    "werke": [
+      {"titel": "Principia Mathematica (mit Bertrand Russell)", "jahr": "1910–1913", "beschreibung": "Ein riesiges Werk, das versuchte, die gesamte Mathematik aus logischen Grundlagen abzuleiten."},
+      {"titel": "Science and the Modern World", "jahr": "1925", "beschreibung": "Eine Geschichte der Naturwissenschaft und die Kritik daran, dass die mechanische Weltsicht die Wirklichkeit zu stark vereinfacht."},
+      {"titel": "Process and Reality", "jahr": "1929", "beschreibung": "Whiteheads Hauptwerk, das seine Prozessphilosophie in einem kompletten System entfaltet."},
+      {"titel": "Adventures of Ideas", "jahr": "1933", "beschreibung": "Ein Buch darueber, wie philosophische und wissenschaftliche Ideen die Entwicklung der Zivilisation beeinflusst haben."},
+      {"titel": "Modes of Thought", "jahr": "1938", "beschreibung": "Eine verstaendliche Zusammenfassung der Grundideen seiner Prozessphilosophie."},
+      {"titel": "The Concept of Nature", "jahr": "1920", "beschreibung": "Eine Naturphilosophie, die dagegen argumentiert, die Natur in eine physische und eine subjektive Welt aufzuteilen."}
+    ]
+  }
 }

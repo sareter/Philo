@@ -90,5 +90,27 @@
     }
   ],
   "verwandtePhilosophen": ["platon", "aristoteles", "augustinus", "meister-eckhart", "parmenides"],
-  "verwandteIsmen": ["neuplatonismus", "idealismus", "mystizismus", "monismus"]
+  "verwandteIsmen": ["neuplatonismus", "idealismus", "mystizismus", "monismus"],
+  "einfach": {
+    "kurzbeschreibung": "Plotin war der Gruender des Neuplatonismus und glaubte, dass alles aus einem goettlichen 'Einen' hervorfliesst – wie Licht aus der Sonne. Durch Nachdenken und Meditation kann man zu diesem Einen zurueckkehren.",
+    "biografie": {
+      "fruehesLeben": "Plotin wurde 204 n. Chr. in Aegypten geboren. Er schaemte sich angeblich, ueberhaupt einen Koerper zu haben. Mit 27 begann er Philosophie zu studieren und fand nach langer Suche endlich den richtigen Lehrer: Ammonios Sakkas.",
+      "schaffen": "Er gruendete in Rom eine Philosophenschule und lehrte dort ueber 25 Jahre. Seine Hauptidee: An der Spitze von allem steht das 'Eine', das jenseits von allem liegt. Daraus fliesst der Geist hervor, dann die Weltseele, und zuletzt die Materie. Das Boese ist kein eigenes Ding, sondern einfach der Mangel an Gutem. Der Mensch kann durch Nachdenken und innere Reinigung eine mystische Vereinigung mit dem Einen erleben.",
+      "spaetesLeben": "In seinen letzten Jahren war Plotin schwer krank und zog sich aufs Land zurueck. Er begann erst mit 49 Jahren zu schreiben und musste seine Texte diktieren, weil seine Augen zu schwach waren.",
+      "tod": "Plotin starb 270 n. Chr. Seine letzten Worte sollen gewesen sein: 'Versuche, das Goettliche in dir zum Goettlichen im All emporzuheben.'",
+      "nachwirkung": "Sein Denken praegte die christliche, juedische und islamische Theologie enorm. Die gesamte christliche Mystik von Meister Eckhart bis heute ist von Plotin beeinflusst."
+    },
+    "kernideen": [
+      {"titel": "Das Eine (to hen)", "beschreibung": "Ganz oben steht das 'Eine' – ein goettliches Urprinzip, das jenseits von allem liegt, was wir denken oder sagen koennen. Aus ihm kommt alles."},
+      {"titel": "Emanation (Ausfluss)", "beschreibung": "Alles fliesst stufenweise aus dem Einen heraus, wie Licht aus der Sonne: zuerst der Geist, dann die Seele, dann die Materie."},
+      {"titel": "Rückkehr zum Einen (epistrophe)", "beschreibung": "Die Seele kann durch Nachdenken und innere Reinigung den Weg zurueck zum Einen finden – das ist das hoechste Ziel des Lebens."},
+      {"titel": "Das Böse als Privation", "beschreibung": "Das Boese ist nichts Eigenes, sondern einfach ein Mangel an Gutem – wie Dunkelheit nur das Fehlen von Licht ist."}
+    ],
+    "werke": [
+      {"titel": "Enneaden", "jahr": "254–270 n. Chr.", "beschreibung": "Plotins gesammelte Schriften, von seinem Schueler in sechs Gruppen zu je neun Texten geordnet."},
+      {"titel": "Enneade I: Ethische Schriften", "jahr": "254–270 n. Chr.", "beschreibung": "Neun Texte ueber ethische Themen wie Schoenheit, Tugend und Glueck."},
+      {"titel": "Enneade V: Über den Geist, die Ideen und das Seiende", "jahr": "254–270 n. Chr.", "beschreibung": "Die Kerntexte ueber die drei Stufen der Wirklichkeit: das Eine, den Geist und die Seele."},
+      {"titel": "Enneade VI: Über das Eine und das Seiende", "jahr": "254–270 n. Chr.", "beschreibung": "Die tiefsten Texte ueber das Eine und die mystische Vereinigung mit ihm."}
+    ]
+  }
 }

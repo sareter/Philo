@@ -19,5 +19,18 @@
     {"titel": "Academica", "autor": "Marcus Tullius Cicero", "jahr": "-45"},
     {"titel": "Gegen die Dogmatiker", "autor": "Sextus Empiricus", "jahr": "200"},
     {"titel": "De Natura Deorum", "autor": "Marcus Tullius Cicero", "jahr": "-45"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Akademischer Skeptizismus sagt: Absolut sicheres Wissen ist unmoeglich. Wir koennen bestenfalls sagen, was wahrscheinlich stimmt -- und das muss reichen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du schreibst eine Klausur und bist dir bei keiner Antwort hundertprozentig sicher. Die akademischen Skeptiker wuerden sagen: Das ist normal -- denn absolut sicheres Wissen gibt es gar nicht. Wir koennen immer nur abschaetzen, was wahrscheinlich richtig ist. Und das ist voellig okay.\n\nDiese Philosophie entstand in der Antike, als Philosophen an Platons Akademie anfingen, alles zu hinterfragen. Ihr Held war Sokrates, der gesagt hat: Ich weiss, dass ich nichts weiss. Der Philosoph Karneades entwickelte daraus eine praktische Loesung: Wir koennen zwar nichts sicher wissen, aber wir koennen zwischen mehr und weniger ueberzeugenden Ideen unterscheiden. Und danach koennen wir handeln.\n\nDas klingt vielleicht unsicher, ist aber eigentlich sehr vernuenftig. Auch in der Wissenschaft heute funktioniert vieles so: Wir haben Theorien, die sehr wahrscheinlich stimmen, aber wir wissen, dass sie sich aendern koennten. Wer das akzeptiert, ist ehrlicher als jemand, der behauptet, die absolute Wahrheit zu kennen.",
+    "kernthesen": [
+      "Absolut sicheres Wissen ist fuer Menschen nicht erreichbar.",
+      "Wir koennen trotzdem vernuenftig handeln, indem wir uns an das halten, was wahrscheinlich stimmt.",
+      "Jeder, der behauptet, die absolute Wahrheit zu kennen, liegt falsch.",
+      "Sokrates hatte recht: Das Eingestehen von Nichtwissen ist der Anfang echten Denkens.",
+      "Wahrscheinlichkeit ist kein Mangel, sondern die beste Grundlage fuer gute Entscheidungen."
+    ],
+    "entstehung": "Der akademische Skeptizismus begann im 3. Jahrhundert vor Christus an Platons Akademie in Athen. Arkesilaos und spaeter Karneades entwickelten die Idee, dass sicheres Wissen unmoeglich ist. Der roemische Denker Cicero machte diese Philosophie dann in der roemischen Welt bekannt.",
+    "kritik": "Kritiker sagen: Wer behauptet 'Sicheres Wissen ist unmoeglich', der behauptet damit ja selbst etwas Sicheres -- das ist ein Widerspruch. Andere meinen, dass diese Haltung das Handeln im Alltag laehmt, weil man sich auf nichts mehr verlassen kann."
+  }
 }

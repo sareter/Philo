@@ -11,14 +11,51 @@
     "Wissenschaftlicher Fortschritt besteht in der systematischen Elimination von Irrtümern",
     "Auch scheinbar sichere Überzeugungen können sich als falsch erweisen"
   ],
-  "hauptvertreter": ["karl-popper", "bertrand-russell"],
+  "hauptvertreter": [
+    "karl-popper",
+    "bertrand-russell"
+  ],
   "entstehung": "Charles Sanders Peirce prägte den Begriff des Fallibilismus in den 1890er Jahren im Kontext seiner pragmatistischen Philosophie. William James und John Dewey übernahmen den Fallibilismus als zentrales Element des Pragmatismus. Karl Popper entwickelte den Fallibilismus in den 1930er Jahren im Rahmen seiner Falsifikationstheorie und seines Kritischen Rationalismus weiter. W.V.O. Quine radikalisierte den Fallibilismus in den 1950er Jahren. In der zeitgenössischen Epistemologie ist der Fallibilismus zu einer weitgehend akzeptierten Grundposition geworden.",
   "kritik": "Gegen den Fallibilismus wird eingewandt, dass er inkonsistent sei, wenn er als selbstgewisse Position formuliert wird – ist die Behauptung, dass alles Wissen fehlbar ist, selbst fehlbar? Wenn ja, könnte es doch unfehlbares Wissen geben. Fundamentalisten argumentieren, dass es basale Überzeugungen gibt (z.B. Bewusstseinsdaten oder logische Wahrheiten), die nicht sinnvoll bezweifelt werden können. Gegen Poppers Falsifikationismus wurde eingewandt (Duhem-Quine-These), dass einzelne Hypothesen nie isoliert, sondern nur im Verbund mit Hintergrundannahmen getestet werden, sodass eine gescheiterte Vorhersage nicht eindeutig einer bestimmten Hypothese zugeordnet werden kann. Der radikale Fallibilismus droht in einen Skeptizismus zu münden, der praktisches Handeln und rationale Entscheidung unmöglich macht.",
-  "verwandteIsmen": ["instrumentalismus", "antifoundationalismus", "koharentismus", "analytische-philosophie"],
+  "verwandteIsmen": [
+    "instrumentalismus",
+    "antifoundationalismus",
+    "koharentismus",
+    "analytische-philosophie"
+  ],
   "schluesselwerke": [
-    { "titel": "Logik der Forschung", "autor": "Karl Popper", "jahr": "1934" },
-    { "titel": "Conjectures and Refutations", "autor": "Karl Popper", "jahr": "1963" },
-    { "titel": "Two Dogmas of Empiricism", "autor": "Willard Van Orman Quine", "jahr": "1951" },
-    { "titel": "Fallibilism", "autor": "Charles Sanders Peirce", "jahr": "1897" }
-  ]
+    {
+      "titel": "Logik der Forschung",
+      "autor": "Karl Popper",
+      "jahr": "1934"
+    },
+    {
+      "titel": "Conjectures and Refutations",
+      "autor": "Karl Popper",
+      "jahr": "1963"
+    },
+    {
+      "titel": "Two Dogmas of Empiricism",
+      "autor": "Willard Van Orman Quine",
+      "jahr": "1951"
+    },
+    {
+      "titel": "Fallibilism",
+      "autor": "Charles Sanders Peirce",
+      "jahr": "1897"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Fallibilismus ist die erkenntnistheoretische Position, dass jede empirische Erkenntnis prinzipiell fehlbar und revidierbar ist.",
+    "ausfuehrlicheBeschreibung": "Der Fallibilismus vertritt die These, dass menschliches Wissen grundsaetzlich fehlbar ist – jede unserer Ueberzeugungen koennte sich als falsch erweisen, und keine Erkenntnis kann absolute, unanfechtbare Gewissheit beanspruchen. Diese Position stellt einen Mittelweg zwischen dogmatischem Fundamentalismus und radikalem Skeptizismus dar.\n\nCharles Sanders Peirce, der Begruender des Pragmatismus, fuehrte den Begriff des Fallibilismus in die philosophische Diskussion ein. Peirce argumentierte, dass die Geschichte der Wissenschaft zeige, wie selbst die bestbegruendeten Theorien immer wieder revidiert worden seien. Daraus folgerte er, dass wir keine unserer Ueberzeugungen als endgueltig gesichert betrachten sollten. Zugleich betonte Peirce, dass Fallibilismus nicht Skeptizismus bedeutet: Wir koennen durchaus gute Gruende fuer unsere Ueberzeugungen haben, auch wenn diese Gruende keine absolute Gewissheit garantieren.\n\nKarl Popper machte den Fallibilismus zum Kernstueck seiner Wissenschaftsphilosophie. Fuer Popper besteht das Wesen der Wissenschaft nicht in der Verifikation von Theorien, sondern in ihrer Falsifikation. Wissenschaftliche Theorien sind kuehne Vermutungen (conjectures), die durch Widerlegungsversuche (refutations) geprueft werden. Eine Theorie, die bisher nicht widerlegt wurde, ist nicht als wahr bewiesen, sondern lediglich vorlaeufig bewaehrt. Der Fortschritt der Wissenschaft besteht in der Elimination von Irrtuemern, nicht in der Akkumulation gesicherter Wahrheiten.",
+    "kernthesen": [
+      "Jede empirische Erkenntnis ist prinzipiell fehlbar und revidierbar",
+      "Absolute Gewissheit ist in empirischen Fragen unerreichbar",
+      "Fallibilismus ist kein Skeptizismus – rationale Erkenntnis ist trotz Fehlbarkeit moeglich",
+      "Wissenschaftlicher Fortschritt besteht in der systematischen Elimination von Irrtuemern",
+      "Auch scheinbar sichere Ueberzeugungen koennen sich als falsch erweisen"
+    ],
+    "entstehung": "Charles Sanders Peirce praegte den Begriff des Fallibilismus in den 1890er Jahren im Kontext seiner pragmatistischen Philosophie. William James und John Dewey uebernahmen den Fallibilismus als zentrales Element des Pragmatismus. Karl Popper entwickelte den Fallibilismus in den 1930er Jahren im Rahmen seiner Falsifikationstheorie und seines Kritischen Rationalismus weiter. W.V.O. Quine radikalisierte den Fallibilismus in den 1950er Jahren. In der zeitgenoessischen Epistemologie ist der Fallibilismus zu einer weitgehend akzeptierten Grundposition geworden.",
+    "kritik": "Gegen den Fallibilismus wird eingewandt, dass er inkonsistent sei, wenn er als selbstgewisse Position formuliert wird – ist die Behauptung, dass alles Wissen fehlbar ist, selbst fehlbar? Wenn ja, koennte es doch unfehlbares Wissen geben. Fundamentalisten argumentieren, dass es basale Ueberzeugungen gibt (z.B. Bewusstseinsdaten oder logische Wahrheiten), die nicht sinnvoll bezweifelt werden koennen."
+  }
 }

@@ -19,5 +19,18 @@
     { "titel": "Grundriss der pyrrhonischen Skepsis", "autor": "Sextus Empiricus", "jahr": "ca. 200" },
     { "titel": "Adversus Mathematicos", "autor": "Sextus Empiricus", "jahr": "ca. 200" },
     { "titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Skeptizismus bezweifelt, dass wir irgendetwas wirklich sicher wissen koennen. Die antiken Skeptiker glaubten, dass man durch das Loslassen von festen Ueberzeugungen innerlich ruhiger wird.",
+    "ausfuehrlicheBeschreibung": "Woher weisst du eigentlich, dass das, was du siehst, wirklich so ist? Die Skeptiker sagen: Du kannst dir nie ganz sicher sein. Fuer jede Behauptung gibt es ein genauso gutes Gegenargument. Also ist es am vernuenftigsten, sich kein endgueltiges Urteil zu bilden. Das klingt erst mal frustrierend, aber die Skeptiker fanden genau darin ihren Frieden.\n\nBegruendet wurde das Ganze von Pyrrhon von Elis in der Antike. Er hatte auf einer Reise nach Indien indische Philosophen getroffen und kam zu dem Schluss: Wir koennen ueber die wahre Natur der Dinge nichts Sicheres sagen. Spaeter formulierte Sextus Empiricus das richtig systematisch und zeigte: Jeder Versuch, etwas zu begruenden, endet entweder in einem endlosen Regress, einem Zirkelschluss oder einer unbewiesenen Annahme.\n\nDer Skeptizismus hat die gesamte Philosophiegeschichte beeinflusst. Descartes hat seinen beruehmt gewordenen Zweifel an allem direkt von den antiken Skeptikern uebernommen. Und bis heute ist die Frage, ob wir irgendetwas wirklich sicher wissen koennen, eines der spannendsten Probleme der Philosophie.",
+    "kernthesen": [
+      "Fuer jede Behauptung gibt es ein genauso starkes Gegenargument",
+      "Das Vernuenftigste ist, sich kein endgueltiges Urteil zu bilden",
+      "Wer aufhoert, dogmatisch an Dingen festzuhalten, wird innerlich ruhiger",
+      "Sicheres Wissen ueber die wahre Natur der Dinge ist unmoeglich",
+      "Jede Begruendung endet entweder in einer Endlosschleife, einem Zirkelschluss oder einer unbewiesenen Annahme"
+    ],
+    "entstehung": "Der Skeptizismus entstand im 4. Jahrhundert vor Christus mit Pyrrhon von Elis. Spaeter wurde er in Platons Akademie weiterentwickelt. Im 2. Jahrhundert nach Christus schrieb Sextus Empiricus alles systematisch auf, und seine Texte beeinflussten Jahrhunderte spaeter Denker wie Montaigne und Descartes.",
+    "kritik": "Der offensichtlichste Einwand: Wenn man sagt, man koenne nichts sicher wissen, behauptet man ja gerade etwas mit Sicherheit - ein Widerspruch. Ausserdem muss man im Alltag staendig Entscheidungen treffen, und das geht nicht ohne irgendwelche Ueberzeugungen. Komplett skeptisch zu leben ist praktisch kaum moeglich."
+  }
 }

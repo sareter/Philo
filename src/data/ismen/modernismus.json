@@ -19,5 +19,18 @@
     {"titel": "Der philosophische Diskurs der Moderne", "autor": "Jürgen Habermas", "jahr": "1985"},
     {"titel": "Theorie des kommunikativen Handelns", "autor": "Jürgen Habermas", "jahr": "1981"},
     {"titel": "Strukturwandel der Öffentlichkeit", "autor": "Jürgen Habermas", "jahr": "1962"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Modernismus verteidigt die Idee, dass Vernunft, Wissenschaft und Demokratie die Welt besser machen koennen. Auch wenn vieles schiefgelaufen ist -- wir sollten an diesem Projekt weiterarbeiten, nicht es aufgeben.",
+    "ausfuehrlicheBeschreibung": "Die Moderne hat uns viel gebracht: Menschenrechte, Demokratie, Wissenschaft, medizinischen Fortschritt. Aber sie hat auch Schattenseiten: Kolonialismus, Umweltzerstoerung, die Atombombe. Manche Denker sagen deshalb: Das ganze Projekt der Moderne ist gescheitert, wir muessen ganz von vorne anfangen. Der Modernismus sagt: Nein, wir muessen weitermachen und die Fehler korrigieren, statt alles hinzuwerfen.\n\nDer wichtigste Vertreter dieser Haltung ist Juergen Habermas. Er sagt: Das Problem ist nicht die Vernunft an sich, sondern dass wir Vernunft zu einseitig genutzt haben -- vor allem um Dinge effizient zu machen und Gewinn zu maximieren, statt miteinander zu reden und gute Entscheidungen zu treffen. Die Loesung ist mehr echte Diskussion, mehr Demokratie, mehr gemeinsames Nachdenken -- nicht weniger Vernunft.\n\nHabermas kritisiert die Postmodernisten, weil sie mit der Vernunft auch gleich die Masstaebe abschaffen, mit denen man Unrecht ueberhaupt kritisieren kann. Wenn es keine universellen Werte mehr gibt, wie willst du dann noch sagen, dass Menschenrechtsverletzungen falsch sind? Deshalb haelt der Modernismus an der Aufklaerung fest -- nicht naiv, aber ueberzeugt.",
+    "kernthesen": [
+      "Die Moderne ist ein unvollendetes Projekt -- wir muessen weitermachen, nicht aufgeben.",
+      "Echte Diskussion und Demokratie koennen die Probleme der Moderne loesen.",
+      "Fortschritt durch Wissenschaft und Vernunft ist moeglich und erstrebenswert.",
+      "Wer die Vernunft komplett aufgibt, verliert auch die Werkzeuge, um Unrecht zu kritisieren.",
+      "Menschenrechte und Demokratie sind Errungenschaften, die es zu verteidigen gilt."
+    ],
+    "entstehung": "Als in den 1980er Jahren viele Denker die Postmoderne ausriefen und die grossen Ideale der Aufklaerung fuer gescheitert erklaerten, hielt Habermas dagegen. Er sagte: Die Moderne ist nicht am Ende, sie ist noch nicht fertig. Damit wurde er zum wichtigsten Verteidiger des modernen Projekts.",
+    "kritik": "Kritiker sagen, der Modernismus spielt die dunklen Seiten der Moderne herunter -- Kolonialismus und Umweltzerstoerung waren keine Betriebsunfaelle, sondern Konsequenzen des modernen Denkens. Ausserdem wird kritisiert, dass er ein westliches Vernunftverstaendnis fuer allgemeingueltig erklaert, was andere Kulturen bevormundet."
+  }
 }

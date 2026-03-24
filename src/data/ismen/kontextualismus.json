@@ -11,14 +11,50 @@
     "Es gibt keine fixen, kontextunabhängigen Kriterien für Wissen",
     "Die Bedeutung von Wissensaussagen ist kontextsensitiv wie die Bedeutung indexikalischer Ausdrücke"
   ],
-  "hauptvertreter": ["ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Der epistemische Kontextualismus wurde in den 1980er und 1990er Jahren als eigenständige Position in der analytischen Erkenntnistheorie entwickelt. Vorläufer finden sich bei Ludwig Wittgenstein ('Über Gewissheit'), J.L. Austin und der Ordinary-Language-Philosophie. Stewart Cohen und Keith DeRose formulierten die Position in den frühen 1990er Jahren systematisch. David Lewis' Aufsatz 'Elusive Knowledge' (1996) wurde zu einem Schlüsseltext. Der Kontextualismus hat sich seitdem zu einer der am intensivsten diskutierten Positionen in der zeitgenössischen Erkenntnistheorie entwickelt.",
   "kritik": "Timothy Williamson und andere Invariantisten argumentieren, dass Wissen einen festen Standard hat und die kontextualistischen Intuitionen durch pragmatische Faktoren erklärt werden können, ohne die Semantik von Wissensaussagen zu verändern. John Hawthorne entwickelte den 'sensitiven Invariantismus', der zugesteht, dass pragmatische Faktoren relevant sind, aber bestreitet, dass sie die Wahrheitsbedingungen von Wissensaussagen verändern. Der Kontextualismus hat Schwierigkeiten, die Grenzen zwischen verschiedenen Kontexten zu bestimmen und die Frage zu beantworten, wer den relevanten Kontext festlegt. Skeptiker argumentieren, dass der Kontextualismus den Skeptizismus nicht wirklich widerlegt, sondern nur seine Relevanz einschränkt.",
-  "verwandteIsmen": ["fallibilismus", "koharentismus", "antifoundationalismus", "sprachphilosophie"],
+  "verwandteIsmen": [
+    "fallibilismus",
+    "koharentismus",
+    "antifoundationalismus",
+    "sprachphilosophie"
+  ],
   "schluesselwerke": [
-    { "titel": "Elusive Knowledge", "autor": "David Lewis", "jahr": "1996" },
-    { "titel": "The Contextual Turn", "autor": "Keith DeRose", "jahr": "2009" },
-    { "titel": "Über Gewissheit", "autor": "Ludwig Wittgenstein", "jahr": "1969" },
-    { "titel": "Knowledge and Practical Interests", "autor": "Jason Stanley", "jahr": "2005" }
-  ]
+    {
+      "titel": "Elusive Knowledge",
+      "autor": "David Lewis",
+      "jahr": "1996"
+    },
+    {
+      "titel": "The Contextual Turn",
+      "autor": "Keith DeRose",
+      "jahr": "2009"
+    },
+    {
+      "titel": "Über Gewissheit",
+      "autor": "Ludwig Wittgenstein",
+      "jahr": "1969"
+    },
+    {
+      "titel": "Knowledge and Practical Interests",
+      "autor": "Jason Stanley",
+      "jahr": "2005"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kontextualismus ist eine erkenntnistheoretische Position, die behauptet, dass die Standards fuer Wissen und Rechtfertigung kontextabhaengig sind.",
+    "ausfuehrlicheBeschreibung": "Der epistemische Kontextualismus vertritt die These, dass die Wahrheitsbedingungen von Wissensaussagen ('S weiss, dass p') kontextabhaengig sind. Die Standards, die erfuellt sein muessen, damit eine Person als wissend gilt, variieren mit dem Kontext der Zuschreibung. In alltaeglichen Kontexten reichen relativ niedrige Standards – wenn ich sage 'Ich weiss, dass die Bank um die Ecke ist', genuegt es, dass ich die Bank dort gesehen habe. In einem philosophischen Seminar ueber Skeptizismus oder in einem Gerichtsprozess gelten dagegen deutlich hoehere Standards.\n\nStewart Cohen und Keith DeRose entwickelten in den 1990er Jahren die einflussreichsten Versionen des epistemischen Kontextualismus. DeRose argumentierte in seinem 'Bankfall', dass die Wahrheitsbedingungen von 'Ich weiss, dass die Bank morgen geoeffnet hat' davon abhaengen, wie viel fuer den Sprecher auf dem Spiel steht. In einem niedrig-stakes-Kontext (nichts haengt davon ab) weiss er es; in einem hoch-stakes-Kontext (er muss unbedingt morgen Geld einzahlen) weiss er es nicht, obwohl seine epistemische Lage identisch ist.\n\nDavid Lewis formulierte in 'Elusive Knowledge' einen kontextualistischen Ansatz: Wissen erfordert, dass man alle relevanten Alternativen ausschliessen kann. Welche Alternativen relevant sind, wird durch den Kontext bestimmt. In alltaeglichen Kontexten sind skeptische Szenarien (boeser Daemon, Gehirn im Tank) nicht relevant; in philosophischen Kontexten werden sie relevant, was erklaert, warum skeptische Argumente in der Philosophie ueberzeugend wirken, aber im Alltag ignoriert werden.",
+    "kernthesen": [
+      "Die Standards fuer Wissen und Rechtfertigung variieren mit dem Kontext der Zuschreibung",
+      "Was als Wissen gilt, haengt von den Umstaenden und Anforderungen der jeweiligen Situation ab",
+      "Skeptische Argumente sind nur in bestimmten Kontexten gueltig, nicht universell",
+      "Es gibt keine fixen, kontextunabhaengigen Kriterien fuer Wissen",
+      "Die Bedeutung von Wissensaussagen ist kontextsensitiv wie die Bedeutung indexikalischer Ausdruecke"
+    ],
+    "entstehung": "Der epistemische Kontextualismus wurde in den 1980er und 1990er Jahren als eigenstaendige Position in der analytischen Erkenntnistheorie entwickelt. Vorlaeufer finden sich bei Ludwig Wittgenstein ('Ueber Gewissheit'), J.L. Austin und der Ordinary-Language-Philosophie. Stewart Cohen und Keith DeRose formulierten die Position in den fruehen 1990er Jahren systematisch. David Lewis' Aufsatz 'Elusive Knowledge' (1996) wurde zu einem Schluesseltext. Der Kontextualismus hat sich seitdem zu einer der am intensivsten diskutierten Positionen in der zeitgenoessischen Erkenntnistheorie entwickelt.",
+    "kritik": "Timothy Williamson und andere Invariantisten argumentieren, dass Wissen einen festen Standard hat und die kontextualistischen Intuitionen durch pragmatische Faktoren erklaert werden koennen, ohne die Semantik von Wissensaussagen zu veraendern. John Hawthorne entwickelte den 'sensitiven Invariantismus', der zugesteht, dass pragmatische Faktoren relevant sind, aber bestreitet, dass sie die Wahrheitsbedingungen von Wissensaussagen veraendern."
+  }
 }

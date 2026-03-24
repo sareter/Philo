@@ -19,5 +19,18 @@
     {"titel": "Ethik", "autor": "Baruch Spinoza", "jahr": "1677"},
     {"titel": "Timaios", "autor": "Platon", "jahr": "-360"},
     {"titel": "Monadologie", "autor": "Gottfried Wilhelm Leibniz", "jahr": "1714"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Panpsychismus behauptet, dass Bewusstsein nicht nur im Gehirn steckt, sondern ein grundlegendes Merkmal von allem ist, was existiert. Sogar die kleinsten Teilchen haben eine Art winziges inneres Erleben.",
+    "ausfuehrlicheBeschreibung": "Die Frage, wie aus toten Atomen ploetzlich Bewusstsein entsteht, ist eine der schwersten in der Philosophie. Der Panpsychismus hat dazu eine radikale Antwort: Bewusstsein entsteht gar nicht ploetzlich, sondern steckt schon immer in allem drin. Jedes Teilchen, jeder Stein, jedes Elektron hat eine winzige Form von innerem Erleben. Natuerlich nicht so wie wir, sondern viel einfacher und grundlegender.\n\nDiese Idee ist uralt. Schon in der Antike dachten Philosophen wie Thales, dass alle Dinge beseelt sind. Platon sprach von einer Weltseele. Spinoza meinte, dass Geist und Koerper zwei Seiten derselben Medaille sind, und Leibniz glaubte, dass alles aus winzigen Einheiten besteht, die eine Art Wahrnehmung haben.\n\nIn letzter Zeit erlebt der Panpsychismus eine ueberraschende Renaissance. Weil Wissenschaftler und Philosophen grosse Schwierigkeiten haben zu erklaeren, wie Bewusstsein aus reiner Materie entsteht, finden einige die Idee attraktiv, dass Bewusstsein einfach eine Grundeigenschaft der Natur ist. Das klingt erstmal verrueckt, aber es loest ein grosses Problem. Das groesste Raetsel bleibt allerdings: Wie setzen sich diese winzigen Bewusstseins-Stueckchen zu unserem komplexen Erleben zusammen?",
+    "kernthesen": [
+      "Bewusstsein ist eine Grundeigenschaft von allem, was existiert, nicht nur von Gehirnen.",
+      "Selbst die einfachsten Dinge haben eine winzige Form von innerem Erleben.",
+      "Das Raetsel des Bewusstseins loest sich, wenn man Geist als Grundeigenschaft der Natur anerkennt.",
+      "Geist und Materie sind keine getrennten Dinge, sondern zwei Seiten derselben Wirklichkeit.",
+      "Unser komplexes Bewusstsein entsteht aus der Kombination vieler einfacher Bewusstseins-Bausteine."
+    ],
+    "entstehung": "Der Panpsychismus hat seine Wurzeln in der antiken Philosophie, etwa bei Thales und Platon. Spinoza und Leibniz entwickelten im 17. Jahrhundert eigene Versionen. Heute wird er als moegliche Antwort auf das 'harte Problem des Bewusstseins' wiederentdeckt.",
+    "kritik": "Das groesste Problem ist das sogenannte Kombinationsproblem: Wie werden Millionen winziger Bewusstseins-Stueckchen zu unserem einheitlichen Erleben zusammengesetzt? Ausserdem finden viele die Idee, dass ein Stein oder ein Elektron etwas 'erlebt', einfach zu seltsam und nicht ueberbruefbar."
+  }
 }

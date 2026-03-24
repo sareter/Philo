@@ -18,7 +18,9 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Sozialismus"],
+  "hauptstroemungen": [
+    "Sozialismus"
+  ],
   "kurzbeschreibung": "W. E. B. Du Bois war ein amerikanischer Soziologe, Historiker und politischer Philosoph, der als einer der bedeutendsten afroamerikanischen Intellektuellen des 20. Jahrhunderts gilt. Sein Konzept des 'doppelten Bewusstseins' und seine Analyse der 'Farblinie' prägten die Rassismusforschung nachhaltig. Er war Mitbegründer der NAACP und ein Wegbereiter der Bürgerrechtsbewegung.",
   "biografie": {
     "fruehesLeben": "W. E. B. Du Bois wurde 1868 in Great Barrington, Massachusetts, als eines von wenigen afroamerikanischen Kindern in einer überwiegend weißen Gemeinde geboren. Er studierte an der Fisk University, der Harvard University und der Universität Berlin. Als erster Afroamerikaner promovierte er 1895 an Harvard.",
@@ -77,6 +79,58 @@
       "quelle": "Reden"
     }
   ],
-  "verwandtePhilosophen": ["karl-marx", "kwame-nkrumah", "william-james"],
-  "verwandteIsmen": ["sozialismus"]
+  "verwandtePhilosophen": [
+    "karl-marx",
+    "kwame-nkrumah",
+    "william-james"
+  ],
+  "verwandteIsmen": [
+    "sozialismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "W. E. B. Du Bois war ein amerikanischer Soziologe, Historiker und politischer Philosoph, der als einer der bedeutendsten afroamerikanischen Intellektuellen des 20. Jahrhunderts gilt. Sein Konzept des 'doppelten Bewusstseins' und seine Analyse der 'Farblinie' praegten die Rassismusforschung nachhaltig. Er war Mitbegruender der NAACP und ein Wegbereiter der Buergerrechtsbewegung.",
+    "biografie": {
+      "fruehesLeben": "W. E. B. Du Bois wurde 1868 in Great Barrington, Massachusetts, als eines von wenigen afroamerikanischen Kindern in einer ueberwiegend weissen Gemeinde geboren. Er studierte an der Fisk University, der Harvard University und der Universitaet Berlin. Als erster Afroamerikaner promovierte er 1895 an Harvard.",
+      "schaffen": "Du Bois' bahnbrechendes Werk 'Die Seelen der Schwarzen' (1903) formulierte die Theorie des doppelten Bewusstseins und die These, dass die Farblinie das zentrale Problem des 20. Jahrhunderts sei. Er gruendete 1909 die NAACP mit und gab ihre Zeitschrift 'The Crisis' heraus. Als Soziologe leistete er an der Atlanta University Pionierarbeit in der empirischen Rassismusforschung.",
+      "spaetesLeben": "Im Laufe seines langen Lebens wandte sich Du Bois zunehmend dem Sozialismus und dem Panafrikanismus zu. Er organisierte mehrere Panafrikanische Kongresse und setzte sich fuer die Dekolonisierung Afrikas ein. Im Alter von 93 Jahren trat er der Kommunistischen Partei bei und emigrierte nach Ghana.",
+      "tod": "W. E. B. Du Bois starb am 27. August 1963 in Accra, Ghana, am Vorabend des Marsches auf Washington. Er war 95 Jahre alt und hatte ein Leben von erstaunlicher intellektueller Produktivitaet und politischem Engagement gelebt. Sein Tod in Afrika symbolisierte seine lebenslange Verbundenheit mit der afrikanischen Diaspora.",
+      "nachwirkung": "Du Bois' Konzept des doppelten Bewusstseins und seine Analyse der Farblinie gehoeren zu den einflussreichsten Ideen der Sozialwissenschaften. Er wird als einer der Begruender der afroamerikanischen Studien und der Rassismusforschung betrachtet. Sein Einfluss reicht von der Buergerrechtsbewegung bis zur heutigen Critical Race Theory."
+    },
+    "kernideen": [
+      {
+        "titel": "Doppeltes Bewusstsein (Double Consciousness)",
+        "beschreibung": "Afroamerikaner erleben eine schmerzhafte Spaltung ihres Bewusstseins – sie sehen sich stets durch die Augen der weissen Mehrheitsgesellschaft und durch ihre eigenen Augen. Diese Doppelheit des Selbstverstaendnisses ist Quelle von Leid, aber auch von besonderer Einsicht in die amerikanische Gesellschaft."
+      },
+      {
+        "titel": "Die Farblinie (Color Line)",
+        "beschreibung": "Das Problem des 20. Jahrhunderts ist das Problem der Farblinie – der Grenze zwischen den Rassen, die Gesellschaften weltweit durchzieht. Du Bois analysiert den Rassismus als globales Strukturproblem, das politische, wirtschaftliche und kulturelle Dimensionen hat."
+      },
+      {
+        "titel": "Die talentierte Zehnte (Talented Tenth)",
+        "beschreibung": "Die Befreiung der Afroamerikaner wird von einer gebildeten Elite angefuehrt werden – der 'talentierten Zehnten', die durch akademische Bildung und kulturelle Fuehrung den Weg weist. Spaeter revidierte Du Bois dieses elitaere Konzept zugunsten einer breiteren Volksbewegung."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Seelen der Schwarzen (The Souls of Black Folk)",
+        "jahr": "1903",
+        "beschreibung": "Du Bois' einflussreichstes Werk, das die Konzepte des doppelten Bewusstseins und der Farblinie formuliert und als Gruendungstext der afroamerikanischen Studien gilt."
+      },
+      {
+        "titel": "Black Reconstruction in America",
+        "jahr": "1935",
+        "beschreibung": "Eine monumentale Neuinterpretation der Rekonstruktionszeit nach dem Buergerkrieg, die die aktive Rolle der Afroamerikaner hervorhebt und die herrschende rassistische Geschichtsschreibung herausfordert."
+      },
+      {
+        "titel": "The Philadelphia Negro",
+        "jahr": "1899",
+        "beschreibung": "Die erste systematische soziologische Studie ueber eine afroamerikanische Gemeinschaft, die Pionierarbeit in der empirischen Sozialforschung leistete."
+      },
+      {
+        "titel": "Dusk of Dawn",
+        "jahr": "1940",
+        "beschreibung": "Eine intellektuelle Autobiographie, in der Du Bois sein Leben und Denken im Kontext der Rassenfrage reflektiert."
+      }
+    ]
+  }
 }

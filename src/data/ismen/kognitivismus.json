@@ -20,5 +20,18 @@
     { "titel": "Cognitive Psychology", "autor": "Ulric Neisser", "jahr": "1967" },
     { "titel": "Ethics: Inventing Right and Wrong", "autor": "John Mackie", "jahr": "1977" },
     { "titel": "Moral Realism: A Defence", "autor": "Russ Shafer-Landau", "jahr": "2003" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kognitivismus hat zwei Bedeutungen: In der Philosophie des Geistes heisst er, dass Denken Informationsverarbeitung ist. In der Ethik heisst er, dass moralische Urteile wahr oder falsch sein koennen.",
+    "ausfuehrlicheBeschreibung": "Wenn du rechnest, ein Raetsel loest oder dich an etwas erinnerst, verarbeitet dein Gehirn Informationen. Der Kognitivismus in der Philosophie des Geistes sagt: Denken funktioniert im Grunde wie ein Computer. Das Gehirn manipuliert Symbole nach Regeln, aehnlich wie ein Programm. Fodor hat das die Sprache des Denkens genannt. Diese Sichtweise hat den Behaviorismus abgeloest, der nur aeusseres Verhalten betrachten wollte.\n\nIn der Ethik bedeutet Kognitivismus etwas anderes, aber Verwandtes. Wenn du sagst Folter ist falsch, ist das dann eine Tatsachenbehauptung, die wahr oder falsch sein kann? Oder drueckst du nur ein Gefuehl aus? Der ethische Kognitivismus sagt: Moralische Saetze sind echte Aussagen mit Wahrheitswert. Es gibt moralische Tatsachen, und wir koennen sie erkennen. Das ist die Gegenposition zum Emotivismus, der meint, moralische Urteile seien nur Ausdruck von Gefuehlen.\n\nBeide Formen des Kognitivismus betonen, dass wir die Welt und die Moral durch echtes Erkennen verstehen, nicht nur durch Gefuehle oder Gewohnheiten. Das ist eine optimistische Position: Wissen ist moeglich, auch in der Moral.",
+    "kernthesen": [
+      "Denken ist Informationsverarbeitung, aehnlich wie bei einem Computer.",
+      "Moralische Urteile koennen wahr oder falsch sein, sie sind echte Aussagen.",
+      "Um komplexes Verhalten zu erklaeren, braucht man innere mentale Vorstellungen und Prozesse.",
+      "Das Gehirn arbeitet wie ein System, das Informationen nach Regeln verarbeitet.",
+      "Moralische Erkenntnis ist grundsaetzlich moeglich."
+    ],
+    "entstehung": "Der Kognitivismus in der Psychologie entstand in den 1950er und 1960er Jahren als Gegenbewegung zum Behaviorismus. Chomskys Sprachforschung, Shannons Informationstheorie und die Anfaenge der kuenstlichen Intelligenz spielten eine grosse Rolle. In der Ethik hat der Kognitivismus eine laengere Geschichte und geht auf Denker wie G.E. Moore zurueck.",
+    "kritik": "In der Philosophie des Geistes wird kritisiert, dass das Computermodell zu einfach ist. Searles beruemtes Gedankenexperiment fragt: Kann ein Computer, der nur Symbole hin und her schiebt, wirklich verstehen? In der Ethik wird eingewandt, dass moralische Urteile uns zum Handeln motivieren, was reine Tatsachenaussagen nicht tun."
+  }
 }

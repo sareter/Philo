@@ -82,5 +82,27 @@
     }
   ],
   "verwandtePhilosophen": ["swami-vivekananda", "konfuzius"],
-  "verwandteIsmen": ["humanismus"]
+  "verwandteIsmen": ["humanismus"],
+  "einfach": {
+    "kurzbeschreibung": "Rabindranath Tagore war ein indischer Dichter und Denker, der als erster Nicht-Europaeer den Literaturnobelpreis bekam. Er setzte sich fuer Voelkerverstaendigung und eine Bildung ein, die den ganzen Menschen foerdert.",
+    "biografie": {
+      "fruehesLeben": "Tagore wurde 1861 in Kalkutta in eine prominente Familie geboren. Schon mit acht Jahren schrieb er seine ersten Gedichte.",
+      "schaffen": "Er schrieb Gedichte, Romane, Theaterstuecke und philosophische Texte. Mit seiner Gedichtsammlung 'Gitanjali' gewann er 1913 den Nobelpreis. Er gruendete eine Reformschule, in der Kinder in der Natur lernen und Kunst machen konnten.",
+      "spaetesLeben": "In seinen spaeten Jahren reiste er um die Welt und warb fuer den Dialog zwischen den Kulturen. Er kritisierte jeden aggressiven Nationalismus und begann mit ueber 70 noch zu malen.",
+      "tod": "Tagore starb 1941 in seinem Geburtshaus in Kalkutta. Er hinterliess eines der vielseitigsten Lebenswerke der Weltliteratur.",
+      "nachwirkung": "Seine Gedichte wurden zu den Nationalhymnen von Indien und Bangladesch. Sein Bildungskonzept und sein Einsatz fuer interkulturelle Verstaendigung sind bis heute aktuell."
+    },
+    "kernideen": [
+      {"titel": "Universeller Humanismus", "beschreibung": "Tagore glaubte an die Einheit der Menschheit und lehnte jeden Nationalismus ab, der Voelker trennt."},
+      {"titel": "Einheit von Natur und Geist", "beschreibung": "Die Natur ist nicht nur Materie, sondern Ausdruck von etwas Goettlichem. In der Natur kann man zu sich selbst finden."},
+      {"titel": "Kreative Erziehung", "beschreibung": "Bildung soll nicht Wissen eintrichtern, sondern Kreativitaet und Freude am Lernen foerdern – am besten draussen in der Natur."},
+      {"titel": "Religion der Menschlichkeit", "beschreibung": "Tagore wollte eine Spiritualitaet ohne Dogmen, die auf Liebe, Mitgefuehl und Freiheit gruendet."}
+    ],
+    "werke": [
+      {"titel": "Gitanjali (Liedopfer)", "jahr": "1910", "beschreibung": "Die Gedichtsammlung, fuer die er als erster Nicht-Europaeer den Nobelpreis bekam."},
+      {"titel": "Sadhana – Der Weg zur Vollendung", "jahr": "1913", "beschreibung": "Philosophische Vortraege ueber die Beziehung des Menschen zum Unendlichen."},
+      {"titel": "Der Nationalismus", "jahr": "1917", "beschreibung": "Eine scharfe Kritik an aggressivem Nationalismus und Imperialismus."},
+      {"titel": "Die Religion des Menschen", "jahr": "1931", "beschreibung": "Sein Spaetwerk ueber eine universelle Spiritualitaet, die im Menschen selbst ihre Grundlage findet."}
+    ]
+  }
 }

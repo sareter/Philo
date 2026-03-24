@@ -19,5 +19,18 @@
     {"titel": "Weapons of Math Destruction", "autor": "Cathy O'Neil", "jahr": "2016"},
     {"titel": "Automating Inequality", "autor": "Virginia Eubanks", "jahr": "2018"},
     {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Algorithmische Ethik fragt: Duerfen Algorithmen ueber Menschen entscheiden? Und wenn ja, wie stellen wir sicher, dass sie fair und transparent sind?",
+    "ausfuehrlicheBeschreibung": "Algorithmen entscheiden heute ueber ziemlich viel: Wer einen Kredit bekommt, wer zum Vorstellungsgespraech eingeladen wird, was dir auf Social Media angezeigt wird. Das Problem: Diese Algorithmen koennen Vorurteile haben -- nicht weil sie boese sind, sondern weil sie aus Daten lernen, die selbst vorurteilsbehaftet sind. Wenn in der Vergangenheit vor allem Maenner befördert wurden, lernt ein Algorithmus: Maenner befoerdern.\n\nAlgorithmische Ethik fragt deshalb: Wie machen wir diese Systeme fair? Wie sorgen wir dafuer, dass sie transparent sind -- also dass man versteht, warum eine bestimmte Entscheidung getroffen wurde? Und vor allem: Wer ist verantwortlich, wenn ein Algorithmus Mist baut? Der Programmierer? Das Unternehmen? Der Algorithmus selbst?\n\nDas ist keine abstrakte Philosophie, sondern betrifft uns alle. Die EU hat schon Gesetze fuer KI-Systeme beschlossen. Und die Frage wird immer dringender, je mehr Entscheidungen automatisiert werden. Am Ende geht es darum: Technik soll dem Menschen dienen, nicht umgekehrt.",
+    "kernthesen": [
+      "Algorithmen muessen fair sein und duerfen niemanden diskriminieren.",
+      "Wenn ein Algorithmus Vorurteile aus alten Daten lernt, verstaerkt er die Ungerechtigkeit.",
+      "Menschen muessen verstehen koennen, warum eine automatisierte Entscheidung so ausgefallen ist.",
+      "Die Verantwortung fuer Fehler von Algorithmen liegt bei den Menschen, die sie erschaffen.",
+      "Ethische Werte muessen von Anfang an in die Entwicklung von KI-Systemen eingebaut werden."
+    ],
+    "entstehung": "Algorithmische Ethik wurde ab den 2010er Jahren wichtig, als immer mehr Entscheidungen automatisiert wurden. Faelle von Diskriminierung durch Algorithmen und die Debatte um selbstfahrende Autos machten klar: Wir brauchen ethische Regeln fuer kuenstliche Intelligenz.",
+    "kritik": "Kritiker sagen, dass 'ethische KI' oft nur ein Feigenblatt fuer Unternehmen ist, die ihr Geschaeftsmodell nicht wirklich aendern wollen. Ausserdem loest man strukturelle Probleme wie Rassismus oder Sexismus nicht dadurch, dass man einen Algorithmus repariert -- man muss die Gesellschaft aendern."
+  }
 }

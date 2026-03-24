@@ -19,5 +19,18 @@
     {"titel": "Phänomenologie des Geistes", "autor": "Georg Wilhelm Friedrich Hegel", "jahr": "1807"},
     {"titel": "Ökonomisch-philosophische Manuskripte", "autor": "Karl Marx", "jahr": "1844"},
     {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Entfremdungsphilosophie untersucht das Gefuehl, sich in der modernen Welt fremd zu fuehlen: fremd bei der Arbeit, fremd unter Menschen, fremd in sich selbst. Das ist kein persoenliches Versagen, sondern ein Problem der Gesellschaft.",
+    "ausfuehrlicheBeschreibung": "Kennst du das Gefuehl, wenn du einen Job machst, der dir nichts bedeutet, und du dich fragst, wofuer das alles gut ist? Genau darum geht es in der Entfremdungsphilosophie. Sie sagt: In der modernen Gesellschaft fuehlen sich Menschen oft fremd, und zwar nicht, weil mit ihnen etwas nicht stimmt, sondern weil die Gesellschaft so aufgebaut ist.\n\nKarl Marx hat das am deutlichsten beschrieben. Er sagte: In der kapitalistischen Wirtschaft produziert der Arbeiter Dinge, die ihm nicht gehoeren. Er hat keinen Einfluss darauf, was er macht oder wie er es macht. Dadurch entfremdet er sich von seiner Arbeit, von dem, was er herstellt, von seinen Mitmenschen und letztlich von sich selbst. Vorher hatte Hegel die Entfremdung schon philosophisch beschrieben, aber Marx machte sie zum konkreten gesellschaftlichen Problem.\n\nDas Thema ist heute aktueller denn je: Wenn du den ganzen Tag Daten in eine Tabelle tippst, deren Sinn du nicht verstehst, oder wenn du auf Social Media eine Version von dir zeigst, die gar nicht du bist, dann sind das moderne Formen der Entfremdung. Die Frage bleibt: Kann man eine Gesellschaft bauen, in der Menschen sich nicht mehr fremd fuehlen?",
+    "kernthesen": [
+      "Der moderne Mensch fuehlt sich fremd in seiner eigenen Welt, bei der Arbeit und unter Menschen.",
+      "Im Kapitalismus wird der Arbeiter von dem entfremdet, was er produziert und tut.",
+      "Entfremdung ist ein gesellschaftliches Problem, kein persoenliches Versagen.",
+      "Um Entfremdung zu ueberwinden, muss die Gesellschaft veraendert werden.",
+      "Entfremdung nimmt in der digitalen Welt immer neue Formen an."
+    ],
+    "entstehung": "Die Entfremdungsphilosophie entstand im 19. Jahrhundert. Hegel beschrieb Entfremdung als philosophisches Konzept, und Karl Marx machte daraus eine Analyse der kapitalistischen Gesellschaft. Die Industrialisierung und die miserablen Arbeitsbedingungen waren der Hintergrund.",
+    "kritik": "Kritiker fragen: Gibt es ueberhaupt ein wahres menschliches Wesen, von dem man entfremdet werden kann? Vielleicht ist die Idee einer entfremdungsfreien Gesellschaft nur eine schoene Utopie, die in der Realitaet nie erreicht werden kann."
+  }
 }

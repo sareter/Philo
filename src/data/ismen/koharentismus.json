@@ -20,5 +20,18 @@
     { "titel": "A Coherence Theory of Truth and Knowledge", "autor": "Donald Davidson", "jahr": "1983" },
     { "titel": "Theory of Knowledge", "autor": "Keith Lehrer", "jahr": "1990" },
     { "titel": "The Nature of Thought", "autor": "Brand Blanshard", "jahr": "1939" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Koharentismus sagt: Eine Ueberzeugung ist gerechtfertigt, wenn sie gut zu allen anderen Ueberzeugungen passt. Wissen braucht kein festes Fundament, sondern ein stimmiges Gesamtbild.",
+    "ausfuehrlicheBeschreibung": "Stell dir ein Puzzle vor. Kein einzelnes Teil beweist fuer sich allein, was das Bild zeigt. Aber wenn alle Teile zusammenpassen, ergibt sich ein klares Bild. So denkt der Koharentismus ueber Wissen: Eine Ueberzeugung ist gerechtfertigt, wenn sie zu deinen anderen Ueberzeugungen passt. Es gibt kein einzelnes Fundament, auf dem alles aufbaut, sondern ein Netz, in dem sich alles gegenseitig stuetzt.\n\nDas ist eine Alternative zum Foundationalismus, der sagt: Es gibt grundlegende Ueberzeugungen, die sich selbst beweisen, und darauf baut alles auf. Der Koharentismus sagt: So etwas gibt es nicht. Keine Ueberzeugung steht fuer sich allein. Selbst wenn du sagst Ich sehe einen Baum, stuetzt sich das schon auf andere Ueberzeugungen, zum Beispiel dass deine Augen zuverlaessig sind.\n\nDas Problem dabei: Was wenn jemand ein Ueberzeugungssystem hat, das in sich perfekt zusammenhaengt, aber mit der Realitaet nichts zu tun hat? Wie ein Roman, der in sich stimmig ist, aber erfunden. Dieses Isolationsproblem ist der groesste Einwand gegen den Koharentismus. Trotzdem hat er die Erkenntnistheorie stark gepraegt und gezeigt, dass Wissen mehr ein Netz als ein Gebaeude ist.",
+    "kernthesen": [
+      "Eine Ueberzeugung ist gerechtfertigt, wenn sie gut zum Rest deiner Ueberzeugungen passt.",
+      "Es gibt keine Ueberzeugungen, die sich ohne andere Ueberzeugungen selbst beweisen.",
+      "Kohaerenz bedeutet mehr als nur Widerspruchsfreiheit: Ueberzeugungen muessen sich gegenseitig stuetzen und erklaeren.",
+      "Wissen ist wie ein Netz, nicht wie ein Gebaeude mit Fundament.",
+      "Wahrheit besteht darin, dass eine Aussage in ein umfassendes, stimmiges System passt."
+    ],
+    "entstehung": "Vorlaeufer gibt es bei Hegel, dessen Philosophie auf der Verbindung aller Begriffe beruht. Im 20. Jahrhundert haben Quine, BonJour und Davidson den Koharentismus in der analytischen Philosophie ausgearbeitet. Besonders in den 1970er und 1980er Jahren war er eine wichtige Alternative zum Foundationalismus.",
+    "kritik": "Das groesste Problem ist das Isolationsproblem: Ein in sich stimmiges Ueberzeugungssystem koennte voellig von der Wirklichkeit abgekoppelt sein. Ausserdem kann es mehrere verschiedene, jeweils in sich kohaerente Systeme geben, und der Koharentismus kann nicht erklaeren, welches das richtige ist."
+  }
 }

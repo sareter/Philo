@@ -100,5 +100,70 @@
     }
   ],
   "verwandtePhilosophen": ["william-james", "charles-sanders-peirce", "richard-rorty", "juergen-habermas"],
-  "verwandteIsmen": ["pragmatismus", "instrumentalismus", "naturalismus", "progressivismus"]
+  "verwandteIsmen": ["pragmatismus", "instrumentalismus", "naturalismus", "progressivismus"],
+  "einfach": {
+    "kurzbeschreibung": "Dewey war der wichtigste amerikanische Philosoph des 20. Jahrhunderts und Erfinder des 'Learning by Doing' -- Lernen durch Ausprobieren statt durch Auswendiglernen.",
+    "biografie": {
+      "fruehesLeben": "Dewey wurde 1859 in Vermont, USA, geboren und wuchs in einer bescheidenen Familie auf. Er studierte an der Johns Hopkins University Philosophie und Psychologie. Anfangs war er von Hegel beeinflusst, wandte sich aber spaeter dem Pragmatismus zu.",
+      "schaffen": "Dewey gruendete eine eigene Versuchsschule in Chicago, um seine Ideen in der Praxis zu testen. Sein wichtigstes Buch 'Democracy and Education' verband Paedagogik mit Demokratie. Er sah Denken nicht als abstraktes Gruebeln, sondern als praktisches Problemloesen. Philosophie sollte keine ewigen Wahrheiten suchen, sondern konkret das Leben der Menschen verbessern.",
+      "spaetesLeben": "Auch nach seiner Pensionierung blieb Dewey aktiv. Er reiste um die Welt und beriet Regierungen in Bildungsfragen. 1937 leitete er eine Kommission, die Leo Trotzki in den Moskauer Schauprozessen fuer unschuldig erklaerte. Er setzte sich fuer Buergerrechte und Frauenwahlrecht ein.",
+      "tod": "Dewey starb 1952 in New York im Alter von 92 Jahren. Bis fast zum Schluss hatte er weiter geschrieben und sich oeffentlich engagiert.",
+      "nachwirkung": "Deweys Idee des erfahrungsbasierten Lernens praegt Schulen auf der ganzen Welt bis heute. Auch in der Philosophie und Demokratietheorie wirken seine Ideen weiter."
+    },
+    "kernideen": [
+      {
+        "titel": "Instrumentalismus",
+        "beschreibung": "Ideen und Theorien sind Werkzeuge, um praktische Probleme zu loesen -- nicht um die Wahrheit im Elfenbeinturm zu finden."
+      },
+      {
+        "titel": "Demokratie als Lebensform",
+        "beschreibung": "Demokratie ist nicht nur eine Regierungsform, sondern eine Art zusammenzuleben: gemeinsam reden, Erfahrungen teilen und Probleme loesen."
+      },
+      {
+        "titel": "Learning by Doing",
+        "beschreibung": "Man lernt am besten, indem man Dinge selbst ausprobiert, nicht indem man nur zuhoert und auswendig lernt."
+      },
+      {
+        "titel": "Erfahrung als Grundkategorie",
+        "beschreibung": "Erfahrung ist fuer Dewey das Wichtigste in der Philosophie -- das Zusammenspiel zwischen Mensch und Umwelt, das die alten Trennungen von Theorie und Praxis ueberwindet."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "The School and Society",
+        "jahr": "1899",
+        "beschreibung": "Ein Buch, das die Schule reformieren will, indem es das Kind ins Zentrum stellt."
+      },
+      {
+        "titel": "Democracy and Education",
+        "jahr": "1916",
+        "beschreibung": "Deweys Hauptwerk, das erklaert, warum Bildung der Schluessel zu einer demokratischen Gesellschaft ist."
+      },
+      {
+        "titel": "Reconstruction in Philosophy",
+        "jahr": "1920",
+        "beschreibung": "Philosophie soll keine ewigen Wahrheiten suchen, sondern die Probleme der Gegenwart loesen."
+      },
+      {
+        "titel": "Experience and Nature",
+        "jahr": "1925",
+        "beschreibung": "Deweys philosophisches Grundlagenwerk, das Erfahrung als wichtigste Kategorie der Philosophie entwickelt."
+      },
+      {
+        "titel": "The Quest for Certainty",
+        "jahr": "1929",
+        "beschreibung": "Eine Kritik an der Suche nach absoluter Sicherheit -- stattdessen brauchen wir experimentelles Denken."
+      },
+      {
+        "titel": "Art as Experience",
+        "jahr": "1934",
+        "beschreibung": "Kunst ist keine abgehobene Sache, sondern eine besonders intensive Form der alltaeglichen Erfahrung."
+      },
+      {
+        "titel": "Logic: The Theory of Inquiry",
+        "jahr": "1938",
+        "beschreibung": "Logik entsteht aus dem Prozess des Forschens und Denkens als praktische Problemloesung."
+      }
+    ]
+  }
 }

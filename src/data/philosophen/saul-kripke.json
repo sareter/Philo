@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Analytische Philosophie", "Sprachphilosophie"],
+  "hauptstroemungen": [
+    "Analytische Philosophie",
+    "Sprachphilosophie"
+  ],
   "kurzbeschreibung": "Saul Kripke war ein amerikanischer Logiker und Philosoph, der als einer der bedeutendsten analytischen Philosophen des 20. Jahrhunderts gilt. Mit seinen Vorlesungen 'Naming and Necessity' revolutionierte er die Sprachphilosophie und die Metaphysik. Bereits als Teenager leistete er bahnbrechende Beiträge zur modalen Logik.",
   "biografie": {
     "fruehesLeben": "Saul Kripke wurde 1940 in Bay Shore, New York, als Sohn eines Rabbiners geboren. Er war ein mathematisches Wunderkind und veröffentlichte bereits als Teenager bedeutende Arbeiten zur modalen Logik. Mit 18 Jahren vollendete er ein Theorem der Vollständigkeit der modalen Logik, das sein Ruf in der Fachwelt begründete.",
@@ -76,6 +79,59 @@
       "quelle": "Name und Notwendigkeit"
     }
   ],
-  "verwandtePhilosophen": ["ludwig-wittgenstein", "gottlob-frege", "hilary-putnam", "willard-van-orman-quine"],
-  "verwandteIsmen": ["analytische-philosophie", "sprachphilosophie"]
+  "verwandtePhilosophen": [
+    "ludwig-wittgenstein",
+    "gottlob-frege",
+    "hilary-putnam",
+    "willard-van-orman-quine"
+  ],
+  "verwandteIsmen": [
+    "analytische-philosophie",
+    "sprachphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Saul Kripke war ein amerikanischer Logiker und Philosoph, der als einer der bedeutendsten analytischen Philosophen des 20. Jahrhunderts gilt. Mit seinen Vorlesungen 'Naming and Necessity' revolutionierte er die Sprachphilosophie und die Metaphysik. Bereits als Teenager leistete er bahnbrechende Beitraege zur modalen Logik.",
+    "biografie": {
+      "fruehesLeben": "Saul Kripke wurde 1940 in Bay Shore, New York, als Sohn eines Rabbiners geboren. Er war ein mathematisches Wunderkind und veroeffentlichte bereits als Teenager bedeutende Arbeiten zur modalen Logik. Mit 18 Jahren vollendete er ein Theorem der Vollstaendigkeit der modalen Logik, das sein Ruf in der Fachwelt begruendete.",
+      "schaffen": "Kripke lehrte an der Rockefeller University, der Princeton University und am CUNY Graduate Center. Seine drei Vorlesungen 'Naming and Necessity' (1970, veroeffentlicht 1980) gelten als einer der einflussreichsten philosophischen Texte des 20. Jahrhunderts. Darin entwickelte er die Theorie der starren Bezeichner und die kausale Referenztheorie.",
+      "spaetesLeben": "In seinen spaeteren Jahren beschaeftigte sich Kripke mit der Philosophie Wittgensteins und veroeffentlichte seine einflussreiche Interpretation des Regelfolgenproblems. Er arbeitete am Saul Kripke Center am CUNY Graduate Center und erhielt zahlreiche Auszeichnungen, darunter den Rolf Schock Prize fuer Logik und Philosophie.",
+      "tod": "Saul Kripke starb am 15. September 2022 in Plainsboro, New Jersey, im Alter von 81 Jahren. Er galt als einer der brillantesten Logiker und Philosophen seiner Generation. Sein Werk hat die analytische Philosophie grundlegend veraendert.",
+      "nachwirkung": "Kripkes Beitraege zur modalen Logik, zur Referenztheorie und zur Metaphysik der Notwendigkeit gehoeren zum Standardrepertoire der analytischen Philosophie. Seine Unterscheidung zwischen notwendigen und a priori Wahrheiten hat die Erkenntnistheorie und Metaphysik nachhaltig beeinflusst."
+    },
+    "kernideen": [
+      {
+        "titel": "Starre Bezeichner (Rigid Designators)",
+        "beschreibung": "Eigennamen bezeichnen dasselbe Objekt in allen moeglichen Welten – sie sind 'starre Bezeichner'. Der Name 'Aristoteles' bezieht sich in jeder denkbaren Situation auf denselben Menschen, unabhaengig davon, welche Eigenschaften er dort hat. Dies widerspricht der beschreibungstheoretischen Auffassung von Namen."
+      },
+      {
+        "titel": "Kausale Referenztheorie",
+        "beschreibung": "Die Referenz von Eigennamen wird nicht durch Beschreibungen bestimmt, sondern durch eine kausale Kette, die bis zur urspruenglichen Namensgebung zurueckreicht. Wir beziehen uns auf Aristoteles, weil wir den Namen von anderen gelernt haben, die ihn wiederum von anderen gelernt haben – bis hin zur urspruenglichen Taufe."
+      },
+      {
+        "titel": "Notwendige a-posteriori-Wahrheiten",
+        "beschreibung": "Kripke zeigte, dass es Wahrheiten gibt, die notwendig wahr, aber nur empirisch erkennbar sind. 'Wasser ist H₂O' ist notwendig wahr (in allen moeglichen Welten), aber die Erkenntnis dieser Wahrheit erfordert empirische Forschung. Dies widerlegt die traditionelle Gleichsetzung von notwendig und a priori."
+      },
+      {
+        "titel": "Kripke-Semantik fuer modale Logik",
+        "beschreibung": "Kripke entwickelte als Teenager eine formale Semantik fuer die modale Logik, die auf dem Konzept der moeglichen Welten basiert. Diese Semantik bildet bis heute die Grundlage fuer das Verstaendnis von Notwendigkeit und Moeglichkeit in der formalen Logik."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Name und Notwendigkeit (Naming and Necessity)",
+        "jahr": "1980",
+        "beschreibung": "Kripkes revolutionaeres Hauptwerk, das die Theorie der starren Bezeichner und die kausale Referenztheorie entwickelt und die Metaphysik der Notwendigkeit neu begruendet."
+      },
+      {
+        "titel": "Wittgenstein ueber Regeln und Privatsprache",
+        "jahr": "1982",
+        "beschreibung": "Kripkes einflussreiche Interpretation des Regelfolgenproblems bei Wittgenstein, die ein neues skeptisches Paradox formuliert: Woher wissen wir, dass wir einer Regel korrekt folgen?"
+      },
+      {
+        "titel": "Identitaet und Notwendigkeit (Identity and Necessity)",
+        "jahr": "1971",
+        "beschreibung": "Ein einflussreicher Aufsatz, der die These verteidigt, dass Identitaetsaussagen, wenn sie wahr sind, notwendig wahr sind."
+      }
+    ]
+  }
 }

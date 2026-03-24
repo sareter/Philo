@@ -19,5 +19,18 @@
     {"titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943"},
     {"titel": "Die Schrift und die Differenz", "autor": "Jacques Derrida", "jahr": "1967"},
     {"titel": "Das Unbehagen der Geschlechter", "autor": "Judith Butler", "jahr": "1990"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Antiessentialismus sagt: Nichts hat ein festes, unveraenderliches Wesen. Weder Menschen noch Dinge noch Kategorien wie 'Mann' oder 'Frau' haben eine angeborene Natur -- alles wird durch Kultur und Geschichte geformt.",
+    "ausfuehrlicheBeschreibung": "Frueher dachte man: Jedes Ding hat ein Wesen, eine Essenz. Ein Stuhl ist ein Stuhl, eine Frau ist eine Frau, ein Deutscher ist ein Deutscher. Antiessentialisten sagen: So einfach ist das nicht. Was wir fuer 'natuerlich' oder 'wesentlich' halten, ist meistens von Kultur, Geschichte und Sprache gepraegt.\n\nSartre drueckte das so aus: 'Die Existenz geht der Essenz voraus.' Das heisst: Du wirst nicht als fertiger Mensch mit einem vorgegebenen Wesen geboren. Du wirst zu dem, was du bist, durch deine Entscheidungen und dein Leben. Derrida ging noch weiter und zeigte, dass selbst die Bedeutung von Woertern nicht fest ist -- sie verschiebt sich staendig.\n\nDas hat grosse Auswirkungen, zum Beispiel in der Geschlechterforschung. Judith Butler argumentiert, dass sogar das, was wir als 'maennlich' oder 'weiblich' betrachten, kulturell konstruiert ist. Das befreit von starren Kategorien, wirft aber auch Fragen auf: Wenn nichts ein festes Wesen hat, worauf stuetzen wir dann unsere Rechte und Forderungen?",
+    "kernthesen": [
+      "Nichts hat ein festes, unveraenderliches Wesen -- alles wird durch Kultur und Geschichte geformt.",
+      "Der Mensch wird nicht als fertiges Wesen geboren, sondern erschafft sich durch seine Entscheidungen selbst.",
+      "Bedeutungen sind nicht fest, sondern verschieben sich staendig.",
+      "Wer behauptet, bestimmte Gruppen haetten eine feste 'Natur', betreibt oft Machtpolitik.",
+      "Identitaeten sind Prozesse, keine festen Tatsachen."
+    ],
+    "entstehung": "Der Antiessentialismus entstand aus verschiedenen Quellen: Sartres Existenzialismus in den 1940ern, Wittgensteins Spaetphilosophie und Derridas Dekonstruktion in den 1960ern. Nietzsche gilt als wichtiger Vorlaeufer mit seiner Kritik an ewigen Wahrheiten.",
+    "kritik": "Kritiker sagen: Wer behauptet, nichts habe ein Wesen, macht damit selbst eine grundlegende Aussage ueber die Natur der Dinge. Ausserdem: Wenn es keine festen Kategorien wie 'Frau' gibt, wie soll man dann fuer Frauenrechte kaempfen?"
+  }
 }

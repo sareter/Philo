@@ -14,10 +14,38 @@
   "hauptvertreter": [],
   "entstehung": "Der Konzeptualismus entwickelte sich im 12. Jahrhundert im Kontext des mittelalterlichen Universalienstreits. Peter Abaelard formulierte als Erster eine systematische konzeptualistische Position als Alternative zum Realismus seines Lehrers Wilhelm von Champeaux und zum Nominalismus Roscelins.",
   "kritik": "Kritiker werfen dem Konzeptualismus vor, dass er die Frage nach dem ontologischen Status der Universalien nicht wirklich beantwortet, sondern nur in die Psychologie verlagert. Zudem bleibt unklar, wie der Verstand objektive Ähnlichkeiten erkennen kann, ohne bereits über allgemeine Begriffe zu verfügen.",
-  "verwandteIsmen": ["nominalismus", "realismus"],
+  "verwandteIsmen": [
+    "nominalismus",
+    "realismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Logica Ingredientibus", "autor": "Peter Abaelard", "jahr": "1118"},
-    {"titel": "Sic et Non", "autor": "Peter Abaelard", "jahr": "1122"},
-    {"titel": "Versuch über den menschlichen Verstand", "autor": "John Locke", "jahr": "1690"}
-  ]
+    {
+      "titel": "Logica Ingredientibus",
+      "autor": "Peter Abaelard",
+      "jahr": "1118"
+    },
+    {
+      "titel": "Sic et Non",
+      "autor": "Peter Abaelard",
+      "jahr": "1122"
+    },
+    {
+      "titel": "Versuch über den menschlichen Verstand",
+      "autor": "John Locke",
+      "jahr": "1690"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Konzeptualismus vertritt die Position, dass Universalien weder unabhaengig von der Erkenntnis existieren noch blosse Namen sind, sondern als Begriffe im Verstand eine vermittelnde Rolle zwischen Einzeldingen und allgemeinen Bestimmungen einnehmen.",
+    "ausfuehrlicheBeschreibung": "Der Konzeptualismus entstand im Mittelalter als Mittelposition im Universalienstreit zwischen Realismus und Nominalismus. Peter Abaelard entwickelte eine differenzierte Theorie, wonach Universalien weder als eigenstaendige Entitaeten existieren (wie der Realismus behauptet) noch blosse Woerter ohne Bedeutung sind (wie der extreme Nominalismus meint). Stattdessen sind Universalien Begriffe (conceptus), die der Verstand aus der Betrachtung aehnlicher Einzeldinge abstrahiert.\n\nFuer den Konzeptualismus sind Begriffe geistige Gebilde, die eine reale Grundlage in den Dingen haben, aber als Allgemeinbegriffe nur im Verstand existieren. Die Aehnlichkeit zwischen Einzeldingen ist real, doch die Zusammenfassung zu allgemeinen Kategorien ist eine Leistung des erkennenden Subjekts. Diese Position vermeidet sowohl die ontologische Ueberlastung des Realismus als auch den semantischen Nihilismus des Nominalismus.\n\nDer Konzeptualismus hat die weitere Entwicklung der Erkenntnistheorie massgeblich beeinflusst. In der Neuzeit findet sich konzeptualistische Zuege bei Locke und Kant, die ebenfalls die aktive Rolle des Verstandes bei der Begriffsbildung betonen. In der modernen analytischen Philosophie lebt die Debatte um den Status von Universalien in veraenderter Form fort.",
+    "kernthesen": [
+      "Universalien existieren als Begriffe im Verstand, nicht als eigenstaendige Entitaeten.",
+      "Allgemeinbegriffe werden durch Abstraktion aus der Erfahrung aehnlicher Einzeldinge gewonnen.",
+      "Die Aehnlichkeit zwischen Einzeldingen ist real, ihre begriffliche Zusammenfassung eine Verstandesleistung.",
+      "Weder der extreme Realismus noch der extreme Nominalismus erfassen das Wesen der Universalien.",
+      "Der Verstand spielt eine aktive, konstitutive Rolle bei der Begriffsbildung."
+    ],
+    "entstehung": "Der Konzeptualismus entwickelte sich im 12. Jahrhundert im Kontext des mittelalterlichen Universalienstreits. Peter Abaelard formulierte als Erster eine systematische konzeptualistische Position als Alternative zum Realismus seines Lehrers Wilhelm von Champeaux und zum Nominalismus Roscelins.",
+    "kritik": "Kritiker werfen dem Konzeptualismus vor, dass er die Frage nach dem ontologischen Status der Universalien nicht wirklich beantwortet, sondern nur in die Psychologie verlagert. Zudem bleibt unklar, wie der Verstand objektive Aehnlichkeiten erkennen kann, ohne bereits ueber allgemeine Begriffe zu verfuegen."
+  }
 }

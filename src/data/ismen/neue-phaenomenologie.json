@@ -11,13 +11,44 @@
     "Leibliches Spüren liefert Erkenntnisse, die dem begrifflichen Denken vorausgehen.",
     "Die philosophische Tradition hat das leibliche Erleben systematisch zugunsten des Geistigen vernachlässigt."
   ],
-  "hauptvertreter": ["edmund-husserl"],
+  "hauptvertreter": [
+    "edmund-husserl"
+  ],
   "entstehung": "Die Neue Phänomenologie wurde ab den 1960er Jahren von Hermann Schmitz in seinem zehnbändigen 'System der Philosophie' (1964–1980) entwickelt. Sie entstand als Kritik sowohl der analytischen Philosophie als auch der existenzialen Phänomenologie und betonte die Bedeutung des vorprädikativen leiblichen Erlebens.",
   "kritik": "Kritiker werfen der Neuen Phänomenologie vor, den Begriff der Atmosphäre zu unscharf zu fassen und damit wissenschaftliche Überprüfbarkeit zu erschweren. Zudem wird bemängelt, dass die Betonung des Leiblichen die Rolle des kritischen Denkens und der rationalen Analyse zu sehr in den Hintergrund dränge.",
-  "verwandteIsmen": ["phaenomenologie", "existenzialismus", "hermeneutik"],
+  "verwandteIsmen": [
+    "phaenomenologie",
+    "existenzialismus",
+    "hermeneutik"
+  ],
   "schluesselwerke": [
-    {"titel": "System der Philosophie", "autor": "Hermann Schmitz", "jahr": "1964"},
-    {"titel": "Der Leib", "autor": "Hermann Schmitz", "jahr": "1965"},
-    {"titel": "Atmosphäre", "autor": "Gernot Böhme", "jahr": "1995"}
-  ]
+    {
+      "titel": "System der Philosophie",
+      "autor": "Hermann Schmitz",
+      "jahr": "1964"
+    },
+    {
+      "titel": "Der Leib",
+      "autor": "Hermann Schmitz",
+      "jahr": "1965"
+    },
+    {
+      "titel": "Atmosphäre",
+      "autor": "Gernot Böhme",
+      "jahr": "1995"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Neue Phaenomenologie erneuert Husserls phaenomenologisches Programm und wendet sich dem leiblichen Spueren, den Atmosphaeren und der Situationsanalyse als Grundlagen philosophischer Erkenntnis zu.",
+    "ausfuehrlicheBeschreibung": "Die Neue Phaenomenologie wurde ab den 1960er Jahren von Hermann Schmitz als eigenstaendige philosophische Richtung entwickelt. Sie kritisiert sowohl die klassische Phaenomenologie Husserls als auch die existenziale Phaenomenologie Heideggers fuer ihre Vernachlaessigung des leiblichen Erlebens. Schmitz unterscheidet grundlegend zwischen dem Koerper als objektivem, messbarem Gegenstand und dem Leib als Sphaere des subjektiven Spuerens – eine Unterscheidung, die ueber Husserls Analysen hinausgeht und neue philosophische Perspektiven eroeffnet.\n\nZentrale Konzepte der Neuen Phaenomenologie sind der 'spuerbare Leib', die 'Atmosphaeren' – raeumlich ergossene Gefuehle, die den Menschen ergreifen – und die 'Situation' als Grundkategorie menschlicher Erfahrung. Gefuehle werden nicht als innere Zustaende eines Subjekts verstanden, sondern als ueberpersoenliche Atmosphaeren, die den Leibraum durchdringen. Die Scham etwa ist keine bloss innere Emotion, sondern eine leibliche Erfahrung der Enge, die den ganzen Menschen erfasst.\n\nDie Neue Phaenomenologie hat in den letzten Jahren zunehmend interdisziplinaere Aufmerksamkeit gefunden, insbesondere in der Architekturtheorie, der Musikphilosophie und der Medizinethik. Gernot Boehmes Aesthetik der Atmosphaeren hat die Architektur- und Designtheorie beeinflusst. Die Rueckbesinnung auf das leibliche Erleben bietet Alternativen zum Kognitivismus und eroeffnet neue Zugaenge zu Emotion, Raumerfahrung und Krankheitserleben.",
+    "kernthesen": [
+      "Der spuerbare Leib ist die Grundlage aller Erfahrung und darf nicht auf den objektiven Koerper reduziert werden.",
+      "Gefuehle sind ueberpersoenliche Atmosphaeren, die den Leibraum durchdringen und den Menschen ergreifen.",
+      "Die Situation – nicht das isolierte Bewusstsein – ist die Grundkategorie menschlicher Erfahrung.",
+      "Leibliches Spueren liefert Erkenntnisse, die dem begrifflichen Denken vorausgehen.",
+      "Die philosophische Tradition hat das leibliche Erleben systematisch zugunsten des Geistigen vernachlaessigt."
+    ],
+    "entstehung": "Die Neue Phaenomenologie wurde ab den 1960er Jahren von Hermann Schmitz in seinem zehnbaendigen 'System der Philosophie' (1964–1980) entwickelt. Sie entstand als Kritik sowohl der analytischen Philosophie als auch der existenzialen Phaenomenologie und betonte die Bedeutung des vorpraedikativen leiblichen Erlebens.",
+    "kritik": "Kritiker werfen der Neuen Phaenomenologie vor, den Begriff der Atmosphaere zu unscharf zu fassen und damit wissenschaftliche Ueberpruefbarkeit zu erschweren. Zudem wird bemaengelt, dass die Betonung des Leiblichen die Rolle des kritischen Denkens und der rationalen Analyse zu sehr in den Hintergrund draenge."
+  }
 }

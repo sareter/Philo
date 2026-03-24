@@ -18,7 +18,11 @@
   },
   "epoche": "Mittelalter",
   "region": "Schottland / England / Frankreich / Deutschland",
-  "hauptstroemungen": ["Scholastik", "Scotismus", "Voluntarismus"],
+  "hauptstroemungen": [
+    "Scholastik",
+    "Scotismus",
+    "Voluntarismus"
+  ],
   "kurzbeschreibung": "Johannes Duns Scotus, der 'Doctor subtilis', war einer der scharfsinnigsten Denker des Mittelalters. Er betonte den Vorrang des Willens vor dem Intellekt, die Univozität des Seinsbegriffs und die Individualität jedes Seienden durch die 'Haecceitas'.",
   "biografie": {
     "fruehesLeben": "Johannes Duns Scotus wurde 1266 in Duns in Schottland geboren. Sein Onkel Elias Duns war Guardian des Franziskanerklosters in Dumfries. Scotus trat um 1280 in den Franziskanerorden ein und wurde 1291 zum Priester geweiht. Er studierte Theologie in Oxford und Paris, den beiden führenden Universitäten des Mittelalters.",
@@ -84,6 +88,67 @@
       "kontext": "Die Lehre von der Haecceitas als positivem Individuationsprinzip."
     }
   ],
-  "verwandtePhilosophen": ["thomas-von-aquin", "wilhelm-von-ockham", "anselm-von-canterbury", "aristoteles", "albertus-magnus"],
-  "verwandteIsmen": ["scotismus", "scholastik", "voluntarismus", "realismus"]
+  "verwandtePhilosophen": [
+    "thomas-von-aquin",
+    "wilhelm-von-ockham",
+    "anselm-von-canterbury",
+    "aristoteles",
+    "albertus-magnus"
+  ],
+  "verwandteIsmen": [
+    "scotismus",
+    "scholastik",
+    "voluntarismus",
+    "realismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Johannes Duns Scotus, der 'Doctor subtilis', war einer der scharfsinnigsten Denker des Mittelalters. Er betonte den Vorrang des Willens vor dem Intellekt, die Univozitaet des Seinsbegriffs und die Individualitaet jedes Seienden durch die 'Haecceitas'.",
+    "biografie": {
+      "fruehesLeben": "Johannes Duns Scotus wurde 1266 in Duns in Schottland geboren. Sein Onkel Elias Duns war Guardian des Franziskanerklosters in Dumfries. Scotus trat um 1280 in den Franziskanerorden ein und wurde 1291 zum Priester geweiht. Er studierte Theologie in Oxford und Paris, den beiden fuehrenden Universitaeten des Mittelalters.",
+      "schaffen": "Scotus lehrte in Oxford und Paris und entwickelte ein philosophisches System, das in bewusster Auseinandersetzung mit Thomas von Aquin und Heinrich von Gent stand. Sein Hauptwerk ist die 'Ordinatio' (auch Opus Oxoniense genannt), ein monumentaler Kommentar zu den Sentenzen des Petrus Lombardus. In der Metaphysik vertrat er gegen Thomas die Univozitaet des Seinsbegriffs: Das Wort 'Sein' wird in ein und derselben Bedeutung (univok) von Gott und den Geschoepfen ausgesagt – sonst waere jede rationale Gotteserkenntnis unmoeglich. Sein beruehmtestes Konzept ist die Haecceitas ('Diesheit'): Das Individuationsprinzip, das ein Ding zu genau diesem bestimmten Einzelding macht.",
+      "spaetesLeben": "1303 wurde Scotus aus Paris verbannt, weil er sich weigerte, Koenig Philipps IV. Position im Streit mit Papst Bonifaz VIII. zu unterstuetzen. Er kehrte 1304 zurueck und wurde 1305 zum Magister der Theologie promoviert. 1307 wurde er nach Koeln versetzt, wo er am dortigen Studium Generale lehrte.",
+      "tod": "Duns Scotus starb am 8. November 1308 in Koeln unter ungeklaerten Umstaenden – moeglicherweise an einem Schlaganfall. Er war nur 42 Jahre alt. Eine Legende besagt, er sei lebendig begraben worden und habe sich im Sarg die Haende blutig gekratzt. Er wurde in der Koelner Minoritenkirche begraben. 1993 wurde er von Papst Johannes Paul II. seliggesprochen.",
+      "nachwirkung": "Scotus' Philosophie begruendete die eigene Denkschule des Scotismus, die an den Franziskanerschulen bis in die Neuzeit gelehrt wurde. Sein Univozitaetsbegriff beeinflusste die Entwicklung der modernen Metaphysik. Seine Haecceitas inspirierte den Dichter Gerard Manley Hopkins. Der Voluntarismus beeinflusste die Reformation (Luther studierte Scotus) und die Entwicklung des Nominalismus. Martin Heidegger beschaeftigte sich in seiner Habilitationsschrift mit der scotistischen Kategorienlehre."
+    },
+    "kernideen": [
+      {
+        "titel": "Univozitaet des Seins",
+        "beschreibung": "Das Wort 'Sein' wird in ein und derselben Bedeutung (univok) von Gott und den Geschoepfen ausgesagt. Ohne diese Univozitaet waere jede rationale Rede ueber Gott unmoeglich."
+      },
+      {
+        "titel": "Haecceitas (Diesheit)",
+        "beschreibung": "Jedes Einzelding hat eine eigene positive Bestimmung – die Haecceitas –, die es zu genau diesem individuellen Ding macht. Individualitaet ist keine blosse Negation, sondern eine eigene Realitaet."
+      },
+      {
+        "titel": "Voluntarismus",
+        "beschreibung": "Der Wille hat Vorrang vor dem Intellekt. Gott handelt aus freiem Willen, nicht aus intellektueller Notwendigkeit. Das moralische Gesetz beruht auf Gottes freiem Willensentscheid."
+      },
+      {
+        "titel": "Formale Distinktion",
+        "beschreibung": "Zwischen der realen Distinktion (zwei verschiedene Dinge) und der bloss begrifflichen Distinktion gibt es eine mittlere: die formale Distinktion. Sie besteht zwischen Aspekten eines Dinges, die real verschieden, aber nicht trennbar sind."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Ordinatio (Opus Oxoniense)",
+        "jahr": "1300–1308",
+        "beschreibung": "Monumentaler Kommentar zu den Sentenzen des Petrus Lombardus, von Scotus selbst ueberarbeitet. Sein philosophisch-theologisches Hauptwerk."
+      },
+      {
+        "titel": "Lectura",
+        "jahr": "ca. 1298–1300",
+        "beschreibung": "Fruehere Version der Sentenzenvorlesung in Oxford. Weniger ausgearbeitet als die Ordinatio, aber wichtig fuer die Entwicklung seines Denkens."
+      },
+      {
+        "titel": "Quaestiones quodlibetales",
+        "jahr": "1306–1307",
+        "beschreibung": "21 Quodlibet-Fragen aus Scotus' Pariser Lehrzeit. Behandeln ein breites Spektrum philosophischer und theologischer Themen."
+      },
+      {
+        "titel": "Quaestiones super libros Metaphysicorum Aristotelis",
+        "jahr": "ca. 1298",
+        "beschreibung": "Kommentar zur Metaphysik des Aristoteles. Enthaelt die Entwicklung der Lehre von der Univozitaet des Seins."
+      }
+    ]
+  }
 }

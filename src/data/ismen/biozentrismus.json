@@ -11,13 +11,43 @@
     "Jedes Lebewesen hat ein eigenes Wohl, das moralische Berücksichtigung verdient.",
     "Der Mensch hat keine moralische Sonderstellung in der Natur."
   ],
-  "hauptvertreter": ["peter-singer"],
+  "hauptvertreter": [
+    "peter-singer"
+  ],
   "entstehung": "Der Biozentrismus entwickelte sich in den 1970er und 1980er Jahren aus der Umweltethik und der Tierethik. Albert Schweitzers „Ehrfurcht vor dem Leben“ (1923), Peter Singers „Animal Liberation“ (1975) und Paul Taylors „Respect for Nature“ (1986) bilden die wichtigsten Grundlagentexte.",
   "kritik": "Kritiker werfen dem Biozentrismus vor, dass er keine praktikablen Handlungsanweisungen bietet, da jede menschliche Existenz unvermeidlich andere Lebewesen beeinträchtigt. Zudem wird bemängelt, dass die Gleichwertigkeit aller Lebewesen in Konfliktfällen zu unlösbaren moralischen Dilemmata führt.",
-  "verwandteIsmen": ["umweltethik", "tierethik"],
+  "verwandteIsmen": [
+    "umweltethik",
+    "tierethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Animal Liberation", "autor": "Peter Singer", "jahr": "1975"},
-    {"titel": "Respect for Nature", "autor": "Paul Taylor", "jahr": "1986"},
-    {"titel": "Kulturphilosophie – Ehrfurcht vor dem Leben", "autor": "Albert Schweitzer", "jahr": "1923"}
-  ]
+    {
+      "titel": "Animal Liberation",
+      "autor": "Peter Singer",
+      "jahr": "1975"
+    },
+    {
+      "titel": "Respect for Nature",
+      "autor": "Paul Taylor",
+      "jahr": "1986"
+    },
+    {
+      "titel": "Kulturphilosophie – Ehrfurcht vor dem Leben",
+      "autor": "Albert Schweitzer",
+      "jahr": "1923"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Biozentrismus vertritt die Auffassung, dass alle Lebewesen einen inhaerenten Eigenwert besitzen und moralische Beruecksichtigung verdienen, unabhaengig von ihrem Nutzen fuer den Menschen.",
+    "ausfuehrlicheBeschreibung": "Der Biozentrismus entstand in der zweiten Haelfte des 20. Jahrhunderts als Alternative zum anthropozentrischen Weltbild, das den Menschen als alleinigen Traeger moralischen Wertes betrachtet. Paul Taylor formulierte in „Respect for Nature“ (1986) eine systematische biozentrische Ethik, die jedem lebenden Organismus einen inhaerenten Wert zuschreibt. Jedes Lebewesen verfolgt sein eigenes Wohl und hat ein „Gut“, das moralische Beruecksichtigung verdient.\n\nPeter Singer trug mit seiner Kritik am Speziesismus wesentlich zur Verbreitung biozentrischer Ideen bei. Die Zugehoerigkeit zur menschlichen Spezies allein begruendet keinen moralischen Sonderstatus – vielmehr ist die Faehigkeit zu leiden das entscheidende Kriterium moralischer Beruecksichtigung. Albert Schweitzers Ethik der „Ehrfurcht vor dem Leben“ gilt als wichtiger Vorlaeufer des Biozentrismus und erweitert die moralische Gemeinschaft auf alles Lebendige.\n\nDer Biozentrismus hat bedeutende Konsequenzen fuer Umweltethik, Tierschutz und Naturschutzpolitik. Er fordert eine grundlegende Revision des menschlichen Verhaeltnisses zur Natur und stellt die industrielle Landwirtschaft, Tierversuche und die Zerstoerung natuerlicher Lebensraeume infrage. In der Gegenwart wird der biozentrische Ansatz in Debatten ueber Biodiversitaet, Artenschutz und die Rechte der Natur weiterentwickelt.",
+    "kernthesen": [
+      "Alle Lebewesen besitzen einen inhaerenten Eigenwert, unabhaengig von ihrem Nutzen fuer den Menschen.",
+      "Die moralische Gemeinschaft umfasst alle Lebewesen, nicht nur den Menschen.",
+      "Speziesismus – die Bevorzugung der eigenen Art – ist moralisch ebenso ungerechtfertigt wie Rassismus.",
+      "Jedes Lebewesen hat ein eigenes Wohl, das moralische Beruecksichtigung verdient.",
+      "Der Mensch hat keine moralische Sonderstellung in der Natur."
+    ],
+    "entstehung": "Der Biozentrismus entwickelte sich in den 1970er und 1980er Jahren aus der Umweltethik und der Tierethik. Albert Schweitzers „Ehrfurcht vor dem Leben“ (1923), Peter Singers „Animal Liberation“ (1975) und Paul Taylors „Respect for Nature“ (1986) bilden die wichtigsten Grundlagentexte.",
+    "kritik": "Kritiker werfen dem Biozentrismus vor, dass er keine praktikablen Handlungsanweisungen bietet, da jede menschliche Existenz unvermeidlich andere Lebewesen beeintraechtigt. Zudem wird bemaengelt, dass die Gleichwertigkeit aller Lebewesen in Konfliktfaellen zu unloesbaren moralischen Dilemmata fuehrt."
+  }
 }

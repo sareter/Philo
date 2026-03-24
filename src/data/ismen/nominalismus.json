@@ -11,13 +11,44 @@
     "Die Annahme realer Universalien ist eine überflüssige metaphysische Spekulation.",
     "Erkenntnis beginnt mit der Wahrnehmung konkreter Einzeldinge, nicht mit der Intuition allgemeiner Wesenheiten."
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Der Nominalismus entstand im Mittelalter als Gegenposition zum Universalienrealismus. Roscelin von Compiègne formulierte im 11. Jahrhundert die erste nominalistische Position. Peter Abaelard entwickelte im 12. Jahrhundert den Konzeptualismus als moderate Variante. Wilhelm von Ockham brachte den Nominalismus im 14. Jahrhundert zu seiner ausgereiftesten Form. Der Universalienstreit prägte die gesamte scholastische Philosophie und hatte Auswirkungen auf Theologie, Wissenschaft und Politik.",
   "kritik": "Realisten argumentieren, dass der Nominalismus die Möglichkeit allgemeiner Erkenntnis und Wissenschaft untergräbt. Wenn es keine realen Universalien gibt, wie können dann wissenschaftliche Gesetze gelten, die sich auf Klassen von Dingen beziehen? Das Ähnlichkeitsproblem besagt, dass die Erklärung der Ähnlichkeit zwischen Dingen ohne Universalien zirkulär wird: Ähnlichkeit ist selbst ein Universale. In der Philosophie der Mathematik stellt der Nominalismus vor die Schwierigkeit, mathematische Objekte (Zahlen, Mengen) zu erklären, die keine konkreten Einzeldinge sind. Platonisten argumentieren, dass die Erfolge der Mathematik in der Naturwissenschaft für die reale Existenz mathematischer Objekte sprechen.",
-  "verwandteIsmen": ["empirismus", "realismus", "materialismus"],
+  "verwandteIsmen": [
+    "empirismus",
+    "realismus",
+    "materialismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Summa Logicae", "autor": "Wilhelm von Ockham", "jahr": "ca. 1323" },
-    { "titel": "Logica Ingredientibus", "autor": "Peter Abaelard", "jahr": "ca. 1120" },
-    { "titel": "The Structure of Appearance", "autor": "Nelson Goodman", "jahr": "1951" }
-  ]
+    {
+      "titel": "Summa Logicae",
+      "autor": "Wilhelm von Ockham",
+      "jahr": "ca. 1323"
+    },
+    {
+      "titel": "Logica Ingredientibus",
+      "autor": "Peter Abaelard",
+      "jahr": "ca. 1120"
+    },
+    {
+      "titel": "The Structure of Appearance",
+      "autor": "Nelson Goodman",
+      "jahr": "1951"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Nominalismus ist die philosophische Position, dass Universalien  keine eigenstaendige Realitaet besitzen, sondern nur Namen  oder sprachliche Konventionen sind.",
+    "ausfuehrlicheBeschreibung": "Der Nominalismus ist eine der grundlegenden Positionen im mittelalterlichen Universalienstreit, der zu den wichtigsten philosophischen Debatten des Mittelalters gehoert. Die Kernfrage lautet: Haben Allgemeinbegriffe (Universalien) wie Mensch, Roete oder Gerechtigkeit eine eigene Realitaet, oder sind sie nur sprachliche Bezeichnungen fuer Gemeinsamkeiten zwischen konkreten Einzeldingen?\n\nDer Nominalismus antwortet entschieden: Nur konkrete Einzeldinge existieren wirklich. Universalien sind nomina – Namen, Woerter, sprachliche Zeichen –, die auf Gruppen aehnlicher Einzeldinge angewendet werden, aber keine eigene Existenz besitzen. Wenn wir von dem Menschen sprechen, existiert kein allgemeines Wesen Mensch; es gibt nur einzelne Menschen wie Sokrates, Platon und Aristoteles.\n\nDie Debatte ueber Universalien wurde durch die Isagoge des Porphyrios angestossen, der die Frage aufwarf, ob Gattungen und Arten wirklich existieren oder nur im Verstand sind. Boethius formulierte die drei Positionen: Universalien existieren unabhaengig von den Dingen (Platonischer Realismus), in den Dingen (Aristotelischer Realismus) oder nur als Begriffe im Verstand (Nominalismus).",
+    "kernthesen": [
+      "Nur konkrete Einzeldinge existieren wirklich; Universalien haben keine eigenstaendige Realitaet.",
+      "Allgemeinbegriffe sind Namen (nomina) oder Zeichen, die auf aehnliche Einzeldinge angewendet werden.",
+      "Entitaeten sollen nicht ohne Notwendigkeit vermehrt werden (Ockhams Rasiermesser).",
+      "Die Annahme realer Universalien ist eine ueberfluessige metaphysische Spekulation.",
+      "Erkenntnis beginnt mit der Wahrnehmung konkreter Einzeldinge, nicht mit der Intuition allgemeiner Wesenheiten."
+    ],
+    "entstehung": "Der Nominalismus entstand im Mittelalter als Gegenposition zum Universalienrealismus. Roscelin von Compiègne formulierte im 11. Jahrhundert die erste nominalistische Position. Peter Abaelard entwickelte im 12. Jahrhundert den Konzeptualismus als moderate Variante. Wilhelm von Ockham brachte den Nominalismus im 14. Jahrhundert zu seiner ausgereiftesten Form. Der Universalienstreit praegte die gesamte scholastische Philosophie und hatte Auswirkungen auf Theologie, Wissenschaft und Politik.",
+    "kritik": "Realisten argumentieren, dass der Nominalismus die Moeglichkeit allgemeiner Erkenntnis und Wissenschaft untergraebt. Wenn es keine realen Universalien gibt, wie koennen dann wissenschaftliche Gesetze gelten, die sich auf Klassen von Dingen beziehen? Das Aehnlichkeitsproblem besagt, dass die Erklaerung der Aehnlichkeit zwischen Dingen ohne Universalien zirkulaer wird: Aehnlichkeit ist selbst ein Universale."
+  }
 }

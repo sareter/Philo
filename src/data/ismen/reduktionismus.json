@@ -11,13 +11,43 @@
     "Es gibt eine fundamentale Ebene der Wirklichkeit, auf die alles andere reduzierbar ist.",
     "Scheinbar irreduzible Eigenschaften komplexer Systeme sind in Wahrheit durch ihre Teile bestimmt."
   ],
-  "hauptvertreter": ["bertrand-russell"],
+  "hauptvertreter": [
+    "bertrand-russell"
+  ],
   "entstehung": "Der moderne philosophische Reduktionismus wurde Anfang des 20. Jahrhunderts durch Russells logischen Atomismus und den Wiener Kreis geprägt. Russell entwickelte ein Programm der logischen Analyse, das alle sinnvollen Aussagen auf atomare Tatsachen zurückführen sollte. Der wissenschaftliche Reduktionismus hat ältere Wurzeln im Atomismus Demokrits.",
   "kritik": "Dem Reduktionismus wird vorgeworfen, dass er die Eigenständigkeit höherer Organisationsebenen verkennt und emergente Phänomene wie Bewusstsein oder soziale Strukturen nicht angemessen erfassen kann. Zudem hat sich das Programm der vollständigen Reduktion selbst in der Physik als nicht durchführbar erwiesen.",
-  "verwandteIsmen": ["atomismus", "materialismus"],
+  "verwandteIsmen": [
+    "atomismus",
+    "materialismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die Philosophie des Logischen Atomismus", "autor": "Bertrand Russell", "jahr": "1918"},
-    {"titel": "Our Knowledge of the External World", "autor": "Bertrand Russell", "jahr": "1914"},
-    {"titel": "The Unity of Science", "autor": "Rudolf Carnap", "jahr": "1934"}
-  ]
+    {
+      "titel": "Die Philosophie des Logischen Atomismus",
+      "autor": "Bertrand Russell",
+      "jahr": "1918"
+    },
+    {
+      "titel": "Our Knowledge of the External World",
+      "autor": "Bertrand Russell",
+      "jahr": "1914"
+    },
+    {
+      "titel": "The Unity of Science",
+      "autor": "Rudolf Carnap",
+      "jahr": "1934"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Reduktionismus ist die philosophische und wissenschaftliche Position, dass komplexe Phaenomene vollstaendig durch die Analyse und Erklaerung ihrer einfacheren Bestandteile verstanden werden koennen.",
+    "ausfuehrlicheBeschreibung": "Der Reduktionismus geht davon aus, dass die Wirklichkeit aus grundlegenden Bausteinen besteht und alle komplexen Phaenomene letztlich auf diese einfacheren Elemente zurueckgefuehrt werden koennen. In der Wissenschaft bedeutet dies, dass biologische Prozesse auf chemische, chemische auf physikalische Gesetze reduzierbar sind. Bertrand Russell und die logischen Positivisten vertraten eine Form des Reduktionismus, indem sie alle sinnvollen Aussagen auf empirisch ueberpruefbare Elementarsaetze zurueckzufuehren suchten.\n\nRussells logischer Atomismus stellt eine der einflussreichsten reduktionistischen Positionen dar. Er versuchte zu zeigen, dass alle komplexen Sachverhalte aus atomaren Tatsachen bestehen und alle komplexen Propositionen in logisch einfachere Aussagen zerlegbar sind. Dieses Programm der logischen Analyse sollte die Philosophie auf ein sicheres Fundament stellen und metaphysische Scheinprobleme aufloesen.\n\nDer Reduktionismus hat die Wissenschaftsgeschichte gepraegt und zu enormen Erkenntnisfortschritten gefuehrt, insbesondere in der Physik, Chemie und Molekularbiologie. Gleichzeitig stoesst er an Grenzen, wenn es um emergente Phaenomene wie Bewusstsein, soziale Institutionen oder oekologische Systeme geht. Die Debatte zwischen Reduktionismus und Holismus bleibt eine der zentralen Auseinandersetzungen der gegenwaertigen Wissenschaftsphilosophie.",
+    "kernthesen": [
+      "Komplexe Phaenomene lassen sich vollstaendig durch ihre einfacheren Bestandteile erklaeren.",
+      "Hoehere Wissenschaften koennen prinzipiell auf grundlegendere Wissenschaften zurueckgefuehrt werden.",
+      "Die logische Analyse kann alle komplexen Aussagen in elementare Bestandteile zerlegen.",
+      "Es gibt eine fundamentale Ebene der Wirklichkeit, auf die alles andere reduzierbar ist.",
+      "Scheinbar irreduzible Eigenschaften komplexer Systeme sind in Wahrheit durch ihre Teile bestimmt."
+    ],
+    "entstehung": "Der moderne philosophische Reduktionismus wurde Anfang des 20. Jahrhunderts durch Russells logischen Atomismus und den Wiener Kreis gepraegt. Russell entwickelte ein Programm der logischen Analyse, das alle sinnvollen Aussagen auf atomare Tatsachen zurueckfuehren sollte. Der wissenschaftliche Reduktionismus hat aeltere Wurzeln im Atomismus Demokrits.",
+    "kritik": "Dem Reduktionismus wird vorgeworfen, dass er die Eigenstaendigkeit hoeherer Organisationsebenen verkennt und emergente Phaenomene wie Bewusstsein oder soziale Strukturen nicht angemessen erfassen kann. Zudem hat sich das Programm der vollstaendigen Reduktion selbst in der Physik als nicht durchfuehrbar erwiesen."
+  }
 }

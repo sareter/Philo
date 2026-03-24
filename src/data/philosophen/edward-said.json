@@ -81,5 +81,51 @@
     }
   ],
   "verwandtePhilosophen": ["frantz-fanon", "michel-foucault", "antonio-gramsci"],
-  "verwandteIsmen": ["postkolonialismus"]
+  "verwandteIsmen": ["postkolonialismus"],
+  "einfach": {
+    "kurzbeschreibung": "Edward Said hat gezeigt, dass der Westen sich den 'Orient' als exotisches Gegenbild erfunden hat, um sich selbst als ueberlegen darzustellen. Er setzte sich fuer die Rechte der Palaestinenser und den Dialog zwischen Kulturen ein.",
+    "biografie": {
+      "fruehesLeben": "Edward Said wurde 1935 in Jerusalem geboren und wuchs in einer wohlhabenden palaestinensischen Familie auf. Nach dem Krieg 1948 musste die Familie nach Kairo fliehen. Spaeter studierte er in den USA an Eliteunis wie Princeton und Harvard.",
+      "schaffen": "Ab 1963 war er Professor in New York. Sein beruehmtestes Buch 'Orientalismus' erklaerte, wie der Westen den Orient als rueckstaendig darstellte, um Kolonialismus zu rechtfertigen. Er war auch Musikkritiker und gruendete mit Daniel Barenboim ein gemeinsames Orchester fuer Israelis und Araber.",
+      "spaetesLeben": "Said kaempfte oeffentlich fuer die Rechte der Palaestinenser, scheute sich aber nicht, auch die eigene Seite zu kritisieren. 1991 wurde bei ihm Leukaemie festgestellt, gegen die er ueber zehn Jahre kaempfte.",
+      "tod": "Er starb 2003 in New York an Leukaemie. Sein Werk hat die Geisteswissenschaften grundlegend veraendert.",
+      "nachwirkung": "Sein Buch 'Orientalismus' gehoert zu den meistzitierten Werken des 20. Jahrhunderts. Es hat uns beigebracht, kritischer hinzuschauen, wenn eine Kultur ueber eine andere spricht. Das West-Eastern Divan Orchestra fuehrt sein Vermaechtnis fort."
+    },
+    "kernideen": [
+      {
+        "titel": "Orientalismus als Diskurs",
+        "beschreibung": "Der 'Orient' ist keine echte Region, sondern ein Bild, das der Westen erfunden hat. Damit sollte man sich selbst als ueberlegen darstellen und die Kolonisierung anderer Voelker rechtfertigen."
+      },
+      {
+        "titel": "Kultur und Imperialismus",
+        "beschreibung": "Auch europaeische Literatur und Kunst sind nicht neutral, sondern haben Kolonialismus oft stillschweigend unterstuetzt. Kultur und Macht haengen immer zusammen."
+      },
+      {
+        "titel": "Der Intellektuelle als Exilant",
+        "beschreibung": "Wer sich nirgendwo ganz zu Hause fuehlt, kann die Welt klarer sehen. Das Exil schaerft den Blick fuer Ungerechtigkeit."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Orientalismus (Orientalism)",
+        "jahr": "1978",
+        "beschreibung": "Das Buch, das erklaert, wie der Westen sich den 'Orient' als Gegenbild erschaffen hat, um Macht auszuueben."
+      },
+      {
+        "titel": "Kultur und Imperialismus (Culture and Imperialism)",
+        "jahr": "1993",
+        "beschreibung": "Zeigt, wie europaeische Literatur mit dem Kolonialismus verflochten war."
+      },
+      {
+        "titel": "Am falschen Ort (Out of Place)",
+        "jahr": "1999",
+        "beschreibung": "Saids Autobiografie ueber seine Kindheit zwischen Jerusalem, Kairo und den USA."
+      },
+      {
+        "titel": "Goetter, die keine sind (Representations of the Intellectual)",
+        "jahr": "1994",
+        "beschreibung": "Ein Buch darueber, warum Intellektuelle die Pflicht haben, sich gegen Unrecht einzusetzen."
+      }
+    ]
+  }
 }

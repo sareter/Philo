@@ -11,13 +11,44 @@
     "Der kategorische Imperativ gilt unabhängig von empirischen Bedingungen",
     "Moralische Pflichten sind unbedingt und vernunftgeboten"
   ],
-  "hauptvertreter": ["immanuel-kant"],
+  "hauptvertreter": [
+    "immanuel-kant"
+  ],
   "entstehung": "Der ethische Non-Naturalismus hat seine philosophischen Wurzeln in Kants Kritik der praktischen Vernunft (1788) und wurde im 20. Jahrhundert von G. E. Moore in seinen Principia Ethica (1903) zu einer eigenständigen metaethischen Position ausgebaut.",
   "kritik": "Kritiker werfen dem ethischen Non-Naturalismus das Problem der Erkenntnis nicht-natürlicher moralischer Tatsachen vor: Wenn moralische Eigenschaften nicht zur natürlichen Welt gehören, wie können wir sie dann erkennen? Zudem wird die Formalität kantischer Ethik kritisiert, die inhaltliche moralische Orientierung vermissen lasse.",
-  "verwandteIsmen": ["gesinnungsethik", "ethischer-naturalismus", "praeskriptivismus"],
+  "verwandteIsmen": [
+    "gesinnungsethik",
+    "ethischer-naturalismus",
+    "praeskriptivismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Kritik der praktischen Vernunft", "autor": "Immanuel Kant", "jahr": "1788"},
-    {"titel": "Grundlegung zur Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1785"},
-    {"titel": "Principia Ethica", "autor": "George Edward Moore", "jahr": "1903"}
-  ]
+    {
+      "titel": "Kritik der praktischen Vernunft",
+      "autor": "Immanuel Kant",
+      "jahr": "1788"
+    },
+    {
+      "titel": "Grundlegung zur Metaphysik der Sitten",
+      "autor": "Immanuel Kant",
+      "jahr": "1785"
+    },
+    {
+      "titel": "Principia Ethica",
+      "autor": "George Edward Moore",
+      "jahr": "1903"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der ethische Non-Naturalismus behauptet, dass moralische Eigenschaften nicht auf natuerliche Eigenschaften reduziert werden koennen.",
+    "ausfuehrlicheBeschreibung": "Der ethische Non-Naturalismus vertritt die These, dass moralische Tatsachen und Eigenschaften sui generis sind – sie lassen sich nicht auf natuerliche, empirisch beobachtbare Eigenschaften zurueckfuehren. Das Gute ist nicht identisch mit dem Angenehmen, dem Nuetzlichen oder dem Natuerlichen, sondern eine eigenstaendige Eigenschaft, die mit den Methoden der Naturwissenschaft nicht erfasst werden kann.\n\nImmanuel Kant legte die philosophische Grundlage fuer den ethischen Non-Naturalismus, indem er die Moral auf die reine praktische Vernunft gruendete und von allen empirischen Bedingungen abloeste. Der kategorische Imperativ – handle so, dass die Maxime deines Willens jederzeit zugleich als Prinzip einer allgemeinen Gesetzgebung gelten koennte – ist ein reines Vernunftprinzip, das unabhaengig von der menschlichen Natur, den gesellschaftlichen Verhaeltnissen und den Folgen des Handelns gilt.\n\nDer ethische Non-Naturalismus bewahrt die Autonomie der Moral gegenueber der Natur und der Empirie: Moralische Pflichten gelten nicht, weil sie natuerlich oder nuetzlich sind, sondern weil die Vernunft sie gebietet. Diese Position sichert die Unbedingtheit moralischer Forderungen, wirft aber zugleich die Frage auf, wie moralische Tatsachen erkannt werden koennen, wenn sie nicht zur natuerlichen Welt gehoeren.",
+    "kernthesen": [
+      "Moralische Eigenschaften sind nicht auf natuerliche reduzierbar",
+      "Das Gute ist eine eigenstaendige, nicht-natuerliche Eigenschaft",
+      "Moral gruendet auf reiner praktischer Vernunft",
+      "Der kategorische Imperativ gilt unabhaengig von empirischen Bedingungen",
+      "Moralische Pflichten sind unbedingt und vernunftgeboten"
+    ],
+    "entstehung": "Der ethische Non-Naturalismus hat seine philosophischen Wurzeln in Kants Kritik der praktischen Vernunft (1788) und wurde im 20. Jahrhundert von G. E. Moore in seinen Principia Ethica (1903) zu einer eigenstaendigen metaethischen Position ausgebaut.",
+    "kritik": "Kritiker werfen dem ethischen Non-Naturalismus das Problem der Erkenntnis nicht-natuerlicher moralischer Tatsachen vor: Wenn moralische Eigenschaften nicht zur natuerlichen Welt gehoeren, wie koennen wir sie dann erkennen? Zudem wird die Formalitaet kantischer Ethik kritisiert, die inhaltliche moralische Orientierung vermissen lasse."
+  }
 }

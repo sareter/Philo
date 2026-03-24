@@ -18,7 +18,10 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Hermeneutik", "Historismus"],
+  "hauptstroemungen": [
+    "Hermeneutik",
+    "Historismus"
+  ],
   "kurzbeschreibung": "Wilhelm Dilthey war ein deutscher Philosoph, der die Grundlagen der Geisteswissenschaften als eigenständige Wissenschaftsform begründete. Seine Unterscheidung zwischen Erklären (Naturwissenschaften) und Verstehen (Geisteswissenschaften) wurde zum Fundament der hermeneutischen Tradition. Er entwickelte eine Philosophie des Lebens, die das geschichtliche Erleben zum Ausgangspunkt des Philosophierens macht.",
   "biografie": {
     "fruehesLeben": "Wilhelm Dilthey wurde 1833 in Biebrich bei Wiesbaden als Sohn eines reformierten Pfarrers geboren. Er studierte Theologie und Philosophie in Heidelberg und Berlin. Die Begegnung mit den Naturwissenschaften und der historischen Schule prägte sein Bestreben, eine eigenständige Methodologie der Geisteswissenschaften zu entwickeln.",
@@ -75,6 +78,55 @@
       "kontext": "Die Einsicht, dass das Verstehen keine äußere Methode ist, sondern zur Grundstruktur des Lebens selbst gehört."
     }
   ],
-  "verwandtePhilosophen": ["hans-georg-gadamer", "martin-heidegger", "georg-simmel", "max-weber"],
-  "verwandteIsmen": ["hermeneutik", "historismus"]
+  "verwandtePhilosophen": [
+    "hans-georg-gadamer",
+    "martin-heidegger",
+    "georg-simmel",
+    "max-weber"
+  ],
+  "verwandteIsmen": [
+    "hermeneutik",
+    "historismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Wilhelm Dilthey war ein deutscher Philosoph, der die Grundlagen der Geisteswissenschaften als eigenstaendige Wissenschaftsform begruendete. Seine Unterscheidung zwischen Erklaeren (Naturwissenschaften) und Verstehen (Geisteswissenschaften) wurde zum Fundament der hermeneutischen Tradition. Er entwickelte eine Philosophie des Lebens, die das geschichtliche Erleben zum Ausgangspunkt des Philosophierens macht.",
+    "biografie": {
+      "fruehesLeben": "Wilhelm Dilthey wurde 1833 in Biebrich bei Wiesbaden als Sohn eines reformierten Pfarrers geboren. Er studierte Theologie und Philosophie in Heidelberg und Berlin. Die Begegnung mit den Naturwissenschaften und der historischen Schule praegte sein Bestreben, eine eigenstaendige Methodologie der Geisteswissenschaften zu entwickeln.",
+      "schaffen": "Dilthey lehrte in Basel, Kiel, Breslau und ab 1882 als Nachfolger Hegels an der Universitaet Berlin. Sein Hauptprojekt war eine 'Kritik der historischen Vernunft', die das leisten sollte, was Kants Kritik der reinen Vernunft fuer die Naturwissenschaften geleistet hatte: die erkenntnistheoretische Grundlegung der Geisteswissenschaften. Sein Hauptwerk 'Einleitung in die Geisteswissenschaften' (1883) blieb unvollendet.",
+      "spaetesLeben": "In seinen spaeten Jahren entwickelte Dilthey die Hermeneutik des Lebens weiter und formulierte eine Weltanschauungslehre, die verschiedene philosophische Systeme als Ausdruck grundlegender Lebenshaltungen versteht. Seine Schueler – darunter Georg Misch und Herman Nohl – verbreiteten sein Denken.",
+      "tod": "Wilhelm Dilthey starb am 1. Oktober 1911 waehrend eines Urlaubs in Seis am Schlern in Suedtirol. Sein monumentales Projekt einer Grundlegung der Geisteswissenschaften blieb unvollendet, beeinflusste aber die gesamte hermeneutische Tradition des 20. Jahrhunderts.",
+      "nachwirkung": "Diltheys Unterscheidung von Erklaeren und Verstehen beeinflusste Heidegger, Gadamer und die gesamte hermeneutische Philosophie. Seine Lebensphilosophie wirkte auf Husserl und die Phaenomenologie. Die moderne Kulturwissenschaft und die qualitative Sozialforschung stehen in seiner Tradition."
+    },
+    "kernideen": [
+      {
+        "titel": "Erklaeren und Verstehen",
+        "beschreibung": "Die Naturwissenschaften erklaeren Phaenomene durch Kausalgesetze, die Geisteswissenschaften verstehen menschliche Lebensaeusserungen durch Nacherleben und Interpretation. Verstehen ist ein eigenstaendiger Erkenntnismodus, der nicht auf Erklaeren reduziert werden kann."
+      },
+      {
+        "titel": "Erlebnis, Ausdruck und Verstehen",
+        "beschreibung": "Das Erlebnis (die unmittelbare Lebenserfahrung) drueckt sich in Aeusserungen aus (Texte, Kunstwerke, Handlungen), die durch Verstehen nachvollzogen werden koennen. Dieser hermeneutische Dreischritt ist die Grundstruktur geisteswissenschaftlicher Erkenntnis."
+      },
+      {
+        "titel": "Geschichtlichkeit des Lebens",
+        "beschreibung": "Der Mensch ist ein geschichtliches Wesen: Er versteht sich selbst nur aus seiner Geschichte. Das Leben laesst sich nicht in ein zeitloses System einfangen, sondern ist unabschliessbar und geschichtlich. Die Philosophie muss diese Geschichtlichkeit ernst nehmen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Einleitung in die Geisteswissenschaften",
+        "jahr": "1883",
+        "beschreibung": "Der erste Band von Diltheys geplanter Grundlegung der Geisteswissenschaften, der die Eigenstaendigkeit der historisch-gesellschaftlichen Erkenntnis gegenueber den Naturwissenschaften begruendet."
+      },
+      {
+        "titel": "Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften",
+        "jahr": "1910",
+        "beschreibung": "Diltheys reifste Darstellung seiner hermeneutischen Methodologie, die Erlebnis, Ausdruck und Verstehen als Grundkategorien der Geisteswissenschaften entfaltet."
+      },
+      {
+        "titel": "Die Typen der Weltanschauung",
+        "jahr": "1911",
+        "beschreibung": "Eine Analyse der grundlegenden Weltanschauungstypen (Naturalismus, Idealismus der Freiheit, objektiver Idealismus) als Ausdruck verschiedener Lebenshaltungen."
+      }
+    ]
+  }
 }

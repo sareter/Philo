@@ -80,5 +80,50 @@
     }
   ],
   "verwandtePhilosophen": ["karl-marx", "erich-fromm", "walter-benjamin", "georg-lukacs"],
-  "verwandteIsmen": ["marxismus", "utopismus"]
+  "verwandteIsmen": ["marxismus", "utopismus"],
+  "einfach": {
+    "kurzbeschreibung": "Ernst Bloch war der Philosoph der Hoffnung. Er glaubte, dass in Tagtraeumen, Kunst und Utopien Hinweise auf eine bessere Zukunft stecken, die wir verwirklichen koennen.",
+    "biografie": {
+      "fruehesLeben": "Bloch wurde 1885 in Ludwigshafen als Sohn eines juedischen Eisenbahnbeamten geboren. Er studierte Philosophie und Musik und freundete sich frueh mit bedeutenden Denkern wie Georg Lukacs an.",
+      "schaffen": "Sein erstes wichtiges Buch verband Kunst mit revolutionaerer Hoffnung. Im Exil in den USA schrieb er sein Hauptwerk 'Das Prinzip Hoffnung'. Nach der Rueckkehr lehrte er in der DDR, lag aber wegen seiner Kritik am Stalinismus im Clinch mit dem Regime.",
+      "spaetesLeben": "1961 blieb er bei einem Besuch in Westdeutschland und wurde Professor in Tuebingen. Dort wurde er zum Idol der Studentenbewegung und lehrte bis ins hohe Alter.",
+      "tod": "Bloch starb 1977 in Tuebingen mit 92 Jahren. Sein Werk erlebt in den letzten Jahren eine Renaissance.",
+      "nachwirkung": "Seine Philosophie der Hoffnung beeinflusste die Befreiungstheologie und die oekologische Bewegung. Seine Idee, dass die Welt noch nicht fertig ist und wir sie besser machen koennen, inspiriert bis heute."
+    },
+    "kernideen": [
+      {
+        "titel": "Das Prinzip Hoffnung",
+        "beschreibung": "Hoffnung ist nicht bloss Wuenschen, sondern eine echte Kraft. Die Welt ist unfertig, und in Tagtraeumen und Visionen scheint eine bessere Zukunft auf."
+      },
+      {
+        "titel": "Das Noch-Nicht-Bewusste",
+        "beschreibung": "Neben verdrengten Erinnerungen gibt es auch Ahnungen der Zukunft. In Tagtraeumen spueren wir etwas von dem, was noch kommen koennte."
+      },
+      {
+        "titel": "Konkrete Utopie",
+        "beschreibung": "Eine gute Utopie ist keine blosse Fantasie, sondern gruendet auf echten Moeglichkeiten der Gegenwart."
+      },
+      {
+        "titel": "Vorschein",
+        "beschreibung": "In Kunst, Musik und Architektur koennen wir einen Vorgeschmack auf eine bessere Welt erkennen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das Prinzip Hoffnung",
+        "jahr": "1959",
+        "beschreibung": "Sein riesiges Hauptwerk in drei Baenden, das eine Philosophie der Hoffnung entfaltet, von Tagtraeumen bis zu grossen Weltentwuerfen."
+      },
+      {
+        "titel": "Geist der Utopie",
+        "jahr": "1918",
+        "beschreibung": "Sein visionaeres Fruehwerk, das Kunst und revolutionaere Hoffnung verbindet."
+      },
+      {
+        "titel": "Thomas Muenzer als Theologe der Revolution",
+        "jahr": "1921",
+        "beschreibung": "Eine Darstellung des Bauernkriegsfuehrers als Vorlaeufer revolutionaeren Denkens."
+      }
+    ]
+  }
 }

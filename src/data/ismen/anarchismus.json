@@ -20,5 +20,18 @@
     { "titel": "Staatlichkeit und Anarchie", "autor": "Michail Bakunin", "jahr": "1873" },
     { "titel": "Gegenseitige Hilfe in der Tier- und Menschenwelt", "autor": "Pjotr Kropotkin", "jahr": "1902" },
     { "titel": "Schulden: Die ersten 5000 Jahre", "autor": "David Graeber", "jahr": "2011" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Anarchismus will den Staat abschaffen und durch eine Gesellschaft ersetzen, in der Menschen freiwillig zusammenarbeiten, ohne dass jemand ueber sie herrscht.",
+    "ausfuehrlicheBeschreibung": "Die meisten Menschen denken bei Anarchismus an Chaos und Zerstoerung. Aber eigentlich meint er das Gegenteil von Chaos: eine Gesellschaft, in der niemand ueber andere herrscht und alle freiwillig kooperieren. Der Grundgedanke ist: Warum brauchen wir einen Staat, der uns vorschreibt, was wir tun sollen? Koennen wir uns nicht selbst organisieren?\n\nDie wichtigsten Denker des Anarchismus kamen im 19. Jahrhundert. Proudhon sagte: Eigentum ist Diebstahl -- damit meinte er, dass die Reichen ihren Besitz auf Kosten anderer angehaeuft haben. Bakunin warnte davor, dass selbst eine Revolution, die einen neuen Staat errichtet, am Ende wieder in Diktatur endet -- was mit der Sowjetunion auch genau so passiert ist. Kropotkin zeigte, dass Zusammenarbeit in der Natur genauso wichtig ist wie Konkurrenz.\n\nHeute gibt es viele verschiedene Formen von Anarchismus. Manche betonen Umweltschutz, andere Feminismus, wieder andere Technologie. Was sie alle verbindet: die Ueberzeugung, dass Menschen besser zusammenleben koennen, wenn niemand das Sagen hat. Bewegungen wie Occupy Wall Street haben anarchistische Prinzipien genutzt -- flache Hierarchien, gemeinsame Entscheidungen, keine Chefs.",
+    "kernthesen": [
+      "Der Staat ist nicht noetig -- Menschen koennen sich selbst organisieren.",
+      "Herrschaft ist nie wirklich gerechtfertigt und muss abgeschafft werden.",
+      "Freiheit und Gleichheit gehoeren zusammen -- eins ohne das andere funktioniert nicht.",
+      "Zusammenarbeit ist ein natuerliches Prinzip, das keinen Staat braucht.",
+      "Eine bessere Gesellschaft kann nicht mit autoritaeren Mitteln erreicht werden."
+    ],
+    "entstehung": "Der Anarchismus entstand Mitte des 19. Jahrhunderts waehrend der industriellen Revolution. Proudhon, Bakunin und Kropotkin entwickelten verschiedene Varianten. Im Spanischen Buergerkrieg (1936-39) gab es sogar kurzzeitig anarchistische Gesellschaften in der Praxis.",
+    "kritik": "Kritiker sagen: Ohne Staat herrscht Chaos. Eine komplexe moderne Gesellschaft braucht Institutionen, Gesetze und Polizei. Historisch sind anarchistische Experimente meist gescheitert oder wurden von staerkeren Maechten zerstoert. Und wer regelt Konflikte, wenn es keinen Staat gibt?"
+  }
 }

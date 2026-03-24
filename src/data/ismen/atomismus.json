@@ -11,12 +11,40 @@
     "Sinnesqualitäten wie Farbe, Geschmack und Geruch existieren nur subjektiv, nicht in den Atomen selbst.",
     "Es gibt keine übernatürlichen Kräfte; alles geschieht aus natürlicher Notwendigkeit."
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Der Atomismus entstand im 5. Jahrhundert v. Chr. in der griechischen Kolonie Abdera in Thrakien. Leukipp, über den wenig bekannt ist, gilt als Begründer der Lehre, die sein Schüler Demokrit systematisch ausarbeitete. Die Theorie war eine Antwort auf die philosophischen Aporien der eleatischen Schule, insbesondere auf Parmenides' und Zenons Argumente gegen die Möglichkeit von Veränderung und Vielheit. Durch die Annahme des leeren Raums und unteilbarer Partikel gelang es den Atomisten, Veränderung und Vielheit zu erklären, ohne das eleatische Prinzip der Unveränderlichkeit des wahrhaft Seienden aufzugeben.",
   "kritik": "Aristoteles kritisierte den Atomismus scharf. Er bestritt die Existenz des leeren Raums und argumentierte, dass unteilbare Größen mathematisch unmöglich seien. Die Frage, warum sich die Atome überhaupt bewegen, blieb im antiken Atomismus unbefriedigend beantwortet. Der strenge Determinismus Demokrits wurde als unvereinbar mit menschlicher Freiheit und moralischer Verantwortung angesehen. Platoniker und Neuplatoniker kritisierten den materialistischen Reduktionismus, der Geist und Seele auf Atome reduziert. Im Mittelalter wurde der Atomismus wegen seiner Unvereinbarkeit mit der christlichen Schöpfungslehre abgelehnt. Moderne Kritiker weisen darauf hin, dass die Analogie zwischen antiken und modernen Atomen begrenzt ist und dass der antike Atomismus eher ein spekulatives als ein empirisch begründetes Programm war.",
-  "verwandteIsmen": ["materialismus", "epikureismus", "determinismus", "naturalismus"],
+  "verwandteIsmen": [
+    "materialismus",
+    "epikureismus",
+    "determinismus",
+    "naturalismus"
+  ],
   "schluesselwerke": [
-    { "titel": "De rerum natura (Über die Natur der Dinge)", "autor": "Lukrez", "jahr": "ca. 55 v. Chr." },
-    { "titel": "Fragmente", "autor": "Demokrit", "jahr": "ca. 420 v. Chr." }
-  ]
+    {
+      "titel": "De rerum natura (Über die Natur der Dinge)",
+      "autor": "Lukrez",
+      "jahr": "ca. 55 v. Chr."
+    },
+    {
+      "titel": "Fragmente",
+      "autor": "Demokrit",
+      "jahr": "ca. 420 v. Chr."
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Atomismus ist eine philosophische Lehre, die davon ausgeht, dass die gesamte Wirklichkeit aus unteilbaren kleinsten Teilchen  und leerem Raum besteht.",
+    "ausfuehrlicheBeschreibung": "Der Atomismus ist eine der kuehnsten und weitsichtigsten philosophischen Theorien der Antike. Er entstand im 5. Jahrhundert v. Chr. als Antwort auf die Herausforderungen der eleatischen Philosophie, insbesondere Parmenides' Behauptung, dass Veraenderung und Vielheit unmoeglich seien.\n\nLeukipp (5. Jh. v. Chr.) und sein Schueler Demokrit (ca. 460-370 v. Chr.) loesten dieses Problem durch eine geniale Hypothese: Die Wirklichkeit besteht aus zwei Grundprinzipien – den Atomen (átomos = unteilbar) und dem leeren Raum (kenón). Atome sind unendlich viele, unteilbare, unveraenderliche und unzerstoerbare Teilchen, die sich in Form, Groesse, Lage und Anordnung unterscheiden. Sie bewegen sich ewig im leeren Raum, stossen aufeinander und verbinden sich zu den Dingen, die wir wahrnehmen. Alle Veraenderungen in der Welt sind auf Bewegung, Zusammensetzung und Trennung von Atomen zurueckzufuehren.\n\nDemokrits Atomismus ist konsequent materialistisch und mechanistisch. Alles, was existiert, sind Atome und leerer Raum – selbst die Seele besteht aus besonders feinen, kugelfoermigen Atomen. Es gibt keine uebernatuerlichen Kraefte und keine Zweckursachen; alles geschieht aus Notwendigkeit (anankē) gemaess den mechanischen Gesetzen der Atombewegung. Beruehmt ist Demokrits Unterscheidung zwischen den primaeren Eigenschaften der Atome (Form, Groesse, Haerte) und den sekundaeren, nur subjektiv erfahrenen Sinnesqualitaeten (Farbe, Geschmack, Geruch): Konvention ist suess, Konvention ist bitter, Konvention ist warm, Konvention ist kalt, Konvention ist Farbe; in Wirklichkeit gibt es Atome und Leeres.",
+    "kernthesen": [
+      "Alles Existierende besteht aus unteilbaren kleinsten Teilchen (Atomen) und leerem Raum.",
+      "Atome sind ewig, unveraenderlich und unzerstoerbar; sie unterscheiden sich nur in Form, Groesse und Anordnung.",
+      "Alle Veraenderungen beruhen auf mechanischer Bewegung, Zusammensetzung und Trennung von Atomen.",
+      "Sinnesqualitaeten wie Farbe, Geschmack und Geruch existieren nur subjektiv, nicht in den Atomen selbst.",
+      "Es gibt keine uebernatuerlichen Kraefte; alles geschieht aus natuerlicher Notwendigkeit."
+    ],
+    "entstehung": "Der Atomismus entstand im 5. Jahrhundert v. Chr. in der griechischen Kolonie Abdera in Thrakien. Leukipp, ueber den wenig bekannt ist, gilt als Begruender der Lehre, die sein Schueler Demokrit systematisch ausarbeitete. Die Theorie war eine Antwort auf die philosophischen Aporien der eleatischen Schule, insbesondere auf Parmenides' und Zenons Argumente gegen die Moeglichkeit von Veraenderung und Vielheit.",
+    "kritik": "Aristoteles kritisierte den Atomismus scharf. Er bestritt die Existenz des leeren Raums und argumentierte, dass unteilbare Groessen mathematisch unmoeglich seien. Die Frage, warum sich die Atome ueberhaupt bewegen, blieb im antiken Atomismus unbefriedigend beantwortet. Der strenge Determinismus Demokrits wurde als unvereinbar mit menschlicher Freiheit und moralischer Verantwortung angesehen."
+  }
 }

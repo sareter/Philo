@@ -11,14 +11,49 @@
     "Die Berufung auf innere mentale Zustände als Verhaltensursachen ist ein kategorialer Fehler",
     "Komplexes menschliches Verhalten ist aus einfachen Reiz-Reaktions-Verbindungen aufgebaut"
   ],
-  "hauptvertreter": ["ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Der Behaviorismus entstand zu Beginn des 20. Jahrhunderts als Reaktion auf die als unwissenschaftlich empfundene Introspektionspsychologie. John B. Watson veröffentlichte 1913 sein Manifest 'Psychology as the Behaviorist Views It', das eine rein objektive, experimentelle Psychologie forderte. Die philosophischen Wurzeln reichen bis zum Positivismus und Empirismus zurück, insbesondere zum Verifikationsprinzip des Wiener Kreises. In Russland lieferten Iwan Pawlows Experimente zur klassischen Konditionierung die experimentelle Grundlage. B.F. Skinner entwickelte ab den 1930er Jahren den radikalen Behaviorismus und die operante Konditionierung. In der Philosophie formulierte Gilbert Ryle 1949 den logischen Behaviorismus als Alternative zum kartesischen Dualismus.",
   "kritik": "Der Behaviorismus wurde von mehreren Seiten fundamental kritisiert. Noam Chomskys Kritik an Skinners Sprachtheorie zeigte, dass Sprache nicht allein durch Konditionierung erklärt werden kann und angeborene kognitive Strukturen voraussetzt. Die kognitive Psychologie demonstrierte, dass die Postulierung innerer mentaler Repräsentationen und Verarbeitungsprozesse für die Erklärung komplexer kognitiver Leistungen unverzichtbar ist. Der philosophische Behaviorismus scheitert an der Zirkularität: Verhaltensdispositionen können nur unter Bezugnahme auf andere mentale Zustände spezifiziert werden (z.B. setzt die Disposition, bei Durst zu trinken, den Glauben voraus, dass Wasser verfügbar ist). Das Problem der Qualia – der subjektiven Erlebnisqualität – zeigt, dass die behavioristische Reduktion wesentliche Aspekte des Mentalen verfehlt. Hilary Putnams Argument der multiplen Realisierbarkeit und seine Super-Spartaner-Szenarien zeigen, dass identisches Verhalten mit verschiedenen mentalen Zuständen einhergehen kann.",
-  "verwandteIsmen": ["funktionalismus", "szientismus", "analytische-philosophie"],
+  "verwandteIsmen": [
+    "funktionalismus",
+    "szientismus",
+    "analytische-philosophie"
+  ],
   "schluesselwerke": [
-    { "titel": "The Concept of Mind", "autor": "Gilbert Ryle", "jahr": "1949" },
-    { "titel": "Science and Human Behavior", "autor": "B.F. Skinner", "jahr": "1953" },
-    { "titel": "Verbal Behavior", "autor": "B.F. Skinner", "jahr": "1957" },
-    { "titel": "Beyond Freedom and Dignity", "autor": "B.F. Skinner", "jahr": "1971" }
-  ]
+    {
+      "titel": "The Concept of Mind",
+      "autor": "Gilbert Ryle",
+      "jahr": "1949"
+    },
+    {
+      "titel": "Science and Human Behavior",
+      "autor": "B.F. Skinner",
+      "jahr": "1953"
+    },
+    {
+      "titel": "Verbal Behavior",
+      "autor": "B.F. Skinner",
+      "jahr": "1957"
+    },
+    {
+      "titel": "Beyond Freedom and Dignity",
+      "autor": "B.F. Skinner",
+      "jahr": "1971"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Behaviorismus ist eine philosophische und psychologische Stroemung, die das Verhalten als einzigen legitimen Gegenstand wissenschaftlicher Untersuchung betrachtet.",
+    "ausfuehrlicheBeschreibung": "Der Behaviorismus stellt eine der einflussreichsten intellektuellen Bewegungen des 20. Jahrhunderts dar, die sowohl die Psychologie als auch die Philosophie des Geistes tiefgreifend gepraegt hat. In seiner radikalsten Form bestreitet der Behaviorismus die wissenschaftliche Relevanz mentaler Zustaende und fordert, dass sich die Wissenschaft vom Verhalten ausschliesslich auf beobachtbare Phaenomene beschraenken solle.\n\nDer methodologische Behaviorismus, wie er von John B. Watson begruendet wurde, vertritt die methodische These, dass die Psychologie als Naturwissenschaft nur beobachtbares Verhalten untersuchen sollte. Introspektive Berichte ueber innere Erlebnisse werden als unzuverlaessig und unwissenschaftlich abgelehnt. Watson argumentierte, dass alle komplexen Verhaltensweisen auf einfache Reiz-Reaktions-Verbindungen zurueckgefuehrt werden koennen, die durch Konditionierung erlernt werden.\n\nB.F. Skinners radikaler Behaviorismus ging noch weiter und entwickelte das Konzept der operanten Konditionierung, bei der Verhalten durch seine Konsequenzen geformt wird. Skinner bestritt zwar nicht die Existenz mentaler Zustaende, hielt sie jedoch fuer erklaerungsirrelevant – sie seien selbst nur Verhalten oder Verhaltensdispositionen. Seine Vision einer durch Verhaltenstechnologie gesteuerten Gesellschaft, dargestellt in 'Walden Two', loeste heftige Kontroversen aus.",
+    "kernthesen": [
+      "Nur beobachtbares Verhalten ist legitimer Gegenstand wissenschaftlicher Psychologie",
+      "Mentale Zustaende sind entweder irrelevant fuer die Verhaltenserklaerung oder koennen auf Verhaltensdispositionen reduziert werden",
+      "Alles Verhalten laesst sich durch Konditionierungsprozesse (klassisch und operant) erklaeren",
+      "Die Berufung auf innere mentale Zustaende als Verhaltensursachen ist ein kategorialer Fehler",
+      "Komplexes menschliches Verhalten ist aus einfachen Reiz-Reaktions-Verbindungen aufgebaut"
+    ],
+    "entstehung": "Der Behaviorismus entstand zu Beginn des 20. Jahrhunderts als Reaktion auf die als unwissenschaftlich empfundene Introspektionspsychologie. John B. Watson veroeffentlichte 1913 sein Manifest 'Psychology as the Behaviorist Views It', das eine rein objektive, experimentelle Psychologie forderte. Die philosophischen Wurzeln reichen bis zum Positivismus und Empirismus zurueck, insbesondere zum Verifikationsprinzip des Wiener Kreises. In Russland lieferten Iwan Pawlows Experimente zur klassischen Konditionierung die experimentelle Grundlage. B.F.",
+    "kritik": "Der Behaviorismus wurde von mehreren Seiten fundamental kritisiert. Noam Chomskys Kritik an Skinners Sprachtheorie zeigte, dass Sprache nicht allein durch Konditionierung erklaert werden kann und angeborene kognitive Strukturen voraussetzt. Die kognitive Psychologie demonstrierte, dass die Postulierung innerer mentaler Repraesentationen und Verarbeitungsprozesse fuer die Erklaerung komplexer kognitiver Leistungen unverzichtbar ist."
+  }
 }

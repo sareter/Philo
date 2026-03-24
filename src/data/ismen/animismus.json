@@ -19,5 +19,18 @@
     {"titel": "Timaios", "autor": "Platon", "jahr": "-360"},
     {"titel": "Nomoi", "autor": "Platon", "jahr": "-347"},
     {"titel": "Primitive Culture", "autor": "Edward Tylor", "jahr": "1871"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Animismus ist die uralte Ueberzeugung, dass alles in der Natur lebendig ist -- nicht nur Tiere und Pflanzen, sondern auch Steine, Fluesse und Berge haben eine Seele oder einen Geist.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, ein Fluss ist nicht einfach fliessendes Wasser, sondern ein lebendiges Wesen mit eigenem Geist. Ein Berg ist nicht nur ein Haufen Stein, sondern hat eine Seele. Das ist Animismus -- die Vorstellung, dass die ganze Natur beseelt ist. Es ist wahrscheinlich die aelteste Weltanschauung der Menschheit.\n\nIn der Philosophie hat schon Platon so etwas Aehnliches gedacht. Er sprach von einer 'Weltseele', die den ganzen Kosmos durchdringt und ihm Ordnung gibt. Auch der antike Philosoph Thales sagte: Alles ist voller Goetter. Fuer diese Denker war die Welt kein toter Mechanismus, sondern ein lebendiger Organismus.\n\nHeute erlebt der Animismus eine Wiederentdeckung. Warum? Weil er eine andere Beziehung zur Natur vorschlaegt. Wenn du einen Fluss als lebendig betrachtest, wirst du ihn nicht einfach verschmutzen. Wenn ein Wald eine Seele hat, wirst du ihn nicht leichtfertig abholzen. In Zeiten der Klimakrise fragen sich viele: Haetten wir die Natur besser behandelt, wenn wir sie nie als 'tote Materie' betrachtet haetten?",
+    "kernthesen": [
+      "Alles in der Natur hat eine Seele oder einen belebenden Geist -- auch Steine und Fluesse.",
+      "Die Welt ist ein lebendiger Organismus, keine tote Maschine.",
+      "Menschen und Natur sind geistig miteinander verwandt und verbunden.",
+      "Eine Weltseele durchdringt den gesamten Kosmos und gibt ihm Ordnung.",
+      "Wer die Natur als beseelt betrachtet, geht respektvoller mit ihr um."
+    ],
+    "entstehung": "Animismus ist die aelteste bekannte Weltanschauung und findet sich in allen fruehen Kulturen. In der Philosophie wurde er von Thales und Platon aufgegriffen. Der Begriff selbst wurde 1871 vom Anthropologen Edward Tylor gepraegt.",
+    "kritik": "Kritiker sagen: Steine und Fluesse haben keine Seele -- das ist eine Projektion menschlicher Eigenschaften auf die Natur. Die moderne Naturwissenschaft hat gezeigt, dass die Natur nach physikalischen Gesetzen funktioniert, nicht nach geistigen Kraeften."
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Anarchy, State, and Utopia", "autor": "Robert Nozick", "jahr": "1974"},
     {"titel": "Man, Economy, and State", "autor": "Murray Rothbard", "jahr": "1962"},
     {"titel": "The Ethics of Liberty", "autor": "Murray Rothbard", "jahr": "1982"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Anarcho-Kapitalismus will den Staat komplett abschaffen und alles dem freien Markt ueberlassen -- auch Polizei, Gerichte und Strasssen sollen von privaten Firmen betrieben werden.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, es gibt keinen Staat mehr. Keine Regierung, keine Steuern, keine Polizei -- jedenfalls keine staatliche. Stattdessen bezahlst du private Firmen fuer Sicherheit, Streitschlichtung und alles andere. Das ist die Idee des Anarcho-Kapitalismus: Der freie Markt regelt alles besser als der Staat.\n\nDie Argumentation geht so: Der Staat zwingt dich, Steuern zu zahlen. Das ist eigentlich Diebstahl, weil du nie zugestimmt hast. Wenn du fuer ein Produkt bezahlst -- sagen wir Sicherheit -- solltest du frei waehlen koennen, welchen Anbieter du nimmst. Wettbewerb wuerde dafuer sorgen, dass die Qualitaet steigt und die Preise sinken, genau wie bei Handys oder Kleidung.\n\nDas klingt fuer die meisten Leute ziemlich extrem, und es gibt jede Menge Kritik. Was passiert mit Menschen, die sich keinen Schutz leisten koennen? Wer verhindert, dass riesige Unternehmen zu neuen Diktatoren werden? Und wie funktioniert Umweltschutz, wenn alles nur nach Profit geht? Diese Fragen sind der Grund, warum der Anarcho-Kapitalismus eine Nischenposition geblieben ist.",
+    "kernthesen": [
+      "Der Staat ist nicht legitim, weil er auf Zwang basiert -- niemand hat ihm zugestimmt.",
+      "Steuern sind eine Form von Diebstahl, weil sie ohne echte Zustimmung erhoben werden.",
+      "Private Firmen koennen alles besser als der Staat -- auch Polizei und Gerichte.",
+      "Jeder Mensch gehoert sich selbst und hat das Recht, frei ueber sein Eigentum zu bestimmen.",
+      "Alle Beziehungen zwischen Menschen sollten auf freiwilligen Vertraegen basieren, nicht auf Zwang."
+    ],
+    "entstehung": "Der Anarcho-Kapitalismus entstand in den 1960er und 70er Jahren in den USA. Murray Rothbard entwickelte die Theorie systematisch. Robert Nozick lieferte mit seinem Buch 'Anarchy, State, and Utopia' (1974) die philosophische Grundlage, auch wenn er selbst einen Mini-Staat befuerwortete.",
+    "kritik": "Kritiker sagen: Ohne Staat wuerden die Reichen noch maechtiger und die Armen noch aermer. Wer kein Geld hat, bekommt auch keinen Schutz. Ausserdem: Wer kuemmert sich um Dinge wie Umweltschutz oder Bildung, wenn es keinen Profit bringt?"
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
     {"titel": "Menschliches, Allzumenschliches", "autor": "Friedrich Nietzsche", "jahr": "1878"},
     {"titel": "Aphorismen zur Lebensweisheit", "autor": "Arthur Schopenhauer", "jahr": "1851"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Misanthropismus ist die Ueberzeugung, dass der Mensch im Grunde ein schlechtes Wesen ist -- egoistisch, grausam und sich staendig selbst beluegend.",
+    "ausfuehrlicheBeschreibung": "Hast du dich jemals gefragt, warum Menschen so oft gemein zueinander sind? Warum es Kriege, Mobbing und Ausbeutung gibt? Der Misanthropismus sagt: Das liegt daran, dass der Mensch im Kern schlecht ist. Unsere Vernunft ist nur eine huebsche Verkleidung -- darunter stecken Egoismus, Neid und der Drang, andere zu dominieren.\n\nSchopenhauer meinte, wir werden von einem blinden, egoistischen Willen angetrieben und beluegen uns staendig darueber. Nietzsche verachtete die Masse der Menschen als Herde, die unfaehig ist, eigenstaendig zu denken oder ueber sich hinauszuwachsen. Beide sahen in der vermeintlichen Zivilisation nur eine duenne Schicht ueber einer barbarischen Natur.\n\nDer philosophische Misanthropismus ist nicht einfach schlechte Laune oder persoenlicher Menschenhass. Er stuetzt sich auf Beobachtungen: die endlose Geschichte von Kriegen, die Zerstoerung der Natur, die alltaegliche Heuchelei. Trotzdem steckt darin ein Widerspruch: Der Misanthrop ist selbst ein Mensch -- er nimmt sich irgendwie aus seiner eigenen Kritik heraus, und das ist nicht ganz fair.",
+    "kernthesen": [
+      "Der Mensch ist im Kern egoistisch, grausam und neigt zur Selbsttaeuschung.",
+      "Unsere Vernunft ist nur ein Werkzeug, um egoistische Handlungen zu rechtfertigen.",
+      "Kultur und Moral sind nur eine duenne Schicht ueber unserer barbarischen Natur.",
+      "Die Menschheitsgeschichte ist voll von Krieg, Unterdrueckung und Ausbeutung -- das ist kein Zufall.",
+      "Die meisten Menschen sind unfaehig oder unwillig, wirklich eigenstaendig zu denken."
+    ],
+    "entstehung": "Schon in der Antike verachteten manche Philosophen die Masse der Menschen. Im 19. Jahrhundert wurde diese Haltung durch Schopenhauer und Nietzsche philosophisch ausgearbeitet. Heute findet sie Anklang bei Umweltschuetzern, die den Menschen als zerstoererische Spezies sehen.",
+    "kritik": "Der Misanthropismus blendet die positiven Seiten des Menschen komplett aus -- Mitgefuehl, Kreativitaet, Zusammenarbeit. Ausserdem ist der Misanthrop selbst ein Mensch und muesste sich eigentlich genauso verurteilen. Es ist ein bisschen scheinheilig, die Menschheit zu verdammen und sich selbst dabei als klug genug zu betrachten, das zu durchschauen."
+  }
 }

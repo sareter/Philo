@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Mystizismus", "Sozialismus"],
+  "hauptstroemungen": [
+    "Mystizismus",
+    "Sozialismus"
+  ],
   "kurzbeschreibung": "Simone Weil war eine französische Philosophin, Mystikerin und politische Aktivistin, die in ihrem kurzen Leben ein außergewöhnlich tiefes Werk hinterließ. Ihr Denken verbindet soziale Gerechtigkeit mit mystischer Spiritualität und stellt die Aufmerksamkeit und das Mitleiden ins Zentrum der Philosophie. Albert Camus nannte sie 'den einzigen großen Geist unserer Zeit'.",
   "biografie": {
     "fruehesLeben": "Simone Weil wurde 1909 in Paris in eine säkulare jüdische Familie geboren; ihr Bruder André wurde ein bedeutender Mathematiker. Sie studierte Philosophie an der École Normale Supérieure bei Alain und war eine brillante Studentin. Schon früh engagierte sie sich in der Arbeiterbewegung und der Gewerkschaftsbewegung.",
@@ -81,6 +84,64 @@
       "quelle": "Die Einwurzelung"
     }
   ],
-  "verwandtePhilosophen": ["albert-camus", "simone-de-beauvoir", "maria-zambrano", "karl-marx"],
-  "verwandteIsmen": ["mystizismus", "sozialismus"]
+  "verwandtePhilosophen": [
+    "albert-camus",
+    "simone-de-beauvoir",
+    "maria-zambrano",
+    "karl-marx"
+  ],
+  "verwandteIsmen": [
+    "mystizismus",
+    "sozialismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Simone Weil war eine franzoesische Philosophin, Mystikerin und politische Aktivistin, die in ihrem kurzen Leben ein aussergewoehnlich tiefes Werk hinterliess. Ihr Denken verbindet soziale Gerechtigkeit mit mystischer Spiritualitaet und stellt die Aufmerksamkeit und das Mitleiden ins Zentrum der Philosophie. Albert Camus nannte sie 'den einzigen grossen Geist unserer Zeit'.",
+    "biografie": {
+      "fruehesLeben": "Simone Weil wurde 1909 in Paris in eine saekulare juedische Familie geboren; ihr Bruder André wurde ein bedeutender Mathematiker. Sie studierte Philosophie an der École Normale Supérieure bei Alain und war eine brillante Studentin. Schon frueh engagierte sie sich in der Arbeiterbewegung und der Gewerkschaftsbewegung.",
+      "schaffen": "Weil arbeitete als Fabrikarbeiterin, um die Lage der Arbeiterklasse am eigenen Leib zu erfahren, und kaempfte im Spanischen Buergerkrieg. Ihre philosophischen Schriften kreisen um die Themen Aufmerksamkeit, Schwerkraft und Gnade, Entwurzelung und die Beduerfnisse der Seele. Ab 1938 hatte sie mystische Erfahrungen, die ihr Denken zutiefst verwandelten, ohne dass sie der Kirche beitrat.",
+      "spaetesLeben": "Nach der deutschen Besetzung Frankreichs floh Weil mit ihrer Familie nach New York und dann nach London, wo sie fuer die Freie Franzoesische Regierung arbeitete. In London schrieb sie ihr Hauptwerk 'Die Einwurzelung'. Sie weigerte sich, mehr zu essen als die Rationen der Bevoelkerung im besetzten Frankreich.",
+      "tod": "Simone Weil starb am 24. August 1943 in einem Sanatorium in Ashford, Kent, im Alter von nur 34 Jahren an Tuberkulose, verschaerft durch ihre Weigerung, ausreichend Nahrung zu sich zu nehmen. Der Gerichtsmediziner stellte 'Selbstmord durch Nahrungsverweigerung bei gestoertem Geisteszustand' fest. Ihr fast vollstaendig posthum veroeffentlichtes Werk entfaltete eine enorme Wirkung.",
+      "nachwirkung": "Simone Weils Werk wurde fast ausschliesslich posthum veroeffentlicht und hat Denker wie Albert Camus, T.S. Eliot und Iris Murdoch tief beeinflusst. Ihre Philosophie der Aufmerksamkeit wird in der Ethik, der Religionsphilosophie und der politischen Theorie intensiv rezipiert. Sie gilt als eine der originellsten Denkerinnen des 20. Jahrhunderts."
+    },
+    "kernideen": [
+      {
+        "titel": "Aufmerksamkeit (Attention)",
+        "beschreibung": "Die Aufmerksamkeit ist die reinste und seltenste Form der Grosszuegigkeit. Sie besteht darin, das eigene Denken auszusetzen und sich dem anderen oder der Wahrheit vollkommen zu oeffnen. Aufmerksamkeit ist zugleich eine intellektuelle, ethische und spirituelle Tugend."
+      },
+      {
+        "titel": "Schwerkraft und Gnade (Pesanteur et Grâce)",
+        "beschreibung": "Das menschliche Leben steht unter dem Gesetz der Schwerkraft – der natuerlichen Tendenz zur Traegheit, zur Gewalt und zur Selbstbezogenheit. Die Gnade ist die uebernatuerliche Kraft, die diese Schwerkraft ueberwindet. Nur durch die Gnade kann der Mensch zu wahrer Aufmerksamkeit und Liebe faehig werden."
+      },
+      {
+        "titel": "Das Unglueck (Le Malheur)",
+        "beschreibung": "Das Unglueck ist mehr als Leid – es ist die Zerstoerung der menschlichen Person durch soziale Degradierung, physischen Schmerz und seelische Erschuetterung zugleich. Wahre Aufmerksamkeit fuer das Unglueck anderer ist die schwierigste und wichtigste moralische Leistung."
+      },
+      {
+        "titel": "Entwurzelung und Einwurzelung",
+        "beschreibung": "Die Entwurzelung ist die gefaehrlichste Krankheit der modernen Gesellschaft. Jeder Mensch braucht Wurzeln – in einer Gemeinschaft, einer Tradition, einem Beruf. Die Einwurzelung ist das wichtigste und am meisten vernachlaessigte Beduerfnis der menschlichen Seele."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Schwerkraft und Gnade (La Pesanteur et la Grâce)",
+        "jahr": "1947",
+        "beschreibung": "Eine posthume Auswahl aus Weils Notizbuechern, zusammengestellt von Gustave Thibon, die ihre mystisch-philosophischen Reflexionen ueber Schwerkraft, Gnade und Aufmerksamkeit enthaelt."
+      },
+      {
+        "titel": "Die Einwurzelung (L'Enracinement)",
+        "jahr": "1949",
+        "beschreibung": "Weils letztes und umfassendstes Werk, ein Entwurf fuer den Wiederaufbau Frankreichs nach dem Krieg, der die Beduerfnisse der menschlichen Seele analysiert."
+      },
+      {
+        "titel": "Warten auf Gott (Attente de Dieu)",
+        "jahr": "1950",
+        "beschreibung": "Eine Sammlung von Briefen und Essays ueber Weils mystische Erfahrungen und ihr Verhaeltnis zum Christentum, dem sie sich nahe fuehlte, ohne der Kirche beizutreten."
+      },
+      {
+        "titel": "Fabriktagebuch (La condition ouvrière)",
+        "jahr": "1951",
+        "beschreibung": "Weils Aufzeichnungen ueber ihre Erfahrungen als Fabrikarbeiterin, die eine eindringliche Analyse der Entfremdung und Entmenschlichung in der industriellen Arbeit darstellen."
+      }
+    ]
+  }
 }

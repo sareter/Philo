@@ -18,7 +18,10 @@
   },
   "epoche": "Gegenwart",
   "region": "Europa",
-  "hauptstroemungen": ["Kulturkritik", "Postmodernismus"],
+  "hauptstroemungen": [
+    "Kulturkritik",
+    "Postmodernismus"
+  ],
   "kurzbeschreibung": "Byung-Chul Han ist ein südkoreanisch-deutscher Philosoph und Kulturkritiker, der mit seinen prägnanten Analysen der digitalen Gesellschaft internationale Bekanntheit erlangte. Seine Konzepte der 'Müdigkeitsgesellschaft' und der 'Transparenzgesellschaft' diagnostizieren die Pathologien einer Gesellschaft der Selbstausbeutung und der digitalen Überwachung. Er verbindet westliche Philosophie mit östlichem Denken zu einer eigenständigen Gegenwartsdiagnose.",
   "biografie": {
     "fruehesLeben": "Byung-Chul Han wurde 1959 in Seoul, Südkorea, geboren. Er studierte zunächst Metallurgie in Korea, bevor er nach Deutschland kam und in Freiburg und München Philosophie, Germanistik und katholische Theologie studierte. Er promovierte 1994 an der Universität Freiburg über Martin Heidegger.",
@@ -84,6 +87,64 @@
       "kontext": "Die Diagnose der neoliberalen Selbstausbeutung, die als Selbstverwirklichung missverstanden wird."
     }
   ],
-  "verwandtePhilosophen": ["peter-sloterdijk", "michel-foucault", "martin-heidegger", "giorgio-agamben"],
-  "verwandteIsmen": ["kulturkritik", "postmodernismus"]
+  "verwandtePhilosophen": [
+    "peter-sloterdijk",
+    "michel-foucault",
+    "martin-heidegger",
+    "giorgio-agamben"
+  ],
+  "verwandteIsmen": [
+    "kulturkritik",
+    "postmodernismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Byung-Chul Han ist ein suedkoreanisch-deutscher Philosoph und Kulturkritiker, der mit seinen praegnanten Analysen der digitalen Gesellschaft internationale Bekanntheit erlangte. Seine Konzepte der 'Muedigkeitsgesellschaft' und der 'Transparenzgesellschaft' diagnostizieren die Pathologien einer Gesellschaft der Selbstausbeutung und der digitalen Ueberwachung. Er verbindet westliche Philosophie mit oestlichem Denken zu einer eigenstaendigen Gegenwartsdiagnose.",
+    "biografie": {
+      "fruehesLeben": "Byung-Chul Han wurde 1959 in Seoul, Suedkorea, geboren. Er studierte zunaechst Metallurgie in Korea, bevor er nach Deutschland kam und in Freiburg und Muenchen Philosophie, Germanistik und katholische Theologie studierte. Er promovierte 1994 an der Universitaet Freiburg ueber Martin Heidegger.",
+      "schaffen": "Han lehrte an der Universitaet Basel und der Hochschule fuer Gestaltung in Karlsruhe, bevor er 2012 an die Universitaet der Kuenste Berlin berufen wurde. Mit 'Muedigkeitsgesellschaft' (2010) gelang ihm der internationale Durchbruch. In kurzen, pointierten Essays analysiert er die Pathologien der spaetmodernen Gesellschaft: Selbstausbeutung, digitale Ueberwachung, den Verlust des Anderen und die Krise der Negativitaet.",
+      "spaetesLeben": "Han lebt zurueckgezogen in Berlin und meidet oeffentliche Auftritte und soziale Medien konsequent. Er veroeffentlicht regelmaessig neue Buecher, die in zahlreiche Sprachen uebersetzt werden und internationale Bestseller sind. Seine Diagnosen der digitalen Gesellschaft treffen einen Nerv der Zeit.",
+      "tod": "Byung-Chul Han lebt und arbeitet weiterhin in Berlin. Er ist einer der meistgelesenen Philosophen der Gegenwart, besonders in Europa und Lateinamerika.",
+      "nachwirkung": "Hans Werk hat die Debatte ueber die Auswirkungen der Digitalisierung, des Neoliberalismus und der Leistungsgesellschaft massgeblich gepraegt. Seine Begriffe wie 'Muedigkeitsgesellschaft', 'Transparenzgesellschaft' und 'Palliativgesellschaft' sind in den allgemeinen Sprachgebrauch uebergegangen. Sein Einfluss reicht weit ueber die akademische Philosophie hinaus."
+    },
+    "kernideen": [
+      {
+        "titel": "Muedigkeitsgesellschaft",
+        "beschreibung": "Die moderne Leistungsgesellschaft hat die Disziplinargesellschaft abgeloest. Der Mensch beutet sich nun selbst aus, angetrieben vom Imperativ des 'Du kannst'. Depression und Burnout sind nicht Zeichen individuellen Versagens, sondern systemische Pathologien einer Gesellschaft der Selbstoptimierung."
+      },
+      {
+        "titel": "Transparenzgesellschaft",
+        "beschreibung": "Die Forderung nach totaler Transparenz zerstoert das Vertrauen und die Privatheit. Die digitale Ueberwachung verwandelt die Gesellschaft in ein Panoptikum, in dem sich jeder freiwillig exponiert. Transparenz ist keine Befreiung, sondern eine neue Form der Kontrolle."
+      },
+      {
+        "titel": "Verschwinden der Negativitaet",
+        "beschreibung": "Die Positivgesellschaft eliminiert alles Negative: Schmerz, Trauer, Widerspruch. Doch gerade die Negativitaet ist konstitutiv fuer menschliche Erfahrung. Ohne sie gibt es keine Tiefe, keine Transformation, kein echtes Denken."
+      },
+      {
+        "titel": "Erosion des Anderen",
+        "beschreibung": "Die digitale Gesellschaft zerstoert die Erfahrung des Anderen, des wirklich Fremden. Algorithmen filtern alles Andersartige heraus und schaffen eine narzisstische Echokammer. Der Verlust des Anderen fuehrt zur Verarmung der Erfahrung und des Denkens."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Muedigkeitsgesellschaft",
+        "jahr": "2010",
+        "beschreibung": "Die einflussreiche Diagnose einer Gesellschaft, in der Depression und Burnout aus der Selbstausbeutung des Leistungssubjekts resultieren."
+      },
+      {
+        "titel": "Transparenzgesellschaft",
+        "jahr": "2012",
+        "beschreibung": "Eine Kritik der totalen Transparenz als neuer Form der Kontrolle und Ueberwachung in der digitalen Gesellschaft."
+      },
+      {
+        "titel": "Psychopolitik",
+        "jahr": "2014",
+        "beschreibung": "Eine Analyse der neoliberalen Machttechniken, die nicht mehr auf Disziplinierung, sondern auf die Optimierung und Ausbeutung der Psyche abzielen."
+      },
+      {
+        "titel": "Die Austreibung des Anderen",
+        "jahr": "2016",
+        "beschreibung": "Eine Diagnose der zunehmenden Gleichfoermigkeit und des Verlusts der Erfahrung des Fremden in der digitalen Gesellschaft."
+      }
+    ]
+  }
 }

@@ -2,11 +2,27 @@
   "slug": "niccolo-machiavelli",
   "name": "Niccolò Machiavelli",
   "lebensdaten": "1469–1527",
-  "geboren": { "jahr": 1469, "ort": "Florenz", "land": "Italien", "lat": 43.7696, "lng": 11.2558 },
-  "gestorben": { "jahr": 1527, "ort": "Florenz", "land": "Italien", "lat": 43.7696, "lng": 11.2558 },
+  "geboren": {
+    "jahr": 1469,
+    "ort": "Florenz",
+    "land": "Italien",
+    "lat": 43.7696,
+    "lng": 11.2558
+  },
+  "gestorben": {
+    "jahr": 1527,
+    "ort": "Florenz",
+    "land": "Italien",
+    "lat": 43.7696,
+    "lng": 11.2558
+  },
   "epoche": "Renaissance",
   "region": "Italien",
-  "hauptstroemungen": ["Politische Philosophie", "Realismus", "Republikanismus"],
+  "hauptstroemungen": [
+    "Politische Philosophie",
+    "Realismus",
+    "Republikanismus"
+  ],
   "kurzbeschreibung": "Niccolò Machiavelli war ein florentinischer Diplomat, Schriftsteller und politischer Philosoph der Renaissance. Er gilt als Begründer der modernen politischen Wissenschaft und ist vor allem für sein Werk 'Der Fürst' bekannt, das eine realistische Analyse politischer Macht bietet. Seine Ideen über Staatsräson und politische Klugheit prägen das politische Denken bis heute.",
   "biografie": {
     "fruehesLeben": "Niccolò Machiavelli wurde am 3. Mai 1469 in Florenz als Sohn des Juristen Bernardo Machiavelli und seiner Frau Bartolomea de' Nelli geboren. Die Familie gehörte dem verarmten florentinischen Kleinadel an und konnte sich keine aufwendige Erziehung leisten. Dennoch erhielt der junge Niccolò eine solide humanistische Bildung, die das Studium der lateinischen Klassiker umfasste. Über seine Jugend ist relativ wenig bekannt, doch die turbulenten politischen Verhältnisse in Florenz – insbesondere die Herrschaft und der Sturz der Medici sowie die theokratische Herrschaft Savonarolas – prägten sein politisches Bewusstsein nachhaltig. Die Hinrichtung Savonarolas 1498 öffnete für den jungen Machiavelli die Tür zur politischen Karriere.",
@@ -34,19 +50,119 @@
     }
   ],
   "werke": [
-    { "titel": "Il Principe (Der Fürst)", "jahr": "1513", "beschreibung": "Machiavellis berühmtestes Werk, ein politischer Traktat über die Erlangung und Erhaltung politischer Macht. Es analysiert verschiedene Herrschaftsformen und gibt praktische Ratschläge für Fürsten, wobei es die Notwendigkeit betont, sowohl geliebt als auch gefürchtet zu werden." },
-    { "titel": "Discorsi sopra la prima deca di Tito Livio", "jahr": "1517", "beschreibung": "Eine umfangreiche Abhandlung über republikanische Regierungsformen, basierend auf einer Analyse der ersten zehn Bücher des Livius. Das Werk entwickelt Machiavellis republikanische Theorie und gilt als sein politisch reifstes Werk." },
-    { "titel": "Dell'arte della guerra (Über die Kriegskunst)", "jahr": "1521", "beschreibung": "Ein Dialog über militärische Strategie und Organisation, in dem Machiavelli für Bürgerarmeen anstelle von Söldnerheeren plädiert und antike Militärtaktiken mit zeitgenössischen Erfahrungen verbindet." },
-    { "titel": "Istorie fiorentine (Geschichte von Florenz)", "jahr": "1525", "beschreibung": "Eine im Auftrag der Medici verfasste Geschichte der Stadt Florenz von ihren Anfängen bis zum Tod Lorenzos des Prächtigen 1492, die politische Analyse mit historischer Erzählung verbindet." },
-    { "titel": "La Mandragola (Die Alraunenwurzel)", "jahr": "1518", "beschreibung": "Eine satirische Komödie, die als Meisterwerk der italienischen Renaissanceliteratur gilt. Das Stück handelt von Betrug und Manipulation und spiegelt auf humorvolle Weise Machiavellis politische Philosophie wider." },
-    { "titel": "Clizia", "jahr": "1525", "beschreibung": "Eine weitere Komödie Machiavellis, die von Plautus inspiriert ist und die Torheiten alter Männer satirisch darstellt." }
+    {
+      "titel": "Il Principe (Der Fürst)",
+      "jahr": "1513",
+      "beschreibung": "Machiavellis berühmtestes Werk, ein politischer Traktat über die Erlangung und Erhaltung politischer Macht. Es analysiert verschiedene Herrschaftsformen und gibt praktische Ratschläge für Fürsten, wobei es die Notwendigkeit betont, sowohl geliebt als auch gefürchtet zu werden."
+    },
+    {
+      "titel": "Discorsi sopra la prima deca di Tito Livio",
+      "jahr": "1517",
+      "beschreibung": "Eine umfangreiche Abhandlung über republikanische Regierungsformen, basierend auf einer Analyse der ersten zehn Bücher des Livius. Das Werk entwickelt Machiavellis republikanische Theorie und gilt als sein politisch reifstes Werk."
+    },
+    {
+      "titel": "Dell'arte della guerra (Über die Kriegskunst)",
+      "jahr": "1521",
+      "beschreibung": "Ein Dialog über militärische Strategie und Organisation, in dem Machiavelli für Bürgerarmeen anstelle von Söldnerheeren plädiert und antike Militärtaktiken mit zeitgenössischen Erfahrungen verbindet."
+    },
+    {
+      "titel": "Istorie fiorentine (Geschichte von Florenz)",
+      "jahr": "1525",
+      "beschreibung": "Eine im Auftrag der Medici verfasste Geschichte der Stadt Florenz von ihren Anfängen bis zum Tod Lorenzos des Prächtigen 1492, die politische Analyse mit historischer Erzählung verbindet."
+    },
+    {
+      "titel": "La Mandragola (Die Alraunenwurzel)",
+      "jahr": "1518",
+      "beschreibung": "Eine satirische Komödie, die als Meisterwerk der italienischen Renaissanceliteratur gilt. Das Stück handelt von Betrug und Manipulation und spiegelt auf humorvolle Weise Machiavellis politische Philosophie wider."
+    },
+    {
+      "titel": "Clizia",
+      "jahr": "1525",
+      "beschreibung": "Eine weitere Komödie Machiavellis, die von Plautus inspiriert ist und die Torheiten alter Männer satirisch darstellt."
+    }
   ],
   "zitate": [
-    { "text": "Der Zweck heiligt die Mittel.", "quelle": "Il Principe (sinngemäß, Kapitel XVIII)", "kontext": "Dieses Machiavelli zugeschriebene Bonmot fasst seine Überlegungen zur Staatsräson zusammen, wonach der Erfolg politischen Handelns dessen moralische Bewertung bestimmt." },
-    { "text": "Es ist sicherer, gefürchtet zu werden als geliebt, wenn man nicht beides haben kann.", "quelle": "Il Principe, Kapitel XVII", "kontext": "Machiavelli analysiert die Frage, ob ein Herrscher eher auf Liebe oder Furcht setzen sollte, und kommt zu dem Schluss, dass Furcht als politisches Instrument zuverlässiger ist." },
-    { "text": "Wer Ordnung schaffen will, der muss voraussetzen, dass alle Menschen schlecht sind.", "quelle": "Discorsi, Buch I, Kapitel 3", "kontext": "Machiavellis anthropologischer Pessimismus bildet die Grundlage seiner politischen Theorie: Gesetze und Institutionen müssen so gestaltet sein, dass sie auch bei schlechtem Verhalten der Menschen funktionieren." },
-    { "text": "Die Fortuna ist ein Weib, und es ist nötig, sie zu schlagen und zu stoßen, wenn man sie unterwerfen will.", "quelle": "Il Principe, Kapitel XXV", "kontext": "Eine berüchtigte Passage, in der Machiavelli die Notwendigkeit entschlossenen Handelns gegenüber dem Schicksal betont – eine Metapher, die in der modernen Rezeption zu Recht kritisiert wird." }
+    {
+      "text": "Der Zweck heiligt die Mittel.",
+      "quelle": "Il Principe (sinngemäß, Kapitel XVIII)",
+      "kontext": "Dieses Machiavelli zugeschriebene Bonmot fasst seine Überlegungen zur Staatsräson zusammen, wonach der Erfolg politischen Handelns dessen moralische Bewertung bestimmt."
+    },
+    {
+      "text": "Es ist sicherer, gefürchtet zu werden als geliebt, wenn man nicht beides haben kann.",
+      "quelle": "Il Principe, Kapitel XVII",
+      "kontext": "Machiavelli analysiert die Frage, ob ein Herrscher eher auf Liebe oder Furcht setzen sollte, und kommt zu dem Schluss, dass Furcht als politisches Instrument zuverlässiger ist."
+    },
+    {
+      "text": "Wer Ordnung schaffen will, der muss voraussetzen, dass alle Menschen schlecht sind.",
+      "quelle": "Discorsi, Buch I, Kapitel 3",
+      "kontext": "Machiavellis anthropologischer Pessimismus bildet die Grundlage seiner politischen Theorie: Gesetze und Institutionen müssen so gestaltet sein, dass sie auch bei schlechtem Verhalten der Menschen funktionieren."
+    },
+    {
+      "text": "Die Fortuna ist ein Weib, und es ist nötig, sie zu schlagen und zu stoßen, wenn man sie unterwerfen will.",
+      "quelle": "Il Principe, Kapitel XXV",
+      "kontext": "Eine berüchtigte Passage, in der Machiavelli die Notwendigkeit entschlossenen Handelns gegenüber dem Schicksal betont – eine Metapher, die in der modernen Rezeption zu Recht kritisiert wird."
+    }
   ],
-  "verwandtePhilosophen": ["thomas-hobbes", "montesquieu", "jean-jacques-rousseau", "baruch-spinoza", "thomas-morus"],
-  "verwandteIsmen": ["realismus", "republikanismus", "machiavellismus"]
+  "verwandtePhilosophen": [
+    "thomas-hobbes",
+    "montesquieu",
+    "jean-jacques-rousseau",
+    "baruch-spinoza",
+    "thomas-morus"
+  ],
+  "verwandteIsmen": [
+    "realismus",
+    "republikanismus",
+    "machiavellismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Niccolò Machiavelli war ein florentinischer Diplomat, Schriftsteller und politischer Philosoph der Renaissance. Er gilt als Begruender der modernen politischen Wissenschaft und ist vor allem fuer sein Werk 'Der Fuerst' bekannt, das eine realistische Analyse politischer Macht bietet. Seine Ideen ueber Staatsraeson und politische Klugheit praegen das politische Denken bis heute.",
+    "biografie": {
+      "fruehesLeben": "Niccolò Machiavelli wurde am 3. Mai 1469 in Florenz als Sohn des Juristen Bernardo Machiavelli und seiner Frau Bartolomea de' Nelli geboren. Die Familie gehoerte dem verarmten florentinischen Kleinadel an und konnte sich keine aufwendige Erziehung leisten. Dennoch erhielt der junge Niccolò eine solide humanistische Bildung, die das Studium der lateinischen Klassiker umfasste. Ueber seine Jugend ist relativ wenig bekannt, doch die turbulenten politischen Verhaeltnisse in Florenz – insbesondere die Herrschaft und der Sturz der Medici sowie die theokratische Herrschaft Savonarolas – praegten sein politisches Bewusstsein nachhaltig. Die Hinrichtung Savonarolas 1498 oeffnete fuer den jungen Machiavelli die Tuer zur politischen Karriere.",
+      "schaffen": "Nach dem Sturz Savonarolas wurde Machiavelli 1498 zum Sekretaer der Zweiten Kanzlei der Republik Florenz ernannt und uebernahm bald darauf auch das Amt des Sekretaers des Rates der Zehn, der fuer Krieg und Aussenpolitik zustaendig war. In dieser Funktion unternahm er zahlreiche diplomatische Missionen an die Hoefe Europas – zu Cesare Borgia, Koenig Ludwig XII. von Frankreich, Kaiser Maximilian I. und Papst Julius II. Diese Erfahrungen lieferten ihm reichhaltiges Material fuer seine spaeteren politischen Schriften. Er beobachtete aus naechster Naehe, wie Macht gewonnen, ausgeuebt und verloren wird. Besonders die Begegnung mit Cesare Borgia beeindruckte ihn tief und inspirierte zentrale Passagen seines Hauptwerks.",
+      "spaetesLeben": "Nach der Rueckkehr der Medici 1512 wurde Machiavelli aller Aemter enthoben, kurzzeitig inhaftiert und gefoltert, da man ihn der Verschwoerung gegen die Medici verdaechtigte. Nach seiner Freilassung zog er sich auf sein Landgut in Sant'Andrea in Percussina zurueck, wo er sich ganz dem Schreiben widmete. In dieser erzwungenen Musse entstanden seine wichtigsten Werke. Trotz wiederholter Versuche gelang es ihm nicht, in den aktiven politischen Dienst zurueckzukehren. Erst gegen Ende seines Lebens erhielt er einige kleinere Auftraege von den Medici, darunter die Abfassung einer Geschichte von Florenz ('Istorie fiorentine'). Er schrieb auch Komoedien, darunter die beruehmte 'La Mandragola', die zu den bedeutendsten Werken der italienischen Renaissanceliteratur zaehlt.",
+      "tod": "Machiavelli starb am 21. Juni 1527 in Florenz, nur wenige Wochen nach dem erneuten Sturz der Medici und der Wiederherstellung der Republik – jener Staatsform, die er zeitlebens bevorzugt hatte. Ironischerweise wurde ihm die Rueckkehr in den Staatsdienst verwehrt, da die neue republikanische Regierung ihm seine spaete Zusammenarbeit mit den Medici vorwarf. Er wurde in der Kirche Santa Croce in Florenz beigesetzt, wo spaeter ein Kenotaph mit der Inschrift 'Tanto nomini nullum par elogium' (Kein Lob ist diesem Namen angemessen) errichtet wurde.",
+      "nachwirkung": "Machiavellis Einfluss auf die politische Philosophie ist kaum zu ueberschaetzen. Sein Name wurde zum Synonym fuer skrupellose Machtpolitik – der Begriff 'Machiavellismus' bezeichnet bis heute eine zynische, amoralische Haltung zur Politik. Diese Vereinfachung wird seinem Denken jedoch nicht gerecht: Machiavelli war auch ein leidenschaftlicher Republikaner, der die Freiheit der Buerger und die Tugend des Gemeinwesens hochschaetzte. Seine realistische Analyse politischer Macht beeinflusste Denker wie Hobbes, Spinoza, Montesquieu und Rousseau. In der modernen Politikwissenschaft gilt er als einer der Gruendervaeter der Disziplin. Seine Werke werden in allen politikwissenschaftlichen Fakultaeten der Welt studiert und diskutiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Politischer Realismus",
+        "beschreibung": "Machiavelli begruendete den politischen Realismus, indem er forderte, die Politik so zu analysieren, wie sie tatsaechlich ist, und nicht, wie sie sein sollte. Er trennte die politische Analyse von moralischen und religioesen Idealvorstellungen und betrachtete Macht als den zentralen Gegenstand der Politik."
+      },
+      {
+        "titel": "Virtù und Fortuna",
+        "beschreibung": "Zentral fuer Machiavellis Denken ist das Zusammenspiel von virtù (politische Tuechtigkeit, Entschlusskraft und Handlungsfaehigkeit) und fortuna (das Schicksal, der Zufall). Ein erfolgreicher Herrscher muss virtù besitzen, um die Launen der fortuna zu meistern und guenstige Gelegenheiten zu ergreifen."
+      },
+      {
+        "titel": "Staatsraeson (Ragion di Stato)",
+        "beschreibung": "Machiavelli argumentierte, dass der Erhalt des Staates bisweilen Handlungen erfordert, die nach gewoehnlichen moralischen Massstaeben verwerflich waeren. Der Zweck – die Stabilitaet und Sicherheit des Gemeinwesens – kann bestimmte Mittel rechtfertigen, die im privaten Leben inakzeptabel waeren."
+      },
+      {
+        "titel": "Republikanismus",
+        "beschreibung": "In den Discorsi entwickelte Machiavelli eine Theorie der republikanischen Regierung, die auf gemischter Verfassung, buergerlicher Teilhabe und dem produktiven Konflikt zwischen verschiedenen sozialen Gruppen beruht. Er sah die Roemische Republik als Vorbild fuer ein stabiles und freiheitliches Gemeinwesen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Il Principe (Der Fuerst)",
+        "jahr": "1513",
+        "beschreibung": "Machiavellis beruehmtestes Werk, ein politischer Traktat ueber die Erlangung und Erhaltung politischer Macht. Es analysiert verschiedene Herrschaftsformen und gibt praktische Ratschlaege fuer Fuersten, wobei es die Notwendigkeit betont, sowohl geliebt als auch gefuerchtet zu werden."
+      },
+      {
+        "titel": "Discorsi sopra la prima deca di Tito Livio",
+        "jahr": "1517",
+        "beschreibung": "Eine umfangreiche Abhandlung ueber republikanische Regierungsformen, basierend auf einer Analyse der ersten zehn Buecher des Livius. Das Werk entwickelt Machiavellis republikanische Theorie und gilt als sein politisch reifstes Werk."
+      },
+      {
+        "titel": "Dell'arte della guerra (Ueber die Kriegskunst)",
+        "jahr": "1521",
+        "beschreibung": "Ein Dialog ueber militaerische Strategie und Organisation, in dem Machiavelli fuer Buergerarmeen anstelle von Soeldnerheeren plaediert und antike Militaertaktiken mit zeitgenoessischen Erfahrungen verbindet."
+      },
+      {
+        "titel": "Istorie fiorentine (Geschichte von Florenz)",
+        "jahr": "1525",
+        "beschreibung": "Eine im Auftrag der Medici verfasste Geschichte der Stadt Florenz von ihren Anfaengen bis zum Tod Lorenzos des Praechtigen 1492, die politische Analyse mit historischer Erzaehlung verbindet."
+      }
+    ]
+  }
 }

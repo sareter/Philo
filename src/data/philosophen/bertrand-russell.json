@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Analytische Philosophie", "Logischer Atomismus", "Logizismus"],
+  "hauptstroemungen": [
+    "Analytische Philosophie",
+    "Logischer Atomismus",
+    "Logizismus"
+  ],
   "kurzbeschreibung": "Bertrand Russell war einer der Begründer der analytischen Philosophie, ein bahnbrechender Logiker und einer der einflussreichsten öffentlichen Intellektuellen des 20. Jahrhunderts. Er erhielt 1950 den Nobelpreis für Literatur und engagierte sich zeitlebens für Frieden, soziale Gerechtigkeit und Rationalität. Sein Werk umfasst über 70 Bücher zu Philosophie, Mathematik, Politik und Gesellschaft.",
   "biografie": {
     "fruehesLeben": "Bertrand Arthur William Russell, 3. Earl Russell, wurde am 18. Mai 1872 in Trellech, Monmouthshire, Wales, in eine der vornehmsten politischen Familien Englands geboren. Sein Großvater Lord John Russell war zweimal Premierminister gewesen. Beide Eltern starben, als Russell noch klein war, und er wurde von seiner strengen, puritanischen Großmutter erzogen. Eine einsame Kindheit führte ihn früh zur Mathematik, die ihm Trost und Gewissheit bot. Er studierte Mathematik und Philosophie am Trinity College in Cambridge, wo er 1893 seinen Abschluss als 'Wrangler' in Mathematik machte und sich der Philosophie zuwandte.",
@@ -104,6 +108,67 @@
       "kontext": "Russells Ermutigung zum unabhängigen Denken."
     }
   ],
-  "verwandtePhilosophen": ["ludwig-wittgenstein", "gottlob-frege", "alfred-north-whitehead", "karl-popper", "willard-van-orman-quine"],
-  "verwandteIsmen": ["analytische-philosophie", "logizismus", "logischer-atomismus", "empirismus"]
+  "verwandtePhilosophen": [
+    "ludwig-wittgenstein",
+    "gottlob-frege",
+    "alfred-north-whitehead",
+    "karl-popper",
+    "willard-van-orman-quine"
+  ],
+  "verwandteIsmen": [
+    "analytische-philosophie",
+    "logizismus",
+    "logischer-atomismus",
+    "empirismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Bertrand Russell war einer der Begruender der analytischen Philosophie, ein bahnbrechender Logiker und einer der einflussreichsten oeffentlichen Intellektuellen des 20. Jahrhunderts. Er erhielt 1950 den Nobelpreis fuer Literatur und engagierte sich zeitlebens fuer Frieden, soziale Gerechtigkeit und Rationalitaet. Sein Werk umfasst ueber 70 Buecher zu Philosophie, Mathematik, Politik und Gesellschaft.",
+    "biografie": {
+      "fruehesLeben": "Bertrand Arthur William Russell, 3. Earl Russell, wurde am 18. Mai 1872 in Trellech, Monmouthshire, Wales, in eine der vornehmsten politischen Familien Englands geboren. Sein Grossvater Lord John Russell war zweimal Premierminister gewesen. Beide Eltern starben, als Russell noch klein war, und er wurde von seiner strengen, puritanischen Grossmutter erzogen. Eine einsame Kindheit fuehrte ihn frueh zur Mathematik, die ihm Trost und Gewissheit bot. Er studierte Mathematik und Philosophie am Trinity College in Cambridge, wo er 1893 seinen Abschluss als 'Wrangler' in Mathematik machte und sich der Philosophie zuwandte.",
+      "schaffen": "Russells philosophisches Lebenswerk begann mit 'The Principles of Mathematics' (1903) und dem monumentalen, mit Alfred North Whitehead verfassten Werk 'Principia Mathematica' (1910–1913), das den Logizismus begruendete – den Versuch, die gesamte Mathematik auf logische Grundlagen zurueckzufuehren. Er entdeckte 1901 das beruehmte 'Russell-Paradoxon' in der Mengenlehre, das die Grundlagen der Mathematik erschuetterte. Seine Theorie der Kennzeichnungen (1905) wurde von Frank Ramsey als 'Paradigma der Philosophie' bezeichnet. In 'The Problems of Philosophy' (1912) verfasste er eine brillante Einfuehrung in die Erkenntnistheorie. Seine Philosophie des logischen Atomismus (1918) und die Theorie der neutralen Monismen praegten die analytische Tradition massgeblich.",
+      "spaetesLeben": "Russell war ein leidenschaftlicher politischer Aktivist. Im Ersten Weltkrieg wurde er wegen seines Pazifismus inhaftiert. Er engagierte sich gegen die atomare Aufruestung, gruendete mit Albert Einstein das Pugwash-Manifest (1955) und initiierte das Russell-Tribunal gegen den Vietnamkrieg (1966). 1950 erhielt er den Nobelpreis fuer Literatur fuer seine Schriften, 'in denen er als Verfechter der Menschlichkeit und Gedankenfreiheit hervortritt'. Er heiratete viermal und fuehrte ein bewegtes Privatleben. In seinen letzten Lebensjahrzehnten war er eine der prominentesten Stimmen der Friedensbewegung und der nuklearen Abruestung.",
+      "tod": "Bertrand Russell starb am 2. Februar 1970 in Penrhyndeudraeth, Wales, im Alter von 97 Jahren an Influenza. Bis wenige Tage vor seinem Tod hatte er politische Stellungnahmen verfasst. Er hatte ein Leben gelebt, das fast ein ganzes Jahrhundert umspannte – von der viktorianischen Aera bis zum Zeitalter der Mondlandung.",
+      "nachwirkung": "Russell gilt zusammen mit Frege und Wittgenstein als Begruender der analytischen Philosophie, der dominierenden philosophischen Tradition der englischsprachigen Welt. Seine logischen Arbeiten revolutionierten die Grundlagen der Mathematik. Sein Einfluss auf Wittgenstein, den Wiener Kreis, Quine, Popper und die gesamte analytische Tradition ist kaum zu ueberschaetzen. Als oeffentlicher Intellektueller verkoerperte er das Ideal des rational engagierten Buergers. Seine populaeren philosophischen Werke werden bis heute gelesen und geschaetzt."
+    },
+    "kernideen": [
+      {
+        "titel": "Logizismus",
+        "beschreibung": "Die These, dass die Mathematik auf die Logik zurueckgefuehrt werden kann. Die 'Principia Mathematica' versuchten, dies in einem formalen System durchzufuehren – ein monumentales Projekt, das die Grundlagen der Mathematik und Logik fuer immer veraenderte."
+      },
+      {
+        "titel": "Theorie der Kennzeichnungen",
+        "beschreibung": "Russells Analyse bestimmter Beschreibungen (wie 'der gegenwaertige Koenig von Frankreich') zeigt, dass die grammatische Form eines Satzes seine logische Form verschleiern kann. Diese Theorie demonstriert die Macht der logischen Analyse zur Loesung philosophischer Probleme."
+      },
+      {
+        "titel": "Logischer Atomismus",
+        "beschreibung": "Die Welt besteht aus atomaren Tatsachen, die durch logische Beziehungen verbunden sind. Eine ideale Sprache wuerde die logische Struktur der Welt direkt abbilden. Diese Position beeinflusste Wittgensteins 'Tractatus' und den Wiener Kreis."
+      },
+      {
+        "titel": "Russells Paradoxon",
+        "beschreibung": "Die Menge aller Mengen, die sich nicht selbst enthalten, fuehrt zu einem Widerspruch: Enthaelt sie sich selbst oder nicht? Dieses Paradoxon erschuetterte die naive Mengenlehre und fuehrte zur Typentheorie und zur axiomatischen Mengenlehre."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "The Principles of Mathematics",
+        "jahr": "1903",
+        "beschreibung": "Das Werk legt die philosophischen Grundlagen des Logizismus und entwickelt eine Analyse mathematischer Begriffe mit den Mitteln der formalen Logik."
+      },
+      {
+        "titel": "Principia Mathematica",
+        "jahr": "1910–1913",
+        "beschreibung": "Das mit Alfred North Whitehead verfasste dreibaendige Monumentalwerk versucht, die gesamte Mathematik aus logischen Axiomen abzuleiten – eines der ambitioniertesten intellektuellen Projekte der Geschichte."
+      },
+      {
+        "titel": "The Problems of Philosophy",
+        "jahr": "1912",
+        "beschreibung": "Eine brillante und zugaengliche Einfuehrung in die Erkenntnistheorie, die zentrale Probleme wie die Existenz der Aussenwelt, Induktion und Universalien behandelt."
+      },
+      {
+        "titel": "A History of Western Philosophy",
+        "jahr": "1945",
+        "beschreibung": "Russells populaere Geschichte der westlichen Philosophie von den Vorsokratikern bis zur Moderne wurde ein internationaler Bestseller und finanzierte seinen Lebensunterhalt."
+      }
+    ]
+  }
 }

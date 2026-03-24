@@ -85,5 +85,27 @@
     }
   ],
   "verwandtePhilosophen": ["aristoteles", "thomas-von-aquin", "charles-taylor"],
-  "verwandteIsmen": ["tugendethik", "kommunitarismus"]
+  "verwandteIsmen": ["tugendethik", "kommunitarismus"],
+  "einfach": {
+    "kurzbeschreibung": "Alasdair MacIntyre ist ein Philosoph, der sagt, dass unsere heutige Moral in einer Krise steckt, weil wir vergessen haben, was Tugenden sind und warum Gemeinschaft wichtig ist.",
+    "biografie": {
+      "fruehesLeben": "MacIntyre wurde 1929 in Glasgow, Schottland, geboren. Er studierte Philosophie in London und Manchester und begann seine Karriere in Grossbritannien, bevor er in die USA zog.",
+      "schaffen": "MacIntyre wandelte sich vom Marxisten zum Verteidiger der klassischen Tugendethik. Sein beruhmtes Buch Der Verlust der Tugend erklaert, dass die moderne Moral kaputt ist, weil sie den Zusammenhang zwischen Tugend, Gemeinschaft und Lebenssinn verloren hat.",
+      "spaetesLeben": "Er lehrte an der University of Notre Dame in den USA, wurde Katholik und verband die Philosophie von Thomas von Aquin mit seinem Denken.",
+      "tod": "MacIntyre lebt und arbeitet weiterhin.",
+      "nachwirkung": "MacIntyre hat die Tugendethik als echte Alternative zum Utilitarismus zurueckgebracht und den Kommunitarismus als politische Philosophie mitbegruendet."
+    },
+    "kernideen": [
+      {"titel": "Die Krise der modernen Moral", "beschreibung": "Unsere heutige Moral besteht nur noch aus Bruchstuecken alter Traditionen, die nicht mehr zusammenpassen. Deshalb sind moralische Diskussionen oft endlos und fuehren zu nichts."},
+      {"titel": "Tugendethik und Praxis", "beschreibung": "Tugenden sind Faehigkeiten, die man braucht, um in einer Taetigkeit wirklich gut zu sein und ein gutes Leben zu fuehren."},
+      {"titel": "Narrative Identitaet", "beschreibung": "Unser Leben ergibt nur Sinn, wenn wir es als zusammenhaengende Geschichte verstehen. Wer wir sind, haengt davon ab, woher wir kommen und welche Geschichte wir leben."},
+      {"titel": "Tradition und Rationalitaet", "beschreibung": "Vernuenftiges Denken findet immer innerhalb einer Tradition statt. Es gibt keine Vernunft, die voellig unabhaengig von jeder Tradition waere."}
+    ],
+    "werke": [
+      {"titel": "After Virtue (Der Verlust der Tugend)", "jahr": "1981", "beschreibung": "Das Buch, das die Krise der modernen Moral beschreibt und fuer eine Rueckkehr zur Tugendethik plaediert."},
+      {"titel": "Whose Justice? Which Rationality?", "jahr": "1988", "beschreibung": "Eine Untersuchung darueber, wie verschiedene Traditionen verschiedene Vorstellungen von Gerechtigkeit und Vernunft entwickeln."},
+      {"titel": "Three Rival Versions of Moral Enquiry", "jahr": "1990", "beschreibung": "Ein Vergleich von drei verschiedenen Ansaetzen in der Moralphilosophie und eine Verteidigung des thomistischen Ansatzes."},
+      {"titel": "Dependent Rational Animals", "jahr": "1999", "beschreibung": "Ein Buch, das betont, wie verletzlich und abhaengig voneinander wir Menschen sind und warum Fuersorge eine wichtige Tugend ist."}
+    ]
+  }
 }

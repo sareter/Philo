@@ -19,5 +19,18 @@
     {"titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883"},
     {"titel": "Götzen-Dämmerung", "autor": "Friedrich Nietzsche", "jahr": "1889"},
     {"titel": "Der Wille zur Macht", "autor": "Friedrich Nietzsche", "jahr": "1901"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Aktiver Nihilismus heisst: Alte Werte und Ueberzeugungen bewusst einreissen, um Platz fuer etwas Neues und Besseres zu schaffen. Nicht aufgeben, sondern umbauen.",
+    "ausfuehrlicheBeschreibung": "Es gibt zwei Arten von Nihilismus. Der passive Nihilist sagt: Nichts hat Sinn, also gebe ich auf. Der aktive Nihilist sagt: Nichts hat Sinn -- super, dann kann ich alles neu aufbauen! Der aktive Nihilismus ist also nicht destruktiv aus Verzweiflung, sondern zerstoererisch mit einem Ziel.\n\nNietzsche hat das so beschrieben: Die alten Werte -- Religion, traditionelle Moral, blinder Gehorsam -- sind tot. Sie funktionieren nicht mehr. Aber anstatt deswegen depressiv zu werden, sollte man die Truemmer beiseite raeumen und etwas Neues schaffen. Werte, die das Leben bejahen, statt es einzuschraenken.\n\nNietzsche benutzt ein schoenes Bild dafuer: Der Mensch durchlaeuft drei Verwandlungen. Erst ist er ein Kamel, das alles traegt, was man ihm auflaet. Dann wird er zum Loewen, der Nein sagt und die alten Lasten abwirft. Und schliesslich wird er zum Kind, das frei und spielerisch Neues erschafft. Der aktive Nihilismus ist die Loewen-Phase -- notwendig, aber nicht das Ende.",
+    "kernthesen": [
+      "Alte Werte muessen bewusst zerstoert werden, damit Neues entstehen kann.",
+      "Nihilismus soll nicht in Resignation enden, sondern als Antrieb zum Neuaufbau dienen.",
+      "Die alten Werte wie blinder Glaube und starre Moral haben ausgedient.",
+      "Der aktive Nihilismus ist eine Uebergangsphase, kein Dauerzustand.",
+      "Das Ziel sind neue Werte, die das Leben bejahen statt es einzuschraenken."
+    ],
+    "entstehung": "Nietzsche entwickelte den aktiven Nihilismus Ende des 19. Jahrhunderts. Er sah, dass die traditionellen Werte ihre Kraft verloren hatten ('Gott ist tot'), und suchte einen Weg, aus dieser Krise etwas Positives zu machen.",
+    "kritik": "Kritiker warnen: Wer alles einreisst, hat noch nichts Besseres aufgebaut. Es besteht die Gefahr, dass die Zerstoerung zum Selbstzweck wird. Ausserdem fragt sich: Wer entscheidet, welche neuen Werte die alten ersetzen sollen?"
+  }
 }

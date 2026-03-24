@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Konservatismus", "Platonismus"],
+  "hauptstroemungen": [
+    "Konservatismus",
+    "Platonismus"
+  ],
   "kurzbeschreibung": "Leo Strauss war ein deutsch-amerikanischer politischer Philosoph, der durch seine Wiederentdeckung der klassischen politischen Philosophie und seine Kunst der esoterischen Lektüre großen Einfluss auf die amerikanische politische Theorie ausübte. Er diagnostizierte eine Krise der Moderne, die nur durch die Rückkehr zu den Fragen der Alten überwunden werden könne. Seine Schüler – die 'Straussianer' – bilden eine einflussreiche intellektuelle Strömung.",
   "biografie": {
     "fruehesLeben": "Leo Strauss wurde 1899 in Kirchhain, Hessen, in eine orthodoxe jüdische Familie geboren. Er studierte Philosophie in Marburg und Hamburg und promovierte 1921 über Jacobi. Als junger Gelehrter arbeitete er an der Akademie für die Wissenschaft des Judentums in Berlin.",
@@ -81,6 +84,64 @@
       "quelle": "Vorträge"
     }
   ],
-  "verwandtePhilosophen": ["platon", "aristoteles", "niccolo-machiavelli", "carl-schmitt"],
-  "verwandteIsmen": ["konservatismus", "platonismus"]
+  "verwandtePhilosophen": [
+    "platon",
+    "aristoteles",
+    "niccolo-machiavelli",
+    "carl-schmitt"
+  ],
+  "verwandteIsmen": [
+    "konservatismus",
+    "platonismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Leo Strauss war ein deutsch-amerikanischer politischer Philosoph, der durch seine Wiederentdeckung der klassischen politischen Philosophie und seine Kunst der esoterischen Lektuere grossen Einfluss auf die amerikanische politische Theorie ausuebte. Er diagnostizierte eine Krise der Moderne, die nur durch die Rueckkehr zu den Fragen der Alten ueberwunden werden koenne. Seine Schueler – die 'Straussianer' – bilden eine einflussreiche intellektuelle Stroemung.",
+    "biografie": {
+      "fruehesLeben": "Leo Strauss wurde 1899 in Kirchhain, Hessen, in eine orthodoxe juedische Familie geboren. Er studierte Philosophie in Marburg und Hamburg und promovierte 1921 ueber Jacobi. Als junger Gelehrter arbeitete er an der Akademie fuer die Wissenschaft des Judentums in Berlin.",
+      "schaffen": "Vor dem Nationalsozialismus fluechtend, ging Strauss ueber Paris und Cambridge in die USA, wo er ab 1949 an der University of Chicago lehrte. Dort entwickelte er seine einflussreiche Methode der textnahen Lektuere klassischer philosophischer Werke. Er argumentierte, dass die grossen Philosophen zwischen einer exoterischen (oeffentlichen) und einer esoterischen (verborgenen) Lehre unterschieden.",
+      "spaetesLeben": "Nach seiner Emeritierung 1968 lehrte Strauss am Claremont Men's College und am St. John's College in Annapolis. Er zog eine aussergewoehnlich loyale Schuelerschaft heran, die seinen Einfluss in der amerikanischen Politikwissenschaft und Politik verbreitete.",
+      "tod": "Leo Strauss starb am 18. Oktober 1973 in Annapolis, Maryland. Sein Vermaechtnis ist umstritten – von Bewunderern als Retter der politischen Philosophie gefeiert, von Kritikern als Vordenker des Neokonservatismus angegriffen.",
+      "nachwirkung": "Strauss' Einfluss auf die amerikanische politische Philosophie und Politik ist enorm. Seine Schueler besetzten einflussreiche Positionen in der Akademie und in der Politik. Seine Methode der esoterischen Lektuere hat die Interpretationsgeschichte der Philosophie veraendert. Die Debatte ueber sein Erbe – zwischen Wiederentdeckung der Klassik und Kritik des politischen Straussianismus – dauert an."
+    },
+    "kernideen": [
+      {
+        "titel": "Esoterisches Schreiben (Persecution and the Art of Writing)",
+        "beschreibung": "Unter Bedingungen der Verfolgung haben Philosophen ihre wahren Gedanken zwischen den Zeilen verborgen. Diese esoterische Schreibweise richtet sich an aufmerksame Leser, waehrend die exoterische Oberflaeche den Anforderungen der gesellschaftlichen Ordnung genuegt. Die Kunst des Lesens muss diese Technik beruecksichtigen."
+      },
+      {
+        "titel": "Die Krise der Moderne",
+        "beschreibung": "Die Moderne hat die Frage nach dem guten Leben aufgegeben und durch die Frage nach dem bequemen Leben ersetzt. Der Historismus und der Positivismus haben die Moeglichkeit objektiver Werte und natuerlichen Rechts untergraben. Nur die Rueckkehr zu den Fragen der klassischen politischen Philosophie kann diese Krise ueberwinden."
+      },
+      {
+        "titel": "Naturrecht und Geschichte",
+        "beschreibung": "Die klassische Tradition des Naturrechts – von Platon und Aristoteles ueber Thomas von Aquin – erkennt eine natuerliche Ordnung des Guten an, die unabhaengig von menschlicher Konvention besteht. Der moderne Historismus hat diese Tradition zerstoert und damit die Grundlage rationaler politischer Ordnung untergraben."
+      },
+      {
+        "titel": "Athen und Jerusalem",
+        "beschreibung": "Die westliche Zivilisation gruendet auf dem unaufloesbaren Spannungsverhaeltnis zwischen Athen (Vernunft, Philosophie) und Jerusalem (Glaube, Offenbarung). Weder die Vernunft noch der Glaube kann den anderen widerlegen. Diese Spannung ist produktiv und darf nicht zugunsten einer Seite aufgeloest werden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Naturrecht und Geschichte (Natural Right and History)",
+        "jahr": "1953",
+        "beschreibung": "Strauss' Hauptwerk, das die Geschichte des Naturrechts von den Alten bis zur Moderne nachzeichnet und den modernen Historismus als Krise diagnostiziert."
+      },
+      {
+        "titel": "Verfolgung und die Kunst des Schreibens (Persecution and the Art of Writing)",
+        "jahr": "1952",
+        "beschreibung": "Die Begruendung der Methode der esoterischen Lektuere, die zeigt, wie Philosophen unter Verfolgungsbedingungen ihre wahren Gedanken verbargen."
+      },
+      {
+        "titel": "Die Stadt und der Mensch (The City and Man)",
+        "jahr": "1964",
+        "beschreibung": "Interpretationen von Aristoteles' 'Politik', Platons 'Staat' und Thukydides' Geschichtswerk als Grundlagen der klassischen politischen Philosophie."
+      },
+      {
+        "titel": "Gedanken ueber Machiavelli (Thoughts on Machiavelli)",
+        "jahr": "1958",
+        "beschreibung": "Eine kontroverse Interpretation Machiavellis als Begruender der modernen politischen Philosophie und 'Lehrer des Boesen'."
+      }
+    ]
+  }
 }

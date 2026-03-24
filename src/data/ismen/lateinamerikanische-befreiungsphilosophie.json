@@ -19,5 +19,18 @@
     {"titel": "Filosofía de la Liberación", "autor": "Enrique Dussel", "jahr": "1977"},
     {"titel": "Pädagogik der Unterdrückten", "autor": "Paulo Freire", "jahr": "1968"},
     {"titel": "¿Existe una filosofía de nuestra América?", "autor": "Augusto Salazar Bondy", "jahr": "1968"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Diese Philosophie kommt aus Lateinamerika und sagt: Wir muessen die Welt aus der Sicht der Unterdrueckten verstehen, nicht nur aus europaeischer Perspektive. Philosophie soll helfen, Ungerechtigkeit zu bekaempfen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jahrhundertelang haben vor allem europaeische Denker bestimmt, was als Philosophie gilt und was nicht. In Lateinamerika haben Menschen aber ganz andere Erfahrungen gemacht -- Kolonialismus, Armut, Unterdrueckung. Die Befreiungsphilosophie sagt: Wir brauchen ein Denken, das von diesen Erfahrungen ausgeht und nicht so tut, als waere die europaeische Sichtweise die einzig richtige.\n\nDie Idee ist ziemlich einfach: Wenn du verstehen willst, was in der Welt schief laeuft, dann frag die Leute, die am meisten darunter leiden. Die Unterdrueckten sehen Dinge, die den Privilegierten gar nicht auffallen. Deshalb fordert diese Philosophie, dass wir die Perspektive wechseln und von den Raendern der Gesellschaft her denken, nicht von der Mitte.\n\nDas Ganze ist nicht nur Theorie -- es geht darum, wirklich etwas zu veraendern. Paulo Freire hat zum Beispiel eine Paedagogik entwickelt, die armen Menschen hilft, ihre eigene Situation zu durchschauen und aktiv zu werden. Die Befreiungsphilosophie hat auch heute noch grossen Einfluss, wenn es um Themen wie globale Gerechtigkeit oder Rassismus geht.",
+    "kernthesen": [
+      "Philosophie muss die Welt aus der Sicht der Unterdrueckten betrachten, nicht nur aus der Sicht der Maechtigen.",
+      "Das europaeische Denken hat Kolonialismus oft gerechtfertigt -- das muessen wir aufarbeiten.",
+      "Es reicht nicht, nur politisch frei zu sein -- auch unser Denken muss sich von alten Mustern befreien.",
+      "Wer am Rand der Gesellschaft steht, versteht oft besser, was wirklich los ist.",
+      "Philosophie darf nicht nur Theorie sein -- sie muss konkret etwas zum Besseren veraendern."
+    ],
+    "entstehung": "Diese Philosophie entstand in den 1960er Jahren in Lateinamerika, als viele Menschen gegen Armut und Unterdrueckung kaempften. Theologen und Philosophen fragten sich: Warum denken wir immer nur mit europaeischen Konzepten? So entwickelten sie eine eigene Denkrichtung, die 1971 bei einer Konferenz in Argentinien richtig Fahrt aufnahm.",
+    "kritik": "Manche sagen, diese Philosophie lehnt europaeisches Denken zu pauschal ab und macht den gleichen Fehler nur umgekehrt. Andere meinen, dass sie sich zu stark auf wirtschaftliche Ungleichheit konzentriert und andere Probleme wie Rassismus oder Sexismus dabei uebersieht."
+  }
 }

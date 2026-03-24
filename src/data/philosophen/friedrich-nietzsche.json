@@ -18,7 +18,12 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Existenzialismus", "Nihilismus", "Lebensphilosophie", "Perspektivismus"],
+  "hauptstroemungen": [
+    "Existenzialismus",
+    "Nihilismus",
+    "Lebensphilosophie",
+    "Perspektivismus"
+  ],
   "kurzbeschreibung": "Friedrich Nietzsche war einer der einflussreichsten und radikalsten Denker des 19. Jahrhunderts, der mit seinen provokanten Schriften die gesamte westliche Philosophie erschütterte. Seine Konzepte des Übermenschen, des Willens zur Macht und der ewigen Wiederkehr prägten das philosophische Denken des 20. Jahrhunderts nachhaltig. Mit seiner leidenschaftlichen Prosa und seinem aphoristischen Stil revolutionierte er nicht nur die Philosophie, sondern auch die Literatur.",
   "biografie": {
     "fruehesLeben": "Friedrich Wilhelm Nietzsche wurde am 15. Oktober 1844 in Röcken bei Lützen als Sohn des lutherischen Pfarrers Carl Ludwig Nietzsche und seiner Frau Franziska geboren. Der Tod seines Vaters im Jahr 1849 und seines jüngeren Bruders Joseph kurz darauf prägten seine Kindheit tief. Die Familie zog nach Naumburg an der Saale, wo Nietzsche von seiner Mutter, Großmutter und zwei Tanten aufgezogen wurde. Von 1858 bis 1864 besuchte er die renommierte Landesschule Pforta, wo er eine hervorragende humanistische Bildung erhielt und seine Leidenschaft für Musik und Literatur entdeckte. Er studierte zunächst Theologie und klassische Philologie in Bonn, wechselte dann nach Leipzig, wo er 1865 auf Arthur Schopenhauers Hauptwerk 'Die Welt als Wille und Vorstellung' stieß, das ihn zutiefst beeinflusste. In Leipzig begann auch seine bedeutende Freundschaft mit Richard Wagner.",
@@ -138,6 +143,70 @@
       "kontext": "Zarathustra beschreibt den Menschen als Übergang und Untergang – als etwas, das überwunden werden soll."
     }
   ],
-  "verwandtePhilosophen": ["arthur-schopenhauer", "martin-heidegger", "jean-paul-sartre", "albert-camus", "michel-foucault", "gilles-deleuze", "jacques-derrida"],
-  "verwandteIsmen": ["existenzialismus", "nihilismus", "perspektivismus", "lebensphilosophie", "postmoderne"]
+  "verwandtePhilosophen": [
+    "arthur-schopenhauer",
+    "martin-heidegger",
+    "jean-paul-sartre",
+    "albert-camus",
+    "michel-foucault",
+    "gilles-deleuze",
+    "jacques-derrida"
+  ],
+  "verwandteIsmen": [
+    "existenzialismus",
+    "nihilismus",
+    "perspektivismus",
+    "lebensphilosophie",
+    "postmoderne"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Friedrich Nietzsche war einer der einflussreichsten und radikalsten Denker des 19. Jahrhunderts, der mit seinen provokanten Schriften die gesamte westliche Philosophie erschuetterte. Seine Konzepte des Uebermenschen, des Willens zur Macht und der ewigen Wiederkehr praegten das philosophische Denken des 20. Jahrhunderts nachhaltig. Mit seiner leidenschaftlichen Prosa und seinem aphoristischen Stil revolutionierte er nicht nur die Philosophie, sondern auch die Literatur.",
+    "biografie": {
+      "fruehesLeben": "Friedrich Wilhelm Nietzsche wurde am 15. Oktober 1844 in Roecken bei Luetzen als Sohn des lutherischen Pfarrers Carl Ludwig Nietzsche und seiner Frau Franziska geboren. Der Tod seines Vaters im Jahr 1849 und seines juengeren Bruders Joseph kurz darauf praegten seine Kindheit tief. Die Familie zog nach Naumburg an der Saale, wo Nietzsche von seiner Mutter, Grossmutter und zwei Tanten aufgezogen wurde. Von 1858 bis 1864 besuchte er die renommierte Landesschule Pforta, wo er eine hervorragende humanistische Bildung erhielt und seine Leidenschaft fuer Musik und Literatur entdeckte. Er studierte zunaechst Theologie und klassische Philologie in Bonn, wechselte dann nach Leipzig, wo er 1865 auf Arthur Schopenhauers Hauptwerk 'Die Welt als Wille und Vorstellung' stiess, das ihn zutiefst beeinflusste.",
+      "schaffen": "Bereits mit 24 Jahren wurde Nietzsche 1869 als ausserordentlicher Professor fuer klassische Philologie an die Universitaet Basel berufen – eine beispiellose akademische Karriere. Sein erstes Buch 'Die Geburt der Tragoedie aus dem Geiste der Musik' (1872) brach radikal mit der konventionellen Philologie und fuehrte die Unterscheidung zwischen dem apollinischen und dionysischen Prinzip ein. Die 'Unzeitgemaessen Betrachtungen' (1873–1876) zeigten seine kulturkritische Haltung. Mit 'Menschliches, Allzumenschliches' (1878) vollzog er eine Wende zum Freigeist-Denken und brach mit Wagner und Schopenhauer. Es folgten 'Morgenroethe' (1881) und 'Die froehliche Wissenschaft' (1882), in der er erstmals den Tod Gottes verkuendete.",
+      "spaetesLeben": "Ab 1879 lebte Nietzsche nach seinem gesundheitsbedingten Ruecktritt von der Basler Professur als freier Autor und reiste rastlos durch Europa – vor allem nach Sils-Maria in der Schweiz, Nizza, Turin und Genua. Seine Gesundheit verschlechterte sich stetig; er litt unter schweren Migraeneattacken, Sehproblemen und Magenbeschwerden. Trotz dieser Leiden war die Dekade von 1879 bis 1889 seine produktivste Schaffensperiode. Seine Buecher fanden zunaechst kaum Leser, und er fuehlte sich zunehmend isoliert und unverstanden. Die unglueckliche Liebesgeschichte mit Lou von Salomé 1882 verstaerkte seine Einsamkeit.",
+      "tod": "Am 3. Januar 1889 erlitt Nietzsche auf der Piazza Carlo Alberto in Turin einen geistigen Zusammenbruch, von dem er sich nie wieder erholte. Er wurde zunaechst in die Basler Irrenanstalt eingeliefert, dann in die Jenaer Klinik und schliesslich von seiner Mutter in Naumburg und nach deren Tod 1897 von seiner Schwester Elisabeth Foerster-Nietzsche in Weimar gepflegt. Die letzten elf Jahre seines Lebens verbrachte er in geistiger Umnachtung, vermutlich als Folge einer progressiven Paralyse. Er starb am 25. August 1900 in Weimar. Seine Schwester Elisabeth verwaltete seinen Nachlass und gruendete das Nietzsche-Archiv, manipulierte jedoch seine unveroeffentlichten Schriften, insbesondere den 'Willen zur Macht', um sie ihren eigenen nationalistischen und antisemitischen Ueberzeugungen anzupassen.",
+      "nachwirkung": "Nietzsches Einfluss auf die Philosophie, Literatur, Psychologie und Kultur des 20. Jahrhunderts ist kaum zu ueberschaetzen. Er beeinflusste massgeblich den Existenzialismus (Heidegger, Sartre, Camus), die Psychoanalyse (Freud), die Frankfurter Schule (Adorno, Horkheimer), den Poststrukturalismus (Foucault, Derrida, Deleuze) und die postmoderne Philosophie insgesamt. Seine Moralkritik und seine Infragestellung absoluter Wahrheiten wurden zu Grundpfeilern des modernen Denkens. Leider wurde sein Werk im 20. Jahrhundert auch von den Nationalsozialisten missbraucht – eine Vereinnahmung, die auf den Faelschungen seiner Schwester beruhte und die die Nietzsche-Rezeption jahrzehntelang belastete."
+    },
+    "kernideen": [
+      {
+        "titel": "Der Uebermensch",
+        "beschreibung": "Nietzsches Konzept des Uebermenschen beschreibt einen Menschen, der ueber die konventionelle Moral hinauswaechst und seine eigenen Werte schafft. Der Uebermensch ist kein biologischer, sondern ein kultureller und existenzieller Typus, der das Leben in seiner Ganzheit bejaht und seine kreative Kraft zur Selbstueberwindung nutzt."
+      },
+      {
+        "titel": "Der Wille zur Macht",
+        "beschreibung": "Der Wille zur Macht ist Nietzsches fundamentales Erklaerungsprinzip fuer alles Geschehen. Er bezeichnet nicht bloss politische oder physische Macht, sondern den grundlegenden Trieb aller Lebewesen zur Selbststeigerung, Entfaltung und kreativen Gestaltung. Er ist die treibende Kraft hinter jeder menschlichen Handlung und jedem kulturellen Schaffen."
+      },
+      {
+        "titel": "Die ewige Wiederkehr des Gleichen",
+        "beschreibung": "Die Idee, dass alle Ereignisse sich in einem ewigen Kreislauf unendlich oft wiederholen, dient Nietzsche als existenzieller Pruefstein: Wer sein Leben so bejaht, dass er seine ewige Wiederkehr wuenschen koennte, hat die hoechste Lebensbejahung erreicht. Es ist weniger eine kosmologische Theorie als ein ethisches Gedankenexperiment."
+      },
+      {
+        "titel": "Der Tod Gottes",
+        "beschreibung": "Mit der beruehmten Formel 'Gott ist tot' diagnostiziert Nietzsche nicht einfach den Atheismus, sondern den Zusammenbruch des gesamten metaphysischen und moralischen Rahmens der westlichen Zivilisation. Die Konsequenz ist die Notwendigkeit, neue Werte zu schaffen, da die alten ihren Grund verloren haben."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Geburt der Tragoedie aus dem Geiste der Musik",
+        "jahr": "1872",
+        "beschreibung": "Nietzsches Erstlingswerk untersucht die Entstehung der griechischen Tragoedie aus dem Zusammenspiel des apollinischen (ordnenden, formgebenden) und dionysischen (rauschhaften, ekstatischen) Prinzips."
+      },
+      {
+        "titel": "Unzeitgemaesse Betrachtungen",
+        "jahr": "1873–1876",
+        "beschreibung": "Vier kulturkritische Essays, die sich mit David Friedrich Strauss, dem Nutzen und Nachteil der Historie fuer das Leben, Schopenhauer als Erzieher und Richard Wagner in Bayreuth befassen."
+      },
+      {
+        "titel": "Menschliches, Allzumenschliches",
+        "jahr": "1878",
+        "beschreibung": "Ein Wendepunkt in Nietzsches Denken: Er verabschiedet sich von der Metaphysik Schopenhauers und Wagners Kunst-Religion zugunsten eines freigeistigen, wissenschaftsnahen Denkstils. Das Werk besteht aus Aphorismen und kurzen Reflexionen."
+      },
+      {
+        "titel": "Morgenroethe",
+        "jahr": "1881",
+        "beschreibung": "Eine Sammlung von Aphorismen, in denen Nietzsche die moralischen Vorurteile der Menschheit untersucht und die unbewussten Motive hinter moralischen Urteilen aufdeckt."
+      }
+    ]
+  }
 }

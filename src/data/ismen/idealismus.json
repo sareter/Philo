@@ -20,5 +20,18 @@
     { "titel": "Phänomenologie des Geistes", "autor": "Georg Wilhelm Friedrich Hegel", "jahr": "1807" },
     { "titel": "Wissenschaftslehre", "autor": "Johann Gottlieb Fichte", "jahr": "1794" },
     { "titel": "A Treatise Concerning the Principles of Human Knowledge", "autor": "George Berkeley", "jahr": "1710" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Idealismus sagt: Die Wirklichkeit ist im Kern geistig. Was wir erleben, wird durch unser Bewusstsein geformt, und vielleicht ist der Geist grundlegender als die Materie.",
+    "ausfuehrlicheBeschreibung": "Hast du dich schon mal gefragt, ob die Welt wirklich so ist, wie du sie siehst? Der Idealismus sagt: Wahrscheinlich nicht. Was wir erleben, wird immer durch unser Bewusstsein gefiltert und geformt. Manche Idealisten gehen sogar so weit zu sagen, dass es ohne Bewusstsein ueberhaupt keine Wirklichkeit gibt. Berkeley zum Beispiel meinte: Ein Ding existiert nur, wenn jemand es wahrnimmt.\n\nKant hat das etwas vorsichtiger formuliert. Er sagte: Es gibt zwar eine Welt da draussen, aber wir koennen sie nie so erleben, wie sie wirklich ist. Denn unser Verstand ordnet alles automatisch in Kategorien wie Raum, Zeit und Ursache-Wirkung. Das sind keine Eigenschaften der Welt, sondern unsere Art, die Welt zu verarbeiten. Wie eine Brille, die wir nicht abnehmen koennen.\n\nHegel hat den Idealismus dann auf die Spitze getrieben. Fuer ihn ist die gesamte Wirklichkeit die Entwicklung eines universellen Geistes, der sich durch die Geschichte hindurch selbst erkennt. Das klingt ziemlich abgehoben, hatte aber riesigen Einfluss auf Politik, Kunst und Wissenschaft. Auch wenn der Idealismus heute nicht mehr die dominierende Philosophie ist, stellt er eine der wichtigsten Fragen ueberhaupt: Wie viel von dem, was wir fuer die Wirklichkeit halten, ist eigentlich unser eigener Geist?",
+    "kernthesen": [
+      "Die Wirklichkeit ist im Kern geistig oder wird zumindest durch den Geist geformt.",
+      "Wir koennen die Welt nie so sehen, wie sie wirklich ist, weil unser Bewusstsein alles filtert.",
+      "Fuer Hegel ist die ganze Wirklichkeit die Selbstentwicklung eines universellen Geistes.",
+      "Berkeley meinte: Etwas existiert nur, wenn es wahrgenommen wird.",
+      "Um die Welt zu verstehen, muessen wir zuerst verstehen, wie unser Erkennen funktioniert."
+    ],
+    "entstehung": "Die Wurzeln reichen bis zu Platon, der die Ideen fuer die eigentliche Wirklichkeit hielt. Im 18. Jahrhundert hat Berkeley den Immaterialismus formuliert, und Kant hat mit seinem transzendentalen Idealismus eine neue Grundlage geschaffen. Der Deutsche Idealismus mit Fichte, Schelling und Hegel war der Hoehepunkt dieser Tradition.",
+    "kritik": "Materialisten sagen: Die Naturwissenschaft zeigt, dass die Materie grundlegend ist und der Geist ein Produkt des Gehirns. Ausserdem widerspricht der Idealismus unserem Alltagserleben, denn wir haben das Gefuehl, dass die Welt auch ohne uns da ist. Und Hegels System wird oft als unverstaendlich und uebertrieben abstrakt kritisiert."
+  }
 }

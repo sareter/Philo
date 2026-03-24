@@ -80,5 +80,50 @@
     }
   ],
   "verwandtePhilosophen": ["emmanuel-levinas", "gustavo-gutierrez", "gayatri-spivak"],
-  "verwandteIsmen": ["befreiungsphilosophie", "postkolonialismus"]
+  "verwandteIsmen": ["befreiungsphilosophie", "postkolonialismus"],
+  "einfach": {
+    "kurzbeschreibung": "Enrique Dussel ist ein argentinisch-mexikanischer Philosoph, der Philosophie aus der Sicht der Unterdrueckten denkt. Er kritisiert, dass europaeische Philosophie sich als einzig wahre Philosophie darstellt.",
+    "biografie": {
+      "fruehesLeben": "Dussel wurde 1934 in einer Kleinstadt in Argentinien geboren. Er studierte Philosophie in Buenos Aires, Madrid und Paris.",
+      "schaffen": "Ab den 1970ern entwickelte er seine Befreiungsphilosophie: Echtes Denken muss bei den Ausgeschlossenen anfangen, nicht bei abstrakten Theorien. Er zeigte, dass die europaeische Philosophie von Descartes bis Hegel die Unterdrueckung anderer Voelker gerechtfertigt hat.",
+      "spaetesLeben": "Nachdem eine Bombe in sein Haus in Argentinien geworfen wurde, floh er nach Mexiko. Dort lehrt und arbeitet er bis heute.",
+      "tod": "Enrique Dussel lebt und arbeitet weiterhin in Mexiko-Stadt.",
+      "nachwirkung": "Seine Befreiungsphilosophie hat das Denken in Lateinamerika und weltweit veraendert. Er bietet eine Alternative zum rein europaeischen Blick auf die Welt."
+    },
+    "kernideen": [
+      {
+        "titel": "Befreiungsphilosophie",
+        "beschreibung": "Philosophie muss bei den Unterdrueckten anfangen, nicht bei abstrakten Ideen. Die europaeische Philosophie hat die Unterwerfung anderer Voelker gerechtfertigt."
+      },
+      {
+        "titel": "Transmoderne",
+        "beschreibung": "Statt nur europaeisch-modern oder postmodern zu denken, sollen auch die Traditionen des globalen Suedens als gleichwertige Denkquellen anerkannt werden."
+      },
+      {
+        "titel": "Analektik",
+        "beschreibung": "Im Gegensatz zur Dialektik, die alles ins System einordnet, erkennt die Analektik den Anderen als wirklich anders an, nicht einfach als Gegenteil von uns."
+      },
+      {
+        "titel": "Kritik des Eurozentrismus",
+        "beschreibung": "Europa hat seine Philosophie faelschlicherweise als die einzig wahre dargestellt und dabei die Denktraditionen anderer Kontinente ignoriert."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Filosofia de la liberacion (Philosophie der Befreiung)",
+        "jahr": "1977",
+        "beschreibung": "Sein Hauptwerk, das eine Philosophie aus der Perspektive der Unterdrueckten in Lateinamerika entwirft."
+      },
+      {
+        "titel": "Etica de la liberacion (Ethik der Befreiung)",
+        "jahr": "1998",
+        "beschreibung": "Eine Ethik, die von der Verantwortung fuer die Opfer des bestehenden Systems ausgeht."
+      },
+      {
+        "titel": "1492: El encubrimiento del otro (1492: Die Verdeckung des Anderen)",
+        "jahr": "1992",
+        "beschreibung": "Eine Analyse, die zeigt, dass die 'Entdeckung' Amerikas eigentlich der Beginn der Unterdrueckung war."
+      }
+    ]
+  }
 }

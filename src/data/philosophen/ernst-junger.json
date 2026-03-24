@@ -82,5 +82,55 @@
     }
   ],
   "verwandtePhilosophen": ["martin-heidegger", "friedrich-nietzsche", "carl-schmitt"],
-  "verwandteIsmen": ["konservatismus"]
+  "verwandteIsmen": ["konservatismus"],
+  "einfach": {
+    "kurzbeschreibung": "Ernst Juenger war ein umstrittener deutscher Schriftsteller und Denker, der 102 Jahre alt wurde. Er schrieb ueber Krieg, Technik und die Frage, wie man in einer unfreien Welt innerlich frei bleiben kann.",
+    "biografie": {
+      "fruehesLeben": "Juenger wurde 1895 in Heidelberg geboren. Als Teenager riss er zur Fremdenlegion aus, wurde aber zurueckgeholt. Im Ersten Weltkrieg kaempfte er als Soldat und wurde vierzehnmal verwundet.",
+      "schaffen": "Sein Kriegstagebuch 'In Stahlgewittern' machte ihn beruehmt. In 'Der Arbeiter' beschrieb er, wie Technik die moderne Welt komplett veraendert. Anfangs stand er dem Nationalismus nahe, distanzierte sich aber spaeter vom Nationalsozialismus.",
+      "spaetesLeben": "Nach dem Krieg wandelte er sich vom kriegerischen Nationalisten zum nachdenklichen Naturbeobachter und Tagebuchschreiber. Er wurde zu einem europaeischen Denker und empfing Besucher aus aller Welt.",
+      "tod": "Juenger starb 1998 mit 102 Jahren. Er hatte ein ganzes Jahrhundert durchlebt und bleibt einer der umstrittensten deutschen Schriftsteller.",
+      "nachwirkung": "Sein Werk wird bis heute kontrovers diskutiert. Seine Analyse der Technik beeinflusste Heidegger, und sein Konzept des 'Waldgangs' als innerer Widerstand bleibt aktuell."
+    },
+    "kernideen": [
+      {
+        "titel": "Der Arbeiter als Gestalt",
+        "beschreibung": "Die buergerliche Epoche ist vorbei. Der neue Menschentyp ist der 'Arbeiter', der die Technik nicht nur benutzt, sondern verkoerpert und die Welt nach dem Prinzip der Effizienz umgestaltet."
+      },
+      {
+        "titel": "Totale Mobilmachung",
+        "beschreibung": "Die moderne Gesellschaft mobilisiert alles und jeden fuer Produktivitaet und Effizienz, im Krieg wie im Frieden. Der Erste Weltkrieg war die erste grosse Manifestation davon."
+      },
+      {
+        "titel": "Der Waldgang",
+        "beschreibung": "Der Waldgaenger ist jemand, der sich innerlich der totalen Vereinnahmung entzieht. Er bewahrt seine Freiheit in einer unfreien Welt durch innere Souveraenitaet."
+      },
+      {
+        "titel": "Stereoskopisches Sehen",
+        "beschreibung": "Eine Art des Sehens, das hinter den Oberflaechen tiefere Muster erkennt. Juenger war immer der distanzierte Beobachter, ob im Krieg oder in der Natur."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "In Stahlgewittern",
+        "jahr": "1920",
+        "beschreibung": "Sein nuechtern-intensives Kriegstagebuch aus dem Ersten Weltkrieg, eines der bedeutendsten Kriegsbuecher ueberhaupt."
+      },
+      {
+        "titel": "Der Arbeiter - Herrschaft und Gestalt",
+        "jahr": "1932",
+        "beschreibung": "Sein philosophisches Hauptwerk ueber den neuen Menschentyp des technischen Zeitalters."
+      },
+      {
+        "titel": "Auf den Marmorklippen",
+        "jahr": "1939",
+        "beschreibung": "Ein allegorischer Roman, der als verhuellte Kritik des Nationalsozialismus gelesen wurde."
+      },
+      {
+        "titel": "Der Waldgang",
+        "jahr": "1951",
+        "beschreibung": "Ein Essay ueber die Moeglichkeit innerer Freiheit in einer unfreien Welt."
+      }
+    ]
+  }
 }

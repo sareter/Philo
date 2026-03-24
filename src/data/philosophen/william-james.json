@@ -18,7 +18,11 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Pragmatismus", "Radikaler Empirismus", "Funktionalismus"],
+  "hauptstroemungen": [
+    "Pragmatismus",
+    "Radikaler Empirismus",
+    "Funktionalismus"
+  ],
   "kurzbeschreibung": "William James war einer der Begründer des amerikanischen Pragmatismus und gilt als Vater der modernen Psychologie in den Vereinigten Staaten. Er verband philosophisches Denken mit empirischer Forschung und entwickelte eine pluralistische Weltanschauung, die Erfahrung und praktische Konsequenzen ins Zentrum stellte. Sein Werk beeinflusste Philosophie, Psychologie und Religionswissenschaft gleichermaßen.",
   "biografie": {
     "fruehesLeben": "William James wurde am 11. Januar 1842 in New York City als ältester Sohn des wohlhabenden Theologen Henry James Sr. und seiner Frau Mary Robertson Walsh geboren. Sein jüngerer Bruder war der berühmte Romancier Henry James. Die Familie reiste ausgiebig durch Europa, und William erhielt eine kosmopolitische Erziehung an verschiedenen Schulen in Genf, Paris, Boulogne-sur-Mer und Bonn. Er interessierte sich zunächst für die Malerei und studierte im Atelier von William Morris Hunt, bevor er 1861 an die Lawrence Scientific School in Harvard wechselte. Ab 1864 studierte er Medizin an der Harvard Medical School, unterbrach sein Studium jedoch 1865 für eine Expedition nach Brasilien unter Louis Agassiz. Während seiner Studienzeit litt er unter schweren Depressionen und psychosomatischen Beschwerden, die ihn jahrelang plagten.",
@@ -104,6 +108,67 @@
       "kontext": "Über die Notwendigkeit der selektiven Aufmerksamkeit als Grundlage der Weisheit."
     }
   ],
-  "verwandtePhilosophen": ["charles-sanders-peirce", "john-dewey", "richard-rorty", "alfred-north-whitehead", "henri-bergson"],
-  "verwandteIsmen": ["pragmatismus", "empirismus", "funktionalismus", "pluralismus"]
+  "verwandtePhilosophen": [
+    "charles-sanders-peirce",
+    "john-dewey",
+    "richard-rorty",
+    "alfred-north-whitehead",
+    "henri-bergson"
+  ],
+  "verwandteIsmen": [
+    "pragmatismus",
+    "empirismus",
+    "funktionalismus",
+    "pluralismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "William James war einer der Begruender des amerikanischen Pragmatismus und gilt als Vater der modernen Psychologie in den Vereinigten Staaten. Er verband philosophisches Denken mit empirischer Forschung und entwickelte eine pluralistische Weltanschauung, die Erfahrung und praktische Konsequenzen ins Zentrum stellte. Sein Werk beeinflusste Philosophie, Psychologie und Religionswissenschaft gleichermassen.",
+    "biografie": {
+      "fruehesLeben": "William James wurde am 11. Januar 1842 in New York City als aeltester Sohn des wohlhabenden Theologen Henry James Sr. und seiner Frau Mary Robertson Walsh geboren. Sein juengerer Bruder war der beruehmte Romancier Henry James. Die Familie reiste ausgiebig durch Europa, und William erhielt eine kosmopolitische Erziehung an verschiedenen Schulen in Genf, Paris, Boulogne-sur-Mer und Bonn. Er interessierte sich zunaechst fuer die Malerei und studierte im Atelier von William Morris Hunt, bevor er 1861 an die Lawrence Scientific School in Harvard wechselte. Ab 1864 studierte er Medizin an der Harvard Medical School, unterbrach sein Studium jedoch 1865 fuer eine Expedition nach Brasilien unter Louis Agassiz.",
+      "schaffen": "James erhielt 1869 seinen Doktortitel in Medizin von Harvard, praktizierte jedoch nie als Arzt. Stattdessen begann er 1873 als Dozent fuer Anatomie und Physiologie in Harvard zu lehren und richtete dort eines der ersten psychologischen Labore in den USA ein. Sein monumentales Werk 'The Principles of Psychology' (1890), an dem er zwoelf Jahre gearbeitet hatte, revolutionierte die Psychologie und machte ihn weltberuehmt. In der Philosophie entwickelte er, aufbauend auf den Ideen seines Freundes Charles Sanders Peirce, den Pragmatismus zu einer eigenstaendigen philosophischen Richtung. Seine Gifford Lectures in Edinburgh erschienen als 'The Varieties of Religious Experience' (1902), ein Meilenstein der Religionspsychologie.",
+      "spaetesLeben": "In seinen letzten Lebensjahren wurde James zunehmend zum oeffentlichen Intellektuellen und engagierte sich gegen den amerikanischen Imperialismus, insbesondere gegen den Philippinisch-Amerikanischen Krieg. Er hielt zahlreiche populaere Vorlesungsreihen und wurde zur bekanntesten intellektuellen Figur Amerikas. Seine Gesundheit verschlechterte sich ab 1898 durch ein Herzleiden, das ihn zunehmend einschraenkte. Trotzdem arbeitete er intensiv an seinem philosophischen System des radikalen Empirismus und des Pluralismus. Sein letztes grosses Werk 'A Pluralistic Universe' (1909) verteidigte eine offene, prozesshafte Weltsicht gegen den absoluten Idealismus. Er korrespondierte ausgiebig mit europaeischen Denkern wie Henri Bergson, den er sehr bewunderte.",
+      "tod": "William James starb am 26. August 1910 in seinem Sommerhaus in Tamworth, New Hampshire, an Herzversagen. Er hatte bis zuletzt an seinem unvollendeten philosophischen Hauptwerk gearbeitet, das posthum als 'Some Problems of Philosophy' veroeffentlicht wurde. Sein Tod wurde in den USA und Europa gleichermassen als Verlust eines der groessten Denker der Epoche empfunden. Seine Beerdigung fand in Cambridge, Massachusetts, statt, wo er den Grossteil seines Lebens verbracht hatte.",
+      "nachwirkung": "James' Einfluss erstreckt sich ueber Philosophie, Psychologie und Religionswissenschaft. Er begruendete den amerikanischen Pragmatismus als eigenstaendige philosophische Tradition, die von John Dewey, Richard Rorty und vielen anderen weitergefuehrt wurde. Seine 'Principles of Psychology' gelten als Gruendungstext der modernen Psychologie. Seine religionsphilosophischen Arbeiten beeinflussten die Phaenomenologie der Religion und die existenzialistische Theologie. In der Philosophie des Geistes wirkt sein Konzept des 'Bewusstseinsstroms' bis heute nach. Der Pragmatismus erlebt seit den 1980er Jahren eine Renaissance, und James wird als einer der originellsten amerikanischen Denker gewuerdigt."
+    },
+    "kernideen": [
+      {
+        "titel": "Pragmatische Wahrheitstheorie",
+        "beschreibung": "Wahrheit ist fuer James kein statisches Abbild der Realitaet, sondern das, was sich in der Erfahrung bewaehrt und praktische Konsequenzen hat. Eine Idee ist wahr, insofern sie uns hilft, befriedigende Beziehungen zu anderen Teilen unserer Erfahrung herzustellen."
+      },
+      {
+        "titel": "Radikaler Empirismus",
+        "beschreibung": "James' radikaler Empirismus behauptet, dass die Erfahrung der einzige Grundstoff der Wirklichkeit ist und dass auch die Beziehungen zwischen Erfahrungen selbst erfahren werden. Es gibt keine transzendente Realitaet jenseits der Erfahrung."
+      },
+      {
+        "titel": "Der Bewusstseinsstrom",
+        "beschreibung": "James praegte den Begriff 'stream of consciousness' und argumentierte, dass das Bewusstsein kein statisches Ding, sondern ein fliessender, kontinuierlicher Prozess ist. Gedanken sind keine diskreten Einheiten, sondern Teil eines ununterbrochenen Stroms."
+      },
+      {
+        "titel": "Der Wille zum Glauben",
+        "beschreibung": "In bestimmten existenziellen Situationen, in denen die Evidenz nicht ausreicht, haben wir das Recht, uns fuer den Glauben zu entscheiden, wenn dieser praktische Konsequenzen fuer unser Leben hat. Dies gilt insbesondere fuer religioese und moralische Ueberzeugungen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "The Principles of Psychology",
+        "jahr": "1890",
+        "beschreibung": "James' monumentales zweibaendiges Werk revolutionierte die Psychologie und fuehrte Konzepte wie den Bewusstseinsstrom, die James-Lange-Theorie der Emotionen und die Gewohnheitsbildung in die wissenschaftliche Diskussion ein."
+      },
+      {
+        "titel": "The Will to Believe",
+        "jahr": "1897",
+        "beschreibung": "Eine Sammlung von Essays, in denen James das Recht verteidigt, in Abwesenheit ausreichender Evidenz religioese und moralische Ueberzeugungen anzunehmen, wenn diese lebenspraktische Bedeutung haben."
+      },
+      {
+        "titel": "The Varieties of Religious Experience",
+        "jahr": "1902",
+        "beschreibung": "James' Gifford Lectures untersuchen religioese Erfahrungen aus psychologischer Perspektive und argumentieren fuer den Wert mystischer und religioeser Erlebnisse als genuine Erkenntnisquellen."
+      },
+      {
+        "titel": "Pragmatism",
+        "jahr": "1907",
+        "beschreibung": "Die klassische Darstellung des Pragmatismus als philosophische Methode und Wahrheitstheorie. James definiert Pragmatismus als eine Methode zur Klaerung philosophischer Streitigkeiten durch Untersuchung ihrer praktischen Konsequenzen."
+      }
+    ]
+  }
 }

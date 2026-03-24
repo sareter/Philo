@@ -11,13 +11,44 @@
     "Moralische Meinungsverschiedenheiten sind Konflikte zwischen Einstellungen",
     "Die Vernunft ist die Sklavin der Leidenschaften"
   ],
-  "hauptvertreter": ["david-hume"],
+  "hauptvertreter": [
+    "david-hume"
+  ],
   "entstehung": "Der Non-Kognitivismus hat seine philosophischen Wurzeln in David Humes Moralphilosophie des 18. Jahrhunderts und wurde im 20. Jahrhundert von A. J. Ayer und Charles Stevenson zum Emotivismus weiterentwickelt.",
   "kritik": "Kritiker werfen dem Non-Kognitivismus vor, er könne die Phänomene moralischer Argumentation und moralischen Fortschritts nicht erklären. Zudem wird argumentiert, dass moralische Urteile sehr wohl Wahrheitsansprüche erheben und dass die Reduktion auf bloße Gefühlsausdrücke der moralischen Erfahrung nicht gerecht wird.",
-  "verwandteIsmen": ["moralischer-relativismus", "praeskriptivismus", "wertnihilismus"],
+  "verwandteIsmen": [
+    "moralischer-relativismus",
+    "praeskriptivismus",
+    "wertnihilismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Ein Traktat über die menschliche Natur", "autor": "David Hume", "jahr": "1739"},
-    {"titel": "Sprache, Wahrheit und Logik", "autor": "Alfred Jules Ayer", "jahr": "1936"},
-    {"titel": "Ethik und Sprache", "autor": "Charles Leslie Stevenson", "jahr": "1944"}
-  ]
+    {
+      "titel": "Ein Traktat über die menschliche Natur",
+      "autor": "David Hume",
+      "jahr": "1739"
+    },
+    {
+      "titel": "Sprache, Wahrheit und Logik",
+      "autor": "Alfred Jules Ayer",
+      "jahr": "1936"
+    },
+    {
+      "titel": "Ethik und Sprache",
+      "autor": "Charles Leslie Stevenson",
+      "jahr": "1944"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Non-Kognitivismus behauptet, dass moralische Urteile keine kognitiven Aussagen sind, die wahr oder falsch sein koennen.",
+    "ausfuehrlicheBeschreibung": "Der Non-Kognitivismus ist eine metaethische Position, die moralische Urteile nicht als Erkenntnisansprueche, sondern als Ausdruck von Emotionen, Einstellungen oder Haltungen versteht. Wenn jemand sagt «Mord ist falsch», dann behauptet er keine Tatsache, sondern drueckt seine Ablehnung von Mord aus oder fordert andere auf, Mord zu unterlassen.\n\nDavid Hume bereitete den Non-Kognitivismus philosophisch vor mit seiner beruehmten These, dass man aus dem Sein kein Sollen ableiten kann: Keine noch so genaue Beschreibung der Welt kann eine moralische Vorschrift begruenden. Moral beruht nicht auf Vernunft, sondern auf Gefuehl – die Vernunft ist und soll nur die Sklavin der Leidenschaften sein. Diese Trennung von Tatsachen und Werten bildet die Grundlage des Non-Kognitivismus.\n\nDer Non-Kognitivismus hat weitreichende Konsequenzen: Wenn moralische Urteile keine Wahrheitswerte haben, dann gibt es keine moralischen Tatsachen und keinen moralischen Fortschritt im strengen Sinne. Moralische Meinungsverschiedenheiten sind keine Streitigkeiten ueber Tatsachen, sondern Konflikte zwischen verschiedenen Einstellungen und Gefuehlen. Dies stellt die gesamte Tradition der rationalen Ethik in Frage.",
+    "kernthesen": [
+      "Moralische Urteile sind keine Aussagen, die wahr oder falsch sein koennen",
+      "Moral drueckt Gefuehle und Einstellungen aus, keine Tatsachen",
+      "Aus dem Sein kann kein Sollen abgeleitet werden",
+      "Moralische Meinungsverschiedenheiten sind Konflikte zwischen Einstellungen",
+      "Die Vernunft ist die Sklavin der Leidenschaften"
+    ],
+    "entstehung": "Der Non-Kognitivismus hat seine philosophischen Wurzeln in David Humes Moralphilosophie des 18. Jahrhunderts und wurde im 20. Jahrhundert von A. J. Ayer und Charles Stevenson zum Emotivismus weiterentwickelt.",
+    "kritik": "Kritiker werfen dem Non-Kognitivismus vor, er koenne die Phaenomene moralischer Argumentation und moralischen Fortschritts nicht erklaeren. Zudem wird argumentiert, dass moralische Urteile sehr wohl Wahrheitsansprueche erheben und dass die Reduktion auf blosse Gefuehlsausdruecke der moralischen Erfahrung nicht gerecht wird."
+  }
 }

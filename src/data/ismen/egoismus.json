@@ -19,5 +19,18 @@
     {"titel": "Leviathan", "autor": "Thomas Hobbes", "jahr": "1651"},
     {"titel": "De Cive", "autor": "Thomas Hobbes", "jahr": "1642"},
     {"titel": "The Virtue of Selfishness", "autor": "Ayn Rand", "jahr": "1964"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Philosophischer Egoismus sagt: Menschen handeln im Grunde immer aus Eigeninteresse. Manche meinen sogar, das sei auch voellig in Ordnung so.",
+    "ausfuehrlicheBeschreibung": "Warum hilfst du jemandem? Weil du nett bist? Oder weil du dich danach besser fuehlst, weil du etwas zurueck erwartest oder weil du vor anderen gut dastehen willst? Der philosophische Egoismus sagt: Im Kern geht es immer um dich selbst. Selbst wenn du etwas Gutes tust, steckt dahinter ein persoenliches Motiv.\n\nDer bekannteste Vertreter war Thomas Hobbes im 17. Jahrhundert. Er glaubte: Ohne Staat und Gesetze wuerde jeder gegen jeden kaempfen, weil alle nur an sich denken. Der einzige Grund, warum wir Regeln akzeptieren, ist, dass es fuer uns selbst sicherer ist. Spaeter hat die Philosophin Ayn Rand den Egoismus sogar zur Tugend erklaert: Es sei richtig und gut, seine eigenen Interessen zu verfolgen.\n\nDie spannende Frage ist: Wenn alle nur an sich denken, kann dann trotzdem etwas Gutes fuer alle dabei rauskommen? Der Oekonom Adam Smith meinte ja: Wenn jeder seinen eigenen Vorteil sucht, profitiert am Ende die ganze Gesellschaft. Ob das wirklich stimmt, wird bis heute heftig diskutiert.",
+    "kernthesen": [
+      "Menschen handeln im Grunde immer aus Eigeninteresse.",
+      "Ohne Gesetze und Staat wuerde jeder gegen jeden kaempfen.",
+      "Auch scheinbar selbstloses Handeln hat egoistische Motive.",
+      "Ein starker Staat ist noetig, um die negativen Folgen des Egoismus einzudaemmen.",
+      "Unter den richtigen Bedingungen kann Eigeninteresse sogar dem Gemeinwohl dienen."
+    ],
+    "entstehung": "Schon die alten Griechen diskutierten, ob Menschen von Natur aus egoistisch sind. Thomas Hobbes machte den Egoismus im 17. Jahrhundert zur Grundlage seiner Staatstheorie: Weil alle egoistisch sind, braucht es den Staat als ordnende Macht.",
+    "kritik": "Das Problem: Wenn man jede Handlung als egoistisch erklaert, ist die Theorie nicht widerlegbar, weil alles reinpasst. Ausserdem widerspricht es unserer Erfahrung, dass wir manchmal wirklich selbstlos handeln, und eine Welt ohne echte Naechstenliebe waere ziemlich trostlos."
+  }
 }

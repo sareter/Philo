@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Griechenland",
-  "hauptstroemungen": ["Kynismus", "Ethik", "Askese"],
+  "hauptstroemungen": [
+    "Kynismus",
+    "Ethik",
+    "Askese"
+  ],
   "kurzbeschreibung": "Diogenes von Sinope, 'der Hund', war der bekannteste Vertreter der kynischen Philosophie. Er lebte in radikaler Armut, angeblich in einem Fass, und provozierte seine Zeitgenossen durch sein bedürfnisloses Leben als Verkörperung der Tugend durch Tat statt durch Worte.",
   "biografie": {
     "fruehesLeben": "Diogenes wurde um 412 v. Chr. in Sinope am Schwarzen Meer geboren. Sein Vater Hikesias war Münzwechsler oder Bankier. Beide – Vater und Sohn – sollen wegen Münzfälschung aus Sinope verbannt worden sein. Diogenes deutete diese Episode später positiv um: Das Orakel von Delphi habe ihm geraten, 'die Münze umzuwerten' (parakharaxon to nomisma), was er als Auftrag verstand, die falschen Werte der Gesellschaft umzuprägen. In Athen wurde er Schüler des Antisthenes, eines Sokratesschülers, der die kynische Lebensweise begründet hatte. Angeblich wies Antisthenes ihn zunächst mit einem Stock ab, worauf Diogenes erwiderte: 'Schlag nur zu, du wirst kein Holz finden, das hart genug ist, mich von dir fernzuhalten.'",
@@ -79,6 +83,57 @@
       "kontext": "Diogenes' Kritik an den falschen Werten der Gesellschaft."
     }
   ],
-  "verwandtePhilosophen": ["sokrates", "antisthenes", "epiktet", "zenon-von-kition", "seneca"],
-  "verwandteIsmen": ["kynismus", "askese", "kosmopolitismus", "stoizismus"]
+  "verwandtePhilosophen": [
+    "sokrates",
+    "antisthenes",
+    "epiktet",
+    "zenon-von-kition",
+    "seneca"
+  ],
+  "verwandteIsmen": [
+    "kynismus",
+    "askese",
+    "kosmopolitismus",
+    "stoizismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Diogenes von Sinope, 'der Hund', war der bekannteste Vertreter der kynischen Philosophie. Er lebte in radikaler Armut, angeblich in einem Fass, und provozierte seine Zeitgenossen durch sein beduerfnisloses Leben als Verkoerperung der Tugend durch Tat statt durch Worte.",
+    "biografie": {
+      "fruehesLeben": "Diogenes wurde um 412 v. Chr. in Sinope am Schwarzen Meer geboren. Sein Vater Hikesias war Muenzwechsler oder Bankier. Beide – Vater und Sohn – sollen wegen Muenzfaelschung aus Sinope verbannt worden sein. Diogenes deutete diese Episode spaeter positiv um: Das Orakel von Delphi habe ihm geraten, 'die Muenze umzuwerten' (parakharaxon to nomisma), was er als Auftrag verstand, die falschen Werte der Gesellschaft umzupraegen. In Athen wurde er Schueler des Antisthenes, eines Sokratesschuelers, der die kynische Lebensweise begruendet hatte. Angeblich wies Antisthenes ihn zunaechst mit einem Stock ab, worauf Diogenes erwiderte: 'Schlag nur zu, du wirst kein Holz finden, das hart genug ist, mich von dir fernzuhalten.'",
+      "schaffen": "Diogenes philosophierte nicht durch Schriften, sondern durch seine Lebensweise. Er verwarf alle gesellschaftlichen Konventionen, lebte in freiwilliger Armut und suchte die radikale Autarkie (Selbstgenuegsamkeit). Er hauste in einem Pithos (einem grossen Tonkrug, faelschlich oft als 'Fass' uebersetzt) auf dem Marktplatz von Athen. Sein Besitz beschraenkte sich auf einen Mantel, einen Ranzen und einen Stock. Als er sah, wie ein Kind Wasser mit der hohlen Hand trank, warf er sogar seinen Becher weg mit den Worten: 'Ein Kind hat mich in der Einfachheit uebertroffen.' Diogenes' Philosophie war eine konsequente Umsetzung des sokratischen Ideals: Tugend zeigt sich in Taten, nicht in Worten. Er verachtete alle kuenstlichen Beduerfnisse, sozialen Normen und Standesunterschiede.",
+      "spaetesLeben": "Diogenes wurde auf einer Seereise von Piraten gefangen und als Sklave verkauft. Als man ihn auf dem Sklavenmarkt fragte, was er koenne, antwortete er: 'Menschen regieren.' Er wurde von dem Korinther Xeniades gekauft, der ihm die Erziehung seiner Soehne anvertraute. In Korinth setzte er sein provokantes Philosophenleben fort und wurde zur stadtbekannten Figur.",
+      "tod": "Diogenes starb 323 v. Chr. in Korinth, angeblich am selben Tag wie Alexander der Grosse in Babylon. Ueber die Todesursache gibt es verschiedene Versionen: Er soll an einem Octopus-Biss gestorben sein, an einer Atemblockade oder einfach am Anhalten des Atems. Die Korinther errichteten ueber seinem Grab eine Saeule mit einem Marmor-Hund.",
+      "nachwirkung": "Diogenes wurde zum Archetyp des philosophischen Provokateurs und Aussenseiters. Sein kynisches Ideal der Beduerfnislosigkeit beeinflusste die stoische Philosophie und durch sie das Christentum. Die Kirchenvaeter verglichen ihn mit christlichen Asketen. In der Neuzeit wurde er zum Vorbild fuer alle, die gesellschaftliche Konventionen in Frage stellen – von den Romantikern ueber Nietzsche bis zu den Hippies. Sein Begriff des 'Kosmopoliten' wurde zum Leitbild der Aufklaerung."
+    },
+    "kernideen": [
+      {
+        "titel": "Radikale Autarkie",
+        "beschreibung": "Wahre Freiheit besteht in der voelligen Unabhaengigkeit von aeusseren Guetern und gesellschaftlichen Konventionen. Je weniger man braucht, desto freier ist man."
+      },
+      {
+        "titel": "Umwertung der Werte",
+        "beschreibung": "Die Werte der Gesellschaft – Reichtum, Ruhm, Macht, Ehre – sind falsche Muenzen, die umgepraegt werden muessen. Nur die Tugend, die sich in der Praxis bewaehrt, hat wahren Wert."
+      },
+      {
+        "titel": "Kosmopolitismus",
+        "beschreibung": "Diogenes bezeichnete sich als Weltbuerger (kosmopolites) und lehnte die Bindung an eine bestimmte Stadt oder Nation ab. Alle Menschen sind Buerger einer einzigen Welt."
+      },
+      {
+        "titel": "Philosophie als Lebensweise",
+        "beschreibung": "Philosophie ist keine Theorie, sondern eine Praxis. Sie zeigt sich nicht in Buechern und Vortraegen, sondern in der konkreten Lebensfuehrung. Der Philosoph muss leben, was er lehrt."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Politeia (Der Staat)",
+        "jahr": "ca. 360 v. Chr.",
+        "beschreibung": "Diogenes' Gegenentwurf zu Platons Staat, der eine radikal egalitaere, konventionslose Gesellschaft beschrieb. Das Werk war so provokant, dass es in der Antike oft unterdrueckt wurde. Nur Fragmente sind erhalten."
+      },
+      {
+        "titel": "Verschiedene Tragoedien und Dialoge",
+        "jahr": "ca. 370–330 v. Chr.",
+        "beschreibung": "Diogenes werden verschiedene Tragoedien und Dialoge zugeschrieben, deren Authentizitaet umstritten ist. Die meisten sind verloren gegangen."
+      }
+    ]
+  }
 }

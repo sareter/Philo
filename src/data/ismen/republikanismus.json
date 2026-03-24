@@ -11,14 +11,52 @@
     "Bürgerschaftliche Tugenden und Gemeinwohlorientierung sind Voraussetzungen einer freien Republik",
     "Der Mensch verwirklicht sich erst im Rahmen der politischen Gemeinschaft"
   ],
-  "hauptvertreter": ["aristoteles", "hannah-arendt"],
+  "hauptvertreter": [
+    "aristoteles",
+    "hannah-arendt"
+  ],
   "entstehung": "Der Republikanismus hat seine Wurzeln in der antiken griechischen Polis und der römischen Republik. Aristoteles und Cicero formulierten grundlegende republikanische Ideen. Machiavelli erneuerte die Tradition in der Renaissance. Die englische und amerikanische Revolution wurden durch republikanisches Gedankengut inspiriert. In der zeitgenössischen Philosophie haben Philip Pettit, Quentin Skinner und Hannah Arendt den Republikanismus als eigenständige politische Philosophie wiederbelebt. Jürgen Habermas' deliberative Demokratietheorie weist ebenfalls republikanische Züge auf.",
   "kritik": "Liberale Kritiker argumentieren, dass die republikanische Betonung bürgerschaftlicher Tugend und Partizipation in eine Moralisierung der Politik münden kann. Die historische Praxis republikanischer Gemeinwesen war häufig exklusiv – die antike Polis und die römische Republik schlossen Frauen, Sklaven und Fremde aus. Der Republikanismus wird als unrealistisch kritisiert, da er ein Maß an politischem Engagement voraussetzt, das die meisten modernen Bürger nicht aufbringen können oder wollen. Die Forderung nach bürgerschaftlicher Tugend kann in Paternalismus umschlagen. Die Unterscheidung zwischen republikanischer und liberaler Freiheit wird als weniger scharf kritisiert, als Pettit behauptet.",
-  "verwandteIsmen": ["kommunitarismus", "egalitarismus", "kontraktualismus", "libertarismus", "tugendethik"],
+  "verwandteIsmen": [
+    "kommunitarismus",
+    "egalitarismus",
+    "kontraktualismus",
+    "libertarismus",
+    "tugendethik"
+  ],
   "schluesselwerke": [
-    { "titel": "Republicanism: A Theory of Freedom and Government", "autor": "Philip Pettit", "jahr": "1997" },
-    { "titel": "Discorsi sopra la prima deca di Tito Livio", "autor": "Niccolò Machiavelli", "jahr": "1531" },
-    { "titel": "Vita activa oder Vom tätigen Leben", "autor": "Hannah Arendt", "jahr": "1958" },
-    { "titel": "Liberty before Liberalism", "autor": "Quentin Skinner", "jahr": "1998" }
-  ]
+    {
+      "titel": "Republicanism: A Theory of Freedom and Government",
+      "autor": "Philip Pettit",
+      "jahr": "1997"
+    },
+    {
+      "titel": "Discorsi sopra la prima deca di Tito Livio",
+      "autor": "Niccolò Machiavelli",
+      "jahr": "1531"
+    },
+    {
+      "titel": "Vita activa oder Vom tätigen Leben",
+      "autor": "Hannah Arendt",
+      "jahr": "1958"
+    },
+    {
+      "titel": "Liberty before Liberalism",
+      "autor": "Quentin Skinner",
+      "jahr": "1998"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Republikanismus ist eine politisch-philosophische Tradition, die Freiheit als Abwesenheit von Willkuerherrschaft  versteht und die aktive Teilnahme der Buerger am politischen Gemeinwesen betont.",
+    "ausfuehrlicheBeschreibung": "Der Republikanismus ist eine der aeltesten und reichsten Traditionen der politischen Philosophie. Er definiert Freiheit nicht als blosse Abwesenheit von Einmischung (wie der Liberalismus), sondern als Abwesenheit von Willkuerherrschaft und Dominanz. Ein Mensch ist frei, wenn er nicht der willkuerlichen Macht eines anderen unterworfen ist.\n\nDie antiken Wurzeln des Republikanismus liegen bei Aristoteles und Cicero. Aristoteles verstand den Menschen als 'zoon politikon' – ein Wesen, das sich nur im Rahmen der politischen Gemeinschaft (Polis) verwirklichen kann. Cicero entwickelte in 'De re publica' das Ideal einer gemischten Verfassung, die monarchische, aristokratische und demokratische Elemente vereint und so Willkuerherrschaft verhindert.\n\nNiccolò Machiavelli erneuerte den Republikanismus in der Renaissance. In den 'Discorsi' analysierte er die roemische Republik als Vorbild eines freien Gemeinwesens und betonte die Bedeutung buergerschaftlicher Tugend (virtù) und institutioneller Arrangements zur Verhinderung von Tyrannei. Der Konflikt zwischen Patriziern und Plebejern war fuer Machiavelli nicht destruktiv, sondern Motor der Freiheit.",
+    "kernthesen": [
+      "Freiheit bedeutet Abwesenheit von Willkuerherrschaft und Dominanz, nicht bloss Abwesenheit von Einmischung",
+      "Aktive buergerschaftliche Teilnahme am politischen Gemeinwesen ist wesentlich fuer die Freiheit",
+      "Institutionelle Arrangements (Gewaltenteilung, Rechtsstaatlichkeit) sind notwendig zur Verhinderung von Tyrannei",
+      "Buergerschaftliche Tugenden und Gemeinwohlorientierung sind Voraussetzungen einer freien Republik",
+      "Der Mensch verwirklicht sich erst im Rahmen der politischen Gemeinschaft"
+    ],
+    "entstehung": "Der Republikanismus hat seine Wurzeln in der antiken griechischen Polis und der roemischen Republik. Aristoteles und Cicero formulierten grundlegende republikanische Ideen. Machiavelli erneuerte die Tradition in der Renaissance. Die englische und amerikanische Revolution wurden durch republikanisches Gedankengut inspiriert. In der zeitgenoessischen Philosophie haben Philip Pettit, Quentin Skinner und Hannah Arendt den Republikanismus als eigenstaendige politische Philosophie wiederbelebt. Juergen Habermas' deliberative Demokratietheorie weist ebenfalls republikanische Zuege auf.",
+    "kritik": "Liberale Kritiker argumentieren, dass die republikanische Betonung buergerschaftlicher Tugend und Partizipation in eine Moralisierung der Politik muenden kann. Die historische Praxis republikanischer Gemeinwesen war haeufig exklusiv – die antike Polis und die roemische Republik schlossen Frauen, Sklaven und Fremde aus. Der Republikanismus wird als unrealistisch kritisiert, da er ein Mass an politischem Engagement voraussetzt, das die meisten modernen Buerger nicht aufbringen koennen oder wollen."
+  }
 }

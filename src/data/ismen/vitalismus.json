@@ -11,13 +11,43 @@
     "Die abendländische Kultur der Vernunft hat die Lebenskräfte unterdrückt und muss überwunden werden.",
     "Wahre Erkenntnis entspringt dem lebendigen Erleben, nicht dem abstrakten Denken."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der Vitalismus hat Wurzeln in der antiken Vorstellung einer beseelten Natur und wurde im 18. und 19. Jahrhundert als Gegenposition zum mechanistischen Weltbild entwickelt. Nietzsche gab dem Vitalismus eine kulturphilosophische Wendung, indem er das Leben selbst zum Maßstab aller Werte erhob.",
   "kritik": "Dem Vitalismus wird vorgeworfen, dass er mit dem Begriff der Lebenskraft ein explanatorisch leeres Konzept einführt, das nichts erklärt, sondern die Unwissenheit nur verkleidet. Die moderne Biologie hat gezeigt, dass Lebensprozesse auf molekularer Ebene durch chemische und physikalische Gesetze erklärbar sind.",
-  "verwandteIsmen": ["naturalismus", "romantizismus"],
+  "verwandteIsmen": [
+    "naturalismus",
+    "romantizismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883"},
-    {"titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882"},
-    {"titel": "Schöpferische Entwicklung", "autor": "Henri Bergson", "jahr": "1907"}
-  ]
+    {
+      "titel": "Also sprach Zarathustra",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1883"
+    },
+    {
+      "titel": "Die fröhliche Wissenschaft",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1882"
+    },
+    {
+      "titel": "Schöpferische Entwicklung",
+      "autor": "Henri Bergson",
+      "jahr": "1907"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Vitalismus ist die philosophische Lehre, dass lebendige Organismen durch eine besondere Lebenskraft beseelt werden, die sich nicht auf physikalisch-chemische Prozesse reduzieren laesst.",
+    "ausfuehrlicheBeschreibung": "Der Vitalismus vertritt die These, dass das Leben ein eigenstaendiges Prinzip darstellt, das sich grundlegend von unbelebter Materie unterscheidet. Diese Lebenskraft – variantenreich als élan vital, Lebensgeist oder vis vitalis bezeichnet – durchdringt alle lebendigen Organismen und verleiht ihnen Eigenschaften, die aus rein mechanischen oder chemischen Prozessen nicht ableitbar sind. Der philosophische Vitalismus geht ueber die biologische Frage hinaus und erhebt das Leben zum Grundprinzip der gesamten Wirklichkeit.\n\nFriedrich Nietzsche transformierte den Vitalismus in eine kulturphilosophische Perspektive. Sein Konzept des Willens zur Macht kann als vitalistisches Prinzip verstanden werden, das allem Lebendigen innewohnt und es zu Wachstum, Steigerung und Selbstueberwindung antreibt. Nietzsche kritisierte die abendlaendische Kultur als lebensfeindlich und forderte eine Umwertung aller Werte zugunsten lebensbejahender Kraefte. Der Uebermensch ist das Ideal eines Wesens, das seine vitalen Kraefte voll entfaltet.\n\nIn der Philosophie des 20. Jahrhunderts wurde der Vitalismus von Henri Bergson weiterentwickelt, der den élan vital als schoepferische Urkraft des Universums beschrieb. Der biologische Vitalismus wurde zwar durch die Fortschritte der Molekularbiologie weitgehend widerlegt, doch die philosophische Grundintuition – dass das Lebendige nicht vollstaendig auf Mechanisches reduzierbar ist – bleibt in der Philosophie des Geistes und der Biophilosophie wirksam.",
+    "kernthesen": [
+      "Lebendige Organismen besitzen eine Lebenskraft, die sich nicht auf physikalisch-chemische Prozesse reduzieren laesst.",
+      "Das Leben ist das Grundprinzip der Wirklichkeit und steht ueber dem bloss Mechanischen.",
+      "Der Wille zur Macht ist die vitale Grundkraft, die alles Lebendige zu Wachstum und Steigerung antreibt.",
+      "Die abendlaendische Kultur der Vernunft hat die Lebenskraefte unterdrueckt und muss ueberwunden werden.",
+      "Wahre Erkenntnis entspringt dem lebendigen Erleben, nicht dem abstrakten Denken."
+    ],
+    "entstehung": "Der Vitalismus hat Wurzeln in der antiken Vorstellung einer beseelten Natur und wurde im 18. und 19. Jahrhundert als Gegenposition zum mechanistischen Weltbild entwickelt. Nietzsche gab dem Vitalismus eine kulturphilosophische Wendung, indem er das Leben selbst zum Massstab aller Werte erhob.",
+    "kritik": "Dem Vitalismus wird vorgeworfen, dass er mit dem Begriff der Lebenskraft ein explanatorisch leeres Konzept einfuehrt, das nichts erklaert, sondern die Unwissenheit nur verkleidet. Die moderne Biologie hat gezeigt, dass Lebensprozesse auf molekularer Ebene durch chemische und physikalische Gesetze erklaerbar sind."
+  }
 }

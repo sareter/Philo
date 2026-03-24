@@ -19,5 +19,18 @@
     {"titel": "...trotzdem Ja zum Leben sagen", "autor": "Viktor Frankl", "jahr": "1946"},
     {"titel": "Ärztliche Seelsorge", "autor": "Viktor Frankl", "jahr": "1946"},
     {"titel": "Der Wille zum Sinn", "autor": "Viktor Frankl", "jahr": "1969"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Logotherapie sagt: Das Wichtigste fuer uns Menschen ist, einen Sinn im Leben zu finden. Wer weiss, wofuer er lebt, kann fast alles aushalten.",
+    "ausfuehrlicheBeschreibung": "Viktor Frankl hat als Psychiater etwas Entscheidendes beobachtet: Viele Menschen leiden nicht an einer klassischen psychischen Krankheit, sondern daran, dass sie keinen Sinn in ihrem Leben sehen. Sie fuehlen sich leer und orientierungslos. Frankl war ueberzeugt: Der tiefste Antrieb des Menschen ist nicht Lust oder Macht, sondern der Wunsch nach Bedeutung.\n\nFrankl hat seine Theorie unter extremsten Bedingungen getestet -- er ueberlebte mehrere Konzentrationslager. Dort beobachtete er, dass diejenigen, die noch einen Grund zum Leben hatten -- ein Ziel, eine Aufgabe, einen geliebten Menschen -- eher ueberlebten als die, die alle Hoffnung verloren hatten. Daraus schloss er: Selbst im schlimmsten Leid koennen wir noch waehlen, welche Haltung wir einnehmen.\n\nSinn finden kann man laut Frankl auf drei Wegen: durch etwas, das man tut oder schafft; durch etwas, das man erlebt, wie Liebe oder Schoenheit; und durch die Haltung, die man zum unvermeidlichen Leid einnimmt. Das klingt nicht nach einer schnellen Loesung, aber genau darum geht es -- nicht um schnelle Tipps, sondern um die grundlegende Frage: Wofuer lohnt es sich zu leben?",
+    "kernthesen": [
+      "Der wichtigste Antrieb des Menschen ist die Suche nach Sinn, nicht nach Lust oder Macht.",
+      "Auch im schlimmsten Leid kann man noch waehlen, welche Haltung man einnimmt.",
+      "Viele psychische Probleme entstehen, weil Menschen sich leer und sinnlos fuehlen.",
+      "Sinn wird nicht erfunden, sondern entdeckt -- in Aufgaben, Begegnungen und Haltungen.",
+      "Wer weiss, wofuer er lebt, kann fast jede Schwierigkeit durchstehen."
+    ],
+    "entstehung": "Viktor Frankl entwickelte die Logotherapie ab den 1930er Jahren in Wien. Seine Erfahrungen in den Konzentrationslagern des Zweiten Weltkriegs bestaerkten seine Ueberzeugungen. Sein Buch 'trotzdem Ja zum Leben sagen' von 1946 machte seine Ideen weltweit bekannt.",
+    "kritik": "Manche kritisieren, dass die Logotherapie zu sehr auf den Einzelnen schaut und dabei gesellschaftliche Ursachen fuer Leid uebersieht. Ausserdem kann die Forderung, in jedem Leid einen Sinn zu finden, dazu fuehren, dass vermeidbare Ungerechtigkeit einfach hingenommen wird, statt sie zu bekaempfen."
+  }
 }

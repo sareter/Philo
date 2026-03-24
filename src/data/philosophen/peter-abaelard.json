@@ -91,5 +91,28 @@
     }
   ],
   "verwandtePhilosophen": ["anselm-von-canterbury", "thomas-von-aquin", "wilhelm-von-ockham", "boethius", "augustinus"],
-  "verwandteIsmen": ["scholastik", "konzeptualismus", "dialektik", "rationalismus"]
+  "verwandteIsmen": ["scholastik", "konzeptualismus", "dialektik", "rationalismus"],
+  "einfach": {
+    "kurzbeschreibung": "Peter Abaelard war der cleverste und streitlustigste Denker des Mittelalters – bekannt fuer seine tragische Liebesgeschichte mit Heloisa und seine revolutionaere Art zu denken.",
+    "biografie": {
+      "fruehesLeben": "Abaelard wurde 1079 in Frankreich geboren. Statt Ritter zu werden, entschied er sich fuer die Philosophie. Er war so gut im Diskutieren, dass er seine eigenen Lehrer in oeffentlichen Debatten besiegte.",
+      "schaffen": "Er fand eine Loesung fuer eine Frage, ueber die Philosophen seit Jahrhunderten stritten: Sind allgemeine Begriffe echte Dinge oder nur Woerter? Seine Antwort: weder noch – sie sind Ideen im Kopf, die auf echten Aehnlichkeiten beruhen. Ausserdem sagte er, dass es bei der Moral auf die Absicht ankommt, nicht auf die Tat selbst. Seine tragische Liebesgeschichte mit Heloisa, der Nichte eines Kirchenmannes, endete damit, dass er kastriert wurde und beide ins Kloster gingen.",
+      "spaetesLeben": "Er wurde Moench, lehrte aber weiter und hatte Hunderte Schueler. Die Kirche verurteilte seine Schriften zweimal als Ketzerei.",
+      "tod": "Abaelard starb 1142 in einem Kloster. Heloisa liess ihn zu sich bringen, und als sie starb, wurde sie neben ihm begraben. Heute liegen beide auf dem beruehmten Friedhof Pere-Lachaise in Paris.",
+      "nachwirkung": "Seine Methode, Fragen durch das Gegenueberstellen von Argumenten zu klaeren, wurde die Grundlage fuer das wissenschaftliche Denken im Mittelalter. Sein Briefwechsel mit Heloisa gehoert zur Weltliteratur."
+    },
+    "kernideen": [
+      {"titel": "Konzeptualismus", "beschreibung": "Allgemeine Begriffe wie 'Mensch' sind keine echten Dinge und keine leeren Woerter, sondern Ideen in unserem Kopf, die auf echten Aehnlichkeiten basieren."},
+      {"titel": "Dialektische Methode (Sic et Non)", "beschreibung": "Man stellt verschiedene Meinungen gegeneinander, um durch Zweifel und Nachdenken selbst zur Wahrheit zu kommen."},
+      {"titel": "Ethik der Absicht", "beschreibung": "Ob eine Handlung gut oder schlecht ist, haengt nicht davon ab, was man tut, sondern warum man es tut."}
+    ],
+    "werke": [
+      {"titel": "Sic et Non (Ja und Nein)", "jahr": "ca. 1121–1132", "beschreibung": "158 Fragen mit widersprüchlichen Antworten von Kirchenvaetern, damit Schueler selbst nachdenken lernen."},
+      {"titel": "Logica 'Ingredientibus'", "jahr": "ca. 1118", "beschreibung": "Sein wichtigstes Logik-Werk, in dem er den Streit um die allgemeinen Begriffe loest."},
+      {"titel": "Scito Te Ipsum (Erkenne dich selbst / Ethica)", "jahr": "ca. 1135–1139", "beschreibung": "Sein Ethik-Werk, das erklaert, warum nur die Absicht hinter einer Handlung zaehlt."},
+      {"titel": "Historia Calamitatum (Geschichte meiner Leiden)", "jahr": "ca. 1132", "beschreibung": "Seine Autobiografie, in der er sein bewegtes Leben und die Liebesgeschichte mit Heloisa erzaehlt."},
+      {"titel": "Theologia Christiana", "jahr": "ca. 1122–1125", "beschreibung": "Sein theologisches Hauptwerk, das von der Kirche als Ketzerei verurteilt wurde."},
+      {"titel": "Briefwechsel mit Heloisa", "jahr": "ca. 1132–1137", "beschreibung": "Einer der beruehmtesten Briefwechsel ueber Liebe und Philosophie in der Geschichte."}
+    ]
+  }
 }

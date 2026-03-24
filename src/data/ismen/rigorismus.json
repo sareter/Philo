@@ -11,13 +11,43 @@
     "Lügen ist unter allen Umständen moralisch verboten, da es die Grundlage des Vertrauens zerstört.",
     "Moralische Kompromisse untergraben die Verbindlichkeit des Sittengesetzes insgesamt."
   ],
-  "hauptvertreter": ["immanuel-kant"],
+  "hauptvertreter": [
+    "immanuel-kant"
+  ],
   "entstehung": "Der Rigorismus ist eine direkte Konsequenz von Kants kritischer Moralphilosophie, die er in der 'Grundlegung zur Metaphysik der Sitten' (1785) und der 'Kritik der praktischen Vernunft' (1788) entwickelte. Kants Forderung nach der Unbedingtheit moralischer Pflichten wurde bereits von Zeitgenossen als rigoristisch bezeichnet.",
   "kritik": "Die Hauptkritik am Rigorismus betrifft seine Lebensfremdheit: In Situationen, in denen verschiedene Pflichten kollidieren, bietet er keine klare Handlungsanweisung. Das Lügenverbot gegenüber dem Mörder erscheint vielen als moralisch absurd. Zudem unterschätzt der Rigorismus die Bedeutung von Empathie und Situationssensibilität für moralisches Handeln.",
-  "verwandteIsmen": ["deontologie", "pflichtethik"],
+  "verwandteIsmen": [
+    "deontologie",
+    "pflichtethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Grundlegung zur Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1785"},
-    {"titel": "Kritik der praktischen Vernunft", "autor": "Immanuel Kant", "jahr": "1788"},
-    {"titel": "Über ein vermeintes Recht aus Menschenliebe zu lügen", "autor": "Immanuel Kant", "jahr": "1797"}
-  ]
+    {
+      "titel": "Grundlegung zur Metaphysik der Sitten",
+      "autor": "Immanuel Kant",
+      "jahr": "1785"
+    },
+    {
+      "titel": "Kritik der praktischen Vernunft",
+      "autor": "Immanuel Kant",
+      "jahr": "1788"
+    },
+    {
+      "titel": "Über ein vermeintes Recht aus Menschenliebe zu lügen",
+      "autor": "Immanuel Kant",
+      "jahr": "1797"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Rigorismus ist die moralphilosophische Position, die eine strenge, ausnahmslose Befolgung moralischer Pflichten fordert.",
+    "ausfuehrlicheBeschreibung": "Der Rigorismus ist untrennbar mit Immanuel Kants Moralphilosophie verbunden. Kant vertrat die Position, dass moralische Pflichten kategorisch gelten – unabhaengig von den Umstaenden, den Konsequenzen und den Neigungen des Handelnden. Der kategorische Imperativ fordert: Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde. Diese Formel erlaubt keine Ausnahmen und keine Kompromisse.\n\nDer rigoristische Charakter von Kants Ethik zeigt sich besonders deutlich in seinem beruehmten Beispiel des Luegenverbots. Selbst wenn ein Moerder an der Tuer nach dem Aufenthaltsort seines Opfers fragt, das sich im Haus versteckt, ist die Luege nach Kant moralisch verboten. Die Pflicht zur Wahrhaftigkeit gilt unbedingt, da sie eine Voraussetzung jeder menschlichen Kommunikation und jedes Vertrauens ist. Wuerde man Ausnahmen zulassen, waere die Verbindlichkeit moralischer Regeln insgesamt untergraben.\n\nDer Rigorismus steht in einem grundsaetzlichen Konflikt mit konsequentialistischen Ethiken, die die Moralitaet einer Handlung an ihren Folgen bemessen. Waehrend der Utilitarismus eine flexible Anpassung moralischer Urteile an die jeweilige Situation erlaubt, besteht der Rigorismus auf der Unbedingtheit moralischer Normen. In der gegenwaertigen Ethik wird der Rigorismus als zu starr kritisiert, aber die Grundeinsicht, dass Moral nicht beliebig an Umstaende angepasst werden darf, bleibt einflussreich.",
+    "kernthesen": [
+      "Moralische Pflichten gelten kategorisch und ausnahmslos, unabhaengig von den Konsequenzen.",
+      "Der kategorische Imperativ ist das oberste Prinzip der Moral und duldet keine situativen Ausnahmen.",
+      "Handlungen sind moralisch allein aufgrund der Pflichtmaessigkeit ihres Motivs zu beurteilen.",
+      "Luegen ist unter allen Umstaenden moralisch verboten, da es die Grundlage des Vertrauens zerstoert.",
+      "Moralische Kompromisse untergraben die Verbindlichkeit des Sittengesetzes insgesamt."
+    ],
+    "entstehung": "Der Rigorismus ist eine direkte Konsequenz von Kants kritischer Moralphilosophie, die er in der 'Grundlegung zur Metaphysik der Sitten' (1785) und der 'Kritik der praktischen Vernunft' (1788) entwickelte. Kants Forderung nach der Unbedingtheit moralischer Pflichten wurde bereits von Zeitgenossen als rigoristisch bezeichnet.",
+    "kritik": "Die Hauptkritik am Rigorismus betrifft seine Lebensfremdheit: In Situationen, in denen verschiedene Pflichten kollidieren, bietet er keine klare Handlungsanweisung. Das Luegenverbot gegenueber dem Moerder erscheint vielen als moralisch absurd. Zudem unterschaetzt der Rigorismus die Bedeutung von Empathie und Situationssensibilitaet fuer moralisches Handeln."
+  }
 }

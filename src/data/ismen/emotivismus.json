@@ -20,5 +20,18 @@
     { "titel": "Ethics and Language", "autor": "Charles Stevenson", "jahr": "1944" },
     { "titel": "The Emotive Theory of Ethics", "autor": "J.O. Urmson", "jahr": "1968" },
     { "titel": "After Virtue", "autor": "Alasdair MacIntyre", "jahr": "1981" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Emotivismus sagt: Wenn du sagst, Stehlen ist falsch, drueckst du nur dein Gefuehl aus, etwa Pfui, Stehlen! Es ist keine Aussage ueber die Welt, sondern ein Ausdruck deiner Abneigung.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand sagt: Luegen ist schlecht. Der Emotivismus behauptet: Das ist keine Tatsachenbehauptung wie Wasser ist nass. Es ist eher wie ein Ausruf: Buh, Luegen! Du drueckst damit nur dein negatives Gefuehl aus und versuchst, andere dazu zu bringen, es genauso zu sehen. Moralische Aussagen haben demnach keinen Wahrheitswert, sie sind weder wahr noch falsch.\n\nDiese Idee kam in den 1930er Jahren auf, als Philosophen sich fragten: Koennen moralische Aussagen ueberhaupt bewiesen werden? A.J. Ayer sagte nein. Man kann nicht messen oder testen, ob Stehlen falsch ist, so wie man testen kann, ob Wasser bei 100 Grad kocht. Also sind moralische Saetze keine echten Aussagen, sondern Gefuehlsaeusserungen.\n\nDas klingt radikal, und genau deshalb wurde der Emotivismus auch stark kritisiert. Denn wenn moralische Aussagen nur Gefuehle sind, dann kann man ueber Moral gar nicht vernuenftig streiten. Jeder haette einfach seine Meinung, und es gaebe kein richtig oder falsch. Viele Philosophen finden das unbefriedigend und haben nach besseren Erklaerungen gesucht.",
+    "kernthesen": [
+      "Moralische Aussagen druecken Gefuehle aus, keine Tatsachen.",
+      "Wenn du sagst, etwas ist falsch, ist das wie ein Ausruf der Missbilligung.",
+      "Moralische Saetze sind weder wahr noch falsch.",
+      "Moralische Streitereien sind keine Meinungsverschiedenheiten ueber Fakten, sondern ueber Gefuehle.",
+      "Moralische Aussagen sollen andere ueberzeugen, die gleichen Gefuehle zu haben."
+    ],
+    "entstehung": "Der Emotivismus entstand in den 1930er Jahren, als Philosophen wie A.J. Ayer die Frage stellten, ob moralische Aussagen ueberhaupt bewiesen werden koennen. Seine Antwort: Nein, sie sind nur Gefuehlsaeusserungen. Charles Stevenson arbeitete die Theorie in den 1940er Jahren weiter aus.",
+    "kritik": "Das groesste Problem: Wenn moralische Saetze nur Gefuehle sind, kann man ueber Moral nicht vernuenftig streiten, und es gaebe keine moralischen Wahrheiten. Ausserdem sind moralische Urteile viel komplexer als einfache Gefuehlsausbrueche, und die Theorie kann nicht erklaeren, warum moralische Aussagen in logischen Argumenten funktionieren."
+  }
 }

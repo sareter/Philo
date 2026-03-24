@@ -20,5 +20,18 @@
     { "titel": "The Scientific Image", "autor": "Bas van Fraassen", "jahr": "1980" },
     { "titel": "Ways of Worldmaking", "autor": "Nelson Goodman", "jahr": "1978" },
     { "titel": "The Structure of Scientific Revolutions", "autor": "Thomas Kuhn", "jahr": "1962" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Anti-Realismus bezweifelt, dass es eine objektive Wirklichkeit gibt, die wir so erkennen koennen, wie sie 'wirklich ist'. Vielleicht konstruieren wir die Welt eher, als dass wir sie entdecken.",
+    "ausfuehrlicheBeschreibung": "Normalerweise denken wir: Da draussen ist die Welt, und unsere Theorien beschreiben sie mehr oder weniger richtig. Anti-Realisten sagen: So sicher ist das nicht. Vielleicht organisieren unsere Theorien nur unsere Erfahrungen, ohne die Welt 'an sich' zu beschreiben. Stell dir vor, du traegst immer eine farbige Brille -- du siehst die Welt, aber immer durch einen Filter.\n\nIn der Wissenschaft heisst das konkret: Wenn Physiker von Elektronen oder Quarks reden, beschreiben sie dann echte Dinge, oder sind das nur nuetzliche Modelle, die gute Vorhersagen liefern? Der Philosoph Thomas Kuhn zeigte, dass die Wissenschaft nicht geradlinig zur Wahrheit fortschreitet, sondern in grossen Umbruechen denkt -- was gestern als wahr galt, wird morgen durch ein komplett anderes Weltbild ersetzt.\n\nDas gilt auch fuer die Moral: Gibt es objektiv richtig und falsch, oder sind das nur menschliche Erfindungen? Anti-Realisten sagen: Moralische Tatsachen existieren nicht 'da draussen' in der Welt. Wir fuehlen zwar, dass bestimmte Dinge falsch sind, aber das beweist nicht, dass es objektive moralische Wahrheiten gibt.",
+    "kernthesen": [
+      "Es gibt keine objektive Wirklichkeit, die wir so erkennen koennen, wie sie 'an sich' ist.",
+      "Unsere Theorien organisieren Erfahrungen, aber beschreiben nicht unbedingt die Realitaet.",
+      "Wissenschaftliche Theorien liefern nuetzliche Modelle, aber nicht unbedingt die Wahrheit.",
+      "Es gibt keine zeitlose, absolut gueltige Wahrheit -- alles haengt vom Blickwinkel ab.",
+      "Moralische Tatsachen existieren nicht als objektive Bestandteile der Welt."
+    ],
+    "entstehung": "Anti-realistische Ideen gibt es seit der Antike. In der Neuzeit entwickelten Denker wie Michael Dummett, Thomas Kuhn und Nelson Goodman verschiedene Versionen. Seit den 1970er Jahren ist die Debatte zwischen Realismus und Anti-Realismus eines der heissesten Themen der Philosophie.",
+    "kritik": "Realisten sagen: Wenn unsere Theorien nicht die Wahrheit beschreiben, warum funktionieren sie dann so gut? Ausserdem fuehrt Anti-Realismus leicht zum Relativismus -- wenn es keine objektive Wahrheit gibt, ist dann jede Meinung gleich gut? Das waere ein Problem."
+  }
 }

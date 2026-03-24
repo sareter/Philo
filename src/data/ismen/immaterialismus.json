@@ -19,5 +19,18 @@
     {"titel": "Eine Abhandlung über die Prinzipien der menschlichen Erkenntnis", "autor": "George Berkeley", "jahr": "1710"},
     {"titel": "Drei Dialoge zwischen Hylas und Philonous", "autor": "George Berkeley", "jahr": "1713"},
     {"titel": "Siris", "autor": "George Berkeley", "jahr": "1744"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Immaterialismus sagt: Materie gibt es gar nicht. Alles, was existiert, sind Wahrnehmungen in einem Geist. Sein heisst wahrgenommen werden.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand sagt dir: Der Tisch vor dir existiert nur, weil du ihn siehst. Klingt verrueckt, oder? Aber genau das hat der Philosoph Berkeley behauptet. Seine Idee: Alles, was wir von der Welt kennen, sind unsere Sinneseindruecke. Farben, Formen, Geraeusche, alles das existiert nur in unserem Kopf. Und hinter diesen Eindruecken gibt es keine geheimnisvolle Materie, die unabhaengig von uns existiert.\n\nBerkeleys Argument ist gar nicht so dumm, wie es klingt. Er fragt: Kannst du dir etwas vorstellen, das von niemandem wahrgenommen wird? Sobald du es dir vorstellst, nimmst du es ja schon wahr. Der Begriff einer Sache, die voellig unabhaengig von jedem Bewusstsein existiert, ist also im Grunde ein Widerspruch. Und die Frage, ob die Welt auch da ist, wenn keiner hinschaut, loest Berkeley mit Gott: Gott nimmt immer alles wahr, deshalb verschwindet die Welt nicht, wenn du die Augen schliesst.\n\nDer Immaterialismus hatte wenige direkte Anhaenger, aber er hat die Philosophie enorm beeinflusst. Er hat gezeigt, wie schwer es ist zu begruenden, dass es eine Welt unabhaengig von unserem Bewusstsein gibt. Diese Frage beschaeftigt Philosophen bis heute.",
+    "kernthesen": [
+      "Es gibt keine Materie, die unabhaengig von Wahrnehmung existiert.",
+      "Sein heisst wahrgenommen werden. Was niemand wahrnimmt, existiert nicht.",
+      "Alles, was wir kennen, sind unsere Sinneseindruecke, also Ideen in unserem Geist.",
+      "Die Vorstellung einer bewusstseinsunabhaengigen Materie ist ein Widerspruch.",
+      "Gott sorgt dafuer, dass die Welt bestaendig bleibt, weil er alles permanent wahrnimmt."
+    ],
+    "entstehung": "George Berkeley hat den Immaterialismus Anfang des 18. Jahrhunderts entwickelt. Er wollte den Empirismus von John Locke konsequent zu Ende denken und kam zu dem Schluss, dass die Annahme einer materiellen Welt hinter unseren Wahrnehmungen ueberfluessig ist.",
+    "kritik": "Die beruehmteste Kritik kommt von Samuel Johnson, der einfach gegen einen Stein trat und sagte: So widerlege ich ihn. Philosophisch wird kritisiert, dass Berkeley ohne Gott nicht erklaeren kann, warum wir alle dieselbe Welt wahrnehmen. Ohne den Gottesbeweis wird sein System ziemlich wackelig."
+  }
 }

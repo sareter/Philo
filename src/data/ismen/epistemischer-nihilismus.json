@@ -19,5 +19,18 @@
     {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"},
     {"titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882"},
     {"titel": "Über Wahrheit und Lüge im außermoralischen Sinne", "autor": "Friedrich Nietzsche", "jahr": "1873"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Epistemischer Nihilismus sagt: Sicheres Wissen ist unmoeglich. Alles, was wir fuer wahr halten, ist nur eine Interpretation, gepraegt von unserer Perspektive und unserer Kultur.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du traegst immer eine gefaerbte Brille, die du nicht abnehmen kannst. Alles, was du siehst, ist durch diese Brille gefaerbt. Der epistemische Nihilismus sagt: Genau so ist es mit unserem gesamten Wissen. Wir sehen die Welt nie so, wie sie wirklich ist, sondern immer nur durch den Filter unserer Sprache, Kultur und persoenlichen Erfahrung.\n\nNietzsche hat das auf den Punkt gebracht: Es gibt keine Tatsachen, nur Interpretationen. Was als wahr gilt, ist nicht das, was der Realitaet entspricht, sondern das, was sich durchgesetzt hat. Wahrheit ist demnach ein Machtinstrument. Wer die Macht hat, bestimmt, was als wahr gilt. Das gilt fuer die Wissenschaft genauso wie fuer den Alltag.\n\nDas heisst nicht, dass Wissenschaft nutzlos ist, aber ihre Ergebnisse sind laut dieser Sicht nicht endgueltig. Sie sind die beste Interpretation, die wir gerade haben, aber nicht die absolute Wahrheit. Das Problem an dieser Position: Wenn man sagt, kein Wissen ist moeglich, dann ist auch diese Aussage selbst kein sicheres Wissen. Ein klassischer Selbstwiderspruch.",
+    "kernthesen": [
+      "Sicheres Wissen ist grundsaetzlich unmoeglich.",
+      "Es gibt keine Tatsachen, nur Interpretationen.",
+      "Was als wahr gilt, wird durch Macht und Durchsetzungskraft bestimmt.",
+      "Alle Erkenntnis ist von unserer Perspektive und Kultur gefaerbt.",
+      "Sogar die Logik ist nur ein nuetzliches Werkzeug, keine Abbildung der Realitaet."
+    ],
+    "entstehung": "Der epistemische Nihilismus geht auf Nietzsches Erkenntniskritik im spaeten 19. Jahrhundert zurueck. Er fragte sich, ob Wahrheit ueberhaupt existiert oder nur ein menschliches Konstrukt ist. Im 20. Jahrhundert wurde die Idee von postmodernen Denkern wie Foucault weiter radikalisiert.",
+    "kritik": "Der groesste Einwand ist der Selbstwiderspruch: Wer sagt, kein Wissen ist moeglich, beansprucht damit selbst ein Stueck Wissen. Ausserdem funktioniert Wissenschaft offensichtlich, Flugzeuge fliegen und Medikamente wirken, was zeigt, dass zuverlaessiges Wissen moeglich ist."
+  }
 }

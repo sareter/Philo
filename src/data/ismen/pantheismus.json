@@ -19,5 +19,18 @@
     { "titel": "Ethica ordine geometrico demonstrata", "autor": "Baruch de Spinoza", "jahr": "1677" },
     { "titel": "De la causa, principio et uno", "autor": "Giordano Bruno", "jahr": "1584" },
     { "titel": "Über die Lehre des Spinoza", "autor": "Friedrich Heinrich Jacobi", "jahr": "1785" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Pantheismus sagt: Gott und die Natur sind dasselbe. Es gibt keinen Gott, der getrennt von der Welt irgendwo da oben sitzt. Alles, was existiert, ist goettlich.",
+    "ausfuehrlicheBeschreibung": "Waehrend die meisten Religionen Gott als ein Wesen sehen, das getrennt von der Welt existiert und sie von aussen erschaffen hat, sagt der Pantheismus etwas ganz anderes: Gott ist die Welt, und die Welt ist Gott. Es gibt keine Trennung. Jeder Baum, jeder Stein, jeder Mensch ist Teil des Goettlichen. Spinozas beruehmte Formel 'Gott oder die Natur' bringt das auf den Punkt.\n\nSpinoza ist der wichtigste Vertreter dieser Idee. Fuer ihn gibt es nur eine einzige Substanz im ganzen Universum, und diese Substanz ist Gott und Natur zugleich. Alles, was existiert, ist eine Erscheinungsform dieser einen Substanz. Das war im 17. Jahrhundert extrem provokant, denn es bedeutete, dass Gott kein persoenliches Wesen ist, das Gebete erhoert oder Wunder tut. Giordano Bruno wurde sogar auf dem Scheiterhaufen verbrannt, weil er aehnliche Ideen vertrat.\n\nDer Pantheismus hat viele Kuenstler und Denker fasziniert. Goethe bekannte sich offen dazu, und Einstein sagte, er glaube an 'Spinozas Gott', also an die Gesetze der Natur als das Goettliche. Religioese Kritiker sagen allerdings: Wenn alles Gott ist, dann ist auch das Boese goettlich. Und Atheisten fragen: Was bringt es, die Natur 'Gott' zu nennen?",
+    "kernthesen": [
+      "Gott und die Natur sind ein und dasselbe.",
+      "Es gibt keinen Gott, der getrennt von der Welt existiert.",
+      "Es gibt nur eine einzige Substanz im Universum, die man Gott oder Natur nennen kann.",
+      "Die Natur ist heilig und goettlich, nicht einfach tote Materie.",
+      "Gott wirklich zu erkennen bedeutet, die Natur zu verstehen, und umgekehrt."
+    ],
+    "entstehung": "Pantheistische Ideen sind uralt und finden sich in vielen Kulturen. In der westlichen Philosophie waren die Stoiker fruehe Vertreter. Giordano Bruno wurde im Jahr 1600 fuer seinen Pantheismus hingerichtet. Spinoza formulierte im 17. Jahrhundert die philosophisch ausgereifteste Version. Der grosse Pantheismusstreit im 18. Jahrhundert machte die Position in Deutschland zum Gespraechsthema.",
+    "kritik": "Religioese Kritiker sagen: Wenn Gott gleich Natur ist, dann ist auch das Boese goettlich, und Gott hat keine eigene Persoenlichkeit mehr. Atheisten wie Schopenhauer meinen: Pantheismus ist nur ein hoefliches Wort fuer Atheismus. Und Philosophen fragen: Was gewinnt man eigentlich, wenn man die Natur 'Gott' nennt?"
+  }
 }

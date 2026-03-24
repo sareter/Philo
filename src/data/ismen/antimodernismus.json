@@ -11,13 +11,43 @@
     "Die Säkularisierung führt zu Sinnverlust und existentieller Orientierungslosigkeit.",
     "Der Einzelne geht in der modernen Massengesellschaft unter und verliert seine authentische Existenz."
   ],
-  "hauptvertreter": ["soeren-kierkegaard"],
+  "hauptvertreter": [
+    "soeren-kierkegaard"
+  ],
   "entstehung": "Der Antimodernismus entstand im 19. Jahrhundert als Reaktion auf Aufklärung, Industrialisierung und Säkularisierung. Die Romantik, Kierkegaards Existenzdenken und die katholische Modernismuskritik (Enzyklika Pascendi, 1907) bilden verschiedene Stränge dieser Bewegung.",
   "kritik": "Kritiker werfen dem Antimodernismus vor, dass er eine idealisierte Vergangenheit beschwört, die es so nie gegeben hat, und die realen Errungenschaften der Moderne – individuelle Freiheit, Menschenrechte, wissenschaftlichen Fortschritt – leichtfertig verwirft. Zudem wird bemängelt, dass antimoderne Positionen autoritäre und reaktionäre Politik begünstigen können.",
-  "verwandteIsmen": ["konservatismus", "romantizismus"],
+  "verwandteIsmen": [
+    "konservatismus",
+    "romantizismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Entweder – Oder", "autor": "Søren Kierkegaard", "jahr": "1843"},
-    {"titel": "Die Krankheit zum Tode", "autor": "Søren Kierkegaard", "jahr": "1849"},
-    {"titel": "Betrachtungen eines Unpolitischen", "autor": "Thomas Mann", "jahr": "1918"}
-  ]
+    {
+      "titel": "Entweder – Oder",
+      "autor": "Søren Kierkegaard",
+      "jahr": "1843"
+    },
+    {
+      "titel": "Die Krankheit zum Tode",
+      "autor": "Søren Kierkegaard",
+      "jahr": "1849"
+    },
+    {
+      "titel": "Betrachtungen eines Unpolitischen",
+      "autor": "Thomas Mann",
+      "jahr": "1918"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Antimodernismus ist eine philosophische und kulturelle Stroemung, die die zentralen Errungenschaften der Moderne – Rationalismus, Individualismus, Saekularisierung und Fortschrittsglaube – grundlegend kritisiert und ueberwinden will.",
+    "ausfuehrlicheBeschreibung": "Der Antimodernismus entstand im 19. Jahrhundert als tiefgreifende Reaktion auf die Umwaelzungen der Aufklaerung, der Industrialisierung und der Saekularisierung. Waehrend die Moderne Vernunft, Autonomie und Fortschritt als hoechste Werte feierte, betonten antimoderne Denker die Kosten dieser Entwicklung: den Verlust von Gemeinschaft, Tradition, religioeser Bindung und existentiellem Sinn. Søren Kierkegaard formulierte eine der eindringlichsten Kritiken der Moderne.\n\nKierkegaard wandte sich gegen Hegels rationalistisches System, das alles in die Bewegung des absoluten Geistes aufloeste und keinen Raum fuer die Einzelheit des existierenden Menschen liess. Die Moderne, so Kierkegaard, hat den Menschen zu einem abstrakten Objekt gemacht und seine existentielle Situation – die Angst, die Verzweiflung, die Entscheidung – hinter philosophischen Systemen verborgen. Die wahre Existenz erfordert einen Sprung des Glaubens, der sich der Vereinnahmung durch die Vernunft entzieht.\n\nDer Antimodernismus umfasst verschiedene Stroemungen: die romantische Sehnsucht nach organischer Gemeinschaft, die konservative Verteidigung von Tradition und Autoritaet, die religioese Kritik an der Saekularisierung und die existentielle Klage ueber den Sinnverlust. In der Gegenwart lebt der Antimodernismus in der Kritik am Konsumismus, an der technologischen Entfremdung und am Verlust kultureller Identitaet fort. Er erinnert daran, dass Fortschritt nicht nur Gewinn, sondern auch Verlust bedeuten kann.",
+    "kernthesen": [
+      "Die Moderne hat mit Tradition, Gemeinschaft und religioeser Bindung wertvolle Lebensformen zerstoert.",
+      "Der Rationalismus der Aufklaerung verkennt die irrationalen und existentiellen Dimensionen des Menschseins.",
+      "Fortschritt ist nicht identisch mit Verbesserung – er bringt neue Formen der Entfremdung hervor.",
+      "Die Saekularisierung fuehrt zu Sinnverlust und existentieller Orientierungslosigkeit.",
+      "Der Einzelne geht in der modernen Massengesellschaft unter und verliert seine authentische Existenz."
+    ],
+    "entstehung": "Der Antimodernismus entstand im 19. Jahrhundert als Reaktion auf Aufklaerung, Industrialisierung und Saekularisierung. Die Romantik, Kierkegaards Existenzdenken und die katholische Modernismuskritik (Enzyklika Pascendi, 1907) bilden verschiedene Straenge dieser Bewegung.",
+    "kritik": "Kritiker werfen dem Antimodernismus vor, dass er eine idealisierte Vergangenheit beschwoert, die es so nie gegeben hat, und die realen Errungenschaften der Moderne – individuelle Freiheit, Menschenrechte, wissenschaftlichen Fortschritt – leichtfertig verwirft. Zudem wird bemaengelt, dass antimoderne Positionen autoritaere und reaktionaere Politik beguenstigen koennen."
+  }
 }

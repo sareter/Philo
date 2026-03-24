@@ -19,5 +19,18 @@
     {"titel": "The Life You Can Save", "autor": "Peter Singer", "jahr": "2009"},
     {"titel": "Doing Good Better", "autor": "William MacAskill", "jahr": "2015"},
     {"titel": "Famine, Affluence, and Morality", "autor": "Peter Singer", "jahr": "1972"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Effektiver Altruismus fragt: Wie kann ich mit meinem Geld und meiner Zeit am meisten Gutes bewirken? Nicht einfach irgendwie helfen, sondern so helfen, dass es den groessten Unterschied macht.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du hast 100 Euro zum Spenden. Du koenntest sie an eine beliebige Organisation geben, oder du recherchierst, welche Organisation mit dem Geld am meisten Leben rettet oder Leid verhindert. Genau das ist die Idee des Effektiven Altruismus: Nicht nur gut gemeint, sondern nachweislich gut gemacht.\n\nDer Philosoph Peter Singer hat den Grundstein gelegt. Sein Argument ist einfach: Wenn du an einem Teich vorbeigehst und ein Kind ertrinkt, wuerdest du es retten, auch wenn deine Schuhe nass werden. Genauso solltest du helfen, wenn Menschen in Armut sterben und du es verhindern koenntest. Die Bewegung hat daraus konkrete Empfehlungen gemacht: Organisationen werden nach ihrer Wirksamkeit bewertet, und manche Leute waehlen sogar bewusst gut bezahlte Jobs, um mehr spenden zu koennen.\n\nHeute ist der Effektive Altruismus eine weltweite Bewegung, die sich um Armutsbekaempfung, Tierschutz und den Schutz vor globalen Katastrophen kuemmert. Die Idee ist umstritten: Kritiker sagen, man koenne nicht alles in Zahlen messen, und das eigentliche Problem sei die ungerechte Weltordnung, nicht fehlende Spenden.",
+    "kernthesen": [
+      "Wir sollten so viel Gutes wie moeglich tun, und zwar so wirksam wie moeglich.",
+      "Geld und Zeit sollen dorthin fliessen, wo sie den groessten Unterschied machen.",
+      "Fakten und Vernunft, nicht Bauchgefuehl, sollen entscheiden, wohin gespendet wird.",
+      "Manche Probleme werden stark vernachlaessigt und bieten deshalb besonders viel Potenzial.",
+      "Auch der Schutz vor grossen Zukunftsrisiken fuer die Menschheit ist extrem wichtig."
+    ],
+    "entstehung": "Der Effektive Altruismus entstand um 2009 in Oxford, als Philosophen wie Peter Singer und William MacAskill begannen, Ethik mit Datenanalyse zu verbinden. Organisationen wie Giving What We Can bewerten seitdem, welche Hilfsorganisationen am meisten bewirken.",
+    "kritik": "Kritiker sagen, der Effektive Altruismus behandle nur Symptome, statt die Ursachen von Armut und Ungerechtigkeit zu bekaempfen. Ausserdem laesst sich nicht alles in Zahlen messen, und wichtige Dinge wie Wuerde und Gerechtigkeit gehen bei der reinen Effizienzrechnung verloren."
+  }
 }

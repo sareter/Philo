@@ -18,7 +18,10 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Idealismus", "Ästhetik"],
+  "hauptstroemungen": [
+    "Idealismus",
+    "Ästhetik"
+  ],
   "kurzbeschreibung": "Benedetto Croce war ein italienischer Philosoph, Historiker und Literaturkritiker, der als bedeutendster italienischer Denker des 20. Jahrhunderts gilt. Er entwickelte eine Philosophie des Geistes, die alle Wirklichkeit als Ausdruck des Geistes in vier Formen – Ästhetik, Logik, Ökonomik und Ethik – begreift. Als liberaler Antifaschist war er zugleich eine der wichtigsten moralischen Autoritäten Italiens.",
   "biografie": {
     "fruehesLeben": "Benedetto Croce wurde 1866 in Pescasseroli in den Abruzzen geboren. Bei einem Erdbeben auf Ischia 1883 verlor er seine Eltern und seine Schwester. Er studierte in Rom und widmete sich als unabhängiger Gelehrter der Philosophie, Geschichte und Literaturkritik.",
@@ -79,6 +82,58 @@
       "kontext": "Croces Verständnis der Freiheit als ständiger Aufgabe, nicht als gegebener Zustand."
     }
   ],
-  "verwandtePhilosophen": ["georg-wilhelm-friedrich-hegel", "gianni-vattimo", "umberto-eco"],
-  "verwandteIsmen": ["idealismus", "aesthetik"]
+  "verwandtePhilosophen": [
+    "georg-wilhelm-friedrich-hegel",
+    "gianni-vattimo",
+    "umberto-eco"
+  ],
+  "verwandteIsmen": [
+    "idealismus",
+    "aesthetik"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Benedetto Croce war ein italienischer Philosoph, Historiker und Literaturkritiker, der als bedeutendster italienischer Denker des 20. Jahrhunderts gilt. Er entwickelte eine Philosophie des Geistes, die alle Wirklichkeit als Ausdruck des Geistes in vier Formen – Aesthetik, Logik, Oekonomik und Ethik – begreift. Als liberaler Antifaschist war er zugleich eine der wichtigsten moralischen Autoritaeten Italiens.",
+    "biografie": {
+      "fruehesLeben": "Benedetto Croce wurde 1866 in Pescasseroli in den Abruzzen geboren. Bei einem Erdbeben auf Ischia 1883 verlor er seine Eltern und seine Schwester. Er studierte in Rom und widmete sich als unabhaengiger Gelehrter der Philosophie, Geschichte und Literaturkritik.",
+      "schaffen": "Croce entwickelte seine 'Filosofia dello Spirito' (Philosophie des Geistes) in vier Baenden: Aesthetik (1902), Logik (1905), Philosophie der Praxis (1909) und Theorie und Geschichte der Historiographie (1917). Er gruendete die einflussreiche Zeitschrift 'La Critica' und war einer der produktivsten Denker seiner Epoche.",
+      "spaetesLeben": "Croce war zunaechst Senator und Bildungsminister, wandte sich aber nach Mussolinis Machtergreifung entschieden gegen den Faschismus. Sein 'Manifest der antifaschistischen Intellektuellen' (1925) machte ihn zum Symbol des geistigen Widerstands.",
+      "tod": "Benedetto Croce starb 1952 in Neapel, wo er als der 'ungekroente Koenig' des italienischen Geisteslebens galt. Sein Palazzo in Neapel beherbergt heute das Istituto Italiano per gli Studi Storici.",
+      "nachwirkung": "Croces Aesthetik hat die Kunsttheorie und Literaturkritik des 20. Jahrhunderts nachhaltig beeinflusst. Seine Geschichtsphilosophie – dass alle Geschichte Zeitgeschichte ist – bleibt ein zentraler Topos der Historiographie."
+    },
+    "kernideen": [
+      {
+        "titel": "Kunst als Intuition und Ausdruck",
+        "beschreibung": "Kunst ist die intuitive Erkenntnis des Individuellen, die sich im Ausdruck verwirklicht. Intuition und Ausdruck sind identisch: Was nicht ausgedrueckt werden kann, ist nicht wirklich erkannt. Kunst ist keine Nachahmung der Natur, sondern eine eigenstaendige Form der Erkenntnis."
+      },
+      {
+        "titel": "Die vier Formen des Geistes",
+        "beschreibung": "Der Geist verwirklicht sich in vier Formen: der aesthetischen (Intuition des Individuellen), der logischen (Erkenntnis des Universellen), der oekonomischen (Nuetzlichkeit) und der ethischen (das Gute). Diese Formen bilden einen Kreislauf, in dem jede die andere voraussetzt."
+      },
+      {
+        "titel": "Alle Geschichte ist Zeitgeschichte",
+        "beschreibung": "Geschichte ist nicht die Rekonstruktion einer toten Vergangenheit, sondern das lebendige Denken der Gegenwart ueber die Vergangenheit. Jede Epoche schreibt die Geschichte neu, weil sie neue Fragen an die Vergangenheit stellt."
+      },
+      {
+        "titel": "Liberalismus als Religiositaet",
+        "beschreibung": "Croce versteht den Liberalismus nicht als blosse politische Doktrin, sondern als eine ethische Haltung, eine 'Religiositaet der Freiheit', die die autonome Entfaltung des menschlichen Geistes als hoechsten Wert begreift."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Estetica come scienza dell'espressione (Aesthetik als Wissenschaft des Ausdrucks)",
+        "jahr": "1902",
+        "beschreibung": "Croces aesthetisches Hauptwerk, das Kunst als intuitiven Ausdruck definiert und die Aesthetik als eigenstaendige philosophische Disziplin begruendet."
+      },
+      {
+        "titel": "Logica come scienza del concetto puro (Logik als Wissenschaft des reinen Begriffs)",
+        "jahr": "1905",
+        "beschreibung": "Der zweite Band der Philosophie des Geistes, der die Logik als Wissenschaft der universellen Begriffe darstellt."
+      },
+      {
+        "titel": "La storia come pensiero e come azione (Die Geschichte als Gedanke und als Tat)",
+        "jahr": "1938",
+        "beschreibung": "Croces geschichtsphilosophisches Hauptwerk, das die These vertritt, dass alle Geschichte Zeitgeschichte ist und der Freiheit dient."
+      }
+    ]
+  }
 }

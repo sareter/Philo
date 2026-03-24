@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Wissenschaftstheorie", "Wissenschaftsgeschichte"],
+  "hauptstroemungen": [
+    "Wissenschaftstheorie",
+    "Wissenschaftsgeschichte"
+  ],
   "kurzbeschreibung": "Thomas Kuhn revolutionierte mit seinem Werk 'Die Struktur wissenschaftlicher Revolutionen' (1962) die Wissenschaftstheorie und prägte Begriffe wie 'Paradigmenwechsel' und 'normale Wissenschaft', die weit über die akademische Philosophie hinaus in den allgemeinen Sprachgebrauch eingegangen sind. Er zeigte, dass wissenschaftlicher Fortschritt nicht linear verläuft, sondern durch revolutionäre Umbrüche gekennzeichnet ist.",
   "biografie": {
     "fruehesLeben": "Thomas Samuel Kuhn wurde am 18. Juli 1922 in Cincinnati, Ohio, als Sohn eines Industrieingenieurs geboren. Er wuchs in einer jüdisch-säkularen Familie auf und besuchte progressive Schulen in New York. Er studierte Physik an der Harvard University, wo er 1943 seinen Bachelor erwarb. Während des Zweiten Weltkriegs arbeitete er an Radarforschung. Nach dem Krieg setzte er sein Studium in Harvard fort und promovierte 1949 in Physik. Die entscheidende Wende kam, als ihn der Harvard-Präsident James B. Conant bat, einen naturwissenschaftshistorischen Kurs mitzugestalten. Die Beschäftigung mit der Geschichte der Wissenschaft – insbesondere mit Aristoteles' Physik – führte Kuhn zu der Einsicht, dass wissenschaftliche Revolutionen nicht einfach Fortschritt, sondern fundamentale Weltbildwechsel darstellen.",
@@ -80,6 +83,60 @@
       "kontext": "Die revolutionäre Natur des Paradigmenwechsels als diskontinuierlicher Bruch."
     }
   ],
-  "verwandtePhilosophen": ["karl-popper", "paul-feyerabend", "willard-van-orman-quine"],
-  "verwandteIsmen": ["wissenschaftstheorie", "postpositivismus", "relativismus"]
+  "verwandtePhilosophen": [
+    "karl-popper",
+    "paul-feyerabend",
+    "willard-van-orman-quine"
+  ],
+  "verwandteIsmen": [
+    "wissenschaftstheorie",
+    "postpositivismus",
+    "relativismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Thomas Kuhn revolutionierte mit seinem Werk 'Die Struktur wissenschaftlicher Revolutionen' (1962) die Wissenschaftstheorie und praegte Begriffe wie 'Paradigmenwechsel' und 'normale Wissenschaft', die weit ueber die akademische Philosophie hinaus in den allgemeinen Sprachgebrauch eingegangen sind. Er zeigte, dass wissenschaftlicher Fortschritt nicht linear verlaeuft, sondern durch revolutionaere Umbrueche gekennzeichnet ist.",
+    "biografie": {
+      "fruehesLeben": "Thomas Samuel Kuhn wurde am 18. Juli 1922 in Cincinnati, Ohio, als Sohn eines Industrieingenieurs geboren. Er wuchs in einer juedisch-saekularen Familie auf und besuchte progressive Schulen in New York. Er studierte Physik an der Harvard University, wo er 1943 seinen Bachelor erwarb. Waehrend des Zweiten Weltkriegs arbeitete er an Radarforschung. Nach dem Krieg setzte er sein Studium in Harvard fort und promovierte 1949 in Physik. Die entscheidende Wende kam, als ihn der Harvard-Praesident James B. Conant bat, einen naturwissenschaftshistorischen Kurs mitzugestalten.",
+      "schaffen": "Kuhn lehrte zunaechst in Harvard, dann an der University of California, Berkeley (1956–1964), wo er 'Die Struktur wissenschaftlicher Revolutionen' (1962) verfasste. Das Buch wurde zu einem der meistzitierten akademischen Werke des 20. Jahrhunderts und verkaufte sich ueber eine Million Mal. Kuhn argumentierte, dass 'normale Wissenschaft' innerhalb eines Paradigmas operiert – eines geteilten Rahmens von Theorien, Methoden und Werten. Anomalien fuehren zu einer Krise und schliesslich zu einer 'wissenschaftlichen Revolution', in der ein neues Paradigma das alte ersetzt. Da verschiedene Paradigmen 'inkommensurabel' sind, kann der Uebergang zwischen ihnen nicht rein rational erklaert werden. Ab 1964 lehrte Kuhn an der Princeton University und ab 1979 am MIT.",
+      "spaetesLeben": "In seinen letzten Lebensjahrzehnten arbeitete Kuhn an einer Weiterentwicklung seiner Theorie, die staerker linguistisch fundiert sein sollte. Er befasste sich intensiv mit dem Problem der Inkommensurabilitaet und versuchte, es praeziser zu fassen. Ein geplantes systematisches Werk blieb unvollendet. Er erhielt zahlreiche Ehrendoktortitel und wurde 1982 mit der George-Sarton-Medaille fuer Wissenschaftsgeschichte ausgezeichnet.",
+      "tod": "Thomas Kuhn starb am 17. Juni 1996 in Cambridge, Massachusetts, an Bronchialkarzinom. Sein unvollendetes Spaetwerk wurde posthum als 'The Plurality of Worlds' (2022) veroeffentlicht.",
+      "nachwirkung": "Kuhns Einfluss auf die Wissenschaftstheorie, Wissenschaftsgeschichte und die Geistes- und Sozialwissenschaften insgesamt ist immens. Der Begriff 'Paradigmenwechsel' ist zum allgemeinen Kulturbegriff geworden. Seine Theorie beeinflusste den Postpositivismus, die Wissenschaftssoziologie und die Science Studies. Die Debatte zwischen Kuhn und Popper ueber das Wesen des wissenschaftlichen Fortschritts gehoert zu den fruchtbarsten Kontroversen der modernen Philosophie. Kritiker wie Lakatos und Feyerabend entwickelten seine Ideen in verschiedene Richtungen weiter."
+    },
+    "kernideen": [
+      {
+        "titel": "Paradigma und normale Wissenschaft",
+        "beschreibung": "Ein Paradigma ist ein geteilter Rahmen von Theorien, Methoden, Standards und Weltanschauungen, innerhalb dessen die wissenschaftliche Gemeinschaft arbeitet. 'Normale Wissenschaft' besteht in der Loesung von 'Raetseln' innerhalb dieses Paradigmas, ohne dessen Grundlagen infrage zu stellen."
+      },
+      {
+        "titel": "Wissenschaftliche Revolutionen",
+        "beschreibung": "Wenn sich Anomalien haeufen, die das bestehende Paradigma nicht erklaeren kann, entsteht eine Krise, die zu einer wissenschaftlichen Revolution fuehrt – einem fundamentalen Paradigmenwechsel, vergleichbar einem Gestaltwandel in der Wahrnehmung."
+      },
+      {
+        "titel": "Inkommensurabilitaet",
+        "beschreibung": "Verschiedene Paradigmen sind 'inkommensurabel' – sie sprechen teilweise verschiedene Sprachen, stellen verschiedene Fragen und sehen die Welt auf verschiedene Weise. Ein rationaler Vergleich zwischen ihnen ist daher nur begrenzt moeglich."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Struktur wissenschaftlicher Revolutionen",
+        "jahr": "1962",
+        "beschreibung": "Kuhns epochales Hauptwerk beschreibt den Wandel wissenschaftlicher Theorien als Abfolge von normaler Wissenschaft, Krise und Revolution und praegte die Begriffe 'Paradigma' und 'Paradigmenwechsel'."
+      },
+      {
+        "titel": "Die kopernikanische Revolution",
+        "jahr": "1957",
+        "beschreibung": "Eine wissenschaftshistorische Studie ueber den Uebergang vom geozentrischen zum heliozentrischen Weltbild, die Kuhns spaetere Theorie der Paradigmenwechsel vorwegnimmt."
+      },
+      {
+        "titel": "Die Entstehung des Neuen",
+        "jahr": "1977",
+        "beschreibung": "Eine Sammlung von Aufsaetzen, in denen Kuhn seine Theorie verfeinert und auf Kritiken reagiert."
+      },
+      {
+        "titel": "Black-Body Theory and the Quantum Discontinuity",
+        "jahr": "1978",
+        "beschreibung": "Eine detaillierte wissenschaftshistorische Studie ueber die Entstehung der Quantentheorie, die Kuhns historiografische Methode exemplarisch demonstriert."
+      }
+    ]
+  }
 }

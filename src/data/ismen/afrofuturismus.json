@@ -19,5 +19,18 @@
     {"titel": "Black No More", "autor": "George Schuyler", "jahr": "1931"},
     {"titel": "Kindred", "autor": "Octavia Butler", "jahr": "1979"},
     {"titel": "Black to the Future", "autor": "Mark Dery", "jahr": "1993"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Afrofuturismus verbindet afrikanische Kultur mit Science-Fiction und Zukunftsvisionen. Er zeigt: Schwarze Menschen sind nicht nur Opfer der Geschichte, sondern Gestalter der Zukunft.",
+    "ausfuehrlicheBeschreibung": "Wenn du an Science-Fiction denkst, siehst du wahrscheinlich weisse Astronauten und westliche Technologie vor dir. Der Afrofuturismus sagt: Moment mal, warum eigentlich? Er verbindet afrikanische Mythen, schwarze Kultur und futuristische Technologie zu ganz neuen Geschichten. Denk an den Film 'Black Panther' -- das Land Wakanda ist ein perfektes Beispiel dafuer.\n\nDie Idee dahinter ist ernst: Wenn schwarze Menschen in Zukunftsvisionen nicht vorkommen, dann werden sie auch in der echten Zukunft uebersehen. Wer neue Geschichten erzaehlt, veraendert, wie Menschen ueber die Zukunft denken. Der Afrofuturismus nutzt also Kunst, Musik und Literatur als Werkzeuge gegen Rassismus und fuer eine Welt, in der alle eine Zukunft haben.\n\nDer Begriff wurde erst 1993 erfunden, aber die Ideen dahinter sind aelter. Musiker wie Sun Ra und Autorinnen wie Octavia Butler haben schon Jahrzehnte vorher schwarze Zukunftsvisionen geschaffen. Heute ist Afrofuturismus in Musik, Mode, Kunst und Film ein wichtiger Trend -- und gleichzeitig eine politische Botschaft.",
+    "kernthesen": [
+      "Schwarze Menschen muessen in Zukunftsvisionen sichtbar sein -- als Gestalter, nicht als Opfer.",
+      "Afrikanische Traditionen und moderne Technologie passen zusammen und ergeben etwas Neues.",
+      "Neue Geschichten erzaehlen ist eine Form von politischem Widerstand.",
+      "Vorstellungskraft ist ein Werkzeug gegen Rassismus und koloniale Denkweisen.",
+      "Technologie und Wissenschaft gehoeren nicht nur dem Westen -- sie koennen im Sinne aller Menschen genutzt werden."
+    ],
+    "entstehung": "Den Begriff Afrofuturismus praegte Mark Dery 1993, aber die Bewegung begann schon frueher mit Kuenstlern wie Sun Ra und der Autorin Octavia Butler. Der Film 'Black Panther' (2018) machte die Idee einem riesigen Publikum bekannt.",
+    "kritik": "Kritiker sagen, Afrofuturismus sei vor allem etwas fuer die kulturelle Elite und aendere nichts an den echten Problemen schwarzer Menschen. Andere fragen, ob der Fokus auf die Zukunft nicht von den dringenden Kaempfen der Gegenwart ablenkt."
+  }
 }

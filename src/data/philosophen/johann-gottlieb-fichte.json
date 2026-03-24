@@ -43,5 +43,61 @@
     { "text": "Handeln! Handeln! Das ist es, wozu wir da sind.", "quelle": "Die Bestimmung des Menschen", "kontext": "Fichtes Betonung der Praxis und des tätigen Lebens als Bestimmung des Menschen." }
   ],
   "verwandtePhilosophen": ["immanuel-kant", "friedrich-schelling", "georg-wilhelm-friedrich-hegel", "arthur-schopenhauer"],
-  "verwandteIsmen": ["idealismus", "deutscher-idealismus", "nationalismus"]
+  "verwandteIsmen": ["idealismus", "deutscher-idealismus", "nationalismus"],
+  "einfach": {
+    "kurzbeschreibung": "Fichte war ein deutscher Philosoph, der alles aus dem 'Ich' erklaeren wollte -- das Bewusstsein erschafft sich selbst und damit die ganze Welt.",
+    "biografie": {
+      "fruehesLeben": "Fichte wurde 1762 als Sohn eines armen Bandwebers in Sachsen geboren. Ein reicher Gutsherr erkannte sein Talent und finanzierte seine Ausbildung. Als sein Foerderer starb, musste er sich als Hauslehrer durchschlagen. Die Philosophie von Kant veraenderte sein ganzes Denken. Sein erstes Buch wurde versehentlich Kant zugeschrieben, und als der Irrtum aufgeklaert wurde, war Fichte ueber Nacht beruehmt.",
+      "schaffen": "Als Professor in Jena entwickelte Fichte seine 'Wissenschaftslehre': Das Ich setzt sich selbst, erschafft ein Gegenueber (das Nicht-Ich) und bringt so die ganze Erfahrungswelt hervor. Das war extrem kuehnes Denken -- selbst Kant fand es zu weit gegangen. Fichte setzte sich auch fuer Meinungsfreiheit ein und entwarf eine Theorie, dass Freiheit nur funktioniert, wenn Menschen sich gegenseitig anerkennen. 1799 wurde er wegen angeblichem Atheismus aus Jena vertrieben.",
+      "spaetesLeben": "In Berlin hielt Fichte seine beruehmten 'Reden an die deutsche Nation', in denen er waehrend der franzoesischen Besetzung zur nationalen Erneuerung durch Bildung aufrief. Er wurde der erste Rektor der neuen Universitaet Berlin.",
+      "tod": "Fichte starb 1814 in Berlin an Typhus, den er sich wahrscheinlich von seiner Frau eingefangen hatte, die in Lazaretten der Befreiungskriege Verwundete pflegte.",
+      "nachwirkung": "Fichte war das Bindeglied zwischen Kant und dem Deutschen Idealismus. Hegel und Schelling bauten auf seinen Ideen auf. Seine Anerkennungstheorie ist bis heute wichtig. Seine nationalen Reden wurden allerdings spaeter auch von Nationalisten missbraucht."
+    },
+    "kernideen": [
+      {
+        "titel": "Das absolute Ich",
+        "beschreibung": "Das Ich erschafft sich selbst, stellt sich ein Gegenueber (die Welt) entgegen und bringt so alles hervor, was wir erleben."
+      },
+      {
+        "titel": "Tathandlung",
+        "beschreibung": "Der Grundakt der Philosophie ist kein Fakt, sondern eine Handlung: Das Bewusstsein bringt sich selbst hervor."
+      },
+      {
+        "titel": "Anerkennung",
+        "beschreibung": "Ich kann mich nur als freies Wesen verstehen, wenn andere mich auch als frei anerkennen -- Freiheit braucht immer andere Menschen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Wissenschaftslehre",
+        "jahr": "1794",
+        "beschreibung": "Fichtes Hauptwerk, das die gesamte Wirklichkeit aus dem sich selbst setzenden Ich ableitet."
+      },
+      {
+        "titel": "Reden an die deutsche Nation",
+        "jahr": "1808",
+        "beschreibung": "Beruehmte Vorlesungen, die waehrend der franzoesischen Besetzung zur Erneuerung durch Bildung aufrufen."
+      },
+      {
+        "titel": "Grundlage des Naturrechts",
+        "jahr": "1796",
+        "beschreibung": "Eine Rechtsphilosophie, die auf der Idee beruht, dass sich freie Menschen gegenseitig anerkennen muessen."
+      },
+      {
+        "titel": "Die Bestimmung des Menschen",
+        "jahr": "1800",
+        "beschreibung": "Eine verstaendlich geschriebene Schrift ueber den Weg vom Zweifel zum Glauben und zum Handeln."
+      },
+      {
+        "titel": "Versuch einer Critik aller Offenbarung",
+        "jahr": "1792",
+        "beschreibung": "Fichtes erstes Werk, das versehentlich Kant zugeschrieben wurde und ihn beruehmt machte."
+      },
+      {
+        "titel": "Der geschlossene Handelsstaat",
+        "jahr": "1800",
+        "beschreibung": "Ein Entwurf fuer einen Staat mit komplett staatlich kontrolliertem Handel."
+      }
+    ]
+  }
 }

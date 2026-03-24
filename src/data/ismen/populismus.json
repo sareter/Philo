@@ -11,13 +11,43 @@
     "Der Populismus beansprucht eine direkte, unvermittelte Vertretung des einheitlichen Volkswillens.",
     "Die Pluralität politischer Meinungen wird zugunsten eines homogenen Volksverständnisses aufgegeben."
   ],
-  "hauptvertreter": ["hannah-arendt"],
+  "hauptvertreter": [
+    "hannah-arendt"
+  ],
   "entstehung": "Der Populismus als politisches Phänomen hat Wurzeln in den Volksbewegungen des 19. Jahrhunderts in den USA und Russland. Die philosophische Reflexion über den Populismus gewann im 20. Jahrhundert durch Arendts Analyse der Massengesellschaft und in der Gegenwart durch die Arbeiten von Mudde, Laclau und Müller an Systematik.",
   "kritik": "Dem Populismus wird vorgeworfen, dass er die Komplexität moderner Gesellschaften auf einen simplen Gegensatz von Volk und Elite reduziert. Er gefährdet die liberale Demokratie, indem er Minderheitenrechte, Gewaltenteilung und die Unabhängigkeit der Justiz im Namen des vermeintlichen Volkswillens angreift.",
-  "verwandteIsmen": ["demokratischer-sozialismus", "nationalismus"],
+  "verwandteIsmen": [
+    "demokratischer-sozialismus",
+    "nationalismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Elemente und Ursprünge totaler Herrschaft", "autor": "Hannah Arendt", "jahr": "1951"},
-    {"titel": "Vita activa oder Vom tätigen Leben", "autor": "Hannah Arendt", "jahr": "1958"},
-    {"titel": "What Is Populism?", "autor": "Jan-Werner Müller", "jahr": "2016"}
-  ]
+    {
+      "titel": "Elemente und Ursprünge totaler Herrschaft",
+      "autor": "Hannah Arendt",
+      "jahr": "1951"
+    },
+    {
+      "titel": "Vita activa oder Vom tätigen Leben",
+      "autor": "Hannah Arendt",
+      "jahr": "1958"
+    },
+    {
+      "titel": "What Is Populism?",
+      "autor": "Jan-Werner Müller",
+      "jahr": "2016"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Populismus ist eine politische Ideologie und Strategie, die einen fundamentalen Gegensatz zwischen dem 'wahren Volk' und einer korrupten Elite behauptet.",
+    "ausfuehrlicheBeschreibung": "Der Populismus ist ein politisches Phaenomen, das sich einer eindeutigen Definition entzieht und sowohl auf der politischen Linken als auch auf der Rechten auftreten kann. Sein Kern besteht in der Konstruktion eines antagonistischen Gegensatzes zwischen dem 'reinen Volk' und einer 'korrupten Elite'. Hannah Arendt hat in ihren politischen Analysen die Bedingungen untersucht, unter denen populistische Bewegungen entstehen: die Aufloesung traditioneller Gemeinschaften, die Erfahrung politischer Machtlosigkeit und das Misstrauen gegenueber repraesentativen Institutionen.\n\nArendt analysierte, wie die Atomisierung der modernen Massengesellschaft Menschen fuer populistische und totalitaere Bewegungen anfaellig macht. Wenn Menschen sich von den bestehenden politischen Institutionen nicht mehr vertreten fuehlen und ihre sozialen Bindungen erodiert sind, werden sie empfaenglich fuer charismatische Fuehrer, die vorgeben, direkt im Namen des Volkes zu sprechen. Der Populismus untergraebt die Pluralitaet politischer Meinungen, indem er einen einheitlichen Volkswillen behauptet und Dissens als Verrat am Volk brandmarkt.\n\nIn der gegenwaertigen politischen Philosophie wird der Populismus intensiv diskutiert. Cas Mudde beschreibt ihn als 'duenne Ideologie', die mit verschiedenen Weltanschauungen kombinierbar ist. Chantal Mouffe und Ernesto Laclau haben eine linke Variante des Populismus verteidigt, waehrend andere Theoretiker den Populismus als grundsaetzliche Bedrohung der liberalen Demokratie betrachten.",
+    "kernthesen": [
+      "Es besteht ein fundamentaler Gegensatz zwischen dem authentischen Volk und einer korrupten Elite.",
+      "Der wahre Volkswille wird durch die bestehenden politischen Institutionen nicht angemessen repraesentiert.",
+      "Populistische Bewegungen entstehen aus der politischen Entfremdung und dem Verlust sozialer Bindungen.",
+      "Der Populismus beansprucht eine direkte, unvermittelte Vertretung des einheitlichen Volkswillens.",
+      "Die Pluralitaet politischer Meinungen wird zugunsten eines homogenen Volksverstaendnisses aufgegeben."
+    ],
+    "entstehung": "Der Populismus als politisches Phaenomen hat Wurzeln in den Volksbewegungen des 19. Jahrhunderts in den USA und Russland. Die philosophische Reflexion ueber den Populismus gewann im 20. Jahrhundert durch Arendts Analyse der Massengesellschaft und in der Gegenwart durch die Arbeiten von Mudde, Laclau und Mueller an Systematik.",
+    "kritik": "Dem Populismus wird vorgeworfen, dass er die Komplexitaet moderner Gesellschaften auf einen simplen Gegensatz von Volk und Elite reduziert. Er gefaehrdet die liberale Demokratie, indem er Minderheitenrechte, Gewaltenteilung und die Unabhaengigkeit der Justiz im Namen des vermeintlichen Volkswillens angreift."
+  }
 }

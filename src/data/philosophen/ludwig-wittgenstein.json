@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Analytische Philosophie", "Sprachphilosophie", "Logischer Positivismus"],
+  "hauptstroemungen": [
+    "Analytische Philosophie",
+    "Sprachphilosophie",
+    "Logischer Positivismus"
+  ],
   "kurzbeschreibung": "Ludwig Wittgenstein gilt als einer der bedeutendsten Philosophen des 20. Jahrhunderts, der die Philosophie gleich zweimal revolutionierte. Mit dem 'Tractatus logico-philosophicus' begründete er die Bildtheorie der Sprache, mit den 'Philosophischen Untersuchungen' die Sprachspieltheorie. Beide Werke veränderten die analytische Philosophie und die Sprachphilosophie grundlegend.",
   "biografie": {
     "fruehesLeben": "Ludwig Josef Johann Wittgenstein wurde am 26. April 1889 in Wien als jüngstes von acht Kindern einer der reichsten Familien Österreich-Ungarns geboren. Sein Vater Karl Wittgenstein war ein Stahlindustrieller, seine Mutter Leopoldine eine begabte Pianistin. Das Haus Wittgenstein war ein Zentrum des Wiener Kulturlebens; Johannes Brahms, Gustav Mahler und andere Künstler verkehrten dort regelmäßig. Drei seiner Brüder begingen Selbstmord, und sein Bruder Paul wurde ein berühmter Pianist, der im Ersten Weltkrieg seinen rechten Arm verlor. Ludwig studierte zunächst Maschinenbau an der Technischen Hochschule Berlin-Charlottenburg und wechselte 1908 nach Manchester, wo er Aeronautik studierte. Sein Interesse verlagerte sich von der Ingenieurswissenschaft zur Logik und Mathematik, und 1911 ging er nach Cambridge, um bei Bertrand Russell zu studieren, der sein Genie sofort erkannte.",
@@ -99,6 +103,66 @@
       "kontext": "Die These, dass Verstehen eine gemeinsame Lebensform voraussetzt."
     }
   ],
-  "verwandtePhilosophen": ["bertrand-russell", "gottlob-frege", "karl-popper", "willard-van-orman-quine", "alfred-north-whitehead"],
-  "verwandteIsmen": ["analytische-philosophie", "logischer-positivismus", "sprachphilosophie"]
+  "verwandtePhilosophen": [
+    "bertrand-russell",
+    "gottlob-frege",
+    "karl-popper",
+    "willard-van-orman-quine",
+    "alfred-north-whitehead"
+  ],
+  "verwandteIsmen": [
+    "analytische-philosophie",
+    "logischer-positivismus",
+    "sprachphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Ludwig Wittgenstein gilt als einer der bedeutendsten Philosophen des 20. Jahrhunderts, der die Philosophie gleich zweimal revolutionierte. Mit dem 'Tractatus logico-philosophicus' begruendete er die Bildtheorie der Sprache, mit den 'Philosophischen Untersuchungen' die Sprachspieltheorie. Beide Werke veraenderten die analytische Philosophie und die Sprachphilosophie grundlegend.",
+    "biografie": {
+      "fruehesLeben": "Ludwig Josef Johann Wittgenstein wurde am 26. April 1889 in Wien als juengstes von acht Kindern einer der reichsten Familien Oesterreich-Ungarns geboren. Sein Vater Karl Wittgenstein war ein Stahlindustrieller, seine Mutter Leopoldine eine begabte Pianistin. Das Haus Wittgenstein war ein Zentrum des Wiener Kulturlebens; Johannes Brahms, Gustav Mahler und andere Kuenstler verkehrten dort regelmaessig. Drei seiner Brueder begingen Selbstmord, und sein Bruder Paul wurde ein beruehmter Pianist, der im Ersten Weltkrieg seinen rechten Arm verlor. Ludwig studierte zunaechst Maschinenbau an der Technischen Hochschule Berlin-Charlottenburg und wechselte 1908 nach Manchester, wo er Aeronautik studierte.",
+      "schaffen": "Wittgensteins Fruehwerk kulminierte im 'Tractatus logico-philosophicus' (1921/1922), dem einzigen zu Lebzeiten veroeffentlichten philosophischen Buch. Darin entwickelte er die Bildtheorie der Sprache: Saetze sind logische Bilder der Wirklichkeit, und die Grenzen meiner Sprache sind die Grenzen meiner Welt. Das Unsagbare – Ethik, Aesthetik, das Mystische – liegt jenseits der Sprache und zeigt sich nur. Da Wittgenstein glaubte, alle philosophischen Probleme geloest zu haben, wandte er sich von der Philosophie ab und arbeitete als Volksschullehrer in niederoesterreichischen Doerfern (1920–1926), als Architekt (er entwarf ein Haus fuer seine Schwester Margaret in Wien) und als Gaertner. Ende der 1920er Jahre kehrte er zur Philosophie zurueck, angeregt durch Gespraeche mit Mitgliedern des Wiener Kreises.",
+      "spaetesLeben": "Waehrend des Zweiten Weltkriegs arbeitete Wittgenstein als Pfleger im Guy's Hospital in London und in einem medizinischen Forschungslabor in Newcastle. 1947 gab er seine Professur in Cambridge auf, da er das akademische Leben zunehmend als beengend empfand. Er zog sich nach Irland zurueck, lebte zeitweise in einer abgelegenen Huette an der Westkueste Irlands und in Dublin, wo er an den 'Philosophischen Untersuchungen' und an 'Ueber Gewissheit' arbeitete. Seine letzten Jahre waren von zunehmender Krankheit gepraegt – 1949 wurde Prostatakrebs diagnostiziert.",
+      "tod": "Ludwig Wittgenstein starb am 29. April 1951 in Cambridge im Haus seines Arztes Dr. Bevan. Seine letzten Worte sollen gewesen sein: 'Sagen Sie ihnen, dass ich ein wundervolles Leben gehabt habe.' Er wurde auf dem St Giles' Cemetery in Cambridge nach katholischem Ritus beigesetzt. Sein enormer philosophischer Nachlass wurde von seinen Nachlassverwaltern Elizabeth Anscombe, Rush Rhees und Georg Henrik von Wright herausgegeben.",
+      "nachwirkung": "Wittgenstein beeinflusste die gesamte analytische Philosophie des 20. Jahrhunderts in beiden Phasen seines Denkens. Der 'Tractatus' inspirierte den logischen Positivismus des Wiener Kreises, obwohl Wittgenstein deren szientistischen Ansatz ablehnte. Die 'Philosophischen Untersuchungen' revolutionierten die Sprachphilosophie, die Philosophie des Geistes und die Erkenntnistheorie. Sein Einfluss erstreckt sich ueber die Philosophie hinaus auf Linguistik, Anthropologie, Aesthetik und Kognitionswissenschaft. Denker wie Elizabeth Anscombe, Peter Winch, Saul Kripke und viele andere wurden durch sein Werk massgeblich gepraegt."
+    },
+    "kernideen": [
+      {
+        "titel": "Die Bildtheorie der Sprache (Tractatus)",
+        "beschreibung": "Saetze sind logische Bilder der Wirklichkeit. Ein Satz bildet einen Sachverhalt ab, indem seine logische Struktur die Struktur der Wirklichkeit widerspiegelt. Was sich nicht in Saetzen ausdruecken laesst – Ethik, Aesthetik, das Mystische –, darueber muss man schweigen."
+      },
+      {
+        "titel": "Sprachspiele und Familienaehnlichkeiten",
+        "beschreibung": "Sprache besteht aus verschiedenen 'Sprachspielen' – Formen des Sprachgebrauchs, die in Lebensformen eingebettet sind. Die Bedeutung eines Wortes ist sein Gebrauch. Begriffe werden nicht durch gemeinsame Wesensmerkmale, sondern durch 'Familienaehnlichkeiten' zusammengehalten."
+      },
+      {
+        "titel": "Das Privatsprachenargument",
+        "beschreibung": "Eine rein private Sprache, die nur der Sprecher verstehen kann, ist unmoeglich. Sprache ist wesentlich oeffentlich und regelgeleitet. Dies hat weitreichende Konsequenzen fuer die Philosophie des Geistes und die Theorie der Subjektivitaet."
+      },
+      {
+        "titel": "Philosophie als Therapie",
+        "beschreibung": "Die Philosophie soll keine Theorien aufstellen, sondern die Verwirrungen aufloesen, die durch den Missbrauch der Sprache entstehen. Philosophische Probleme sind keine echten Probleme, sondern Symptome sprachlicher Verwirrung. 'Die Philosophie ist ein Kampf gegen die Verhexung unseres Verstandes durch die Mittel unserer Sprache.'"
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Tractatus logico-philosophicus",
+        "jahr": "1921",
+        "beschreibung": "Wittgensteins einziges zu Lebzeiten veroeffentlichtes philosophisches Buch entwickelt die Bildtheorie der Sprache und endet mit dem beruehmten Satz: 'Wovon man nicht sprechen kann, darueber muss man schweigen.'"
+      },
+      {
+        "titel": "Philosophische Untersuchungen",
+        "jahr": "1953",
+        "beschreibung": "Das posthum veroeffentlichte Hauptwerk der Spaetphilosophie verwirft die Bildtheorie und entwickelt die Theorie der Sprachspiele, der Familienaehnlichkeiten und der Regelfolge."
+      },
+      {
+        "titel": "Ueber Gewissheit",
+        "jahr": "1969",
+        "beschreibung": "Eine posthum veroeffentlichte Sammlung von Bemerkungen zur Erkenntnistheorie, die sich mit G.E. Moores Beweis der Aussenwelt auseinandersetzt und die Grundlagen unserer Gewissheit untersucht."
+      },
+      {
+        "titel": "Bemerkungen ueber die Grundlagen der Mathematik",
+        "jahr": "1956",
+        "beschreibung": "Wittgensteins posthum veroeffentlichte Ueberlegungen zur Philosophie der Mathematik, die mathematische Beweise als Formen von Sprachspielen verstehen."
+      }
+    ]
+  }
 }

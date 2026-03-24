@@ -19,5 +19,18 @@
     {"titel": "Die Geburt der Tragödie", "autor": "Friedrich Nietzsche", "jahr": "1872"},
     {"titel": "Furcht und Zittern", "autor": "Søren Kierkegaard", "jahr": "1843"},
     {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Irrationalismus sagt: Die Vernunft ist nicht alles. Gefuehle, Intuition und Leidenschaft zeigen uns Dinge, die das reine Denken nicht erfassen kann.",
+    "ausfuehrlicheBeschreibung": "Die Aufklaerung hat gesagt: Vernunft ist der Schluessel zu allem. Der Irrationalismus sagt: Moment mal, da fehlt was. Es gibt Erfahrungen, die sich nicht in logische Saetze packen lassen. Denk an Liebe, an religioese Erfahrungen oder an den Moment, wenn Musik dich tief beruehrt. Das sind keine Dinge, die man mit Verstand erklaeren kann, aber sie sind trotzdem real und wichtig.\n\nKierkegaard, ein daenischer Denker, meinte: Der Glaube beginnt genau dort, wo die Vernunft aufhoert. Sich fuer etwas zu entscheiden, obwohl man es nicht beweisen kann, das ist der eigentliche Sprung des Lebens. Nietzsche ging noch weiter: Er sagte, die Vernunft selbst sei gar nicht so neutral, wie sie tut. Hinter dem, was wir fuer logisch und wahr halten, stecken oft verborgene Machtinteressen und Triebe.\n\nDer Irrationalismus hat viele spaetere Denker beeinflusst, von der Existenzphilosophie bis zur Psychoanalyse. Allerdings hat er auch eine dunkle Seite: Wenn man die Vernunft komplett aufgibt, kann das zu Fanatismus und Manipulation fuehren. Die Herausforderung ist also, die Grenzen der Vernunft anzuerkennen, ohne sie ganz ueber Bord zu werfen.",
+    "kernthesen": [
+      "Die Vernunft ist nicht die einzige und nicht immer die beste Erkenntnisquelle.",
+      "Gefuehle, Intuition und Wille erschliessen Bereiche, die dem reinen Denken verschlossen sind.",
+      "Die Aufklaerung hat das Leben durch ihren Vernunftglauben zu sehr eingeengt.",
+      "Manche Wahrheiten muss man leben und fuehlen, nicht beweisen.",
+      "Hinter dem, was wir fuer vernuenftig halten, stecken oft unbewusste Kraefte wie Wille und Machttrieb."
+    ],
+    "entstehung": "Der Irrationalismus entstand im 19. Jahrhundert als Gegenbewegung zur Aufklaerung und zum Systemdenken von Philosophen wie Hegel. Kierkegaard und Nietzsche sind die wichtigsten Vertreter, die beide auf unterschiedliche Weise die Grenzen der Vernunft betonten.",
+    "kritik": "Das groesste Problem: Der Irrationalismus benutzt selbst Argumente und Vernunft, um gegen die Vernunft zu argumentieren. Das ist ein Widerspruch. Ausserdem kann der Verzicht auf rationale Massstaebe dazu fuehren, dass Willkuer und Fanatismus sich ausbreiten."
+  }
 }

@@ -11,13 +11,45 @@
     "Die Seele kann durch philosophische Kontemplation und mystische Erfahrung zum Einen aufsteigen (Henosis).",
     "Die platonischen Ideen existieren als Denkgegenstände im göttlichen Geist (nous)."
   ],
-  "hauptvertreter": ["platon"],
+  "hauptvertreter": [
+    "platon"
+  ],
   "entstehung": "Der Neuplatonismus entstand im 3. Jahrhundert n. Chr. in der intellektuellen Atmosphäre des späten Römischen Reiches, in der griechische Philosophie, orientalische Religiosität und frühchristliches Denken aufeinandertrafen. Plotin, der bei Ammonios Sakkas in Alexandria studiert hatte, begründete die Schule in Rom um 244 n. Chr. Er verstand sich nicht als Neuerer, sondern als authentischer Interpret Platons, der dessen wahre Lehre gegen Verfälschungen verteidigte. Die Schule bestand bis zur Schließung der Athener Akademie durch Kaiser Justinian 529 n. Chr.",
   "kritik": "Der Neuplatonismus wurde von christlichen Theologen trotz seiner Rezeption auch kritisiert, insbesondere wegen seiner Lehre von der Ewigkeit der Welt und der Emanation (statt Schöpfung aus dem Nichts). Der Emanationsgedanke wurde als deterministische Notwendigkeit kritisiert, die keinen Raum für göttliche Freiheit und Personalität lässt. Moderne Kritiker bemängeln den elitären Charakter der neuplatonischen Mystik und ihre Weltabgewandtheit. Die Abwertung der Materie und des Körpers wurde als problematisch angesehen, auch wenn sie weniger radikal ist als im Gnostizismus. Analytische Philosophen kritisieren die begriffliche Unschärfe des Einen, das jenseits aller Prädikation stehen soll und dennoch als Quelle aller Wirklichkeit fungiert.",
-  "verwandteIsmen": ["platonismus", "idealismus", "monismus", "pantheismus"],
+  "verwandteIsmen": [
+    "platonismus",
+    "idealismus",
+    "monismus",
+    "pantheismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Enneaden", "autor": "Plotin", "jahr": "ca. 270" },
-    { "titel": "Isagoge", "autor": "Porphyrios", "jahr": "ca. 270" },
-    { "titel": "Institutio Theologica", "autor": "Proklos", "jahr": "ca. 460" }
-  ]
+    {
+      "titel": "Enneaden",
+      "autor": "Plotin",
+      "jahr": "ca. 270"
+    },
+    {
+      "titel": "Isagoge",
+      "autor": "Porphyrios",
+      "jahr": "ca. 270"
+    },
+    {
+      "titel": "Institutio Theologica",
+      "autor": "Proklos",
+      "jahr": "ca. 460"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Neuplatonismus ist die letzte grosse philosophische Stroemung der Antike, begruendet von Plotin im 3.",
+    "ausfuehrlicheBeschreibung": "Der Neuplatonismus stellt die bedeutendste philosophische Synthese der Spaetantike dar und bildet die Bruecke zwischen der antiken Philosophie und dem mittelalterlichen Denken. Plotin (ca. 205-270 n. Chr.), der Begruender dieser Richtung, studierte in Alexandria bei Ammonios Sakkas und lehrte spaeter in Rom, wo sein Schueler Porphyrios seine Schriften in den sechs Enneaden zusammenstellte.\n\nDas Zentrum des neuplatonischen Systems bildet die Lehre von den drei Hypostasen: dem Einen (hen), dem Geist (nous) und der Seele (psychē). Das Eine steht jenseits aller Bestimmungen und Kategorien – es ist unbeschreibbar, unendlich und absolut einfach. Aus dem Einen emaniert (fliesst) der Geist hervor, nicht durch einen willentlichen Akt, sondern durch die ueberfliessende Fuelle des Einen, aehnlich wie Licht von der Sonne ausstrahlt, ohne dass die Sonne dadurch vermindert wird. Der Geist enthaelt die platonischen Ideen als seine Denkgegenstaende. Aus dem Geist emaniert wiederum die Weltseele, die die materielle Welt formt und belebt.\n\nDie Materie stellt im neuplatonischen System das aeusserste Ende der Emanationsreihe dar – sie ist gleichsam die Abwesenheit des Lichts, das vom Einen ausstrahlt. Sie ist nicht positiv boese, sondern ein Mangel an Sein und Guete. Diese Konzeption unterscheidet den Neuplatonismus vom gnostischen Dualismus, der die Materie als aktiv boese betrachtet.",
+    "kernthesen": [
+      "Alle Wirklichkeit emaniert aus dem Einen (hen), das jenseits aller Bestimmungen steht.",
+      "Die drei Hypostasen – das Eine, der Geist (nous) und die Seele (psychē) – bilden die Grundstruktur der Wirklichkeit.",
+      "Die Materie ist kein positives Uebel, sondern ein Mangel an Sein und Guete.",
+      "Die Seele kann durch philosophische Kontemplation und mystische Erfahrung zum Einen aufsteigen (Henosis).",
+      "Die platonischen Ideen existieren als Denkgegenstaende im goettlichen Geist (nous)."
+    ],
+    "entstehung": "Der Neuplatonismus entstand im 3. Jahrhundert n. Chr. in der intellektuellen Atmosphaere des spaeten Roemischen Reiches, in der griechische Philosophie, orientalische Religiositaet und fruehchristliches Denken aufeinandertrafen. Plotin, der bei Ammonios Sakkas in Alexandria studiert hatte, begruendete die Schule in Rom um 244 n. Chr. Er verstand sich nicht als Neuerer, sondern als authentischer Interpret Platons, der dessen wahre Lehre gegen Verfaelschungen verteidigte. Die Schule bestand bis zur Schliessung der Athener Akademie durch Kaiser Justinian 529 n. Chr.",
+    "kritik": "Der Neuplatonismus wurde von christlichen Theologen trotz seiner Rezeption auch kritisiert, insbesondere wegen seiner Lehre von der Ewigkeit der Welt und der Emanation (statt Schoepfung aus dem Nichts). Der Emanationsgedanke wurde als deterministische Notwendigkeit kritisiert, die keinen Raum fuer goettliche Freiheit und Personalitaet laesst. Moderne Kritiker bemaengeln den elitaeren Charakter der neuplatonischen Mystik und ihre Weltabgewandtheit."
+  }
 }

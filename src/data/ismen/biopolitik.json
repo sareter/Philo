@@ -11,13 +11,44 @@
     "Das 'nackte Leben' – das bloße biologische Dasein – ist der grundlegende Gegenstand moderner Macht.",
     "Die Grenze zwischen Fürsorge und Kontrolle ist in der Biopolitik fließend."
   ],
-  "hauptvertreter": ["michel-foucault"],
+  "hauptvertreter": [
+    "michel-foucault"
+  ],
   "entstehung": "Der Begriff der Biopolitik wurde von Foucault in seinen Vorlesungen 'In Verteidigung der Gesellschaft' (1976) und 'Die Geburt der Biopolitik' (1979) systematisch entwickelt. Giorgio Agambens 'Homo sacer' (1995) und Roberto Espositos 'Bios' (2004) haben das Konzept weiterentwickelt und radikalisiert.",
   "kritik": "Kritiker werfen der biopolitischen Analyse vor, die positiven Aspekte moderner Gesundheitspolitik und sozialer Fürsorge zu vernachlässigen. Zudem wird bemängelt, dass der Begriff der Biomacht zu allumfassend verwendet werde und dadurch seine analytische Schärfe verliere.",
-  "verwandteIsmen": ["poststrukturalismus", "nekropolitik", "anarchismus"],
+  "verwandteIsmen": [
+    "poststrukturalismus",
+    "nekropolitik",
+    "anarchismus"
+  ],
   "schluesselwerke": [
-    {"titel": "In Verteidigung der Gesellschaft", "autor": "Michel Foucault", "jahr": "1976"},
-    {"titel": "Die Geburt der Biopolitik", "autor": "Michel Foucault", "jahr": "1979"},
-    {"titel": "Homo sacer", "autor": "Giorgio Agamben", "jahr": "1995"}
-  ]
+    {
+      "titel": "In Verteidigung der Gesellschaft",
+      "autor": "Michel Foucault",
+      "jahr": "1976"
+    },
+    {
+      "titel": "Die Geburt der Biopolitik",
+      "autor": "Michel Foucault",
+      "jahr": "1979"
+    },
+    {
+      "titel": "Homo sacer",
+      "autor": "Giorgio Agamben",
+      "jahr": "1995"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Biopolitik bezeichnet die Durchdringung des biologischen Lebens durch politische Macht.",
+    "ausfuehrlicheBeschreibung": "Der Begriff der Biopolitik wurde von Michel Foucault in seinen Vorlesungen am Collège de France (1975–1979) als zentrale Kategorie der modernen Machtanalyse entwickelt. Foucault zeigt, dass sich die Macht ab dem 18. Jahrhundert grundlegend veraenderte: Waehrend die souveraene Macht das Recht ueber Leben und Tod ausuebte, zielt die Biomacht darauf ab, das Leben selbst zu verwalten, zu optimieren und zu regulieren. Bevoelkerungspolitik, Gesundheitswesen, Hygiene und Demografie werden zu Instrumenten einer Macht, die nicht mehr straft, sondern normalisiert.\n\nFoucault unterscheidet zwischen Disziplinarmacht, die auf den individuellen Koerper wirkt, und Biopolitik, die auf die Bevoelkerung als Ganzes abzielt. Die Geburt der Statistik, der modernen Medizin und der Sozialpolitik sind fuer ihn Ausdruck dieser neuen Machtform. Giorgio Agamben radikalisierte Foucaults Analyse, indem er die Biopolitik mit dem Zustand der Ausnahme verband: In der Moderne wird das 'nackte Leben' – das biologische Dasein, das jeder politischen Rechte entkleidet ist – zum grundlegenden Gegenstand politischer Macht.\n\nDie Biopolitik hat in der Gegenwart durch die COVID-19-Pandemie, die Debatte um Bioethik und die Fortschritte in Gentechnologie und Ueberwachungstechnologie neue Aktualitaet gewonnen. Sie bietet analytische Werkzeuge zum Verstaendnis von Impfpolitik, Quarantaenemassnahmen, reproduktiver Kontrolle und der zunehmenden Vermessung des Lebens durch digitale Technologien.",
+    "kernthesen": [
+      "Moderne Macht zielt nicht mehr auf den Tod, sondern auf die Verwaltung und Optimierung des Lebens.",
+      "Bevoelkerung, Gesundheit und Sexualitaet sind zentrale Gegenstaende politischer Kontrolle.",
+      "Die Biopolitik normalisiert statt zu strafen – sie definiert, was als gesund, normal und produktiv gilt.",
+      "Das 'nackte Leben' – das blosse biologische Dasein – ist der grundlegende Gegenstand moderner Macht.",
+      "Die Grenze zwischen Fuersorge und Kontrolle ist in der Biopolitik fliessend."
+    ],
+    "entstehung": "Der Begriff der Biopolitik wurde von Foucault in seinen Vorlesungen 'In Verteidigung der Gesellschaft' (1976) und 'Die Geburt der Biopolitik' (1979) systematisch entwickelt. Giorgio Agambens 'Homo sacer' (1995) und Roberto Espositos 'Bios' (2004) haben das Konzept weiterentwickelt und radikalisiert.",
+    "kritik": "Kritiker werfen der biopolitischen Analyse vor, die positiven Aspekte moderner Gesundheitspolitik und sozialer Fuersorge zu vernachlaessigen. Zudem wird bemaengelt, dass der Begriff der Biomacht zu allumfassend verwendet werde und dadurch seine analytische Schaerfe verliere."
+  }
 }

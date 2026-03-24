@@ -82,5 +82,27 @@
     }
   ],
   "verwandtePhilosophen": ["michel-foucault", "jacques-derrida", "kwame-nkrumah", "leopold-sedar-senghor"],
-  "verwandteIsmen": ["postkolonialismus"]
+  "verwandteIsmen": ["postkolonialismus"],
+  "einfach": {
+    "kurzbeschreibung": "Achille Mbembe ist ein Denker aus Kamerun, der untersucht, wie Kolonialismus und Rassismus bis heute nachwirken und wer in unserer Welt Macht ueber Leben und Tod hat.",
+    "biografie": {
+      "fruehesLeben": "Mbembe wurde 1957 in Kamerun geboren. Er studierte Geschichte in seiner Heimat und machte dann seinen Doktor in Paris. Schon frueh interessierte er sich dafuer, wie Macht in Laendern funktioniert, die frueher Kolonien waren.",
+      "schaffen": "Mit seinem Buch ueber die Postkolonie wurde er international bekannt. Sein wichtigstes Konzept heisst Nekropolitik: Es geht darum, dass Regierungen entscheiden, wer leben darf und wer sterben muss. Er verbindet diese Ideen mit Themen wie Globalisierung und Rassismus.",
+      "spaetesLeben": "Heute ist Mbembe Professor in Johannesburg, Suedafrika, und einer der bekanntesten Intellektuellen Afrikas. Er setzt sich dafuer ein, dass Universitaeten und Wissen von kolonialen Denkmustern befreit werden.",
+      "tod": "Mbembe lebt und arbeitet weiterhin in Suedafrika. Er forscht und lehrt an der Schnittstelle von Philosophie und Politik.",
+      "nachwirkung": "Mbembes Ideen haben die Forschung zu Kolonialismus und Rassismus weltweit stark beeinflusst. Sein Begriff Nekropolitik wird heute ueberall in der politischen Philosophie verwendet."
+    },
+    "kernideen": [
+      {"titel": "Nekropolitik", "beschreibung": "Nekropolitik beschreibt die Macht von Staaten, zu entscheiden, wer leben darf und wer sterben muss. Beispiele dafuer sind Sklaverei, Apartheid oder die Art, wie heute Grenzen kontrolliert werden."},
+      {"titel": "Postkolonie", "beschreibung": "Postkolonie bedeutet nicht einfach die Zeit nach dem Kolonialismus. Es beschreibt, dass koloniale Machtstrukturen in veraenderter Form weiter existieren."},
+      {"titel": "Kritik des schwarzen Vernunft", "beschreibung": "Mbembe zeigt, wie die Idee von Rasse erfunden wurde, um Ausbeutung und Unterdrueckung zu rechtfertigen."},
+      {"titel": "Brutalismus", "beschreibung": "Mbembe beschreibt, wie der heutige Kapitalismus brutal mit Menschen und Umwelt umgeht und dabei Methoden nutzt, die aus der Kolonialzeit stammen."}
+    ],
+    "werke": [
+      {"titel": "De la postcolonie", "jahr": "2000", "beschreibung": "Ein einflussreiches Buch darueber, wie Macht in ehemaligen Kolonien in Afrika funktioniert."},
+      {"titel": "Nekropolitik", "jahr": "2003", "beschreibung": "Der beruehmt gewordene Text, der erklaert, wie moderne Herrschaft ueber Leben und Tod entscheidet."},
+      {"titel": "Kritik der schwarzen Vernunft", "jahr": "2013", "beschreibung": "Eine Untersuchung darueber, wie Rassismus entstanden ist und wie er bis heute funktioniert."},
+      {"titel": "Brutalismus", "jahr": "2020", "beschreibung": "Eine Analyse der Brutalitaet des heutigen Kapitalismus als Fortsetzung kolonialer Gewalt."}
+    ]
+  }
 }

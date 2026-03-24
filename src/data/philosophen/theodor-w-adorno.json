@@ -18,7 +18,12 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Kritische Theorie", "Frankfurter Schule", "Ästhetik", "Kulturkritik"],
+  "hauptstroemungen": [
+    "Kritische Theorie",
+    "Frankfurter Schule",
+    "Ästhetik",
+    "Kulturkritik"
+  ],
   "kurzbeschreibung": "Theodor W. Adorno war einer der bedeutendsten Philosophen, Soziologen und Musiktheoretiker des 20. Jahrhunderts. Als zentraler Vertreter der Frankfurter Schule entwickelte er zusammen mit Max Horkheimer die Kritische Theorie und analysierte in der 'Dialektik der Aufklärung' die Selbstzerstörung der Vernunft. Sein Denken ist eine radikale Kritik der modernen Gesellschaft, der Kulturindustrie und des identifizierenden Denkens.",
   "biografie": {
     "fruehesLeben": "Theodor Ludwig Wiesengrund Adorno wurde am 11. September 1903 in Frankfurt am Main als Sohn des jüdischen Weingroßhändlers Oscar Alexander Wiesengrund und der Sängerin Maria Calvelli-Adorno della Piana geboren. Er wuchs in einem musisch geprägten Elternhaus auf; seine Mutter und seine Tante Agathe, eine Pianistin, förderten seine musikalische Begabung von klein auf. Er studierte Philosophie, Soziologie, Psychologie und Musikwissenschaft an der Universität Frankfurt und promovierte 1924 über Husserls Phänomenologie. Von 1925 bis 1928 studierte er in Wien Komposition bei Alban Berg und wurde Schüler der Zweiten Wiener Schule. Zurück in Frankfurt habilitierte er sich 1931 mit einer Arbeit über Kierkegaard.",
@@ -104,6 +109,67 @@
       "kontext": "Adornos kategorischer Imperativ der Pädagogik nach dem Holocaust."
     }
   ],
-  "verwandtePhilosophen": ["max-horkheimer", "walter-benjamin", "herbert-marcuse", "juergen-habermas", "ernst-cassirer"],
-  "verwandteIsmen": ["kritische-theorie", "frankfurter-schule", "marxismus", "kulturkritik"]
+  "verwandtePhilosophen": [
+    "max-horkheimer",
+    "walter-benjamin",
+    "herbert-marcuse",
+    "juergen-habermas",
+    "ernst-cassirer"
+  ],
+  "verwandteIsmen": [
+    "kritische-theorie",
+    "frankfurter-schule",
+    "marxismus",
+    "kulturkritik"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Theodor W. Adorno war einer der bedeutendsten Philosophen, Soziologen und Musiktheoretiker des 20. Jahrhunderts. Als zentraler Vertreter der Frankfurter Schule entwickelte er zusammen mit Max Horkheimer die Kritische Theorie und analysierte in der 'Dialektik der Aufklaerung' die Selbstzerstoerung der Vernunft. Sein Denken ist eine radikale Kritik der modernen Gesellschaft, der Kulturindustrie und des identifizierenden Denkens.",
+    "biografie": {
+      "fruehesLeben": "Theodor Ludwig Wiesengrund Adorno wurde am 11. September 1903 in Frankfurt am Main als Sohn des juedischen Weingrosshaendlers Oscar Alexander Wiesengrund und der Saengerin Maria Calvelli-Adorno della Piana geboren. Er wuchs in einem musisch gepraegten Elternhaus auf; seine Mutter und seine Tante Agathe, eine Pianistin, foerderten seine musikalische Begabung von klein auf. Er studierte Philosophie, Soziologie, Psychologie und Musikwissenschaft an der Universitaet Frankfurt und promovierte 1924 ueber Husserls Phaenomenologie. Von 1925 bis 1928 studierte er in Wien Komposition bei Alban Berg und wurde Schueler der Zweiten Wiener Schule. Zurueck in Frankfurt habilitierte er sich 1931 mit einer Arbeit ueber Kierkegaard.",
+      "schaffen": "Nach der Machtergreifung der Nationalsozialisten emigrierte Adorno 1934 zunaechst nach Oxford, 1938 in die USA, wo er sich dem Institut fuer Sozialforschung (Frankfurter Schule) unter Max Horkheimer anschloss. In der Emigration verfassten Adorno und Horkheimer gemeinsam die 'Dialektik der Aufklaerung' (1947), die zentrale Schrift der Kritischen Theorie, die die Selbstzerstoerung der Aufklaerungsvernunft und die Entstehung der Kulturindustrie analysiert. Die 'Minima Moralia' (1951) – 'Reflexionen aus dem beschaedigten Leben' – gehoeren zu den brillantesten aphoristischen Werken der Philosophie. In Los Angeles arbeitete er an der Studie 'The Authoritarian Personality' (1950) zur sozialpsychologischen Analyse des Faschismus mit.",
+      "spaetesLeben": "In den 1960er Jahren wurde Adorno zur zentralen intellektuellen Figur der Bundesrepublik. Er engagierte sich in der Bildungspolitik, schrieb Beitraege zur Vergangenheitsbewaeltigung und hielt den beruehmten Radiovortrag 'Erziehung nach Auschwitz' (1966). Die 68er-Studentenbewegung berief sich zwar auf die Kritische Theorie, doch Adorno lehnte die zunehmende Radikalisierung und Gewaltbereitschaft der Studenten ab. Der Konflikt eskalierte, als Studenten seine Vorlesungen stoerten und eine Gruppe von Studentinnen ihn in einem sogenannten 'Busenattentat' blossstellte. Diese Ereignisse belasteten Adorno schwer.",
+      "tod": "Theodor W. Adorno starb am 6. August 1969 in Visp im Wallis, Schweiz, an einem Herzinfarkt waehrend eines Urlaubs. Er war 65 Jahre alt. Sein Tod wurde von vielen als Folge der physischen und psychischen Belastungen der letzten Jahre gedeutet. Die 'Aesthetische Theorie', an der er bis zuletzt gearbeitet hatte, blieb unvollendet und wurde posthum von Gretel Adorno und Rolf Tiedemann herausgegeben.",
+      "nachwirkung": "Adornos Einfluss auf die Philosophie, Soziologie, Musikwissenschaft, Literaturwissenschaft und Kulturkritik ist immens. Seine Kritik der Kulturindustrie ist in der Aera der sozialen Medien aktueller denn je. Die 'Negative Dialektik' beeinflusste die poststrukturalistische Philosophie, und seine Aesthetik bleibt ein Bezugspunkt fuer zeitgenoessische Kunst- und Musiktheorie. Juergen Habermas, Slavoj Žižek, Judith Butler und viele andere knuepfen an sein Werk an. Die Gesamtausgabe seiner Schriften umfasst ueber 20 Baende."
+    },
+    "kernideen": [
+      {
+        "titel": "Dialektik der Aufklaerung",
+        "beschreibung": "Die Aufklaerung, die den Menschen aus der Unmuendigkeit befreien sollte, schlaegt in ihr Gegenteil um: Die instrumentelle Vernunft, die die Natur beherrschen will, endet in der Beherrschung des Menschen durch den Menschen. Mythos und Aufklaerung sind ineinander verschlungen."
+      },
+      {
+        "titel": "Kulturindustrie",
+        "beschreibung": "Die Kulturindustrie produziert standardisierte, warenfoermige Kultur, die den Menschen nicht befreit, sondern an das bestehende System anpasst. Unterhaltung wird zum Verlaengerung der Arbeit und verhindert kritisches Denken."
+      },
+      {
+        "titel": "Negative Dialektik",
+        "beschreibung": "Die negative Dialektik ist ein Denken, das sich weigert, das Besondere unter das Allgemeine zu subsumieren. Sie haelt am Nichtidentischen fest – am Einzelnen, Leidenden, das sich der begrifflichen Erfassung entzieht. Philosophie muss das zur Sprache bringen, wofuer es noch keine Begriffe gibt."
+      },
+      {
+        "titel": "Erziehung nach Auschwitz",
+        "beschreibung": "Die oberste Forderung an alle Erziehung ist, dass Auschwitz nicht noch einmal sei. Erziehung muss zur Selbstreflexion, Empathie und Widerstandsfaehigkeit gegen Autoritarismus erziehen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Dialektik der Aufklaerung",
+        "jahr": "1947",
+        "beschreibung": "Das mit Max Horkheimer verfasste Hauptwerk der Kritischen Theorie analysiert die Selbstzerstoerung der Aufklaerungsvernunft und die Entstehung der Kulturindustrie."
+      },
+      {
+        "titel": "Minima Moralia",
+        "jahr": "1951",
+        "beschreibung": "'Reflexionen aus dem beschaedigten Leben' – eine Sammlung brillanter aphoristischer Reflexionen ueber das Leben in der modernen Gesellschaft, verfasst im amerikanischen Exil."
+      },
+      {
+        "titel": "Negative Dialektik",
+        "jahr": "1966",
+        "beschreibung": "Adornos philosophisches Hauptwerk entwickelt eine Methode des Denkens, die das Nichtidentische, Besondere und Leidende gegen die Gewalt des identifizierenden Begriffs verteidigt."
+      },
+      {
+        "titel": "Aesthetische Theorie",
+        "jahr": "1970",
+        "beschreibung": "Das unvollendete, posthum veroeffentlichte Spaetwerk analysiert die moderne Kunst als Statthalter der Wahrheit in einer falschen Gesellschaft."
+      }
+    ]
+  }
 }

@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Ionien (Kleinasien)",
-  "hauptstroemungen": ["Vorsokratik", "Naturphilosophie", "Milesische Schule"],
+  "hauptstroemungen": [
+    "Vorsokratik",
+    "Naturphilosophie",
+    "Milesische Schule"
+  ],
   "kurzbeschreibung": "Thales von Milet gilt als der erste Philosoph der westlichen Tradition und Begründer der Milesischen Schule. Er suchte als erster nach einer natürlichen Erklärung der Welt und identifizierte das Wasser als Urgrund aller Dinge.",
   "biografie": {
     "fruehesLeben": "Thales wurde um 624 v. Chr. in Milet geboren, der bedeutendsten griechischen Handelsstadt an der ionischen Küste Kleinasiens. Über seine Herkunft gibt es verschiedene Berichte: Nach Herodot stammte er aus einer phönizischen Familie, während Diogenes Laertios berichtet, er sei aus einer vornehmen böotischen Familie. Milet war zu jener Zeit ein blühendes Handelszentrum mit Verbindungen nach Ägypten, Babylon und dem gesamten östlichen Mittelmeerraum. Thales soll ausgedehnte Reisen unternommen haben, insbesondere nach Ägypten, wo er sich mit der Geometrie und Astronomie der ägyptischen Priester vertraut machte. Der Überlieferung nach soll er die Höhe der Pyramiden durch Messung ihres Schattens bestimmt haben, als der Schatten eines Mannes gleich seiner Körpergröße war.",
@@ -70,6 +74,48 @@
       "kontext": "Eine der praktischen Lebensweisheiten, die Thales als einem der Sieben Weisen zugeschrieben werden."
     }
   ],
-  "verwandtePhilosophen": ["anaximander", "anaximenes", "pythagoras", "heraklit", "parmenides"],
-  "verwandteIsmen": ["naturalismus", "materialismus", "hylozoismus", "monismus"]
+  "verwandtePhilosophen": [
+    "anaximander",
+    "anaximenes",
+    "pythagoras",
+    "heraklit",
+    "parmenides"
+  ],
+  "verwandteIsmen": [
+    "naturalismus",
+    "materialismus",
+    "hylozoismus",
+    "monismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Thales von Milet gilt als der erste Philosoph der westlichen Tradition und Begruender der Milesischen Schule. Er suchte als erster nach einer natuerlichen Erklaerung der Welt und identifizierte das Wasser als Urgrund aller Dinge.",
+    "biografie": {
+      "fruehesLeben": "Thales wurde um 624 v. Chr. in Milet geboren, der bedeutendsten griechischen Handelsstadt an der ionischen Kueste Kleinasiens. Ueber seine Herkunft gibt es verschiedene Berichte: Nach Herodot stammte er aus einer phoenizischen Familie, waehrend Diogenes Laertios berichtet, er sei aus einer vornehmen boeotischen Familie. Milet war zu jener Zeit ein bluehendes Handelszentrum mit Verbindungen nach Aegypten, Babylon und dem gesamten oestlichen Mittelmeerraum. Thales soll ausgedehnte Reisen unternommen haben, insbesondere nach Aegypten, wo er sich mit der Geometrie und Astronomie der aegyptischen Priester vertraut machte. Der Ueberlieferung nach soll er die Hoehe der Pyramiden durch Messung ihres Schattens bestimmt haben, als der Schatten eines Mannes gleich seiner Koerpergroesse war.",
+      "schaffen": "Thales vollzog den entscheidenden Schritt vom mythischen zum rationalen Denken, indem er als erster versuchte, die Welt aus natuerlichen Prinzipien zu erklaeren, statt auf goettliches Wirken zu verweisen. Seine zentrale These lautete: Das Wasser ist der Urgrund (arche) aller Dinge. Alles entsteht aus dem Wasser und kehrt zum Wasser zurueck. Moeglicherweise wurde er zu dieser Ansicht durch die Beobachtung inspiriert, dass Wasser in allen drei Aggregatzustaenden vorkommt und fuer alles Leben unverzichtbar ist. Daneben vertrat Thales die Auffassung, dass die Erde auf dem Wasser schwimme. In der Astronomie erlangte er Beruehmtheit durch die Vorhersage der Sonnenfinsternis vom 28. Mai 585 v. Chr., die den Krieg zwischen Lydern und Medern beendete.",
+      "spaetesLeben": "Thales wurde nicht nur als Denker, sondern auch als praktischer Ratgeber geschaetzt. Er gehoerte zu den 'Sieben Weisen' des antiken Griechenland. Aristoteles ueberliefert eine beruehmte Anekdote: Als man Thales wegen seiner Armut verspottete und die Nutzlosigkeit der Philosophie beklagte, sagte er aufgrund seiner astronomischen Kenntnisse eine reiche Olivenernte voraus, pachtete rechtzeitig alle Oelpressen und erzielte so grossen Gewinn – um zu beweisen, dass Philosophen durchaus reich werden koennten, wenn sie wollten, dies aber nicht ihr Ziel sei. Politisch riet er den ionischen Staedten vergeblich, sich zu einem Bundesstaat zusammenzuschliessen, um der persischen Bedrohung zu widerstehen.",
+      "tod": "Thales starb um 546 v. Chr. in Milet, angeblich im hohen Alter von 78 Jahren. Nach einer Anekdote des Diogenes Laertios soll er bei der Beobachtung eines Sportfestes vor Hitze, Durst und Altersschwaeche gestorben sein. Eine andere Ueberlieferung besagt, er sei gestorben, als er beim Betrachten der Sterne in einen Brunnen fiel – eine Geschichte, die zum Symbol fuer den weltfremden Philosophen wurde.",
+      "nachwirkung": "Thales' Bedeutung liegt weniger in seinen konkreten Thesen als in der revolutionaeren Methode, die er begruendete: die rationale Erforschung der Natur ohne Rueckgriff auf mythische Erklaerungen. Damit gilt er als Begruender sowohl der Philosophie als auch der Naturwissenschaft im westlichen Sinne. Seine beiden Schueler Anaximander und Anaximenes setzten sein Programm fort und bildeten zusammen mit ihm die Milesische Schule, die erste philosophische Schule der Geschichte. Aristoteles nennt ihn den Begruender der Naturphilosophie, und seine Frage nach dem Urgrund (arche) bestimmte die gesamte vorsokratische Philosophie."
+    },
+    "kernideen": [
+      {
+        "titel": "Wasser als Urgrund (Arche)",
+        "beschreibung": "Das Wasser ist der Ursprung und die Grundsubstanz aller Dinge. Alles entsteht aus dem Wasser und kehrt zum Wasser zurueck. Die Erde selbst schwimmt auf dem Wasser."
+      },
+      {
+        "titel": "Rationale Naturerklaerung",
+        "beschreibung": "Thales vollzog als erster den Uebergang vom Mythos zum Logos – er erklaerte Naturphaenomene nicht durch das Wirken der Goetter, sondern durch natuerliche Ursachen und Prinzipien."
+      },
+      {
+        "titel": "Hylozoismus",
+        "beschreibung": "Die gesamte Materie ist in gewisser Weise belebt und beseelt. 'Alles ist voll von Goettern' – selbst der Magnetstein hat eine Seele, da er Eisen bewegen kann."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Keine erhaltenen Schriften",
+        "jahr": "–",
+        "beschreibung": "Von Thales sind keine Schriften erhalten. Es ist umstritten, ob er ueberhaupt schriftliche Werke verfasst hat. Sein Denken ist nur durch spaetere Berichte ueberliefert, insbesondere durch Aristoteles und Diogenes Laertios."
+      }
+    ]
+  }
 }

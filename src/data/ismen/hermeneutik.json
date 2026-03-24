@@ -20,5 +20,18 @@
     { "titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927" },
     { "titel": "Einleitung in die Geisteswissenschaften", "autor": "Wilhelm Dilthey", "jahr": "1883" },
     { "titel": "Hermeneutik und Kritik", "autor": "Friedrich Schleiermacher", "jahr": "1838" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Hermeneutik ist die Philosophie des Verstehens. Sie fragt, wie wir Texte, Menschen und die Welt um uns herum wirklich verstehen koennen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du liest eine Nachricht von jemandem und bist dir nicht sicher, wie sie gemeint ist. Genau darum geht es in der Hermeneutik: Wie verstehen wir das, was andere sagen, schreiben oder tun? Angefangen hat das Ganze mit der Auslegung von religioesen Texten, aber daraus ist eine ganze Philosophie geworden, die sich mit dem Verstehen an sich beschaeftigt.\n\nEin wichtiger Punkt ist der sogenannte hermeneutische Zirkel. Das klingt kompliziert, ist aber eigentlich logisch: Um einen einzelnen Satz in einem Buch zu verstehen, musst du das ganze Buch kennen. Aber um das ganze Buch zu verstehen, musst du die einzelnen Saetze verstehen. Man bewegt sich also immer im Kreis zwischen dem Ganzen und den Teilen. Das gilt auch im Alltag, zum Beispiel wenn du eine andere Kultur verstehen willst.\n\nDer Philosoph Gadamer hat gesagt, dass wir nie ganz vorurteilsfrei an etwas herangehen. Unsere Erfahrungen und unsere Herkunft praegen immer mit, wie wir Dinge verstehen. Das ist aber nicht schlimm, sondern ganz normal. Verstehen bedeutet fuer ihn, dass sich der eigene Blickwinkel mit dem des anderen verbindet. Wie ein gutes Gespraech, in dem beide Seiten etwas Neues lernen.",
+    "kernthesen": [
+      "Verstehen ist nicht nur eine Methode, sondern etwas, das wir Menschen die ganze Zeit tun.",
+      "Um Teile zu verstehen, braucht man das Ganze, und umgekehrt. Das ist der hermeneutische Zirkel.",
+      "Wir gehen nie ganz ohne Vorannahmen an etwas heran, und das ist auch in Ordnung so.",
+      "Echtes Verstehen entsteht, wenn sich verschiedene Blickwinkel treffen und verbinden.",
+      "Unsere Geschichte und Tradition beeinflussen immer, wie wir die Welt sehen."
+    ],
+    "entstehung": "Hermeneutik gibt es schon seit der Antike, wo man versuchte, alte Texte richtig zu deuten. Im 19. Jahrhundert hat Schleiermacher daraus eine allgemeine Theorie des Verstehens gemacht. Im 20. Jahrhundert haben Heidegger und Gadamer das Ganze nochmal erweitert und gesagt: Verstehen ist nicht nur eine Technik, sondern die Art, wie wir als Menschen in der Welt sind.",
+    "kritik": "Kritiker sagen, dass die Hermeneutik zu sehr auf Tradition und Ueberlieferung setzt und dabei uebersieht, dass Traditionen auch unterdruecken koennen. Ausserdem werfen manche ihr vor, dass sie zu wenig klare Argumente liefert und vieles vage bleibt."
+  }
 }

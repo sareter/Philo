@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Politische Philosophie", "Existenzphilosophie", "Republikanismus"],
+  "hauptstroemungen": [
+    "Politische Philosophie",
+    "Existenzphilosophie",
+    "Republikanismus"
+  ],
   "kurzbeschreibung": "Hannah Arendt war eine der bedeutendsten politischen Denkerinnen des 20. Jahrhunderts. Mit ihren Analysen des Totalitarismus, der menschlichen Tätigkeiten und der 'Banalität des Bösen' schuf sie ein Werk von bleibender Aktualität. Ihr Denken kreist um Freiheit, Pluralität und die Fähigkeit des Menschen, einen Neuanfang zu setzen.",
   "biografie": {
     "fruehesLeben": "Hannah Arendt wurde am 14. Oktober 1906 in Linden bei Hannover als Tochter einer jüdischen Familie geboren und wuchs in Königsberg auf. Schon als Gymnasiastin las sie Kant und griechische Philosophie. Sie studierte Philosophie in Marburg bei Martin Heidegger, mit dem sie eine leidenschaftliche Liebesbeziehung einging, dann in Freiburg bei Husserl und in Heidelberg bei Karl Jaspers, bei dem sie 1929 über 'Der Liebesbegriff bei Augustin' promovierte. Die Beziehung zu Heidegger – einem Meisterdenker, der sich dem Nationalsozialismus anschloss – wurde zum schmerzhaften Grundthema ihres Lebens.",
@@ -99,6 +103,67 @@
       "kontext": "Arendts nüchterne Anerkennung ihrer Identität angesichts der Verfolgung."
     }
   ],
-  "verwandtePhilosophen": ["martin-heidegger", "juergen-habermas", "walter-benjamin", "herbert-marcuse", "simone-de-beauvoir"],
-  "verwandteIsmen": ["republikanismus", "politische-philosophie", "existenzialismus", "pluralismus"]
+  "verwandtePhilosophen": [
+    "martin-heidegger",
+    "juergen-habermas",
+    "walter-benjamin",
+    "herbert-marcuse",
+    "simone-de-beauvoir"
+  ],
+  "verwandteIsmen": [
+    "republikanismus",
+    "politische-philosophie",
+    "existenzialismus",
+    "pluralismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Hannah Arendt war eine der bedeutendsten politischen Denkerinnen des 20. Jahrhunderts. Mit ihren Analysen des Totalitarismus, der menschlichen Taetigkeiten und der 'Banalitaet des Boesen' schuf sie ein Werk von bleibender Aktualitaet. Ihr Denken kreist um Freiheit, Pluralitaet und die Faehigkeit des Menschen, einen Neuanfang zu setzen.",
+    "biografie": {
+      "fruehesLeben": "Hannah Arendt wurde am 14. Oktober 1906 in Linden bei Hannover als Tochter einer juedischen Familie geboren und wuchs in Koenigsberg auf. Schon als Gymnasiastin las sie Kant und griechische Philosophie. Sie studierte Philosophie in Marburg bei Martin Heidegger, mit dem sie eine leidenschaftliche Liebesbeziehung einging, dann in Freiburg bei Husserl und in Heidelberg bei Karl Jaspers, bei dem sie 1929 ueber 'Der Liebesbegriff bei Augustin' promovierte. Die Beziehung zu Heidegger – einem Meisterdenker, der sich dem Nationalsozialismus anschloss – wurde zum schmerzhaften Grundthema ihres Lebens.",
+      "schaffen": "Nach ihrer Flucht aus Deutschland 1933 (sie war wegen Forschungen ueber antisemitische Propaganda kurz verhaftet worden) lebte Arendt zunaechst in Paris, wo sie fuer juedische Organisationen arbeitete, und ab 1941 in New York. Ihr Hauptwerk 'Elemente und Urspruenge totaler Herrschaft' (1951) analysierte die Strukturen des Nationalsozialismus und des Stalinismus und wurde zum Standardwerk der Totalitarismusforschung. 'Vita activa oder Vom taetigen Leben' (1958) unterschied drei menschliche Grundtaetigkeiten – Arbeiten, Herstellen und Handeln – und bestimmte das politische Handeln als die hoechste menschliche Faehigkeit, einen Neuanfang zu setzen.",
+      "spaetesLeben": "Arendt lehrte an der University of Chicago, der New School for Social Research in New York und war die erste Frau, die eine volle Professur an der Princeton University erhielt. Sie war eine brillante Essayistin und oeffentliche Intellektuelle, die sich in die Debatten ihrer Zeit einmischte – von der Buergerrechtsbewegung ueber den Vietnamkrieg bis zur Watergate-Affaere. Die Kontroverse um ihren Eichmann-Bericht, in dem sie auch die Rolle der juedischen Raete kritisierte, fuehrte zum Bruch mit vielen Freunden und zur oeffentlichen Anfeindung.",
+      "tod": "Hannah Arendt starb am 4. Dezember 1975 in New York City an einem Herzinfarkt. Sie wurde 69 Jahre alt. In ihrer Schreibmaschine fand man ein Blatt mit dem Titel 'Urteilen' – dem dritten, ungeschriebenen Teil von 'Vom Leben des Geistes'.",
+      "nachwirkung": "Arendts Werk erlebt seit den 1990er Jahren eine ausserordentliche Renaissance. Ihre Analysen des Totalitarismus, ihre Theorie des politischen Handelns und ihr Konzept der 'Banalitaet des Boesen' sind in Zeiten des Populismus und der politischen Krise aktueller denn je. Sie beeinflusste die politische Philosophie (Habermas, Rancière), die Menschenrechtstheorie, die Holocaust-Forschung und die feministische Theorie. Ihre Briefe und Tagebuecher wurden posthum veroeffentlicht und erweiterten das Verstaendnis ihres Denkens."
+    },
+    "kernideen": [
+      {
+        "titel": "Die Banalitaet des Boesen",
+        "beschreibung": "Das Boese ist nicht notwendig radikal oder daemonisch. Eichmann zeigte, dass monstroese Verbrechen von erschreckend normalen Menschen begangen werden koennen, die nicht denken – die unfaehig sind, die Perspektive anderer einzunehmen und die Konsequenzen ihres Handelns zu reflektieren."
+      },
+      {
+        "titel": "Handeln und Natalitaet",
+        "beschreibung": "Die menschliche Faehigkeit zu handeln – etwas Neues in die Welt zu setzen – ist an die Natalitaet, die Geburtlichkeit des Menschen, gebunden. Weil jeder Mensch ein Neuanfang ist, kann er auch in der Politik neue Anfaenge setzen. Handeln ist die hoechste menschliche Taetigkeit."
+      },
+      {
+        "titel": "Pluralitaet als Grundbedingung des Politischen",
+        "beschreibung": "Politik setzt die Pluralitaet der Menschen voraus – die Tatsache, dass nicht ein Mensch, sondern viele verschiedene Menschen die Erde bewohnen. Der oeffentliche Raum, in dem Verschiedene einander begegnen und miteinander sprechen, ist der Ort der Freiheit."
+      },
+      {
+        "titel": "Totalitarismus",
+        "beschreibung": "Totalitaere Herrschaft ist ein radikal neues Phaenomen, das alle bisherigen Kategorien politischer Theorie sprengt. Sie zielt auf die vollstaendige Beherrschung des Menschen und macht ihn 'ueberfluessig' – durch Terror, Ideologie und die Zerstoerung aller sozialen Bindungen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Elemente und Urspruenge totaler Herrschaft",
+        "jahr": "1951",
+        "beschreibung": "Das monumentale Werk analysiert die Strukturen des Totalitarismus in drei Teilen: Antisemitismus, Imperialismus und totale Herrschaft."
+      },
+      {
+        "titel": "Vita activa oder Vom taetigen Leben",
+        "jahr": "1958",
+        "beschreibung": "Arendts philosophisches Hauptwerk unterscheidet drei menschliche Grundtaetigkeiten – Arbeiten, Herstellen und Handeln – und bestimmt das politische Handeln als die hoechste Form menschlicher Freiheit."
+      },
+      {
+        "titel": "Eichmann in Jerusalem",
+        "jahr": "1963",
+        "beschreibung": "Der kontroverse Bericht ueber den Eichmann-Prozess praegte den Begriff der 'Banalitaet des Boesen' und loeste eine der heftigsten intellektuellen Debatten des 20. Jahrhunderts aus."
+      },
+      {
+        "titel": "Ueber die Revolution",
+        "jahr": "1963",
+        "beschreibung": "Eine vergleichende Analyse der amerikanischen und franzoesischen Revolution, die fuer die amerikanische Tradition der politischen Freiheit als Selbstregierung argumentiert."
+      }
+    ]
+  }
 }

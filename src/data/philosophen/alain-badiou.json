@@ -80,5 +80,26 @@
     }
   ],
   "verwandtePhilosophen": ["jacques-lacan", "louis-althusser", "platon", "giorgio-agamben"],
-  "verwandteIsmen": ["marxismus", "ontologie"]
+  "verwandteIsmen": ["marxismus", "ontologie"],
+  "einfach": {
+    "kurzbeschreibung": "Alain Badiou ist ein franzoesischer Philosoph, der Mathematik benutzt, um zu erklaeren, was Sein bedeutet. Er glaubt, dass echte Wahrheiten durch ueberraschende Ereignisse entstehen, die alles veraendern.",
+    "biografie": {
+      "fruehesLeben": "Badiou wurde 1937 in Marokko als Sohn eines Mathematiklehrers geboren. Er studierte in Paris an einer der besten Hochschulen Frankreichs und wurde dort stark von den Denkern Althusser und Lacan beeinflusst.",
+      "schaffen": "Badiou lehrte an verschiedenen Universitaeten in Paris. Sein Hauptwerk verbindet Mathematik mit Philosophie: Er sagt, dass die Mengenlehre uns zeigt, was das Sein wirklich ist. Wahrheiten entstehen durch Ereignisse, die die bestehende Ordnung durchbrechen.",
+      "spaetesLeben": "Badiou ist weiterhin als oeffentlicher Intellektueller aktiv. Er verteidigt die kommunistische Idee und schreibt auch Romane und Theaterstuecke. Seine Vorlesungen ziehen ein grosses internationales Publikum an.",
+      "tod": "Badiou lebt und arbeitet weiterhin in Paris. Er gilt als einer der bedeutendsten lebenden Philosophen Frankreichs.",
+      "nachwirkung": "Badious Werk hat eine neue Generation von Philosophen inspiriert, die Wahrheit und politisches Engagement gegen Relativismus verteidigen."
+    },
+    "kernideen": [
+      {"titel": "Mathematik als Ontologie", "beschreibung": "Badiou sagt, dass die Mengenlehre uns zeigt, was das Sein wirklich ist: reine Vielfalt ohne feste Einheit."},
+      {"titel": "Das Ereignis", "beschreibung": "Ein Ereignis ist ein ueberraschender Bruch, der alles veraendert und etwas komplett Neues hervorbringt, zum Beispiel in der Politik, Kunst oder Liebe."},
+      {"titel": "Die kommunistische Hypothese", "beschreibung": "Die Idee von Gleichheit und Befreiung ist laut Badiou zeitlos. Dass die Sowjetunion gescheitert ist, widerlegt nicht die Idee selbst, sondern nur eine bestimmte Umsetzung."},
+      {"titel": "Universalismus der Wahrheit", "beschreibung": "Wahrheiten gelten fuer alle Menschen, egal welche Kultur oder Identitaet. Wer das bestreitet, macht emanzipatorische Politik unmoeglich."}
+    ],
+    "werke": [
+      {"titel": "Das Sein und das Ereignis (L'Etre et l'Evenement)", "jahr": "1988", "beschreibung": "Badious Hauptwerk, das die Mengenlehre zur Grundlage der Philosophie macht und erklaert, wie Wahrheiten durch Ereignisse entstehen."},
+      {"titel": "Logiken der Welten (Logiques des mondes)", "jahr": "2006", "beschreibung": "Die Fortsetzung seines Hauptwerks, die untersucht, wie Wahrheiten in konkreten Situationen sichtbar werden."},
+      {"titel": "Die kommunistische Hypothese (L'Hypothese communiste)", "jahr": "2009", "beschreibung": "Eine Verteidigung der kommunistischen Idee als zeitlose Idee der menschlichen Befreiung."}
+    ]
+  }
 }

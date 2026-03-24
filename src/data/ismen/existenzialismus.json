@@ -11,15 +11,57 @@
     "Authentische Existenz erfordert die Übernahme der eigenen Freiheit statt der Flucht in die Selbsttäuschung (mauvaise foi).",
     "Der Mensch ist verurteilt, frei zu sein – er kann der Verantwortung für sein Leben nicht entgehen (Sartre)."
   ],
-  "hauptvertreter": ["friedrich-nietzsche", "jean-paul-sartre", "edmund-husserl"],
+  "hauptvertreter": [
+    "friedrich-nietzsche",
+    "jean-paul-sartre",
+    "edmund-husserl"
+  ],
   "entstehung": "Der Existenzialismus hat seine Wurzeln im 19. Jahrhundert bei Kierkegaard und Nietzsche. Er entwickelte sich als eigenständige philosophische Strömung im 20. Jahrhundert, insbesondere durch Heideggers Sein und Zeit (1927) und Sartres Das Sein und das Nichts (1943). In den 1940er und 1950er Jahren wurde der Existenzialismus zur dominierenden philosophischen Bewegung in Frankreich und beeinflusste die gesamte westliche Kultur. Sartres Vortrag Der Existentialismus ist ein Humanismus (1946) machte die Bewegung einem breiten Publikum zugänglich.",
   "kritik": "Der Existenzialismus wurde aus verschiedenen Richtungen kritisiert. Marxisten warfen ihm vor, die individuelle Freiheit zu verabsolutieren und die gesellschaftlichen Bedingungen menschlichen Handelns zu ignorieren. Strukturalisten und Poststrukturalisten kritisierten das existenzialistische Subjektkonzept als illusorisch – das Subjekt werde durch Sprache, Kultur und unbewusste Strukturen konstituiert, nicht durch freie Entscheidung. Analytische Philosophen bemängelten die begriffliche Unschärfe und den literarischen Stil des Existenzialismus. Heideggers politische Verstrickung im Nationalsozialismus warf einen Schatten auf die gesamte Bewegung. Feministinnen kritisierten trotz Beauvoirs Beiträgen den maskulinen Bias vieler existenzialistischer Texte.",
-  "verwandteIsmen": ["nihilismus", "phenomenologie", "hermeneutik", "humanismus"],
+  "verwandteIsmen": [
+    "nihilismus",
+    "phenomenologie",
+    "hermeneutik",
+    "humanismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927" },
-    { "titel": "Das Sein und das Nichts", "autor": "Jean-Paul Sartre", "jahr": "1943" },
-    { "titel": "Das andere Geschlecht", "autor": "Simone de Beauvoir", "jahr": "1949" },
-    { "titel": "Der Mythos des Sisyphos", "autor": "Albert Camus", "jahr": "1942" },
-    { "titel": "Entweder – Oder", "autor": "Søren Kierkegaard", "jahr": "1843" }
-  ]
+    {
+      "titel": "Sein und Zeit",
+      "autor": "Martin Heidegger",
+      "jahr": "1927"
+    },
+    {
+      "titel": "Das Sein und das Nichts",
+      "autor": "Jean-Paul Sartre",
+      "jahr": "1943"
+    },
+    {
+      "titel": "Das andere Geschlecht",
+      "autor": "Simone de Beauvoir",
+      "jahr": "1949"
+    },
+    {
+      "titel": "Der Mythos des Sisyphos",
+      "autor": "Albert Camus",
+      "jahr": "1942"
+    },
+    {
+      "titel": "Entweder – Oder",
+      "autor": "Søren Kierkegaard",
+      "jahr": "1843"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Existenzialismus ist eine philosophische Stroemung des 20.",
+    "ausfuehrlicheBeschreibung": "Der Existenzialismus ist eine der einflussreichsten und populaersten philosophischen Stroemungen des 20. Jahrhunderts. Er stellt die konkrete, gelebte menschliche Existenz in den Mittelpunkt und wendet sich gegen die Tendenz der traditionellen Philosophie, den Menschen als abstraktes Vernunftwesen oder als Exemplar einer allgemeinen Menschennatur zu betrachten.\n\nDie Wurzeln des Existenzialismus liegen im 19. Jahrhundert. Søren Kierkegaard (1813-1855) gilt als Vater des Existenzialismus. Er wandte sich gegen Hegels Systemphilosophie und betonte die Bedeutung der individuellen Existenz, der subjektiven Wahrheit und der existenziellen Entscheidung. Der Sprung des Glaubens, den Kierkegaard fordert, ist keine rationale Schlussfolgerung, sondern eine leidenschaftliche persoenliche Entscheidung angesichts der Ungewissheit. Friedrich Nietzsche trug mit seiner Verkuendung des Todes Gottes und seiner Forderung nach schoepferischer Selbstgestaltung wesentlich zum existenzialistischen Denken bei.\n\nMartin Heidegger (1889-1976) entwickelte in Sein und Zeit (1927) eine Existenzialanalyse des Daseins, die den Existenzialismus philosophisch grundlegte. Das Dasein (der Mensch) ist das Seiende, dem es in seinem Sein um dieses Sein selbst geht. Heidegger analysierte fundamentale Strukturen der menschlichen Existenz: das In-der-Welt-sein, die Sorge, die Angst, das Man (die Verfallenheit an die anonyme Oeffentlichkeit) und das Sein-zum-Tode. Die Angst enthuellt das Nichts und konfrontiert den Menschen mit seiner eigentlichen Existenz.",
+    "kernthesen": [
+      "Die Existenz geht der Essenz voraus – der Mensch hat kein vorgegebenes Wesen, sondern erschafft sich selbst.",
+      "Der Mensch ist radikal frei und zugleich radikal verantwortlich fuer seine Entscheidungen.",
+      "Die Angst enthuellt die Grundsituation des Menschen: seine Freiheit und seine Endlichkeit.",
+      "Authentische Existenz erfordert die Uebernahme der eigenen Freiheit statt der Flucht in die Selbsttaeuschung (mauvaise foi).",
+      "Der Mensch ist verurteilt, frei zu sein – er kann der Verantwortung fuer sein Leben nicht entgehen (Sartre)."
+    ],
+    "entstehung": "Der Existenzialismus hat seine Wurzeln im 19. Jahrhundert bei Kierkegaard und Nietzsche. Er entwickelte sich als eigenstaendige philosophische Stroemung im 20. Jahrhundert, insbesondere durch Heideggers Sein und Zeit (1927) und Sartres Das Sein und das Nichts (1943). In den 1940er und 1950er Jahren wurde der Existenzialismus zur dominierenden philosophischen Bewegung in Frankreich und beeinflusste die gesamte westliche Kultur. Sartres Vortrag Der Existentialismus ist ein Humanismus (1946) machte die Bewegung einem breiten Publikum zugaenglich.",
+    "kritik": "Der Existenzialismus wurde aus verschiedenen Richtungen kritisiert. Marxisten warfen ihm vor, die individuelle Freiheit zu verabsolutieren und die gesellschaftlichen Bedingungen menschlichen Handelns zu ignorieren. Strukturalisten und Poststrukturalisten kritisierten das existenzialistische Subjektkonzept als illusorisch – das Subjekt werde durch Sprache, Kultur und unbewusste Strukturen konstituiert, nicht durch freie Entscheidung."
+  }
 }

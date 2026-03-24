@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Naturalismus", "Skeptizismus"],
+  "hauptstroemungen": [
+    "Naturalismus",
+    "Skeptizismus"
+  ],
   "kurzbeschreibung": "George Santayana war ein spanisch-amerikanischer Philosoph, Dichter und Romancier, der eine einflussreiche naturalistische Philosophie entwickelte. Sein Denken verbindet kritischen Realismus mit ästhetischem Empfinden und einer skeptischen Grundhaltung. Sein berühmtester Satz – 'Wer sich der Geschichte nicht erinnert, ist dazu verurteilt, sie zu wiederholen' – gehört zum kulturellen Allgemeingut.",
   "biografie": {
     "fruehesLeben": "George Santayana wurde 1863 als Jorge Agustín Nicolás Ruiz de Santayana y Borrás in Madrid geboren. Mit acht Jahren zog er mit seinem Vater nach Boston, wo seine Mutter bereits lebte. Er studierte an der Harvard University unter William James und Josiah Royce und wurde dort Professor für Philosophie.",
@@ -81,6 +84,63 @@
       "quelle": "Soliloquien in England"
     }
   ],
-  "verwandtePhilosophen": ["william-james", "bertrand-russell", "john-dewey"],
-  "verwandteIsmen": ["naturalismus", "skeptizismus"]
+  "verwandtePhilosophen": [
+    "william-james",
+    "bertrand-russell",
+    "john-dewey"
+  ],
+  "verwandteIsmen": [
+    "naturalismus",
+    "skeptizismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "George Santayana war ein spanisch-amerikanischer Philosoph, Dichter und Romancier, der eine einflussreiche naturalistische Philosophie entwickelte. Sein Denken verbindet kritischen Realismus mit aesthetischem Empfinden und einer skeptischen Grundhaltung. Sein beruehmtester Satz – 'Wer sich der Geschichte nicht erinnert, ist dazu verurteilt, sie zu wiederholen' – gehoert zum kulturellen Allgemeingut.",
+    "biografie": {
+      "fruehesLeben": "George Santayana wurde 1863 als Jorge Agustín Nicolás Ruiz de Santayana y Borrás in Madrid geboren. Mit acht Jahren zog er mit seinem Vater nach Boston, wo seine Mutter bereits lebte. Er studierte an der Harvard University unter William James und Josiah Royce und wurde dort Professor fuer Philosophie.",
+      "schaffen": "An Harvard lehrte Santayana von 1889 bis 1912 und zog Studenten wie T.S. Eliot, Robert Frost und Walter Lippmann an. Sein fuenfbaendiges 'The Life of Reason' (1905–06) gilt als Meisterwerk des Naturalismus. Nach seinem Ruecktritt von Harvard verliess er die USA fuer immer und lebte als freier Schriftsteller in Europa.",
+      "spaetesLeben": "In Europa entwickelte Santayana sein ontologisches System in den vier Baenden der 'Realms of Being'. Er lebte zurueckgezogen in Rom und widmete sich dem Schreiben. Waehrend des Zweiten Weltkriegs fand er Zuflucht in einem roemischen Kloster der Blauen Nonnen.",
+      "tod": "George Santayana starb am 26. September 1952 in Rom im Alter von 88 Jahren. Er hatte die letzten Jahre seines Lebens im Kloster der Blauen Nonnen verbracht, ohne selbst zum Katholizismus konvertiert zu sein. Sein Grab befindet sich auf dem Cimitero Monumentale del Verano in Rom.",
+      "nachwirkung": "Santayanas Einfluss zeigt sich vor allem in der Aesthetik, der Religionsphilosophie und dem philosophischen Naturalismus. Sein eleganter Stil machte ihn zu einem der meistgelesenen Philosophen seiner Zeit. Sein beruehmtes Diktum ueber die Notwendigkeit historischer Erinnerung wird bis heute weltweit zitiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Kritischer Naturalismus",
+        "beschreibung": "Die Natur ist die einzige Wirklichkeit, und alles Geistige ist ein natuerliches Phaenomen. Doch der Naturalismus muss kritisch sein – er darf die Wirklichkeit nicht auf Materie reduzieren, sondern muss die Vielfalt der Erfahrung anerkennen, einschliesslich der aesthetischen und spirituellen Dimensionen."
+      },
+      {
+        "titel": "Tierischer Glaube (Animal Faith)",
+        "beschreibung": "Unser Glaube an die Aussenwelt ist kein Ergebnis rationaler Beweise, sondern ein instinktives, 'tierisches' Vertrauen, das dem Handeln vorausgeht. Der philosophische Skeptizismus zeigt, dass wir die Existenz der Aussenwelt nicht beweisen koennen, doch das Leben selbst zwingt uns, an sie zu glauben."
+      },
+      {
+        "titel": "Das Leben der Vernunft",
+        "beschreibung": "Die Vernunft ist nicht ein abstraktes Vermoegen, sondern die harmonische Ordnung des natuerlichen Lebens. Das vernuenftige Leben verbindet Instinkt und Ideal, Natur und Kultur in einer aesthetisch befriedigenden Einheit."
+      },
+      {
+        "titel": "Reiche des Seins",
+        "beschreibung": "Santayana unterscheidet vier 'Reiche des Seins': Essenz (die ewigen Formen), Materie (die physische Wirklichkeit), Wahrheit (die Gesamtheit der Fakten) und Geist (das Bewusstsein). Diese Ontologie verbindet platonische und naturalistische Elemente."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das Leben der Vernunft (The Life of Reason)",
+        "jahr": "1905",
+        "beschreibung": "Ein fuenfbaendiges Werk, das die Rolle der Vernunft in der menschlichen Zivilisation – Gesellschaft, Religion, Kunst, Wissenschaft – analysiert und als Meisterwerk des Naturalismus gilt."
+      },
+      {
+        "titel": "Skeptizismus und tierischer Glaube (Scepticism and Animal Faith)",
+        "jahr": "1923",
+        "beschreibung": "Santayanas erkenntnistheoretisches Hauptwerk, das zeigt, wie aus radikalem Skeptizismus ein natuerlicher Realismus hervorgeht."
+      },
+      {
+        "titel": "Die Reiche des Seins (Realms of Being)",
+        "jahr": "1927–1940",
+        "beschreibung": "Santayanas ontologisches Hauptwerk in vier Baenden, das seine Lehre von den vier Seinsreichen systematisch entfaltet."
+      },
+      {
+        "titel": "Der Sinn der Schoenheit (The Sense of Beauty)",
+        "jahr": "1896",
+        "beschreibung": "Eine der ersten systematischen Aesthetiken in englischer Sprache, die Schoenheit als objektiviertes Lustgefuehl definiert."
+      }
+    ]
+  }
 }

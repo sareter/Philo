@@ -19,5 +19,18 @@
     {"titel": "Die Ordnung der Dinge", "autor": "Michel Foucault", "jahr": "1966"},
     {"titel": "Überwachen und Strafen", "autor": "Michel Foucault", "jahr": "1975"},
     {"titel": "Die gesellschaftliche Konstruktion der Wirklichkeit", "autor": "Peter L. Berger und Thomas Luckmann", "jahr": "1966"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der soziale Konstruktivismus sagt: Vieles, was wir fuer natuerlich und selbstverstaendlich halten, ist in Wirklichkeit von Menschen gemacht und koennte auch ganz anders sein.",
+    "ausfuehrlicheBeschreibung": "Was ist normal? Was ist verrueckt? Was ist maennlich, was weiblich? Die meisten Menschen wuerden sagen: Das ist doch klar, das ist einfach so. Der soziale Konstruktivismus widerspricht: All das sind keine Naturgesetze, sondern Dinge, die Menschen in einer bestimmten Gesellschaft zu einer bestimmten Zeit so festgelegt haben. In einer anderen Kultur oder Epoche waere vieles davon ganz anders.\n\nMichel Foucault hat gezeigt, wie Wissen und Macht zusammenhaengen. Wer bestimmt, was als normal gilt? Wer entscheidet, was krank ist und was gesund? Das sind keine neutralen wissenschaftlichen Fragen, sondern Fragen der Macht. Bestimmte Gruppen setzen ihre Sichtweise als die richtige durch, und andere muessen sich danach richten.\n\nDas Spannende daran ist: Wenn wir erkennen, dass viele Dinge nicht naturgegeben sind, sondern von Menschen gemacht, dann koennen wir sie auch veraendern. Soziale Konstruktionen aufzudecken heisst zu zeigen, dass die Welt nicht so sein muss, wie sie ist. Das ist gleichzeitig befreiend und beunruhigend.",
+    "kernthesen": [
+      "Vieles, was wir fuer natuerlich halten, ist von der Gesellschaft gemacht",
+      "Was als Tatsache gilt, wird gesellschaftlich ausgehandelt",
+      "Wissen und Macht haengen eng zusammen - wer die Macht hat, bestimmt, was als wahr gilt",
+      "Die Art, wie wir ueber Dinge reden, formt, was diese Dinge fuer uns sind",
+      "Wenn wir soziale Konstruktionen durchschauen, koennen wir sie veraendern"
+    ],
+    "entstehung": "Der soziale Konstruktivismus entwickelte sich in den 1960er und 1970er Jahren. Berger und Luckmann schrieben 1966 ihr einflussreiches Buch ueber die gesellschaftliche Konstruktion der Wirklichkeit. Michel Foucault zeigte, wie Diskurse und Machtverhaeltnisse unsere Vorstellungen von Normalitaet formen.",
+    "kritik": "Kritiker fragen: Wenn alles nur konstruiert ist, gibt es dann gar keine objektive Wahrheit mehr? Das fuehrt leicht in einen Relativismus, in dem am Ende alles egal ist. Ausserdem untergaebt sich die Theorie selbst: Wenn alles konstruiert ist, ist die Behauptung, dass alles konstruiert ist, ja auch nur eine Konstruktion."
+  }
 }

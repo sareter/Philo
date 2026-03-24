@@ -20,5 +20,18 @@
     { "titel": "Sovereign Virtue", "autor": "Ronald Dworkin", "jahr": "2000" },
     { "titel": "Inequality Reexamined", "autor": "Amartya Sen", "jahr": "1992" },
     { "titel": "What is the Point of Equality?", "autor": "Elizabeth Anderson", "jahr": "1999" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Egalitarismus sagt: Alle Menschen sind gleich viel wert und verdienen faire Chancen. Ungerechte Ungleichheiten muessen beseitigt werden.",
+    "ausfuehrlicheBeschreibung": "Die Grundidee ist einfach: Kein Mensch ist von Natur aus mehr wert als ein anderer. Wenn jemand arm ist, weil er in einem armen Land geboren wurde, oder benachteiligt, weil er eine Behinderung hat, dann ist das nicht fair und die Gesellschaft sollte das ausgleichen. Der Egalitarismus fordert, dass alle Menschen gleiche Rechte und faire Chancen bekommen.\n\nDer wichtigste Denker ist John Rawls. Er stellte sich vor: Wenn du nicht wuesstest, als wer du geboren wirst, ob reich oder arm, gesund oder krank, welche Gesellschaft wuerdest du dir wuenschen? Seine Antwort: Eine, in der Ungleichheiten nur dann okay sind, wenn sie den Aermsten nuetzen. Zum Beispiel darf ein Arzt mehr verdienen, wenn das dazu fuehrt, dass es genug Aerzte gibt und alle versorgt werden.\n\nEs gibt verschiedene Spielarten: Manche wollen gleiche Ressourcen, andere gleiche Chancen, wieder andere sagen, es geht vor allem darum, dass niemand von anderen dominiert oder unterdrueckt wird. Global gesehen fordern Egalitaristen, dass die reichen Laender nicht auf Kosten der armen leben duerfen.",
+    "kernthesen": [
+      "Alle Menschen haben den gleichen moralischen Wert und verdienen gleiche Beruecksichtigung.",
+      "Ungerechte Unterschiede bei Geld, Bildung und Chancen muessen ausgeglichen werden.",
+      "Ungleichheiten sind nur okay, wenn sie den Benachteiligten etwas bringen.",
+      "Pech, fuer das man nichts kann, wie Krankheit oder Geburtsort, sollte kompensiert werden.",
+      "Echte Gleichheit bedeutet, dass niemand ueber andere herrscht oder sie unterdrueckt."
+    ],
+    "entstehung": "Die Idee der Gleichheit aller Menschen hat Wurzeln in der Religion und der Aufklaerung. Richtig Fahrt aufgenommen hat der philosophische Egalitarismus mit John Rawls' Buch A Theory of Justice von 1971, das die Debatte ueber Gerechtigkeit und Gleichheit komplett veraendert hat.",
+    "kritik": "Kritiker sagen, erzwungene Gleichheit schraenke die Freiheit ein und bestrafe Leistung. Ausserdem sei es unsinnig, alle gleichzumachen, wenn das niemandem nuetzt. Manche halten Ungleichheit sogar fuer notwendig, damit die Wirtschaft funktioniert und Menschen motiviert bleiben."
+  }
 }

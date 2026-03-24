@@ -2,11 +2,27 @@
   "slug": "david-hume",
   "name": "David Hume",
   "lebensdaten": "1711–1776",
-  "geboren": { "jahr": 1711, "ort": "Edinburgh", "land": "Schottland", "lat": 55.9533, "lng": -3.1883 },
-  "gestorben": { "jahr": 1776, "ort": "Edinburgh", "land": "Schottland", "lat": 55.9533, "lng": -3.1883 },
+  "geboren": {
+    "jahr": 1711,
+    "ort": "Edinburgh",
+    "land": "Schottland",
+    "lat": 55.9533,
+    "lng": -3.1883
+  },
+  "gestorben": {
+    "jahr": 1776,
+    "ort": "Edinburgh",
+    "land": "Schottland",
+    "lat": 55.9533,
+    "lng": -3.1883
+  },
   "epoche": "Aufklärung",
   "region": "Schottland",
-  "hauptstroemungen": ["Empirismus", "Skeptizismus", "Naturalismus"],
+  "hauptstroemungen": [
+    "Empirismus",
+    "Skeptizismus",
+    "Naturalismus"
+  ],
   "kurzbeschreibung": "David Hume war ein schottischer Philosoph, Historiker und Essayist, der den britischen Empirismus zu seinem radikalen Höhepunkt führte. Seine skeptische Analyse von Kausalität, Induktion und personaler Identität erschütterte die Grundlagen der Metaphysik und weckte – nach Kants eigenem Zeugnis – diesen aus seinem 'dogmatischen Schlummer'. Hume gilt als einer der bedeutendsten Philosophen der westlichen Tradition.",
   "biografie": {
     "fruehesLeben": "David Hume wurde am 7. Mai 1711 (nach dem alten Kalender am 26. April) in Edinburgh als Sohn eines wohlhabenden Landadligen geboren. Sein Vater starb, als er zwei Jahre alt war, und er wurde von seiner Mutter aufgezogen. Er besuchte die Universität Edinburgh, ohne einen Abschluss zu machen, und widmete sich autodidaktisch dem Studium der Philosophie und Literatur. Im Alter von achtzehn Jahren erlebte er eine intellektuelle Krise, die er als 'eine neue Szene des Denkens' beschrieb, die sein gesamtes philosophisches Programm vorwegnahm. Nach einem gescheiterten Versuch, als Kaufmann zu arbeiten, ging er 1734 nach Frankreich und ließ sich in La Flèche nieder – demselben Jesuitenkolleg, an dem Descartes studiert hatte –, wo er in drei Jahren sein philosophisches Hauptwerk verfasste.",
@@ -34,18 +50,115 @@
     }
   ],
   "werke": [
-    { "titel": "A Treatise of Human Nature", "jahr": "1739–1740", "beschreibung": "Humes philosophisches Hauptwerk, das in drei Büchern den Verstand, die Leidenschaften und die Moral behandelt und eine radikale empiristische Philosophie entwickelt." },
-    { "titel": "An Enquiry Concerning Human Understanding", "jahr": "1748", "beschreibung": "Eine überarbeitete und zugänglichere Fassung des ersten Buchs des Treatise, die die Kausalitätskritik, das Induktionsproblem und die berühmte Analyse der Wunder enthält." },
-    { "titel": "An Enquiry Concerning the Principles of Morals", "jahr": "1751", "beschreibung": "Humes Moralphilosophie, die er selbst als sein bestes Werk betrachtete: Eine Analyse der moralischen Urteile, die auf Gefühlen der Sympathie und des Nutzens beruhen." },
-    { "titel": "Dialogues Concerning Natural Religion", "jahr": "1779 (posthum)", "beschreibung": "Drei Gesprächspartner debattieren die Existenz Gottes und die Natur der Religion – Humes brillanteste Auseinandersetzung mit der natürlichen Theologie." },
-    { "titel": "The History of England", "jahr": "1754–1762", "beschreibung": "Ein sechsbändiges Geschichtswerk, das Hume zu einem der meistgelesenen Historiker seiner Zeit machte und seine empirische Methode auf die Geschichtsschreibung anwendet." },
-    { "titel": "The Natural History of Religion", "jahr": "1757", "beschreibung": "Eine Untersuchung des Ursprungs der Religion, die diese auf menschliche Ängste und Hoffnungen statt auf rationale Überlegungen zurückführt." }
+    {
+      "titel": "A Treatise of Human Nature",
+      "jahr": "1739–1740",
+      "beschreibung": "Humes philosophisches Hauptwerk, das in drei Büchern den Verstand, die Leidenschaften und die Moral behandelt und eine radikale empiristische Philosophie entwickelt."
+    },
+    {
+      "titel": "An Enquiry Concerning Human Understanding",
+      "jahr": "1748",
+      "beschreibung": "Eine überarbeitete und zugänglichere Fassung des ersten Buchs des Treatise, die die Kausalitätskritik, das Induktionsproblem und die berühmte Analyse der Wunder enthält."
+    },
+    {
+      "titel": "An Enquiry Concerning the Principles of Morals",
+      "jahr": "1751",
+      "beschreibung": "Humes Moralphilosophie, die er selbst als sein bestes Werk betrachtete: Eine Analyse der moralischen Urteile, die auf Gefühlen der Sympathie und des Nutzens beruhen."
+    },
+    {
+      "titel": "Dialogues Concerning Natural Religion",
+      "jahr": "1779 (posthum)",
+      "beschreibung": "Drei Gesprächspartner debattieren die Existenz Gottes und die Natur der Religion – Humes brillanteste Auseinandersetzung mit der natürlichen Theologie."
+    },
+    {
+      "titel": "The History of England",
+      "jahr": "1754–1762",
+      "beschreibung": "Ein sechsbändiges Geschichtswerk, das Hume zu einem der meistgelesenen Historiker seiner Zeit machte und seine empirische Methode auf die Geschichtsschreibung anwendet."
+    },
+    {
+      "titel": "The Natural History of Religion",
+      "jahr": "1757",
+      "beschreibung": "Eine Untersuchung des Ursprungs der Religion, die diese auf menschliche Ängste und Hoffnungen statt auf rationale Überlegungen zurückführt."
+    }
   ],
   "zitate": [
-    { "text": "Die Vernunft ist und soll nur die Sklavin der Leidenschaften sein.", "quelle": "A Treatise of Human Nature, Buch II, Teil III", "kontext": "Humes provokante These, dass die Vernunft allein nicht zum Handeln motivieren kann – sie dient den Leidenschaften als Instrument." },
-    { "text": "Gewohnheit ist die große Führerin des menschlichen Lebens.", "quelle": "An Enquiry Concerning Human Understanding, Abschnitt V", "kontext": "Hume betont die fundamentale Rolle der Gewohnheit für unser Denken und Handeln – sie überbrückt die Lücke, die die Vernunft nicht schließen kann." },
-    { "text": "Wenn wir in unsere Hand irgendeinen Band nehmen, etwa über Gotteslehre oder Schulmetaphysik, so lasst uns fragen: Enthält er irgendeinen abstrakten Gedankengang über Größe und Zahl? Nein. Enthält er irgendeinen auf Erfahrung gestützten Gedankengang über Tatsachen und Dasein? Nein. So übergebt ihn den Flammen, denn er kann nichts als Blendwerk und Täuschung enthalten.", "quelle": "An Enquiry Concerning Human Understanding, Abschnitt XII", "kontext": "Humes berühmter Schlusssatz, der die Metaphysik verwirft und nur Mathematik und Erfahrungswissenschaft als legitime Erkenntnisquellen anerkennt." }
+    {
+      "text": "Die Vernunft ist und soll nur die Sklavin der Leidenschaften sein.",
+      "quelle": "A Treatise of Human Nature, Buch II, Teil III",
+      "kontext": "Humes provokante These, dass die Vernunft allein nicht zum Handeln motivieren kann – sie dient den Leidenschaften als Instrument."
+    },
+    {
+      "text": "Gewohnheit ist die große Führerin des menschlichen Lebens.",
+      "quelle": "An Enquiry Concerning Human Understanding, Abschnitt V",
+      "kontext": "Hume betont die fundamentale Rolle der Gewohnheit für unser Denken und Handeln – sie überbrückt die Lücke, die die Vernunft nicht schließen kann."
+    },
+    {
+      "text": "Wenn wir in unsere Hand irgendeinen Band nehmen, etwa über Gotteslehre oder Schulmetaphysik, so lasst uns fragen: Enthält er irgendeinen abstrakten Gedankengang über Größe und Zahl? Nein. Enthält er irgendeinen auf Erfahrung gestützten Gedankengang über Tatsachen und Dasein? Nein. So übergebt ihn den Flammen, denn er kann nichts als Blendwerk und Täuschung enthalten.",
+      "quelle": "An Enquiry Concerning Human Understanding, Abschnitt XII",
+      "kontext": "Humes berühmter Schlusssatz, der die Metaphysik verwirft und nur Mathematik und Erfahrungswissenschaft als legitime Erkenntnisquellen anerkennt."
+    }
   ],
-  "verwandtePhilosophen": ["john-locke", "george-berkeley", "immanuel-kant", "adam-smith", "jean-jacques-rousseau"],
-  "verwandteIsmen": ["empirismus", "skeptizismus", "naturalismus", "emotivismus"]
+  "verwandtePhilosophen": [
+    "john-locke",
+    "george-berkeley",
+    "immanuel-kant",
+    "adam-smith",
+    "jean-jacques-rousseau"
+  ],
+  "verwandteIsmen": [
+    "empirismus",
+    "skeptizismus",
+    "naturalismus",
+    "emotivismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "David Hume war ein schottischer Philosoph, Historiker und Essayist, der den britischen Empirismus zu seinem radikalen Hoehepunkt fuehrte. Seine skeptische Analyse von Kausalitaet, Induktion und personaler Identitaet erschuetterte die Grundlagen der Metaphysik und weckte – nach Kants eigenem Zeugnis – diesen aus seinem 'dogmatischen Schlummer'. Hume gilt als einer der bedeutendsten Philosophen der westlichen Tradition.",
+    "biografie": {
+      "fruehesLeben": "David Hume wurde am 7. Mai 1711 (nach dem alten Kalender am 26. April) in Edinburgh als Sohn eines wohlhabenden Landadligen geboren. Sein Vater starb, als er zwei Jahre alt war, und er wurde von seiner Mutter aufgezogen. Er besuchte die Universitaet Edinburgh, ohne einen Abschluss zu machen, und widmete sich autodidaktisch dem Studium der Philosophie und Literatur. Im Alter von achtzehn Jahren erlebte er eine intellektuelle Krise, die er als 'eine neue Szene des Denkens' beschrieb, die sein gesamtes philosophisches Programm vorwegnahm. Nach einem gescheiterten Versuch, als Kaufmann zu arbeiten, ging er 1734 nach Frankreich und liess sich in La Flèche nieder – demselben Jesuitenkolleg, an dem Descartes studiert hatte –, wo er in drei Jahren sein philosophisches Hauptwerk verfasste.",
+      "schaffen": "Humes 'Treatise of Human Nature' (1739–1740), als er erst 28 Jahre alt war vollendet, ist eines der wichtigsten Werke der Philosophiegeschichte, fiel aber, wie Hume selbst bemerkte, 'totgeboren aus der Druckerpresse'. Enttaeuscht ueberarbeitete er seine Ideen in den zugaenglicheren 'Enquiries' – der 'Enquiry Concerning Human Understanding' (1748) und der 'Enquiry Concerning the Principles of Morals' (1751). Seine zentrale erkenntnistheoretische These lautet: Alle Ideen stammen aus Eindruecken (Sinneswahrnehmungen und Emotionen).",
+      "spaetesLeben": "Nach dem Misserfolg des 'Treatise' wandte sich Hume zunaechst der Essayistik und der Geschichtsschreibung zu. Seine 'History of England' (1754–1762) machte ihn zu einem der meistgelesenen Autoren seiner Zeit und sicherte ihm finanzielle Unabhaengigkeit. Er diente als Bibliothekar der Advocates' Library in Edinburgh, als Sekretaer der britischen Botschaft in Paris (1763–1766), wo er von den franzoesischen Aufklaerern als Star gefeiert wurde, und als Unterstaatssekretaer fuer die noerdlichen Departements in London. In Paris pflegte er enge Beziehungen zu Diderot, d'Alembert und anderen Enzyklopaedisten. Er lud Rousseau nach England ein – eine Freundschaft, die in einem beruechtigten Streit endete, da der paranoide Rousseau Hume der Verschwoerung bezichtigte.",
+      "tod": "David Hume starb am 25. August 1776 in Edinburgh an Darmkrebs (vermutlich Leberkrebs). Er begegnete dem Tod mit der Gelassenheit, die seine Philosophie lehrte, und lehnte jeden religioesen Beistand ab. James Boswell besuchte ihn kurz vor seinem Tod und war erstaunt, einen Sterbenden vorzufinden, der heiter und gefasst war, ohne an ein Jenseits zu glauben. Adam Smith, sein engster Freund, schrieb in einem beruehmten Nachruf, Hume sei einem 'vollkommen weisen und tugendhaften Mann so nahe gekommen, wie es die Schwaeche der menschlichen Natur erlaubt'.",
+      "nachwirkung": "Humes Einfluss auf die Philosophie ist gewaltig. Kant bezeichnete ihn als den Denker, der ihn aus seinem 'dogmatischen Schlummer' geweckt habe und ihn zur Kritischen Philosophie inspirierte. In der analytischen Philosophie des 20. Jahrhunderts wurde Hume als Vorlaeufer des logischen Empirismus und der sprachanalytischen Philosophie gefeiert. Das 'Hume-Problem' (Induktionsproblem) und 'Humes Guillotine' (die Unmoeglichkeit, vom Sein auf das Sollen zu schliessen) sind bis heute zentrale Themen der Philosophie. Karl Popper entwickelte seinen Falsifikationismus als Antwort auf Humes Induktionsproblem."
+    },
+    "kernideen": [
+      {
+        "titel": "Kausalitaetskritik",
+        "beschreibung": "Unsere Vorstellung von Kausalitaet beruht nicht auf rationaler Einsicht in notwendige Zusammenhaenge, sondern auf Gewohnheit. Wir beobachten regelmaessige Abfolgen von Ereignissen und interpretieren sie als kausale Verknuepfungen – ohne jemals die 'notwendige Verknuepfung' selbst wahrzunehmen."
+      },
+      {
+        "titel": "Induktionsproblem",
+        "beschreibung": "Es gibt keine rationale Rechtfertigung fuer den Schluss von vergangenen Erfahrungen auf die Zukunft. Dass die Sonne morgen aufgehen wird, ist eine Erwartung, die auf Gewohnheit beruht, keine logisch begruendbare Gewissheit."
+      },
+      {
+        "titel": "Humes Guillotine (Sein-Sollen-Fehlschluss)",
+        "beschreibung": "Aus Aussagen darueber, was ist, lassen sich keine Aussagen darueber ableiten, was sein soll. Moralische Urteile koennen nicht allein aus Tatsachenbeschreibungen abgeleitet werden – zwischen Sein und Sollen klafft eine logische Luecke."
+      },
+      {
+        "titel": "Emotivismus in der Moralphilosophie",
+        "beschreibung": "Moralische Urteile beruhen nicht auf Vernunft, sondern auf moralischen Gefuehlen – insbesondere auf Sympathie. Die Vernunft kann uns ueber die Konsequenzen unserer Handlungen informieren, aber sie kann uns nicht zum Handeln motivieren."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "A Treatise of Human Nature",
+        "jahr": "1739–1740",
+        "beschreibung": "Humes philosophisches Hauptwerk, das in drei Buechern den Verstand, die Leidenschaften und die Moral behandelt und eine radikale empiristische Philosophie entwickelt."
+      },
+      {
+        "titel": "An Enquiry Concerning Human Understanding",
+        "jahr": "1748",
+        "beschreibung": "Eine ueberarbeitete und zugaenglichere Fassung des ersten Buchs des Treatise, die die Kausalitaetskritik, das Induktionsproblem und die beruehmte Analyse der Wunder enthaelt."
+      },
+      {
+        "titel": "An Enquiry Concerning the Principles of Morals",
+        "jahr": "1751",
+        "beschreibung": "Humes Moralphilosophie, die er selbst als sein bestes Werk betrachtete: Eine Analyse der moralischen Urteile, die auf Gefuehlen der Sympathie und des Nutzens beruhen."
+      },
+      {
+        "titel": "Dialogues Concerning Natural Religion",
+        "jahr": "1779 (posthum)",
+        "beschreibung": "Drei Gespraechspartner debattieren die Existenz Gottes und die Natur der Religion – Humes brillanteste Auseinandersetzung mit der natuerlichen Theologie."
+      }
+    ]
+  }
 }

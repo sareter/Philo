@@ -18,7 +18,9 @@
   },
   "epoche": "Mittelalter",
   "region": "Asien",
-  "hauptstroemungen": ["Zen-Buddhismus"],
+  "hauptstroemungen": [
+    "Zen-Buddhismus"
+  ],
   "kurzbeschreibung": "Dōgen Zenji war ein japanischer Zen-Meister und Begründer der Sōtō-Schule des Zen-Buddhismus in Japan. Sein Hauptwerk 'Shōbōgenzō' gilt als eines der tiefgründigsten philosophischen Werke der japanischen Geistesgeschichte. Er lehrte die Praxis des Zazen (Sitzmeditation) als unmittelbaren Ausdruck der Erleuchtung, nicht als Mittel zu deren Erlangung.",
   "biografie": {
     "fruehesLeben": "Dōgen wurde 1200 in eine aristokratische Familie in Kyoto geboren und verlor früh beide Eltern. Der Tod seiner Mutter, als er acht Jahre alt war, weckte in ihm die tiefe Frage nach der Vergänglichkeit des Lebens. Mit dreizehn Jahren trat er in ein Kloster am Berg Hiei ein und begann sein monastisches Leben.",
@@ -81,6 +83,61 @@
       "quelle": "Fukanzazengi"
     }
   ],
-  "verwandtePhilosophen": ["konfuzius", "laozi"],
-  "verwandteIsmen": ["zen-buddhismus"]
+  "verwandtePhilosophen": [
+    "konfuzius",
+    "laozi"
+  ],
+  "verwandteIsmen": [
+    "zen-buddhismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Dōgen Zenji war ein japanischer Zen-Meister und Begruender der Sōtō-Schule des Zen-Buddhismus in Japan. Sein Hauptwerk 'Shōbōgenzō' gilt als eines der tiefgruendigsten philosophischen Werke der japanischen Geistesgeschichte. Er lehrte die Praxis des Zazen (Sitzmeditation) als unmittelbaren Ausdruck der Erleuchtung, nicht als Mittel zu deren Erlangung.",
+    "biografie": {
+      "fruehesLeben": "Dōgen wurde 1200 in eine aristokratische Familie in Kyoto geboren und verlor frueh beide Eltern. Der Tod seiner Mutter, als er acht Jahre alt war, weckte in ihm die tiefe Frage nach der Vergaenglichkeit des Lebens. Mit dreizehn Jahren trat er in ein Kloster am Berg Hiei ein und begann sein monastisches Leben.",
+      "schaffen": "Nach einer praegenden Reise nach China, wo er unter Meister Rujing die Sōtō-Tradition des Chan-Buddhismus studierte, kehrte Dōgen nach Japan zurueck und begann sein monumentales Werk 'Shōbōgenzō' zu verfassen. Er gruendete den Eiheiji-Tempel in der Provinz Echizen, der bis heute eines der beiden Hauptkloester der Sōtō-Schule ist. Seine Lehre betonte die Praxis des Shikantaza – des reinen Sitzens ohne Ziel.",
+      "spaetesLeben": "In seinen letzten Jahren widmete sich Dōgen intensiv der Ausbildung seiner Moenche und der Fertigstellung des Shōbōgenzō. Trotz zunehmender Krankheit setzte er seine Lehrtaetigkeit fort. Er lehnte Einladungen des Kaisers ab und blieb seinem einfachen monastischen Leben treu.",
+      "tod": "Dōgen starb 1253 in Kyoto im Alter von 53 Jahren an einer Krankheit. Er hatte die Hauptstadt aufgesucht, um sich aerztlich behandeln zu lassen. Sein Tod hinterliess eine lebendige Tradition, die bis heute Millionen von Praktizierenden weltweit inspiriert.",
+      "nachwirkung": "Die Sōtō-Schule des Zen, die Dōgen in Japan begruendete, ist heute mit etwa acht Millionen Anhaengern die groesste Zen-Tradition Japans. Sein philosophisches Denken ueber Zeit, Sein und Praxis hat westliche Philosophen wie Heidegger beeinflusst und wird in der modernen Philosophie intensiv rezipiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Shikantaza – Reines Sitzen",
+        "beschreibung": "Zazen ist nicht ein Mittel zur Erleuchtung, sondern selbst Ausdruck der Buddha-Natur. Im reinen Sitzen ohne Ziel und ohne Erwartung verwirklicht sich die Erleuchtung unmittelbar. Praxis und Erleuchtung sind eins."
+      },
+      {
+        "titel": "Sein-Zeit (Uji)",
+        "beschreibung": "Sein und Zeit sind untrennbar verbunden – jeder Moment des Seins ist Zeit, und jede Zeit ist Sein. Es gibt keine abstrakte Zeit ausserhalb der konkreten Erfahrung. Diese radikale Zeitphilosophie antizipiert moderne phaenomenologische Ansaetze."
+      },
+      {
+        "titel": "Buddha-Natur als universelles Sein",
+        "beschreibung": "Alle Wesen besitzen nicht nur Buddha-Natur, sondern sind Buddha-Natur. Dōgen interpretiert den klassischen buddhistischen Satz radikal um: Nicht 'alle Wesen haben Buddha-Natur', sondern 'alles Sein ist Buddha-Natur'. Dies schliesst auch unbelebte Dinge ein."
+      },
+      {
+        "titel": "Einheit von Uebung und Erleuchtung (Shushō Ittō)",
+        "beschreibung": "Praxis ist nicht der Weg zur Erleuchtung, sondern ihre Verwirklichung selbst. Es gibt keine Erleuchtung ohne Praxis und keine Praxis ohne Erleuchtung. Dieses Prinzip ueberwindet die Trennung von Mittel und Zweck in der spirituellen Praxis."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Shōbōgenzō (Die Schatzkammer des wahren Dharma-Auges)",
+        "jahr": "1231–1253",
+        "beschreibung": "Dōgens philosophisches Hauptwerk, bestehend aus 95 Faszikeln, die tiefgruendige Reflexionen ueber Zen-Praxis, Zeit, Sein und Erleuchtung enthalten. Es gilt als das bedeutendste philosophische Werk der japanischen Geistesgeschichte."
+      },
+      {
+        "titel": "Fukanzazengi (Allgemeine Anleitung zur Zazen-Praxis)",
+        "jahr": "1227",
+        "beschreibung": "Eine kurze, praegnante Anleitung zur Praxis der Sitzmeditation, die Dōgen nach seiner Rueckkehr aus China verfasste und die bis heute als grundlegender Text der Sōtō-Schule dient."
+      },
+      {
+        "titel": "Eihei Kōroku (Umfassende Aufzeichnungen des Eiheiji)",
+        "jahr": "1236–1253",
+        "beschreibung": "Eine Sammlung von Dharma-Reden, Gedichten und kurzen Lehrgespraechen Dōgens aus seiner Zeit als Abt des Eiheiji-Tempels."
+      },
+      {
+        "titel": "Gakudō Yōjinshū (Sammlung der Punkte, die beim Studium des Weges zu beachten sind)",
+        "jahr": "1234",
+        "beschreibung": "Eine praktische Anleitung fuer Zen-Schueler ueber die richtige Haltung und Motivation auf dem buddhistischen Weg."
+      }
+    ]
+  }
 }

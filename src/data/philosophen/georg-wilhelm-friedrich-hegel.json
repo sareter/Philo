@@ -2,11 +2,27 @@
   "slug": "georg-wilhelm-friedrich-hegel",
   "name": "Georg Wilhelm Friedrich Hegel",
   "lebensdaten": "1770–1831",
-  "geboren": { "jahr": 1770, "ort": "Stuttgart", "land": "Württemberg", "lat": 48.7758, "lng": 9.1829 },
-  "gestorben": { "jahr": 1831, "ort": "Berlin", "land": "Preußen", "lat": 52.5200, "lng": 13.4050 },
+  "geboren": {
+    "jahr": 1770,
+    "ort": "Stuttgart",
+    "land": "Württemberg",
+    "lat": 48.7758,
+    "lng": 9.1829
+  },
+  "gestorben": {
+    "jahr": 1831,
+    "ort": "Berlin",
+    "land": "Preußen",
+    "lat": 52.52,
+    "lng": 13.405
+  },
   "epoche": "Aufklärung",
   "region": "Deutschland",
-  "hauptstroemungen": ["Deutscher Idealismus", "Absoluter Idealismus", "Dialektik"],
+  "hauptstroemungen": [
+    "Deutscher Idealismus",
+    "Absoluter Idealismus",
+    "Dialektik"
+  ],
   "kurzbeschreibung": "Georg Wilhelm Friedrich Hegel war einer der einflussreichsten Philosophen der abendländischen Tradition, dessen dialektisches System den Anspruch erhob, die gesamte Wirklichkeit als Selbstentfaltung des Geistes zu begreifen. Seine 'Phänomenologie des Geistes' und seine 'Wissenschaft der Logik' gehören zu den anspruchsvollsten und bedeutendsten Werken der Philosophiegeschichte. Sein Einfluss erstreckt sich von Marx über den Existenzialismus bis zur Frankfurter Schule.",
   "biografie": {
     "fruehesLeben": "Georg Wilhelm Friedrich Hegel wurde am 27. August 1770 in Stuttgart als Sohn eines württembergischen Beamten geboren. Er besuchte das Gymnasium Illustre in Stuttgart und trat 1788 in das Tübinger Stift ein, wo er Theologie, Philosophie und Klassische Philologie studierte und die berühmte Freundschaft mit Hölderlin und Schelling schloss. Die drei Stiftler begeisterten sich für die Französische Revolution und die Philosophie Kants. Nach dem Studium arbeitete Hegel als Hauslehrer in Bern (1793–1796) und Frankfurt (1797–1800), wo er theologische und politische Manuskripte verfasste, die erst im 20. Jahrhundert veröffentlicht wurden. Seinen philosophischen Durchbruch erzielte er erst relativ spät.",
@@ -34,19 +50,120 @@
     }
   ],
   "werke": [
-    { "titel": "Phänomenologie des Geistes", "jahr": "1807", "beschreibung": "Hegels erstes Hauptwerk, das die Entwicklung des Bewusstseins von der einfachsten Sinnesgewissheit bis zum absoluten Wissen als dialektischen Prozess nachzeichnet." },
-    { "titel": "Wissenschaft der Logik", "jahr": "1812–1816", "beschreibung": "Hegels monumentales logisch-metaphysisches Werk, das die dialektische Bewegung der reinen Denkbestimmungen entwickelt – von Sein und Nichts über Wesen und Erscheinung zum Begriff." },
-    { "titel": "Enzyklopädie der philosophischen Wissenschaften", "jahr": "1817/1830", "beschreibung": "Eine kompakte Darstellung des gesamten Hegelschen Systems in drei Teilen: Logik, Naturphilosophie und Philosophie des Geistes." },
-    { "titel": "Grundlinien der Philosophie des Rechts", "jahr": "1820", "beschreibung": "Hegels Rechts- und Staatsphilosophie, die den Staat als 'Wirklichkeit der sittlichen Idee' begreift und die Entwicklung vom abstrakten Recht über die Moralität zur Sittlichkeit nachzeichnet." },
-    { "titel": "Vorlesungen über die Philosophie der Geschichte", "jahr": "1837 (posthum)", "beschreibung": "Hegels Geschichtsphilosophie, die die Weltgeschichte als 'Fortschritt im Bewusstsein der Freiheit' deutet." },
-    { "titel": "Vorlesungen über die Ästhetik", "jahr": "1835–1838 (posthum)", "beschreibung": "Hegels Ästhetik, die die Kunst als sinnliches Scheinen der Idee begreift und eine Geschichte der Kunstformen (symbolisch, klassisch, romantisch) entwickelt." }
+    {
+      "titel": "Phänomenologie des Geistes",
+      "jahr": "1807",
+      "beschreibung": "Hegels erstes Hauptwerk, das die Entwicklung des Bewusstseins von der einfachsten Sinnesgewissheit bis zum absoluten Wissen als dialektischen Prozess nachzeichnet."
+    },
+    {
+      "titel": "Wissenschaft der Logik",
+      "jahr": "1812–1816",
+      "beschreibung": "Hegels monumentales logisch-metaphysisches Werk, das die dialektische Bewegung der reinen Denkbestimmungen entwickelt – von Sein und Nichts über Wesen und Erscheinung zum Begriff."
+    },
+    {
+      "titel": "Enzyklopädie der philosophischen Wissenschaften",
+      "jahr": "1817/1830",
+      "beschreibung": "Eine kompakte Darstellung des gesamten Hegelschen Systems in drei Teilen: Logik, Naturphilosophie und Philosophie des Geistes."
+    },
+    {
+      "titel": "Grundlinien der Philosophie des Rechts",
+      "jahr": "1820",
+      "beschreibung": "Hegels Rechts- und Staatsphilosophie, die den Staat als 'Wirklichkeit der sittlichen Idee' begreift und die Entwicklung vom abstrakten Recht über die Moralität zur Sittlichkeit nachzeichnet."
+    },
+    {
+      "titel": "Vorlesungen über die Philosophie der Geschichte",
+      "jahr": "1837 (posthum)",
+      "beschreibung": "Hegels Geschichtsphilosophie, die die Weltgeschichte als 'Fortschritt im Bewusstsein der Freiheit' deutet."
+    },
+    {
+      "titel": "Vorlesungen über die Ästhetik",
+      "jahr": "1835–1838 (posthum)",
+      "beschreibung": "Hegels Ästhetik, die die Kunst als sinnliches Scheinen der Idee begreift und eine Geschichte der Kunstformen (symbolisch, klassisch, romantisch) entwickelt."
+    }
   ],
   "zitate": [
-    { "text": "Was vernünftig ist, das ist wirklich; und was wirklich ist, das ist vernünftig.", "quelle": "Grundlinien der Philosophie des Rechts, Vorrede", "kontext": "Hegels berühmtester und umstrittenster Satz, der sowohl als konservative Legitimation des Bestehenden als auch als revolutionäre These gelesen werden kann." },
-    { "text": "Das Wahre ist das Ganze.", "quelle": "Phänomenologie des Geistes, Vorrede", "kontext": "Hegels Überzeugung, dass die Wahrheit nicht in einzelnen Sätzen, sondern nur im Ganzen des philosophischen Systems liegt." },
-    { "text": "Die Weltgeschichte ist der Fortschritt im Bewusstsein der Freiheit.", "quelle": "Vorlesungen über die Philosophie der Geschichte", "kontext": "Hegels geschichtsphilosophische Grundthese, die die Geschichte als Verwirklichung der Freiheit deutet." },
-    { "text": "Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug.", "quelle": "Grundlinien der Philosophie des Rechts, Vorrede", "kontext": "Die Philosophie kann eine Gestalt des Lebens erst begreifen, wenn sie alt geworden ist – sie kommt stets zu spät, um die Welt zu belehren." }
+    {
+      "text": "Was vernünftig ist, das ist wirklich; und was wirklich ist, das ist vernünftig.",
+      "quelle": "Grundlinien der Philosophie des Rechts, Vorrede",
+      "kontext": "Hegels berühmtester und umstrittenster Satz, der sowohl als konservative Legitimation des Bestehenden als auch als revolutionäre These gelesen werden kann."
+    },
+    {
+      "text": "Das Wahre ist das Ganze.",
+      "quelle": "Phänomenologie des Geistes, Vorrede",
+      "kontext": "Hegels Überzeugung, dass die Wahrheit nicht in einzelnen Sätzen, sondern nur im Ganzen des philosophischen Systems liegt."
+    },
+    {
+      "text": "Die Weltgeschichte ist der Fortschritt im Bewusstsein der Freiheit.",
+      "quelle": "Vorlesungen über die Philosophie der Geschichte",
+      "kontext": "Hegels geschichtsphilosophische Grundthese, die die Geschichte als Verwirklichung der Freiheit deutet."
+    },
+    {
+      "text": "Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug.",
+      "quelle": "Grundlinien der Philosophie des Rechts, Vorrede",
+      "kontext": "Die Philosophie kann eine Gestalt des Lebens erst begreifen, wenn sie alt geworden ist – sie kommt stets zu spät, um die Welt zu belehren."
+    }
   ],
-  "verwandtePhilosophen": ["immanuel-kant", "johann-gottlieb-fichte", "friedrich-schelling", "karl-marx", "arthur-schopenhauer"],
-  "verwandteIsmen": ["idealismus", "deutscher-idealismus", "dialektik", "historismus"]
+  "verwandtePhilosophen": [
+    "immanuel-kant",
+    "johann-gottlieb-fichte",
+    "friedrich-schelling",
+    "karl-marx",
+    "arthur-schopenhauer"
+  ],
+  "verwandteIsmen": [
+    "idealismus",
+    "deutscher-idealismus",
+    "dialektik",
+    "historismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Georg Wilhelm Friedrich Hegel war einer der einflussreichsten Philosophen der abendlaendischen Tradition, dessen dialektisches System den Anspruch erhob, die gesamte Wirklichkeit als Selbstentfaltung des Geistes zu begreifen. Seine 'Phaenomenologie des Geistes' und seine 'Wissenschaft der Logik' gehoeren zu den anspruchsvollsten und bedeutendsten Werken der Philosophiegeschichte. Sein Einfluss erstreckt sich von Marx ueber den Existenzialismus bis zur Frankfurter Schule.",
+    "biografie": {
+      "fruehesLeben": "Georg Wilhelm Friedrich Hegel wurde am 27. August 1770 in Stuttgart als Sohn eines wuerttembergischen Beamten geboren. Er besuchte das Gymnasium Illustre in Stuttgart und trat 1788 in das Tuebinger Stift ein, wo er Theologie, Philosophie und Klassische Philologie studierte und die beruehmte Freundschaft mit Hoelderlin und Schelling schloss. Die drei Stiftler begeisterten sich fuer die Franzoesische Revolution und die Philosophie Kants. Nach dem Studium arbeitete Hegel als Hauslehrer in Bern (1793–1796) und Frankfurt (1797–1800), wo er theologische und politische Manuskripte verfasste, die erst im 20. Jahrhundert veroeffentlicht wurden. Seinen philosophischen Durchbruch erzielte er erst relativ spaet.",
+      "schaffen": "1801 habilitierte sich Hegel in Jena, wo er als Privatdozent und dann als ausserordentlicher Professor lehrte. In Jena vollendete er 1806 die 'Phaenomenologie des Geistes' – eines der Schluesselwerke der Philosophiegeschichte, das die Entwicklung des Bewusstseins von der einfachsten Sinnesgewissheit bis zum absoluten Wissen als dialektischen Prozess nachzeichnet. Die beruehmte Passage ueber die Dialektik von Herr und Knecht – in der das Bewusstsein des Knechts durch die Arbeit zur Selbststaendigkeit gelangt, waehrend der Herr in der Abhaengigkeit vom Knecht verharrt – wurde von Marx, Kojève und der gesamten nachfolgenden Sozialphilosophie aufgegriffen.",
+      "spaetesLeben": "In Berlin galt Hegel als der offizielle Philosoph des preussischen Staates, obwohl diese Einschaetzung vereinfachend ist. Seine 'Grundlinien der Philosophie des Rechts' (1820) entwickeln eine Theorie des modernen Staates, die den Staat als 'Wirklichkeit der sittlichen Idee' begreift. Der beruehmte Satz 'Was vernuenftig ist, das ist wirklich; und was wirklich ist, das ist vernuenftig' wurde sowohl als Rechtfertigung des Bestehenden als auch als revolutionaere These interpretiert. Hegel genoss enormen Einfluss und zog Studenten aus ganz Europa an.",
+      "tod": "Hegel starb am 14. November 1831 in Berlin, wahrscheinlich an der Cholera, die damals in der Stadt wuetete (obwohl auch andere Diagnosen diskutiert werden). Er wurde neben Fichte auf dem Dorotheenstaedtischen Friedhof in Berlin beigesetzt. Sein Tod hinterliess eine philosophische Schule, die sich bald in 'Rechtshegelianer' (konservativ) und 'Linkshegelianer' (revolutionaer – Marx, Engels, Feuerbach) spaltete.",
+      "nachwirkung": "Hegels Einfluss auf die nachfolgende Philosophie ist gewaltig. Marx uebernahm seine Dialektik und stellte sie 'vom Kopf auf die Fuesse', indem er sie materialistisch umdeutete. Kierkegaard und der Existenzialismus definierten sich in Opposition zu Hegel. Die Frankfurter Schule (Adorno, Horkheimer, Marcuse) entwickelte ihre Kritische Theorie in Auseinandersetzung mit Hegel. In der analytischen Philosophie wurden Hegels Ideen durch Robert Brandom und John McDowell fruchtbar gemacht. In Frankreich loesten Alexandre Kojèves Hegel-Vorlesungen eine philosophische Revolution aus und beeinflussten Sartre, Beauvoir, Lacan und Derrida."
+    },
+    "kernideen": [
+      {
+        "titel": "Dialektik",
+        "beschreibung": "Die Wirklichkeit entwickelt sich in einem dialektischen Prozess: These – Antithese – Synthese (obwohl Hegel diese Begriffe selten verwendete). Jede Position enthaelt ihren Widerspruch, und der Widerspruch treibt die Entwicklung zu einer hoeheren Einheit voran."
+      },
+      {
+        "titel": "Herr und Knecht",
+        "beschreibung": "Im Kampf um Anerkennung unterwirft sich einer dem anderen. Doch der Knecht gelangt durch die Arbeit – die formende Taetigkeit an der Natur – zu einem hoeheren Selbstbewusstsein als der untaetige Herr."
+      },
+      {
+        "titel": "Der Geist als Selbstentfaltung",
+        "beschreibung": "Die gesamte Wirklichkeit ist die Selbstentfaltung des Geistes (Absoluten), der sich in Natur, Geschichte und Kultur verwirklicht und im philosophischen Denken zu sich selbst kommt. 'Das Wahre ist das Ganze.'"
+      },
+      {
+        "titel": "Aufhebung",
+        "beschreibung": "Hegels zentraler Begriff der 'Aufhebung' vereint drei Bedeutungen: Negieren, Bewahren und auf eine hoehere Stufe Heben. Im dialektischen Prozess werden Widersprueche nicht vernichtet, sondern in einer hoeheren Einheit aufgehoben."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Phaenomenologie des Geistes",
+        "jahr": "1807",
+        "beschreibung": "Hegels erstes Hauptwerk, das die Entwicklung des Bewusstseins von der einfachsten Sinnesgewissheit bis zum absoluten Wissen als dialektischen Prozess nachzeichnet."
+      },
+      {
+        "titel": "Wissenschaft der Logik",
+        "jahr": "1812–1816",
+        "beschreibung": "Hegels monumentales logisch-metaphysisches Werk, das die dialektische Bewegung der reinen Denkbestimmungen entwickelt – von Sein und Nichts ueber Wesen und Erscheinung zum Begriff."
+      },
+      {
+        "titel": "Enzyklopaedie der philosophischen Wissenschaften",
+        "jahr": "1817/1830",
+        "beschreibung": "Eine kompakte Darstellung des gesamten Hegelschen Systems in drei Teilen: Logik, Naturphilosophie und Philosophie des Geistes."
+      },
+      {
+        "titel": "Grundlinien der Philosophie des Rechts",
+        "jahr": "1820",
+        "beschreibung": "Hegels Rechts- und Staatsphilosophie, die den Staat als 'Wirklichkeit der sittlichen Idee' begreift und die Entwicklung vom abstrakten Recht ueber die Moralitaet zur Sittlichkeit nachzeichnet."
+      }
+    ]
+  }
 }

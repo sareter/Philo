@@ -80,5 +80,45 @@
     }
   ],
   "verwandtePhilosophen": ["marcus-aurelius", "seneca", "zenon-von-kition", "chrysipp", "sokrates"],
-  "verwandteIsmen": ["stoizismus", "praktische-philosophie", "ethik", "askese"]
+  "verwandteIsmen": ["stoizismus", "praktische-philosophie", "ethik", "askese"],
+  "einfach": {
+    "kurzbeschreibung": "Epiktet war ein ehemaliger Sklave, der einer der beruehmtesten Philosophen der Antike wurde. Seine Kernbotschaft: Kuemmere dich nur um das, was du kontrollieren kannst, und lass den Rest los.",
+    "biografie": {
+      "fruehesLeben": "Epiktet wurde um 50 n. Chr. als Sklave geboren. Sein Name bedeutet sogar 'der Hinzuerworbene'. Trotzdem durfte er Philosophie-Vorlesungen besuchen, was sein Leben veraenderte.",
+      "schaffen": "Nach seiner Freilassung gruendete er in Griechenland eine eigene Philosophenschule. Er lebte extrem einfach und besass fast nichts. Seine wichtigste Lehre: Es gibt Dinge, die wir kontrollieren koennen (unsere Gedanken und Einstellungen) und Dinge, die wir nicht kontrollieren koennen (alles Aeussere). Gluecklich wird nur, wer diesen Unterschied versteht.",
+      "spaetesLeben": "Epiktet lehrte bis ins hohe Alter und nahm spaeter ein Waisenkind bei sich auf. Studenten aus dem ganzen Roemischen Reich kamen zu ihm.",
+      "tod": "Er starb um 135 n. Chr., vermutlich mit etwa 85 Jahren. Sein 'Handbuch' wurde eines der meistgelesenen Buecher der Antike.",
+      "nachwirkung": "Seine Ideen beeinflussten den roemischen Kaiser Marc Aurel und spaeter sogar die moderne Psychotherapie. Die kognitive Verhaltenstherapie beruft sich direkt auf ihn: Nicht die Dinge machen uns Probleme, sondern wie wir ueber sie denken."
+    },
+    "kernideen": [
+      {
+        "titel": "Dichotomie der Kontrolle",
+        "beschreibung": "Manches koennen wir kontrollieren (unsere Gedanken und Reaktionen), manches nicht (alles Aeussere). Glueck kommt, wenn wir uns nur auf das konzentrieren, was in unserer Macht liegt."
+      },
+      {
+        "titel": "Nicht die Dinge beunruhigen uns",
+        "beschreibung": "Nicht die Ereignisse selbst machen uns Angst, sondern was wir darueber denken. Der Tod zum Beispiel ist nicht schlimm, nur die Vorstellung davon."
+      },
+      {
+        "titel": "Prohairesis (Moralischer Wille)",
+        "beschreibung": "Unser innerer Wille ist das Einzige, was wirklich uns gehoert. Niemand kann uns zwingen, schlecht zu denken oder zu urteilen."
+      },
+      {
+        "titel": "Rollen im Lebensdrama",
+        "beschreibung": "Das Leben ist wie ein Theaterstueck: Wir waehlen nicht unsere Rolle, aber wir koennen sie gut spielen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Diatribai (Unterredungen / Dissertationes)",
+        "jahr": "ca. 108 n. Chr.",
+        "beschreibung": "Von seinem Schueler aufgeschriebene Lehrgespraeche, die Epiktets Philosophie lebendig und direkt vermitteln."
+      },
+      {
+        "titel": "Encheiridion (Handbuch)",
+        "jahr": "ca. 108 n. Chr.",
+        "beschreibung": "Eine Kurzfassung seiner wichtigsten Lehren, die zu einem der meistgelesenen Buecher der Antike wurde."
+      }
+    ]
+  }
 }

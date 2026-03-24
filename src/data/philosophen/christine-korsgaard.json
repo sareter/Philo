@@ -18,7 +18,10 @@
   },
   "epoche": "Gegenwart",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Kantianismus", "Deontologie"],
+  "hauptstroemungen": [
+    "Kantianismus",
+    "Deontologie"
+  ],
   "kurzbeschreibung": "Christine Korsgaard ist eine amerikanische Philosophin und eine der einflussreichsten Vertreterinnen des zeitgenössischen Kantianismus. Ihr Werk kreist um die Frage, worin die Autorität moralischer Normen gründet, und sie findet die Antwort in der Struktur praktischer Vernunft und Selbstgesetzgebung. Sie hat Kants Ethik für die zeitgenössische Moralphilosophie fruchtbar gemacht.",
   "biografie": {
     "fruehesLeben": "Christine Korsgaard wurde 1952 in Chicago geboren und studierte an der University of Illinois und der Harvard University, wo sie bei John Rawls promovierte. Rawls' kantische Moralphilosophie wurde zur Grundlage ihres eigenen Denkens.",
@@ -81,6 +84,64 @@
       "quelle": "Mitgeschöpfe"
     }
   ],
-  "verwandtePhilosophen": ["immanuel-kant", "john-rawls", "onora-oneill", "derek-parfit"],
-  "verwandteIsmen": ["kantianismus", "deontologie"]
+  "verwandtePhilosophen": [
+    "immanuel-kant",
+    "john-rawls",
+    "onora-oneill",
+    "derek-parfit"
+  ],
+  "verwandteIsmen": [
+    "kantianismus",
+    "deontologie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Christine Korsgaard ist eine amerikanische Philosophin und eine der einflussreichsten Vertreterinnen des zeitgenoessischen Kantianismus. Ihr Werk kreist um die Frage, worin die Autoritaet moralischer Normen gruendet, und sie findet die Antwort in der Struktur praktischer Vernunft und Selbstgesetzgebung. Sie hat Kants Ethik fuer die zeitgenoessische Moralphilosophie fruchtbar gemacht.",
+    "biografie": {
+      "fruehesLeben": "Christine Korsgaard wurde 1952 in Chicago geboren und studierte an der University of Illinois und der Harvard University, wo sie bei John Rawls promovierte. Rawls' kantische Moralphilosophie wurde zur Grundlage ihres eigenen Denkens.",
+      "schaffen": "Korsgaard lehrte an der University of California, Santa Barbara, der Yale University und der University of Chicago, bevor sie 1991 an die Harvard University berufen wurde. Ihr Hauptwerk 'The Sources of Normativity' (1996) analysiert die verschiedenen Antworten auf die Frage, warum moralische Normen verbindlich sind. Ihre konstruktivistische Interpretation Kants hat die Debatte ueber moralische Normativitaet nachhaltig gepraegt.",
+      "spaetesLeben": "In ihren juengeren Arbeiten hat Korsgaard ihre kantische Ethik auf Fragen der Tierethik ausgedehnt. Ihr Buch 'Fellow Creatures' (2018) argumentiert, dass wir auch gegenueber Tieren moralische Pflichten haben, die sich aus Kants Ethik ableiten lassen.",
+      "tod": "Christine Korsgaard lebt und lehrt an der Harvard University. Sie ist eine der einflussreichsten Moralphilosophinnen der Gegenwart und hat die kantische Tradition fuer neue Fragestellungen geoeffnet.",
+      "nachwirkung": "Korsgaards konstruktivistischer Kantianismus hat die zeitgenoessische Moralphilosophie nachhaltig beeinflusst. Ihre Analyse der Quellen der Normativitaet ist ein Standardtext der Ethik. Ihre Erweiterung der kantischen Ethik auf die Tierethik hat neue Perspektiven eroeffnet."
+    },
+    "kernideen": [
+      {
+        "titel": "Quellen der Normativitaet",
+        "beschreibung": "Die Verbindlichkeit moralischer Normen gruendet nicht in goettlichen Geboten, natuerlichen Tatsachen oder gesellschaftlichen Konventionen, sondern in der Struktur der praktischen Vernunft selbst. Wenn wir handeln, muessen wir unseren Willen als autonom gesetzgebend begreifen – darin liegt die Quelle aller Normativitaet."
+      },
+      {
+        "titel": "Praktische Identitaet",
+        "beschreibung": "Jeder Mensch handelt unter einer Beschreibung seiner selbst – als Elternteil, als Buerger, als Mitglied einer Gemeinschaft. Diese praktischen Identitaeten sind die Quelle unserer Verpflichtungen. Die moralische Identitaet als vernuenftiges Wesen ist die grundlegendste dieser Identitaeten."
+      },
+      {
+        "titel": "Moralischer Konstruktivismus",
+        "beschreibung": "Moralische Wahrheiten werden nicht entdeckt, sondern durch die Taetigkeit der praktischen Vernunft konstruiert. Dies bedeutet nicht, dass Moral willkuerlich ist – die Konstruktion folgt den notwendigen Bedingungen rationaler Selbstgesetzgebung."
+      },
+      {
+        "titel": "Kantische Tierethik",
+        "beschreibung": "Tiere sind wie Menschen Wesen, fuer die Dinge gut oder schlecht sein koennen – sie haben ein natuerliches Gut. Die kantische Pflicht, andere als Zwecke zu behandeln, erstreckt sich daher auch auf Tiere, die als Mitgeschoepfe moralische Beruecksichtigung verdienen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Quellen der Normativitaet (The Sources of Normativity)",
+        "jahr": "1996",
+        "beschreibung": "Korsgaards Hauptwerk, das die verschiedenen Antworten auf die Frage nach der Verbindlichkeit moralischer Normen analysiert und eine kantische Antwort entwickelt."
+      },
+      {
+        "titel": "Autonomie schaffen (Creating the Kingdom of Ends)",
+        "jahr": "1996",
+        "beschreibung": "Eine Sammlung von Essays, die Kants Moralphilosophie fuer die zeitgenoessische Ethik neu interpretieren."
+      },
+      {
+        "titel": "Selbstkonstitution (Self-Constitution)",
+        "jahr": "2009",
+        "beschreibung": "Eine Theorie des Handelns, die zeigt, wie wir uns durch unsere Handlungen als autonome Wesen konstituieren."
+      },
+      {
+        "titel": "Mitgeschoepfe (Fellow Creatures)",
+        "jahr": "2018",
+        "beschreibung": "Eine kantische Begruendung moralischer Pflichten gegenueber Tieren, die die Grenzen der traditionellen kantischen Ethik erweitert."
+      }
+    ]
+  }
 }

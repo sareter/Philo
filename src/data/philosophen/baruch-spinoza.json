@@ -2,11 +2,27 @@
   "slug": "baruch-spinoza",
   "name": "Baruch de Spinoza",
   "lebensdaten": "1632–1677",
-  "geboren": { "jahr": 1632, "ort": "Amsterdam", "land": "Niederlande", "lat": 52.3676, "lng": 4.9041 },
-  "gestorben": { "jahr": 1677, "ort": "Den Haag", "land": "Niederlande", "lat": 52.0705, "lng": 4.3007 },
+  "geboren": {
+    "jahr": 1632,
+    "ort": "Amsterdam",
+    "land": "Niederlande",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  "gestorben": {
+    "jahr": 1677,
+    "ort": "Den Haag",
+    "land": "Niederlande",
+    "lat": 52.0705,
+    "lng": 4.3007
+  },
   "epoche": "Aufklärung",
   "region": "Niederlande",
-  "hauptstroemungen": ["Rationalismus", "Pantheismus", "Monismus"],
+  "hauptstroemungen": [
+    "Rationalismus",
+    "Pantheismus",
+    "Monismus"
+  ],
   "kurzbeschreibung": "Baruch de Spinoza war ein niederländischer Philosoph sephardisch-jüdischer Herkunft, dessen 'Ethica ordine geometrico demonstrata' eines der kühnsten und systematischsten Werke der Philosophiegeschichte darstellt. Sein radikaler Monismus, der Gott und Natur gleichsetzte, seine deterministische Metaphysik und seine Verteidigung der Gedankenfreiheit machten ihn zum radikalsten Denker des 17. Jahrhunderts und zu einem Vorläufer der modernen Bibelkritik.",
   "biografie": {
     "fruehesLeben": "Baruch (Bento, Benedictus) de Spinoza wurde am 24. November 1632 in Amsterdam als Sohn portugiesisch-jüdischer Immigranten geboren, die vor der Inquisition in die toleranten Niederlande geflohen waren. Er besuchte die jüdische Schule Ets Haim, wo er Hebräisch, die Tora, den Talmud und die jüdische Philosophie studierte, insbesondere die Werke des Maimonides. Gleichzeitig eignete er sich eine umfassende Bildung in Latein, Mathematik, Physik und der zeitgenössischen Philosophie an, namentlich die Werke Descartes'. Früh begann er, unorthodoxe Ansichten zu vertreten, die die Gemeindeältesten beunruhigten. Am 27. Juli 1656 wurde er mit einem cherem (Bannfluch) aus der jüdischen Gemeinde ausgestoßen – der härteste Bann, den die Amsterdamer Gemeinde je verhängte. Er war erst 23 Jahre alt. Fortan nannte er sich Benedictus (die lateinische Form von Baruch, 'der Gesegnete').",
@@ -34,18 +50,115 @@
     }
   ],
   "werke": [
-    { "titel": "Ethica ordine geometrico demonstrata (Ethik)", "jahr": "1677 (posthum)", "beschreibung": "Spinozas Hauptwerk, in geometrischer Ordnung aufgebaut, entwickelt eine monistische Metaphysik, eine deterministische Naturphilosophie, eine Theorie der Affekte und eine Ethik der Vernunft, die zur 'amor Dei intellectualis' (intellektuellen Gottesliebe) führt." },
-    { "titel": "Tractatus Theologico-Politicus (Theologisch-Politischer Traktat)", "jahr": "1670", "beschreibung": "Eine Verteidigung der Gedanken- und Redefreiheit, die die Bibel als historisches Dokument analysiert und die Trennung von Philosophie und Theologie fordert – ein Gründungstext der modernen Bibelkritik und des politischen Liberalismus." },
-    { "titel": "Tractatus Politicus (Politischer Traktat)", "jahr": "1677 (posthum, unvollendet)", "beschreibung": "Spinozas unvollendete politische Theorie, die verschiedene Regierungsformen (Monarchie, Aristokratie, Demokratie) analysiert und die Demokratie als naturgemäßeste Staatsform favorisiert." },
-    { "titel": "Tractatus de Intellectus Emendatione (Abhandlung über die Verbesserung des Verstandes)", "jahr": "1677 (posthum)", "beschreibung": "Ein frühes, unvollendetes Werk über die erkenntnistheoretische Methode, das vier Stufen der Erkenntnis unterscheidet und den Weg zur höchsten, intuitiven Erkenntnis weist." },
-    { "titel": "Renati Des Cartes Principiorum Philosophiae Pars I et II", "jahr": "1663", "beschreibung": "Eine geometrische Darstellung von Descartes' Prinzipien der Philosophie – das einzige Werk, das Spinoza unter eigenem Namen veröffentlichte." }
+    {
+      "titel": "Ethica ordine geometrico demonstrata (Ethik)",
+      "jahr": "1677 (posthum)",
+      "beschreibung": "Spinozas Hauptwerk, in geometrischer Ordnung aufgebaut, entwickelt eine monistische Metaphysik, eine deterministische Naturphilosophie, eine Theorie der Affekte und eine Ethik der Vernunft, die zur 'amor Dei intellectualis' (intellektuellen Gottesliebe) führt."
+    },
+    {
+      "titel": "Tractatus Theologico-Politicus (Theologisch-Politischer Traktat)",
+      "jahr": "1670",
+      "beschreibung": "Eine Verteidigung der Gedanken- und Redefreiheit, die die Bibel als historisches Dokument analysiert und die Trennung von Philosophie und Theologie fordert – ein Gründungstext der modernen Bibelkritik und des politischen Liberalismus."
+    },
+    {
+      "titel": "Tractatus Politicus (Politischer Traktat)",
+      "jahr": "1677 (posthum, unvollendet)",
+      "beschreibung": "Spinozas unvollendete politische Theorie, die verschiedene Regierungsformen (Monarchie, Aristokratie, Demokratie) analysiert und die Demokratie als naturgemäßeste Staatsform favorisiert."
+    },
+    {
+      "titel": "Tractatus de Intellectus Emendatione (Abhandlung über die Verbesserung des Verstandes)",
+      "jahr": "1677 (posthum)",
+      "beschreibung": "Ein frühes, unvollendetes Werk über die erkenntnistheoretische Methode, das vier Stufen der Erkenntnis unterscheidet und den Weg zur höchsten, intuitiven Erkenntnis weist."
+    },
+    {
+      "titel": "Renati Des Cartes Principiorum Philosophiae Pars I et II",
+      "jahr": "1663",
+      "beschreibung": "Eine geometrische Darstellung von Descartes' Prinzipien der Philosophie – das einzige Werk, das Spinoza unter eigenem Namen veröffentlichte."
+    }
   ],
   "zitate": [
-    { "text": "Deus sive Natura – Gott oder die Natur.", "quelle": "Ethica, Teil IV, Vorwort", "kontext": "Spinozas berühmteste Formel, die die Identität von Gott und Natur ausdrückt und den Kern seines philosophischen Systems zusammenfasst." },
-    { "text": "Nicht lachen, nicht weinen, nicht verabscheuen, sondern verstehen.", "quelle": "Tractatus Politicus, Kapitel I", "kontext": "Spinozas Ideal einer leidenschaftslosen, rational verstehenden Haltung gegenüber menschlichem Verhalten." },
-    { "text": "Frei ist, wer allein aus der Notwendigkeit seiner Natur existiert und allein von sich selbst zum Handeln bestimmt wird.", "quelle": "Ethica, Teil I, Definition 7", "kontext": "Spinozas Freiheitsbegriff: Freiheit ist nicht die Abwesenheit von Determination, sondern Selbstbestimmung aus der eigenen Natur heraus." },
-    { "text": "Ich habe mich eifrig bemüht, die menschlichen Handlungen nicht zu belachen, nicht zu beweinen, nicht zu verabscheuen, sondern zu begreifen.", "quelle": "Tractatus Politicus, Kapitel I, §4", "kontext": "Das methodische Ideal der wertfreien Analyse menschlichen Verhaltens, das Spinoza mit den Naturwissenschaften teilt." }
+    {
+      "text": "Deus sive Natura – Gott oder die Natur.",
+      "quelle": "Ethica, Teil IV, Vorwort",
+      "kontext": "Spinozas berühmteste Formel, die die Identität von Gott und Natur ausdrückt und den Kern seines philosophischen Systems zusammenfasst."
+    },
+    {
+      "text": "Nicht lachen, nicht weinen, nicht verabscheuen, sondern verstehen.",
+      "quelle": "Tractatus Politicus, Kapitel I",
+      "kontext": "Spinozas Ideal einer leidenschaftslosen, rational verstehenden Haltung gegenüber menschlichem Verhalten."
+    },
+    {
+      "text": "Frei ist, wer allein aus der Notwendigkeit seiner Natur existiert und allein von sich selbst zum Handeln bestimmt wird.",
+      "quelle": "Ethica, Teil I, Definition 7",
+      "kontext": "Spinozas Freiheitsbegriff: Freiheit ist nicht die Abwesenheit von Determination, sondern Selbstbestimmung aus der eigenen Natur heraus."
+    },
+    {
+      "text": "Ich habe mich eifrig bemüht, die menschlichen Handlungen nicht zu belachen, nicht zu beweinen, nicht zu verabscheuen, sondern zu begreifen.",
+      "quelle": "Tractatus Politicus, Kapitel I, §4",
+      "kontext": "Das methodische Ideal der wertfreien Analyse menschlichen Verhaltens, das Spinoza mit den Naturwissenschaften teilt."
+    }
   ],
-  "verwandtePhilosophen": ["rene-descartes", "gottfried-wilhelm-leibniz", "giordano-bruno", "georg-wilhelm-friedrich-hegel", "thomas-hobbes"],
-  "verwandteIsmen": ["rationalismus", "pantheismus", "monismus", "determinismus"]
+  "verwandtePhilosophen": [
+    "rene-descartes",
+    "gottfried-wilhelm-leibniz",
+    "giordano-bruno",
+    "georg-wilhelm-friedrich-hegel",
+    "thomas-hobbes"
+  ],
+  "verwandteIsmen": [
+    "rationalismus",
+    "pantheismus",
+    "monismus",
+    "determinismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Baruch de Spinoza war ein niederlaendischer Philosoph sephardisch-juedischer Herkunft, dessen 'Ethica ordine geometrico demonstrata' eines der kuehnsten und systematischsten Werke der Philosophiegeschichte darstellt. Sein radikaler Monismus, der Gott und Natur gleichsetzte, seine deterministische Metaphysik und seine Verteidigung der Gedankenfreiheit machten ihn zum radikalsten Denker des 17. Jahrhunderts und zu einem Vorlaeufer der modernen Bibelkritik.",
+    "biografie": {
+      "fruehesLeben": "Baruch (Bento, Benedictus) de Spinoza wurde am 24. November 1632 in Amsterdam als Sohn portugiesisch-juedischer Immigranten geboren, die vor der Inquisition in die toleranten Niederlande geflohen waren. Er besuchte die juedische Schule Ets Haim, wo er Hebraeisch, die Tora, den Talmud und die juedische Philosophie studierte, insbesondere die Werke des Maimonides. Gleichzeitig eignete er sich eine umfassende Bildung in Latein, Mathematik, Physik und der zeitgenoessischen Philosophie an, namentlich die Werke Descartes'. Frueh begann er, unorthodoxe Ansichten zu vertreten, die die Gemeindeaeltesten beunruhigten. Am 27. Juli 1656 wurde er mit einem cherem (Bannfluch) aus der juedischen Gemeinde ausgestossen – der haerteste Bann, den die Amsterdamer Gemeinde je verhaengte. Er war erst 23 Jahre alt.",
+      "schaffen": "Nach seinem Ausschluss verdiente Spinoza seinen Lebensunterhalt als Linsenschleifer fuer optische Instrumente – ein Handwerk, das ihm bescheidene Unabhaengigkeit sicherte und seinem philosophischen Interesse an Optik entsprach. Er widmete sich intensiv der Philosophie und korrespondierte mit den bedeutendsten Gelehrten seiner Zeit, darunter Henry Oldenburg (Sekretaer der Royal Society) und Gottfried Wilhelm Leibniz. Sein philosophisches Hauptwerk, die 'Ethica ordine geometrico demonstrata' (Ethik, in geometrischer Ordnung dargestellt), entwickelte er ueber viele Jahre und wagte es erst posthum veroeffentlichen zu lassen.",
+      "spaetesLeben": "Spinoza lebte in bescheidenen Verhaeltnissen, zunaechst in Rijnsburg bei Leiden, dann in Voorburg und schliesslich in Den Haag. Er lehnte eine Berufung als Professor an die Universitaet Heidelberg ab, da er seine philosophische Freiheit nicht durch eine Amtspflicht gefaehrden wollte. Der 'Theologisch-Politische Traktat' erregte enormes Aufsehen und wurde 1674 verboten. Spinoza wurde von vielen als 'Atheist' gebrandmarkt – ein Vorwurf, der im 17. Jahrhundert lebensgefaehrlich sein konnte. Er pflegte dennoch Kontakte zu einem Kreis von Anhaengern und Freunden und korrespondierte mit bedeutenden Gelehrten. Seine Gesundheit war zeit seines Lebens fragil – moeglicherweise litt er an Tuberkulose, die durch das Einatmen von Glasstaub beim Linsenschleifen verschlimmert wurde.",
+      "tod": "Spinoza starb am 21. Februar 1677 in Den Haag an Tuberkulose im Alter von nur 44 Jahren. Sein Freund und Arzt Georg Hermann Schuller war an seinem Sterbebett. Wenige Monate nach seinem Tod veroeffentlichten seine Freunde die 'Opera Posthuma', die die 'Ethica', den unvollendeten 'Politischen Traktat', die 'Abhandlung ueber die Verbesserung des Verstandes' und seine Korrespondenz enthielten. Die Werke wurden umgehend verboten und auf den Index gesetzt.",
+      "nachwirkung": "Spinozas Philosophie wurde zunaechst als atheistisch verurteilt und blieb ueber ein Jahrhundert verfemt. Erst die deutschen Romantiker und Idealisten – Lessing, Herder, Goethe, Schelling und Hegel – rehabilitierten ihn. Novalis nannte ihn den 'gotttrunkenen Philosophen'. Im 19. Jahrhundert beeinflusste er Marx, Nietzsche und Freud. Im 20. Jahrhundert wurde er von Deleuze, Althusser und der neurowissenschaftlichen Forschung (Antonio Damasio) wiederentdeckt. Einstein bekannte sich zu 'Spinozas Gott'. Heute gilt Spinoza als einer der radikalsten und originellsten Denker der europaeischen Philosophie."
+    },
+    "kernideen": [
+      {
+        "titel": "Deus sive Natura (Gott oder die Natur)",
+        "beschreibung": "Es gibt nur eine einzige Substanz – Gott oder die Natur –, die causa sui (Ursache ihrer selbst) ist. Gott ist nicht ein transzendenter Schoepfer, sondern die immanente Ursache aller Dinge. Alles, was existiert, ist ein Ausdruck (Modus) dieser einen Substanz."
+      },
+      {
+        "titel": "Determinismus",
+        "beschreibung": "In der Natur geschieht alles mit Notwendigkeit. Es gibt keinen freien Willen im traditionellen Sinne. Freiheit besteht nicht in der Willkuer der Wahl, sondern im Handeln aus der eigenen Natur heraus, geleitet von vernuenftiger Erkenntnis."
+      },
+      {
+        "titel": "Parallelismus von Koerper und Geist",
+        "beschreibung": "Denken und Ausdehnung sind nicht zwei verschiedene Substanzen (wie bei Descartes), sondern zwei Attribute derselben Substanz. Jeder Koerperzustand entspricht einem Geisteszustand und umgekehrt, ohne dass eines das andere verursacht."
+      },
+      {
+        "titel": "Conatus – Streben nach Selbsterhaltung",
+        "beschreibung": "Jedes Ding strebt danach, in seinem Sein zu verharren (conatus). Dieses Streben ist die Essenz jedes Dinges. Beim Menschen aeussert sich der conatus als Begierde, Freude und Trauer – die drei Grundaffekte, aus denen alle anderen Emotionen abgeleitet werden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Ethica ordine geometrico demonstrata (Ethik)",
+        "jahr": "1677 (posthum)",
+        "beschreibung": "Spinozas Hauptwerk, in geometrischer Ordnung aufgebaut, entwickelt eine monistische Metaphysik, eine deterministische Naturphilosophie, eine Theorie der Affekte und eine Ethik der Vernunft, die zur 'amor Dei intellectualis' (intellektuellen Gottesliebe) fuehrt."
+      },
+      {
+        "titel": "Tractatus Theologico-Politicus (Theologisch-Politischer Traktat)",
+        "jahr": "1670",
+        "beschreibung": "Eine Verteidigung der Gedanken- und Redefreiheit, die die Bibel als historisches Dokument analysiert und die Trennung von Philosophie und Theologie fordert – ein Gruendungstext der modernen Bibelkritik und des politischen Liberalismus."
+      },
+      {
+        "titel": "Tractatus Politicus (Politischer Traktat)",
+        "jahr": "1677 (posthum, unvollendet)",
+        "beschreibung": "Spinozas unvollendete politische Theorie, die verschiedene Regierungsformen (Monarchie, Aristokratie, Demokratie) analysiert und die Demokratie als naturgemaesseste Staatsform favorisiert."
+      },
+      {
+        "titel": "Tractatus de Intellectus Emendatione (Abhandlung ueber die Verbesserung des Verstandes)",
+        "jahr": "1677 (posthum)",
+        "beschreibung": "Ein fruehes, unvollendetes Werk ueber die erkenntnistheoretische Methode, das vier Stufen der Erkenntnis unterscheidet und den Weg zur hoechsten, intuitiven Erkenntnis weist."
+      }
+    ]
+  }
 }

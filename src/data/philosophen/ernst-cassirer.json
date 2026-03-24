@@ -95,5 +95,65 @@
     }
   ],
   "verwandtePhilosophen": ["edmund-husserl", "martin-heidegger", "alfred-north-whitehead", "theodor-w-adorno", "hannah-arendt"],
-  "verwandteIsmen": ["neukantianismus", "kulturphilosophie", "symbolphilosophie", "idealismus"]
+  "verwandteIsmen": ["neukantianismus", "kulturphilosophie", "symbolphilosophie", "idealismus"],
+  "einfach": {
+    "kurzbeschreibung": "Ernst Cassirer erklaerte, dass wir Menschen die Welt nicht direkt erleben, sondern immer durch Symbole wie Sprache, Kunst und Wissenschaft. Wir sind nicht nur Vernunftwesen, sondern vor allem Symbolwesen.",
+    "biografie": {
+      "fruehesLeben": "Cassirer wurde 1874 in Breslau in einer wohlhabenden juedischen Familie geboren. Er studierte Philosophie an verschiedenen Universitaeten und wurde Schueler des beruehmten Neukantianers Hermann Cohen.",
+      "schaffen": "Sein Hauptwerk 'Philosophie der symbolischen Formen' zeigt, dass wir die Welt durch selbstgeschaffene Symbole verstehen: Sprache, Mythos, Kunst, Religion und Wissenschaft sind alles verschiedene Weisen, die Welt zu begreifen. 1929 fuehrte er eine beruehmte Debatte mit Heidegger in Davos.",
+      "spaetesLeben": "Nach der Machtergreifung der Nazis emigrierte er nach England, dann Schweden und schliesslich in die USA. Im Exil analysierte er, wie politische Mythen den Faschismus moeglich gemacht haben.",
+      "tod": "Cassirer starb 1945 in New York an einem Herzinfarkt, nur wenige Wochen vor Kriegsende.",
+      "nachwirkung": "Seine Philosophie der symbolischen Formen erlebt seit den 1990ern eine Renaissance. Seine Idee, dass der Mensch ein symbolschaffendes Wesen ist, praegte die Kulturwissenschaften und die Semiotik."
+    },
+    "kernideen": [
+      {
+        "titel": "Philosophie der symbolischen Formen",
+        "beschreibung": "Wir erleben die Welt nie direkt, sondern immer durch Symbole wie Sprache, Kunst oder Wissenschaft. Jede dieser Formen hat ihre eigene Logik."
+      },
+      {
+        "titel": "Der Mensch als animal symbolicum",
+        "beschreibung": "Der Mensch ist vor allem ein symbolschaffendes Wesen. Das unterscheidet uns grundlegend von allen anderen Lebewesen."
+      },
+      {
+        "titel": "Substanzbegriff und Funktionsbegriff",
+        "beschreibung": "Moderne Wissenschaft beschreibt nicht feste Dinge, sondern Beziehungen und Funktionen zwischen Dingen."
+      },
+      {
+        "titel": "Der Mythos des Staates",
+        "beschreibung": "Politische Mythen koennen in Krisenzeiten reaktiviert werden und ganze Gesellschaften in ihren Bann ziehen, wie der Faschismus gezeigt hat."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Philosophie der symbolischen Formen",
+        "jahr": "1923-1929",
+        "beschreibung": "Sein dreibaendiges Hauptwerk ueber Sprache, Mythos und Erkenntnis als verschiedene Weisen, die Welt zu gestalten."
+      },
+      {
+        "titel": "Substanzbegriff und Funktionsbegriff",
+        "jahr": "1910",
+        "beschreibung": "Eine Studie darueber, wie die moderne Wissenschaft von festen Dingen zu Beziehungen und Funktionen uebergegangen ist."
+      },
+      {
+        "titel": "Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit",
+        "jahr": "1906-1920",
+        "beschreibung": "Eine vierbaendige Geschichte der Erkenntnistheorie von der Renaissance bis Hegel."
+      },
+      {
+        "titel": "An Essay on Man",
+        "jahr": "1944",
+        "beschreibung": "Eine Zusammenfassung seiner Kulturphilosophie auf Englisch, die den Menschen als symbolschaffendes Wesen beschreibt."
+      },
+      {
+        "titel": "The Myth of the State",
+        "jahr": "1946",
+        "beschreibung": "Seine Analyse, wie politische Mythen den Aufstieg des Faschismus ermoeglicht haben."
+      },
+      {
+        "titel": "Individuum und Kosmos in der Philosophie der Renaissance",
+        "jahr": "1927",
+        "beschreibung": "Eine wichtige Studie ueber die Philosophie der Renaissance."
+      }
+    ]
+  }
 }

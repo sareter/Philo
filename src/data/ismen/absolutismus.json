@@ -20,5 +20,18 @@
     { "titel": "Grundlegung zur Metaphysik der Sitten", "autor": "Immanuel Kant", "jahr": "1785" },
     { "titel": "Phänomenologie des Geistes", "autor": "Georg Wilhelm Friedrich Hegel", "jahr": "1807" },
     { "titel": "On What Matters", "autor": "Derek Parfit", "jahr": "2011" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Philosophischer Absolutismus bedeutet: Es gibt Wahrheiten und moralische Regeln, die immer und ueberall gelten -- egal in welcher Kultur oder Zeit man lebt.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand sagt: 'Mord ist falsch.' Ein Absolutist wuerde sagen: Das gilt ueberall auf der Welt, in jeder Kultur und zu jeder Zeit. Es gibt bestimmte Dinge, die einfach wahr oder falsch sind, egal was irgendwer dazu meint. Das ist der Kern des philosophischen Absolutismus.\n\nSchon Platon hat so gedacht. Er glaubte, dass es hinter unserer sichtbaren Welt ewige Wahrheiten gibt -- zum Beispiel was wirklich gerecht oder schoen ist. Spaeter hat Kant das weitergedacht und gesagt: Es gibt moralische Pflichten, die immer gelten. Sein beruehmter Grundsatz lautet ungefaehr: Handle so, dass deine Regel fuer alle Menschen gelten koennte. Das heisst zum Beispiel: Luegen ist immer falsch, auch wenn es bequemer waere.\n\nAuch die Menschenrechte basieren auf dieser Idee. Die Wuerde jedes Menschen gilt absolut -- egal ob in Europa, Asien oder Afrika. Kritiker sagen allerdings, dass viele angeblich 'absolute Wahrheiten' frueher einfach nur Vorurteile waren. Und manchmal kann striktes Festhalten an Regeln sogar zu schlimmen Ergebnissen fuehren -- zum Beispiel wenn man nie luegen darf, selbst um ein Leben zu retten.",
+    "kernthesen": [
+      "Es gibt Wahrheiten, die immer und ueberall gelten, egal was einzelne Kulturen dazu sagen.",
+      "Moralische Regeln wie 'Mord ist falsch' gelten universell und sind nicht Verhandlungssache.",
+      "Jeder Mensch hat eine Wuerde, die absolut gilt -- das ist die Basis der Menschenrechte.",
+      "Wir koennen objektiv erkennen, was wahr und was richtig ist.",
+      "Wer behauptet, alles sei relativ, widerspricht sich selbst -- denn das waere ja auch eine absolute Aussage."
+    ],
+    "entstehung": "Die Idee stammt aus der Antike, vor allem von Platon, der an ewige Wahrheiten glaubte. Im Mittelalter wurde sie durch die christliche Philosophie weiterentwickelt, und in der Aufklaerung hat Kant sie auf eine neue Grundlage gestellt.",
+    "kritik": "Kritiker sagen, dass Menschen frueher viele Dinge fuer 'absolut wahr' hielten, die sich als Vorurteile herausstellten. Ausserdem kann striktes Festhalten an absoluten Regeln manchmal unmenschlich sein -- etwa wenn man nie luegen darf, selbst um jemanden zu schuetzen."
+  }
 }

@@ -11,13 +11,43 @@
     "Künstliche Bedürfnisse und gesellschaftliche Konventionen entfremden den Menschen von seiner wahren Natur.",
     "Die Rückkehr zu einfacheren Lebensformen ermöglicht Authentizität und innere Freiheit."
   ],
-  "hauptvertreter": ["jean-jacques-rousseau"],
+  "hauptvertreter": [
+    "jean-jacques-rousseau"
+  ],
   "entstehung": "Der philosophische Primitivismus hat Wurzeln in der antiken Idee des Goldenen Zeitalters und wurde von Rousseau in seinen Diskursen der 1750er Jahre zur einflussreichen Zivilisationskritik ausgebaut. Die Begegnung Europas mit 'primitiven' Kulturen in der Kolonialzeit und die Romantik verstärkten das Interesse an vormodernen Lebensformen.",
   "kritik": "Dem Primitivismus wird vorgeworfen, dass er den Naturzustand romantisch verklärt und die harten Realitäten vorzivilisatorischen Lebens – Gewalt, Krankheit, kurze Lebenserwartung – ausblendet. Zudem ist die Vorstellung eines unberührten, 'reinen' Naturzustands selbst ein Produkt der Zivilisation und eine retrospektive Projektion.",
-  "verwandteIsmen": ["romantizismus", "anarcho-primitivismus"],
+  "verwandteIsmen": [
+    "romantizismus",
+    "anarcho-primitivismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Diskurs über die Ungleichheit", "autor": "Jean-Jacques Rousseau", "jahr": "1755"},
-    {"titel": "Émile oder über die Erziehung", "autor": "Jean-Jacques Rousseau", "jahr": "1762"},
-    {"titel": "Vom Gesellschaftsvertrag", "autor": "Jean-Jacques Rousseau", "jahr": "1762"}
-  ]
+    {
+      "titel": "Diskurs über die Ungleichheit",
+      "autor": "Jean-Jacques Rousseau",
+      "jahr": "1755"
+    },
+    {
+      "titel": "Émile oder über die Erziehung",
+      "autor": "Jean-Jacques Rousseau",
+      "jahr": "1762"
+    },
+    {
+      "titel": "Vom Gesellschaftsvertrag",
+      "autor": "Jean-Jacques Rousseau",
+      "jahr": "1762"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Primitivismus ist die philosophische und kulturelle Stroemung, die eine Rueckkehr zu den Urspruengen menschlichen Lebens fordert.",
+    "ausfuehrlicheBeschreibung": "Der Primitivismus ist eine Denkstroemung, die den vorzivilisatorischen Zustand des Menschen als moralisch und existenziell ueberlegen gegenueber der entwickelten Zivilisation betrachtet. Jean-Jacques Rousseau gilt als der einflussreichste Vertreter dieser Position. In seinem Discours sur l'inégalité argumentiert er, dass der Mensch im Naturzustand frei, unabhaengig und im Wesentlichen gut war, bevor die Entwicklung des Privateigentums, der Arbeitsteilung und der gesellschaftlichen Ungleichheit ihn korrumpierten.\n\nRousseau idealisierte nicht den Naturzustand als Paradies – er wusste, dass eine Rueckkehr dorthin unmoeglich war –, sondern nutzte ihn als kritischen Massstab zur Beurteilung der bestehenden Gesellschaft. Seine Analyse zeigt, wie die Zivilisation neue Formen der Unfreiheit schafft: Den Menschen an kuenstliche Beduerfnisse kettet, seine natuerliche Empathie durch Konkurrenzdenken ersetzt und soziale Ungleichheit als natuerlich ausgibt. Der 'edle Wilde' ist bei Rousseau weniger eine historische Figur als ein philosophisches Gedankenexperiment.\n\nDer Primitivismus hat die Kulturkritik der Moderne nachhaltig beeinflusst. In der Kunst des 20. Jahrhunderts inspirierten 'primitive' Kunstformen die Avantgarde, von Gauguin ueber Picasso bis zu den Expressionisten. In der Gegenwart findet sich der primitivistische Impuls in der Oekobewegung, im Anarcho-Primitivismus und in der Kritik an der digitalen Entfremdung. Die Sehnsucht nach einem einfacheren, authentischeren Leben bleibt ein maechtiger kultureller Impuls.",
+    "kernthesen": [
+      "Der Mensch im Naturzustand war frei, unabhaengig und im Wesentlichen gut.",
+      "Die Zivilisation hat den Menschen korrumpiert, anstatt ihn zu verbessern.",
+      "Privateigentum und soziale Ungleichheit sind die Hauptquellen menschlichen Elends.",
+      "Kuenstliche Beduerfnisse und gesellschaftliche Konventionen entfremden den Menschen von seiner wahren Natur.",
+      "Die Rueckkehr zu einfacheren Lebensformen ermoeglicht Authentizitaet und innere Freiheit."
+    ],
+    "entstehung": "Der philosophische Primitivismus hat Wurzeln in der antiken Idee des Goldenen Zeitalters und wurde von Rousseau in seinen Diskursen der 1750er Jahre zur einflussreichen Zivilisationskritik ausgebaut. Die Begegnung Europas mit 'primitiven' Kulturen in der Kolonialzeit und die Romantik verstaerkten das Interesse an vormodernen Lebensformen.",
+    "kritik": "Dem Primitivismus wird vorgeworfen, dass er den Naturzustand romantisch verklaert und die harten Realitaeten vorzivilisatorischen Lebens – Gewalt, Krankheit, kurze Lebenserwartung – ausblendet. Zudem ist die Vorstellung eines unberuehrten, 'reinen' Naturzustands selbst ein Produkt der Zivilisation und eine retrospektive Projektion."
+  }
 }

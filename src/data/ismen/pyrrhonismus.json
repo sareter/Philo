@@ -11,13 +11,43 @@
     "Jede Begründung mündet in einen Regress, einen Zirkel oder eine unbegründete Voraussetzung.",
     "Im praktischen Leben orientiert sich der Skeptiker an Erscheinungen und Gewohnheiten, ohne Wahrheitsansprüche zu erheben."
   ],
-  "hauptvertreter": ["sokrates"],
+  "hauptvertreter": [
+    "sokrates"
+  ],
   "entstehung": "Der Pyrrhonismus geht auf Pyrrhon von Elis im 4. Jahrhundert v. Chr. zurück und wurde durch Aenesidemus im 1. Jahrhundert v. Chr. erneuert. Sextus Empiricus lieferte im 2. Jahrhundert n. Chr. die umfassendste Darstellung in seinen Grundzügen der pyrrhonischen Skepsis.",
   "kritik": "Kritiker werfen dem Pyrrhonismus vor, dass konsequente Urteilsenthaltung praktisch unmöglich ist und zu Handlungsunfähigkeit führt. Zudem wird eingewandt, dass die These, es gebe keine Wahrheit, sich selbst widerspricht, und dass die pyrrhonische Skepsis selbst auf Argumenten beruht, die Geltungsansprüche erheben.",
-  "verwandteIsmen": ["skeptizismus", "agnostizismus"],
+  "verwandteIsmen": [
+    "skeptizismus",
+    "agnostizismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Grundzüge der pyrrhonischen Skepsis", "autor": "Sextus Empiricus", "jahr": "200"},
-    {"titel": "Gegen die Dogmatiker", "autor": "Sextus Empiricus", "jahr": "200"},
-    {"titel": "Essais", "autor": "Michel de Montaigne", "jahr": "1580"}
-  ]
+    {
+      "titel": "Grundzüge der pyrrhonischen Skepsis",
+      "autor": "Sextus Empiricus",
+      "jahr": "200"
+    },
+    {
+      "titel": "Gegen die Dogmatiker",
+      "autor": "Sextus Empiricus",
+      "jahr": "200"
+    },
+    {
+      "titel": "Essais",
+      "autor": "Michel de Montaigne",
+      "jahr": "1580"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Pyrrhonismus ist eine radikale Form des Skeptizismus, die jedes endgueltige Urteil ueber die Natur der Dinge aussetzt.",
+    "ausfuehrlicheBeschreibung": "Der Pyrrhonismus geht auf Pyrrhon von Elis (ca. 360–270 v. Chr.) zurueck und wurde spaeter von Sextus Empiricus systematisch dargestellt. Die Grundeinsicht des Pyrrhonismus lautet, dass zu jeder Behauptung eine gleich starke Gegenbehauptung aufgestellt werden kann. Da wir keinen Massstab besitzen, der eine Behauptung definitiv als wahr auszeichnen koennte, bleibt uns nur die Urteilsenthaltung (Epoché).\n\nAnders als der akademische Skeptizismus, der behauptete, dass Wissen unmoeglich sei, enthielt sich der Pyrrhonismus auch dieser Behauptung. Die pyrrhonische Skepsis richtet sich gegen alle Dogmen – auch gegen das Dogma der Unwissbarkeit. Sextus Empiricus entwickelte die sogenannten Tropen, systematische Argumentationsfiguren, die zeigen, dass jede Begruendung entweder in einen unendlichen Regress, einen logischen Zirkel oder eine unbegruendete Setzung muendet.\n\nParadoxerweise fuehrt die konsequente Urteilsenthaltung nach pyrrhonischer Lehre nicht zur Verzweiflung, sondern zur Seelenruhe (Ataraxia). Wer keine dogmatischen Ueberzeugungen hat, kann auch nicht durch deren Infragestellung beunruhigt werden. Der Pyrrhonist orientiert sich im praktischen Leben an Erscheinungen, Gewohnheiten und Gesetzen, ohne diesen theoretischen Wahrheitsanspruch beizumessen. In der Neuzeit beeinflusste der Pyrrhonismus Montaigne, Descartes und Hume nachhaltig.",
+    "kernthesen": [
+      "Zu jeder Behauptung kann eine gleich starke Gegenbehauptung aufgestellt werden (Isosthenie).",
+      "Die angemessene Haltung gegenueber allen theoretischen Fragen ist die Urteilsenthaltung (Epoché).",
+      "Urteilsenthaltung fuehrt zur Seelenruhe (Ataraxia), nicht zur Verzweiflung.",
+      "Jede Begruendung muendet in einen Regress, einen Zirkel oder eine unbegruendete Voraussetzung.",
+      "Im praktischen Leben orientiert sich der Skeptiker an Erscheinungen und Gewohnheiten, ohne Wahrheitsansprueche zu erheben."
+    ],
+    "entstehung": "Der Pyrrhonismus geht auf Pyrrhon von Elis im 4. Jahrhundert v. Chr. zurueck und wurde durch Aenesidemus im 1. Jahrhundert v. Chr. erneuert. Sextus Empiricus lieferte im 2. Jahrhundert n. Chr. die umfassendste Darstellung in seinen Grundzuegen der pyrrhonischen Skepsis.",
+    "kritik": "Kritiker werfen dem Pyrrhonismus vor, dass konsequente Urteilsenthaltung praktisch unmoeglich ist und zu Handlungsunfaehigkeit fuehrt. Zudem wird eingewandt, dass die These, es gebe keine Wahrheit, sich selbst widerspricht, und dass die pyrrhonische Skepsis selbst auf Argumenten beruht, die Geltungsansprueche erheben."
+  }
 }

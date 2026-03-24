@@ -19,5 +19,18 @@
     {"titel": "Der Begriff Angst", "autor": "Søren Kierkegaard", "jahr": "1844"},
     {"titel": "Sein und Zeit", "autor": "Martin Heidegger", "jahr": "1927"},
     {"titel": "Was ist Metaphysik?", "autor": "Martin Heidegger", "jahr": "1929"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Angstphilosophie sagt: Angst ist nicht nur ein schlechtes Gefuehl, sondern ein Schluessel zum Verstaendnis unserer Existenz. Sie zeigt uns, wer wir wirklich sind.",
+    "ausfuehrlicheBeschreibung": "Es gibt einen Unterschied zwischen Furcht und Angst. Furcht hat immer einen konkreten Grund: Du hast Angst vor einer Pruefung, vor einer Spinne, vor dem Zahnarzt. Existenzielle Angst ist anders. Sie hat keinen bestimmten Grund. Sie ueberkommt dich einfach -- ein Gefuehl, dass alles irgendwie grundlos ist, dass nichts sicher ist, dass du allein Verantwortung fuer dein Leben traegst.\n\nKierkegaard nannte das den 'Schwindel der Freiheit'. Wenn du merkst, dass du wirklich frei bist -- dass niemand dir sagt, was du mit deinem Leben anfangen sollst -- dann kann das beaengstigend sein. Heidegger ging noch weiter und sagte: In der Angst erfahren wir das Nichts. Das klingt dramatisch, meint aber: In solchen Momenten fallen alle Ablenkungen weg, und wir stehen nackt vor der Tatsache unserer Existenz.\n\nDas Spannende an der Angstphilosophie: Sie sagt nicht, dass Angst etwas Schlechtes ist. Im Gegenteil -- Angst kann ein Weckruf sein. Die meisten Menschen fluechten vor der Angst in Ablenkung: Social Media, Konsum, staendiges Beschaeftigtsein. Aber wer die Angst aushaelt, gewinnt eine tiefere Einsicht in sich selbst und das Leben.",
+    "kernthesen": [
+      "Existenzielle Angst hat keinen bestimmten Grund -- sie bezieht sich auf das Dasein als Ganzes.",
+      "Angst ist der Schwindel, den man spuert, wenn man seine eigene Freiheit erkennt.",
+      "In der Angst faellt alle Ablenkung weg und wir sehen, wer wir wirklich sind.",
+      "Die meisten Menschen fluechten vor der Angst in Ablenkung und oberflaechliches Leben.",
+      "Angst ist keine Schwaeche, sondern kann ein Weg zu tieferer Selbsterkenntnis sein."
+    ],
+    "entstehung": "Kierkegaard schrieb 1844 als Erster ueber Angst als philosophisches Thema. Heidegger vertiefte die Idee 1927 in 'Sein und Zeit'. Die Kriege und Krisen des 20. Jahrhunderts gaben dem Thema zusaetzliche Dringlichkeit.",
+    "kritik": "Kritiker sagen: Die Angstphilosophie romantisiert einen Zustand, der fuer viele Menschen einfach quaelend ist. Angst kann laehmen statt befreien. Ausserdem ist fraglich, ob Angst wirklich einen besonderen Zugang zur Wahrheit eroeffnet oder eher das klare Denken truept."
+  }
 }

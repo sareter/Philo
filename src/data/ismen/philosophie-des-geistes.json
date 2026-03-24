@@ -11,14 +11,52 @@
     "Der subjektive Charakter bewusster Erfahrung (Qualia) ist durch objektive Beschreibungen nicht vollständig erfassbar",
     "Die Frage, ob künstliche Intelligenz echtes Bewusstsein haben kann, hängt von der Lösung des Leib-Seele-Problems ab"
   ],
-  "hauptvertreter": ["rene-descartes", "ludwig-wittgenstein", "martin-heidegger"],
+  "hauptvertreter": [
+    "rene-descartes",
+    "ludwig-wittgenstein",
+    "martin-heidegger"
+  ],
   "entstehung": "Die Philosophie des Geistes hat ihre Wurzeln in Descartes' Substanzdualismus (17. Jh.). Im 20. Jahrhundert entwickelte sich das Feld durch den Behaviorismus (Ryle, 1949), die Identitätstheorie (Smart, Place, 1950er), den Funktionalismus (Putnam, Fodor, 1960er) und den eliminativen Materialismus (Churchlands, 1980er). David Chalmers formulierte 1995 das 'Hard Problem'. Die Fortschritte der Neurowissenschaften, der künstlichen Intelligenz und der Kognitionswissenschaft haben der Philosophie des Geistes neue Impulse gegeben. Die Embodied-Cognition-Bewegung stellt seit den 1990er Jahren die computationalistische Orthodoxie infrage.",
   "kritik": "Der Dualismus wird kritisiert, weil er die Interaktion zwischen Geist und Körper nicht erklären kann. Der Physikalismus wird kritisiert, weil er die subjektive Qualität bewusster Erfahrung nicht angemessen erfasst. Der Funktionalismus scheitert möglicherweise am Problem der abwesenden Qualia. Der eliminative Materialismus wird als selbstwidersprüchlich kritisiert, da er Überzeugungen eliminieren will, seine eigene Formulierung aber auf Überzeugungen beruht. Die gesamte analytische Philosophie des Geistes wird von Phänomenologen als zu stark vom cartesianischen Rahmen geprägt kritisiert – sie setzt die Trennung von Subjekt und Objekt voraus, die selbst das Problem erzeugt.",
-  "verwandteIsmen": ["funktionalismus", "behaviorismus", "kognitivismus", "cartesianismus"],
+  "verwandteIsmen": [
+    "funktionalismus",
+    "behaviorismus",
+    "kognitivismus",
+    "cartesianismus"
+  ],
   "schluesselwerke": [
-    { "titel": "The Concept of Mind", "autor": "Gilbert Ryle", "jahr": "1949" },
-    { "titel": "What Is It Like to Be a Bat?", "autor": "Thomas Nagel", "jahr": "1974" },
-    { "titel": "The Conscious Mind", "autor": "David Chalmers", "jahr": "1996" },
-    { "titel": "Consciousness Explained", "autor": "Daniel Dennett", "jahr": "1991" }
-  ]
+    {
+      "titel": "The Concept of Mind",
+      "autor": "Gilbert Ryle",
+      "jahr": "1949"
+    },
+    {
+      "titel": "What Is It Like to Be a Bat?",
+      "autor": "Thomas Nagel",
+      "jahr": "1974"
+    },
+    {
+      "titel": "The Conscious Mind",
+      "autor": "David Chalmers",
+      "jahr": "1996"
+    },
+    {
+      "titel": "Consciousness Explained",
+      "autor": "Daniel Dennett",
+      "jahr": "1991"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Philosophie des Geistes untersucht die Natur des Bewusstseins, mentaler Zustaende und ihres Verhaeltnisses zum physischen Koerper.",
+    "ausfuehrlicheBeschreibung": "Die Philosophie des Geistes (Philosophy of Mind) hat sich im 20. und 21. Jahrhundert zu einem der lebendigsten und interdisziplinaersten Bereiche der Philosophie entwickelt. Ihre zentrale Frage – das Leib-Seele-Problem – betrifft das Verhaeltnis zwischen mentalen Zustaenden (Gedanken, Gefuehle, Wahrnehmungen) und physischen Zustaenden (Gehirnprozesse).\n\nDer Dualismus, begruendet durch Descartes, behauptet eine fundamentale Verschiedenheit von Geist und Koerper. Der Substanzdualismus (Geist und Koerper sind verschiedene Substanzen) wurde weitgehend aufgegeben, aber der Eigenschaftsdualismus (mentale Eigenschaften sind nicht auf physische reduzierbar) wird von David Chalmers und anderen verteidigt. Chalmers formulierte das 'Hard Problem of Consciousness' – die Frage, warum physische Prozesse ueberhaupt von subjektivem Erleben begleitet werden. Zombies (Wesen, die physisch identisch mit uns sind, aber kein Bewusstsein haben) scheinen logisch moeglich, was nahelegt, dass Bewusstsein nicht durch physische Beschreibungen erschoepft wird.\n\nDer Materialismus/Physikalismus behauptet dagegen, dass mentale Zustaende identisch mit oder supervenient auf physischen Zustaenden sind. Die Typ-Identitaetstheorie (J.J.C. Smart, U.T. Place) identifiziert mentale Typen mit Gehirnzustand-Typen. Der Funktionalismus (Putnam, Fodor) definiert mentale Zustaende durch ihre funktionale Rolle, nicht ihre physische Realisierung.",
+    "kernthesen": [
+      "Das Leib-Seele-Problem – das Verhaeltnis zwischen Bewusstsein und Gehirn – ist das zentrale Problem der Philosophie des Geistes",
+      "Das 'Hard Problem of Consciousness' fragt, warum physische Prozesse ueberhaupt von subjektivem Erleben begleitet werden",
+      "Intentionalitaet – die Gerichtetheit mentaler Zustaende auf Gegenstaende – ist ein Kennzeichen des Mentalen",
+      "Der subjektive Charakter bewusster Erfahrung (Qualia) ist durch objektive Beschreibungen nicht vollstaendig erfassbar",
+      "Die Frage, ob kuenstliche Intelligenz echtes Bewusstsein haben kann, haengt von der Loesung des Leib-Seele-Problems ab"
+    ],
+    "entstehung": "Die Philosophie des Geistes hat ihre Wurzeln in Descartes' Substanzdualismus (17. Jh.). Im 20. Jahrhundert entwickelte sich das Feld durch den Behaviorismus (Ryle, 1949), die Identitaetstheorie (Smart, Place, 1950er), den Funktionalismus (Putnam, Fodor, 1960er) und den eliminativen Materialismus (Churchlands, 1980er). David Chalmers formulierte 1995 das 'Hard Problem'. Die Fortschritte der Neurowissenschaften, der kuenstlichen Intelligenz und der Kognitionswissenschaft haben der Philosophie des Geistes neue Impulse gegeben.",
+    "kritik": "Der Dualismus wird kritisiert, weil er die Interaktion zwischen Geist und Koerper nicht erklaeren kann. Der Physikalismus wird kritisiert, weil er die subjektive Qualitaet bewusster Erfahrung nicht angemessen erfasst. Der Funktionalismus scheitert moeglicherweise am Problem der abwesenden Qualia. Der eliminative Materialismus wird als selbstwiderspruechlich kritisiert, da er Ueberzeugungen eliminieren will, seine eigene Formulierung aber auf Ueberzeugungen beruht."
+  }
 }

@@ -11,14 +11,51 @@
     "Die motivationale Kraft moralischer Urteile wird durch ihre expressivistische Natur erklärt",
     "Das Frege-Geach-Problem stellt die zentrale Herausforderung für den Expressivismus dar"
   ],
-  "hauptvertreter": ["david-hume", "ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "david-hume",
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Der Expressivismus entwickelte sich aus dem Emotivismus der 1930er und 1940er Jahre (A.J. Ayer, Charles Stevenson), der moralische Aussagen auf Gefühlsäußerungen reduzierte. R.M. Hare's Präskriptivismus (1952) stellte eine Zwischenstation dar. Simon Blackburn entwickelte ab den 1980er Jahren den Quasi-Realismus als raffinierte Form des Expressivismus. Allan Gibbard formulierte in den 1990er und 2000er Jahren eigenständige expressivistische Theorien. Der Expressivismus hat sich zu einer der dominierenden Positionen in der zeitgenössischen Metaethik entwickelt.",
   "kritik": "Das Frege-Geach-Problem bleibt die zentrale Herausforderung: Wenn moralische Sätze keine Aussagen sind, wie können sie in logischen Schlussfolgerungen und Konditionalen funktionieren? Kognitivisten argumentieren, dass der Quasi-Realismus die expressivistische Grundposition untergräbt – wenn man am Ende doch von moralischer Wahrheit und moralischem Wissen sprechen kann, hat man den Expressivismus de facto aufgegeben. Die Unterscheidung zwischen dem Ausdruck einer Einstellung und der Behauptung, eine Einstellung zu haben, ist schwieriger als der Expressivismus annimmt. Russ Shafer-Landau und andere moralische Realisten argumentieren, dass die phänomenologische Erfahrung moralischer Objektivität gegen den Expressivismus spricht.",
-  "verwandteIsmen": ["emotivismus", "metaethik", "anti-realismus", "subjektivismus"],
+  "verwandteIsmen": [
+    "emotivismus",
+    "metaethik",
+    "anti-realismus",
+    "subjektivismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Spreading the Word", "autor": "Simon Blackburn", "jahr": "1984" },
-    { "titel": "Wise Choices, Apt Feelings", "autor": "Allan Gibbard", "jahr": "1990" },
-    { "titel": "Ruling Passions", "autor": "Simon Blackburn", "jahr": "1998" },
-    { "titel": "Thinking How to Live", "autor": "Allan Gibbard", "jahr": "2003" }
-  ]
+    {
+      "titel": "Spreading the Word",
+      "autor": "Simon Blackburn",
+      "jahr": "1984"
+    },
+    {
+      "titel": "Wise Choices, Apt Feelings",
+      "autor": "Allan Gibbard",
+      "jahr": "1990"
+    },
+    {
+      "titel": "Ruling Passions",
+      "autor": "Simon Blackburn",
+      "jahr": "1998"
+    },
+    {
+      "titel": "Thinking How to Live",
+      "autor": "Allan Gibbard",
+      "jahr": "2003"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Expressivismus ist eine metaethische Position, die moralische Aussagen nicht als Beschreibungen von Tatsachen, sondern als Ausdruck von Einstellungen, Haltungen oder praktischen Commitments versteht.",
+    "ausfuehrlicheBeschreibung": "Der Expressivismus stellt eine der einflussreichsten Positionen in der zeitgenoessischen Metaethik dar. Seine Grundthese besagt, dass moralische Aussagen wie 'Folter ist falsch' oder 'Gerechtigkeit ist eine Tugend' keine Tatsachenbehauptungen sind, die wahr oder falsch sein koennen, sondern Ausdrucksformen bestimmter mentaler Einstellungen – Zustimmung, Ablehnung, Empoerung, Billigung oder Commitment.\n\nDer Expressivismus entwickelte sich aus dem Emotivismus (A.J. Ayer, Charles Stevenson), ueberwand aber dessen Schwaechen durch eine differenziertere Analyse moralischer Sprache. Waehrend der Emotivismus moralische Aussagen auf blosse Gefuehlsaeusserungen reduzierte ('Buh!' fuer Missbilligung, 'Hurra!' fuer Billigung), bieten moderne expressivistische Theorien eine komplexere Analyse.\n\nSimon Blackburn entwickelte den 'Quasi-Realismus', die einflussreichste Form des zeitgenoessischen Expressivismus. Blackburn argumentiert, dass expressivistische Grundlagen mit einem realistisch anmutenden moralischen Diskurs vereinbar sind. Obwohl moralische Aussagen Einstellungen ausdruecken und keine Tatsachen beschreiben, koennen wir dennoch sinnvoll von moralischer Wahrheit, moralischem Wissen und moralischem Irrtum sprechen – allerdings in einem expressivistisch interpretierten Sinn. Moralische 'Wahrheit' bedeutet dann, dass eine Einstellung sich als stabil, kohaerent und reflektiert erweist.",
+    "kernthesen": [
+      "Moralische Aussagen druecken Einstellungen und Haltungen aus, keine Tatsachen ueber die Welt",
+      "Moralische Aussagen sind nicht wahrheitsfaehig im klassischen Sinne der Korrespondenz",
+      "Quasi-Realismus ermoeglicht es, trotz expressivistischer Grundlagen von moralischer Wahrheit zu sprechen",
+      "Die motivationale Kraft moralischer Urteile wird durch ihre expressivistische Natur erklaert",
+      "Das Frege-Geach-Problem stellt die zentrale Herausforderung fuer den Expressivismus dar"
+    ],
+    "entstehung": "Der Expressivismus entwickelte sich aus dem Emotivismus der 1930er und 1940er Jahre (A.J. Ayer, Charles Stevenson), der moralische Aussagen auf Gefuehlsaeusserungen reduzierte. R.M. Hare's Praeskriptivismus (1952) stellte eine Zwischenstation dar. Simon Blackburn entwickelte ab den 1980er Jahren den Quasi-Realismus als raffinierte Form des Expressivismus. Allan Gibbard formulierte in den 1990er und 2000er Jahren eigenstaendige expressivistische Theorien. Der Expressivismus hat sich zu einer der dominierenden Positionen in der zeitgenoessischen Metaethik entwickelt.",
+    "kritik": "Das Frege-Geach-Problem bleibt die zentrale Herausforderung: Wenn moralische Saetze keine Aussagen sind, wie koennen sie in logischen Schlussfolgerungen und Konditionalen funktionieren? Kognitivisten argumentieren, dass der Quasi-Realismus die expressivistische Grundposition untergraebt – wenn man am Ende doch von moralischer Wahrheit und moralischem Wissen sprechen kann, hat man den Expressivismus de facto aufgegeben."
+  }
 }

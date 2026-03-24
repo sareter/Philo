@@ -19,5 +19,18 @@
     {"titel": "Bantu-Philosophie", "autor": "Placide Tempels", "jahr": "1945"},
     {"titel": "African Philosophy: Myth and Reality", "autor": "Paulin Hountondji", "jahr": "1976"},
     {"titel": "No Past, No Present, No Future", "autor": "Kwame Gyekye", "jahr": "1997"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Afrikanische Philosophie umfasst verschiedene Denktraditionen aus Afrika. Der wichtigste Grundsatz ist Ubuntu: 'Ich bin, weil wir sind' -- also die Idee, dass Gemeinschaft uns erst zu Menschen macht.",
+    "ausfuehrlicheBeschreibung": "In der westlichen Philosophie dreht sich vieles um das Individuum: Ich denke, also bin ich. Die afrikanische Philosophie setzt den Schwerpunkt anders. Ihr zentraler Gedanke heisst Ubuntu und bedeutet ungefaehr: Ein Mensch wird erst durch andere Menschen wirklich menschlich. Du bist nicht zuerst ein Einzelner, der sich dann einer Gruppe anschliesst -- du bist von Anfang an Teil einer Gemeinschaft, und das macht dich aus.\n\nDas ist keine altmodische Idee, sondern hat ganz praktische Folgen. In Suedafrika hat die Ubuntu-Philosophie zum Beispiel die Wahrheits- und Versoehnungskommission nach der Apartheid inspiriert. Statt Rache und Bestrafung setzte man auf Versoehnung und gemeinsames Aufarbeiten. Die Idee: Wenn wir alle miteinander verbunden sind, dann heilt Vergebung nicht nur das Opfer, sondern die ganze Gemeinschaft.\n\nAfrika ist natuerlich ein riesiger Kontinent mit vielen verschiedenen Kulturen und Denkweisen. Es gibt nicht 'die eine' afrikanische Philosophie. Aber die Betonung von Gemeinschaft, Dialog und Versoehnung zieht sich durch viele Traditionen und bietet eine wichtige Alternative zum westlichen Individualismus.",
+    "kernthesen": [
+      "Ein Mensch wird erst durch die Gemeinschaft mit anderen wirklich menschlich (Ubuntu).",
+      "Die Gemeinschaft ist wichtiger als der Einzelne -- wir sind alle miteinander verbunden.",
+      "Afrika hat eigene philosophische Traditionen, die mehr sind als nur westliche Kopien.",
+      "Dialog und gegenseitiges Verstaendnis sind die Basis fuer ein gutes Zusammenleben.",
+      "Versoehnung ist wichtiger als Bestrafung -- weil Heilung alle betrifft."
+    ],
+    "entstehung": "Als akademisches Fach entstand die afrikanische Philosophie Mitte des 20. Jahrhunderts, als viele afrikanische Laender unabhaengig wurden. Man wollte zeigen, dass Afrika eigene Denktraditionen hat, die ernst genommen werden muessen. Die Wurzeln dieser Traditionen sind aber viel aelter.",
+    "kritik": "Manche Kritiker sagen, dass die afrikanische Philosophie zu romantisch dargestellt wird -- als ob alle Afrikaner gleich denken wuerden. Das wird der riesigen Vielfalt des Kontinents nicht gerecht. Andere fragen, ob das Betonen von Gemeinschaft nicht die Freiheit des Einzelnen einschraenkt."
+  }
 }

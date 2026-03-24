@@ -19,5 +19,18 @@
     {"titel": "Eine Abhandlung über die Prinzipien der menschlichen Erkenntnis", "autor": "George Berkeley", "jahr": "1710"},
     {"titel": "Ein Traktat über die menschliche Natur", "autor": "David Hume", "jahr": "1739"},
     {"titel": "Der logische Aufbau der Welt", "autor": "Rudolf Carnap", "jahr": "1928"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Phaenomenalismus sagt: Wir koennen nur das erkennen, was wir wahrnehmen. Was hinter unseren Sinneseindrucken steckt, koennen wir nicht wissen. Ein Tisch ist fuer uns nichts anderes als eine Sammlung von Farben, Formen und Tastempfindungen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du siehst einen Tisch. Du siehst eine bestimmte Farbe, eine Form, du kannst ihn anfassen und eine Oberflaeche spueren. Der Phaenomenalismus sagt: Der Tisch ist nichts anderes als genau diese Sinneseindrucke. Die Annahme, dass es 'da draussen' einen echten Tisch aus fester Materie gibt, der unabhaengig von deiner Wahrnehmung existiert, ist eine Vermutung, die du nicht beweisen kannst.\n\nBerkeley brachte die Idee auf den Punkt: 'Sein heisst wahrgenommen werden.' Wenn niemand einen Baum sieht, hoert oder beruehrt, gibt es keinen Grund anzunehmen, dass er existiert. Hume ging noch weiter und sagte: Selbst das Ich ist nur ein Buendel von Wahrnehmungen. Es gibt keine feste Substanz hinter dem, was wir erleben.\n\nIm 20. Jahrhundert versuchten Philosophen wie Carnap, alle wissenschaftlichen Begriffe aus einfachen Sinneswahrnehmungen aufzubauen. Das scheiterte letztlich, weil die moeglichen Sinneseindrucke eines Gegenstands unerschoepflich sind. Heute gilt der strenge Phaenomenalismus als widerlegt, aber die Grundfrage bleibt spannend: Was koennen wir wirklich ueber die Welt wissen, die jenseits unserer Sinneseindrucke liegt?",
+    "kernthesen": [
+      "Wir koennen nur das erkennen, was uns in der Erfahrung erscheint, nicht die Wirklichkeit dahinter.",
+      "Dinge sind Buendel von Sinneseindrucken, nicht mehr.",
+      "Die Annahme einer materiellen Welt hinter den Erscheinungen ist unbewiesene Spekulation.",
+      "Aussagen ueber die Welt lassen sich vollstaendig in Aussagen ueber Sinneserfahrungen uebersetzen.",
+      "Sein heisst wahrgenommen werden: Ohne Wahrnehmung gibt es fuer uns keine Existenz."
+    ],
+    "entstehung": "Der Phaenomenalismus entstand im 18. Jahrhundert aus dem britischen Empirismus. Berkeley und Hume legten die Grundlagen. Im 20. Jahrhundert griff der logische Positivismus diese Ideen wieder auf.",
+    "kritik": "Das groesste Problem: Wenn nur existiert, was wahrgenommen wird, wie erklaert man dann, dass die Welt auch weiterbesteht, wenn keiner hinschaut? Der Phaenomenalismus droht in einen Solipsismus zu muenden, in dem nur die eigene Wahrnehmung wirklich ist. Ausserdem scheitert der Versuch, alle Aussagen ueber Dinge in Aussagen ueber Sinneseindrucke zu uebersetzen."
+  }
 }

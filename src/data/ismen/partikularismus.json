@@ -20,5 +20,18 @@
     { "titel": "Spheres of Justice", "autor": "Michael Walzer", "jahr": "1983" },
     { "titel": "Ethics Without Principles", "autor": "Jonathan Dancy", "jahr": "2004" },
     { "titel": "Sources of the Self", "autor": "Charles Taylor", "jahr": "1989" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Partikularismus sagt: Was moralisch richtig oder falsch ist, haengt vom Kontext ab. Es gibt keine universalen Regeln, die ueberall und fuer alle gelten. Kultur, Gemeinschaft und die konkrete Situation bestimmen, was zaehlt.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand sagt: 'Es gibt moralische Regeln, die fuer alle Menschen auf der ganzen Welt gelten.' Der Partikularismus widerspricht: Moral ist immer an eine bestimmte Kultur, Gemeinschaft oder Situation gebunden. Was in einer Gesellschaft als richtig gilt, kann in einer anderen ganz anders bewertet werden. Und das ist nicht einfach ein Fehler, sondern liegt in der Natur der Moral.\n\nDie sogenannten Kommunitaristen haben das in den 1980er Jahren stark gemacht. Sie sagten: Der Mensch ist kein abstraktes Einzelwesen, das losgeloest von allem entscheidet. Wir sind immer Teil einer Gemeinschaft, einer Tradition, einer Kultur, und die praegt, wer wir sind und was wir fuer richtig halten. MacIntyre zeigte, dass Begriffe wie 'Tugend' und 'Gerechtigkeit' nur innerhalb bestimmter Traditionen Sinn ergeben.\n\nDer ethische Partikularist Jonathan Dancy geht noch weiter: Ein und derselbe Umstand kann in einer Situation ein Grund fuer und in einer anderen ein Grund gegen eine Handlung sein. Es gibt keine festen moralischen Regeln. Stattdessen braucht man ein gutes Gespuer fuer die jeweilige Situation. Kritiker sagen allerdings: Wenn alles kontextabhaengig ist, wie kann man dann Unrecht wie Sklaverei oder Voelkermord verurteilen?",
+    "kernthesen": [
+      "Was moralisch richtig ist, haengt immer vom Kontext, der Kultur und der Gemeinschaft ab.",
+      "Es gibt keine universalen moralischen Regeln, die ueberall gelten.",
+      "Wir sind immer Teil einer Gemeinschaft und Tradition, die unsere Moral praegt.",
+      "Abstrakte Prinzipien reichen nicht aus, um in konkreten Situationen die richtige Entscheidung zu treffen.",
+      "Kulturelle Unterschiede in moralischen Vorstellungen verdienen Respekt statt Gleichmacherei."
+    ],
+    "entstehung": "Der moderne Partikularismus entstand in den 1980er Jahren als Gegenreaktion auf die universalistische politische Philosophie, vor allem auf John Rawls. Denker wie MacIntyre, Sandel, Taylor und Walzer argumentierten, dass Moral immer in konkreten Gemeinschaften verwurzelt ist. Jonathan Dancy arbeitete den ethischen Partikularismus in den 1990er Jahren weiter aus.",
+    "kritik": "Die groesste Schwaeche: Wenn Moral nur innerhalb einer Kultur gilt, wie kann man dann offensichtliches Unrecht wie Sklaverei oder Genozid verurteilen? Ausserdem untegraebt der Partikularismus die Grundlage fuer Verstaendigung ueber kulturelle Grenzen hinweg, die in unserer globalisierten Welt wichtig ist."
+  }
 }

@@ -11,14 +11,51 @@
     "Die naturwissenschaftliche Methode ist auf alle Bereiche menschlichen Wissens anwendbar",
     "Alle echten Fragen können prinzipiell durch die Wissenschaft beantwortet werden"
   ],
-  "hauptvertreter": ["bertrand-russell", "karl-popper"],
+  "hauptvertreter": [
+    "bertrand-russell",
+    "karl-popper"
+  ],
   "entstehung": "Der Szientismus hat seine Wurzeln im Positivismus des 19. Jahrhunderts, insbesondere bei Auguste Comte und John Stuart Mill. Der Wiener Kreis (gegründet 1924) radikalisierte die szientistische Position mit dem logischen Positivismus und dem Verifikationsprinzip. Nach dem Zweiten Weltkrieg verbreitete sich der Szientismus im englischsprachigen Raum besonders durch die Erfolge der Naturwissenschaften und der Technologie. In jüngerer Zeit haben die Fortschritte der Neurowissenschaften, Evolutionsbiologie und kognitiven Wissenschaften den Szientismus neu belebt.",
   "kritik": "Der gravierendste Einwand gegen den Szientismus ist der Selbstwiderspruch: Die These, dass nur naturwissenschaftliche Aussagen wahr sein können, ist selbst keine naturwissenschaftliche Aussage und wäre nach ihren eigenen Kriterien sinnlos. Edmund Husserl kritisierte in der 'Krisis der europäischen Wissenschaften' die szientistische Reduktion als Verarmung der Lebenswelt. Martin Heidegger sah im Szientismus ein Symptom der technischen Seinsvergessenheit. Jürgen Habermas unterschied verschiedene Erkenntnisinteressen und wies die Verabsolutierung des technischen Erkenntnisinteresses zurück. Thomas Kuhn zeigte, dass auch die Wissenschaft von sozialen und historischen Faktoren geprägt wird. Die Geisteswissenschaften und die Philosophie haben eigenständige Methoden und Einsichten, die sich nicht auf naturwissenschaftliche Erklärungen reduzieren lassen.",
-  "verwandteIsmen": ["analytische-philosophie", "behaviorismus", "funktionalismus", "anti-realismus"],
+  "verwandteIsmen": [
+    "analytische-philosophie",
+    "behaviorismus",
+    "funktionalismus",
+    "anti-realismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Cours de philosophie positive", "autor": "Auguste Comte", "jahr": "1842" },
-    { "titel": "Der logische Aufbau der Welt", "autor": "Rudolf Carnap", "jahr": "1928" },
-    { "titel": "Consilience: The Unity of Knowledge", "autor": "Edward O. Wilson", "jahr": "1998" },
-    { "titel": "The Atheist's Guide to Reality", "autor": "Alex Rosenberg", "jahr": "2011" }
-  ]
+    {
+      "titel": "Cours de philosophie positive",
+      "autor": "Auguste Comte",
+      "jahr": "1842"
+    },
+    {
+      "titel": "Der logische Aufbau der Welt",
+      "autor": "Rudolf Carnap",
+      "jahr": "1928"
+    },
+    {
+      "titel": "Consilience: The Unity of Knowledge",
+      "autor": "Edward O. Wilson",
+      "jahr": "1998"
+    },
+    {
+      "titel": "The Atheist's Guide to Reality",
+      "autor": "Alex Rosenberg",
+      "jahr": "2011"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Szientismus ist die Auffassung, dass die Naturwissenschaften die einzige oder zumindest die ueberlegene Form der Erkenntnis darstellen und dass ihre Methoden auf alle Bereiche menschlichen Wissens anwendbar sind.",
+    "ausfuehrlicheBeschreibung": "Der Szientismus (auch Scientismus) bezeichnet die philosophische Position, dass die naturwissenschaftliche Methode das alleinige oder zumindest privilegierte Mittel zur Gewinnung zuverlaessigen Wissens darstellt. In seiner starken Form behauptet der Szientismus, dass nur naturwissenschaftlich ueberpruefbare Aussagen sinnvoll und wahr sein koennen; in seiner schwachen Form raeumt er den Naturwissenschaften lediglich eine Vorrangstellung gegenueber anderen Wissensformen ein.\n\nDie Wurzeln des Szientismus liegen im Positivismus Auguste Comtes, der die Geschichte des menschlichen Denkens als Fortschritt vom theologischen ueber das metaphysische zum positiven (wissenschaftlichen) Stadium beschrieb. Im positiven Stadium werden alle Phaenomene durch beobachtbare Gesetzmaessigkeiten erklaert, und metaphysische Spekulationen ueber letzte Ursachen werden als sinnlos verworfen.\n\nDer Wiener Kreis (Moritz Schlick, Rudolf Carnap, Otto Neurath) radikalisierte den Positivismus zum logischen Positivismus oder Neopositivismus. Das Verifikationsprinzip besagte, dass nur empirisch ueberpruefbare oder logisch-analytische Aussagen sinnvoll sind. Metaphysische, theologische und ethische Saetze wurden als kognitiv bedeutungslos abqualifiziert – sie druecken bestenfalls Gefuehle aus, stellen aber keine Erkenntnisse dar.",
+    "kernthesen": [
+      "Die Naturwissenschaften sind die einzige oder ueberlegene Form der Erkenntnis",
+      "Nur empirisch ueberpruefbare Aussagen haben kognitiven Gehalt",
+      "Metaphysische, theologische und normative Aussagen sind wissenschaftlich nicht begruendbar und daher fragwuerdig",
+      "Die naturwissenschaftliche Methode ist auf alle Bereiche menschlichen Wissens anwendbar",
+      "Alle echten Fragen koennen prinzipiell durch die Wissenschaft beantwortet werden"
+    ],
+    "entstehung": "Der Szientismus hat seine Wurzeln im Positivismus des 19. Jahrhunderts, insbesondere bei Auguste Comte und John Stuart Mill. Der Wiener Kreis (gegruendet 1924) radikalisierte die szientistische Position mit dem logischen Positivismus und dem Verifikationsprinzip. Nach dem Zweiten Weltkrieg verbreitete sich der Szientismus im englischsprachigen Raum besonders durch die Erfolge der Naturwissenschaften und der Technologie. In juengerer Zeit haben die Fortschritte der Neurowissenschaften, Evolutionsbiologie und kognitiven Wissenschaften den Szientismus neu belebt.",
+    "kritik": "Der gravierendste Einwand gegen den Szientismus ist der Selbstwiderspruch: Die These, dass nur naturwissenschaftliche Aussagen wahr sein koennen, ist selbst keine naturwissenschaftliche Aussage und waere nach ihren eigenen Kriterien sinnlos. Edmund Husserl kritisierte in der 'Krisis der europaeischen Wissenschaften' die szientistische Reduktion als Verarmung der Lebenswelt. Martin Heidegger sah im Szientismus ein Symptom der technischen Seinsvergessenheit."
+  }
 }

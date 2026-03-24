@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Dezisionismus"],
+  "hauptstroemungen": [
+    "Dezisionismus"
+  ],
   "kurzbeschreibung": "Carl Schmitt war ein deutscher Staats- und Verfassungsrechtler und politischer Philosoph, der zu den umstrittensten Denkern des 20. Jahrhunderts gehört. Seine Theorien über Souveränität, den Ausnahmezustand und die Freund-Feind-Unterscheidung sind ebenso einflussreich wie sein Engagement für den Nationalsozialismus moralisch belastet. Trotz seiner politischen Verstrickungen werden seine Analysen in der politischen Theorie weltweit rezipiert.",
   "biografie": {
     "fruehesLeben": "Carl Schmitt wurde 1888 in Plettenberg, Westfalen, als Sohn einer katholischen Kleinbürgerfamilie geboren. Er studierte Rechtswissenschaften in Berlin, München und Straßburg und habilitierte sich 1916. In der Weimarer Republik wurde er zum einflussreichsten Staatsrechtslehrer Deutschlands.",
@@ -77,6 +79,59 @@
       "quelle": "Politische Theologie"
     }
   ],
-  "verwandtePhilosophen": ["thomas-hobbes", "ernst-junger", "leo-strauss", "chantal-mouffe"],
-  "verwandteIsmen": ["dezisionismus"]
+  "verwandtePhilosophen": [
+    "thomas-hobbes",
+    "ernst-junger",
+    "leo-strauss",
+    "chantal-mouffe"
+  ],
+  "verwandteIsmen": [
+    "dezisionismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Carl Schmitt war ein deutscher Staats- und Verfassungsrechtler und politischer Philosoph, der zu den umstrittensten Denkern des 20. Jahrhunderts gehoert. Seine Theorien ueber Souveraenitaet, den Ausnahmezustand und die Freund-Feind-Unterscheidung sind ebenso einflussreich wie sein Engagement fuer den Nationalsozialismus moralisch belastet. Trotz seiner politischen Verstrickungen werden seine Analysen in der politischen Theorie weltweit rezipiert.",
+    "biografie": {
+      "fruehesLeben": "Carl Schmitt wurde 1888 in Plettenberg, Westfalen, als Sohn einer katholischen Kleinbuergerfamilie geboren. Er studierte Rechtswissenschaften in Berlin, Muenchen und Strassburg und habilitierte sich 1916. In der Weimarer Republik wurde er zum einflussreichsten Staatsrechtslehrer Deutschlands.",
+      "schaffen": "Schmitts Hauptwerke 'Politische Theologie' (1922) und 'Der Begriff des Politischen' (1932) formulierten seine Theorien der Souveraenitaet und der Freund-Feind-Unterscheidung. Er war ein scharfer Kritiker des Parlamentarismus und des Liberalismus. Ab 1933 unterstuetzte er aktiv den Nationalsozialismus und lieferte juristische Rechtfertigungen fuer die Diktatur.",
+      "spaetesLeben": "Nach dem Krieg wurde Schmitt interniert und von der Universitaet ausgeschlossen. Er kehrte nach Plettenberg zurueck und lebte dort als privater Gelehrter. Trotz seiner Isolation empfing er zahlreiche Besucher – darunter Juristen, Philosophen und Politiker aus aller Welt. Eine Reue oder Distanzierung vom Nationalsozialismus blieb aus.",
+      "tod": "Carl Schmitt starb am 7. April 1985 in seinem Geburtsort Plettenberg im Alter von 96 Jahren. Er hatte nie oeffentlich Reue fuer seine Unterstuetzung des NS-Regimes gezeigt. Die Kontroverse um sein Werk – zwischen intellektueller Brillanz und moralischer Verfehlungen – dauert bis heute an.",
+      "nachwirkung": "Schmitts politische Theorie wird weltweit rezipiert und hat sowohl rechte als auch linke Denker beeinflusst – von Leo Strauss ueber Walter Benjamin bis zu Chantal Mouffe und Giorgio Agamben. Seine Konzepte des Ausnahmezustands und der Freund-Feind-Unterscheidung sind zu Schluesselbegriffen der politischen Theorie geworden."
+    },
+    "kernideen": [
+      {
+        "titel": "Souveraenitaet und Ausnahmezustand",
+        "beschreibung": "Souveraen ist, wer ueber den Ausnahmezustand entscheidet. Die wahre Natur der Souveraenitaet zeigt sich nicht im Normalfall, sondern in der Krise, wenn das bestehende Recht suspendiert werden muss. Diese Dezision kann nicht aus Normen abgeleitet werden – sie ist ein Akt reiner Entscheidung."
+      },
+      {
+        "titel": "Die Freund-Feind-Unterscheidung",
+        "beschreibung": "Das Politische hat sein eigenes Kriterium: die Unterscheidung von Freund und Feind. Der Feind ist nicht der persoenliche Gegner, sondern der existentielle Andere, gegen den im Ernstfall gekaempft werden muss. Jeder Versuch, das Politische zu eliminieren, scheitert an dieser unaufhebbaren Unterscheidung."
+      },
+      {
+        "titel": "Kritik des Parlamentarismus",
+        "beschreibung": "Der moderne Parlamentarismus hat seine geistige Grundlage verloren. Er beruht auf dem Prinzip der oeffentlichen Diskussion und der Wahrheitsfindung durch Debatte – doch die Realitaet der Parteipolitik hat dieses Prinzip ausgehoehlt. Die Parlamente sind zu Schauplaetzen von Interessenkoalitionen geworden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Politische Theologie",
+        "jahr": "1922",
+        "beschreibung": "Der beruehmte Traktat, der mit dem Satz 'Souveraen ist, wer ueber den Ausnahmezustand entscheidet' beginnt und die Analogie von theologischen und juristischen Begriffen aufzeigt."
+      },
+      {
+        "titel": "Der Begriff des Politischen",
+        "jahr": "1932",
+        "beschreibung": "Schmitts einflussreichstes Werk, das die Freund-Feind-Unterscheidung als Grundkategorie des Politischen etabliert."
+      },
+      {
+        "titel": "Die geistesgeschichtliche Lage des heutigen Parlamentarismus",
+        "jahr": "1923",
+        "beschreibung": "Eine scharfe Analyse der Krise des parlamentarischen Systems, die die Diskrepanz zwischen liberaler Theorie und demokratischer Praxis aufzeigt."
+      },
+      {
+        "titel": "Der Nomos der Erde",
+        "jahr": "1950",
+        "beschreibung": "Schmitts Spaetwerk ueber die Ordnung des Raumes im internationalen Recht, das die Entstehung und den Zerfall des europaeischen Voelkerrechts analysiert."
+      }
+    ]
+  }
 }

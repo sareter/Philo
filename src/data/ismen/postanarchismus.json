@@ -11,13 +11,44 @@
     "Widerstand muss ständig neu erfunden werden, da Macht sich permanent transformiert.",
     "Anarchistische Praxis ist Prefigurative Politics – die gewünschte Zukunft wird im Jetzt gelebt."
   ],
-  "hauptvertreter": ["michel-foucault"],
+  "hauptvertreter": [
+    "michel-foucault"
+  ],
   "entstehung": "Der Postanarchismus entstand ab den 1990er Jahren durch die Arbeiten von Todd May ('The Political Philosophy of Poststructuralist Anarchism', 1994) und Saul Newman ('From Bakunin to Lacan', 2001). Er reagierte auf die Krise des klassischen Anarchismus und die Erneuerung anarchistischer Praxis in den Alter-Globalisierungsbewegungen.",
   "kritik": "Kritiker aus der anarchistischen Tradition werfen dem Postanarchismus vor, den konkreten Kampf gegen staatliche Herrschaft und Kapitalismus durch abstrakte Theoriebildung zu ersetzen. Zudem wird bemängelt, dass die Auflösung eines stabilen revolutionären Subjekts die Möglichkeit kollektiven Widerstands untergrabe.",
-  "verwandteIsmen": ["anarchismus", "poststrukturalismus", "gruener-anarchismus"],
+  "verwandteIsmen": [
+    "anarchismus",
+    "poststrukturalismus",
+    "gruener-anarchismus"
+  ],
   "schluesselwerke": [
-    {"titel": "The Political Philosophy of Poststructuralist Anarchism", "autor": "Todd May", "jahr": "1994"},
-    {"titel": "From Bakunin to Lacan", "autor": "Saul Newman", "jahr": "2001"},
-    {"titel": "Überwachen und Strafen", "autor": "Michel Foucault", "jahr": "1975"}
-  ]
+    {
+      "titel": "The Political Philosophy of Poststructuralist Anarchism",
+      "autor": "Todd May",
+      "jahr": "1994"
+    },
+    {
+      "titel": "From Bakunin to Lacan",
+      "autor": "Saul Newman",
+      "jahr": "2001"
+    },
+    {
+      "titel": "Überwachen und Strafen",
+      "autor": "Michel Foucault",
+      "jahr": "1975"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Postanarchismus erneuert das anarchistische Denken durch die Integration poststrukturalistischer Theorien.",
+    "ausfuehrlicheBeschreibung": "Der Postanarchismus entstand ab den 1990er Jahren als Versuch, anarchistisches Denken mit den Einsichten des Poststrukturalismus – insbesondere Foucaults Machtanalyse, Derridas Dekonstruktion und Deleuzes Immanenzphilosophie – zu verbinden. Saul Newman, Todd May und Lewis Call gehoeren zu den wichtigsten Vertretern. Der Postanarchismus kritisiert den klassischen Anarchismus fuer seinen Essentialismus – die Annahme einer 'guten' menschlichen Natur, die nur von den Ketten der Herrschaft befreit werden muesse.\n\nFoucaults Analyse zeigt, dass Macht nicht einfach als repressive Gewalt einer Klasse oder eines Staates verstanden werden kann, sondern als produktives Netzwerk, das Subjekte, Wissen und Institutionen durchdringt. Der Postanarchismus uebernimmt diese Einsicht und argumentiert, dass anarchistische Befreiung nicht darin bestehen kann, eine 'wahre' menschliche Natur von aeusserer Unterdrueckung zu befreien, sondern dass die Subjekte selbst durch Machtverhaeltnisse konstituiert werden und staendig neue Formen des Widerstands erfinden muessen.\n\nDer Postanarchismus bietet eine theoretische Grundlage fuer zeitgenoessische anarchistische Praxis – von der Prefigurative Politics ueber digitalen Aktivismus bis zu autonomen Raeumen. Er ueberwindet die Dichotomie von Staat und Individuum zugunsten einer Analyse mikropolitischer Machtverhaeltnisse und eroeffnet neue Perspektiven auf Widerstand, Selbstorganisation und radikale Demokratie.",
+    "kernthesen": [
+      "Der klassische Anarchismus muss seinen Essentialismus – den Glauben an eine gute Menschennatur – aufgeben.",
+      "Macht ist kein zentralisiertes Herrschaftsinstrument, sondern ein allgegenwaertiges Netzwerk.",
+      "Subjekte werden durch Machtverhaeltnisse konstituiert, nicht einfach von ihnen unterdrueckt.",
+      "Widerstand muss staendig neu erfunden werden, da Macht sich permanent transformiert.",
+      "Anarchistische Praxis ist Prefigurative Politics – die gewuenschte Zukunft wird im Jetzt gelebt."
+    ],
+    "entstehung": "Der Postanarchismus entstand ab den 1990er Jahren durch die Arbeiten von Todd May ('The Political Philosophy of Poststructuralist Anarchism', 1994) und Saul Newman ('From Bakunin to Lacan', 2001). Er reagierte auf die Krise des klassischen Anarchismus und die Erneuerung anarchistischer Praxis in den Alter-Globalisierungsbewegungen.",
+    "kritik": "Kritiker aus der anarchistischen Tradition werfen dem Postanarchismus vor, den konkreten Kampf gegen staatliche Herrschaft und Kapitalismus durch abstrakte Theoriebildung zu ersetzen. Zudem wird bemaengelt, dass die Aufloesung eines stabilen revolutionaeren Subjekts die Moeglichkeit kollektiven Widerstands untergrabe."
+  }
 }

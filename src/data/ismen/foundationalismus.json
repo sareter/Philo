@@ -11,14 +11,52 @@
     "Der Regress der Rechtfertigung hat einen natürlichen Endpunkt in den basalen Überzeugungen",
     "Die Struktur des Wissens gleicht einem Gebäude mit einem sicheren Fundament"
   ],
-  "hauptvertreter": ["rene-descartes", "john-locke", "bertrand-russell"],
+  "hauptvertreter": [
+    "rene-descartes",
+    "john-locke",
+    "bertrand-russell"
+  ],
   "entstehung": "Der Foundationalismus hat seine Wurzeln in der antiken Philosophie – Aristoteles' Wissenschaftstheorie in den 'Analytica Posteriora' postuliert erste, unbewiesene Prinzipien als Grundlage allen demonstrativen Wissens. In der Neuzeit wurde René Descartes zum paradigmatischen Foundationalisten mit seinem methodischen Zweifel und dem Cogito als archimedischem Punkt der Erkenntnis. Die britischen Empiristen (Locke, Hume) entwickelten einen empirischen Foundationalismus. Im 20. Jahrhundert wurde der Foundationalismus durch Russell, den Wiener Kreis und die phänomenalistische Tradition fortgeführt, geriet aber zunehmend unter Kritik durch Kohärentisten und Pragmatisten.",
   "kritik": "Wilfried Sellars formulierte in 'Empiricism and the Philosophy of Mind' (1956) den einflussreichen Einwand gegen den 'Mythos des Gegebenen': Die Vorstellung unmittelbar gegebener Sinnesdaten als Fundament allen Wissens sei ein Irrtum, da bereits die einfachste Wahrnehmung begriffliche Fähigkeiten voraussetzt. W.V.O. Quine bestritt die Möglichkeit, einzelne Überzeugungen isoliert zu rechtfertigen – unser Wissen bildet ein Netz, in dem keine Überzeugung immun gegen Revision ist. Kohärentisten wie Laurence BonJour argumentierten, dass Rechtfertigung nicht in einer Richtung (von unten nach oben) verläuft, sondern in der wechselseitigen Stützung von Überzeugungen besteht. Richard Rorty kritisierte den Foundationalismus als Ausdruck einer überholten Spiegelmetapher der Erkenntnis.",
-  "verwandteIsmen": ["cartesianismus", "koharentismus", "antifoundationalismus", "analytische-philosophie"],
+  "verwandteIsmen": [
+    "cartesianismus",
+    "koharentismus",
+    "antifoundationalismus",
+    "analytische-philosophie"
+  ],
   "schluesselwerke": [
-    { "titel": "Meditationes de Prima Philosophia", "autor": "René Descartes", "jahr": "1641" },
-    { "titel": "An Essay Concerning Human Understanding", "autor": "John Locke", "jahr": "1690" },
-    { "titel": "The Problems of Philosophy", "autor": "Bertrand Russell", "jahr": "1912" },
-    { "titel": "Epistemic Justification", "autor": "William Alston", "jahr": "1989" }
-  ]
+    {
+      "titel": "Meditationes de Prima Philosophia",
+      "autor": "René Descartes",
+      "jahr": "1641"
+    },
+    {
+      "titel": "An Essay Concerning Human Understanding",
+      "autor": "John Locke",
+      "jahr": "1690"
+    },
+    {
+      "titel": "The Problems of Philosophy",
+      "autor": "Bertrand Russell",
+      "jahr": "1912"
+    },
+    {
+      "titel": "Epistemic Justification",
+      "autor": "William Alston",
+      "jahr": "1989"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Foundationalismus ist eine erkenntnistheoretische Position, die behauptet, dass alles Wissen auf einem Fundament basaler, selbstevidenter Ueberzeugungen ruht.",
+    "ausfuehrlicheBeschreibung": "Der Foundationalismus (auch Fundamentalismus der Erkenntnis) ist eine der aeltesten und einflussreichsten Positionen der Erkenntnistheorie. Er behauptet, dass die Struktur menschlichen Wissens die Form eines Gebaeudes hat: Es gibt basale Ueberzeugungen (foundations), die selbst keiner weiteren Begruendung beduerfen, und abgeleitete Ueberzeugungen, die ihre Rechtfertigung aus den basalen Ueberzeugungen beziehen.\n\nDie Motivation fuer den Foundationalismus liegt im Regressproblem der Rechtfertigung: Wenn jede Ueberzeugung durch eine andere Ueberzeugung gerechtfertigt werden muss, entsteht entweder ein unendlicher Regress, ein Zirkel oder eine willkuerliche Setzung. Der Foundationalismus loest dieses Problem, indem er basale Ueberzeugungen postuliert, die intrinsisch gerechtfertigt sind und den Regress beenden.\n\nRené Descartes ist der paradigmatische Foundationalist der Neuzeit. Sein methodischer Zweifel fuehrte ihn zum Cogito ('Ich denke, also bin ich') als unbezweifelbarer Grundlage allen Wissens. Von dieser gesicherten Basis aus versuchte Descartes, Schritt fuer Schritt weitere Gewissheiten abzuleiten – die Existenz Gottes, die Zuverlaessigkeit der Sinneswahrnehmung und die Existenz der Aussenwelt.",
+    "kernthesen": [
+      "Alles Wissen ruht auf einem Fundament basaler Ueberzeugungen, die keiner weiteren Rechtfertigung beduerfen",
+      "Basale Ueberzeugungen sind selbstevident, unmittelbar gewiss oder anderweitig intrinsisch gerechtfertigt",
+      "Abgeleitete Ueberzeugungen erhalten ihre Rechtfertigung aus den basalen Ueberzeugungen",
+      "Der Regress der Rechtfertigung hat einen natuerlichen Endpunkt in den basalen Ueberzeugungen",
+      "Die Struktur des Wissens gleicht einem Gebaeude mit einem sicheren Fundament"
+    ],
+    "entstehung": "Der Foundationalismus hat seine Wurzeln in der antiken Philosophie – Aristoteles' Wissenschaftstheorie in den 'Analytica Posteriora' postuliert erste, unbewiesene Prinzipien als Grundlage allen demonstrativen Wissens. In der Neuzeit wurde René Descartes zum paradigmatischen Foundationalisten mit seinem methodischen Zweifel und dem Cogito als archimedischem Punkt der Erkenntnis. Die britischen Empiristen (Locke, Hume) entwickelten einen empirischen Foundationalismus. Im 20.",
+    "kritik": "Wilfried Sellars formulierte in 'Empiricism and the Philosophy of Mind' (1956) den einflussreichen Einwand gegen den 'Mythos des Gegebenen': Die Vorstellung unmittelbar gegebener Sinnesdaten als Fundament allen Wissens sei ein Irrtum, da bereits die einfachste Wahrnehmung begriffliche Faehigkeiten voraussetzt. W.V.O. Quine bestritt die Moeglichkeit, einzelne Ueberzeugungen isoliert zu rechtfertigen – unser Wissen bildet ein Netz, in dem keine Ueberzeugung immun gegen Revision ist."
+  }
 }

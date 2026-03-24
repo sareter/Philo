@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Analytische Philosophie", "Pragmatismus"],
+  "hauptstroemungen": [
+    "Analytische Philosophie",
+    "Pragmatismus"
+  ],
   "kurzbeschreibung": "Hilary Putnam war ein amerikanischer Philosoph, der zu den vielseitigsten und einflussreichsten Denkern der analytischen Philosophie gehört. Bekannt für seine häufigen Positionswechsel, leistete er grundlegende Beiträge zur Sprachphilosophie, Philosophie des Geistes und Wissenschaftsphilosophie. Sein Gedankenexperiment der 'Gehirne im Tank' und seine Theorie der Bedeutung als sozialer Praxis prägten die zeitgenössische Philosophie nachhaltig.",
   "biografie": {
     "fruehesLeben": "Hilary Putnam wurde 1926 in Chicago als Sohn eines kommunistischen Intellektuellen geboren und wuchs in Philadelphia auf. Er studierte Mathematik und Philosophie an der University of Pennsylvania und promovierte 1951 bei Hans Reichenbach an der UCLA. Früh zeigte sich sein außergewöhnliches Talent für interdisziplinäres Denken.",
@@ -81,6 +84,64 @@
       "quelle": "Realismus mit menschlichem Antlitz"
     }
   ],
-  "verwandtePhilosophen": ["willard-van-orman-quine", "ludwig-wittgenstein", "william-james", "saul-kripke"],
-  "verwandteIsmen": ["analytische-philosophie", "pragmatismus"]
+  "verwandtePhilosophen": [
+    "willard-van-orman-quine",
+    "ludwig-wittgenstein",
+    "william-james",
+    "saul-kripke"
+  ],
+  "verwandteIsmen": [
+    "analytische-philosophie",
+    "pragmatismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Hilary Putnam war ein amerikanischer Philosoph, der zu den vielseitigsten und einflussreichsten Denkern der analytischen Philosophie gehoert. Bekannt fuer seine haeufigen Positionswechsel, leistete er grundlegende Beitraege zur Sprachphilosophie, Philosophie des Geistes und Wissenschaftsphilosophie. Sein Gedankenexperiment der 'Gehirne im Tank' und seine Theorie der Bedeutung als sozialer Praxis praegten die zeitgenoessische Philosophie nachhaltig.",
+    "biografie": {
+      "fruehesLeben": "Hilary Putnam wurde 1926 in Chicago als Sohn eines kommunistischen Intellektuellen geboren und wuchs in Philadelphia auf. Er studierte Mathematik und Philosophie an der University of Pennsylvania und promovierte 1951 bei Hans Reichenbach an der UCLA. Frueh zeigte sich sein aussergewoehnliches Talent fuer interdisziplinaeres Denken.",
+      "schaffen": "Putnam lehrte an der Princeton University, am MIT und ab 1965 an der Harvard University. Er leistete grundlegende Beitraege in nahezu allen Bereichen der Philosophie – von der Philosophie der Mathematik ueber die Sprachphilosophie bis zur Ethik. Sein Aufsatz 'The Meaning of Meaning' (1975) revolutionierte die Semantik mit der These des semantischen Externalismus.",
+      "spaetesLeben": "In seinen spaeteren Jahren wandte sich Putnam dem Pragmatismus zu und entwickelte einen 'Realismus mit menschlichem Antlitz'. Er engagierte sich fuer den juedischen Glauben und die juedische Philosophie. Seine intellektuelle Ehrlichkeit, die ihn dazu brachte, eigene fruehere Positionen oeffentlich zu revidieren, wurde weithin bewundert.",
+      "tod": "Hilary Putnam starb am 13. Maerz 2016 in Arlington, Massachusetts, im Alter von 89 Jahren. Er galt als einer der wichtigsten Philosophen der zweiten Haelfte des 20. Jahrhunderts. Sein Tod hinterliess eine Luecke in der analytischen Philosophie.",
+      "nachwirkung": "Putnams Beitraege zur Sprachphilosophie, zur Philosophie des Geistes und zur Wissenschaftsphilosophie gehoeren zum Kernbestand der zeitgenoessischen Philosophie. Sein Gedankenexperiment der Gehirne im Tank inspirierte den Film 'Matrix'. Seine Verbindung von analytischer Philosophie und Pragmatismus eroeffnete neue Wege des Philosophierens."
+    },
+    "kernideen": [
+      {
+        "titel": "Semantischer Externalismus",
+        "beschreibung": "Die Bedeutung sprachlicher Ausdruecke liegt nicht allein im Kopf des Sprechers, sondern wird durch die natuerliche und soziale Umgebung mitbestimmt. Putnams beruehmtes Gedankenexperiment der Zwillingserde zeigt, dass zwei Menschen identische mentale Zustaende haben koennen, aber dennoch verschiedene Dinge meinen."
+      },
+      {
+        "titel": "Gehirne im Tank",
+        "beschreibung": "Das Gedankenexperiment fragt, ob wir blosse Gehirne in einem Tank sein koennten, die von einem Computer mit Sinneseindruecken versorgt werden. Putnam argumentiert, dass diese Hypothese sich selbst widerlegt, weil unsere Sprache nur durch kausalen Kontakt mit der Welt Bedeutung erhaelt."
+      },
+      {
+        "titel": "Interner Realismus",
+        "beschreibung": "Es gibt keine 'Gottesperspektive' auf die Wirklichkeit. Wahrheit und Referenz sind immer relativ zu einem begrifflichen Schema, aber das macht sie nicht subjektiv oder willkuerlich. Putnam vertritt einen Mittelweg zwischen metaphysischem Realismus und relativistischem Anti-Realismus."
+      },
+      {
+        "titel": "Funktionalismus",
+        "beschreibung": "Mentale Zustaende sind durch ihre funktionale Rolle definiert – durch ihre kausalen Beziehungen zu Inputs, Outputs und anderen mentalen Zustaenden. Putnam war einer der Begruender dieser einflussreichen Position in der Philosophie des Geistes, die er spaeter selbst kritisierte."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Bedeutung von 'Bedeutung' (The Meaning of 'Meaning')",
+        "jahr": "1975",
+        "beschreibung": "Putnams einflussreichster Aufsatz, der mit dem Zwillingserde-Gedankenexperiment den semantischen Externalismus begruendet und die These formuliert: 'Bedeutung ist nicht im Kopf.'"
+      },
+      {
+        "titel": "Vernunft, Wahrheit und Geschichte (Reason, Truth and History)",
+        "jahr": "1981",
+        "beschreibung": "Das Werk, das den internen Realismus entwickelt und das beruehmte Gedankenexperiment der 'Gehirne im Tank' enthaelt."
+      },
+      {
+        "titel": "Realismus mit menschlichem Antlitz (Realism with a Human Face)",
+        "jahr": "1990",
+        "beschreibung": "Eine Sammlung von Essays, die Putnams Wende zum Pragmatismus dokumentiert und fuer einen Realismus plaediert, der die menschliche Perspektive ernst nimmt."
+      },
+      {
+        "titel": "Die Verschraenkung von Tatsache und Wert (The Collapse of the Fact/Value Dichotomy)",
+        "jahr": "2002",
+        "beschreibung": "Eine Kritik der strikten Trennung von Tatsachen und Werten, die zeigt, dass beide untrennbar verflochten sind."
+      }
+    ]
+  }
 }

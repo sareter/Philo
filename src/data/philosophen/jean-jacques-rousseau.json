@@ -2,11 +2,28 @@
   "slug": "jean-jacques-rousseau",
   "name": "Jean-Jacques Rousseau",
   "lebensdaten": "1712–1778",
-  "geboren": { "jahr": 1712, "ort": "Genf", "land": "Schweiz", "lat": 46.2044, "lng": 6.1432 },
-  "gestorben": { "jahr": 1778, "ort": "Ermenonville", "land": "Frankreich", "lat": 49.1267, "lng": 2.6956 },
+  "geboren": {
+    "jahr": 1712,
+    "ort": "Genf",
+    "land": "Schweiz",
+    "lat": 46.2044,
+    "lng": 6.1432
+  },
+  "gestorben": {
+    "jahr": 1778,
+    "ort": "Ermenonville",
+    "land": "Frankreich",
+    "lat": 49.1267,
+    "lng": 2.6956
+  },
   "epoche": "Aufklärung",
   "region": "Frankreich / Schweiz",
-  "hauptstroemungen": ["Kontraktualismus", "Romantik", "Politische Philosophie", "Pädagogik"],
+  "hauptstroemungen": [
+    "Kontraktualismus",
+    "Romantik",
+    "Politische Philosophie",
+    "Pädagogik"
+  ],
   "kurzbeschreibung": "Jean-Jacques Rousseau war ein Genfer Philosoph, Schriftsteller und Komponist, dessen Ideen die Aufklärung, die Französische Revolution und die Romantik gleichermaßen beeinflussten. Sein 'Contrat social' legte die theoretischen Grundlagen der modernen Demokratie, sein 'Émile' revolutionierte die Pädagogik, und seine 'Confessions' begründeten die moderne Autobiografie. Er sah die Zivilisation als Ursache der Ungleichheit und plädierte für die Rückkehr zur Natur.",
   "biografie": {
     "fruehesLeben": "Jean-Jacques Rousseau wurde am 28. Juni 1712 in Genf als Sohn des Uhrmachers Isaac Rousseau geboren. Seine Mutter starb wenige Tage nach der Geburt, wofür er sich zeitlebens schuldig fühlte. Sein Vater, ein sentimentaler und unbeständiger Mann, las mit dem Knaben nächtelang Romane und pflanzte ihm eine schwärmerische Empfindsamkeit ein. Nach einem Streit floh der Vater aus Genf, und der zehnjährige Jean-Jacques wurde einem Pastor in Bossey anvertraut. Es folgten Jahre der Unstetigkeit: Er wurde Lehrling bei einem Kupferstecher, floh 1728 aus Genf und kam unter den Schutz der Baronin Françoise-Louise de Warens in Annecy, die ihn zum Katholizismus bekehrte und seine Gönnerin und schließlich seine Geliebte wurde. Bei Madame de Warens verbrachte er die glücklichsten Jahre seines Lebens und bildete sich autodidaktisch in Musik, Philosophie und Literatur.",
@@ -34,20 +51,125 @@
     }
   ],
   "werke": [
-    { "titel": "Du contrat social (Vom Gesellschaftsvertrag)", "jahr": "1762", "beschreibung": "Rousseaus politisches Hauptwerk, das die Volkssouveränität, den Gemeinwillen und die Legitimität politischer Herrschaft durch den Gesellschaftsvertrag begründet." },
-    { "titel": "Émile ou de l'éducation", "jahr": "1762", "beschreibung": "Ein Erziehungsroman, der die naturgemäße Entwicklung eines Knaben von der Geburt bis zur Ehe schildert und die moderne Pädagogik revolutionierte." },
-    { "titel": "Discours sur l'origine et les fondements de l'inégalité parmi les hommes", "jahr": "1755", "beschreibung": "Der Zweite Diskurs über den Ursprung der Ungleichheit, der den Naturzustand als Zustand der Freiheit und Gleichheit beschreibt und die Entstehung der Ungleichheit auf das Privateigentum zurückführt." },
-    { "titel": "Discours sur les sciences et les arts", "jahr": "1750", "beschreibung": "Der Erste Diskurs, der Rousseaus Durchbruch markierte: Der Fortschritt der Wissenschaften hat die Sitten nicht verbessert, sondern verdorben." },
-    { "titel": "Les Confessions (Die Bekenntnisse)", "jahr": "1782/1789 (posthum)", "beschreibung": "Rousseaus bahnbrechende Autobiografie, die mit beispielloser Offenheit sein Leben schildert und die Gattung der modernen Autobiografie begründete." },
-    { "titel": "Julie ou la Nouvelle Héloïse", "jahr": "1761", "beschreibung": "Ein Briefroman über unmögliche Liebe und Tugend, der zum meistgelesenen Roman des 18. Jahrhunderts wurde und die Empfindsamkeit als literarische Bewegung mitbegründete." },
-    { "titel": "Les Rêveries du promeneur solitaire", "jahr": "1782 (posthum)", "beschreibung": "Rousseaus meditatives Spätwerk über seine einsamen Spaziergänge, das Naturerfahrung und Selbstreflexion in poetischer Sprache verbindet." }
+    {
+      "titel": "Du contrat social (Vom Gesellschaftsvertrag)",
+      "jahr": "1762",
+      "beschreibung": "Rousseaus politisches Hauptwerk, das die Volkssouveränität, den Gemeinwillen und die Legitimität politischer Herrschaft durch den Gesellschaftsvertrag begründet."
+    },
+    {
+      "titel": "Émile ou de l'éducation",
+      "jahr": "1762",
+      "beschreibung": "Ein Erziehungsroman, der die naturgemäße Entwicklung eines Knaben von der Geburt bis zur Ehe schildert und die moderne Pädagogik revolutionierte."
+    },
+    {
+      "titel": "Discours sur l'origine et les fondements de l'inégalité parmi les hommes",
+      "jahr": "1755",
+      "beschreibung": "Der Zweite Diskurs über den Ursprung der Ungleichheit, der den Naturzustand als Zustand der Freiheit und Gleichheit beschreibt und die Entstehung der Ungleichheit auf das Privateigentum zurückführt."
+    },
+    {
+      "titel": "Discours sur les sciences et les arts",
+      "jahr": "1750",
+      "beschreibung": "Der Erste Diskurs, der Rousseaus Durchbruch markierte: Der Fortschritt der Wissenschaften hat die Sitten nicht verbessert, sondern verdorben."
+    },
+    {
+      "titel": "Les Confessions (Die Bekenntnisse)",
+      "jahr": "1782/1789 (posthum)",
+      "beschreibung": "Rousseaus bahnbrechende Autobiografie, die mit beispielloser Offenheit sein Leben schildert und die Gattung der modernen Autobiografie begründete."
+    },
+    {
+      "titel": "Julie ou la Nouvelle Héloïse",
+      "jahr": "1761",
+      "beschreibung": "Ein Briefroman über unmögliche Liebe und Tugend, der zum meistgelesenen Roman des 18. Jahrhunderts wurde und die Empfindsamkeit als literarische Bewegung mitbegründete."
+    },
+    {
+      "titel": "Les Rêveries du promeneur solitaire",
+      "jahr": "1782 (posthum)",
+      "beschreibung": "Rousseaus meditatives Spätwerk über seine einsamen Spaziergänge, das Naturerfahrung und Selbstreflexion in poetischer Sprache verbindet."
+    }
   ],
   "zitate": [
-    { "text": "Der Mensch ist frei geboren, und überall liegt er in Ketten.", "quelle": "Du contrat social, Buch I, Kapitel 1", "kontext": "Der berühmte Eröffnungssatz des Gesellschaftsvertrags, der die Diskrepanz zwischen natürlicher Freiheit und gesellschaftlicher Unfreiheit auf den Punkt bringt." },
-    { "text": "Der erste, der ein Stück Land eingezäunt hatte und es sich einfallen ließ zu sagen: Dies gehört mir, und der Leute fand, die einfältig genug waren, ihm zu glauben, war der wahre Begründer der bürgerlichen Gesellschaft.", "quelle": "Discours sur l'inégalité, Zweiter Teil", "kontext": "Rousseaus berühmte Kritik des Privateigentums als Ursprung aller gesellschaftlichen Ungleichheit und Ungerechtigkeit." },
-    { "text": "Zurück zur Natur!", "quelle": "Sinngemäß aus dem Gesamtwerk (nicht wörtlich so formuliert)", "kontext": "Rousseaus berühmtestes Motto, das sein gesamtes Denken zusammenfasst, auch wenn er diese Worte nie genau so geschrieben hat." },
-    { "text": "Alles ist gut, wie es aus den Händen des Schöpfers hervorgeht; alles entartet unter den Händen der Menschen.", "quelle": "Émile, Erstes Buch", "kontext": "Der programmatische Eröffnungssatz des Émile, der Rousseaus Grundüberzeugung von der natürlichen Güte des Menschen und der verderblichen Wirkung der Zivilisation ausdrückt." }
+    {
+      "text": "Der Mensch ist frei geboren, und überall liegt er in Ketten.",
+      "quelle": "Du contrat social, Buch I, Kapitel 1",
+      "kontext": "Der berühmte Eröffnungssatz des Gesellschaftsvertrags, der die Diskrepanz zwischen natürlicher Freiheit und gesellschaftlicher Unfreiheit auf den Punkt bringt."
+    },
+    {
+      "text": "Der erste, der ein Stück Land eingezäunt hatte und es sich einfallen ließ zu sagen: Dies gehört mir, und der Leute fand, die einfältig genug waren, ihm zu glauben, war der wahre Begründer der bürgerlichen Gesellschaft.",
+      "quelle": "Discours sur l'inégalité, Zweiter Teil",
+      "kontext": "Rousseaus berühmte Kritik des Privateigentums als Ursprung aller gesellschaftlichen Ungleichheit und Ungerechtigkeit."
+    },
+    {
+      "text": "Zurück zur Natur!",
+      "quelle": "Sinngemäß aus dem Gesamtwerk (nicht wörtlich so formuliert)",
+      "kontext": "Rousseaus berühmtestes Motto, das sein gesamtes Denken zusammenfasst, auch wenn er diese Worte nie genau so geschrieben hat."
+    },
+    {
+      "text": "Alles ist gut, wie es aus den Händen des Schöpfers hervorgeht; alles entartet unter den Händen der Menschen.",
+      "quelle": "Émile, Erstes Buch",
+      "kontext": "Der programmatische Eröffnungssatz des Émile, der Rousseaus Grundüberzeugung von der natürlichen Güte des Menschen und der verderblichen Wirkung der Zivilisation ausdrückt."
+    }
   ],
-  "verwandtePhilosophen": ["voltaire", "david-hume", "immanuel-kant", "thomas-hobbes", "john-locke", "montesquieu"],
-  "verwandteIsmen": ["kontraktualismus", "romantik", "republikanismus"]
+  "verwandtePhilosophen": [
+    "voltaire",
+    "david-hume",
+    "immanuel-kant",
+    "thomas-hobbes",
+    "john-locke",
+    "montesquieu"
+  ],
+  "verwandteIsmen": [
+    "kontraktualismus",
+    "romantik",
+    "republikanismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Jean-Jacques Rousseau war ein Genfer Philosoph, Schriftsteller und Komponist, dessen Ideen die Aufklaerung, die Franzoesische Revolution und die Romantik gleichermassen beeinflussten. Sein 'Contrat social' legte die theoretischen Grundlagen der modernen Demokratie, sein 'Émile' revolutionierte die Paedagogik, und seine 'Confessions' begruendeten die moderne Autobiografie. Er sah die Zivilisation als Ursache der Ungleichheit und plaedierte fuer die Rueckkehr zur Natur.",
+    "biografie": {
+      "fruehesLeben": "Jean-Jacques Rousseau wurde am 28. Juni 1712 in Genf als Sohn des Uhrmachers Isaac Rousseau geboren. Seine Mutter starb wenige Tage nach der Geburt, wofuer er sich zeitlebens schuldig fuehlte. Sein Vater, ein sentimentaler und unbestaendiger Mann, las mit dem Knaben naechtelang Romane und pflanzte ihm eine schwaermerische Empfindsamkeit ein. Nach einem Streit floh der Vater aus Genf, und der zehnjaehrige Jean-Jacques wurde einem Pastor in Bossey anvertraut. Es folgten Jahre der Unstetigkeit: Er wurde Lehrling bei einem Kupferstecher, floh 1728 aus Genf und kam unter den Schutz der Baronin Françoise-Louise de Warens in Annecy, die ihn zum Katholizismus bekehrte und seine Goennerin und schliesslich seine Geliebte wurde.",
+      "schaffen": "1742 ging Rousseau nach Paris, wo er ein neues Notationssystem fuer Musik vorstellte (ohne Erfolg) und Bekanntschaft mit den Enzyklopaedisten Diderot, d'Alembert und Condillac schloss. Der Durchbruch kam 1750 mit seiner Preisschrift fuer die Akademie von Dijon, dem 'Discours sur les sciences et les arts', in dem er provokant argumentierte, dass der Fortschritt der Kuenste und Wissenschaften nicht zur moralischen Verbesserung, sondern zur Verderbnis der Menschheit gefuehrt habe. Im 'Discours sur l'inégalité' (1755) entwickelte er seine Theorie des Naturzustands: Der Mensch ist von Natur aus gut; erst die Entstehung des Privateigentums und der Zivilisation haben Ungleichheit, Neid und Unterdrueckung hervorgebracht.",
+      "spaetesLeben": "Die Veroeffentlichung von 'Émile' und 'Contrat social' 1762 brachte Rousseau in ernste Schwierigkeiten: Beide Werke wurden in Paris und Genf verurteilt und oeffentlich verbrannt, und gegen Rousseau wurde ein Haftbefehl erlassen. Er floh in die Schweiz, dann nach England (auf Einladung David Humes) und kehrte schliesslich unter falschem Namen nach Frankreich zurueck. In diesen Jahren entwickelte er zunehmend paranoide Zuege und brach mit fast allen seinen frueheren Freunden.",
+      "tod": "Rousseau starb am 2. Juli 1778 in Ermenonville bei Paris, wo ihm der Marquis de Girardin ein Refugium geboten hatte. Die Umstaende seines Todes sind umstritten – moeglicherweise erlitt er einen Schlaganfall. Er wurde auf der Île des Peupliers im Park von Ermenonville bestattet, die zu einer Pilgerstaette der Revolutionaere wurde. 1794, waehrend der Franzoesischen Revolution, wurden seine sterblichen Ueberreste in das Panthéon in Paris ueberfuehrt, wo sie Voltaires Grab gegenueberliegen – eine symboltraechtige Nachbarschaft zweier Geistesgroessen, die sich zu Lebzeiten befehdet hatten.",
+      "nachwirkung": "Rousseaus Einfluss auf die moderne Welt ist kaum zu ueberschaetzen. Die Franzoesische Revolution berief sich ausdruecklich auf seine Ideen der Volkssouveraenitaet und des Gemeinwillens – Robespierre verehrte ihn als geistigen Vater. In der Paedagogik revolutionierte der 'Émile' die Erziehungspraxis und beeinflusste Pestalozzi, Froebel und Montessori. In der Literatur begruendeten seine 'Confessions' die moderne Autobiografie und sein empfindsamer Stil die Romantik. Kant bewunderte ihn als den 'Newton der moralischen Welt'. In der politischen Philosophie beeinflusste er Marx, die Kommunitaristen und die Demokratietheorie. Kritiker wie Isaiah Berlin sehen in seinem Konzept des Gemeinwillens allerdings auch den Keim totalitaerer Ideologien."
+    },
+    "kernideen": [
+      {
+        "titel": "Der Mensch ist von Natur aus gut",
+        "beschreibung": "Im Naturzustand ist der Mensch frei, gluecklich und moralisch unschuldig. Erst die Zivilisation – insbesondere das Privateigentum – hat ihn verdorben. Diese These steht im scharfen Gegensatz zu Hobbes' Auffassung des Naturzustands als Krieg aller gegen alle."
+      },
+      {
+        "titel": "Volonté générale (Gemeinwille)",
+        "beschreibung": "Der Gemeinwille ist nicht die Summe der Einzelwillen, sondern das wahre, gemeinsame Interesse aller Buerger. Er bildet die Grundlage politischer Legitimitaet und kann nicht irren – wobei die Frage, wie er zu ermitteln ist, bis heute umstritten bleibt."
+      },
+      {
+        "titel": "Naturgemaesse Erziehung",
+        "beschreibung": "Die Erziehung soll sich an der natuerlichen Entwicklung des Kindes orientieren und dessen natuerliche Neugier und Entdeckungsfreude foerdern, statt es mit abstraktem Wissen zu ueberfrachten. Das Kind soll aus eigener Erfahrung lernen."
+      },
+      {
+        "titel": "Zivilisationskritik",
+        "beschreibung": "Der Fortschritt der Kuenste und Wissenschaften hat nicht zur moralischen Verbesserung, sondern zur Verderbnis gefuehrt. Die Ungleichheit unter den Menschen ist nicht natuerlich, sondern eine Folge der gesellschaftlichen Entwicklung, insbesondere der Einfuehrung des Privateigentums."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Du contrat social (Vom Gesellschaftsvertrag)",
+        "jahr": "1762",
+        "beschreibung": "Rousseaus politisches Hauptwerk, das die Volkssouveraenitaet, den Gemeinwillen und die Legitimitaet politischer Herrschaft durch den Gesellschaftsvertrag begruendet."
+      },
+      {
+        "titel": "Émile ou de l'éducation",
+        "jahr": "1762",
+        "beschreibung": "Ein Erziehungsroman, der die naturgemaesse Entwicklung eines Knaben von der Geburt bis zur Ehe schildert und die moderne Paedagogik revolutionierte."
+      },
+      {
+        "titel": "Discours sur l'origine et les fondements de l'inégalité parmi les hommes",
+        "jahr": "1755",
+        "beschreibung": "Der Zweite Diskurs ueber den Ursprung der Ungleichheit, der den Naturzustand als Zustand der Freiheit und Gleichheit beschreibt und die Entstehung der Ungleichheit auf das Privateigentum zurueckfuehrt."
+      },
+      {
+        "titel": "Discours sur les sciences et les arts",
+        "jahr": "1750",
+        "beschreibung": "Der Erste Diskurs, der Rousseaus Durchbruch markierte: Der Fortschritt der Wissenschaften hat die Sitten nicht verbessert, sondern verdorben."
+      }
+    ]
+  }
 }

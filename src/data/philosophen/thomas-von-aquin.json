@@ -18,7 +18,12 @@
   },
   "epoche": "Mittelalter",
   "region": "Italien / Frankreich",
-  "hauptstroemungen": ["Scholastik", "Thomismus", "Aristotelismus", "Christliche Philosophie"],
+  "hauptstroemungen": [
+    "Scholastik",
+    "Thomismus",
+    "Aristotelismus",
+    "Christliche Philosophie"
+  ],
   "kurzbeschreibung": "Thomas von Aquin war der bedeutendste Theologe und Philosoph des Mittelalters. Seine monumentale Synthese von aristotelischer Philosophie und christlicher Theologie in der 'Summa Theologiae' wurde zum intellektuellen Fundament der katholischen Kirche.",
   "biografie": {
     "fruehesLeben": "Thomas wurde 1225 auf der Burg Roccasecca bei Aquino in Süditalien geboren, als jüngster Sohn des Grafen Landolfo von Aquino. Die Familie gehörte zum niederen Adel und war mit den Stauferkaisern verwandt. Mit fünf Jahren wurde er als Oblate in das Benediktinerkloster Montecassino gegeben, wo er seine erste Ausbildung erhielt. 1239 wechselte er an die Universität Neapel, wo er erstmals mit den Werken des Aristoteles in Berührung kam. 1244 trat er gegen den heftigen Widerstand seiner Familie in den Dominikanerorden ein – ein Bettelorden, was für einen Adeligen als unwürdig galt. Seine Brüder entführten ihn und hielten ihn über ein Jahr auf der Familienburg gefangen. Der Legende nach schickten sie ihm eine Prostituierte, die er mit einem glühenden Holzscheit vertrieb. Schließlich gaben sie nach.",
@@ -98,6 +103,69 @@
       "kontext": "Thomas' empiristischer Grundsatz der Erkenntnistheorie, gegen die augustinische Illuminationslehre."
     }
   ],
-  "verwandtePhilosophen": ["aristoteles", "augustinus", "albertus-magnus", "boethius", "anselm-von-canterbury", "duns-scotus"],
-  "verwandteIsmen": ["thomismus", "scholastik", "aristotelismus", "naturrecht", "realismus"]
+  "verwandtePhilosophen": [
+    "aristoteles",
+    "augustinus",
+    "albertus-magnus",
+    "boethius",
+    "anselm-von-canterbury",
+    "duns-scotus"
+  ],
+  "verwandteIsmen": [
+    "thomismus",
+    "scholastik",
+    "aristotelismus",
+    "naturrecht",
+    "realismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Thomas von Aquin war der bedeutendste Theologe und Philosoph des Mittelalters. Seine monumentale Synthese von aristotelischer Philosophie und christlicher Theologie in der 'Summa Theologiae' wurde zum intellektuellen Fundament der katholischen Kirche.",
+    "biografie": {
+      "fruehesLeben": "Thomas wurde 1225 auf der Burg Roccasecca bei Aquino in Sueditalien geboren, als juengster Sohn des Grafen Landolfo von Aquino. Die Familie gehoerte zum niederen Adel und war mit den Stauferkaisern verwandt. Mit fuenf Jahren wurde er als Oblate in das Benediktinerkloster Montecassino gegeben, wo er seine erste Ausbildung erhielt. 1239 wechselte er an die Universitaet Neapel, wo er erstmals mit den Werken des Aristoteles in Beruehrung kam. 1244 trat er gegen den heftigen Widerstand seiner Familie in den Dominikanerorden ein – ein Bettelorden, was fuer einen Adeligen als unwuerdig galt. Seine Brueder entfuehrten ihn und hielten ihn ueber ein Jahr auf der Familienburg gefangen. Der Legende nach schickten sie ihm eine Prostituierte, die er mit einem gluehenden Holzscheit vertrieb.",
+      "schaffen": "Thomas studierte unter Albertus Magnus in Koeln und Paris und wurde dessen begabtester Schueler. In Paris lehrte er ab 1256 als Magister der Theologie an der Universitaet. Seine Mitschueler nannten ihn zunaechst wegen seiner Schweigsamkeit und seines massigen Koerperbaus den 'stummen Ochsen', worauf Albertus Magnus prophezeite: 'Dieses Bruellen wird die ganze Welt erfuellen.' Thomas' Lebenswerk war die systematische Verbindung der aristotelischen Philosophie mit der christlichen Theologie – ein gewaltiges und umstrittenes Unternehmen, da Aristoteles von vielen Theologen als heidnisch und gefaehrlich angesehen wurde.",
+      "spaetesLeben": "In seinen letzten Lebensjahren arbeitete Thomas fieberhaft an der Summa Theologiae. Am 6. Dezember 1273 hatte er waehrend der Messe eine mystische Erfahrung, nach der er das Schreiben einstellte. Auf die Frage seines Sekretaers Reginald, warum er nicht mehr schreibe, antwortete er: 'Alles, was ich geschrieben habe, erscheint mir wie Stroh verglichen mit dem, was mir offenbart wurde.' Die Summa Theologiae blieb unvollendet.",
+      "tod": "Thomas starb am 7. Maerz 1274 in der Zisterzienserabtei Fossanova auf dem Weg zum Konzil von Lyon, zu dem Papst Gregor X. ihn eingeladen hatte. Er war 49 Jahre alt. Er wurde 1323 heiliggesprochen und 1567 zum Kirchenlehrer erklaert. 1879 erklaerte Papst Leo XIII. in der Enzyklika 'Aeterni Patris' den Thomismus zur offiziellen Philosophie der katholischen Kirche.",
+      "nachwirkung": "Thomas von Aquin ist der einflussreichste Theologe und Philosoph des Mittelalters und einer der wichtigsten Denker der westlichen Zivilisation. Seine Synthese von Vernunft und Glaube, von Aristotelismus und Christentum, wurde zum intellektuellen Fundament der katholischen Kirche. Der Neuthomismus des 19. und 20. Jahrhunderts erlebte eine Renaissance seiner Ideen. Sein Einfluss reicht von der Naturrechtslehre ueber die analytische Philosophie (Elizabeth Anscombe, Alasdair MacIntyre) bis zur Politischen Theorie."
+    },
+    "kernideen": [
+      {
+        "titel": "Fuenf Gottesbeweise (Quinque Viae)",
+        "beschreibung": "Fuenf Wege, die Existenz Gottes aus der Erfahrung zu beweisen: (1) Aus der Bewegung (Unbewegter Beweger), (2) aus der Kausalitaet (Erste Ursache), (3) aus der Kontingenz (Notwendiges Wesen), (4) aus den Vollkommenheitsstufen, (5) aus der Zweckmaessigkeit der Natur."
+      },
+      {
+        "titel": "Verhaeltnis von Vernunft und Glaube",
+        "beschreibung": "Vernunft und Glaube widersprechen einander nicht, da beide von Gott stammen. Die Vernunft kann vieles ueber Gott erkennen; was sie nicht erreicht, ergaenzt der Glaube. Die Philosophie ist die 'Magd der Theologie'."
+      },
+      {
+        "titel": "Naturrecht",
+        "beschreibung": "Das Naturrecht ist die Teilhabe der vernuenftigen Kreatur am ewigen Gesetz Gottes. Seine erste Vorschrift lautet: Das Gute ist zu tun und zu erstreben, das Boese ist zu meiden. Es ist universell und unveraenderlich."
+      },
+      {
+        "titel": "Analogie des Seienden",
+        "beschreibung": "Das Wort 'Sein' wird nicht eindeutig (univok) und nicht mehrdeutig (aequivok), sondern analog verwendet. Gott und die Geschoepfe haben teil am Sein, aber in unterschiedlicher Weise."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Summa Theologiae",
+        "jahr": "1265–1273",
+        "beschreibung": "Das Hauptwerk der scholastischen Theologie in drei Teilen: Gott (Prima Pars), der Mensch und seine Handlungen (Secunda Pars) und Christus als Weg zu Gott (Tertia Pars). Unvollendet. Umfasst ueber 3000 Artikel."
+      },
+      {
+        "titel": "Summa contra Gentiles",
+        "jahr": "1259–1265",
+        "beschreibung": "Philosophische Verteidigung des christlichen Glaubens gegen Nichtchristen in vier Buechern. Die drei ersten Buecher argumentieren rein philosophisch, das vierte auf Grundlage der Offenbarung."
+      },
+      {
+        "titel": "De ente et essentia (Ueber das Seiende und das Wesen)",
+        "jahr": "1252–1256",
+        "beschreibung": "Fruehwerk ueber die metaphysischen Grundbegriffe: Sein, Wesen, Form, Materie, Substanz und Akzidens. Grundlegend fuer die thomistische Metaphysik."
+      },
+      {
+        "titel": "Quaestiones disputatae (Umstrittene Fragen)",
+        "jahr": "1256–1272",
+        "beschreibung": "Sammlung von akademischen Disputationen ueber zentrale Themen: De veritate (Ueber die Wahrheit), De potentia (Ueber die Macht Gottes), De malo (Ueber das Boese), De anima (Ueber die Seele)."
+      }
+    ]
+  }
 }

@@ -11,13 +11,44 @@
     "Emotionale Zuwendung ist ein wesentlicher Teil moralischen Handelns",
     "Die traditionelle Ethik übersieht die Bedeutung von Abhängigkeit und Fürsorge"
   ],
-  "hauptvertreter": ["simone-de-beauvoir"],
+  "hauptvertreter": [
+    "simone-de-beauvoir"
+  ],
   "entstehung": "Die Care-Ethik entwickelte sich in den 1980er Jahren aus der feministischen Philosophie, insbesondere aus Carol Gilligans Kritik an Kohlbergs Moralentwicklungstheorie. Simone de Beauvoirs Analyse der weiblichen Erfahrung und der ethischen Bedeutung von Beziehung bereitete den Boden.",
   "kritik": "Kritiker werfen der Care-Ethik vor, sie romantisiere die weibliche Fürsorgearbeit und zementiere traditionelle Geschlechterrollen. Zudem wird bemängelt, dass eine Ethik der Fürsorge keine klaren Kriterien biete, um zwischen berechtigten und unberechtigten Ansprüchen zu unterscheiden.",
-  "verwandteIsmen": ["ethischer-pluralismus", "verantwortungsethik", "diskursethik"],
+  "verwandteIsmen": [
+    "ethischer-pluralismus",
+    "verantwortungsethik",
+    "diskursethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Das andere Geschlecht", "autor": "Simone de Beauvoir", "jahr": "1949"},
-    {"titel": "Die andere Stimme", "autor": "Carol Gilligan", "jahr": "1982"},
-    {"titel": "Caring", "autor": "Nel Noddings", "jahr": "1984"}
-  ]
+    {
+      "titel": "Das andere Geschlecht",
+      "autor": "Simone de Beauvoir",
+      "jahr": "1949"
+    },
+    {
+      "titel": "Die andere Stimme",
+      "autor": "Carol Gilligan",
+      "jahr": "1982"
+    },
+    {
+      "titel": "Caring",
+      "autor": "Nel Noddings",
+      "jahr": "1984"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Care-Ethik stellt Fuersorge, Beziehung und Verantwortung fuer Andere in den Mittelpunkt der Moral.",
+    "ausfuehrlicheBeschreibung": "Die Care-Ethik ist eine ethische Stroemung, die Fuersorge – das Sorgen fuer andere, das Aufmerksamsein fuer ihre Beduerfnisse, das Eingehen auf ihre Verletzlichkeit – als Grundlage der Moral begreift. Sie wendet sich gegen abstrakte Prinzipienethiken, die moralisches Handeln auf die Befolgung allgemeiner Regeln reduzieren, und betont stattdessen die Bedeutung konkreter Beziehungen und emotionaler Zuwendung.\n\nSimone de Beauvoir leistete mit ihrer Analyse der weiblichen Existenz und der ethischen Bedeutung von Zwischenleiblichkeit und Beziehung einen wichtigen Beitrag zur philosophischen Grundlegung der Care-Ethik. Ihre Reflexionen ueber die Situation der Frau, die traditionell mit Fuersorgearbeit betraut wird, zeigten sowohl die unterdrueckende als auch die ethisch wertvolle Dimension dieser Taetigkeit auf.\n\nDie Care-Ethik hat eine tiefgreifende Kritik an der westlichen Moralphilosophie formuliert: Die traditionelle Ethik, von Kant bis zum Utilitarismus, orientiert sich am Modell des autonomen, rationalen Individuums und uebersieht die fundamentale Abhaengigkeit und Verletzlichkeit des Menschen. Die Care-Ethik erinnert daran, dass jeder Mensch als hilfloses Kind beginnt und auf die Fuersorge anderer angewiesen ist – und dass diese Grundtatsache die Ethik praegen muss.",
+    "kernthesen": [
+      "Fuersorge ist die Grundlage der Moral",
+      "Konkrete Beziehungen sind wichtiger als abstrakte Prinzipien",
+      "Der Mensch ist fundamental verletzlich und auf andere angewiesen",
+      "Emotionale Zuwendung ist ein wesentlicher Teil moralischen Handelns",
+      "Die traditionelle Ethik uebersieht die Bedeutung von Abhaengigkeit und Fuersorge"
+    ],
+    "entstehung": "Die Care-Ethik entwickelte sich in den 1980er Jahren aus der feministischen Philosophie, insbesondere aus Carol Gilligans Kritik an Kohlbergs Moralentwicklungstheorie. Simone de Beauvoirs Analyse der weiblichen Erfahrung und der ethischen Bedeutung von Beziehung bereitete den Boden.",
+    "kritik": "Kritiker werfen der Care-Ethik vor, sie romantisiere die weibliche Fuersorgearbeit und zementiere traditionelle Geschlechterrollen. Zudem wird bemaengelt, dass eine Ethik der Fuersorge keine klaren Kriterien biete, um zwischen berechtigten und unberechtigten Anspruechen zu unterscheiden."
+  }
 }

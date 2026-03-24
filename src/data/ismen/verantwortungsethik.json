@@ -11,13 +11,44 @@
     "Eigenständiges Urteilen ist eine moralische Pflicht",
     "In der modernen Welt ist Verantwortung für die Zukunft unerlässlich"
   ],
-  "hauptvertreter": ["hannah-arendt"],
+  "hauptvertreter": [
+    "hannah-arendt"
+  ],
   "entstehung": "Die Verantwortungsethik wurde von Max Weber in seiner Unterscheidung zwischen Gesinnungsethik und Verantwortungsethik (1919) begründet und von Hannah Arendt, Hans Jonas und anderen Denkern des 20. Jahrhunderts weiterentwickelt.",
   "kritik": "Kritiker werfen der Verantwortungsethik vor, sie führe zu einem unbegrenzten Verantwortungsbegriff, der den Einzelnen überfordert. Zudem wird die Frage gestellt, wie weit die Verantwortung reichen soll und ob eine reine Folgenorientierung nicht die Bedeutung der moralischen Integrität des Handelnden unterschätzt.",
-  "verwandteIsmen": ["gesinnungsethik", "diskursethik", "care-ethik"],
+  "verwandteIsmen": [
+    "gesinnungsethik",
+    "diskursethik",
+    "care-ethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Eichmann in Jerusalem", "autor": "Hannah Arendt", "jahr": "1963"},
-    {"titel": "Vita activa", "autor": "Hannah Arendt", "jahr": "1958"},
-    {"titel": "Das Prinzip Verantwortung", "autor": "Hans Jonas", "jahr": "1979"}
-  ]
+    {
+      "titel": "Eichmann in Jerusalem",
+      "autor": "Hannah Arendt",
+      "jahr": "1963"
+    },
+    {
+      "titel": "Vita activa",
+      "autor": "Hannah Arendt",
+      "jahr": "1958"
+    },
+    {
+      "titel": "Das Prinzip Verantwortung",
+      "autor": "Hans Jonas",
+      "jahr": "1979"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Verantwortungsethik stellt die Verantwortung des Handelnden fuer die Folgen seines Tuns in den Mittelpunkt.",
+    "ausfuehrlicheBeschreibung": "Die Verantwortungsethik betont die Pflicht des Handelnden, die voraussehbaren Folgen seines Tuns in seine moralische Ueberlegung einzubeziehen und fuer die Konsequenzen einzustehen. Sie steht im Gegensatz zur Gesinnungsethik, die den moralischen Wert einer Handlung allein an der Absicht des Handelnden misst, unabhaengig von den tatsaechlichen Ergebnissen.\n\nHannah Arendt vertiefte das Konzept der Verantwortung in politischer Hinsicht: In einer Welt, in der Handlungen unvorhersehbare Folgen haben und das Boese oft in der Gedankenlosigkeit wurzelt, ist Verantwortung nicht nur die Pflicht, fuer die Folgen des eigenen Handelns einzustehen, sondern auch die Faehigkeit, eigenstaendig zu urteilen und sich nicht hinter Befehlen, Systemen oder Ideologien zu verstecken. Die Banalitaet des Boesen zeigt, was geschieht, wenn Menschen ihre Verantwortung aufgeben.\n\nDie Verantwortungsethik gewinnt in der modernen Welt zunehmend an Bedeutung: Angesichts globaler Herausforderungen wie Klimawandel, Atomwaffen und kuenstlicher Intelligenz reicht die gute Absicht nicht mehr aus. Es bedarf einer Ethik, die den Menschen dazu anhaelt, die langfristigen und weitreichenden Folgen seines Handelns zu bedenken und Verantwortung fuer die Zukunft zu uebernehmen.",
+    "kernthesen": [
+      "Der Handelnde muss Verantwortung fuer die Folgen seines Tuns uebernehmen",
+      "Nicht die Gesinnung, sondern die Konsequenzen bestimmen den moralischen Wert",
+      "Gedankenlosigkeit ist eine der tiefsten Quellen des Boesen",
+      "Eigenstaendiges Urteilen ist eine moralische Pflicht",
+      "In der modernen Welt ist Verantwortung fuer die Zukunft unerlaesslich"
+    ],
+    "entstehung": "Die Verantwortungsethik wurde von Max Weber in seiner Unterscheidung zwischen Gesinnungsethik und Verantwortungsethik (1919) begruendet und von Hannah Arendt, Hans Jonas und anderen Denkern des 20. Jahrhunderts weiterentwickelt.",
+    "kritik": "Kritiker werfen der Verantwortungsethik vor, sie fuehre zu einem unbegrenzten Verantwortungsbegriff, der den Einzelnen ueberfordert. Zudem wird die Frage gestellt, wie weit die Verantwortung reichen soll und ob eine reine Folgenorientierung nicht die Bedeutung der moralischen Integritaet des Handelnden unterschaetzt."
+  }
 }

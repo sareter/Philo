@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Ionien (Kleinasien)",
-  "hauptstroemungen": ["Vorsokratik", "Naturphilosophie", "Dialektik"],
+  "hauptstroemungen": [
+    "Vorsokratik",
+    "Naturphilosophie",
+    "Dialektik"
+  ],
   "kurzbeschreibung": "Heraklit von Ephesos, der 'dunkle Philosoph', lehrte die ewige Veränderung aller Dinge und die Einheit der Gegensätze. Sein berühmtes 'Panta rhei' (Alles fließt) wurde zum Sinnbild für die Philosophie des Werdens und der Prozesshaftigkeit.",
   "biografie": {
     "fruehesLeben": "Heraklit wurde um 535 v. Chr. in Ephesos geboren, einer der bedeutendsten griechischen Städte Ioniens. Er entstammte der königlichen Familie der Androkliden, die sich auf den Stadtgründer Androklos und damit auf den attischen König Kodros zurückführte. Mit seiner Abstammung war das Amt des Basileus (König/Oberpriester) verbunden, das vor allem kultische Aufgaben umfasste. Heraklit soll dieses Ehrenamt zugunsten seines Bruders abgetreten haben – ein Ausdruck seiner aristokratischen Verachtung für die Massen und die Demokratie. Er war bekannt für seine misanthropische und arrogante Haltung und wurde bereits in der Antike als 'der Dunkle' (ho skoteinos) bezeichnet, da seine Schriften bewusst rätselhaft und orakelhaft formuliert waren. Man erzählte sich, er habe erklärt, er habe 'sich selbst erforscht' und alles von sich selbst gelernt, ohne Lehrer.",
@@ -84,6 +88,52 @@
       "kontext": "Heraklit über die unsichtbare Ordnung hinter dem scheinbaren Chaos der Welt."
     }
   ],
-  "verwandtePhilosophen": ["parmenides", "thales", "anaximander", "platon", "zenon-von-kition"],
-  "verwandteIsmen": ["dialektik", "prozessphilosophie", "monismus", "naturalismus"]
+  "verwandtePhilosophen": [
+    "parmenides",
+    "thales",
+    "anaximander",
+    "platon",
+    "zenon-von-kition"
+  ],
+  "verwandteIsmen": [
+    "dialektik",
+    "prozessphilosophie",
+    "monismus",
+    "naturalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Heraklit von Ephesos, der 'dunkle Philosoph', lehrte die ewige Veraenderung aller Dinge und die Einheit der Gegensaetze. Sein beruehmtes 'Panta rhei' (Alles fliesst) wurde zum Sinnbild fuer die Philosophie des Werdens und der Prozesshaftigkeit.",
+    "biografie": {
+      "fruehesLeben": "Heraklit wurde um 535 v. Chr. in Ephesos geboren, einer der bedeutendsten griechischen Staedte Ioniens. Er entstammte der koeniglichen Familie der Androkliden, die sich auf den Stadtgruender Androklos und damit auf den attischen Koenig Kodros zurueckfuehrte. Mit seiner Abstammung war das Amt des Basileus (Koenig/Oberpriester) verbunden, das vor allem kultische Aufgaben umfasste. Heraklit soll dieses Ehrenamt zugunsten seines Bruders abgetreten haben – ein Ausdruck seiner aristokratischen Verachtung fuer die Massen und die Demokratie. Er war bekannt fuer seine misanthropische und arrogante Haltung und wurde bereits in der Antike als 'der Dunkle' (ho skoteinos) bezeichnet, da seine Schriften bewusst raetselhaft und orakelhaft formuliert waren.",
+      "schaffen": "Heraklits Philosophie kreist um den Gedanken des ewigen Wandels und der Einheit der Gegensaetze. Sein zentraler Begriff ist der Logos – ein vieldeutiges Wort, das Vernunft, Gesetz, Verhaeltnis und Wort bedeutet. Der Logos ist das universale Gesetz, das allen Dingen zugrunde liegt und den ewigen Wandel ordnet. Alles fliesst (panta rhei), nichts bleibt bestehen – beruehmt ist das Bild: 'In dieselben Fluesse steigen wir und steigen wir nicht, wir sind und sind nicht.' Doch der Wandel folgt einer verborgenen Ordnung, dem Logos. Die Gegensaetze sind nicht wirklich getrennt, sondern bilden eine verborgene Einheit: 'Der Weg hinauf und der Weg hinab sind ein und derselbe.' Tag und Nacht, Leben und Tod, Krieg und Frieden – alle Gegensaetze sind Aspekte einer einzigen Wirklichkeit.",
+      "spaetesLeben": "In seinen spaeteren Jahren soll sich Heraklit noch weiter von der Gesellschaft zurueckgezogen haben. Es heisst, er habe sich schliesslich in die Berge zurueckgezogen und sich von Graesern und Kraeutern ernaehrt. Diogenes Laertios berichtet, dass er an Wassersucht erkrankte und in die Stadt zurueckkehrte, um die Aerzte in seiner typisch raetselhaften Art zu fragen, ob sie aus einem Regenguss eine Duerre machen koennten. Als sie seine Frage nicht verstanden, soll er sich in einen Kuhstall gelegt und sich mit Kuhdung bedeckt haben, in der Hoffnung, die Feuchtigkeit werde so verdunsten.",
+      "tod": "Heraklit starb um 475 v. Chr. in Ephesos. Die Ueberlieferung berichtet, er sei im Alter von 60 Jahren gestorben, moeglicherweise an seiner Wassersuchterkrankung. Die groteske Geschichte seiner Selbstbehandlung mit Kuhdung mag eine spaetere Erfindung sein, passt aber zu dem exzentrischen Bild, das die Antike von ihm zeichnete.",
+      "nachwirkung": "Heraklits Einfluss auf die abendlaendische Philosophie ist immens. Platon uebernahm von ihm die Lehre vom ewigen Fluss der sinnlichen Welt, stellte ihr aber die unveraenderliche Ideenwelt gegenueber. Die Stoiker sahen in seinem Logos-Begriff einen Vorlaeufer ihrer Lehre vom goettlichen Weltgesetz. Hegel griff Heraklits Dialektik der Gegensaetze auf und machte sie zum Grundprinzip seiner Philosophie. Nietzsche verehrte Heraklit als den kuehnsten der vorsokratischen Denker. In der modernen Philosophie hat die Prozessphilosophie Whiteheads heraklitische Zuege, und die Physik des 20. Jahrhunderts bestaetigte die Grundintuition, dass die Wirklichkeit auf fundamentaler Ebene ein staendiger Wandel ist."
+    },
+    "kernideen": [
+      {
+        "titel": "Panta Rhei (Alles fliesst)",
+        "beschreibung": "Alles ist in staendiger Veraenderung begriffen. Nichts ist dauerhaft, alles wird und vergeht. Man kann nicht zweimal in denselben Fluss steigen, denn stets stroemen andere Wasser nach."
+      },
+      {
+        "titel": "Einheit der Gegensaetze",
+        "beschreibung": "Die Gegensaetze bilden eine verborgene Einheit. Tag und Nacht, Leben und Tod, Aufstieg und Abstieg sind verschiedene Seiten derselben Wirklichkeit. Aus dem Kampf der Gegensaetze entsteht die Harmonie des Ganzen."
+      },
+      {
+        "titel": "Der Logos",
+        "beschreibung": "Der Logos ist das universale Vernunftgesetz, das den ewigen Wandel ordnet und durchdringt. Er ist die verborgene Struktur der Wirklichkeit, die die meisten Menschen nicht erkennen, obwohl sie ihn staendig erfahren."
+      },
+      {
+        "titel": "Das Feuer als Urelement",
+        "beschreibung": "Das Feuer ist der Urstoff und das Symbol des ewigen Wandels. Die Welt ist ewig lebendiges Feuer, das sich nach Massen entzuendet und nach Massen erlischt."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Ueber die Natur (Peri Physeos)",
+        "jahr": "ca. 500 v. Chr.",
+        "beschreibung": "Heraklits einziges Werk, das er angeblich im Artemis-Tempel von Ephesos hinterlegte. Es bestand aus drei Teilen: ueber das Weltall, ueber den Staat und ueber die Theologie. Nur etwa 130 Fragmente sind erhalten, die durch ihre orakelhafte Dunkelheit beruehmt sind."
+      }
+    ]
+  }
 }

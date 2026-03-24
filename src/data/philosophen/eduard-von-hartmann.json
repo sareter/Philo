@@ -18,7 +18,10 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Pessimismus", "Idealismus"],
+  "hauptstroemungen": [
+    "Pessimismus",
+    "Idealismus"
+  ],
   "kurzbeschreibung": "Eduard von Hartmann war ein deutscher Philosoph, der versuchte, Schopenhauers Willensmetaphysik mit Hegels dialektischem Idealismus zu verbinden. Sein Hauptwerk 'Philosophie des Unbewussten' (1869) wurde ein Bestseller und machte das Konzept des Unbewussten populär, lange bevor Freud es aufgriff. Er vertrat einen evolutionären Pessimismus, der die Menschheitsgeschichte als Prozess zunehmender Desillusionierung verstand.",
   "biografie": {
     "fruehesLeben": "Eduard von Hartmann wurde 1842 in Berlin als Sohn eines preußischen Offiziers geboren. Er schlug zunächst eine militärische Laufbahn ein, musste diese aber wegen eines Knieleidens aufgeben und wandte sich der Philosophie zu.",
@@ -84,6 +87,64 @@
       "kontext": "Hartmanns paradoxe Verteidigung des Pessimismus als Motor des kulturellen Fortschritts."
     }
   ],
-  "verwandtePhilosophen": ["arthur-schopenhauer", "georg-wilhelm-friedrich-hegel", "julius-bahnsen", "friedrich-nietzsche"],
-  "verwandteIsmen": ["pessimismus", "idealismus"]
+  "verwandtePhilosophen": [
+    "arthur-schopenhauer",
+    "georg-wilhelm-friedrich-hegel",
+    "julius-bahnsen",
+    "friedrich-nietzsche"
+  ],
+  "verwandteIsmen": [
+    "pessimismus",
+    "idealismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Eduard von Hartmann war ein deutscher Philosoph, der versuchte, Schopenhauers Willensmetaphysik mit Hegels dialektischem Idealismus zu verbinden. Sein Hauptwerk 'Philosophie des Unbewussten' (1869) wurde ein Bestseller und machte das Konzept des Unbewussten populaer, lange bevor Freud es aufgriff. Er vertrat einen evolutionaeren Pessimismus, der die Menschheitsgeschichte als Prozess zunehmender Desillusionierung verstand.",
+    "biografie": {
+      "fruehesLeben": "Eduard von Hartmann wurde 1842 in Berlin als Sohn eines preussischen Offiziers geboren. Er schlug zunaechst eine militaerische Laufbahn ein, musste diese aber wegen eines Knieleidens aufgeben und wandte sich der Philosophie zu.",
+      "schaffen": "Mit nur 27 Jahren veroeffentlichte Hartmann seine 'Philosophie des Unbewussten' (1869), die sofort zu einem Bestseller wurde und ihn beruehmt machte. Er verband Schopenhauers Willensphilosophie mit Hegels Idealismus und Schellings Naturphilosophie zu einem eigenstaendigen System. In zahlreichen weiteren Werken entwickelte er Theorien zur Aesthetik, Ethik und Religion.",
+      "spaetesLeben": "Trotz seines fruehen Ruhmes wurde Hartmann von der akademischen Philosophie zunehmend ignoriert. Er lebte als Privatgelehrter in Gross-Lichterfelde bei Berlin und schrieb unermuedlich an seinem philosophischen System.",
+      "tod": "Eduard von Hartmann starb 1906 in Gross-Lichterfelde. Sein umfangreiches Werk, das zu seinen Lebzeiten weithin gelesen wurde, geriet im 20. Jahrhundert weitgehend in Vergessenheit.",
+      "nachwirkung": "Hartmanns groesster Einfluss liegt in der Popularisierung des Begriffs des Unbewussten, der den Weg fuer die Psychoanalyse Freuds ebnete. Seine Verbindung von Pessimismus und Evolutionsdenken beeinflusste auch spaetere Kulturkritiker."
+    },
+    "kernideen": [
+      {
+        "titel": "Das Unbewusste",
+        "beschreibung": "Hartmann versteht das Unbewusste als metaphysisches Prinzip, das Wille und Vorstellung vereint und als treibende Kraft hinter allen Naturprozessen und dem menschlichen Handeln wirkt. Es ist die eigentliche Substanz der Wirklichkeit."
+      },
+      {
+        "titel": "Evolutionaerer Pessimismus",
+        "beschreibung": "Die Geschichte der Menschheit durchlaeuft drei Stadien der Illusion: das Glueck im Diesseits (Antike), das Glueck im Jenseits (Mittelalter) und das Glueck in der Zukunft (Moderne). Jede Illusion wird enttaeuscht, was letztlich zur Einsicht in die Unheilbarkeit des Leidens fuehrt."
+      },
+      {
+        "titel": "Synthese von Schopenhauer und Hegel",
+        "beschreibung": "Hartmann versucht, Schopenhauers blinden Willen mit Hegels vernuenftiger Idee zu verbinden. Das Unbewusste enthaelt beide Momente: Es ist zugleich irrationaler Wille und logische Idee, was zu einem teleologischen Pessimismus fuehrt."
+      },
+      {
+        "titel": "Induktive Metaphysik",
+        "beschreibung": "Hartmann plaediert fuer eine Metaphysik, die sich auf die Ergebnisse der Naturwissenschaften stuetzt, statt rein spekulativ vorzugehen. Philosophie soll die Resultate der Einzelwissenschaften zu einem Gesamtbild zusammenfuegen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Philosophie des Unbewussten",
+        "jahr": "1869",
+        "beschreibung": "Hartmanns Hauptwerk, das das Unbewusste als metaphysisches Grundprinzip darstellt und ein Bestseller des 19. Jahrhunderts wurde. Es erschien in zahlreichen Auflagen und Uebersetzungen."
+      },
+      {
+        "titel": "Phaenomenologie des sittlichen Bewusstseins",
+        "jahr": "1879",
+        "beschreibung": "Eine umfassende Ethik, die verschiedene moralische Standpunkte systematisch analysiert und einen evolutionaeren Standpunkt der Sittlichkeit vertritt."
+      },
+      {
+        "titel": "Aesthetik",
+        "jahr": "1886",
+        "beschreibung": "Eine systematische Philosophie des Schoenen, die das aesthetische Erleben als unbewussten Ausdruck metaphysischer Wahrheiten deutet."
+      },
+      {
+        "titel": "Die Religion des Geistes",
+        "jahr": "1882",
+        "beschreibung": "Hartmanns Religionsphilosophie, die eine Religion des Unbewussten jenseits von Theismus und Atheismus entwirft."
+      }
+    ]
+  }
 }

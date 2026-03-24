@@ -11,14 +11,53 @@
     "Kommunikative Rationalität bietet einen Ausweg aus den Pathologien der instrumentellen Vernunft",
     "Soziale Konflikte sind im Kern Kämpfe um Anerkennung"
   ],
-  "hauptvertreter": ["theodor-w-adorno", "juergen-habermas", "karl-marx", "hannah-arendt"],
+  "hauptvertreter": [
+    "theodor-w-adorno",
+    "juergen-habermas",
+    "karl-marx",
+    "hannah-arendt"
+  ],
   "entstehung": "Die Kritische Theorie entstand mit der Gründung des Instituts für Sozialforschung (1923) in Frankfurt am Main. Max Horkheimer übernahm 1930 die Leitung und formulierte das Programm einer interdisziplinären Gesellschaftstheorie. Die Emigration nach New York (1934) prägte die Analysen des Faschismus und der Kulturindustrie. Adorno und Horkheimers 'Dialektik der Aufklärung' (1947) wurde zum Schlüsselwerk. Nach der Rückkehr nach Frankfurt (1949) entwickelten Adorno, Marcuse und Habermas die Theorie weiter. Habermas' 'Theorie des kommunikativen Handelns' (1981) markierte einen Paradigmenwechsel innerhalb der Tradition.",
   "kritik": "Hans Albert und Karl Popper kritisierten die Kritische Theorie im 'Positivismusstreit' als unwissenschaftlich und dogmatisch. Die 'Dialektik der Aufklärung' wird als zu pessimistisch und als 'performativer Selbstwiderspruch' kritisiert – sie nutzt die Vernunft, um die Vernunft zu kritisieren. Adornos Behauptung, es gebe 'kein richtiges Leben im falschen', wurde als quietistisch und handlungshemmend bemängelt. Poststrukturalisten (Foucault, Derrida) kritisieren den normativen Universalismus der Kritischen Theorie. Analytische Philosophen bemängeln die Unklarheit zentraler Begriffe (Verdinglichung, Entfremdung, Kolonialisierung der Lebenswelt). Die Studentenbewegung warf der Frankfurter Schule vor, nur theoretische Kritik zu üben, aber praktische Revolution abzulehnen.",
-  "verwandteIsmen": ["hegelianismus", "kontinentalphilosophie", "egalitarismus", "kommunitarismus"],
+  "verwandteIsmen": [
+    "hegelianismus",
+    "kontinentalphilosophie",
+    "egalitarismus",
+    "kommunitarismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Dialektik der Aufklärung", "autor": "Max Horkheimer & Theodor W. Adorno", "jahr": "1947" },
-    { "titel": "Negative Dialektik", "autor": "Theodor W. Adorno", "jahr": "1966" },
-    { "titel": "Der eindimensionale Mensch", "autor": "Herbert Marcuse", "jahr": "1964" },
-    { "titel": "Theorie des kommunikativen Handelns", "autor": "Jürgen Habermas", "jahr": "1981" }
-  ]
+    {
+      "titel": "Dialektik der Aufklärung",
+      "autor": "Max Horkheimer & Theodor W. Adorno",
+      "jahr": "1947"
+    },
+    {
+      "titel": "Negative Dialektik",
+      "autor": "Theodor W. Adorno",
+      "jahr": "1966"
+    },
+    {
+      "titel": "Der eindimensionale Mensch",
+      "autor": "Herbert Marcuse",
+      "jahr": "1964"
+    },
+    {
+      "titel": "Theorie des kommunikativen Handelns",
+      "autor": "Jürgen Habermas",
+      "jahr": "1981"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Kritische Theorie ist eine philosophische und sozialwissenschaftliche Tradition der Frankfurter Schule, die Gesellschaft mit dem Ziel ihrer Emanzipation analysiert.",
+    "ausfuehrlicheBeschreibung": "Die Kritische Theorie bezeichnet die philosophisch-sozialwissenschaftliche Tradition der Frankfurter Schule, die 1923 mit der Gruendung des Instituts fuer Sozialforschung in Frankfurt am Main begann. Ihr Ziel ist eine interdisziplinaere Gesellschaftstheorie, die nicht nur beschreibt, wie die Gesellschaft ist, sondern aufzeigt, wie sie sein sollte – eine Theorie, die zugleich Erkenntnis und Emanzipation bezweckt.\n\nMax Horkheimer formulierte in seinem programmatischen Aufsatz 'Traditionelle und kritische Theorie' (1937) den Unterschied zwischen einer Wissenschaft, die sich als neutraler Beobachter versteht, und einer kritischen Theorie, die ihre eigene gesellschaftliche Bedingtheit reflektiert und auf Veraenderung der bestehenden Verhaeltnisse abzielt.\n\nTheodor W. Adorno und Horkheimer analysierten in 'Dialektik der Aufklaerung' (1947) die Selbstzerstoerung der Vernunft. Die Aufklaerung, die den Menschen von Mythos und Aberglauben befreien sollte, ist selbst in einen neuen Mythos umgeschlagen: die instrumentelle Vernunft, die alles – einschliesslich der Menschen – zum berechenbaren, beherrschbaren Objekt degradiert. Auschwitz ist nicht ein Betriebsunfall der Moderne, sondern Ausdruck einer in der instrumentellen Vernunft angelegten Tendenz.",
+    "kernthesen": [
+      "Gesellschaftstheorie muss zugleich auf Erkenntnis und Emanzipation abzielen",
+      "Die instrumentelle Vernunft der Aufklaerung schlaegt in Herrschaft und Barbarei um",
+      "Kapitalismus erzeugt systematisch Entfremdung, Verdinglichung und falsche Beduerfnisse",
+      "Kommunikative Rationalitaet bietet einen Ausweg aus den Pathologien der instrumentellen Vernunft",
+      "Soziale Konflikte sind im Kern Kaempfe um Anerkennung"
+    ],
+    "entstehung": "Die Kritische Theorie entstand mit der Gruendung des Instituts fuer Sozialforschung (1923) in Frankfurt am Main. Max Horkheimer uebernahm 1930 die Leitung und formulierte das Programm einer interdisziplinaeren Gesellschaftstheorie. Die Emigration nach New York (1934) praegte die Analysen des Faschismus und der Kulturindustrie. Adorno und Horkheimers 'Dialektik der Aufklaerung' (1947) wurde zum Schluesselwerk. Nach der Rueckkehr nach Frankfurt (1949) entwickelten Adorno, Marcuse und Habermas die Theorie weiter.",
+    "kritik": "Hans Albert und Karl Popper kritisierten die Kritische Theorie im 'Positivismusstreit' als unwissenschaftlich und dogmatisch. Die 'Dialektik der Aufklaerung' wird als zu pessimistisch und als 'performativer Selbstwiderspruch' kritisiert – sie nutzt die Vernunft, um die Vernunft zu kritisieren. Adornos Behauptung, es gebe 'kein richtiges Leben im falschen', wurde als quietistisch und handlungshemmend bemaengelt."
+  }
 }

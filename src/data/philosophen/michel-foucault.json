@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Poststrukturalismus", "Diskursanalyse", "Machttheorie"],
+  "hauptstroemungen": [
+    "Poststrukturalismus",
+    "Diskursanalyse",
+    "Machttheorie"
+  ],
   "kurzbeschreibung": "Michel Foucault war einer der einflussreichsten Denker des 20. Jahrhunderts, der mit seinen Analysen von Macht, Wissen und Subjektivität das gesamte Feld der Geistes- und Sozialwissenschaften transformierte. Seine Studien über Wahnsinn, Gefängnis, Sexualität und Diskurs zeigten, wie Macht nicht nur unterdrückt, sondern Wissen, Subjekte und Wahrheit hervorbringt.",
   "biografie": {
     "fruehesLeben": "Paul-Michel Foucault wurde am 15. Oktober 1926 in Poitiers als Sohn eines Chirurgen geboren. Er war ein brillanter, aber schwieriger Schüler, der unter Depressionen litt und einen Selbstmordversuch unternahm. Er studierte an der École Normale Supérieure in Paris (1946–1951), wo er unter dem Einfluss von Louis Althusser stand und sich mit Hegel, Marx, Heidegger und Nietzsche beschäftigte. Er erwarb Abschlüsse in Philosophie und Psychologie und arbeitete zeitweise in psychiatrischen Kliniken, was sein Interesse an Wahnsinn und Normalität weckte.",
@@ -104,6 +108,67 @@
       "kontext": "Foucaults Verständnis von Kritik als Veränderung des Wahrheitsregimes."
     }
   ],
-  "verwandtePhilosophen": ["friedrich-nietzsche", "jacques-derrida", "gilles-deleuze", "jean-paul-sartre", "juergen-habermas"],
-  "verwandteIsmen": ["poststrukturalismus", "diskursanalyse", "postmoderne", "genealogie"]
+  "verwandtePhilosophen": [
+    "friedrich-nietzsche",
+    "jacques-derrida",
+    "gilles-deleuze",
+    "jean-paul-sartre",
+    "juergen-habermas"
+  ],
+  "verwandteIsmen": [
+    "poststrukturalismus",
+    "diskursanalyse",
+    "postmoderne",
+    "genealogie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Michel Foucault war einer der einflussreichsten Denker des 20. Jahrhunderts, der mit seinen Analysen von Macht, Wissen und Subjektivitaet das gesamte Feld der Geistes- und Sozialwissenschaften transformierte. Seine Studien ueber Wahnsinn, Gefaengnis, Sexualitaet und Diskurs zeigten, wie Macht nicht nur unterdrueckt, sondern Wissen, Subjekte und Wahrheit hervorbringt.",
+    "biografie": {
+      "fruehesLeben": "Paul-Michel Foucault wurde am 15. Oktober 1926 in Poitiers als Sohn eines Chirurgen geboren. Er war ein brillanter, aber schwieriger Schueler, der unter Depressionen litt und einen Selbstmordversuch unternahm. Er studierte an der École Normale Supérieure in Paris (1946–1951), wo er unter dem Einfluss von Louis Althusser stand und sich mit Hegel, Marx, Heidegger und Nietzsche beschaeftigte. Er erwarb Abschluesse in Philosophie und Psychologie und arbeitete zeitweise in psychiatrischen Kliniken, was sein Interesse an Wahnsinn und Normalitaet weckte.",
+      "schaffen": "Foucaults erstes Hauptwerk 'Wahnsinn und Gesellschaft' (1961) zeigte, wie der Wahnsinn im Laufe der Geschichte als das 'Andere' der Vernunft konstruiert und ausgeschlossen wurde. 'Die Ordnung der Dinge' (1966) analysierte die historischen Bedingungen des Wissens (die 'Episteme') und endete mit der provokanten These vom 'Tod des Menschen' als epistemologische Figur. 'Ueberwachen und Strafen' (1975) untersuchte die Entstehung des modernen Gefaengnisses als Paradigma einer Disziplinargesellschaft, die den Koerper durch Ueberwachung und Normalisierung kontrolliert – das 'Panoptikum' Benthams wurde zum Symbol dieser Machtform. Die dreibaendige 'Geschichte der Sexualitaet' (1976–1984) analysierte, wie Sexualitaet nicht unterdrueckt, sondern durch Diskurse hervorgebracht wird.",
+      "spaetesLeben": "Ab 1970 war Foucault Professor am Collège de France mit dem selbstgewaehlten Lehrstuhltitel 'Geschichte der Denksysteme'. Er engagierte sich politisch: Er gruendete die Groupe d'information sur les prisons (GIP), unterstuetzte die iranische Revolution (was ihm spaeter Kritik einbrachte) und setzte sich fuer die Rechte von Homosexuellen ein. Seine Vorlesungen am Collège de France, die posthum veroeffentlicht wurden, enthalten einige seiner wichtigsten theoretischen Innovationen – von der Gouvernementalitaet bis zur Biopolitik.",
+      "tod": "Michel Foucault starb am 25. Juni 1984 in Paris an den Folgen von AIDS – er war einer der ersten prominenten Franzosen, die an dieser Krankheit starben. Er war 57 Jahre alt. Der vierte Band der 'Geschichte der Sexualitaet', 'Les Aveux de la chair', wurde erst 2018 posthum veroeffentlicht.",
+      "nachwirkung": "Foucaults Einfluss auf die Geistes- und Sozialwissenschaften ist kaum zu ueberschaetzen. Seine Konzepte von Diskurs, Macht/Wissen, Biopolitik, Gouvernementalitaet und Selbsttechnologien sind zu Grundbegriffen der modernen Theorie geworden. Er beeinflusste die Gender Studies, die Postkoloniale Theorie, die Queer Theory, die Kulturwissenschaften, die Soziologie, die Geschichtswissenschaft und die politische Theorie. Denker wie Judith Butler, Edward Said, Giorgio Agamben und viele andere stehen in seiner Tradition."
+    },
+    "kernideen": [
+      {
+        "titel": "Macht/Wissen",
+        "beschreibung": "Macht und Wissen sind untrennbar miteinander verbunden. Macht produziert Wissen, und Wissen ist immer von Machtverhaeltnissen durchzogen. Es gibt keine Wahrheit ausserhalb der Macht – was als 'wahr' gilt, ist das Produkt von Macht-Wissen-Konstellationen."
+      },
+      {
+        "titel": "Diskurs und Diskursanalyse",
+        "beschreibung": "Diskurse sind historisch spezifische Systeme von Aussagen, die bestimmen, was gesagt, gedacht und gewusst werden kann. Sie produzieren die Gegenstaende, von denen sie sprechen, und konstituieren Subjektpositionen."
+      },
+      {
+        "titel": "Biopolitik und Gouvernementalitaet",
+        "beschreibung": "Die moderne Macht richtet sich nicht mehr primaer auf den einzelnen Koerper (Disziplinarmacht), sondern auf die Bevoelkerung als biologische Masse (Biopolitik). Gouvernementalitaet bezeichnet die Gesamtheit der Techniken, mit denen Bevoelkerungen regiert werden."
+      },
+      {
+        "titel": "Das Panoptikum und die Disziplinargesellschaft",
+        "beschreibung": "Benthams Panoptikum – ein Gefaengnisentwurf, in dem der Gefangene jederzeit beobachtet werden kann, ohne zu wissen, ob er beobachtet wird – ist das Modell der Disziplinargesellschaft. Durch Ueberwachung und Normalisierung werden die Individuen zu gehorsamen Subjekten geformt."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Wahnsinn und Gesellschaft (Histoire de la folie)",
+        "jahr": "1961",
+        "beschreibung": "Foucaults erstes Hauptwerk analysiert die historische Konstruktion des Wahnsinns als das 'Andere' der Vernunft und die Entstehung der psychiatrischen Anstalt."
+      },
+      {
+        "titel": "Die Ordnung der Dinge (Les Mots et les choses)",
+        "jahr": "1966",
+        "beschreibung": "Eine Archaeologie der Humanwissenschaften, die die historischen Episteme analysiert und mit der These vom 'Tod des Menschen' endet."
+      },
+      {
+        "titel": "Archaeologie des Wissens (L'Archéologie du savoir)",
+        "jahr": "1969",
+        "beschreibung": "Foucaults methodologisches Hauptwerk entwickelt die Theorie des Diskurses und der diskursiven Formation."
+      },
+      {
+        "titel": "Ueberwachen und Strafen (Surveiller et punir)",
+        "jahr": "1975",
+        "beschreibung": "Die Geburt des Gefaengnisses wird als Paradigma der Disziplinargesellschaft analysiert, die den Koerper durch Ueberwachung, Normalisierung und Pruefung kontrolliert."
+      }
+    ]
+  }
 }

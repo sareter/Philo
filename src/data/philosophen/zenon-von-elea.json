@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Magna Graecia (Unteritalien)",
-  "hauptstroemungen": ["Vorsokratik", "Eleatische Schule", "Dialektik"],
+  "hauptstroemungen": [
+    "Vorsokratik",
+    "Eleatische Schule",
+    "Dialektik"
+  ],
   "kurzbeschreibung": "Zenon von Elea war Schüler des Parmenides und berühmt für seine paradoxen Argumente gegen die Möglichkeit von Bewegung und Vielheit. Seine Paradoxien gehören zu den faszinierendsten Problemen der Philosophie- und Mathematikgeschichte.",
   "biografie": {
     "fruehesLeben": "Zenon wurde um 490 v. Chr. in Elea in Unteritalien geboren. Er war der bevorzugte Schüler und angeblich auch der Adoptivsohn des Parmenides. Platon beschreibt ihn als groß und von angenehmer Erscheinung. In seiner Jugend verfasste er eine Schrift mit vierzig Argumenten zur Verteidigung der Lehre seines Meisters Parmenides, die ihm den Ruf des 'Erfinders der Dialektik' einbrachte.",
@@ -69,6 +73,51 @@
       "kontext": "Die berühmteste Kurzformel für Zenons Paradoxon der Bewegung."
     }
   ],
-  "verwandtePhilosophen": ["parmenides", "sokrates", "aristoteles", "demokrit", "empedokles"],
-  "verwandteIsmen": ["eleatismus", "dialektik", "rationalismus"]
+  "verwandtePhilosophen": [
+    "parmenides",
+    "sokrates",
+    "aristoteles",
+    "demokrit",
+    "empedokles"
+  ],
+  "verwandteIsmen": [
+    "eleatismus",
+    "dialektik",
+    "rationalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Zenon von Elea war Schueler des Parmenides und beruehmt fuer seine paradoxen Argumente gegen die Moeglichkeit von Bewegung und Vielheit. Seine Paradoxien gehoeren zu den faszinierendsten Problemen der Philosophie- und Mathematikgeschichte.",
+    "biografie": {
+      "fruehesLeben": "Zenon wurde um 490 v. Chr. in Elea in Unteritalien geboren. Er war der bevorzugte Schueler und angeblich auch der Adoptivsohn des Parmenides. Platon beschreibt ihn als gross und von angenehmer Erscheinung. In seiner Jugend verfasste er eine Schrift mit vierzig Argumenten zur Verteidigung der Lehre seines Meisters Parmenides, die ihm den Ruf des 'Erfinders der Dialektik' einbrachte.",
+      "schaffen": "Zenons philosophische Methode war die der indirekten Beweisfuehrung (reductio ad absurdum): Er nahm die Thesen der Gegner des Parmenides als Praemissen und zeigte, dass sie zu Widerspruechen fuehren. Seine beruehmtesten Paradoxien richten sich gegen die Moeglichkeit von Bewegung und Vielheit. Das Paradoxon von Achilles und der Schildkroete: Der schnelle Achilles kann die langsame Schildkroete niemals einholen, denn wenn er den Punkt erreicht, an dem sie war, ist sie bereits weitergewandert, und so fort ins Unendliche. Das Paradoxon des fliegenden Pfeils: Ein Pfeil, der fliegt, ruht in jedem Augenblick an einem bestimmten Ort – also bewegt er sich in jedem einzelnen Moment nicht, und eine Summe von Nicht-Bewegungen kann keine Bewegung ergeben.",
+      "spaetesLeben": "Ueber Zenons spaeteres Leben wird berichtet, dass er sich politisch engagierte und gegen einen Tyrannen seiner Heimatstadt verschwor. Als die Verschwoerung entdeckt wurde, soll er unter der Folter keinen seiner Mitverschwoerer verraten haben.",
+      "tod": "Zenon starb um 430 v. Chr. Die Umstaende seines Todes werden in verschiedenen Versionen ueberliefert, die alle seinen heroischen Mut betonen. Nach einer Version biss er sich unter der Folter die Zunge ab und spuckte sie dem Tyrannen ins Gesicht. Nach einer anderen Version gab er vor, dem Tyrannen die Namen der Verschwoerer ins Ohr fluestern zu wollen, und biss ihm stattdessen das Ohr ab. Er wurde daraufhin hingerichtet.",
+      "nachwirkung": "Zenons Paradoxien gehoeren zu den bedeutendsten intellektuellen Herausforderungen der Geistesgeschichte. Aristoteles behandelte sie ausfuehrlich in seiner Physik und versuchte sie zu widerlegen. Sie trieben die Entwicklung der Mathematik voran und fuehrten letztlich zur Infinitesimalrechnung von Leibniz und Newton. In der modernen Mathematik werden sie durch die Theorie der konvergenten unendlichen Reihen und durch Georg Cantors Mengenlehre behandelt. In der Philosophie der Physik bleiben sie bis heute relevant, insbesondere in Debatten ueber die Natur von Raum, Zeit und Kontinuitaet. Bertrand Russell nannte Zenons Argumente 'immeasurably subtle and profound'."
+    },
+    "kernideen": [
+      {
+        "titel": "Paradoxon von Achilles und der Schildkroete",
+        "beschreibung": "Der schnellste Laeufer kann das langsamste Tier nie einholen, wenn dieses einen Vorsprung hat. Denn zuerst muss Achilles den Startpunkt der Schildkroete erreichen, doch dann ist sie schon weiter – und so ad infinitum."
+      },
+      {
+        "titel": "Dichotomie-Paradoxon",
+        "beschreibung": "Um eine Strecke zurueckzulegen, muss man zuerst die Haelfte zuruecklegen, davor ein Viertel und so weiter. Da die Teilstrecken unendlich viele sind, kann die Bewegung nie beginnen oder nie enden."
+      },
+      {
+        "titel": "Paradoxon des fliegenden Pfeils",
+        "beschreibung": "Ein fliegender Pfeil nimmt in jedem Augenblick einen bestimmten Ort ein und ruht somit in jedem Moment. Eine Summe von Ruhezustaenden ergibt keine Bewegung."
+      },
+      {
+        "titel": "Unmoeglichkeit der Vielheit",
+        "beschreibung": "Wenn es viele Dinge gibt, muss ihre Zahl zugleich endlich und unendlich sein. Zwischen zwei Dingen gibt es stets ein drittes, und so weiter ins Unendliche. Vielheit fuehrt zum Widerspruch."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Streitschriften (Logoi)",
+        "jahr": "ca. 460 v. Chr.",
+        "beschreibung": "Zenons Hauptwerk enthielt angeblich vierzig Argumente gegen Vielheit und Bewegung. Nur Fragmente und Zusammenfassungen bei Aristoteles, Simplikios und Platon sind erhalten. Die Schrift war bahnbrechend fuer die Entwicklung der philosophischen Argumentation."
+      }
+    ]
+  }
 }

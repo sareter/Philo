@@ -11,14 +11,50 @@
     "Die Vernunft dient der klugen Wahl der Mittel zur Lustgewinnung und Schmerzvermeidung.",
     "Tugend hat keinen Eigenwert, sondern ist nur insofern gut, als sie zur Lust beiträgt."
   ],
-  "hauptvertreter": ["sokrates", "aristoteles"],
+  "hauptvertreter": [
+    "sokrates",
+    "aristoteles"
+  ],
   "entstehung": "Der philosophische Hedonismus entstand im 4. Jahrhundert v. Chr. in der kyrenaischen Schule, gegründet von Aristipp von Kyrene, einem Schüler des Sokrates. Aristipp soll beobachtet haben, dass alle Lebewesen Lust suchen und Schmerz meiden, und daraus den Schluss gezogen haben, dass Lust das natürliche Ziel allen Strebens ist. Die Schule entwickelte sich parallel zum Epikureismus, der den Hedonismus in modifizierter Form übernahm. In der Neuzeit wurde der Hedonismus durch die britischen Utilitaristen Bentham und Mill wiederbelebt und systematisiert.",
   "kritik": "Der Hedonismus wurde seit der Antike heftig kritisiert. Platon und Aristoteles wandten ein, dass ein Leben, das nur auf Lust ausgerichtet ist, eines vernünftigen Wesens unwürdig sei. Das sogenannte Schweine-Argument besagt, dass der Hedonismus den Menschen auf die Ebene des Tieres herabsetzt. Robert Nozicks Gedankenexperiment der Erlebnismaschine zeigt, dass die meisten Menschen ein Leben bloßer Lustempfindungen ablehnen würden, wenn es nicht auf realen Erfahrungen und Leistungen beruht. Tugendethiker argumentieren, dass Lust zwar ein Begleitphänomen guter Handlungen sein kann, aber nicht das eigentliche Ziel. Zudem ist die Messbarkeit und Vergleichbarkeit von Lustempfindungen höchst problematisch, was Benthams hedonistisches Kalkül praktisch undurchführbar macht.",
-  "verwandteIsmen": ["epikureismus", "utilitarismus", "materialismus"],
+  "verwandteIsmen": [
+    "epikureismus",
+    "utilitarismus",
+    "materialismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Brief an Menoikeus", "autor": "Epikur", "jahr": "ca. 300 v. Chr." },
-    { "titel": "An Introduction to the Principles of Morals and Legislation", "autor": "Jeremy Bentham", "jahr": "1789" },
-    { "titel": "Utilitarianism", "autor": "John Stuart Mill", "jahr": "1863" },
-    { "titel": "Anarchy, State, and Utopia", "autor": "Robert Nozick", "jahr": "1974" }
-  ]
+    {
+      "titel": "Brief an Menoikeus",
+      "autor": "Epikur",
+      "jahr": "ca. 300 v. Chr."
+    },
+    {
+      "titel": "An Introduction to the Principles of Morals and Legislation",
+      "autor": "Jeremy Bentham",
+      "jahr": "1789"
+    },
+    {
+      "titel": "Utilitarianism",
+      "autor": "John Stuart Mill",
+      "jahr": "1863"
+    },
+    {
+      "titel": "Anarchy, State, and Utopia",
+      "autor": "Robert Nozick",
+      "jahr": "1974"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Hedonismus ist die philosophische Lehre, die die Lust  als hoechstes Gut und letztes Ziel menschlichen Handelns betrachtet.",
+    "ausfuehrlicheBeschreibung": "Der Hedonismus gehoert zu den aeltesten und zugleich kontroversesten ethischen Theorien der Philosophiegeschichte. Der Begriff leitet sich vom griechischen hēdonē (Lust, Vergnuegen) ab und bezeichnet die Position, dass Lust das einzige intrinsische Gut und Schmerz das einzige intrinsische Uebel ist.\n\nDer Begruender des philosophischen Hedonismus ist Aristipp von Kyrene (ca. 435-355 v. Chr.), ein Schueler des Sokrates. Aristipp und die kyrenaische Schule vertraten einen radikalen Hedonismus, der die unmittelbare koerperliche Lust als hoechstes Gut betrachtete. Nur die gegenwaertige Empfindung ist real und zugaenglich – die Erinnerung an vergangene Lust und die Erwartung zukuenftiger Lust sind schwaecher und unsicherer. Der weise Hedonist geniesst die Lust, ohne sich von ihr beherrschen zu lassen.\n\nEpikur transformierte den Hedonismus grundlegend. Er unterschied zwischen kinetischer Lust (aktives Vergnuegen) und katastematischer Lust (Zustand der Schmerzfreiheit und Seelenruhe). Die hoechste Lust ist fuer Epikur nicht das ausschweifende Vergnuegen, sondern die Abwesenheit von koerperlichem Schmerz (Aponie) und seelischer Unruhe (Ataraxie). Diese Position wird als negativer Hedonismus bezeichnet, da das Gute nicht als Maximierung positiver Lustempfindungen, sondern als Minimierung von Leid verstanden wird.",
+    "kernthesen": [
+      "Lust ist das einzige intrinsische Gut, Schmerz das einzige intrinsische Uebel.",
+      "Das Ziel menschlichen Handelns ist die Maximierung von Lust und die Minimierung von Schmerz.",
+      "Es gibt verschiedene Arten und Qualitaeten der Lust, die unterschiedlich zu bewerten sind.",
+      "Die Vernunft dient der klugen Wahl der Mittel zur Lustgewinnung und Schmerzvermeidung.",
+      "Tugend hat keinen Eigenwert, sondern ist nur insofern gut, als sie zur Lust beitraegt."
+    ],
+    "entstehung": "Der philosophische Hedonismus entstand im 4. Jahrhundert v. Chr. in der kyrenaischen Schule, gegruendet von Aristipp von Kyrene, einem Schueler des Sokrates. Aristipp soll beobachtet haben, dass alle Lebewesen Lust suchen und Schmerz meiden, und daraus den Schluss gezogen haben, dass Lust das natuerliche Ziel allen Strebens ist. Die Schule entwickelte sich parallel zum Epikureismus, der den Hedonismus in modifizierter Form uebernahm. In der Neuzeit wurde der Hedonismus durch die britischen Utilitaristen Bentham und Mill wiederbelebt und systematisiert.",
+    "kritik": "Der Hedonismus wurde seit der Antike heftig kritisiert. Platon und Aristoteles wandten ein, dass ein Leben, das nur auf Lust ausgerichtet ist, eines vernuenftigen Wesens unwuerdig sei. Das sogenannte Schweine-Argument besagt, dass der Hedonismus den Menschen auf die Ebene des Tieres herabsetzt. Robert Nozicks Gedankenexperiment der Erlebnismaschine zeigt, dass die meisten Menschen ein Leben blosser Lustempfindungen ablehnen wuerden, wenn es nicht auf realen Erfahrungen und Leistungen beruht."
+  }
 }

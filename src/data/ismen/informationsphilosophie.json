@@ -19,5 +19,18 @@
     {"titel": "The Philosophy of Information", "autor": "Luciano Floridi", "jahr": "2011"},
     {"titel": "The Ethics of Information", "autor": "Luciano Floridi", "jahr": "2013"},
     {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Informationsphilosophie fragt: Was ist Information eigentlich, und wie veraendert die digitale Welt unser Verstaendnis von Wirklichkeit, Wissen und Moral?",
+    "ausfuehrlicheBeschreibung": "Wir leben in einer Welt voller Daten und Informationen. Aber was genau ist Information eigentlich? Ist sie etwas Reales wie Materie und Energie, oder nur eine menschliche Erfindung? Die Informationsphilosophie, vor allem gepraegt durch den Philosophen Luciano Floridi, sagt: Information ist eine Grundkategorie der Wirklichkeit. Die Welt laesst sich als ein riesiges Netz aus Informationen verstehen.\n\nDas hat auch ethische Konsequenzen. Wenn Information so grundlegend ist, dann muessen wir uns fragen: Wem gehoeren Daten? Haben digitale Objekte wie eine kuenstliche Intelligenz einen eigenen moralischen Status? Und was passiert mit unserer Privatsphaere, wenn ueberall Daten gesammelt werden? Floridi spricht von der Infosphaere, dem Raum aller Informationen, und sagt, wir muessen diesen Raum ethisch schuetzen.\n\nDie Informationsphilosophie baut auf aelteren Ideen auf, zum Beispiel auf Shannons Informationstheorie und Turings Arbeit zur Berechenbarkeit. Aber sie geht weiter und fragt nach den grossen philosophischen Fragen: Wie veraendert die Digitalisierung, was wir unter Wahrheit und Wissen verstehen? Diese Fragen werden in den naechsten Jahrzehnten immer wichtiger.",
+    "kernthesen": [
+      "Information ist nicht nur ein technischer Begriff, sondern etwas Grundlegendes in der Wirklichkeit.",
+      "Alles in der Infosphaere, also der Welt der Informationen, ist ethisch relevant.",
+      "Die Art, wie wir Informationen ordnen, beeinflusst, wie wir die Welt sehen.",
+      "Digitale Objekte wie Programme oder Daten verdienen philosophische Beachtung.",
+      "Wir brauchen eine neue Ethik, die ueber rein menschliche Belange hinausgeht."
+    ],
+    "entstehung": "Die Informationsphilosophie entstand ab den 2000er Jahren als eigene Disziplin, vor allem durch die Arbeit von Luciano Floridi. Sie baut auf Shannons Informationstheorie, Turings Berechenbarkeitstheorie und der Kybernetik auf und reagiert auf die Herausforderungen der digitalen Revolution.",
+    "kritik": "Kritiker sagen, der Begriff Information werde so breit verwendet, dass er seine Schaerfe verliert. Ausserdem kann man fragen, ob es wirklich sinnvoll ist, die ganze Wirklichkeit auf Information zu reduzieren. Menschliche Erfahrungen wie Freude oder Trauer lassen sich vielleicht nicht einfach als Information beschreiben."
+  }
 }

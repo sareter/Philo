@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Symbolphilosophie"],
+  "hauptstroemungen": [
+    "Symbolphilosophie"
+  ],
   "kurzbeschreibung": "Susanne Langer war eine amerikanische Philosophin, die eine bahnbrechende Theorie der symbolischen Formen entwickelte. Ihr Hauptwerk 'Philosophie auf neuem Wege' verband Erkenntnistheorie mit Ästhetik und machte sie zu einer der meistgelesenen Philosophinnen des 20. Jahrhunderts. Sie argumentierte, dass der Mensch grundlegend ein Symbol schaffendes Wesen ist und dass Kunst eine Form nicht-diskursiver Erkenntnis darstellt.",
   "biografie": {
     "fruehesLeben": "Susanne Katharina Knauth wurde 1895 in New York als Tochter deutscher Einwanderer geboren. Sie studierte Philosophie am Radcliffe College bei Alfred North Whitehead, der ihr Denken nachhaltig prägte.",
@@ -79,6 +81,57 @@
       "kontext": "Langers Grunddefinition der Kunst als symbolische Artikulation des Gefühls."
     }
   ],
-  "verwandtePhilosophen": ["alfred-north-whitehead", "ernst-cassirer", "ludwig-wittgenstein"],
-  "verwandteIsmen": ["symbolphilosophie"]
+  "verwandtePhilosophen": [
+    "alfred-north-whitehead",
+    "ernst-cassirer",
+    "ludwig-wittgenstein"
+  ],
+  "verwandteIsmen": [
+    "symbolphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Susanne Langer war eine amerikanische Philosophin, die eine bahnbrechende Theorie der symbolischen Formen entwickelte. Ihr Hauptwerk 'Philosophie auf neuem Wege' verband Erkenntnistheorie mit Aesthetik und machte sie zu einer der meistgelesenen Philosophinnen des 20. Jahrhunderts. Sie argumentierte, dass der Mensch grundlegend ein Symbol schaffendes Wesen ist und dass Kunst eine Form nicht-diskursiver Erkenntnis darstellt.",
+    "biografie": {
+      "fruehesLeben": "Susanne Katharina Knauth wurde 1895 in New York als Tochter deutscher Einwanderer geboren. Sie studierte Philosophie am Radcliffe College bei Alfred North Whitehead, der ihr Denken nachhaltig praegte.",
+      "schaffen": "Langers Hauptwerk 'Philosophy in a New Key' (1942) wurde ein Bestseller und erreichte ein Millionenpublikum. Sie entwickelte eine Theorie der symbolischen Transformation, die zwischen diskursiven (sprachlichen) und praesentativen (kuenstlerischen) Symbolformen unterscheidet. Ihr Spaetwerk 'Mind: An Essay on Human Feeling' versuchte eine umfassende Philosophie des Geistes auf biologischer Grundlage.",
+      "spaetesLeben": "Langer lehrte am Connecticut College und widmete sich in ihren letzten Jahrzehnten dem monumentalen Werk 'Mind', das in drei Baenden erschien. Sie wurde 1960 als erste Frau in die American Academy of Arts and Sciences gewaehlt.",
+      "tod": "Susanne Langer starb 1985 in Old Lyme, Connecticut, im Alter von 89 Jahren. Ihr Spaetwerk blieb unvollendet.",
+      "nachwirkung": "Langers Symbolphilosophie hat die Aesthetik, die Musikphilosophie und die Kulturwissenschaften nachhaltig beeinflusst. Ihre Verbindung von Kunst und Erkenntnis wird in der zeitgenoessischen Philosophie wiederentdeckt."
+    },
+    "kernideen": [
+      {
+        "titel": "Symbolische Transformation",
+        "beschreibung": "Der Mensch verwandelt alle Erfahrung in Symbole. Diese symbolische Transformation ist die grundlegende Taetigkeit des menschlichen Geistes und unterscheidet den Menschen fundamental vom Tier. Symbolbildung ist ein Grundbeduerfnis, nicht nur ein Werkzeug."
+      },
+      {
+        "titel": "Diskursive und praesentative Symbolik",
+        "beschreibung": "Langer unterscheidet zwischen diskursiver Symbolik (Sprache, Logik), die Bedeutung sukzessiv vermittelt, und praesentativer Symbolik (Kunst, Musik, Ritual), die Bedeutung als unteilbares Ganzes praesentiert. Beide sind gleichwertige Formen der Erkenntnis."
+      },
+      {
+        "titel": "Kunst als symbolische Form des Gefuehls",
+        "beschreibung": "Kunst ist nicht Ausdruck individueller Emotionen, sondern die symbolische Artikulation der Formen des menschlichen Fuehlens. Ein Musikstueck drueckt nicht die Gefuehle des Komponisten aus, sondern zeigt die Struktur emotionaler Erfahrung ueberhaupt."
+      },
+      {
+        "titel": "Philosophie des Geistes auf biologischer Grundlage",
+        "beschreibung": "In ihrem Spaetwerk versucht Langer, das Bewusstsein und das Fuehlen aus den Grundprozessen des organischen Lebens zu erklaeren. Das Gefuehl ist die subjektive Phase biologischer Aktivitaet."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Philosophy in a New Key (Philosophie auf neuem Wege)",
+        "jahr": "1942",
+        "beschreibung": "Langers Hauptwerk und Bestseller, das ihre Theorie der symbolischen Transformation als Grundlage einer neuen Philosophie des Geistes und der Kultur darstellt."
+      },
+      {
+        "titel": "Feeling and Form",
+        "jahr": "1953",
+        "beschreibung": "Eine systematische Aesthetik, die Kunst als die Schaffung von Formen versteht, die menschliches Fuehlen symbolisch artikulieren."
+      },
+      {
+        "titel": "Mind: An Essay on Human Feeling",
+        "jahr": "1967",
+        "beschreibung": "Langers monumentales Spaetwerk in drei Baenden, das eine umfassende Philosophie des Geistes auf biologischer Grundlage zu entwickeln versucht."
+      }
+    ]
+  }
 }

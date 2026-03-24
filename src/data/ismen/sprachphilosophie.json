@@ -20,5 +20,18 @@
     { "titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953" },
     { "titel": "How to Do Things with Words", "autor": "J.L. Austin", "jahr": "1962" },
     { "titel": "Naming and Necessity", "autor": "Saul Kripke", "jahr": "1980" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Sprachphilosophie fragt: Wie funktioniert Sprache eigentlich? Wie bekommen Woerter ihre Bedeutung, und was hat Sprache mit unserem Denken und der Wirklichkeit zu tun?",
+    "ausfuehrlicheBeschreibung": "Hast du dich je gefragt, warum das Wort Tisch einen Tisch bedeutet? Und nicht etwas anderes? Die Sprachphilosophie beschaeftigt sich genau mit solchen Fragen. Im 20. Jahrhundert wurde sie so wichtig, dass viele Philosophen sagten: Wenn wir Sprache verstehen, verstehen wir auch die meisten philosophischen Probleme.\n\nEiner der spannendsten Denker war Wittgenstein. Zuerst dachte er, Sprache funktioniere wie ein Bild der Wirklichkeit - jeder Satz bildet einen Sachverhalt ab. Spaeter widerrief er das komplett und sagte: Woerter haben gar keine feste Bedeutung, sie bekommen ihre Bedeutung durch den Gebrauch. Es kommt darauf an, in welchem Zusammenhang du ein Wort verwendest. Denk an das Wort Spiel - versuch mal, eine Definition zu finden, die fuer alle Spiele gilt.\n\nAndere Philosophen wie Austin zeigten, dass Sprache nicht nur beschreibt, sondern auch handelt: Wenn du Ich verspreche sagst, dann beschreibst du kein Versprechen, du machst eins. Sprache ist also viel mehr als nur ein Werkzeug zum Informationsaustausch - sie formt unsere Welt.",
+    "kernthesen": [
+      "Die Analyse von Sprache ist ein Schluessel zu philosophischen Problemen",
+      "Was ein Satz wirklich bedeutet, ist oft anders als seine grammatische Form vermuten laesst",
+      "Woerter haben keine feste Bedeutung, sondern bekommen sie durch den Gebrauch",
+      "Durch Sprechen handeln wir - ein Versprechen geben ist selbst eine Handlung",
+      "Was ein Wort bedeutet, haengt teilweise von der Welt ab, nicht nur von dem, was im Kopf passiert"
+    ],
+    "entstehung": "Die moderne Sprachphilosophie begann Ende des 19. Jahrhunderts mit Gottlob Frege. Wittgensteins Tractatus von 1921 und seine spaeteren Philosophischen Untersuchungen praegten die Disziplin entscheidend. In den 1970er Jahren revolutionierten Kripke und Putnam das Verstaendnis von Bedeutung und Referenz.",
+    "kritik": "Kritiker sagen, die Sprachphilosophie sei zu technisch und verfehle, was im Leben wirklich wichtig ist. Die Annahme, dass philosophische Probleme letztlich Sprachprobleme sind, halten viele fuer zu vereinfacht. Ausserdem klafft eine grosse Luecke zwischen der formalen Analyse und dem, wie wir Sprache im Alltag tatsaechlich verwenden."
+  }
 }

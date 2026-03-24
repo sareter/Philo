@@ -20,5 +20,18 @@
     { "titel": "Kritik der praktischen Vernunft", "autor": "Immanuel Kant", "jahr": "1788" },
     { "titel": "Kritik der Urteilskraft", "autor": "Immanuel Kant", "jahr": "1790" },
     { "titel": "A Theory of Justice", "autor": "John Rawls", "jahr": "1971" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Kantianismus basiert auf der Philosophie von Immanuel Kant. Kernideen: Wir sehen die Welt immer durch die Brille unseres Verstandes, und in der Moral gilt: Handle so, dass deine Regel fuer alle gelten koennte.",
+    "ausfuehrlicheBeschreibung": "Kant hat die Philosophie umgekrempelt. Seine grosse Entdeckung: Wir sehen die Welt nie so, wie sie wirklich ist. Unser Verstand ordnet alles automatisch in Kategorien wie Raum, Zeit und Ursache-Wirkung. Das sind nicht Eigenschaften der Welt, sondern unsere Art, die Welt zu verarbeiten. Stell dir eine Brille vor, die du nie abnehmen kannst. Du siehst alles durch diese Brille, aber du weisst nie, wie die Welt ohne sie aussieht.\n\nIn der Ethik hat Kant den kategorischen Imperativ formuliert. Die einfachste Version: Handle nur nach Regeln, von denen du wollen kannst, dass alle Menschen sie befolgen. Wenn du luegen willst, frag dich: Was waere, wenn alle luegen wuerden? Dann wuerde niemand mehr jemandem glauben, und Luegen haette keinen Sinn mehr. Also ist Luegen falsch. Ausserdem hat Kant betont: Behandle andere Menschen nie nur als Mittel zum Zweck, sondern immer auch als Wesen mit eigener Wuerde.\n\nKants Ideen sind bis heute extrem einflussreich. John Rawls hat darauf eine Gerechtigkeitstheorie aufgebaut, und auch die Menschenrechte basieren auf kantischen Ideen. Der Kantianismus hat also nicht nur die Philosophie gepraegt, sondern auch die Politik und das Rechtssystem.",
+    "kernthesen": [
+      "Wir sehen die Welt immer durch die Filter unseres Verstandes, nie so, wie sie an sich ist.",
+      "Handle nur nach Regeln, die fuer alle Menschen gelten koennten.",
+      "Jeder Mensch hat eine Wuerde und darf nie nur als Mittel benutzt werden.",
+      "Freiheit und Selbstbestimmung sind die Grundlage der Moral.",
+      "Es gibt Wissen, das unabhaengig von Erfahrung gilt, zum Beispiel in der Mathematik."
+    ],
+    "entstehung": "Kant hat seine Philosophie Ende des 18. Jahrhunderts in drei grossen Werken entwickelt, den drei Kritiken. Danach haben viele andere Denker seine Ideen aufgegriffen und weiterentwickelt, vom Deutschen Idealismus ueber den Neukantianismus bis zu modernen Philosophen wie John Rawls.",
+    "kritik": "Hegel meinte, Kants Ding an sich sei ein Widerspruch: Wie kann man behaupten, dass etwas existiert, das man nicht erkennen kann? Nietzsche sah in Kants Moral eine lebensfeindliche Vorschrift. Und Kommunitaristen kritisieren, dass Kants universelle Regeln zu abstrakt sind und kulturelle Unterschiede ignorieren."
+  }
 }

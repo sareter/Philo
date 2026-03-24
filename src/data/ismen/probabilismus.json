@@ -11,13 +11,43 @@
     "Rationale Überzeugungen sollten im Lichte neuer Evidenz nach dem Bayes'schen Prinzip aktualisiert werden.",
     "Der Anspruch auf absolute Wahrheit ist eine philosophische Illusion, die aufgegeben werden muss."
   ],
-  "hauptvertreter": ["david-hume"],
+  "hauptvertreter": [
+    "david-hume"
+  ],
   "entstehung": "Der Probabilismus hat Wurzeln in der akademischen Skepsis der Antike und der moraltheologischen Tradition des 17. Jahrhunderts. Humes skeptische Analyse der Induktion und der Kausalität im 18. Jahrhundert lieferte die erkenntnistheoretische Grundlage für die Überzeugung, dass Wahrscheinlichkeit die Grenze menschlicher Erkenntnis darstellt.",
   "kritik": "Kritiker wenden ein, dass der Probabilismus die Möglichkeit sicherer Erkenntnis in Mathematik und Logik übersieht und zu einem allgemeinen Skeptizismus führen kann, der praktisches Handeln lähmt. Zudem bleibt die Frage offen, wie Wahrscheinlichkeiten selbst objektiv bestimmt werden können, ohne auf Gewissheiten zurückzugreifen.",
-  "verwandteIsmen": ["empirismus", "skeptizismus"],
+  "verwandteIsmen": [
+    "empirismus",
+    "skeptizismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Eine Untersuchung über den menschlichen Verstand", "autor": "David Hume", "jahr": "1748"},
-    {"titel": "Ein Traktat über die menschliche Natur", "autor": "David Hume", "jahr": "1739"},
-    {"titel": "An Essay Concerning Human Understanding", "autor": "John Locke", "jahr": "1690"}
-  ]
+    {
+      "titel": "Eine Untersuchung über den menschlichen Verstand",
+      "autor": "David Hume",
+      "jahr": "1748"
+    },
+    {
+      "titel": "Ein Traktat über die menschliche Natur",
+      "autor": "David Hume",
+      "jahr": "1739"
+    },
+    {
+      "titel": "An Essay Concerning Human Understanding",
+      "autor": "John Locke",
+      "jahr": "1690"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Probabilismus ist die philosophische Position, dass absolute Gewissheit in den meisten Bereichen des Wissens unerreichbar ist und Wahrscheinlichkeit der angemessene Massstab fuer rationale Ueberzeugungen darstellt.",
+    "ausfuehrlicheBeschreibung": "Der Probabilismus vertritt die Auffassung, dass menschliche Erkenntnis in den meisten Faellen nicht auf absoluter Gewissheit beruhen kann, sondern sich mit verschiedenen Graden von Wahrscheinlichkeit begnuegen muss. Diese Position hat historische Wurzeln in der akademischen Skepsis der Antike, wurde aber in der Aufklaerung durch die Entwicklung der Wahrscheinlichkeitstheorie auf eine neue Grundlage gestellt. David Hume spielte eine zentrale Rolle, indem er zeigte, dass induktive Schluesse – von beobachteten Faellen auf unbeobachtete – keine logische Gewissheit erzeugen koennen.\n\nHumes Analyse der Kausalitaet enthuellte, dass unser Glaube an die Gleichfoermigkeit der Natur auf Gewohnheit beruht, nicht auf rationaler Einsicht. Wir beobachten regelmaessige Abfolgen von Ereignissen und schliessen daraus auf kausale Zusammenhaenge, aber dieser Schluss ist logisch nicht zwingend. Damit ist alle empirische Erkenntnis prinzipiell unsicher und bestenfalls wahrscheinlich. Der Probabilismus zieht aus dieser Einsicht die praktische Konsequenz, dass wir unsere Ueberzeugungen nach dem Grad ihrer Wahrscheinlichkeit gewichten sollten.\n\nIn der gegenwaertigen Philosophie hat der Probabilismus in Form des Bayesianismus eine mathematisch praezise Ausarbeitung erfahren. Die Bayes'sche Erkenntnistheorie beschreibt, wie rationale Akteure ihre Ueberzeugungsgrade im Lichte neuer Evidenz aktualisieren sollten. Der Probabilismus hat die Wissenschaftsphilosophie, die Entscheidungstheorie und die kuenstliche Intelligenz nachhaltig beeinflusst.",
+    "kernthesen": [
+      "Absolute Gewissheit ist in den meisten Bereichen des Wissens unerreichbar.",
+      "Wahrscheinlichkeit ist der angemessene Massstab fuer die Bewertung von Ueberzeugungen.",
+      "Induktive Schluesse erzeugen keine logische Gewissheit, sondern nur Grade der Wahrscheinlichkeit.",
+      "Rationale Ueberzeugungen sollten im Lichte neuer Evidenz nach dem Bayes'schen Prinzip aktualisiert werden.",
+      "Der Anspruch auf absolute Wahrheit ist eine philosophische Illusion, die aufgegeben werden muss."
+    ],
+    "entstehung": "Der Probabilismus hat Wurzeln in der akademischen Skepsis der Antike und der moraltheologischen Tradition des 17. Jahrhunderts. Humes skeptische Analyse der Induktion und der Kausalitaet im 18. Jahrhundert lieferte die erkenntnistheoretische Grundlage fuer die Ueberzeugung, dass Wahrscheinlichkeit die Grenze menschlicher Erkenntnis darstellt.",
+    "kritik": "Kritiker wenden ein, dass der Probabilismus die Moeglichkeit sicherer Erkenntnis in Mathematik und Logik uebersieht und zu einem allgemeinen Skeptizismus fuehren kann, der praktisches Handeln laehmt. Zudem bleibt die Frage offen, wie Wahrscheinlichkeiten selbst objektiv bestimmt werden koennen, ohne auf Gewissheiten zurueckzugreifen."
+  }
 }

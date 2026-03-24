@@ -18,7 +18,10 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Soziologie", "Kulturphilosophie"],
+  "hauptstroemungen": [
+    "Soziologie",
+    "Kulturphilosophie"
+  ],
   "kurzbeschreibung": "Georg Simmel war ein deutscher Philosoph und Soziologe, der als einer der Begründer der Soziologie und als brillanter Kulturphilosoph gilt. Seine Analysen des Geldverkehrs, der Großstadt, der Mode und der sozialen Wechselwirkungen gehören zu den originellsten Beiträgen der Kulturwissenschaften. Er entwickelte eine formale Soziologie, die die Formen der Vergesellschaftung unabhängig von ihren Inhalten untersucht.",
   "biografie": {
     "fruehesLeben": "Georg Simmel wurde 1858 in Berlin als Sohn eines zum Christentum konvertierten jüdischen Kaufmanns geboren. Er studierte Geschichte, Philosophie, Psychologie und Völkerkunde in Berlin. Trotz seiner Brillanz wurde ihm eine ordentliche Professur lange verwehrt, was teilweise auf Antisemitismus zurückzuführen war.",
@@ -79,6 +82,58 @@
       "kontext": "Simmels Diagnose der nivelierenden Wirkung des Geldes auf die Welt der Werte."
     }
   ],
-  "verwandtePhilosophen": ["max-weber", "wilhelm-dilthey", "friedrich-nietzsche"],
-  "verwandteIsmen": ["soziologie", "kulturphilosophie"]
+  "verwandtePhilosophen": [
+    "max-weber",
+    "wilhelm-dilthey",
+    "friedrich-nietzsche"
+  ],
+  "verwandteIsmen": [
+    "soziologie",
+    "kulturphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Georg Simmel war ein deutscher Philosoph und Soziologe, der als einer der Begruender der Soziologie und als brillanter Kulturphilosoph gilt. Seine Analysen des Geldverkehrs, der Grossstadt, der Mode und der sozialen Wechselwirkungen gehoeren zu den originellsten Beitraegen der Kulturwissenschaften. Er entwickelte eine formale Soziologie, die die Formen der Vergesellschaftung unabhaengig von ihren Inhalten untersucht.",
+    "biografie": {
+      "fruehesLeben": "Georg Simmel wurde 1858 in Berlin als Sohn eines zum Christentum konvertierten juedischen Kaufmanns geboren. Er studierte Geschichte, Philosophie, Psychologie und Voelkerkunde in Berlin. Trotz seiner Brillanz wurde ihm eine ordentliche Professur lange verwehrt, was teilweise auf Antisemitismus zurueckzufuehren war.",
+      "schaffen": "Simmel lehrte von 1885 bis 1914 als Privatdozent und ausserordentlicher Professor an der Universitaet Berlin. Seine Vorlesungen waren legendaer und zogen Hoerer aus der ganzen Welt an. Mit der 'Philosophie des Geldes' (1900) schuf er ein Meisterwerk der Kulturphilosophie. Seine soziologischen Arbeiten ueber Formen der Vergesellschaftung – Streit, Herrschaft, Geheimnis – begruendeten die formale Soziologie.",
+      "spaetesLeben": "Erst 1914 erhielt Simmel einen ordentlichen Lehrstuhl an der Universitaet Strassburg, wo er durch den Ersten Weltkrieg isoliert war. Seine spaete Lebensphilosophie versuchte, das Leben als schoepferische Kraft zu begreifen, die staendig ueber die von ihr geschaffenen Formen hinausdraengt.",
+      "tod": "Georg Simmel starb am 26. September 1918 in Strassburg an Leberkrebs, wenige Wochen vor dem Ende des Ersten Weltkriegs. Er hinterliess ein vielfaeltiges Werk, das erst Jahrzehnte nach seinem Tod seine volle Anerkennung fand.",
+      "nachwirkung": "Simmels Einfluss auf die Soziologie, die Kulturwissenschaften und die Philosophie ist immens. Seine Analysen der Modernitaet – Geld, Grossstadt, Mode, Individualismus – sind bis heute aktuell. Max Weber, die Chicagoer Schule der Soziologie und die Kritische Theorie wurden von ihm beeinflusst. Seine essayistische Methode und seine Faehigkeit, im Kleinen das Grosse zu erkennen, machen sein Werk einzigartig."
+    },
+    "kernideen": [
+      {
+        "titel": "Philosophie des Geldes",
+        "beschreibung": "Das Geld ist nicht nur ein oekonomisches Mittel, sondern praegt die gesamte moderne Kultur. Es versachlicht die menschlichen Beziehungen, schafft Freiheit durch Unpersoenlichkeit und fuehrt zugleich zur Entfremdung. Die Geldwirtschaft ist das Fundament der modernen Individualitaet."
+      },
+      {
+        "titel": "Formale Soziologie",
+        "beschreibung": "Die Soziologie soll die Formen der Vergesellschaftung – Konkurrenz, Ueber- und Unterordnung, Geheimnis, Streit – unabhaengig von ihren konkreten Inhalten untersuchen. Die gleichen Formen finden sich in Familie, Politik, Wirtschaft und Religion."
+      },
+      {
+        "titel": "Tragoedie der Kultur",
+        "beschreibung": "Der Mensch schafft kulturelle Formen (Kunst, Recht, Moral), die sich verselbstaendigen und dem Leben entgegenstellen. Die subjektive Kultur kann mit der objektiven nicht mehr Schritt halten. Das Leben draengt staendig ueber seine eigenen Formen hinaus."
+      },
+      {
+        "titel": "Die Grossstadt und das Geistesleben",
+        "beschreibung": "Das Leben in der Grossstadt erzeugt eine spezifische Geisteshaltung: die Blasiertheit als Schutz gegen die Ueberfuelle der Sinneseindruecke. Die Grossstadt foerdert Individualismus und Freiheit, aber auch Einsamkeit und Oberflaechlichkeit."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Philosophie des Geldes",
+        "jahr": "1900",
+        "beschreibung": "Simmels kulturphilosophisches Hauptwerk, das die Auswirkungen der Geldwirtschaft auf die moderne Kultur und die menschlichen Beziehungen analysiert."
+      },
+      {
+        "titel": "Soziologie. Untersuchungen ueber die Formen der Vergesellschaftung",
+        "jahr": "1908",
+        "beschreibung": "Das soziologische Hauptwerk, das die formale Soziologie begruendet und Formen wie Streit, Herrschaft, Geheimnis und Geselligkeit analysiert."
+      },
+      {
+        "titel": "Die Grossstadt und das Geistesleben",
+        "jahr": "1903",
+        "beschreibung": "Der beruehmte Essay ueber die psychologischen und soziologischen Auswirkungen des Grossstadtlebens auf die moderne Individualitaet."
+      }
+    ]
+  }
 }

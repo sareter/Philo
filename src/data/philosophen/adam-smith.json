@@ -40,5 +40,25 @@
     { "text": "Kein Gesellschaftszustand kann blühend und glücklich sein, in dem der weitaus größte Teil seiner Mitglieder arm und elend ist.", "quelle": "Wealth of Nations, Buch I, Kapitel 8", "kontext": "Smith zeigt sich als sozialer Denker, der den Wohlstand aller Bevölkerungsschichten als Maßstab für eine gute Gesellschaft ansieht." }
   ],
   "verwandtePhilosophen": ["david-hume", "john-locke", "jeremy-bentham", "john-stuart-mill", "karl-marx"],
-  "verwandteIsmen": ["liberalismus", "kapitalismus", "utilitarismus"]
+  "verwandteIsmen": ["liberalismus", "kapitalismus", "utilitarismus"],
+  "einfach": {
+    "kurzbeschreibung": "Adam Smith war ein schottischer Denker, der erklaerte, wie Wirtschaft funktioniert. Seine Idee der unsichtbaren Hand besagt, dass der Markt sich quasi von selbst regelt, wenn jeder seinen eigenen Vorteil verfolgt.",
+    "biografie": {
+      "fruehesLeben": "Adam Smith wurde 1723 in Schottland geboren. Sein Vater starb vor seiner Geburt, und seine Mutter zog ihn allein auf. Er studierte in Glasgow und dann in Oxford, fand die Lehre dort aber so schlecht, dass er vor allem Buecher las.",
+      "schaffen": "Smith wurde Professor in Glasgow und schrieb zuerst ein Buch ueber Moral, in dem er erklaerte, dass wir moralisch urteilen, indem wir uns in andere hineinversetzen. Dann reiste er durch Europa, lernte beruehmte Denker kennen und schrieb anschliessend zehn Jahre lang an seinem Hauptwerk ueber den Wohlstand der Nationen. Darin erklaert er, wie Arbeitsteilung und freier Handel alle reicher machen koennen.",
+      "spaetesLeben": "Nach seinem grossen Buch wurde Smith Zollbeamter in Schottland, was ziemlich witzig ist, weil er ja fuer Freihandel war. Er lebte mit seiner Mutter in Edinburgh und ueberarbeitete seine Buecher.",
+      "tod": "Smith starb 1790 in Edinburgh. Kurz vorher liess er die meisten seiner unveroefffentlichten Manuskripte verbrennen.",
+      "nachwirkung": "Smith gilt als Vater der modernen Wirtschaftswissenschaft. Seine Ideen beeinflussten alles von der Industrialisierung bis zum heutigen Kapitalismus. Sein Gesicht ist sogar auf der britischen 20-Pfund-Note."
+    },
+    "kernideen": [
+      {"titel": "Unsichtbare Hand", "beschreibung": "Wenn jeder seinen eigenen Vorteil verfolgt, profitiert am Ende die ganze Gesellschaft, als ob eine unsichtbare Hand alles lenken wuerde."},
+      {"titel": "Arbeitsteilung", "beschreibung": "Wenn sich jeder auf eine Aufgabe spezialisiert, wird viel mehr produziert. Smith zeigte das am Beispiel einer Stecknadelfabrik."},
+      {"titel": "Sympathie als moralisches Fundament", "beschreibung": "Wir koennen moralisch urteilen, weil wir uns in andere hineinversetzen koennen. Ein innerer unparteiischer Zuschauer sagt uns, was richtig und falsch ist."}
+    ],
+    "werke": [
+      {"titel": "An Inquiry into the Nature and Causes of the Wealth of Nations", "jahr": "1776", "beschreibung": "Das Grundlagenwerk der modernen Wirtschaftswissenschaft, das erklaert, wie Nationen reich werden."},
+      {"titel": "The Theory of Moral Sentiments", "jahr": "1759", "beschreibung": "Smiths Buch ueber Moral, das zeigt, dass Mitgefuehl die Basis fuer ethische Urteile ist."},
+      {"titel": "Lectures on Jurisprudence", "jahr": "1762–1763 (posthum)", "beschreibung": "Mitschriften von Smiths Vorlesungen ueber Recht und die Geschichte der Zivilisation."}
+    ]
+  }
 }

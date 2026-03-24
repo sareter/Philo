@@ -11,13 +11,43 @@
     "Werte sind nicht empirisch, sondern gelten als transzendentale Voraussetzungen der Kultur.",
     "Kants kritische Methode muss erneuert und an die modernen Wissenschaften angepasst werden."
   ],
-  "hauptvertreter": ["immanuel-kant"],
+  "hauptvertreter": [
+    "immanuel-kant"
+  ],
   "entstehung": "Der Neukantianismus begann in den 1860er Jahren mit Otto Liebmanns Forderung „Zurück zu Kant!“ und entfaltete sich in der Marburger und der Südwestdeutschen Schule. Er war eine Reaktion auf den Zusammenbruch des Hegelianismus und den Aufstieg des naturwissenschaftlichen Materialismus.",
   "kritik": "Kritiker wie Heidegger und Husserl warfen dem Neukantianismus vor, Philosophie auf bloße Wissenschaftstheorie zu reduzieren und die existentielle Dimension des Denkens zu vernachlässigen. Zudem wurde kritisiert, dass die neukantianische Erkenntnistheorie zu formalistisch sei und die konkreten Inhalte der Erfahrung nicht erfasse.",
-  "verwandteIsmen": ["kantianismus", "idealismus"],
+  "verwandteIsmen": [
+    "kantianismus",
+    "idealismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Kant und die Epigonen", "autor": "Otto Liebmann", "jahr": "1865"},
-    {"titel": "Logik der reinen Erkenntnis", "autor": "Hermann Cohen", "jahr": "1902"},
-    {"titel": "Grenzen der naturwissenschaftlichen Begriffsbildung", "autor": "Heinrich Rickert", "jahr": "1896"}
-  ]
+    {
+      "titel": "Kant und die Epigonen",
+      "autor": "Otto Liebmann",
+      "jahr": "1865"
+    },
+    {
+      "titel": "Logik der reinen Erkenntnis",
+      "autor": "Hermann Cohen",
+      "jahr": "1902"
+    },
+    {
+      "titel": "Grenzen der naturwissenschaftlichen Begriffsbildung",
+      "autor": "Heinrich Rickert",
+      "jahr": "1896"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Neukantianismus ist eine philosophische Bewegung des 19.",
+    "ausfuehrlicheBeschreibung": "Der Neukantianismus entstand in der zweiten Haelfte des 19. Jahrhunderts als Reaktion auf die Krise der nachkantischen Philosophie. Nach dem Zusammenbruch des spekulativen Idealismus Hegels und angesichts des wachsenden Einflusses des wissenschaftlichen Materialismus forderten Philosophen wie Otto Liebmann und Friedrich Albert Lange eine Rueckkehr zu Kants kritischer Methode. Es ging nicht um eine blosse Wiederholung Kants, sondern um eine Erneuerung und Weiterentwicklung seines transzendentalen Ansatzes.\n\nZwei Hauptschulen praegten den Neukantianismus: Die Marburger Schule um Hermann Cohen und Paul Natorp konzentrierte sich auf die Erkenntnistheorie und die logischen Grundlagen der Naturwissenschaft. Die Suedwestdeutsche (Badische) Schule um Wilhelm Windelband und Heinrich Rickert entwickelte eine Wertphilosophie und eine Methodologie der Geisteswissenschaften. Beide Schulen teilten die Ueberzeugung, dass Philosophie als Wissenschaftstheorie zu betreiben sei.\n\nDer Neukantianismus dominierte die deutsche Universitaetsphilosophie von etwa 1870 bis 1920 und beeinflusste zahlreiche Disziplinen, von der Rechtswissenschaft ueber die Theologie bis zur Soziologie. Max Webers methodologische Grundlegung der Sozialwissenschaften ist ohne den Neukantianismus nicht zu verstehen. Obwohl der Neukantianismus durch Phaenomenologie und Existenzphilosophie verdraengt wurde, wirken seine Impulse in der analytischen Philosophie und der Wissenschaftstheorie fort.",
+    "kernthesen": [
+      "Philosophie muss als kritische Erkenntnistheorie betrieben werden, nicht als spekulative Metaphysik.",
+      "Die Bedingungen der Moeglichkeit von Erkenntnis bilden den eigentlichen Gegenstand der Philosophie.",
+      "Naturwissenschaft und Geisteswissenschaft erfordern verschiedene methodische Zugaenge.",
+      "Werte sind nicht empirisch, sondern gelten als transzendentale Voraussetzungen der Kultur.",
+      "Kants kritische Methode muss erneuert und an die modernen Wissenschaften angepasst werden."
+    ],
+    "entstehung": "Der Neukantianismus begann in den 1860er Jahren mit Otto Liebmanns Forderung „Zurueck zu Kant!“ und entfaltete sich in der Marburger und der Suedwestdeutschen Schule. Er war eine Reaktion auf den Zusammenbruch des Hegelianismus und den Aufstieg des naturwissenschaftlichen Materialismus.",
+    "kritik": "Kritiker wie Heidegger und Husserl warfen dem Neukantianismus vor, Philosophie auf blosse Wissenschaftstheorie zu reduzieren und die existentielle Dimension des Denkens zu vernachlaessigen. Zudem wurde kritisiert, dass die neukantianische Erkenntnistheorie zu formalistisch sei und die konkreten Inhalte der Erfahrung nicht erfasse."
+  }
 }

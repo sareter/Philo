@@ -20,5 +20,18 @@
     { "titel": "Proslogion", "autor": "Anselm von Canterbury", "jahr": "1078" },
     { "titel": "Sic et Non", "autor": "Peter Abaelard", "jahr": "1121" },
     { "titel": "Summa Logicae", "autor": "Wilhelm von Ockham", "jahr": "1323" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Scholastik war die Philosophie des Mittelalters, bei der Gelehrte an Universitaeten versuchten, den christlichen Glauben und logisches Denken zusammenzubringen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du bist im Mittelalter an einer Uni und sollst herausfinden, ob Glaube und Vernunft sich widersprechen oder ergaenzen. Genau das war das Projekt der Scholastik. Die Gelehrten dort haben nicht einfach geglaubt, was die Kirche sagte, sondern alles mit logischen Argumenten durchdacht. Dabei haben sie eine richtig strenge Methode entwickelt: Frage stellen, Pro-Argumente sammeln, Contra-Argumente sammeln, eigene Antwort geben.\n\nDer bekannteste Scholastiker war Thomas von Aquin, der die Philosophie von Aristoteles mit dem christlichen Glauben verbunden hat. Das war damals ziemlich revolutionaer, weil Aristoteles ein heidnischer Grieche war. Spaeter kam Wilhelm von Ockham und stellte vieles davon wieder in Frage. Sein beruehmt gewordenes Prinzip, Ockhams Rasiermesser, besagt: Mach die Dinge nicht komplizierter als noetig.\n\nDie Scholastik wird heute oft als verstaubt abgetan, aber ihre Methoden - klare Begriffe, saubere Argumentation, Pro und Contra abwaegen - sind eigentlich ziemlich modern. Viele Dinge, die wir heute an Universitaeten machen, gehen auf die Scholastik zurueck.",
+    "kernthesen": [
+      "Glaube und logisches Denken muessen sich nicht widersprechen, sondern koennen zusammenarbeiten",
+      "Man sollte philosophische Fragen mit klaren Argumenten und Gegenargumenten durchdenken",
+      "Die Frage, ob allgemeine Begriffe wie Schoenheit wirklich existieren, ist ein echtes Problem",
+      "Man kann mit reinem Nachdenken zeigen, dass Gott existiert",
+      "Die Philosophie von Aristoteles liefert die besten Werkzeuge, um ueber Gott und die Welt nachzudenken"
+    ],
+    "entstehung": "Die Scholastik entstand aus den Klosterschulen des Mittelalters und den ersten Universitaeten in Paris, Oxford und Bologna. Besonders wichtig war, dass arabische Gelehrte alte griechische Texte ueberliefert hatten, die dann in Europa wiederentdeckt wurden.",
+    "kritik": "Schon in der Renaissance fanden viele Gelehrte, die Scholastik sei zu spitzfindig und lebensfern - endlose Wortklauberei ohne praktischen Nutzen. Spaeter wurde kritisiert, dass echtes freies Denken nicht moeglich ist, wenn die Kirche das letzte Wort hat."
+  }
 }

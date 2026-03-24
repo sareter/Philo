@@ -11,13 +11,44 @@
     "Die Grenzen der sinnvollen Sprache sind zugleich die Grenzen der Erkenntnis.",
     "Die Aufgabe der Philosophie besteht in der logischen Analyse der Sprache, nicht in der Aufstellung metaphysischer Theorien."
   ],
-  "hauptvertreter": ["ludwig-wittgenstein", "bertrand-russell"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein",
+    "bertrand-russell"
+  ],
   "entstehung": "Der Verifikationismus entstand in den 1920er Jahren im Umfeld des Wiener Kreises, inspiriert durch Wittgensteins Tractatus und Russells logische Analyse. Moritz Schlick, Rudolf Carnap und A. J. Ayer formulierten verschiedene Versionen des Verifikationsprinzips, das zum Erkennungszeichen des logischen Positivismus wurde.",
   "kritik": "Die Hauptkritik betrifft die Selbstanwendung: Das Verifikationsprinzip ist selbst kein empirisch verifizierbarer Satz und müsste nach seinen eigenen Kriterien als sinnlos gelten. Zudem schließt es weite Bereiche menschlicher Erfahrung – Ethik, Ästhetik, existenzielle Fragen – vorschnell als sinnlos aus.",
-  "verwandteIsmen": ["logischer-positivismus", "empirismus"],
+  "verwandteIsmen": [
+    "logischer-positivismus",
+    "empirismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Tractatus logico-philosophicus", "autor": "Ludwig Wittgenstein", "jahr": "1921"},
-    {"titel": "Language, Truth and Logic", "autor": "Alfred Jules Ayer", "jahr": "1936"},
-    {"titel": "Der logische Aufbau der Welt", "autor": "Rudolf Carnap", "jahr": "1928"}
-  ]
+    {
+      "titel": "Tractatus logico-philosophicus",
+      "autor": "Ludwig Wittgenstein",
+      "jahr": "1921"
+    },
+    {
+      "titel": "Language, Truth and Logic",
+      "autor": "Alfred Jules Ayer",
+      "jahr": "1936"
+    },
+    {
+      "titel": "Der logische Aufbau der Welt",
+      "autor": "Rudolf Carnap",
+      "jahr": "1928"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Verifikationismus ist die sprachphilosophische These, dass ein Satz nur dann sinnvoll ist, wenn er prinzipiell durch Beobachtung oder Erfahrung ueberprueft werden kann.",
+    "ausfuehrlicheBeschreibung": "Der Verifikationismus, auch als Verifikationsprinzip bekannt, bildet einen zentralen Grundsatz des logischen Positivismus und des Wiener Kreises. Er besagt, dass die Bedeutung eines Satzes in der Methode seiner Verifikation besteht. Ein Satz, der prinzipiell nicht durch Erfahrung ueberprueft werden kann, drueckt keine Erkenntnis aus, sondern ist ein sinnloser Scheinsatz. Damit werden grosse Teile der traditionellen Metaphysik, Theologie und Ethik als kognitiv gehaltlos zurueckgewiesen.\n\nLudwig Wittgenstein legte mit seinem Tractatus logico-philosophicus eine wichtige Grundlage fuer den Verifikationismus, auch wenn er selbst keine strenge Version vertrat. Sein Grundsatz, dass die Grenzen der Sprache die Grenzen der Welt bedeuten, und seine Bildtheorie der Sprache inspirierten die Mitglieder des Wiener Kreises. Bertrand Russell trug mit seiner Theorie der Kennzeichnungen und seinem Programm der logischen Analyse ebenfalls wesentlich zur Entwicklung des Verifikationismus bei.\n\nDer Verifikationismus hat die Philosophie des 20. Jahrhunderts nachhaltig gepraegt, wurde aber auch intensiv kritisiert. Das Verifikationsprinzip selbst ist nicht verifizierbar und untergraebt damit seine eigene Gueltigkeit. Popper ersetzte das Verifikationsprinzip durch das Falsifikationsprinzip und rettete damit den Grundgedanken der empirischen Ueberpruefbarkeit, ohne die problematischen Konsequenzen des strengen Verifikationismus in Kauf nehmen zu muessen.",
+    "kernthesen": [
+      "Ein Satz ist nur dann sinnvoll, wenn er prinzipiell durch Erfahrung verifiziert werden kann.",
+      "Metaphysische, theologische und normative Aussagen sind keine echten Erkenntnisse, sondern Scheinsaetze.",
+      "Die Bedeutung eines Satzes besteht in der Methode seiner empirischen Ueberpruefung.",
+      "Die Grenzen der sinnvollen Sprache sind zugleich die Grenzen der Erkenntnis.",
+      "Die Aufgabe der Philosophie besteht in der logischen Analyse der Sprache, nicht in der Aufstellung metaphysischer Theorien."
+    ],
+    "entstehung": "Der Verifikationismus entstand in den 1920er Jahren im Umfeld des Wiener Kreises, inspiriert durch Wittgensteins Tractatus und Russells logische Analyse. Moritz Schlick, Rudolf Carnap und A. J. Ayer formulierten verschiedene Versionen des Verifikationsprinzips, das zum Erkennungszeichen des logischen Positivismus wurde.",
+    "kritik": "Die Hauptkritik betrifft die Selbstanwendung: Das Verifikationsprinzip ist selbst kein empirisch verifizierbarer Satz und muesste nach seinen eigenen Kriterien als sinnlos gelten. Zudem schliesst es weite Bereiche menschlicher Erfahrung – Ethik, Aesthetik, existenzielle Fragen – vorschnell als sinnlos aus."
+  }
 }

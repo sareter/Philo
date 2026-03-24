@@ -11,14 +11,52 @@
     "Neue Biotechnologien schaffen neuartige ethische Herausforderungen, die traditionelle ethische Kategorien übersteigen",
     "Die gerechte Verteilung von Gesundheitsressourcen ist eine zentrale Forderung der Bioethik"
   ],
-  "hauptvertreter": ["peter-singer", "juergen-habermas"],
+  "hauptvertreter": [
+    "peter-singer",
+    "juergen-habermas"
+  ],
   "entstehung": "Die Bioethik entstand in den 1960er und 1970er Jahren als Reaktion auf medizinische Skandale (Tuskegee-Syphilis-Studie, Experimente an Häftlingen), neue medizinische Technologien (Organtransplantation, Intensivmedizin, Reproduktionsmedizin) und die Bürgerrechtsbewegung mit ihrer Betonung von Autonomie und informierter Zustimmung. Van Rensselaer Potter prägte 1970 den Begriff 'Bioethik'. Der Belmont Report (1979) und Beauchamp/Childress' 'Principles of Biomedical Ethics' (1979) legten die theoretischen Grundlagen. Die Entwicklung der Gentechnik und der Reproduktionsmedizin hat das Feld seither ständig erweitert.",
   "kritik": "Die Prinzipienethik wird als zu abstrakt und als unfähig kritisiert, konkrete Konflikte zwischen den vier Prinzipien zu lösen. Tugendethiker bemängeln, dass die Bioethik den Charakter und die Tugenden der medizinisch Handelnden vernachlässigt. Feministische Kritikerinnen (Susan Sherwin, Rosemarie Tong) weisen auf die Gender-Blindheit vieler bioethischer Ansätze hin. Kommunitaristen kritisieren den übermäßigen Fokus auf individuelle Autonomie zu Lasten gemeinschaftlicher Werte. Die Dominanz westlicher Perspektiven in der Bioethik wird von interkulturellen Ethikern hinterfragt. Peter Singers kontroverse Positionen haben Proteste von Behindertenverbänden ausgelöst, die die utilitaristische Abwägung von Lebensqualität als diskriminierend betrachten.",
-  "verwandteIsmen": ["tierethik", "umweltethik", "konsequentialismus", "deontologie", "metaethik"],
+  "verwandteIsmen": [
+    "tierethik",
+    "umweltethik",
+    "konsequentialismus",
+    "deontologie",
+    "metaethik"
+  ],
   "schluesselwerke": [
-    { "titel": "Principles of Biomedical Ethics", "autor": "Tom Beauchamp & James Childress", "jahr": "1979" },
-    { "titel": "Practical Ethics", "autor": "Peter Singer", "jahr": "1979" },
-    { "titel": "Die Zukunft der menschlichen Natur", "autor": "Jürgen Habermas", "jahr": "2001" },
-    { "titel": "Just Health Care", "autor": "Norman Daniels", "jahr": "1985" }
-  ]
+    {
+      "titel": "Principles of Biomedical Ethics",
+      "autor": "Tom Beauchamp & James Childress",
+      "jahr": "1979"
+    },
+    {
+      "titel": "Practical Ethics",
+      "autor": "Peter Singer",
+      "jahr": "1979"
+    },
+    {
+      "titel": "Die Zukunft der menschlichen Natur",
+      "autor": "Jürgen Habermas",
+      "jahr": "2001"
+    },
+    {
+      "titel": "Just Health Care",
+      "autor": "Norman Daniels",
+      "jahr": "1985"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Bioethik ist ein interdisziplinaeres Feld der angewandten Ethik, das moralische Fragen im Zusammenhang mit Medizin, Biotechnologie und Lebenswissenschaften untersucht.",
+    "ausfuehrlicheBeschreibung": "Die Bioethik hat sich seit den 1960er Jahren zu einem der dynamischsten und gesellschaftlich relevantesten Bereiche der angewandten Ethik entwickelt. Sie untersucht die moralischen Dimensionen von Entscheidungen im Bereich von Medizin, Biologie und Biotechnologie und verbindet dabei philosophische Analyse mit medizinischem, biologischem und juristischem Fachwissen.\n\nDie Prinzipienethik von Tom Beauchamp und James Childress, dargestellt in 'Principles of Biomedical Ethics' (1979), hat sich als einflussreichstes Framework der Bioethik etabliert. Vier Prinzipien bilden den Kern: Autonomie (Respekt vor der Selbstbestimmung des Patienten), Nichtschaedigung (primum non nocere – zuerst nicht schaden), Wohltaetigkeit (Foerderung des Patientenwohls) und Gerechtigkeit (faire Verteilung von Gesundheitsressourcen).\n\nDie Debatte um den Beginn und das Ende des menschlichen Lebens gehoert zu den umstrittensten Themen der Bioethik. In der Abtreibungsdebatte stehen sich konservative Positionen (das Lebensrecht des Embryos von der Empfaengnis an) und liberale Positionen (das Selbstbestimmungsrecht der Frau) gegenueber. Judith Jarvis Thomson argumentierte mit dem beruehmten Geiger-Gedankenexperiment, dass selbst unter der Annahme, der Foetus sei eine Person, das Recht auf Abtreibung unter bestimmten Umstaenden bestehe. Don Marquis argumentierte, dass Abtreibung in den meisten Faellen moralisch falsch sei, weil sie dem Foetus seine 'Zukunft wie unsere' raube.",
+    "kernthesen": [
+      "Die vier Prinzipien Autonomie, Nichtschaedigung, Wohltaetigkeit und Gerechtigkeit bilden den Rahmen bioethischer Entscheidungen",
+      "Das Selbstbestimmungsrecht des Patienten ist ein fundamentales ethisches Prinzip der modernen Medizin",
+      "Moralische Fragen im Bereich von Leben und Tod erfordern interdisziplinaere Analyse",
+      "Neue Biotechnologien schaffen neuartige ethische Herausforderungen, die traditionelle ethische Kategorien uebersteigen",
+      "Die gerechte Verteilung von Gesundheitsressourcen ist eine zentrale Forderung der Bioethik"
+    ],
+    "entstehung": "Die Bioethik entstand in den 1960er und 1970er Jahren als Reaktion auf medizinische Skandale (Tuskegee-Syphilis-Studie, Experimente an Haeftlingen), neue medizinische Technologien (Organtransplantation, Intensivmedizin, Reproduktionsmedizin) und die Buergerrechtsbewegung mit ihrer Betonung von Autonomie und informierter Zustimmung. Van Rensselaer Potter praegte 1970 den Begriff 'Bioethik'. Der Belmont Report (1979) und Beauchamp/Childress' 'Principles of Biomedical Ethics' (1979) legten die theoretischen Grundlagen.",
+    "kritik": "Die Prinzipienethik wird als zu abstrakt und als unfaehig kritisiert, konkrete Konflikte zwischen den vier Prinzipien zu loesen. Tugendethiker bemaengeln, dass die Bioethik den Charakter und die Tugenden der medizinisch Handelnden vernachlaessigt. Feministische Kritikerinnen (Susan Sherwin, Rosemarie Tong) weisen auf die Gender-Blindheit vieler bioethischer Ansaetze hin. Kommunitaristen kritisieren den uebermaessigen Fokus auf individuelle Autonomie zu Lasten gemeinschaftlicher Werte."
+  }
 }

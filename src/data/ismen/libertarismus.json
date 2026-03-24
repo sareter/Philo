@@ -20,5 +20,18 @@
     { "titel": "The Road to Serfdom", "autor": "Friedrich Hayek", "jahr": "1944" },
     { "titel": "The Ethics of Liberty", "autor": "Murray Rothbard", "jahr": "1982" },
     { "titel": "The Constitution of Liberty", "autor": "Friedrich Hayek", "jahr": "1960" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Libertarismus sagt: Der Staat soll sich so wenig wie moeglich einmischen. Jeder Mensch soll selbst entscheiden, was er mit seinem Geld, seinem Koerper und seinem Leben macht.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du verdienst Geld und der Staat nimmt dir einen grossen Teil davon weg, um Dinge zu finanzieren, die du vielleicht gar nicht willst. Libertaere finden das ungerecht. Ihre Grundidee: Dein Eigentum gehoert dir, und niemand -- auch nicht der Staat -- darf es dir einfach wegnehmen. Der Staat soll hoechstens dafuer sorgen, dass niemand bestohlen oder angegriffen wird.\n\nDer Philosoph Robert Nozick hat das so erklaert: Wenn jemand sein Geld ehrlich verdient hat und es freiwillig ausgibt oder verschenkt, dann ist die Verteilung gerecht -- egal wie ungleich sie aussieht. Solange niemand betrogen oder gezwungen wurde, hat der Staat kein Recht, Geld umzuverteilen. Friedrich Hayek hat argumentiert, dass der freie Markt viel besser funktioniert als jede staatliche Planung, weil kein Beamter all das Wissen haben kann, das Millionen von Menschen zusammen besitzen.\n\nDer Libertarismus hat ganz praktische Forderungen: Weniger Steuern, weniger Gesetze, weniger Buerokratie. Manche Libertaere gehen noch weiter und wollen den Staat komplett abschaffen. Andere sagen: Freie Maerkte helfen gerade den Aermsten am meisten. Es gibt also verschiedene Abstufungen, aber der Kern bleibt: maximale Freiheit fuer den Einzelnen.",
+    "kernthesen": [
+      "Individuelle Freiheit und Eigentumsrechte sind das Wichtigste in der Politik.",
+      "Der Staat soll nur das Minimum tun: Schutz vor Gewalt, Diebstahl und Betrug.",
+      "Freie Maerkte und freiwilliger Handel sind die fairste Art, die Wirtschaft zu regeln.",
+      "Steuern zur Umverteilung sind im Grunde ein Eingriff in die Freiheit der Besteuerten.",
+      "Es kommt nicht darauf an, wie gleich der Besitz verteilt ist, sondern ob er fair erworben wurde."
+    ],
+    "entstehung": "Der Libertarismus hat seine Wurzeln im klassischen Liberalismus von Denkern wie John Locke. Im 20. Jahrhundert wurde er vor allem durch Friedrich Hayek, Robert Nozick und Murray Rothbard gepraegt. Besonders in den USA hat er eine starke politische Bewegung hervorgebracht.",
+    "kritik": "Kritiker sagen: Wenn der Staat nicht umverteilt, bleiben die Armen auf der Strecke -- formale Freiheit nuetzt wenig, wenn man sich nichts leisten kann. Ausserdem zeigt die Geschichte, dass voellig unregulierte Maerkte zu Problemen wie Kinderarbeit, Umweltzerstoerung und Monopolen fuehren koennen."
+  }
 }

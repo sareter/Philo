@@ -11,13 +11,43 @@
     "Es gibt keinen unmittelbaren Zugang zur Wirklichkeit jenseits konventioneller Rahmen.",
     "Regeln des Sprachgebrauchs sind öffentlich und sozial konstituiert."
   ],
-  "hauptvertreter": ["ludwig-wittgenstein"],
+  "hauptvertreter": [
+    "ludwig-wittgenstein"
+  ],
   "entstehung": "Der Konventionalismus entwickelte sich Anfang des 20. Jahrhunderts aus Poincarés Überlegungen zur Geometrie und wurde durch den Wiener Kreis und Wittgensteins Spätphilosophie weiterentwickelt. Die Krise der Grundlagen in Mathematik und Physik um 1900 bildete den historischen Hintergrund.",
   "kritik": "Kritiker werfen dem Konventionalismus vor, dass er in einen Relativismus mündet, der keine objektive Wahrheit mehr zulässt. Zudem wird eingewandt, dass Konventionen selbst nicht vollständig willkürlich sind, sondern durch empirische Erfahrung und praktische Bewährung eingeschränkt werden.",
-  "verwandteIsmen": ["pragmatismus", "konstruktivismus"],
+  "verwandteIsmen": [
+    "pragmatismus",
+    "konstruktivismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Philosophische Untersuchungen", "autor": "Ludwig Wittgenstein", "jahr": "1953"},
-    {"titel": "Wissenschaft und Hypothese", "autor": "Henri Poincaré", "jahr": "1902"},
-    {"titel": "Der logische Aufbau der Welt", "autor": "Rudolf Carnap", "jahr": "1928"}
-  ]
+    {
+      "titel": "Philosophische Untersuchungen",
+      "autor": "Ludwig Wittgenstein",
+      "jahr": "1953"
+    },
+    {
+      "titel": "Wissenschaft und Hypothese",
+      "autor": "Henri Poincaré",
+      "jahr": "1902"
+    },
+    {
+      "titel": "Der logische Aufbau der Welt",
+      "autor": "Rudolf Carnap",
+      "jahr": "1928"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Konventionalismus vertritt die Auffassung, dass wissenschaftliche Theorien und sprachliche Bedeutungen auf Konventionen beruhen, nicht auf einer direkten Abbildung der Wirklichkeit.",
+    "ausfuehrlicheBeschreibung": "Der Konventionalismus entstand im fruehen 20. Jahrhundert als Reaktion auf naive Vorstellungen wissenschaftlicher Wahrheit. Henri Poincaré argumentierte, dass die Grundsaetze der Geometrie und Physik nicht empirisch ueberpruefbare Tatsachen seien, sondern Konventionen, die wir aufgrund ihrer Zweckmaessigkeit waehlen. Diese Einsicht erschuetterte die Vorstellung, dass wissenschaftliche Theorien die Wirklichkeit unmittelbar widerspiegeln.\n\nLudwig Wittgenstein radikalisierte den Konventionalismus in seiner Spaetphilosophie, indem er zeigte, dass auch die Bedeutung sprachlicher Ausdruecke auf Konventionen – den Regeln von Sprachspielen – beruht. Es gibt keine private Sprache und keinen unabhaengigen Zugang zu Bedeutungen jenseits der sozialen Praxis. Die Regeln, nach denen wir Woerter verwenden, sind gesellschaftlich vereinbart und nicht in der Natur der Dinge begruendet.\n\nDer Konventionalismus hat weitreichende Konsequenzen fuer die Wissenschaftstheorie und die Sprachphilosophie. Er stellt die Objektivitaet wissenschaftlicher Erkenntnis infrage, ohne sie vollstaendig zu leugnen, und betont die Rolle sozialer Praktiken bei der Konstitution von Wissen. In der Gegenwart wirkt der Konventionalismus in konstruktivistischen und pragmatistischen Ansaetzen fort.",
+    "kernthesen": [
+      "Wissenschaftliche Grundsaetze sind Konventionen, keine empirischen Wahrheiten.",
+      "Sprachliche Bedeutung entsteht durch soziale Uebereinkunft und gemeinsame Praxis.",
+      "Die Wahl zwischen konkurrierenden Theorien beruht auf Zweckmaessigkeit, nicht auf Wahrheitsnaehe.",
+      "Es gibt keinen unmittelbaren Zugang zur Wirklichkeit jenseits konventioneller Rahmen.",
+      "Regeln des Sprachgebrauchs sind oeffentlich und sozial konstituiert."
+    ],
+    "entstehung": "Der Konventionalismus entwickelte sich Anfang des 20. Jahrhunderts aus Poincarés Ueberlegungen zur Geometrie und wurde durch den Wiener Kreis und Wittgensteins Spaetphilosophie weiterentwickelt. Die Krise der Grundlagen in Mathematik und Physik um 1900 bildete den historischen Hintergrund.",
+    "kritik": "Kritiker werfen dem Konventionalismus vor, dass er in einen Relativismus muendet, der keine objektive Wahrheit mehr zulaesst. Zudem wird eingewandt, dass Konventionen selbst nicht vollstaendig willkuerlich sind, sondern durch empirische Erfahrung und praktische Bewaehrung eingeschraenkt werden."
+  }
 }

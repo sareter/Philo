@@ -19,5 +19,18 @@
     {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"},
     {"titel": "Zur Genealogie der Moral", "autor": "Friedrich Nietzsche", "jahr": "1887"},
     {"titel": "Götzen-Dämmerung", "autor": "Friedrich Nietzsche", "jahr": "1889"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Anarcho-Nihilismus verbindet zwei radikale Ideen: Es gibt keine echten Werte, und es gibt keine legitime Herrschaft. Alles Bestehende muss zerstoert werden -- ohne Plan fuer danach.",
+    "ausfuehrlicheBeschreibung": "Anarcho-Nihilismus ist die vielleicht radikalste politische Philosophie ueberhaupt. Sie verbindet Nihilismus (es gibt keine objektiven Werte oder Wahrheiten) mit Anarchismus (jede Herrschaft ist illegitim). Das Ergebnis: Nicht nur der Staat muss weg, sondern auch jede Moral, jede Autoritaet, jeder angeblich hoeherer Wert.\n\nDie Logik dahinter: Wenn es keine objektiven Werte gibt, dann gibt es auch keine Grundlage, auf der jemand das Recht haette, ueber andere zu bestimmen. Der Staat behauptet, er sei notwendig und gut -- aber das sind alles nur Geschichten, die die Maechtigen erzaehlen, um ihre Macht zu rechtfertigen. Nietzsche zeigte, dass hinter jeder Moral Machtinteressen stecken.\n\nDer grosse Unterschied zu anderen Formen des Anarchismus: Anarcho-Nihilisten bieten keine Alternative an. Sie sagen nicht 'Lasst uns eine bessere Gesellschaft aufbauen', sondern nur 'Lasst uns alles einreissen'. Das macht diese Position extrem konsequent, aber auch extrem umstritten. Denn: Was kommt danach?",
+    "kernthesen": [
+      "Es gibt keine echten Werte oder Wahrheiten -- alles ist menschengemacht.",
+      "Jede Herrschaft basiert auf Luegen und Machtinteressen.",
+      "Staat, Kirche, Moral -- all das muss zerstoert werden, weil es auf Fiktionen beruht.",
+      "Wahre Freiheit erfordert die Zerstoerung aller bestehenden Strukturen.",
+      "Es gibt keine legitime Grundlage dafuer, dass ein Mensch ueber einen anderen herrscht."
+    ],
+    "entstehung": "Der Anarcho-Nihilismus entstand im 19. Jahrhundert in Russland, wo nihilistische Bewegungen sich mit anarchistischem Denken verbanden. Nietzsches radikale Kritik an allen Werten lieferte die philosophische Grundlage.",
+    "kritik": "Kritiker sagen: Wer alles zerstoert, ohne eine Alternative anzubieten, sorgt fuer Chaos und Gewalt. Ausserdem widerspricht sich der Anarcho-Nihilismus selbst: Die Behauptung 'Alle Werte sind falsch' ist ja auch ein Wert, an den man glaubt."
+  }
 }

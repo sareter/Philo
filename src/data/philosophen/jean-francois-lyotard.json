@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Postmoderne", "Poststrukturalismus"],
+  "hauptstroemungen": [
+    "Postmoderne",
+    "Poststrukturalismus"
+  ],
   "kurzbeschreibung": "Jean-François Lyotard war ein französischer Philosoph, der mit seinem Werk 'Das postmoderne Wissen' (1979) den Begriff der Postmoderne in die philosophische Debatte einführte. Seine These vom 'Ende der großen Erzählungen' wurde zur Signatur einer ganzen Epoche. Er analysierte die Krise der Legitimierung des Wissens in der modernen Gesellschaft und plädierte für eine Vielfalt kleiner, lokaler Erzählungen.",
   "biografie": {
     "fruehesLeben": "Jean-François Lyotard wurde am 10. August 1924 in Versailles geboren. Er studierte Philosophie an der Sorbonne und bestand 1950 die Agrégation. Er unterrichtete zunächst an einem Gymnasium in Constantine, Algerien, wo er die Kolonialherrschaft aus erster Hand erlebte. Diese Erfahrung radikalisierte ihn politisch, und er schloss sich der linksradikalen Gruppe 'Socialisme ou Barbarie' an, in der er von 1954 bis 1966 aktiv war.",
@@ -85,6 +88,61 @@
       "kontext": "Die Diagnose der Kommodifizierung des Wissens in der postindustriellen Gesellschaft."
     }
   ],
-  "verwandtePhilosophen": ["jacques-derrida", "gilles-deleuze", "michel-foucault", "juergen-habermas"],
-  "verwandteIsmen": ["postmoderne", "poststrukturalismus", "dekonstruktion"]
+  "verwandtePhilosophen": [
+    "jacques-derrida",
+    "gilles-deleuze",
+    "michel-foucault",
+    "juergen-habermas"
+  ],
+  "verwandteIsmen": [
+    "postmoderne",
+    "poststrukturalismus",
+    "dekonstruktion"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Jean-François Lyotard war ein franzoesischer Philosoph, der mit seinem Werk 'Das postmoderne Wissen' (1979) den Begriff der Postmoderne in die philosophische Debatte einfuehrte. Seine These vom 'Ende der grossen Erzaehlungen' wurde zur Signatur einer ganzen Epoche. Er analysierte die Krise der Legitimierung des Wissens in der modernen Gesellschaft und plaedierte fuer eine Vielfalt kleiner, lokaler Erzaehlungen.",
+    "biografie": {
+      "fruehesLeben": "Jean-François Lyotard wurde am 10. August 1924 in Versailles geboren. Er studierte Philosophie an der Sorbonne und bestand 1950 die Agrégation. Er unterrichtete zunaechst an einem Gymnasium in Constantine, Algerien, wo er die Kolonialherrschaft aus erster Hand erlebte. Diese Erfahrung radikalisierte ihn politisch, und er schloss sich der linksradikalen Gruppe 'Socialisme ou Barbarie' an, in der er von 1954 bis 1966 aktiv war.",
+      "schaffen": "Lyotards fruehes Werk war stark von der Phaenomenologie und dem Marxismus gepraegt. 'Discours, figure' (1971) entwickelte eine Aesthetik des Figuralen gegen den Strukturalismus. 'Libidinal Economy' (1974) war ein radikales Experiment, das Marx und Freud im Zeichen einer libidinoesen Oekonomie zusammenfuehrte. Sein einflussreichstes Werk 'Das postmoderne Wissen' (1979), urspruenglich als Bericht fuer die Regierung von Québec ueber den Zustand des Wissens in den entwickelten Gesellschaften verfasst, diagnostizierte das Ende der 'grossen Erzaehlungen' (Aufklaerung, Idealismus, Marxismus), die bisher das Wissen legitimierten. An ihre Stelle treten 'Sprachspiele' und eine Pluralitaet lokaler Erzaehlungen.",
+      "spaetesLeben": "In seinen letzten Lebensjahrzehnten beschaeftigte sich Lyotard intensiv mit Aesthetik, insbesondere mit dem Erhabenen bei Kant und Burke, und mit der Frage des Zeugnisses und der Erinnerung an den Holocaust. Er kuratierte 1985 die einflussreiche Ausstellung 'Les Immatériaux' im Centre Pompidou, die die Auswirkungen neuer Technologien auf die menschliche Erfahrung untersuchte.",
+      "tod": "Jean-François Lyotard starb am 21. April 1998 in Paris an Leukaemie. Er war 73 Jahre alt.",
+      "nachwirkung": "Lyotards Begriff der Postmoderne und seine These vom Ende der grossen Erzaehlungen wurden zu Schluesselbegriffen der kulturellen Selbstverstaendigung der spaeten Moderne. Sein Einfluss erstreckt sich ueber Philosophie, Kunsttheorie, Architektur, Medientheorie und Kulturwissenschaften. Die Debatte zwischen Lyotard und Habermas ueber die Postmoderne gehoert zu den praegenden intellektuellen Auseinandersetzungen des spaeten 20. Jahrhunderts."
+    },
+    "kernideen": [
+      {
+        "titel": "Das Ende der grossen Erzaehlungen",
+        "beschreibung": "Die 'grossen Erzaehlungen' (grands récits), die bisher das Wissen und die Gesellschaft legitimierten – Fortschritt, Emanzipation, Dialektik des Geistes, Befreiung der Arbeit –, haben ihre Glaubwuerdigkeit verloren. An ihre Stelle tritt eine Pluralitaet kleiner, lokaler Erzaehlungen."
+      },
+      {
+        "titel": "Der Widerstreit (Le différend)",
+        "beschreibung": "Ein Widerstreit ist ein Konflikt zwischen heterogenen Diskursarten, der nicht durch Bezug auf eine gemeinsame Regel geloest werden kann. Eine Partei wird zum Schweigen gebracht, weil die Sprache des Gerichts ihre Erfahrung nicht ausdruecken kann – paradigmatisch im Fall der Holocaust-Ueberlebenden."
+      },
+      {
+        "titel": "Sprachspiele und Performativitaet",
+        "beschreibung": "In der postmodernen Gesellschaft wird Wissen nicht mehr durch Wahrheit, sondern durch Performativitaet legitimiert – durch seine Effizienz und Nuetzlichkeit. Verschiedene Sprachspiele (wissenschaftliche, narrative, denotative, praeskriptive) sind inkommensurabel."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das postmoderne Wissen (La Condition postmoderne)",
+        "jahr": "1979",
+        "beschreibung": "Das einflussreichste Werk zur philosophischen Bestimmung der Postmoderne diagnostiziert das Ende der grossen Erzaehlungen und analysiert den Zustand des Wissens in den entwickelten Gesellschaften."
+      },
+      {
+        "titel": "Der Widerstreit (Le Différend)",
+        "jahr": "1983",
+        "beschreibung": "Eine Theorie der unloesbaren Konflikte zwischen heterogenen Diskursarten, die zu den bedeutendsten philosophischen Werken des spaeten 20. Jahrhunderts gehoert."
+      },
+      {
+        "titel": "Discours, figure",
+        "jahr": "1971",
+        "beschreibung": "Eine Aesthetik des Figuralen, die das Sinnliche und Visuelle gegen die Vorherrschaft des Diskursiven und Sprachlichen verteidigt."
+      },
+      {
+        "titel": "Oekonomie des Wunsches (Économie libidinale)",
+        "jahr": "1974",
+        "beschreibung": "Ein radikales philosophisches Experiment, das marxistische und psychoanalytische Kategorien im Zeichen einer libidinoesen Oekonomie zusammenfuehrt."
+      }
+    ]
+  }
 }

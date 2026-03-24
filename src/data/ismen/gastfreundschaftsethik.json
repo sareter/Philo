@@ -11,13 +11,44 @@
     "Jede konkrete Aufnahme des Fremden steht in der Spannung zwischen dem Unbedingten und dem Bedingten.",
     "Ethik beginnt dort, wo das Unmögliche gefordert wird – in der vorbehaltlosen Offenheit für den Anderen."
   ],
-  "hauptvertreter": ["jacques-derrida"],
+  "hauptvertreter": [
+    "jacques-derrida"
+  ],
   "entstehung": "Derrida entwickelte die Gastfreundschaftsethik in seinen Seminaren und Schriften der 1990er Jahre, insbesondere in 'Von der Gastfreundschaft' (1997) und 'Cosmopolites de tous les pays, encore un effort!' (1997). Er knüpfte dabei an Levinas' Ethik des Anderen und Kants kosmopolitische Philosophie an.",
   "kritik": "Kritiker werfen der Gastfreundschaftsethik vor, politisch naiv zu sein und die realen Herausforderungen unkontrollierter Migration zu ignorieren. Zudem wird die aporetische Struktur – Forderung des Unmöglichen – als philosophisch unfruchtbar kritisiert, da sie keine konkreten Handlungsanweisungen biete.",
-  "verwandteIsmen": ["alteritaetsphilosophie", "dekonstruktivismus", "kosmopolitismus"],
+  "verwandteIsmen": [
+    "alteritaetsphilosophie",
+    "dekonstruktivismus",
+    "kosmopolitismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Von der Gastfreundschaft", "autor": "Jacques Derrida", "jahr": "1997"},
-    {"titel": "Adieu – Nachruf auf Emmanuel Levinas", "autor": "Jacques Derrida", "jahr": "1997"},
-    {"titel": "Zum ewigen Frieden", "autor": "Immanuel Kant", "jahr": "1795"}
-  ]
+    {
+      "titel": "Von der Gastfreundschaft",
+      "autor": "Jacques Derrida",
+      "jahr": "1997"
+    },
+    {
+      "titel": "Adieu – Nachruf auf Emmanuel Levinas",
+      "autor": "Jacques Derrida",
+      "jahr": "1997"
+    },
+    {
+      "titel": "Zum ewigen Frieden",
+      "autor": "Immanuel Kant",
+      "jahr": "1795"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Gastfreundschaftsethik versteht die bedingungslose Aufnahme des Fremden als ethisches Grundprinzip.",
+    "ausfuehrlicheBeschreibung": "Die Gastfreundschaftsethik wurde massgeblich durch Jacques Derrida als philosophisches Konzept entwickelt. Derrida unterscheidet zwischen der unbedingten Gastfreundschaft – der vorbehaltlosen Oeffnung gegenueber dem Fremden – und der bedingten Gastfreundschaft, die in Gesetze, Regeln und Institutionen eingebettet ist. Das Wort 'Gastfreundschaft' traegt in sich die Doppelheit von 'Gast' und 'Feind' (lateinisch hostis/hospes), die auf die grundlegende Ambivalenz jeder Aufnahme des Fremden verweist.\n\nDerrida argumentiert, dass wahre Gastfreundschaft unbedingt sein muss – sie darf keine Fragen stellen, keine Bedingungen stellen, keinen Namen verlangen. Gleichzeitig ist diese unbedingte Gastfreundschaft in der Praxis unmoeglich, da jede konkrete Aufnahme Regeln und Grenzen erfordert. Diese aporetische Struktur – die Notwendigkeit des Unmoeglichen – kennzeichnet fuer Derrida die Ethik als solche. Kant hatte in seiner Schrift 'Zum ewigen Frieden' bereits ein Recht auf Hospitalitaet formuliert, das Derrida dekonstruiert und radikalisiert.\n\nDie Gastfreundschaftsethik hat in der gegenwaertigen Migrationsdebatte grosse Relevanz erlangt. Sie bietet einen philosophischen Rahmen, um die Spannung zwischen dem ethischen Gebot der Aufnahme und den politischen Notwendigkeiten der Begrenzung zu denken. Sie erinnert daran, dass jede Grenzziehung ethisch begruendungspflichtig ist und dass die Begegnung mit dem Fremden eine fundamentale ethische Herausforderung darstellt.",
+    "kernthesen": [
+      "Wahre Gastfreundschaft ist unbedingt – sie stellt keine Fragen und keine Bedingungen.",
+      "Die unbedingte Gastfreundschaft ist notwendig und zugleich unmoeglich – darin liegt ihre ethische Kraft.",
+      "Das Wort 'Gastfreundschaft' enthaelt die Spannung zwischen Gast und Feind.",
+      "Jede konkrete Aufnahme des Fremden steht in der Spannung zwischen dem Unbedingten und dem Bedingten.",
+      "Ethik beginnt dort, wo das Unmoegliche gefordert wird – in der vorbehaltlosen Offenheit fuer den Anderen."
+    ],
+    "entstehung": "Derrida entwickelte die Gastfreundschaftsethik in seinen Seminaren und Schriften der 1990er Jahre, insbesondere in 'Von der Gastfreundschaft' (1997) und 'Cosmopolites de tous les pays, encore un effort!' (1997). Er knuepfte dabei an Levinas' Ethik des Anderen und Kants kosmopolitische Philosophie an.",
+    "kritik": "Kritiker werfen der Gastfreundschaftsethik vor, politisch naiv zu sein und die realen Herausforderungen unkontrollierter Migration zu ignorieren. Zudem wird die aporetische Struktur – Forderung des Unmoeglichen – als philosophisch unfruchtbar kritisiert, da sie keine konkreten Handlungsanweisungen biete."
+  }
 }

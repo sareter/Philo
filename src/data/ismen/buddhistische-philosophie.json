@@ -11,13 +11,45 @@
     "Der Achtfache Pfad bietet einen praktischen Weg zur Überwindung des Leidens.",
     "Befreiung (Nirvana) ist möglich durch Erkenntnis, ethisches Handeln und meditative Praxis."
   ],
-  "hauptvertreter": ["arthur-schopenhauer"],
+  "hauptvertreter": [
+    "arthur-schopenhauer"
+  ],
   "entstehung": "Die buddhistische Philosophie entstand im 5. Jahrhundert v. Chr. in Nordindien mit den Lehren des historischen Buddha. Sie verbreitete sich über ganz Asien und differenzierte sich in zahlreiche Schulen. Die systematische philosophische Ausarbeitung erfolgte durch Denker wie Nagarjuna, Vasubandhu und Dignaga.",
   "kritik": "Kritiker werfen der buddhistischen Philosophie vor, dass die Lehre vom Nicht-Selbst in einen Widerspruch mit der moralischen Verantwortung gerät. Zudem wird die Tendenz zur Weltverneinung und zum Rückzug aus gesellschaftlichem Engagement bemängelt, obwohl engagierte buddhistische Bewegungen dem entgegenwirken.",
-  "verwandteIsmen": ["pessimismus", "mystizismus", "hinduistische-philosophie", "zen-buddhismus"],
+  "verwandteIsmen": [
+    "pessimismus",
+    "mystizismus",
+    "hinduistische-philosophie",
+    "zen-buddhismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Dhammapada", "autor": "Überliefert", "jahr": "ca. 300 v. Chr."},
-    {"titel": "Mulamadhyamakakarika", "autor": "Nagarjuna", "jahr": "ca. 150 n. Chr."},
-    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"}
-  ]
+    {
+      "titel": "Dhammapada",
+      "autor": "Überliefert",
+      "jahr": "ca. 300 v. Chr."
+    },
+    {
+      "titel": "Mulamadhyamakakarika",
+      "autor": "Nagarjuna",
+      "jahr": "ca. 150 n. Chr."
+    },
+    {
+      "titel": "Die Welt als Wille und Vorstellung",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1819"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die buddhistische Philosophie analysiert das menschliche Leiden und zeigt einen Weg zur Befreiung durch Erkenntnis, ethisches Handeln und Meditation.",
+    "ausfuehrlicheBeschreibung": "Die buddhistische Philosophie geht auf die Lehren Siddhartha Gautamas (ca. 563–483 v. Chr.) zurueck und bildet eine der reichsten philosophischen Traditionen der Welt. Ihr Ausgangspunkt sind die Vier Edlen Wahrheiten: die Wahrheit des Leidens (Dukkha), seiner Ursache (Tanha – Begehren), seiner Aufhebung und des Weges dorthin (der Achtfache Pfad). Arthur Schopenhauer erkannte in dieser Diagnose tiefe Verwandtschaft mit seiner eigenen Philosophie des Willens und der Verneinung des Lebenswillens.\n\nZentrale philosophische Konzepte sind Anicca (Vergaenglichkeit aller Phaenomene), Anatta (Nicht-Selbst, die Abwesenheit einer bestaendigen Seele) und Pratityasamutpada (das abhaengige Entstehen aller Dinge). Diese Lehren stellen radikale Herausforderungen an westliche Annahmen ueber Substanz, Identitaet und Kausalitaet dar. Die verschiedenen buddhistischen Schulen – Theravada, Mahayana und Vajrayana – haben diese Grundeinsichten in unterschiedliche Richtungen weiterentwickelt.\n\nDie buddhistische Philosophie hat im 19. und 20. Jahrhundert zunehmend Einfluss auf westliches Denken gewonnen. Schopenhauer, Nietzsche und spaeter die Phaenomenologie haben sich mit buddhistischen Ideen auseinandergesetzt. In der Gegenwart findet ein fruchtbarer Dialog zwischen buddhistischer Philosophie und Kognitionswissenschaft, Psychologie und analytischer Philosophie des Geistes statt.",
+    "kernthesen": [
+      "Alles Leben ist durchdrungen von Leiden (Dukkha), das durch Begehren und Unwissenheit entsteht.",
+      "Es gibt kein bestaendiges Selbst (Anatta) – die Vorstellung eines festen Ich ist eine Illusion.",
+      "Alle Phaenomene sind vergaenglich (Anicca) und entstehen in wechselseitiger Abhaengigkeit.",
+      "Der Achtfache Pfad bietet einen praktischen Weg zur Ueberwindung des Leidens.",
+      "Befreiung (Nirvana) ist moeglich durch Erkenntnis, ethisches Handeln und meditative Praxis."
+    ],
+    "entstehung": "Die buddhistische Philosophie entstand im 5. Jahrhundert v. Chr. in Nordindien mit den Lehren des historischen Buddha. Sie verbreitete sich ueber ganz Asien und differenzierte sich in zahlreiche Schulen. Die systematische philosophische Ausarbeitung erfolgte durch Denker wie Nagarjuna, Vasubandhu und Dignaga.",
+    "kritik": "Kritiker werfen der buddhistischen Philosophie vor, dass die Lehre vom Nicht-Selbst in einen Widerspruch mit der moralischen Verantwortung geraet. Zudem wird die Tendenz zur Weltverneinung und zum Rueckzug aus gesellschaftlichem Engagement bemaengelt, obwohl engagierte buddhistische Bewegungen dem entgegenwirken."
+  }
 }

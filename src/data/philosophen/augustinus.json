@@ -13,12 +13,16 @@
     "jahr": 430,
     "ort": "Hippo Regius",
     "land": "Numidien (heutiges Algerien)",
-    "lat": 36.90,
+    "lat": 36.9,
     "lng": 7.77
   },
   "epoche": "Antike",
   "region": "Nordafrika / Römisches Reich",
-  "hauptstroemungen": ["Christliche Philosophie", "Neuplatonismus", "Patristik"],
+  "hauptstroemungen": [
+    "Christliche Philosophie",
+    "Neuplatonismus",
+    "Patristik"
+  ],
   "kurzbeschreibung": "Augustinus von Hippo war der einflussreichste Kirchenvater und einer der bedeutendsten Denker der westlichen Geistesgeschichte. Seine Verbindung von christlichem Glauben und neuplatonischer Philosophie prägte die gesamte mittelalterliche Theologie und Philosophie.",
   "biografie": {
     "fruehesLeben": "Aurelius Augustinus wurde am 13. November 354 in Thagaste (dem heutigen Souk Ahras in Algerien) in der römischen Provinz Numidien geboren. Sein Vater Patricius war ein kleiner heidnischer Grundbesitzer, der sich erst kurz vor seinem Tod taufen ließ. Seine Mutter Monika war eine fromme Christin, die sein Leben tief beeinflusste und später heiliggesprochen wurde. Augustinus erhielt eine Ausbildung in Grammatik und Rhetorik in Thagaste, Madaura und Karthago. In Karthago führte er ein ausschweifendes Leben – 'Nach Karthago kam ich, und es brodelte um mich der Kessel schändlicher Liebschaften' (Confessiones III, 1). Mit 17 Jahren nahm er eine Konkubine, die ihm seinen Sohn Adeodatus gebar. Gleichzeitig erwachte sein philosophisches Interesse durch die Lektüre von Ciceros 'Hortensius'. Er schloss sich den Manichäern an, einer dualistischen Sekte, der er neun Jahre lang angehörte.",
@@ -108,6 +112,67 @@
       "kontext": "Augustinus' berühmte ethische Maxime: Wer wirklich liebt, handelt automatisch richtig."
     }
   ],
-  "verwandtePhilosophen": ["platon", "plotin", "thomas-von-aquin", "cicero", "boethius"],
-  "verwandteIsmen": ["neuplatonismus", "christliche-philosophie", "patristik", "idealismus"]
+  "verwandtePhilosophen": [
+    "platon",
+    "plotin",
+    "thomas-von-aquin",
+    "cicero",
+    "boethius"
+  ],
+  "verwandteIsmen": [
+    "neuplatonismus",
+    "christliche-philosophie",
+    "patristik",
+    "idealismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Augustinus von Hippo war der einflussreichste Kirchenvater und einer der bedeutendsten Denker der westlichen Geistesgeschichte. Seine Verbindung von christlichem Glauben und neuplatonischer Philosophie praegte die gesamte mittelalterliche Theologie und Philosophie.",
+    "biografie": {
+      "fruehesLeben": "Aurelius Augustinus wurde am 13. November 354 in Thagaste (dem heutigen Souk Ahras in Algerien) in der roemischen Provinz Numidien geboren. Sein Vater Patricius war ein kleiner heidnischer Grundbesitzer, der sich erst kurz vor seinem Tod taufen liess. Seine Mutter Monika war eine fromme Christin, die sein Leben tief beeinflusste und spaeter heiliggesprochen wurde. Augustinus erhielt eine Ausbildung in Grammatik und Rhetorik in Thagaste, Madaura und Karthago. In Karthago fuehrte er ein ausschweifendes Leben – 'Nach Karthago kam ich, und es brodelte um mich der Kessel schaendlicher Liebschaften' (Confessiones III, 1). Mit 17 Jahren nahm er eine Konkubine, die ihm seinen Sohn Adeodatus gebar. Gleichzeitig erwachte sein philosophisches Interesse durch die Lektuere von Ciceros 'Hortensius'.",
+      "schaffen": "Augustinus lehrte Rhetorik in Karthago, Rom und Mailand. In Mailand kam er unter den Einfluss des Bischofs Ambrosius, dessen allegorische Bibelauslegung ihn beeindruckte. Die entscheidende Wende kam durch die Lektuere der 'platonischen Buecher' – wahrscheinlich Plotins Enneaden in der Uebersetzung des Marius Victorinus. Der Neuplatonismus bot ihm ein intellektuell befriedigendes Gegenmodell zum manichaeischen Dualismus: Das Boese ist nicht eine eigenstaendige Macht, sondern Mangel an Gutem (privatio boni). Im August 386 erlebte er seine beruehmte Bekehrung im Garten in Mailand: Eine Kinderstimme rief 'Tolle, lege!' (Nimm und lies!), und er las eine Passage aus dem Roemerbrief des Paulus, die ihn ueberwaeltigte. Er liess sich 387 von Ambrosius taufen.",
+      "spaetesLeben": "In seinen letzten Jahrzehnten fuehrte Augustinus erbitterte theologische Kaempfe gegen verschiedene Haeresien: gegen die Manichaeer, die Donatisten und die Pelagianer. Er schrieb unermuedlich – sein Gesamtwerk umfasst ueber 5 Millionen Worte. Er verfasste auch die 'Retractationes' (Korrekturen), in denen er sein eigenes Werk kritisch ueberpruefte.",
+      "tod": "Augustinus starb am 28. August 430 in Hippo Regius, waehrend die Stadt von den Vandalen unter Geiserich belagert wurde. Er war 75 Jahre alt. In seinen letzten Tagen liess er sich die Busspsalmen an die Wand schreiben und betete sie unablaessig. Seine Bibliothek und seine Schriften wurden gerettet.",
+      "nachwirkung": "Augustinus ist neben Thomas von Aquin der einflussreichste Theologe und Philosoph des Christentums. Seine Gnadenlehre und Praedestinationslehre praegten Luther und Calvin und damit die gesamte Reformation. Seine Zeitphilosophie beeinflusste Husserl und Heidegger. Sein Konzept der Innerlichkeit und der Selbstreflexion gilt als Vorlaeufer der modernen Subjektphilosophie von Descartes bis zur Phaenomenologie. Hannah Arendt widmete ihre Dissertation dem Liebesbegriff bei Augustinus."
+    },
+    "kernideen": [
+      {
+        "titel": "Privatio Boni (Das Boese als Mangel)",
+        "beschreibung": "Das Boese ist kein eigenstaendiges Prinzip, sondern ein Mangel an Gutem – wie die Dunkelheit ein Mangel an Licht ist. Diese Lehre loeste Augustinus' manichaeisches Problem und wurde zum Grundpfeiler der christlichen Theodizee."
+      },
+      {
+        "titel": "Innerlichkeit und Selbsterkenntnis",
+        "beschreibung": "'Geh nicht nach draussen, kehre in dich selbst ein! Im inneren Menschen wohnt die Wahrheit.' Die Wahrheit wird nicht in der Aussenwelt, sondern in der Innerlichkeit der Seele gefunden – dort begegnet man Gott."
+      },
+      {
+        "titel": "Zeitphilosophie",
+        "beschreibung": "Was ist die Zeit? 'Wenn mich niemand fragt, weiss ich es; wenn ich es einem Erklaerenden erklaeren will, weiss ich es nicht.' Die Zeit existiert nur in der Seele: als Erinnerung (Vergangenheit), Aufmerksamkeit (Gegenwart) und Erwartung (Zukunft)."
+      },
+      {
+        "titel": "Zwei-Reiche-Lehre",
+        "beschreibung": "Die Geschichte ist der Kampf zwischen dem Gottesstaat (civitas Dei), gegruendet auf Gottesliebe, und dem irdischen Staat (civitas terrena), gegruendet auf Selbstliebe. Erst am Ende der Zeit wird Gott sein Reich vollenden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Confessiones (Bekenntnisse)",
+        "jahr": "397–401",
+        "beschreibung": "Autobiographische und philosophisch-theologische Meditation in 13 Buechern. Schildert Augustinus' Weg von der Suende ueber den Manichaeismus zum christlichen Glauben. Enthaelt die beruehmte Zeitphilosophie in Buch XI."
+      },
+      {
+        "titel": "De civitate Dei (Vom Gottesstaat)",
+        "jahr": "413–426",
+        "beschreibung": "Monumentale Geschichtsphilosophie in 22 Buechern, geschrieben als Antwort auf die Pluenderung Roms durch die Westgoten 410. Entwickelt die Lehre von den zwei Staaten."
+      },
+      {
+        "titel": "De Trinitate (Ueber die Dreieinigkeit)",
+        "jahr": "399–419",
+        "beschreibung": "15 Buecher ueber das Wesen der goettlichen Trinitaet. Augustinus sucht Analogien zur Trinitaet in der Struktur des menschlichen Geistes: Gedaechtnis, Verstand und Wille."
+      },
+      {
+        "titel": "De libero arbitrio (Ueber den freien Willen)",
+        "jahr": "387–395",
+        "beschreibung": "Dialog ueber die Willensfreiheit und das Problem des Boesen. Augustinus verteidigt den freien Willen gegen die manichaeische These, das Boese sei eine eigenstaendige Macht."
+      }
+    ]
+  }
 }

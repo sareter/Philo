@@ -18,7 +18,11 @@
   },
   "epoche": "Antike",
   "region": "Zypern / Griechenland",
-  "hauptstroemungen": ["Stoizismus", "Ethik", "Logik"],
+  "hauptstroemungen": [
+    "Stoizismus",
+    "Ethik",
+    "Logik"
+  ],
   "kurzbeschreibung": "Zenon von Kition war der Begründer der stoischen Philosophie, die zu einer der einflussreichsten Denkschulen der Antike wurde. Er lehrte in der Stoa Poikile in Athen, dass ein tugendhaftes, naturgemäßes Leben der Schlüssel zum Glück sei.",
   "biografie": {
     "fruehesLeben": "Zenon wurde 334 v. Chr. in Kition auf Zypern geboren, einer Stadt mit phönizischem Erbe. Sein Vater Mnaseas war ein wohlhabender Kaufmann, der auf seinen Handelsreisen nach Athen philosophische Bücher für seinen Sohn mitbrachte. Um 312 v. Chr. erlitt Zenon Schiffbruch auf einer Handelsreise und strandete in Athen – ein Ereignis, das sein Leben grundlegend veränderte. In einem Buchladen las er Xenophons 'Memorabilien' über Sokrates und fragte den Buchhändler, wo er solche Männer finden könne. Zufällig ging gerade der Kyniker Krates von Theben vorbei, und der Buchhändler sagte: 'Folge diesem Mann.' Zenon wurde Schüler des Krates, studierte aber auch bei Stilpon von Megara, bei den Akademikern Xenokrates und Polemon und bei dem Dialektiker Diodoros Kronos. Diese vielfältige Ausbildung spiegelt sich in der Breite seines philosophischen Systems wider.",
@@ -84,6 +88,68 @@
       "kontext": "Zenon über die Wichtigkeit bedachter Rede."
     }
   ],
-  "verwandtePhilosophen": ["chrysipp", "seneca", "epiktet", "marcus-aurelius", "diogenes-von-sinope", "heraklit"],
-  "verwandteIsmen": ["stoizismus", "kosmopolitismus", "naturalismus", "pantheismus"]
+  "verwandtePhilosophen": [
+    "chrysipp",
+    "seneca",
+    "epiktet",
+    "marcus-aurelius",
+    "diogenes-von-sinope",
+    "heraklit"
+  ],
+  "verwandteIsmen": [
+    "stoizismus",
+    "kosmopolitismus",
+    "naturalismus",
+    "pantheismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Zenon von Kition war der Begruender der stoischen Philosophie, die zu einer der einflussreichsten Denkschulen der Antike wurde. Er lehrte in der Stoa Poikile in Athen, dass ein tugendhaftes, naturgemaesses Leben der Schluessel zum Glueck sei.",
+    "biografie": {
+      "fruehesLeben": "Zenon wurde 334 v. Chr. in Kition auf Zypern geboren, einer Stadt mit phoenizischem Erbe. Sein Vater Mnaseas war ein wohlhabender Kaufmann, der auf seinen Handelsreisen nach Athen philosophische Buecher fuer seinen Sohn mitbrachte. Um 312 v. Chr. erlitt Zenon Schiffbruch auf einer Handelsreise und strandete in Athen – ein Ereignis, das sein Leben grundlegend veraenderte. In einem Buchladen las er Xenophons 'Memorabilien' ueber Sokrates und fragte den Buchhaendler, wo er solche Maenner finden koenne. Zufaellig ging gerade der Kyniker Krates von Theben vorbei, und der Buchhaendler sagte: 'Folge diesem Mann.' Zenon wurde Schueler des Krates, studierte aber auch bei Stilpon von Megara, bei den Akademikern Xenokrates und Polemon und bei dem Dialektiker Diodoros Kronos.",
+      "schaffen": "Um 300 v. Chr. begann Zenon, in der Stoa Poikile (Bunte Saeulenhalle) am Athener Marktplatz zu lehren – daher der Name 'Stoiker'. Er entwickelte ein umfassendes philosophisches System, das er in Logik, Physik und Ethik einteilte – ein Modell, das fuer die gesamte antike Philosophie massgeblich wurde. In der Logik unterschied er erstmals zwischen dem Bezeichnenden (Wort), dem Bezeichneten (Bedeutung) und dem Gegenstand – ein Vorgriff auf die moderne Sprachphilosophie. In der Physik vertrat er einen materialistischen Pantheismus: Alles ist koerperlich, und Gott ist identisch mit dem vernuenftigen Naturgesetz (Logos), das den Kosmos durchdringt. Das Universum ist ein lebendiger Organismus, durchdrungen von einem goettlichen Feuerodem (Pneuma).",
+      "spaetesLeben": "Zenon genoss in Athen hoechstes Ansehen. Koenig Antigonos II. Gonatas von Makedonien schaetzte ihn und lud ihn an seinen Hof, was Zenon jedoch ablehnte. Die Athener ehrten ihn mit einem goldenen Kranz und einem Staatsbegraebnis – eine einzigartige Auszeichnung fuer einen Nichtathener.",
+      "tod": "Zenon starb 262 v. Chr. in Athen im Alter von 72 Jahren. Der Ueberlieferung nach stolperte er nach dem Unterricht, brach sich einen Zeh und schlug mit der Hand auf den Boden. Dabei zitierte er den Vers: 'Ich komme, warum rufst du mich?' – und starb durch freiwilliges Anhalten des Atems. Die Nachfolge als Schulhaupt uebernahm sein Schueler Kleanthes.",
+      "nachwirkung": "Die von Zenon begruendete Stoa wurde zu einer der bedeutendsten Philosophenschulen der Antike und uebte enormen Einfluss auf die roemische Kultur aus. Seneca, Epiktet und Marcus Aurelius fuehrten seine Lehre fort. Der stoische Einfluss auf das Christentum – insbesondere die Idee des Naturrechts, der goettlichen Vorsehung und der Gleichheit aller Menschen – war immens. In der Neuzeit beeinflussten stoische Ideen Descartes, Spinoza und Kant. Heute erlebt der Stoizismus eine Renaissance als praktische Lebensphilosophie."
+    },
+    "kernideen": [
+      {
+        "titel": "Naturgemaesses Leben",
+        "beschreibung": "Das Ziel des Lebens ist es, in Uebereinstimmung mit der Natur (kata physin) zu leben. Da die menschliche Natur die Vernunft ist, bedeutet dies ein Leben gemaess der Vernunft."
+      },
+      {
+        "titel": "Tugend als einziges Gut",
+        "beschreibung": "Nur die Tugend ist ein wahres Gut, nur das Laster ein wahres Uebel. Alles andere – Gesundheit, Reichtum, Schoenheit – ist gleichgueltig (adiaphoron), auch wenn manches 'vorzuziehen' ist."
+      },
+      {
+        "titel": "Apatheia (Leidenschaftslosigkeit)",
+        "beschreibung": "Die Leidenschaften (Begierde, Furcht, Lust, Schmerz) sind Fehlurteile der Vernunft und muessen ueberwunden werden. Der Weise ist frei von Leidenschaften, nicht gefuehllos."
+      },
+      {
+        "titel": "Kosmopolitismus",
+        "beschreibung": "Alle Menschen sind Buerger einer einzigen Weltgemeinschaft, vereint durch die gemeinsame Vernunft. Nationale und soziale Grenzen sind letztlich bedeutungslos."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Politeia (Der Staat)",
+        "jahr": "ca. 300 v. Chr.",
+        "beschreibung": "Entwurf einer idealen kosmopolitischen Gemeinschaft, in der alle Menschen als Weltbuerger zusammenleben. Provokant und radikal – beeinflusst durch die kynische Tradition. Nur Fragmente erhalten."
+      },
+      {
+        "titel": "Ueber das naturgemaesse Leben",
+        "jahr": "ca. 290 v. Chr.",
+        "beschreibung": "Ethisches Hauptwerk ueber das Ziel des Lebens als Uebereinstimmung mit der Natur. Grundlegend fuer die gesamte stoische Ethik."
+      },
+      {
+        "titel": "Ueber die Leidenschaften",
+        "jahr": "ca. 290 v. Chr.",
+        "beschreibung": "Analyse der Leidenschaften als Fehlurteile der Vernunft und Anleitung zu ihrer Ueberwindung. Grundlage der stoischen Affektenlehre."
+      },
+      {
+        "titel": "Ueber die Natur (Peri Physeos)",
+        "jahr": "ca. 295 v. Chr.",
+        "beschreibung": "Darstellung der stoischen Physik und Kosmologie. Enthaelt die Lehre vom goettlichen Logos, der den Kosmos durchdringt und ordnet."
+      }
+    ]
+  }
 }

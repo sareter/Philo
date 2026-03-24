@@ -11,13 +11,43 @@
     "Arten und Ökosysteme haben ein Recht auf Bewahrung und ungestörte Entfaltung.",
     "Umweltzerstörung ist nicht nur praktisch schädlich, sondern moralisch verwerflich."
   ],
-  "hauptvertreter": ["peter-singer"],
+  "hauptvertreter": [
+    "peter-singer"
+  ],
   "entstehung": "Der Ökozentrismus geht auf Aldo Leopolds Land-Ethik (1949) zurück und wurde durch Arne Næss' Tiefenökologie in den 1970er Jahren philosophisch vertieft. Die Umweltbewegung und das wachsende ökologische Bewusstsein bildeten den gesellschaftlichen Hintergrund.",
   "kritik": "Kritiker werfen dem Ökozentrismus vor, er betreibe einen „ökologischen Faschismus“, der individuelle Rechte dem Wohl des Ganzen opfere. Zudem wird bemängelt, dass die Zuschreibung moralischen Wertes an nicht-empfindungsfähige Ganzheiten wie Ökosysteme philosophisch problematisch ist.",
-  "verwandteIsmen": ["umweltethik", "biozentrismus"],
+  "verwandteIsmen": [
+    "umweltethik",
+    "biozentrismus"
+  ],
   "schluesselwerke": [
-    {"titel": "A Sand County Almanac", "autor": "Aldo Leopold", "jahr": "1949"},
-    {"titel": "The Shallow and the Deep Ecology Movement", "autor": "Arne Næss", "jahr": "1973"},
-    {"titel": "Praktische Ethik", "autor": "Peter Singer", "jahr": "1979"}
-  ]
+    {
+      "titel": "A Sand County Almanac",
+      "autor": "Aldo Leopold",
+      "jahr": "1949"
+    },
+    {
+      "titel": "The Shallow and the Deep Ecology Movement",
+      "autor": "Arne Næss",
+      "jahr": "1973"
+    },
+    {
+      "titel": "Praktische Ethik",
+      "autor": "Peter Singer",
+      "jahr": "1979"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Oekozentrismus weist nicht einzelnen Lebewesen, sondern ganzen Oekosystemen und der Biosphaere als Ganzem einen moralischen Eigenwert zu.",
+    "ausfuehrlicheBeschreibung": "Der Oekozentrismus entwickelte sich aus Aldo Leopolds Land-Ethik, die in seinem postum veroeffentlichten „Sand County Almanac“ (1949) formuliert wurde. Leopold schrieb: „Eine Handlung ist richtig, wenn sie dazu beitraegt, die Integritaet, Stabilitaet und Schoenheit der biotischen Gemeinschaft zu bewahren. Sie ist falsch, wenn sie das Gegenteil bewirkt.“ Damit verschob er den moralischen Fokus vom Individuum auf das Oekosystem als Ganzes.\n\nDer Oekozentrismus unterscheidet sich vom Biozentrismus dadurch, dass er nicht einzelne Lebewesen, sondern oekologische Ganzheiten – Oekosysteme, Arten, Landschaften – als primaere Traeger moralischen Wertes betrachtet. Arne Næss' Tiefenoekologie radikalisierte diesen Ansatz, indem sie eine fundamentale Gleichwertigkeit aller Lebensformen und das Recht der Natur auf ungestoerte Entfaltung postulierte. Peter Singer hat diese Debatten durch seine Arbeiten zur Umweltethik mitgepraegt.\n\nIn der Gegenwart gewinnt der Oekozentrismus angesichts von Klimawandel und Artensterben zunehmend an Bedeutung. Die Anerkennung von Rechten der Natur in den Verfassungen Ecuadors und Boliviens sowie die Rechtspersoenlichkeit von Fluessen und Waeldern in verschiedenen Laendern spiegeln oekozentrische Ideen wider. Der Oekozentrismus fordert eine grundlegende Transformation des menschlichen Selbstverstaendnisses von einem Herrscher ueber die Natur zu einem Teil der oekologischen Gemeinschaft.",
+    "kernthesen": [
+      "Oekosysteme und die Biosphaere als Ganzes besitzen einen moralischen Eigenwert.",
+      "Die Integritaet und Stabilitaet oekologischer Systeme hat ethischen Vorrang vor individuellen Interessen.",
+      "Der Mensch ist Teil der biotischen Gemeinschaft, nicht ihr Herrscher.",
+      "Arten und Oekosysteme haben ein Recht auf Bewahrung und ungestoerte Entfaltung.",
+      "Umweltzerstoerung ist nicht nur praktisch schaedlich, sondern moralisch verwerflich."
+    ],
+    "entstehung": "Der Oekozentrismus geht auf Aldo Leopolds Land-Ethik (1949) zurueck und wurde durch Arne Næss' Tiefenoekologie in den 1970er Jahren philosophisch vertieft. Die Umweltbewegung und das wachsende oekologische Bewusstsein bildeten den gesellschaftlichen Hintergrund.",
+    "kritik": "Kritiker werfen dem Oekozentrismus vor, er betreibe einen „oekologischen Faschismus“, der individuelle Rechte dem Wohl des Ganzen opfere. Zudem wird bemaengelt, dass die Zuschreibung moralischen Wertes an nicht-empfindungsfaehige Ganzheiten wie Oekosysteme philosophisch problematisch ist."
+  }
 }

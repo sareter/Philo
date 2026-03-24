@@ -11,13 +11,44 @@
     "Es existieren Todeszonen, in denen Menschen einem lebenden Tod ausgesetzt sind.",
     "Rassismus ist eine zentrale Technologie der nekropolitischen Sortierung von Bevölkerungen."
   ],
-  "hauptvertreter": ["michel-foucault"],
+  "hauptvertreter": [
+    "michel-foucault"
+  ],
   "entstehung": "Die Nekropolitik wurde 2003 von Achille Mbembe in seinem gleichnamigen Essay formuliert. Sie entstand aus der Verbindung von Foucaults Biopolitik, Fanons Kolonialismuskritik und Agambens Theorie des Ausnahmezustands. Mbembe reagierte damit auf die Erfahrung postkolonialer Gewalt und die Kriege des 21. Jahrhunderts.",
   "kritik": "Kritiker werfen der Nekropolitik vor, die Unterscheidung zwischen demokratischen und autoritären Regimen zu verwischen und alle Formen politischer Macht auf Todesproduktion zu reduzieren. Zudem wird bemängelt, dass der Begriff zu inflationär verwendet werde und damit seine analytische Kraft verliere.",
-  "verwandteIsmen": ["biopolitik", "postkolonialismus", "kritische-theorie"],
+  "verwandteIsmen": [
+    "biopolitik",
+    "postkolonialismus",
+    "kritische-theorie"
+  ],
   "schluesselwerke": [
-    {"titel": "Nekropolitik", "autor": "Achille Mbembe", "jahr": "2003"},
-    {"titel": "Politik der Feindschaft", "autor": "Achille Mbembe", "jahr": "2016"},
-    {"titel": "Homo sacer", "autor": "Giorgio Agamben", "jahr": "1995"}
-  ]
+    {
+      "titel": "Nekropolitik",
+      "autor": "Achille Mbembe",
+      "jahr": "2003"
+    },
+    {
+      "titel": "Politik der Feindschaft",
+      "autor": "Achille Mbembe",
+      "jahr": "2016"
+    },
+    {
+      "titel": "Homo sacer",
+      "autor": "Giorgio Agamben",
+      "jahr": "1995"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Nekropolitik analysiert die souveraene Macht, darueber zu entscheiden, wer leben darf und wer dem Tod ueberlassen wird.",
+    "ausfuehrlicheBeschreibung": "Das Konzept der Nekropolitik wurde 2003 von dem kamerunischen Philosophen Achille Mbembe formuliert und erweitert Foucaults Biopolitik um eine entscheidende Dimension: Waehrend Foucault die moderne Macht als Verwaltung des Lebens analysierte, zeigt Mbembe, dass die souveraene Macht ueber den Tod – das Recht zu toeten oder dem Tod auszusetzen – keineswegs verschwunden ist. Im Gegenteil: In postkolonialen Kontexten, Kriegen und Grenzregimen wird das Recht, den Tod zu verhaengen, zur grundlegenden Form politischer Souveraenitaet.\n\nMbembe knuepft an Foucaults Analyse des Rassismus als biopolitischer Technologie an, die bestimmte Bevoelkerungsgruppen als 'lebensunwert' markiert, und verbindet sie mit Frantz Fanons Kolonialismuskritik und Hannah Arendts Analyse des Totalitarismus. Die Nekropolitik beschreibt Zonen, in denen Menschen einem 'lebenden Tod' ausgesetzt sind – in Fluechtlingslagern, besetzten Gebieten, Gefaengnissystemen und den verwuesteten Landschaften der Ressourcenausbeutung.\n\nIn der Gegenwart hat die Nekropolitik als analytisches Werkzeug grosse Bedeutung gewonnen. Die Migrationspolitik, die Klimakrise, die ungleiche Verteilung von Gesundheitsversorgung und die systematische Vernachlaessigung bestimmter Bevoelkerungsgruppen lassen sich als Formen nekropolitischer Macht verstehen. Mbembes Analyse fordert die westliche politische Philosophie heraus, die Perspektive der dem Tod Ausgesetzten einzunehmen.",
+    "kernthesen": [
+      "Die souveraene Macht ueber den Tod ist die grundlegendste Form politischer Herrschaft.",
+      "Moderne Politik entscheidet, wer leben darf und wer dem Tod ueberlassen wird.",
+      "Postkoloniale Kontexte zeigen die Fortdauer nekropolitischer Macht in der Gegenwart.",
+      "Es existieren Todeszonen, in denen Menschen einem lebenden Tod ausgesetzt sind.",
+      "Rassismus ist eine zentrale Technologie der nekropolitischen Sortierung von Bevoelkerungen."
+    ],
+    "entstehung": "Die Nekropolitik wurde 2003 von Achille Mbembe in seinem gleichnamigen Essay formuliert. Sie entstand aus der Verbindung von Foucaults Biopolitik, Fanons Kolonialismuskritik und Agambens Theorie des Ausnahmezustands. Mbembe reagierte damit auf die Erfahrung postkolonialer Gewalt und die Kriege des 21. Jahrhunderts.",
+    "kritik": "Kritiker werfen der Nekropolitik vor, die Unterscheidung zwischen demokratischen und autoritaeren Regimen zu verwischen und alle Formen politischer Macht auf Todesproduktion zu reduzieren. Zudem wird bemaengelt, dass der Begriff zu inflationaer verwendet werde und damit seine analytische Kraft verliere."
+  }
 }

@@ -11,13 +11,44 @@
     "Rituale und Formen (Li) dienen der Kultivierung von Respekt und sozialer Ordnung.",
     "Bildung und Lernen sind lebenslange Aufgaben des tugendhaften Menschen."
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Der Konfuzianismus entstand im 5. Jahrhundert v. Chr. in China, als Konfuzius in einer Zeit politischer Unordnung eine ethisch fundierte Gesellschaftsordnung lehrte. Seine Gespräche (Lunyu) wurden von Schülern überliefert und bilden das Kernwerk dieser Tradition.",
   "kritik": "Kritiker werfen dem Konfuzianismus vor, hierarchische und patriarchale Strukturen zu legitimieren und individuelle Freiheit zugunsten sozialer Harmonie zu unterdrücken. Zudem wird bemängelt, dass die starke Betonung von Tradition und Autorität eine kritische Hinterfragung bestehender Verhältnisse erschwere.",
-  "verwandteIsmen": ["tugendethik", "kommunitarismus", "humanismus"],
+  "verwandteIsmen": [
+    "tugendethik",
+    "kommunitarismus",
+    "humanismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Lunyu (Gespräche des Konfuzius)", "autor": "Konfuzius / Schüler", "jahr": "ca. 475 v. Chr."},
-    {"titel": "Mengzi", "autor": "Mengzi", "jahr": "ca. 300 v. Chr."},
-    {"titel": "Daxue (Das Große Lernen)", "autor": "Zengzi (zugeschrieben)", "jahr": "ca. 400 v. Chr."}
-  ]
+    {
+      "titel": "Lunyu (Gespräche des Konfuzius)",
+      "autor": "Konfuzius / Schüler",
+      "jahr": "ca. 475 v. Chr."
+    },
+    {
+      "titel": "Mengzi",
+      "autor": "Mengzi",
+      "jahr": "ca. 300 v. Chr."
+    },
+    {
+      "titel": "Daxue (Das Große Lernen)",
+      "autor": "Zengzi (zugeschrieben)",
+      "jahr": "ca. 400 v. Chr."
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Konfuzianismus ist eine chinesische Philosophie der Tugend, die auf ethischer Selbstkultivierung, sozialer Harmonie und der Achtung von Ritualen und Beziehungen beruht.",
+    "ausfuehrlicheBeschreibung": "Der Konfuzianismus geht auf die Lehren des chinesischen Philosophen Konfuzius (551–479 v. Chr.) zurueck und stellt eine der einflussreichsten Denktraditionen Ostasiens dar. Im Zentrum steht das Ideal des Junzi, des edlen oder tugendhaften Menschen, der sich durch Selbstkultivierung, Mitmenschlichkeit (Ren) und die Beachtung ritueller Formen (Li) auszeichnet. Die fuenf grundlegenden Beziehungen – zwischen Herrscher und Untertan, Vater und Sohn, Ehemann und Ehefrau, aelterem und juengerem Bruder sowie zwischen Freunden – bilden das Geruest der sozialen Ordnung.\n\nDie konfuzianische Ethik weist Parallelen zur aristotelischen Tugendethik auf: Beide betonen die Bedeutung der Charakterbildung, der praktischen Weisheit und der Einbettung des Einzelnen in eine Gemeinschaft. Wie Aristoteles sieht auch Konfuzius die Tugend nicht als abstrakte Regel, sondern als eine durch Uebung und Gewohnheit erworbene Haltung. Das Konzept des Zhongyong (der Mitte) erinnert an die aristotelische Mesotes-Lehre.\n\nUeber die Jahrhunderte wurde der Konfuzianismus durch Denker wie Mengzi und Xunzi weiterentwickelt und erlebte im Neokonfuzianismus der Song-Dynastie eine philosophische Vertiefung. Bis heute praegt er die Kulturen Chinas, Koreas, Japans und Vietnams und erfaehrt in der gegenwaertigen politischen Philosophie erneutes Interesse als Alternative zu westlichen Demokratiemodellen.",
+    "kernthesen": [
+      "Tugend und moralische Selbstkultivierung sind die Grundlage einer guten Gesellschaft.",
+      "Die fuenf Grundbeziehungen strukturieren das harmonische Zusammenleben der Menschen.",
+      "Ren (Mitmenschlichkeit) ist die hoechste Tugend und Quelle aller anderen Tugenden.",
+      "Rituale und Formen (Li) dienen der Kultivierung von Respekt und sozialer Ordnung.",
+      "Bildung und Lernen sind lebenslange Aufgaben des tugendhaften Menschen."
+    ],
+    "entstehung": "Der Konfuzianismus entstand im 5. Jahrhundert v. Chr. in China, als Konfuzius in einer Zeit politischer Unordnung eine ethisch fundierte Gesellschaftsordnung lehrte. Seine Gespraeche (Lunyu) wurden von Schuelern ueberliefert und bilden das Kernwerk dieser Tradition.",
+    "kritik": "Kritiker werfen dem Konfuzianismus vor, hierarchische und patriarchale Strukturen zu legitimieren und individuelle Freiheit zugunsten sozialer Harmonie zu unterdruecken. Zudem wird bemaengelt, dass die starke Betonung von Tradition und Autoritaet eine kritische Hinterfragung bestehender Verhaeltnisse erschwere."
+  }
 }

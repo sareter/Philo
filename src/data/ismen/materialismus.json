@@ -20,5 +20,18 @@
     { "titel": "System der Natur", "autor": "Paul-Henri Thiry d'Holbach", "jahr": "1770" },
     { "titel": "Die deutsche Ideologie", "autor": "Karl Marx und Friedrich Engels", "jahr": "1846" },
     { "titel": "The Conscious Mind", "autor": "David Chalmers", "jahr": "1996" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Materialismus sagt: Alles, was existiert, ist Materie. Auch Gedanken, Gefuehle und Bewusstsein sind letztlich nichts anderes als Vorgaenge in unserem Gehirn -- also rein physische Prozesse.",
+    "ausfuehrlicheBeschreibung": "Die Grundfrage des Materialismus ist: Woraus besteht die Welt wirklich? Und die Antwort lautet: aus Materie. Es gibt keine Geister, keine Seelen, keine uebernatuerlichen Kraefte. Alles, was passiert -- auch deine Gedanken und Gefuehle -- laesst sich auf physische Vorgaenge zurueckfuehren. Wenn du Liebe empfindest, sind das Neuronen in deinem Gehirn, die feuern, und Hormone, die ausgeschuettet werden.\n\nDiese Idee ist uralt. Schon in der griechischen Antike sagten Philosophen wie Demokrit: Alles besteht aus winzigen Teilchen -- Atomen -- und leerem Raum. Spaeter hat Marx den Materialismus auf die Gesellschaft angewendet: Nicht unsere Ideen bestimmen, wie wir leben, sondern die wirtschaftlichen Verhaeltnisse bestimmen unser Denken. Und heute sagen manche Hirnforscher: Unsere Alltagsbegriffe wie Ueberzeugung oder Wunsch sind eigentlich veraltet und sollten durch praezise neurologische Beschreibungen ersetzt werden.\n\nDas grosse ungeloeste Problem des Materialismus: Wie entsteht aus toten Atomen und chemischen Reaktionen so etwas wie bewusstes Erleben? Warum fuehlt es sich wie etwas an, die Farbe Rot zu sehen oder Musik zu hoeren? Dieses sogenannte harte Problem des Bewusstseins ist bis heute eine der groessten Herausforderungen der Philosophie.",
+    "kernthesen": [
+      "Alles, was existiert, ist Materie -- es gibt keine immateriellen Seelen oder Geister.",
+      "Auch Bewusstsein und Gedanken sind letztlich physische Vorgaenge im Gehirn.",
+      "Alles in der Welt laesst sich auf materielle Ursachen zurueckfuehren -- auch Kultur und Gesellschaft.",
+      "Es gibt keine uebernatuerlichen Kraefte oder Wesen.",
+      "Die wirtschaftlichen Verhaeltnisse praegen unser Denken, nicht umgekehrt."
+    ],
+    "entstehung": "Der Materialismus begann in der griechischen Antike mit den Atomisten Demokrit und Leukipp. In der Neuzeit wurde er durch die Erfolge der Naturwissenschaften gestaerkt. Marx wandte ihn auf die Gesellschaft an, und heute praegt er die Hirnforschung und Philosophie des Geistes.",
+    "kritik": "Das groesste Problem ist das Bewusstsein: Warum fuehlt es sich wie etwas an, ein Gehirn zu sein? Ausserdem wenden Kritiker ein, dass wir Materie ja selbst nur durch unser Bewusstsein wahrnehmen -- wie kann Materie dann grundlegender sein als Bewusstsein? Und moralische Werte wie Gerechtigkeit lassen sich schwer rein materiell erklaeren."
+  }
 }

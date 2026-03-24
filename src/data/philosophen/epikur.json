@@ -95,5 +95,60 @@
     }
   ],
   "verwandtePhilosophen": ["demokrit", "lukrez", "zenon-von-kition", "seneca", "diogenes-von-sinope"],
-  "verwandteIsmen": ["epikureismus", "hedonismus", "atomismus", "materialismus"]
+  "verwandteIsmen": ["epikureismus", "hedonismus", "atomismus", "materialismus"],
+  "einfach": {
+    "kurzbeschreibung": "Epikur lehrte, dass Glueck in Seelenruhe und Schmerzfreiheit besteht, nicht in wilden Partys. Er gruendete eine Schule in einem Garten, in der alle willkommen waren, auch Frauen und Sklaven.",
+    "biografie": {
+      "fruehesLeben": "Epikur wurde 341 v. Chr. auf der Insel Samos geboren. Schon mit 14 begann er sich fuer Philosophie zu interessieren, als sein Lehrer ihm eine Frage nicht beantworten konnte. Spaeter lernte er die Atomlehre kennen, die sein Denken praegte.",
+      "schaffen": "In Athen gruendete er seine beruehmte Schule in einem Garten, der allen offenstand, auch Frauen und Sklaven, was damals revolutionaer war. Er lehrte, dass wahres Glueck nicht in Luxus besteht, sondern in Seelenruhe und dem Freisein von Angst. Sein Rezept gegen Angst: Fuerchte die Goetter nicht, fuerchte den Tod nicht, das Gute ist erreichbar, Schmerz ist aushaltbar.",
+      "spaetesLeben": "Er lebte ueber 35 Jahre bescheiden im Garten mit seinen Freunden, ass Brot und Kaese und war zufrieden. Obwohl er schwer an Nierensteinen litt, blieb er heiter und gelassen.",
+      "tod": "Epikur starb 270 v. Chr. nach 14 Tagen Qual an seinem Nierenleiden. In seinem letzten Brief schrieb er, er sei trotz der Schmerzen gluecklich, weil er sich an die Gespraeche mit Freunden erinnere.",
+      "nachwirkung": "Seine Schule bestand ueber 600 Jahre. Im Mittelalter wurde er als gottlos verteufelt, spaeter aber wiederentdeckt. Die moderne Idee, dass Glueck das hoechste Ziel ist, geht letztlich auf ihn zurueck."
+    },
+    "kernideen": [
+      {
+        "titel": "Ataraxie (Seelenruhe)",
+        "beschreibung": "Das hoechste Glueck ist nicht Partylaune, sondern innere Ruhe und Freiheit von Schmerz. Wahre Lust bedeutet: kein Leid haben."
+      },
+      {
+        "titel": "Tetrapharmakos (Vierfaches Heilmittel)",
+        "beschreibung": "Vier Saetze gegen alle Aengste: Die Goetter sind harmlos, der Tod geht uns nichts an, Glueck ist erreichbar, Schmerz ist aushaltbar."
+      },
+      {
+        "titel": "Clinamen (Atomare Abweichung)",
+        "beschreibung": "Atome weichen manchmal zufaellig von ihrer Bahn ab. Das bricht den strengen Determinismus und macht freien Willen moeglich."
+      },
+      {
+        "titel": "Freundschaft als hoechstes Gut",
+        "beschreibung": "Freundschaft ist das Wichtigste im Leben. Der weise Mensch lebt nicht allein, sondern in einer Gemeinschaft von Freunden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Brief an Herodot",
+        "jahr": "ca. 300 v. Chr.",
+        "beschreibung": "Eine Zusammenfassung seiner Naturphilosophie und Atomlehre."
+      },
+      {
+        "titel": "Brief an Pythokles",
+        "jahr": "ca. 300 v. Chr.",
+        "beschreibung": "Erklaerungen fuer Naturphaenomene wie Wetter und Sterne, ganz ohne Goetter."
+      },
+      {
+        "titel": "Brief an Menoikeus",
+        "jahr": "ca. 300 v. Chr.",
+        "beschreibung": "Eine Zusammenfassung seiner Ethik mit dem Tetrapharmakos und der Ueberwindung der Todesangst."
+      },
+      {
+        "titel": "Kyriai Doxai (Hauptlehrsaetze)",
+        "jahr": "ca. 300 v. Chr.",
+        "beschreibung": "40 Lehrsaetze, die seine Philosophie auf den Punkt bringen."
+      },
+      {
+        "titel": "Ueber die Natur (Peri Physeos)",
+        "jahr": "ca. 310-270 v. Chr.",
+        "beschreibung": "Sein Hauptwerk in 37 Buechern, von dem leider nur Bruchstuecke erhalten sind."
+      }
+    ]
+  }
 }

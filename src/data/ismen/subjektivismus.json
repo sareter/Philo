@@ -20,5 +20,18 @@
     { "titel": "A Treatise of Human Nature", "autor": "David Hume", "jahr": "1739" },
     { "titel": "Abschließende unwissenschaftliche Nachschrift", "autor": "Søren Kierkegaard", "jahr": "1846" },
     { "titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Subjektivismus sagt: Was wahr, gut oder schoen ist, haengt immer von demjenigen ab, der urteilt. Es gibt keine Wahrheit oder Moral, die voellig unabhaengig von uns existiert.",
+    "ausfuehrlicheBeschreibung": "Ist Brokkoli lecker oder eklig? Das haengt offensichtlich davon ab, wen du fragst. Der Subjektivismus sagt: So aehnlich ist es mit viel mehr Dingen, als wir denken - auch mit Wahrheit und Moral. Was wir fuer objektive Fakten halten, ist immer durch unsere Perspektive gefaerbt.\n\nKant hat das am einflussreichsten formuliert: Wir sehen die Welt nie so, wie sie wirklich ist, sondern immer nur so, wie unser Verstand sie fuer uns aufbereitet. Nietzsche ging noch weiter und sagte: Es gibt ueberhaupt keine Fakten, nur Interpretationen. Was wir Wahrheit nennen, ist einfach die Interpretation, die sich durchgesetzt hat. Und bei moralischen Fragen ist es genauso: Wenn du sagst, etwas sei gut, dann drueckst du damit vor allem deine eigenen Gefuehle aus.\n\nDas klingt erstmal ziemlich verunsichernd. Aber der Subjektivismus hat einen wichtigen Punkt: Er erinnert uns daran, dass wir nie voellig neutral und objektiv auf die Welt schauen koennen. Wir stecken immer in unserer eigenen Perspektive fest. Die grosse Frage ist: Koennen wir trotzdem sinnvoll ueber Wahrheit und Moral reden?",
+    "kernthesen": [
+      "Erkenntnis ist immer durch die Perspektive des Erkennenden gefaerbt",
+      "Moralische Urteile druecken persoenliche Einstellungen und Gefuehle aus, keine objektiven Tatsachen",
+      "Eine Wahrheit, die voellig unabhaengig von allen Menschen existiert, gibt es nicht",
+      "Wahrheit ist immer perspektivisch und an die Situation des Erkennenden gebunden",
+      "Auch Schoenheit liegt im Auge des Betrachters, nicht im Gegenstand selbst"
+    ],
+    "entstehung": "Die Wurzeln liegen in der Antike bei Protagoras mit seinem Satz Der Mensch ist das Mass aller Dinge. In der Neuzeit leitete Descartes die Wende zum Subjekt ein, Kant zeigte, wie unser Verstand die Erfahrung formt. Kierkegaard und Nietzsche radikalisierten den Subjektivismus im 19. Jahrhundert.",
+    "kritik": "Der offensichtlichste Einwand: Wenn alles subjektiv ist, dann ist auch die Behauptung, alles sei subjektiv, nur eine subjektive Meinung. Ausserdem kann der Subjektivismus nicht erklaeren, warum wir ueber Moral streiten, wenn es doch angeblich nur um Geschmackssache geht. Und der Erfolg der Naturwissenschaften spricht dafuer, dass es eine objektive Wirklichkeit gibt."
+  }
 }

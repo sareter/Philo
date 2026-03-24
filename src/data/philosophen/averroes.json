@@ -18,7 +18,9 @@
   },
   "epoche": "Mittelalter",
   "region": "Europa",
-  "hauptstroemungen": ["Aristotelismus"],
+  "hauptstroemungen": [
+    "Aristotelismus"
+  ],
   "kurzbeschreibung": "Averroes (Ibn Rushd) war ein andalusischer Philosoph, Jurist und Arzt, der als der bedeutendste Aristoteles-Kommentator des Mittelalters gilt. Seine detaillierten Kommentare zu den Werken des Aristoteles beeinflussten die europäische Scholastik entscheidend. Er verteidigte die Philosophie gegen die Angriffe der Theologen und plädierte für die Vereinbarkeit von Vernunft und Glauben.",
   "biografie": {
     "fruehesLeben": "Ibn Rushd wurde 1126 in Córdoba in eine angesehene Familie von Richtern und Rechtsgelehrten geboren. Er studierte Theologie, Jurisprudenz, Medizin und Philosophie. Córdoba war zu seiner Zeit ein bedeutendes Zentrum islamischer Gelehrsamkeit auf der Iberischen Halbinsel.",
@@ -75,6 +77,59 @@
       "kontext": "Das Grundprinzip der averroistischen Harmonielehre von Vernunft und Glauben."
     }
   ],
-  "verwandtePhilosophen": ["avicenna", "aristoteles", "thomas-von-aquin", "maimonides"],
-  "verwandteIsmen": ["aristotelismus"]
+  "verwandtePhilosophen": [
+    "avicenna",
+    "aristoteles",
+    "thomas-von-aquin",
+    "maimonides"
+  ],
+  "verwandteIsmen": [
+    "aristotelismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Averroes (Ibn Rushd) war ein andalusischer Philosoph, Jurist und Arzt, der als der bedeutendste Aristoteles-Kommentator des Mittelalters gilt. Seine detaillierten Kommentare zu den Werken des Aristoteles beeinflussten die europaeische Scholastik entscheidend. Er verteidigte die Philosophie gegen die Angriffe der Theologen und plaedierte fuer die Vereinbarkeit von Vernunft und Glauben.",
+    "biografie": {
+      "fruehesLeben": "Ibn Rushd wurde 1126 in Córdoba in eine angesehene Familie von Richtern und Rechtsgelehrten geboren. Er studierte Theologie, Jurisprudenz, Medizin und Philosophie. Córdoba war zu seiner Zeit ein bedeutendes Zentrum islamischer Gelehrsamkeit auf der Iberischen Halbinsel.",
+      "schaffen": "Averroes verfasste umfassende Kommentare zu nahezu allen Werken des Aristoteles, die in drei Stufen (kurz, mittel, lang) vorlagen. Sein philosophisches Hauptwerk 'Die Widerlegung der Widerlegung' verteidigte die Philosophie gegen al-Ghazalis Angriffe. Er diente als Oberrichter von Córdoba und als Leibarzt der Almohaden-Herrscher.",
+      "spaetesLeben": "In seinen letzten Jahren fiel Averroes bei den Almohaden in Ungnade und wurde wegen seiner philosophischen Ansichten verbannt. Seine Buecher wurden verbrannt. Erst kurz vor seinem Tod wurde er rehabilitiert und nach Marrakesch zurueckgerufen.",
+      "tod": "Averroes starb 1198 in Marrakesch im Alter von 72 Jahren. Seine sterblichen Ueberreste wurden spaeter nach Córdoba ueberfuehrt. Seine Verbannung und die Buecherverbrennung markierten symbolisch das Ende der grossen Tradition islamischer Philosophie in al-Andalus.",
+      "nachwirkung": "Die lateinischen Uebersetzungen seiner Aristoteles-Kommentare hatten einen enormen Einfluss auf die europaeische Scholastik, besonders auf Thomas von Aquin und die Averroisten an der Pariser Universitaet. Im lateinischen Westen wurde er als 'Der Kommentator' bekannt, waehrend sein Einfluss in der islamischen Welt geringer blieb."
+    },
+    "kernideen": [
+      {
+        "titel": "Harmonie von Vernunft und Glauben",
+        "beschreibung": "Averroes argumentierte, dass Philosophie und Religion zwei verschiedene Wege zur selben Wahrheit sind. Die Philosophie nutzt die demonstrative Methode, die Religion die rhetorische. Konflikte zwischen beiden beruhen auf falscher Auslegung der religioesen Texte."
+      },
+      {
+        "titel": "Lehre vom Intellekt",
+        "beschreibung": "Averroes vertrat die umstrittene These eines einzigen, universellen aktiven Intellekts fuer die gesamte Menschheit. Der individuelle Mensch partizipiert an diesem Intellekt, besitzt aber keinen eigenen unsterblichen Verstand. Diese Lehre wurde in Europa heftig diskutiert."
+      },
+      {
+        "titel": "Primat der Philosophie",
+        "beschreibung": "Fuer Averroes war die Philosophie die hoechste Form menschlicher Erkenntnis, der die Religion in allegorischer Form dient. Die Philosophen verstehen die Wahrheit am tiefsten, waehrend die Massen sie in bildlicher Rede empfangen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Widerlegung der Widerlegung (Tahafut al-Tahafut)",
+        "jahr": "1180",
+        "beschreibung": "Averroes' philosophisches Hauptwerk, eine systematische Verteidigung der aristotelischen Philosophie gegen al-Ghazalis 'Widerlegung der Philosophen'."
+      },
+      {
+        "titel": "Die entscheidende Abhandlung (Fasl al-Maqal)",
+        "jahr": "1179",
+        "beschreibung": "Eine juristische Abhandlung, die die Zulaessigkeit und sogar die Pflicht des Philosophierens aus islamischer Sicht begruendet."
+      },
+      {
+        "titel": "Grosse Kommentare zu Aristoteles",
+        "jahr": "1186",
+        "beschreibung": "Die umfassendsten und detailliertesten Kommentare zu den Werken des Aristoteles, die Averroes den Beinamen 'Der Kommentator' einbrachten."
+      },
+      {
+        "titel": "Colliget (Kulliyyat fi al-Tibb)",
+        "jahr": "1162",
+        "beschreibung": "Ein umfassendes medizinisches Handbuch, das die allgemeinen Prinzipien der Medizin systematisch darstellt."
+      }
+    ]
+  }
 }

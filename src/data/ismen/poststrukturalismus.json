@@ -11,14 +11,50 @@
     "Das Subjekt ist kein autonomer Ausgangspunkt, sondern wird durch Sprache, Diskurse und Machtstrukturen konstituiert.",
     "Es gibt keinen Standpunkt außerhalb der Sprache oder der Kultur, von dem aus objektive Wahrheit erkannt werden könnte."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der Poststrukturalismus entstand in Frankreich in den späten 1960er Jahren im Kontext der politischen und kulturellen Umbrüche um Mai 1968. Er war eine Reaktion auf die Grenzen des Strukturalismus und wurde durch Derridas Dekonstruktion, Foucaults Machtanalysen und Deleuzes Differenzphilosophie geprägt. Die Bewegung verbreitete sich in den 1970er und 1980er Jahren in den anglo-amerikanischen Raum und beeinflusste dort besonders die Literaturtheorie und die Cultural Studies.",
   "kritik": "Der Poststrukturalismus wurde heftig kritisiert. Analytische Philosophen wie John Searle warfen ihm begriffliche Unklarheit und argumentative Nachlässigkeit vor. Jürgen Habermas kritisierte ihn als irrationalistische Vernunftkritik, die die Möglichkeit rationaler Verständigung untergräbt. Marxisten bemängelten die Vernachlässigung ökonomischer Strukturen zugunsten einer Fixierung auf Sprache und Diskurs. Der Relativismus-Vorwurf besagt, dass der Poststrukturalismus keine Grundlage für normative Urteile bietet – wenn alles Diskurs ist, wie kann man Unrecht kritisieren? Die Sokal-Affäre (1996) stellte die wissenschaftliche Seriosität poststrukturalistischer Texte in Frage.",
-  "verwandteIsmen": ["strukturalismus", "dekonstruktivismus", "postmodernismus", "relativismus"],
+  "verwandteIsmen": [
+    "strukturalismus",
+    "dekonstruktivismus",
+    "postmodernismus",
+    "relativismus"
+  ],
   "schluesselwerke": [
-    { "titel": "De la grammatologie", "autor": "Jacques Derrida", "jahr": "1967" },
-    { "titel": "Überwachen und Strafen", "autor": "Michel Foucault", "jahr": "1975" },
-    { "titel": "Anti-Ödipus", "autor": "Gilles Deleuze und Félix Guattari", "jahr": "1972" },
-    { "titel": "L'écriture et la différence", "autor": "Jacques Derrida", "jahr": "1967" }
-  ]
+    {
+      "titel": "De la grammatologie",
+      "autor": "Jacques Derrida",
+      "jahr": "1967"
+    },
+    {
+      "titel": "Überwachen und Strafen",
+      "autor": "Michel Foucault",
+      "jahr": "1975"
+    },
+    {
+      "titel": "Anti-Ödipus",
+      "autor": "Gilles Deleuze und Félix Guattari",
+      "jahr": "1972"
+    },
+    {
+      "titel": "L'écriture et la différence",
+      "autor": "Jacques Derrida",
+      "jahr": "1967"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Poststrukturalismus ist eine philosophische Stroemung, die ab den spaeten 1960er Jahren die Grundannahmen des Strukturalismus radikalisierte und in Frage stellte.",
+    "ausfuehrlicheBeschreibung": "Der Poststrukturalismus ist weniger eine einheitliche Theorie als ein Buendel verwandter Denkansaetze, die ab den spaeten 1960er Jahren in Frankreich entstanden. Er radikalisiert die strukturalistische Einsicht in die Sprachlichkeit aller Erfahrung und untergraebt gleichzeitig die strukturalistische Annahme stabiler, geschlossener Systeme.\n\nJacques Derrida (1930-2004) ist der vielleicht einflussreichste Poststrukturalist. In seinen fruehen Werken De la grammatologie (1967) und L'écriture et la différence (1967) entwickelte er die Methode der Dekonstruktion. Derrida zeigt, dass die westliche Philosophie seit Platon auf binaeren Oppositionen beruht (Sprache/Schrift, Natur/Kultur, Geist/Koerper, Anwesenheit/Abwesenheit), in denen jeweils ein Term als primaer und der andere als abgeleitet gilt. Die Dekonstruktion kehrt diese Hierarchien um und zeigt, dass der vermeintlich sekundaere Term fuer den primaeren konstitutiv ist. Das Konzept der différance – ein Neologismus, der Differenz und Aufschub vereint – bezeichnet die endlose Bewegung der Bedeutungsverschiebung, die jede feste, abgeschlossene Bedeutung unmoeglich macht.\n\nMichel Foucault (1926-1984) analysierte in seiner genealogischen Phase die Verschraenkung von Wissen und Macht. Diskurse sind nicht neutrale Beschreibungen der Wirklichkeit, sondern Machtinstrumente, die bestimmen, was als wahr, normal oder vernuenftig gilt. In Ueberwachen und Strafen (1975) zeigte Foucault, wie die modernen Disziplinartechniken – Gefaengnisse, Schulen, Kliniken – den Menschen als unterworfenes und normiertes Subjekt produzieren. In seinen spaeten Werken zur Geschichte der Sexualitaet untersuchte er die Selbsttechnologien, durch die Menschen sich selbst als Subjekte konstituieren.",
+    "kernthesen": [
+      "Bedeutung ist instabil und niemals vollstaendig fixierbar; sie verschiebt sich unaufhoerlich (différance).",
+      "Die westliche Philosophie beruht auf binaeren Oppositionen, die dekonstruiert werden muessen.",
+      "Wissen und Macht sind untrennbar miteinander verknuepft; Diskurse produzieren Wahrheit (Foucault).",
+      "Das Subjekt ist kein autonomer Ausgangspunkt, sondern wird durch Sprache, Diskurse und Machtstrukturen konstituiert.",
+      "Es gibt keinen Standpunkt ausserhalb der Sprache oder der Kultur, von dem aus objektive Wahrheit erkannt werden koennte."
+    ],
+    "entstehung": "Der Poststrukturalismus entstand in Frankreich in den spaeten 1960er Jahren im Kontext der politischen und kulturellen Umbrueche um Mai 1968. Er war eine Reaktion auf die Grenzen des Strukturalismus und wurde durch Derridas Dekonstruktion, Foucaults Machtanalysen und Deleuzes Differenzphilosophie gepraegt. Die Bewegung verbreitete sich in den 1970er und 1980er Jahren in den anglo-amerikanischen Raum und beeinflusste dort besonders die Literaturtheorie und die Cultural Studies.",
+    "kritik": "Der Poststrukturalismus wurde heftig kritisiert. Analytische Philosophen wie John Searle warfen ihm begriffliche Unklarheit und argumentative Nachlaessigkeit vor. Juergen Habermas kritisierte ihn als irrationalistische Vernunftkritik, die die Moeglichkeit rationaler Verstaendigung untergraebt. Marxisten bemaengelten die Vernachlaessigung oekonomischer Strukturen zugunsten einer Fixierung auf Sprache und Diskurs."
+  }
 }

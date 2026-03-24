@@ -11,14 +11,50 @@
     "Die Singularität – der Punkt, an dem KI die menschliche Intelligenz übertrifft – wird eine fundamentale Transformation auslösen.",
     "Jeder Mensch sollte die Freiheit haben, seine eigenen Fähigkeiten durch Technologie zu verbessern (morphologische Freiheit)."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der Transhumanismus entstand als philosophische Bewegung in den 1980er und 1990er Jahren in Kalifornien. Die Extropians um Max More formulierten die ersten systematischen transhumanistischen Positionen. Nick Bostrom und David Pearce gründeten 1998 die World Transhumanist Association. Die rasanten Fortschritte in Biotechnologie, Nanotechnologie, Informatik und Kognitionswissenschaft (NBIC-Konvergenz) gaben dem Transhumanismus einen konkreten technologischen Horizont. Die Singularity University, gegründet von Kurzweil und Peter Diamandis, verbreitet transhumanistische Ideen in der Technologie-Elite.",
   "kritik": "Der Transhumanismus wird aus verschiedenen Richtungen kritisiert. Der Biokonservatismus (Leon Kass, Francis Fukuyama, Jürgen Habermas) warnt vor dem Verlust der menschlichen Natur und der Menschenwürde durch Enhancement-Technologien. Fukuyama nannte den Transhumanismus die gefährlichste Idee der Welt. Habermas argumentiert in Die Zukunft der menschlichen Natur, dass genetische Manipulation die Autonomie zukünftiger Generationen verletzt. Soziale Kritiker warnen vor einer Zweiklassengesellschaft, in der sich nur die Reichen Enhancement leisten können. Ökologen kritisieren den blinden Technikoptimismus des Transhumanismus. Feministinnen und postkoloniale Denker weisen darauf hin, dass die transhumanistische Vision überwiegend von privilegierten westlichen Männern formuliert wird. Philosophisch wird bezweifelt, ob Bewusstseinsübertragung (Mind Uploading) überhaupt möglich ist oder ob dabei nicht die persönliche Identität zerstört wird.",
-  "verwandteIsmen": ["humanismus", "materialismus", "positivismus", "naturalismus"],
+  "verwandteIsmen": [
+    "humanismus",
+    "materialismus",
+    "positivismus",
+    "naturalismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Superintelligence: Paths, Dangers, Strategies", "autor": "Nick Bostrom", "jahr": "2014" },
-    { "titel": "The Singularity Is Near", "autor": "Ray Kurzweil", "jahr": "2005" },
-    { "titel": "Die Zukunft der menschlichen Natur", "autor": "Jürgen Habermas", "jahr": "2001" },
-    { "titel": "Our Posthuman Future", "autor": "Francis Fukuyama", "jahr": "2002" }
-  ]
+    {
+      "titel": "Superintelligence: Paths, Dangers, Strategies",
+      "autor": "Nick Bostrom",
+      "jahr": "2014"
+    },
+    {
+      "titel": "The Singularity Is Near",
+      "autor": "Ray Kurzweil",
+      "jahr": "2005"
+    },
+    {
+      "titel": "Die Zukunft der menschlichen Natur",
+      "autor": "Jürgen Habermas",
+      "jahr": "2001"
+    },
+    {
+      "titel": "Our Posthuman Future",
+      "autor": "Francis Fukuyama",
+      "jahr": "2002"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Transhumanismus ist eine philosophische Bewegung, die den Einsatz von Technologie zur radikalen Verbesserung menschlicher Faehigkeiten befuerwortet.",
+    "ausfuehrlicheBeschreibung": "Der Transhumanismus (oft abgekuerzt als H+) ist eine intellektuelle Bewegung, die den Einsatz fortschrittlicher Technologien zur fundamentalen Verbesserung der menschlichen Natur befuerwortet. Er strebt eine Zukunft an, in der die biologischen Grenzen des Menschen – Altern, Krankheit, kognitive und physische Beschraenkungen – durch Technologie ueberwunden werden koennen.\n\nDie Wurzeln des transhumanistischen Denkens reichen zurueck bis zum Aufklaerungsglauben an den Fortschritt und zur Idee der menschlichen Perfektibilitaet (Condorcet, Godwin). Der Begriff Transhumanismus wurde 1957 von dem Biologen Julian Huxley gepraegt, der die Moeglichkeit einer bewussten Evolution des Menschen durch Wissenschaft und Technologie beschrieb.\n\nDie moderne transhumanistische Bewegung entstand in den 1980er und 1990er Jahren, insbesondere durch die Arbeiten von Max More, der die Principles of Extropy formulierte – eine optimistische Philosophie, die auf staendige Verbesserung, Selbstueberwindung und offene Gesellschaft setzt. Nick Bostrom gruendete 1998 die World Transhumanist Association und legte mit seiner akademischen Arbeit die philosophische Grundlage des Transhumanismus.",
+    "kernthesen": [
+      "Die biologischen Grenzen des Menschen (Altern, Krankheit, kognitive Beschraenkungen) koennen und sollten durch Technologie ueberwunden werden.",
+      "Die menschliche Natur ist kein unveraenderliches Schicksal, sondern ein Ausgangspunkt fuer bewusste Weiterentwicklung.",
+      "Der technologische Fortschritt wird eine posthumane Zukunft ermoeglichen, in der die heutigen menschlichen Beschraenkungen ueberwunden sind.",
+      "Die Singularitaet – der Punkt, an dem KI die menschliche Intelligenz uebertrifft – wird eine fundamentale Transformation ausloesen.",
+      "Jeder Mensch sollte die Freiheit haben, seine eigenen Faehigkeiten durch Technologie zu verbessern (morphologische Freiheit)."
+    ],
+    "entstehung": "Der Transhumanismus entstand als philosophische Bewegung in den 1980er und 1990er Jahren in Kalifornien. Die Extropians um Max More formulierten die ersten systematischen transhumanistischen Positionen. Nick Bostrom und David Pearce gruendeten 1998 die World Transhumanist Association. Die rasanten Fortschritte in Biotechnologie, Nanotechnologie, Informatik und Kognitionswissenschaft (NBIC-Konvergenz) gaben dem Transhumanismus einen konkreten technologischen Horizont.",
+    "kritik": "Der Transhumanismus wird aus verschiedenen Richtungen kritisiert. Der Biokonservatismus (Leon Kass, Francis Fukuyama, Juergen Habermas) warnt vor dem Verlust der menschlichen Natur und der Menschenwuerde durch Enhancement-Technologien. Fukuyama nannte den Transhumanismus die gefaehrlichste Idee der Welt. Habermas argumentiert in Die Zukunft der menschlichen Natur, dass genetische Manipulation die Autonomie zukuenftiger Generationen verletzt."
+  }
 }

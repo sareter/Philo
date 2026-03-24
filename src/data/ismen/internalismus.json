@@ -19,5 +19,18 @@
     {"titel": "Meditationen über die Grundlagen der Philosophie", "autor": "René Descartes", "jahr": "1641"},
     {"titel": "Theory of Knowledge", "autor": "Roderick Chisholm", "jahr": "1966"},
     {"titel": "The Structure of Empirical Knowledge", "autor": "Laurence BonJour", "jahr": "1985"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Internalismus sagt: Wissen braucht Gruende, die du selbst kennst und benennen kannst. Nur was dir bewusst ist, kann deine Ueberzeugungen rechtfertigen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, jemand fragt dich: Woher weisst du das? Der Internalismus sagt: Du musst in der Lage sein, darauf eine Antwort zu geben. Es reicht nicht, dass dein Glaube zufaellig richtig ist oder dass irgendein Prozess in deinem Gehirn zuverlaessig funktioniert. Du musst die Gruende fuer deine Ueberzeugung kennen und benennen koennen.\n\nDiese Idee geht auf Descartes zurueck. Er hat alles angezweifelt, bis nur noch eine Sache uebrig blieb, die er nicht bezweifeln konnte: dass er denkt. Von diesem sicheren Punkt aus wollte er alles andere begruenden. Der Internalismus traegt diesen Geist weiter: Nur das, was dir innerlich, durch Nachdenken, zugaenglich ist, kann als Grundlage fuer Wissen dienen.\n\nDas Problem ist: Vieles, was wir offensichtlich wissen, koennen wir nicht so genau begruenden. Du siehst einen Baum und weisst, dass da ein Baum steht. Aber kannst du wirklich erklaeren, warum deine Augen zuverlaessig sind? Der Externalismus, die Gegenposition, sagt: Es reicht, wenn der Prozess zuverlaessig ist, auch wenn du das nicht selbst durchschaust.",
+    "kernthesen": [
+      "Wissen braucht Gruende, die du selbst kennst und durch Nachdenken finden kannst.",
+      "Nur was deinem Bewusstsein zugaenglich ist, kann Ueberzeugungen rechtfertigen.",
+      "Du bist fuer deine Ueberzeugungen verantwortlich und musst sie begruenden koennen.",
+      "Die Sicherheit des eigenen Denkens ist der Ausgangspunkt aller Erkenntnis.",
+      "Aeussere Faktoren, von denen du nichts weisst, koennen dein Wissen nicht begruenden."
+    ],
+    "entstehung": "Der Internalismus hat seine Wurzeln bei Descartes im 17. Jahrhundert und wurde im 20. Jahrhundert von Philosophen wie Chisholm und BonJour ausgearbeitet. Die grosse Debatte mit dem Externalismus begann in den 1970er Jahren.",
+    "kritik": "Kritiker sagen, der Internalismus verlangt zu viel. Im Alltag wissen wir viele Dinge, ohne die genauen Gruende angeben zu koennen. Ausserdem beruhen viele zuverlaessige Ueberzeugungen, wie zum Beispiel Wahrnehmungen, auf Prozessen, die wir nicht bewusst kontrollieren."
+  }
 }

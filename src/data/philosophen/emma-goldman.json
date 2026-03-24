@@ -76,5 +76,46 @@
     }
   ],
   "verwandtePhilosophen": ["peter-kropotkin", "michail-bakunin", "rosa-luxemburg", "pierre-joseph-proudhon"],
-  "verwandteIsmen": ["anarchismus", "feminismus"]
+  "verwandteIsmen": ["anarchismus", "feminismus"],
+  "einfach": {
+    "kurzbeschreibung": "Emma Goldman war eine Anarchistin und Feministin, die als 'gefaehrlichste Frau Amerikas' galt. Sie kaempfte fuer individuelle Freiheit, Frauenrechte und gegen jede Form von Unterdrueckung.",
+    "biografie": {
+      "fruehesLeben": "Goldman wurde 1869 in Litauen in eine juedische Familie geboren. Mit 16 wanderte sie in die USA aus und arbeitete in Textilfabriken. Die Hinrichtung von Anarchisten 1887 machte sie zur politischen Aktivistin.",
+      "schaffen": "Sie wurde die bekannteste Anarchistin Amerikas und hielt ueberall Vortraege ueber Freiheit, Frauenrechte und freie Liebe. Sie gab eine eigene Zeitschrift heraus und wurde mehrfach verhaftet, weil ihre Ideen den Maechtigen nicht gefielen.",
+      "spaetesLeben": "1919 wurde sie aus den USA nach Russland abgeschoben. Dort sah sie, dass die kommunistische Revolution auch nur eine neue Diktatur war, und kritisierte das scharf. Danach lebte sie in Europa und unterstuetzte die Anarchisten im Spanischen Buergerkrieg.",
+      "tod": "Goldman starb 1940 in Toronto nach einem Schlaganfall. Sie wurde in Chicago neben den Haymarket-Maertyrern begraben, die sie einst inspiriert hatten.",
+      "nachwirkung": "Goldman gilt als Pionierin des Anarchafeminismus. Ihre Ideen, dass persoenliche und politische Befreiung zusammengehoeren, beeinflussten die Frauenbewegung und die Neue Linke der 1960er Jahre."
+    },
+    "kernideen": [
+      {
+        "titel": "Anarchismus als Philosophie der Freiheit",
+        "beschreibung": "Anarchismus heisst, frei zu sein von Staat, Religion und Kapitalismus. Eine gute Gesellschaft entsteht, wenn Menschen freiwillig zusammenarbeiten, nicht durch Zwang."
+      },
+      {
+        "titel": "Feminismus und freie Liebe",
+        "beschreibung": "Echte Befreiung der Frau bedeutet nicht nur Wahlrecht, sondern auch Freiheit in der Liebe und Unabhaengigkeit von der Ehe als Institution."
+      },
+      {
+        "titel": "Kritik am Staat und der repraesentativen Demokratie",
+        "beschreibung": "Egal ob Monarchie oder Demokratie, der Staat dient immer den Maaechtigen. Echte Demokratie gibt es nur, wenn Menschen sich selbst verwalten."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Anarchismus und andere Essays",
+        "jahr": "1910",
+        "beschreibung": "Eine Sammlung ihrer wichtigsten Texte ueber Anarchismus, Feminismus und die Befreiung der Frau."
+      },
+      {
+        "titel": "Gelebtes Leben (Living My Life)",
+        "jahr": "1931",
+        "beschreibung": "Ihre ausfuehrliche Autobiografie, die ein lebendiges Bild der anarchistischen Bewegung zeichnet."
+      },
+      {
+        "titel": "Meine Desillusionierung in Russland (My Disillusionment in Russia)",
+        "jahr": "1923",
+        "beschreibung": "Ihre scharfe Kritik an der kommunistischen Diktatur in Russland."
+      }
+    ]
+  }
 }

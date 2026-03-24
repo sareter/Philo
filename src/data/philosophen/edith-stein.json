@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Phänomenologie"],
+  "hauptstroemungen": [
+    "Phänomenologie"
+  ],
   "kurzbeschreibung": "Edith Stein war eine deutsche Philosophin, Phänomenologin und Karmelitin, die als Schülerin Edmund Husserls zu einer bedeutenden Denkerin der Phänomenologie wurde. Ihre Arbeiten zur Einfühlung, zur Frauenfrage und zum Verhältnis von Phänomenologie und Thomismus gehören zu den wichtigsten philosophischen Beiträgen des 20. Jahrhunderts. Als konvertierte Jüdin wurde sie 1942 in Auschwitz ermordet und 1998 heiliggesprochen.",
   "biografie": {
     "fruehesLeben": "Edith Stein wurde 1891 in Breslau als jüngstes von elf Kindern einer jüdischen Familie geboren. Sie studierte Philosophie, Psychologie und Geschichte in Breslau und Göttingen. In Göttingen wurde sie Schülerin Edmund Husserls und folgte ihm nach Freiburg, wo sie 1916 mit einer Arbeit über das Problem der Einfühlung promovierte.",
@@ -84,6 +86,62 @@
       "kontext": "Steins differenzierte Position zur Individualität der weiblichen Berufung gegen jede Pauschalisierung."
     }
   ],
-  "verwandtePhilosophen": ["edmund-husserl", "thomas-von-aquin", "max-scheler"],
-  "verwandteIsmen": ["phaenomenologie"]
+  "verwandtePhilosophen": [
+    "edmund-husserl",
+    "thomas-von-aquin",
+    "max-scheler"
+  ],
+  "verwandteIsmen": [
+    "phaenomenologie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Edith Stein war eine deutsche Philosophin, Phaenomenologin und Karmelitin, die als Schuelerin Edmund Husserls zu einer bedeutenden Denkerin der Phaenomenologie wurde. Ihre Arbeiten zur Einfuehlung, zur Frauenfrage und zum Verhaeltnis von Phaenomenologie und Thomismus gehoeren zu den wichtigsten philosophischen Beitraegen des 20. Jahrhunderts. Als konvertierte Juedin wurde sie 1942 in Auschwitz ermordet und 1998 heiliggesprochen.",
+    "biografie": {
+      "fruehesLeben": "Edith Stein wurde 1891 in Breslau als juengstes von elf Kindern einer juedischen Familie geboren. Sie studierte Philosophie, Psychologie und Geschichte in Breslau und Goettingen. In Goettingen wurde sie Schuelerin Edmund Husserls und folgte ihm nach Freiburg, wo sie 1916 mit einer Arbeit ueber das Problem der Einfuehlung promovierte.",
+      "schaffen": "Stein arbeitete als Assistentin Husserls und ordnete seine Manuskripte. Nach ihrer Konversion zum Katholizismus 1922 lehrte sie an einer Dominikanerinnenschule in Speyer und am Deutschen Institut fuer wissenschaftliche Paedagogik in Muenster. Sie verfasste bedeutende Werke ueber Phaenomenologie, thomistische Philosophie, die Stellung der Frau und die christliche Mystik.",
+      "spaetesLeben": "1933 trat Edith Stein in den Koelner Karmel ein und nahm den Ordensnamen Teresia Benedicta a Cruce an. Im Kloster setzte sie ihre philosophische Arbeit fort und verfasste ihr Hauptwerk 'Endliches und ewiges Sein'. 1938 wurde sie in den Karmel im niederlaendischen Echt verlegt.",
+      "tod": "Am 2. August 1942 wurde Edith Stein zusammen mit ihrer Schwester Rosa von der Gestapo in Echt verhaftet und nach Auschwitz deportiert. Sie wurde am 9. August 1942 in der Gaskammer ermordet. 1987 wurde sie seliggesprochen und 1998 von Papst Johannes Paul II. heiliggesprochen.",
+      "nachwirkung": "Edith Steins philosophisches Werk wird zunehmend als eigenstaendiger Beitrag zur Phaenomenologie und zur philosophischen Anthropologie gewuerdigt. Ihre Verbindung von Phaenomenologie und Thomismus, ihre Arbeiten zur Einfuehlung und ihre Reflexionen ueber die Frauenfrage finden wachsendes Interesse. Ihre Heiligsprechung als Maertyrerin wuerdigt auch ihr Schicksal als Opfer des Holocaust."
+    },
+    "kernideen": [
+      {
+        "titel": "Einfuehlung (Empathie)",
+        "beschreibung": "In ihrer Dissertation analysierte Stein die Einfuehlung als eine eigenstaendige Erkenntnisform, durch die wir das Erleben anderer Menschen erfassen. Einfuehlung ist weder blosse Projektion noch Nachahmung, sondern ein genuiner Zugang zum Bewusstsein des Anderen."
+      },
+      {
+        "titel": "Verbindung von Phaenomenologie und Thomismus",
+        "beschreibung": "Stein versuchte eine Synthese zwischen der Phaenomenologie Husserls und der Philosophie des Thomas von Aquin. Die phaenomenologische Methode und die thomistische Metaphysik ergaenzen sich: Die Phaenomenologie beschreibt die Erfahrung, der Thomismus deutet ihren metaphysischen Grund."
+      },
+      {
+        "titel": "Philosophische Anthropologie der Frau",
+        "beschreibung": "Stein entwickelte eine differenzierte Theorie der weiblichen Eigenart, die weder auf biologischen Determinismus noch auf die Leugnung geschlechtlicher Unterschiede hinauslaeuft. Sie plaedierte fuer gleiche Bildungschancen und die volle Entfaltung der weiblichen Begabungen."
+      },
+      {
+        "titel": "Endliches und ewiges Sein",
+        "beschreibung": "In ihrem philosophischen Hauptwerk analysiert Stein die Seinsfrage von der Phaenomenologie und vom Thomismus her. Das endliche Sein verweist auf das ewige Sein Gottes. Die menschliche Person ist ein leib-seelisch-geistiges Wesen, das in seiner Endlichkeit auf die Unendlichkeit hin angelegt ist."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Zum Problem der Einfuehlung",
+        "jahr": "1917",
+        "beschreibung": "Steins Dissertation, die eine phaenomenologische Analyse der Einfuehlung als eigenstaendige Erkenntnisform des fremden Bewusstseins bietet."
+      },
+      {
+        "titel": "Endliches und ewiges Sein",
+        "jahr": "1950",
+        "beschreibung": "Steins philosophisches Hauptwerk, das eine Synthese von Phaenomenologie und Thomismus versucht und die Seinsfrage umfassend behandelt. Posthum veroeffentlicht."
+      },
+      {
+        "titel": "Die Frau",
+        "jahr": "1959",
+        "beschreibung": "Eine Sammlung von Vortraegen und Aufsaetzen ueber die Stellung und Berufung der Frau aus philosophischer und theologischer Perspektive."
+      },
+      {
+        "titel": "Kreuzeswissenschaft",
+        "jahr": "1950",
+        "beschreibung": "Steins letztes, unvollendetes Werk ueber die Mystik des Johannes vom Kreuz, das die Verbindung von Philosophie und christlicher Kontemplation darstellt."
+      }
+    ]
+  }
 }

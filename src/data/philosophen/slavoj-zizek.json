@@ -16,7 +16,12 @@
   },
   "epoche": "Gegenwart",
   "region": "Europa",
-  "hauptstroemungen": ["Lacanianische Psychoanalyse", "Marxismus", "Hegelianismus", "Kulturkritik"],
+  "hauptstroemungen": [
+    "Lacanianische Psychoanalyse",
+    "Marxismus",
+    "Hegelianismus",
+    "Kulturkritik"
+  ],
   "kurzbeschreibung": "Slavoj Žižek ist ein slowenischer Philosoph und Kulturkritiker, der als einer der provokantesten und populärsten Intellektuellen der Gegenwart gilt. Durch seine einzigartige Verbindung von Hegelscher Dialektik, Lacanscher Psychoanalyse und marxistischer Ideologiekritik analysiert er Phänomene der Populärkultur, Politik und Gesellschaft auf überraschende und kontroverse Weise.",
   "biografie": {
     "fruehesLeben": "Slavoj Žižek wurde am 21. März 1949 in Ljubljana, der Hauptstadt der Sozialistischen Republik Slowenien innerhalb Jugoslawiens, geboren. Seine Eltern waren aus der Untersteiermark zugezogen und gehörten der atheistischen Mittelschicht an. Er studierte Philosophie und Soziologie an der Universität Ljubljana, wo er 1981 promovierte. Eine geplante akademische Karriere wurde zunächst durch die kommunistischen Behörden blockiert, die ihn als ideologisch unzuverlässig einstuften. Er studierte Psychoanalyse in Paris bei Jacques-Alain Miller, dem Schwiegersohn und Nachlassverwalter Jacques Lacans.",
@@ -88,6 +93,62 @@
       "kontext": "Žižeks Variation von Marx' elfter Feuerbach-These – die richtige Interpretation ist bereits eine Form des Handelns."
     }
   ],
-  "verwandtePhilosophen": ["theodor-w-adorno", "gilles-deleuze", "jacques-derrida", "juergen-habermas"],
-  "verwandteIsmen": ["marxismus", "psychoanalyse", "hegelianismus", "ideologiekritik"]
+  "verwandtePhilosophen": [
+    "theodor-w-adorno",
+    "gilles-deleuze",
+    "jacques-derrida",
+    "juergen-habermas"
+  ],
+  "verwandteIsmen": [
+    "marxismus",
+    "psychoanalyse",
+    "hegelianismus",
+    "ideologiekritik"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Slavoj Žižek ist ein slowenischer Philosoph und Kulturkritiker, der als einer der provokantesten und populaersten Intellektuellen der Gegenwart gilt. Durch seine einzigartige Verbindung von Hegelscher Dialektik, Lacanscher Psychoanalyse und marxistischer Ideologiekritik analysiert er Phaenomene der Populaerkultur, Politik und Gesellschaft auf ueberraschende und kontroverse Weise.",
+    "biografie": {
+      "fruehesLeben": "Slavoj Žižek wurde am 21. Maerz 1949 in Ljubljana, der Hauptstadt der Sozialistischen Republik Slowenien innerhalb Jugoslawiens, geboren. Seine Eltern waren aus der Untersteiermark zugezogen und gehoerten der atheistischen Mittelschicht an. Er studierte Philosophie und Soziologie an der Universitaet Ljubljana, wo er 1981 promovierte. Eine geplante akademische Karriere wurde zunaechst durch die kommunistischen Behoerden blockiert, die ihn als ideologisch unzuverlaessig einstuften. Er studierte Psychoanalyse in Paris bei Jacques-Alain Miller, dem Schwiegersohn und Nachlassverwalter Jacques Lacans.",
+      "schaffen": "Žižeks internationaler Durchbruch kam mit 'The Sublime Object of Ideology' (1989), das Lacans Psychoanalyse auf die marxistische Ideologiekritik anwandte. Er argumentierte, dass Ideologie nicht als 'falsches Bewusstsein' verstanden werden sollte, sondern als eine Struktur, die das Geniessen (jouissance) organisiert. Seitdem hat er ueber 50 Buecher veroeffentlicht, in denen er mit verblueffender Produktivitaet und provokanter Brillanz Philosophie, Psychoanalyse, Filmkritik und politische Analyse verbindet. 'The Ticklish Subject' (1999) verteidigte das cartesische Subjekt gegen seine postmodernen Kritiker. 'The Parallax View' (2006) entwickelte eine ontologische Theorie des Parallaxen-Blicks.",
+      "spaetesLeben": "Žižek ist Direktor des Birkbeck Institute for the Humanities in London und Forscher am Institut fuer Soziologie und Philosophie an der Universitaet Ljubljana. Er ist ein gefragter Vortragsreisender und Medienstar, der regelmaessig in Zeitungen, im Fernsehen und in sozialen Medien praesent ist. Seine chaotische Vortragsstile, seine Witze und seine provokanten Thesen haben ihm eine grosse internationale Anhaengerschaft eingebracht. Er kandidierte 1990 bei den ersten freien Wahlen in Slowenien fuer die Praesidentschaft.",
+      "tod": "Slavoj Žižek lebt und arbeitet weiterhin in Ljubljana und London.",
+      "nachwirkung": "Žižek hat die Lacansche Psychoanalyse und die Hegelsche Philosophie fuer eine neue Generation zugaenglich und relevant gemacht. Seine Ideologiekritik und seine Kulturanalysen haben die Cultural Studies, die Filmwissenschaft und die politische Theorie beeinflusst. Er ist der bekannteste lebende Vertreter einer marxistischen Philosophie und hat gezeigt, dass anspruchsvolles philosophisches Denken ein breites Publikum erreichen kann."
+    },
+    "kernideen": [
+      {
+        "titel": "Ideologie und Geniessen",
+        "beschreibung": "Ideologie funktioniert nicht primaer auf der Ebene des Wissens ('falsches Bewusstsein'), sondern auf der Ebene des Tuns und Geniessens. Wir handeln ideologisch, auch wenn wir es besser wissen – die ideologische Illusion liegt nicht im Wissen, sondern in der Praxis selbst."
+      },
+      {
+        "titel": "Das erhabene Objekt der Ideologie",
+        "beschreibung": "Jede Ideologie braucht ein 'erhabenes Objekt' – einen leeren Signifikanten (Nation, Freiheit, Volk), der verschiedene Bedeutungen zusammenhaelt und die gesellschaftlichen Antagonismen verdeckt."
+      },
+      {
+        "titel": "Der Parallaxen-Blick",
+        "beschreibung": "Die Parallaxe ist die Verschiebung eines Objekts, die durch eine Veraenderung der Beobachterposition verursacht wird. Žižek nutzt dieses Konzept, um zu zeigen, dass scheinbare Widersprueche oft Effekte verschiedener Perspektiven auf dasselbe sind – der Widerspruch liegt im Gegenstand selbst."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Das erhabene Objekt der Ideologie (The Sublime Object of Ideology)",
+        "jahr": "1989",
+        "beschreibung": "Žižeks Durchbruchswerk verbindet Lacansche Psychoanalyse mit marxistischer Ideologiekritik und zeigt, wie Ideologie auf der Ebene des Geniessens funktioniert."
+      },
+      {
+        "titel": "The Ticklish Subject",
+        "jahr": "1999",
+        "beschreibung": "Eine Verteidigung des cartesischen Subjekts gegen seine postmodernen, dekonstruktivistischen und habermasianischen Kritiker."
+      },
+      {
+        "titel": "The Parallax View",
+        "jahr": "2006",
+        "beschreibung": "Žižeks philosophischstes Werk entwickelt den Parallaxen-Blick als ontologisches Konzept und wendet es auf Politik, Wissenschaft und Aesthetik an."
+      },
+      {
+        "titel": "Weniger als Nichts (Less Than Nothing)",
+        "jahr": "2012",
+        "beschreibung": "Eine monumentale Neuinterpretation Hegels im Licht der Lacanschen Psychoanalyse, die Hegel als Denker des Mangels und der Negativitaet liest."
+      }
+    ]
+  }
 }

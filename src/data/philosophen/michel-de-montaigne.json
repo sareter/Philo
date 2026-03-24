@@ -2,11 +2,27 @@
   "slug": "michel-de-montaigne",
   "name": "Michel de Montaigne",
   "lebensdaten": "1533–1592",
-  "geboren": { "jahr": 1533, "ort": "Schloss Montaigne, Périgord", "land": "Frankreich", "lat": 44.8333, "lng": 0.0333 },
-  "gestorben": { "jahr": 1592, "ort": "Schloss Montaigne, Périgord", "land": "Frankreich", "lat": 44.8333, "lng": 0.0333 },
+  "geboren": {
+    "jahr": 1533,
+    "ort": "Schloss Montaigne, Périgord",
+    "land": "Frankreich",
+    "lat": 44.8333,
+    "lng": 0.0333
+  },
+  "gestorben": {
+    "jahr": 1592,
+    "ort": "Schloss Montaigne, Périgord",
+    "land": "Frankreich",
+    "lat": 44.8333,
+    "lng": 0.0333
+  },
   "epoche": "Renaissance",
   "region": "Frankreich",
-  "hauptstroemungen": ["Skeptizismus", "Humanismus", "Essayismus"],
+  "hauptstroemungen": [
+    "Skeptizismus",
+    "Humanismus",
+    "Essayismus"
+  ],
   "kurzbeschreibung": "Michel de Montaigne war ein französischer Philosoph und Schriftsteller, der mit seinen 'Essais' eine völlig neue literarische Gattung begründete. Sein skeptisches, selbstreflexives Denken erforschte die menschliche Natur in all ihren Widersprüchen und machte ihn zu einem der einflussreichsten Autoren der europäischen Geistesgeschichte. Er gilt als Meister der Selbsterforschung und Vorläufer der modernen Subjektivität.",
   "biografie": {
     "fruehesLeben": "Michel Eyquem de Montaigne wurde am 28. Februar 1533 auf dem Familienschloss in der Dordogne als Sohn einer wohlhabenden Kaufmannsfamilie geboren, die erst kürzlich in den Adel aufgestiegen war. Sein Vater Pierre Eyquem, ein gebildeter und experimentierfreudiger Mann, ließ den kleinen Michel nach einer ungewöhnlichen pädagogischen Methode erziehen: Latein war seine erste Sprache, die er noch vor dem Französischen erlernte, und er wurde von einem deutschsprachigen Hauslehrer unterrichtet, der kein Wort Französisch sprach. Ab 1539 besuchte er das renommierte Collège de Guyenne in Bordeaux, dann studierte er Rechtswissenschaften, vermutlich in Toulouse. 1557 wurde er Mitglied des Parlaments von Bordeaux (eines Gerichtshofs), wo er den humanistischen Gelehrten Étienne de La Boétie kennenlernte, mit dem ihn eine tiefe Freundschaft verband, die durch La Boéties frühen Tod 1563 jäh beendet wurde.",
@@ -34,16 +50,99 @@
     }
   ],
   "werke": [
-    { "titel": "Essais (Versuche)", "jahr": "1580–1592", "beschreibung": "Montaignes Lebenswerk, eine Sammlung von 107 Kapiteln in drei Büchern, die in einer einzigartigen Mischung aus persönlicher Reflexion, klassischer Gelehrsamkeit und skeptischer Philosophie die menschliche Erfahrung in all ihren Facetten erkunden." },
-    { "titel": "Journal de voyage en Italie", "jahr": "1580–1581", "beschreibung": "Ein Reisetagebuch, das Montaignes Reise durch Deutschland, die Schweiz und Italien dokumentiert. Es wurde erst 1774 wiederentdeckt und veröffentlicht und bietet faszinierende Einblicke in seine Beobachtungsgabe." },
-    { "titel": "Apologie de Raymond Sebond", "jahr": "1580", "beschreibung": "Der längste Essay Montaignes und sein philosophisch gewichtigstes Kapitel, in dem er unter dem Vorwand einer Verteidigung des spanischen Theologen Raymond Sebond eine umfassende skeptische Kritik der menschlichen Erkenntnisfähigkeit entwickelt." }
+    {
+      "titel": "Essais (Versuche)",
+      "jahr": "1580–1592",
+      "beschreibung": "Montaignes Lebenswerk, eine Sammlung von 107 Kapiteln in drei Büchern, die in einer einzigartigen Mischung aus persönlicher Reflexion, klassischer Gelehrsamkeit und skeptischer Philosophie die menschliche Erfahrung in all ihren Facetten erkunden."
+    },
+    {
+      "titel": "Journal de voyage en Italie",
+      "jahr": "1580–1581",
+      "beschreibung": "Ein Reisetagebuch, das Montaignes Reise durch Deutschland, die Schweiz und Italien dokumentiert. Es wurde erst 1774 wiederentdeckt und veröffentlicht und bietet faszinierende Einblicke in seine Beobachtungsgabe."
+    },
+    {
+      "titel": "Apologie de Raymond Sebond",
+      "jahr": "1580",
+      "beschreibung": "Der längste Essay Montaignes und sein philosophisch gewichtigstes Kapitel, in dem er unter dem Vorwand einer Verteidigung des spanischen Theologen Raymond Sebond eine umfassende skeptische Kritik der menschlichen Erkenntnisfähigkeit entwickelt."
+    }
   ],
   "zitate": [
-    { "text": "Que sais-je? – Was weiß ich?", "quelle": "Essais", "kontext": "Montaignes berühmte Devise, die seinen philosophischen Skeptizismus auf den Punkt bringt und die er als Inschrift auf eine Medaille prägen ließ." },
-    { "text": "Philosophieren heißt sterben lernen.", "quelle": "Essais, Buch I, Kapitel 20", "kontext": "In Anlehnung an Cicero und die stoische Tradition argumentiert Montaigne, dass die bewusste Auseinandersetzung mit dem Tod uns lehrt, das Leben bewusster zu leben." },
-    { "text": "Jeder Mensch trägt die ganze Gestalt der menschlichen Natur in sich.", "quelle": "Essais, Buch III, Kapitel 2", "kontext": "Montaignes Begründung für die Methode der Selbsterforschung: Indem er sich selbst studiert, studiert er die Menschheit." },
-    { "text": "Auf dem höchsten Thron der Welt sitzen wir doch nur auf unserem eigenen Hintern.", "quelle": "Essais, Buch III, Kapitel 13", "kontext": "Montaignes typisch erdige Art, menschliche Eitelkeit und Selbstüberschätzung zu entlarven." }
+    {
+      "text": "Que sais-je? – Was weiß ich?",
+      "quelle": "Essais",
+      "kontext": "Montaignes berühmte Devise, die seinen philosophischen Skeptizismus auf den Punkt bringt und die er als Inschrift auf eine Medaille prägen ließ."
+    },
+    {
+      "text": "Philosophieren heißt sterben lernen.",
+      "quelle": "Essais, Buch I, Kapitel 20",
+      "kontext": "In Anlehnung an Cicero und die stoische Tradition argumentiert Montaigne, dass die bewusste Auseinandersetzung mit dem Tod uns lehrt, das Leben bewusster zu leben."
+    },
+    {
+      "text": "Jeder Mensch trägt die ganze Gestalt der menschlichen Natur in sich.",
+      "quelle": "Essais, Buch III, Kapitel 2",
+      "kontext": "Montaignes Begründung für die Methode der Selbsterforschung: Indem er sich selbst studiert, studiert er die Menschheit."
+    },
+    {
+      "text": "Auf dem höchsten Thron der Welt sitzen wir doch nur auf unserem eigenen Hintern.",
+      "quelle": "Essais, Buch III, Kapitel 13",
+      "kontext": "Montaignes typisch erdige Art, menschliche Eitelkeit und Selbstüberschätzung zu entlarven."
+    }
   ],
-  "verwandtePhilosophen": ["erasmus-von-rotterdam", "blaise-pascal", "rene-descartes", "david-hume", "jean-jacques-rousseau"],
-  "verwandteIsmen": ["skeptizismus", "humanismus", "relativismus"]
+  "verwandtePhilosophen": [
+    "erasmus-von-rotterdam",
+    "blaise-pascal",
+    "rene-descartes",
+    "david-hume",
+    "jean-jacques-rousseau"
+  ],
+  "verwandteIsmen": [
+    "skeptizismus",
+    "humanismus",
+    "relativismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Michel de Montaigne war ein franzoesischer Philosoph und Schriftsteller, der mit seinen 'Essais' eine voellig neue literarische Gattung begruendete. Sein skeptisches, selbstreflexives Denken erforschte die menschliche Natur in all ihren Widerspruechen und machte ihn zu einem der einflussreichsten Autoren der europaeischen Geistesgeschichte. Er gilt als Meister der Selbsterforschung und Vorlaeufer der modernen Subjektivitaet.",
+    "biografie": {
+      "fruehesLeben": "Michel Eyquem de Montaigne wurde am 28. Februar 1533 auf dem Familienschloss in der Dordogne als Sohn einer wohlhabenden Kaufmannsfamilie geboren, die erst kuerzlich in den Adel aufgestiegen war. Sein Vater Pierre Eyquem, ein gebildeter und experimentierfreudiger Mann, liess den kleinen Michel nach einer ungewoehnlichen paedagogischen Methode erziehen: Latein war seine erste Sprache, die er noch vor dem Franzoesischen erlernte, und er wurde von einem deutschsprachigen Hauslehrer unterrichtet, der kein Wort Franzoesisch sprach. Ab 1539 besuchte er das renommierte Collège de Guyenne in Bordeaux, dann studierte er Rechtswissenschaften, vermutlich in Toulouse.",
+      "schaffen": "Nach dem Tod seines Vaters 1568 erbte Montaigne das Familiengut und zog sich 1571 aus dem oeffentlichen Leben zurueck, um sich ganz dem Studium und dem Schreiben zu widmen. In seinem beruehmten Turmzimmer, dessen Deckenbalken mit antiken Sentenzen beschrieben waren, begann er die Arbeit an seinen 'Essais', die ihn den Rest seines Lebens beschaeftigen sollten. Die ersten beiden Buecher erschienen 1580; eine erweiterte Ausgabe mit dem dritten Buch folgte 1588; und bis zu seinem Tod arbeitete er an Ergaenzungen fuer eine postume Ausgabe.",
+      "spaetesLeben": "1581 wurde Montaigne zum Buergermeister von Bordeaux gewaehlt, ein Amt, das er bis 1585 innehatte. In dieser turbulenten Zeit der Religionskriege bemuehte er sich um Vermittlung zwischen Katholiken und Hugenotten. Er genoss das Vertrauen beider Seiten und fungierte als Unterhaendler zwischen Heinrich von Navarra (dem spaeteren Heinrich IV.) und dem katholischen Lager. Nach dem Ende seiner Amtszeit kehrte er auf sein Schloss zurueck und widmete sich erneut der Ueberarbeitung und Erweiterung seiner Essais. Die letzten Jahre seines Lebens waren von zunehmenden gesundheitlichen Beschwerden gepraegt – er litt unter Nierensteinen, die ihm grosse Schmerzen bereiteten.",
+      "tod": "Michel de Montaigne starb am 13. September 1592 auf seinem Schloss waehrend einer Messe, die er in seinem Zimmer hatte lesen lassen, da er zu schwach war, die Kapelle aufzusuchen. Er war 59 Jahre alt. Sein Herz wurde in der Kirche Saint-Michel in Montaigne beigesetzt, sein Leichnam in der Kirche der Feuillants in Bordeaux. Die postume Ausgabe seiner Essais, die seine handschriftlichen Ergaenzungen enthielt, wurde 1595 von seiner geistigen Adoptivtochter Marie de Gournay herausgegeben.",
+      "nachwirkung": "Montaignes Einfluss auf die europaeische Literatur und Philosophie ist kaum zu ueberschaetzen. Er erfand mit dem Essay eine literarische Form, die bis heute lebendig ist. Seine skeptische Methode der Selbsterforschung beeinflusste Descartes, Pascal, Rousseau, Nietzsche und zahllose weitere Denker. Shakespeare kannte seine Essais in der englischen Uebersetzung von John Florio und liess sich davon fuer 'Der Sturm' inspirieren. Die franzoesische Moralistentradition von La Rochefoucauld bis Cioran steht in seiner Nachfolge. In der modernen Philosophie wird er als Vorlaeufer des Existenzialismus und des postmodernen Denkens gewuerdigt."
+    },
+    "kernideen": [
+      {
+        "titel": "Skeptizismus (Que sais-je?)",
+        "beschreibung": "Montaignes philosophische Grundhaltung ist die Skepsis: Er bezweifelt die Faehigkeit des Menschen, zu sicherer Erkenntnis zu gelangen. Seine Devise 'Que sais-je?' (Was weiss ich?) drueckt eine radikale intellektuelle Bescheidenheit aus, die alle Dogmen und Gewissheiten infrage stellt."
+      },
+      {
+        "titel": "Selbsterforschung als Methode",
+        "beschreibung": "Montaigne machte sich selbst zum Gegenstand der philosophischen Untersuchung. Er glaubte, dass die ehrliche Selbstbeobachtung der beste Weg zum Verstaendnis der menschlichen Natur sei, da jeder Mensch die gesamte menschliche Erfahrung in sich traegt."
+      },
+      {
+        "titel": "Kulturrelativismus",
+        "beschreibung": "In seinem beruehmten Essay 'Ueber die Kannibalen' argumentierte Montaigne, dass die vermeintlich barbarischen Braeuche anderer Kulturen nicht weniger rational sind als die europaeischen. Er stellte die Ueberlegenheitsansprueche der europaeischen Zivilisation infrage und plaedierte fuer Toleranz."
+      },
+      {
+        "titel": "Leben im Augenblick",
+        "beschreibung": "Montaigne betonte die Bedeutung des gegenwaertigen Augenblicks und der konkreten Lebenserfahrung gegenueber abstrakten Systemen und Zukunftsplaenen. Philosophieren heisst fuer ihn, sterben zu lernen – und damit das Leben bewusster und intensiver zu leben."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Essais (Versuche)",
+        "jahr": "1580–1592",
+        "beschreibung": "Montaignes Lebenswerk, eine Sammlung von 107 Kapiteln in drei Buechern, die in einer einzigartigen Mischung aus persoenlicher Reflexion, klassischer Gelehrsamkeit und skeptischer Philosophie die menschliche Erfahrung in all ihren Facetten erkunden."
+      },
+      {
+        "titel": "Journal de voyage en Italie",
+        "jahr": "1580–1581",
+        "beschreibung": "Ein Reisetagebuch, das Montaignes Reise durch Deutschland, die Schweiz und Italien dokumentiert. Es wurde erst 1774 wiederentdeckt und veroeffentlicht und bietet faszinierende Einblicke in seine Beobachtungsgabe."
+      },
+      {
+        "titel": "Apologie de Raymond Sebond",
+        "jahr": "1580",
+        "beschreibung": "Der laengste Essay Montaignes und sein philosophisch gewichtigstes Kapitel, in dem er unter dem Vorwand einer Verteidigung des spanischen Theologen Raymond Sebond eine umfassende skeptische Kritik der menschlichen Erkenntnisfaehigkeit entwickelt."
+      }
+    ]
+  }
 }

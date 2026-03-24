@@ -2,11 +2,27 @@
   "slug": "immanuel-kant",
   "name": "Immanuel Kant",
   "lebensdaten": "1724–1804",
-  "geboren": { "jahr": 1724, "ort": "Königsberg", "land": "Preußen", "lat": 54.7104, "lng": 20.4522 },
-  "gestorben": { "jahr": 1804, "ort": "Königsberg", "land": "Preußen", "lat": 54.7104, "lng": 20.4522 },
+  "geboren": {
+    "jahr": 1724,
+    "ort": "Königsberg",
+    "land": "Preußen",
+    "lat": 54.7104,
+    "lng": 20.4522
+  },
+  "gestorben": {
+    "jahr": 1804,
+    "ort": "Königsberg",
+    "land": "Preußen",
+    "lat": 54.7104,
+    "lng": 20.4522
+  },
   "epoche": "Aufklärung",
   "region": "Deutschland",
-  "hauptstroemungen": ["Transzendentalphilosophie", "Kritischer Idealismus", "Deontologische Ethik"],
+  "hauptstroemungen": [
+    "Transzendentalphilosophie",
+    "Kritischer Idealismus",
+    "Deontologische Ethik"
+  ],
   "kurzbeschreibung": "Immanuel Kant ist einer der einflussreichsten Philosophen der Weltgeschichte, dessen 'Kritik der reinen Vernunft' eine 'kopernikanische Wende' in der Philosophie einleitete. Er versöhnte Rationalismus und Empirismus in seinem kritischen System und begründete mit dem kategorischen Imperativ die moderne deontologische Ethik. Seine Philosophie bildet den Dreh- und Angelpunkt der gesamten nachfolgenden abendländischen Philosophie.",
   "biografie": {
     "fruehesLeben": "Immanuel Kant wurde am 22. April 1724 in Königsberg in Ostpreußen als viertes von neun Kindern des Sattlermeisters Johann Georg Kant und seiner Frau Anna Regina geboren. Die Familie war vom Pietismus geprägt, dessen strenge Frömmigkeit und Pflichtethik Kants Charakter nachhaltig beeinflussten. Er besuchte das Collegium Fridericianum, eine pietistische Schule, und studierte ab 1740 an der Universität Königsberg Philosophie, Mathematik und Naturwissenschaften. Nach dem Tod seines Vaters 1746 musste er sein Studium unterbrechen und arbeitete mehrere Jahre als Hauslehrer in der Umgebung Königsbergs. 1755 habilitierte er sich an der Universität Königsberg und begann seine Lehrtätigkeit als Privatdozent, die fünfzehn Jahre dauern sollte, bevor er 1770 endlich eine ordentliche Professur für Logik und Metaphysik erhielt. Kant verließ Königsberg zeitlebens nie für längere Zeit – sein regelmäßiger Tagesablauf wurde legendär: Die Bürger von Königsberg sollen nach seinen Spaziergängen ihre Uhren gestellt haben.",
@@ -34,22 +50,135 @@
     }
   ],
   "werke": [
-    { "titel": "Kritik der reinen Vernunft", "jahr": "1781/1787", "beschreibung": "Kants erkenntnistheoretisches Hauptwerk, das die Bedingungen der Möglichkeit von Erkenntnis untersucht und die Grenzen der Metaphysik aufzeigt. Die zweite, überarbeitete Auflage von 1787 enthält wichtige Änderungen." },
-    { "titel": "Kritik der praktischen Vernunft", "jahr": "1788", "beschreibung": "Kants ethisches Hauptwerk, das den kategorischen Imperativ als oberstes Prinzip der Moral begründet und die Postulate der praktischen Vernunft (Freiheit, Gott, Unsterblichkeit) entwickelt." },
-    { "titel": "Kritik der Urteilskraft", "jahr": "1790", "beschreibung": "Die dritte Kritik behandelt die ästhetische und teleologische Urteilskraft und vermittelt zwischen Natur und Freiheit, zwischen theoretischer und praktischer Philosophie." },
-    { "titel": "Grundlegung zur Metaphysik der Sitten", "jahr": "1785", "beschreibung": "Eine konzise Darstellung der Grundlagen der Moral, die den kategorischen Imperativ in seinen verschiedenen Formulierungen entwickelt." },
-    { "titel": "Zum ewigen Frieden", "jahr": "1795", "beschreibung": "Kants politisch-philosophischer Entwurf einer Weltfriedensordnung, der die Gründung eines Völkerbundes, das Verbot stehender Heere und die republikanische Verfassung fordert." },
-    { "titel": "Metaphysik der Sitten", "jahr": "1797", "beschreibung": "Kants systematische Darstellung der Rechts- und Tugendlehre, die den kategorischen Imperativ auf konkrete moralische und rechtliche Fragen anwendet." },
-    { "titel": "Prolegomena zu einer jeden künftigen Metaphysik", "jahr": "1783", "beschreibung": "Eine zugänglichere Darstellung der Grundgedanken der Kritik der reinen Vernunft, als Antwort auf das Unverständnis der Kritiker." },
-    { "titel": "Beantwortung der Frage: Was ist Aufklärung?", "jahr": "1784", "beschreibung": "Kants berühmter Essay, der Aufklärung als 'Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit' definiert und den Wahlspruch 'Sapere aude!' (Wage es, weise zu sein!) propagiert." }
+    {
+      "titel": "Kritik der reinen Vernunft",
+      "jahr": "1781/1787",
+      "beschreibung": "Kants erkenntnistheoretisches Hauptwerk, das die Bedingungen der Möglichkeit von Erkenntnis untersucht und die Grenzen der Metaphysik aufzeigt. Die zweite, überarbeitete Auflage von 1787 enthält wichtige Änderungen."
+    },
+    {
+      "titel": "Kritik der praktischen Vernunft",
+      "jahr": "1788",
+      "beschreibung": "Kants ethisches Hauptwerk, das den kategorischen Imperativ als oberstes Prinzip der Moral begründet und die Postulate der praktischen Vernunft (Freiheit, Gott, Unsterblichkeit) entwickelt."
+    },
+    {
+      "titel": "Kritik der Urteilskraft",
+      "jahr": "1790",
+      "beschreibung": "Die dritte Kritik behandelt die ästhetische und teleologische Urteilskraft und vermittelt zwischen Natur und Freiheit, zwischen theoretischer und praktischer Philosophie."
+    },
+    {
+      "titel": "Grundlegung zur Metaphysik der Sitten",
+      "jahr": "1785",
+      "beschreibung": "Eine konzise Darstellung der Grundlagen der Moral, die den kategorischen Imperativ in seinen verschiedenen Formulierungen entwickelt."
+    },
+    {
+      "titel": "Zum ewigen Frieden",
+      "jahr": "1795",
+      "beschreibung": "Kants politisch-philosophischer Entwurf einer Weltfriedensordnung, der die Gründung eines Völkerbundes, das Verbot stehender Heere und die republikanische Verfassung fordert."
+    },
+    {
+      "titel": "Metaphysik der Sitten",
+      "jahr": "1797",
+      "beschreibung": "Kants systematische Darstellung der Rechts- und Tugendlehre, die den kategorischen Imperativ auf konkrete moralische und rechtliche Fragen anwendet."
+    },
+    {
+      "titel": "Prolegomena zu einer jeden künftigen Metaphysik",
+      "jahr": "1783",
+      "beschreibung": "Eine zugänglichere Darstellung der Grundgedanken der Kritik der reinen Vernunft, als Antwort auf das Unverständnis der Kritiker."
+    },
+    {
+      "titel": "Beantwortung der Frage: Was ist Aufklärung?",
+      "jahr": "1784",
+      "beschreibung": "Kants berühmter Essay, der Aufklärung als 'Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit' definiert und den Wahlspruch 'Sapere aude!' (Wage es, weise zu sein!) propagiert."
+    }
   ],
   "zitate": [
-    { "text": "Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit.", "quelle": "Was ist Aufklärung? (1784)", "kontext": "Kants berühmteste Definition, die Aufklärung als Prozess der geistigen Emanzipation und Selbstbestimmung beschreibt." },
-    { "text": "Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht: der bestirnte Himmel über mir und das moralische Gesetz in mir.", "quelle": "Kritik der praktischen Vernunft, Beschluss", "kontext": "Kants berühmter Schlusssatz, der die Verbindung von Naturerkenntnis und moralischem Bewusstsein ausdrückt." },
-    { "text": "Handle so, dass du die Menschheit, sowohl in deiner Person als in der Person eines jeden anderen, jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.", "quelle": "Grundlegung zur Metaphysik der Sitten", "kontext": "Die zweite Formulierung des kategorischen Imperativs, die die Würde des Menschen als Selbstzweck begründet." },
-    { "text": "Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind.", "quelle": "Kritik der reinen Vernunft, B 75", "kontext": "Kants berühmte Synthese von Rationalismus und Empirismus: Erkenntnis erfordert sowohl sinnliche Anschauung als auch begriffliches Denken." },
-    { "text": "Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!", "quelle": "Was ist Aufklärung? (1784)", "kontext": "Der Wahlspruch der Aufklärung, den Kant dem römischen Dichter Horaz entlehnt und zum Motto der gesamten Aufklärungsbewegung erhebt." }
+    {
+      "text": "Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit.",
+      "quelle": "Was ist Aufklärung? (1784)",
+      "kontext": "Kants berühmteste Definition, die Aufklärung als Prozess der geistigen Emanzipation und Selbstbestimmung beschreibt."
+    },
+    {
+      "text": "Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht: der bestirnte Himmel über mir und das moralische Gesetz in mir.",
+      "quelle": "Kritik der praktischen Vernunft, Beschluss",
+      "kontext": "Kants berühmter Schlusssatz, der die Verbindung von Naturerkenntnis und moralischem Bewusstsein ausdrückt."
+    },
+    {
+      "text": "Handle so, dass du die Menschheit, sowohl in deiner Person als in der Person eines jeden anderen, jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.",
+      "quelle": "Grundlegung zur Metaphysik der Sitten",
+      "kontext": "Die zweite Formulierung des kategorischen Imperativs, die die Würde des Menschen als Selbstzweck begründet."
+    },
+    {
+      "text": "Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind.",
+      "quelle": "Kritik der reinen Vernunft, B 75",
+      "kontext": "Kants berühmte Synthese von Rationalismus und Empirismus: Erkenntnis erfordert sowohl sinnliche Anschauung als auch begriffliches Denken."
+    },
+    {
+      "text": "Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!",
+      "quelle": "Was ist Aufklärung? (1784)",
+      "kontext": "Der Wahlspruch der Aufklärung, den Kant dem römischen Dichter Horaz entlehnt und zum Motto der gesamten Aufklärungsbewegung erhebt."
+    }
   ],
-  "verwandtePhilosophen": ["david-hume", "gottfried-wilhelm-leibniz", "jean-jacques-rousseau", "johann-gottlieb-fichte", "georg-wilhelm-friedrich-hegel"],
-  "verwandteIsmen": ["transzendentalphilosophie", "deontologie", "idealismus", "kritizismus"]
+  "verwandtePhilosophen": [
+    "david-hume",
+    "gottfried-wilhelm-leibniz",
+    "jean-jacques-rousseau",
+    "johann-gottlieb-fichte",
+    "georg-wilhelm-friedrich-hegel"
+  ],
+  "verwandteIsmen": [
+    "transzendentalphilosophie",
+    "deontologie",
+    "idealismus",
+    "kritizismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Immanuel Kant ist einer der einflussreichsten Philosophen der Weltgeschichte, dessen 'Kritik der reinen Vernunft' eine 'kopernikanische Wende' in der Philosophie einleitete. Er versoehnte Rationalismus und Empirismus in seinem kritischen System und begruendete mit dem kategorischen Imperativ die moderne deontologische Ethik. Seine Philosophie bildet den Dreh- und Angelpunkt der gesamten nachfolgenden abendlaendischen Philosophie.",
+    "biografie": {
+      "fruehesLeben": "Immanuel Kant wurde am 22. April 1724 in Koenigsberg in Ostpreussen als viertes von neun Kindern des Sattlermeisters Johann Georg Kant und seiner Frau Anna Regina geboren. Die Familie war vom Pietismus gepraegt, dessen strenge Froemmigkeit und Pflichtethik Kants Charakter nachhaltig beeinflussten. Er besuchte das Collegium Fridericianum, eine pietistische Schule, und studierte ab 1740 an der Universitaet Koenigsberg Philosophie, Mathematik und Naturwissenschaften. Nach dem Tod seines Vaters 1746 musste er sein Studium unterbrechen und arbeitete mehrere Jahre als Hauslehrer in der Umgebung Koenigsbergs.",
+      "schaffen": "Kants philosophisches Schaffen teilt sich in eine 'vorkritische' und eine 'kritische' Periode. In der vorkritischen Phase beschaeftigte er sich mit Naturphilosophie und Metaphysik im Geiste der Leibniz-Wolffschen Schulphilosophie. Seine 'Allgemeine Naturgeschichte und Theorie des Himmels' (1755) entwickelte die beruehmte Kant-Laplace-Hypothese ueber die Entstehung des Sonnensystems. Der Wendepunkt kam in den 1770er Jahren, als Humes Skeptizismus ihn – nach eigenem Zeugnis – aus seinem 'dogmatischen Schlummer' weckte. Nach einem Jahrzehnt intensiver Arbeit veroeffentlichte er 1781 die 'Kritik der reinen Vernunft', eines der wichtigsten Buecher der Philosophiegeschichte.",
+      "spaetesLeben": "Nach der Veroeffentlichung der drei Kritiken schrieb Kant eine Reihe weiterer bedeutender Werke: die 'Grundlegung zur Metaphysik der Sitten' (1785), die 'Metaphysik der Sitten' (1797), 'Zum ewigen Frieden' (1795) und die 'Religion innerhalb der Grenzen der blossen Vernunft' (1793). Letzteres Werk brachte ihm einen Konflikt mit der preussischen Zensur ein: Koenig Friedrich Wilhelm II. verbot ihm, sich weiter ueber Religion zu aeussern. Kant gehorchte, hielt sich aber nach dem Tod des Koenigs 1797 nicht mehr daran. In seinen letzten Lebensjahren liess seine geistige Kraft nach; das unvollendete 'Opus postumum' zeigt Spuren geistigen Verfalls.",
+      "tod": "Immanuel Kant starb am 12. Februar 1804 in Koenigsberg im Alter von 79 Jahren. Seine letzten Worte sollen 'Es ist gut' gewesen sein. Sein Begraebnis war ein Ereignis von stadtweiter Bedeutung – trotz klirrender Kaelte folgten Tausende seinem Sarg. Er wurde an der Nordseite des Koenigsberger Doms beigesetzt, wo sein Grab bis heute erhalten ist. Auf seinem Grabstein stehen die beruehmten Worte aus dem Schluss der 'Kritik der praktischen Vernunft': 'Zwei Dinge erfuellen das Gemuet mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je oefter und anhaltender sich das Nachdenken damit beschaeftigt: Der bestirnte Himmel ueber mir und das moralische Gesetz in mir.'",
+      "nachwirkung": "Kants Philosophie bildet die Wasserscheide der modernen Philosophie. Praktisch jede nachfolgende philosophische Stroemung definiert sich in Bezug auf Kant – sei es als Weiterfuehrung (der Deutsche Idealismus von Fichte, Schelling und Hegel), als Rueckkehr zu Kant (der Neukantianismus) oder als Ueberwindung Kants (der Positivismus, die Phaenomenologie, der Pragmatismus). In der Ethik ist der kategorische Imperativ bis heute die wichtigste Alternative zum Utilitarismus. In der politischen Philosophie beeinflusste sein Friedenskonzept die Gruendung des Voelkerbunds und der Vereinten Nationen. John Rawls' 'Theorie der Gerechtigkeit' ist explizit kantianisch. Kants Erkenntnistheorie bleibt der Massstab, an dem sich jede Erkenntnistheorie messen lassen muss."
+    },
+    "kernideen": [
+      {
+        "titel": "Kopernikanische Wende",
+        "beschreibung": "Nicht die Erkenntnis richtet sich nach den Gegenstaenden, sondern die Gegenstaende richten sich nach unserer Erkenntnis. Raum, Zeit und die Verstandeskategorien sind Formen unseres Erkenntnisapparats, nicht Eigenschaften der Dinge an sich."
+      },
+      {
+        "titel": "Kategorischer Imperativ",
+        "beschreibung": "Das oberste Prinzip der Moral lautet: 'Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.' Der moralische Wert einer Handlung liegt nicht in ihren Folgen, sondern in der Pflichtgemaessheit ihres Prinzips."
+      },
+      {
+        "titel": "Synthetische Urteile a priori",
+        "beschreibung": "Kant zeigte, dass es Erkenntnisse gibt, die sowohl erfahrungsunabhaengig (a priori) als auch gehaltvoll (synthetisch) sind – die Grundlage der Mathematik und der reinen Naturwissenschaft. Die Frage 'Wie sind synthetische Urteile a priori moeglich?' ist die Leitfrage der Kritik der reinen Vernunft."
+      },
+      {
+        "titel": "Ding an sich",
+        "beschreibung": "Wir erkennen die Dinge nur so, wie sie uns erscheinen (Phaenomene), nicht so, wie sie an sich sind (Noumena). Das 'Ding an sich' ist ein Grenzbegriff, der die Endlichkeit unserer Erkenntnis markiert."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Kritik der reinen Vernunft",
+        "jahr": "1781/1787",
+        "beschreibung": "Kants erkenntnistheoretisches Hauptwerk, das die Bedingungen der Moeglichkeit von Erkenntnis untersucht und die Grenzen der Metaphysik aufzeigt. Die zweite, ueberarbeitete Auflage von 1787 enthaelt wichtige Aenderungen."
+      },
+      {
+        "titel": "Kritik der praktischen Vernunft",
+        "jahr": "1788",
+        "beschreibung": "Kants ethisches Hauptwerk, das den kategorischen Imperativ als oberstes Prinzip der Moral begruendet und die Postulate der praktischen Vernunft (Freiheit, Gott, Unsterblichkeit) entwickelt."
+      },
+      {
+        "titel": "Kritik der Urteilskraft",
+        "jahr": "1790",
+        "beschreibung": "Die dritte Kritik behandelt die aesthetische und teleologische Urteilskraft und vermittelt zwischen Natur und Freiheit, zwischen theoretischer und praktischer Philosophie."
+      },
+      {
+        "titel": "Grundlegung zur Metaphysik der Sitten",
+        "jahr": "1785",
+        "beschreibung": "Eine konzise Darstellung der Grundlagen der Moral, die den kategorischen Imperativ in seinen verschiedenen Formulierungen entwickelt."
+      }
+    ]
+  }
 }

@@ -11,14 +11,50 @@
     "Die naturwissenschaftliche Methode ist das Vorbild für alle Erkenntnis, einschließlich der Erkenntnis der Gesellschaft.",
     "Wissenschaft beschreibt beobachtbare Regelmäßigkeiten, ohne nach verborgenen Wesenheiten zu fragen."
   ],
-  "hauptvertreter": ["aristoteles"],
+  "hauptvertreter": [
+    "aristoteles"
+  ],
   "entstehung": "Der Positivismus wurde von Auguste Comte in seinem Cours de philosophie positive (1830-1842) begründet. Er entstand im Kontext der Industrialisierung und der rasanten Fortschritte der Naturwissenschaften, die das Vertrauen in die empirische Methode stärkten. Die Erfahrung der Französischen Revolution und die Suche nach einer neuen, rationalen Grundlage der Gesellschaft motivierten Comtes Entwurf einer positiven Wissenschaft der Gesellschaft.",
   "kritik": "Die Kritische Theorie der Frankfurter Schule (Horkheimer, Adorno) kritisierte den Positivismus als unkritische Affirmation des Bestehenden, die die gesellschaftlichen Machtverhältnisse verschleiert. Karl Popper ersetzte das positivistische Verifikationsprinzip durch das Falsifikationsprinzip und zeigte, dass Wissenschaft nicht durch Induktion, sondern durch kühne Vermutungen und Widerlegungen voranschreitet. Thomas Kuhn zeigte, dass die Wissenschaftsgeschichte nicht der positivistischen Fortschrittserzählung entspricht, sondern durch revolutionäre Paradigmenwechsel geprägt ist. Hermeneutiker wenden ein, dass die Geisteswissenschaften eine eigene Methodik (Verstehen statt Erklären) benötigen. Der Szientismus-Vorwurf besagt, dass der Positivismus die Grenzen der naturwissenschaftlichen Methode verkennt.",
-  "verwandteIsmen": ["empirismus", "logischer-positivismus", "materialismus", "naturalismus"],
+  "verwandteIsmen": [
+    "empirismus",
+    "logischer-positivismus",
+    "materialismus",
+    "naturalismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Cours de philosophie positive", "autor": "Auguste Comte", "jahr": "1830-1842" },
-    { "titel": "A System of Logic", "autor": "John Stuart Mill", "jahr": "1843" },
-    { "titel": "Die Analyse der Empfindungen", "autor": "Ernst Mach", "jahr": "1886" },
-    { "titel": "Les règles de la méthode sociologique", "autor": "Émile Durkheim", "jahr": "1895" }
-  ]
+    {
+      "titel": "Cours de philosophie positive",
+      "autor": "Auguste Comte",
+      "jahr": "1830-1842"
+    },
+    {
+      "titel": "A System of Logic",
+      "autor": "John Stuart Mill",
+      "jahr": "1843"
+    },
+    {
+      "titel": "Die Analyse der Empfindungen",
+      "autor": "Ernst Mach",
+      "jahr": "1886"
+    },
+    {
+      "titel": "Les règles de la méthode sociologique",
+      "autor": "Émile Durkheim",
+      "jahr": "1895"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Positivismus ist eine philosophische Stroemung, die nur empirisch ueberpruefbare Tatsachen als Gegenstand wissenschaftlicher Erkenntnis anerkennt.",
+    "ausfuehrlicheBeschreibung": "Der Positivismus ist eine der einflussreichsten wissenschaftsphilosophischen Stroemungen der Neuzeit. Er vertritt die Auffassung, dass nur das positiv Gegebene – die beobachtbaren Tatsachen und die empirisch ueberpruefbaren Zusammenhaenge zwischen ihnen – Gegenstand wissenschaftlicher Erkenntnis sein kann.\n\nAuguste Comte (1798-1857) ist der Begruender des Positivismus. In seinem Cours de philosophie positive (1830-1842) entwickelte er das Dreistadiengesetz: Die menschliche Erkenntnis durchlaeuft drei Stadien. Im theologischen Stadium werden Phaenomene durch uebernatuerliche Wesen erklaert. Im metaphysischen Stadium treten abstrakte Kraefte und Wesenheiten an ihre Stelle. Im positiven Stadium begnuegt sich die Erkenntnis mit der Feststellung beobachtbarer Gesetzmaessigkeiten und verzichtet auf die Frage nach letzten Ursachen und Zwecken.\n\nComte entwarf auch eine Hierarchie der Wissenschaften – von der Mathematik ueber Astronomie, Physik, Chemie und Biologie bis zur Soziologie –, wobei jede Wissenschaft auf der vorhergehenden aufbaut. Die Soziologie, die Comte als Erster so benannte, soll die Gesellschaft mit denselben positiven Methoden untersuchen wie die Naturwissenschaften die Natur.",
+    "kernthesen": [
+      "Nur empirisch ueberpruefbare Tatsachen und Gesetzmaessigkeiten sind Gegenstand wissenschaftlicher Erkenntnis.",
+      "Metaphysische Spekulation ueber letzte Ursachen und Zwecke ist unwissenschaftlich und muss ueberwunden werden.",
+      "Die menschliche Erkenntnis entwickelt sich gesetzmaessig vom theologischen ueber das metaphysische zum positiven Stadium.",
+      "Die naturwissenschaftliche Methode ist das Vorbild fuer alle Erkenntnis, einschliesslich der Erkenntnis der Gesellschaft.",
+      "Wissenschaft beschreibt beobachtbare Regelmaessigkeiten, ohne nach verborgenen Wesenheiten zu fragen."
+    ],
+    "entstehung": "Der Positivismus wurde von Auguste Comte in seinem Cours de philosophie positive (1830-1842) begruendet. Er entstand im Kontext der Industrialisierung und der rasanten Fortschritte der Naturwissenschaften, die das Vertrauen in die empirische Methode staerkten. Die Erfahrung der Franzoesischen Revolution und die Suche nach einer neuen, rationalen Grundlage der Gesellschaft motivierten Comtes Entwurf einer positiven Wissenschaft der Gesellschaft.",
+    "kritik": "Die Kritische Theorie der Frankfurter Schule (Horkheimer, Adorno) kritisierte den Positivismus als unkritische Affirmation des Bestehenden, die die gesellschaftlichen Machtverhaeltnisse verschleiert. Karl Popper ersetzte das positivistische Verifikationsprinzip durch das Falsifikationsprinzip und zeigte, dass Wissenschaft nicht durch Induktion, sondern durch kuehne Vermutungen und Widerlegungen voranschreitet."
+  }
 }

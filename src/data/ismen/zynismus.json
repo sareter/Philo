@@ -11,12 +11,39 @@
     "Schamlosigkeit und Provokation sind legitime Mittel, um die Willkürlichkeit sozialer Normen aufzuzeigen.",
     "Der Mensch ist Weltbürger (Kosmopolit) und nicht an eine bestimmte Gemeinschaft gebunden."
   ],
-  "hauptvertreter": ["sokrates"],
+  "hauptvertreter": [
+    "sokrates"
+  ],
   "entstehung": "Der Kynismus entstand im 4. Jahrhundert v. Chr. in Athen als radikale Fortführung der sokratischen Philosophie. Antisthenes, ein Schüler des Sokrates, betonte die praktische Lebensführung über die theoretische Spekulation und legte damit den Grundstein für die kynische Bewegung. Sein Schüler Diogenes von Sinope radikalisierte diese Haltung und wurde zum Prototyp des kynischen Philosophen. Die Bewegung verbreitete sich über die gesamte hellenistische Welt und bestand in verschiedenen Formen bis in die Spätantike.",
   "kritik": "Der Kynismus wurde bereits in der Antike als primitive, unsystematische Lebensweise abgetan, die kaum den Namen Philosophie verdiene. Aristoteles hielt die kynische Lebensweise für menschenunwürdig. Kritiker bemängelten die fehlende theoretische Grundlage und das Fehlen eines kohärenten philosophischen Systems. Die kynische Schamlosigkeit und Provokation wurden als bloße Aufmerksamkeitssucht gedeutet. Moderne Kritiker unterscheiden zwischen dem authentischen antiken Kynismus und dem modernen Zynismus, der zu einer bloß negativen, zynischen Haltung ohne konstruktive Alternative verkommen sei – eine Unterscheidung, die Peter Sloterdijk in seiner Kritik der zynischen Vernunft herausarbeitet.",
-  "verwandteIsmen": ["stoizismus", "anarchismus", "nihilismus"],
+  "verwandteIsmen": [
+    "stoizismus",
+    "anarchismus",
+    "nihilismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Kritik der zynischen Vernunft", "autor": "Peter Sloterdijk", "jahr": "1983" },
-    { "titel": "Leben und Meinungen berühmter Philosophen (Buch VI)", "autor": "Diogenes Laertios", "jahr": "ca. 220" }
-  ]
+    {
+      "titel": "Kritik der zynischen Vernunft",
+      "autor": "Peter Sloterdijk",
+      "jahr": "1983"
+    },
+    {
+      "titel": "Leben und Meinungen berühmter Philosophen (Buch VI)",
+      "autor": "Diogenes Laertios",
+      "jahr": "ca. 220"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der antike Kynismus  war eine philosophische Bewegung, die ein naturgemaesses Leben in voelliger Beduerfnislosigkeit propagierte.",
+    "ausfuehrlicheBeschreibung": "Der Kynismus (griechisch: kynismós, von kýōn – Hund) ist eine der faszinierendsten und provokantesten philosophischen Bewegungen der Antike. Sein Name leitet sich moeglicherweise vom Gymnasion Kynosarges ab, wo Antisthenes lehrte, oder von der abwertenden Bezeichnung Hund, die den Kynikern aufgrund ihrer scham- und konventionslosen Lebensweise gegeben wurde – eine Bezeichnung, die sie mit Stolz annahmen.\n\nDer Kynismus wird gewoehnlich auf Antisthenes (ca. 445-365 v. Chr.), einen Schueler des Sokrates, zurueckgefuehrt, doch seine bekannteste und einflussreichste Figur ist zweifellos Diogenes von Sinope (ca. 404-323 v. Chr.). Diogenes wurde zum Inbegriff des kynischen Philosophen: Er lebte in einem Fass (pithos), besass nur das Noetigste, verrichtete alle natuerlichen Beduerfnisse oeffentlich und provozierte die Athener Buerger durch sein skandaloeses Verhalten. Die Anekdote, er habe Alexander dem Grossen, der ihm einen Wunsch erfuellen wollte, lediglich gesagt: Geh mir aus der Sonne, illustriert die kynische Verachtung weltlicher Macht.\n\nDie kynische Philosophie ist keine systematische Lehre, sondern vor allem eine radikale Lebenspraxis. Ihre Kernprinzipien lassen sich dennoch zusammenfassen: Autarkeia (Selbstgenuegsamkeit) bedeutet, dass wahres Glueck nicht von aeusseren Guetern abhaengt. Askesis (Uebung) bezeichnet die staendige Uebung in Beduerfnislosigkeit und Abhaertung. Parrhesia (Redefreiheit) ist das Recht und die Pflicht, die Wahrheit offen und ohne Ruecksicht auf Konventionen auszusprechen. Anaideia (Schamlosigkeit) meint die bewusste Verletzung sozialer Tabus, um ihre Willkuerlichkeit aufzuzeigen.",
+    "kernthesen": [
+      "Wahres Glueck liegt in der Beduerfnislosigkeit und Selbstgenuegsamkeit (Autarkeia).",
+      "Gesellschaftliche Konventionen, Reichtum und Ruhm sind wertlos und hindern den Menschen an einem naturgemaessen Leben.",
+      "Die Tugend zeigt sich in der Tat, nicht in Worten – Philosophie muss gelebt werden.",
+      "Schamlosigkeit und Provokation sind legitime Mittel, um die Willkuerlichkeit sozialer Normen aufzuzeigen.",
+      "Der Mensch ist Weltbuerger (Kosmopolit) und nicht an eine bestimmte Gemeinschaft gebunden."
+    ],
+    "entstehung": "Der Kynismus entstand im 4. Jahrhundert v. Chr. in Athen als radikale Fortfuehrung der sokratischen Philosophie. Antisthenes, ein Schueler des Sokrates, betonte die praktische Lebensfuehrung ueber die theoretische Spekulation und legte damit den Grundstein fuer die kynische Bewegung. Sein Schueler Diogenes von Sinope radikalisierte diese Haltung und wurde zum Prototyp des kynischen Philosophen. Die Bewegung verbreitete sich ueber die gesamte hellenistische Welt und bestand in verschiedenen Formen bis in die Spaetantike.",
+    "kritik": "Der Kynismus wurde bereits in der Antike als primitive, unsystematische Lebensweise abgetan, die kaum den Namen Philosophie verdiene. Aristoteles hielt die kynische Lebensweise fuer menschenunwuerdig. Kritiker bemaengelten die fehlende theoretische Grundlage und das Fehlen eines kohaerenten philosophischen Systems. Die kynische Schamlosigkeit und Provokation wurden als blosse Aufmerksamkeitssucht gedeutet."
+  }
 }

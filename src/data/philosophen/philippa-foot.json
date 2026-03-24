@@ -71,5 +71,25 @@
     }
   ],
   "verwandtePhilosophen": ["elizabeth-anscombe", "iris-murdoch", "martha-nussbaum", "aristoteles"],
-  "verwandteIsmen": ["tugendethik"]
+  "verwandteIsmen": ["tugendethik"],
+  "einfach": {
+    "kurzbeschreibung": "Philippa Foot war eine britische Philosophin, die das beruehmte Trolley-Problem erfand und die Tugendethik in der modernen Philosophie wiederbelebte.",
+    "biografie": {
+      "fruehesLeben": "Foot wurde 1920 in England geboren und war die Enkelin eines US-Praesidenten. Sie studierte in Oxford, wo sie eine lebenslange Freundschaft mit der Schriftstellerin Iris Murdoch schloss.",
+      "schaffen": "Sie lehrte in Oxford und Los Angeles. 1967 erfand sie das beruehmte Trolley-Problem: Darf man einen Zug umleiten, um fuenf Menschen zu retten, wenn dadurch einer stirbt? Diese Frage veraenderte die Moralphilosophie. Sie argumentierte, dass moralische Urteile nicht nur Gefuehlssache sind.",
+      "spaetesLeben": "In ihrem Spaetwerk erklaerte sie, dass moralisch gut sein aehnlich ist wie koerperlich gesund sein – etwas Natuerliches, das zum Menschsein gehoert.",
+      "tod": "Foot starb 2010 in Oxford mit 90 Jahren. Ihr Trolley-Problem ist heute eines der beruehmtesten Gedankenexperimente der Philosophie.",
+      "nachwirkung": "Sie hat die Tugendethik als echte Alternative zu anderen Moraltheorien etabliert und eine ganze Generation von Philosophen beeinflusst."
+    },
+    "kernideen": [
+      {"titel": "Das Trolley-Problem", "beschreibung": "Darf man einen Zug umleiten und dabei einen Menschen toeten, um fuenf andere zu retten? Und ist es anders, wenn man jemanden aktiv von einer Bruecke schubsen muesste? Diese Frage zeigt, wie kompliziert Moral wirklich ist."},
+      {"titel": "Naturalistische Tugendethik", "beschreibung": "Moralisch gut zu sein ist etwas Natuerliches – so wie ein Loewe gute Klauen braucht, braucht ein Mensch Tugenden wie Gerechtigkeit und Mut."},
+      {"titel": "Kritik des moralischen Subjektivismus", "beschreibung": "Moral ist nicht nur Gefuehlssache. Moralische Aussagen koennen wahr oder falsch sein, genau wie andere Aussagen ueber die Welt."}
+    ],
+    "werke": [
+      {"titel": "Natural Goodness", "jahr": "2001", "beschreibung": "Ihr Hauptwerk, in dem sie erklaert, dass moralische Guete eine natuerliche Eigenschaft von Lebewesen ist."},
+      {"titel": "Virtues and Vices", "jahr": "1978", "beschreibung": "Eine Sammlung ihrer wichtigsten Aufsaetze zur Moralphilosophie."},
+      {"titel": "Moral Dilemmas", "jahr": "2002", "beschreibung": "Spaetere Aufsaetze ueber moralische Dilemmas und die Frage, was ein gutes Leben ausmacht."}
+    ]
+  }
 }

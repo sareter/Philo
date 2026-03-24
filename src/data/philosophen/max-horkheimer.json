@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Kritische Theorie", "Frankfurter Schule", "Sozialphilosophie"],
+  "hauptstroemungen": [
+    "Kritische Theorie",
+    "Frankfurter Schule",
+    "Sozialphilosophie"
+  ],
   "kurzbeschreibung": "Max Horkheimer war der Begründer und langjährige Direktor des Instituts für Sozialforschung und damit das organisatorische und intellektuelle Zentrum der Frankfurter Schule. Zusammen mit Adorno verfasste er die 'Dialektik der Aufklärung', eines der einflussreichsten philosophischen Werke des 20. Jahrhunderts. Seine Unterscheidung von traditioneller und kritischer Theorie definierte das Programm der gesamten Kritischen Theorie.",
   "biografie": {
     "fruehesLeben": "Max Horkheimer wurde am 14. Februar 1895 in Stuttgart-Zuffenhausen als Sohn des wohlhabenden jüdischen Textilfabrikanten Moritz Horkheimer geboren. Sein Vater bestimmte ihn zum Nachfolger in der Fabrik, doch der junge Max widersetzte sich und strebte nach einer akademischen Karriere. Die Erfahrung sozialer Ungerechtigkeit in der Fabrik seines Vaters prägte sein späteres Engagement für eine kritische Gesellschaftstheorie. Er studierte Philosophie, Psychologie und Nationalökonomie in München, Freiburg und Frankfurt, wo er 1922 bei Hans Cornelius promovierte und sich 1925 habilitierte.",
@@ -80,6 +84,62 @@
       "kontext": "Die Aufgabe der Kritischen Theorie, im Gegebenen die Möglichkeit einer besseren Welt zu erkennen."
     }
   ],
-  "verwandtePhilosophen": ["theodor-w-adorno", "herbert-marcuse", "walter-benjamin", "juergen-habermas"],
-  "verwandteIsmen": ["kritische-theorie", "frankfurter-schule", "marxismus", "sozialphilosophie"]
+  "verwandtePhilosophen": [
+    "theodor-w-adorno",
+    "herbert-marcuse",
+    "walter-benjamin",
+    "juergen-habermas"
+  ],
+  "verwandteIsmen": [
+    "kritische-theorie",
+    "frankfurter-schule",
+    "marxismus",
+    "sozialphilosophie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Max Horkheimer war der Begruender und langjaehrige Direktor des Instituts fuer Sozialforschung und damit das organisatorische und intellektuelle Zentrum der Frankfurter Schule. Zusammen mit Adorno verfasste er die 'Dialektik der Aufklaerung', eines der einflussreichsten philosophischen Werke des 20. Jahrhunderts. Seine Unterscheidung von traditioneller und kritischer Theorie definierte das Programm der gesamten Kritischen Theorie.",
+    "biografie": {
+      "fruehesLeben": "Max Horkheimer wurde am 14. Februar 1895 in Stuttgart-Zuffenhausen als Sohn des wohlhabenden juedischen Textilfabrikanten Moritz Horkheimer geboren. Sein Vater bestimmte ihn zum Nachfolger in der Fabrik, doch der junge Max widersetzte sich und strebte nach einer akademischen Karriere. Die Erfahrung sozialer Ungerechtigkeit in der Fabrik seines Vaters praegte sein spaeteres Engagement fuer eine kritische Gesellschaftstheorie. Er studierte Philosophie, Psychologie und Nationaloekonomie in Muenchen, Freiburg und Frankfurt, wo er 1922 bei Hans Cornelius promovierte und sich 1925 habilitierte.",
+      "schaffen": "1930 wurde Horkheimer zum Direktor des Instituts fuer Sozialforschung in Frankfurt berufen und definierte dessen interdisziplinaeres Forschungsprogramm. Sein programmatischer Aufsatz 'Traditionelle und kritische Theorie' (1937) formulierte den Unterschied zwischen einer Wissenschaft, die das Bestehende beschreibt, und einer Theorie, die auf die Veraenderung der Gesellschaft abzielt. Nach der Machtergreifung der Nationalsozialisten emigrierte das Institut zunaechst nach Genf und Paris, dann nach New York und schliesslich nach Los Angeles. In der Emigration verfasste Horkheimer zusammen mit Adorno die 'Dialektik der Aufklaerung' (1947), die die Selbstzerstoerung der instrumentellen Vernunft und die Entstehung der Kulturindustrie analysiert.",
+      "spaetesLeben": "In der Bundesrepublik wurde Horkheimer zu einem angesehenen oeffentlichen Intellektuellen. Er engagierte sich fuer die Demokratisierung der deutschen Gesellschaft und die Aufarbeitung der NS-Vergangenheit. In seinen spaeteren Schriften wandte er sich zunehmend religioesen Fragen zu und sprach von einer 'Sehnsucht nach dem ganz Anderen'. Seine politischen Positionen verschoben sich nach rechts; er unterstuetzte die westliche Demokratie gegen den Kommunismus und distanzierte sich von der Studentenbewegung.",
+      "tod": "Max Horkheimer starb am 7. Juli 1973 in Nuernberg im Alter von 78 Jahren. Er wurde auf dem Juedischen Friedhof in Bern beigesetzt.",
+      "nachwirkung": "Horkheimers Bedeutung liegt vor allem in der Begruendung und institutionellen Verankerung der Kritischen Theorie. Seine Unterscheidung von traditioneller und kritischer Theorie bildet das theoretische Fundament der Frankfurter Schule. Die 'Dialektik der Aufklaerung' ist einer der meistdiskutierten philosophischen Texte des 20. Jahrhunderts. Sein Einfluss auf Adorno, Marcuse, Habermas und die gesamte kritische Sozialwissenschaft ist kaum zu ueberschaetzen."
+    },
+    "kernideen": [
+      {
+        "titel": "Kritische Theorie vs. traditionelle Theorie",
+        "beschreibung": "Traditionelle Theorie beschreibt die Wirklichkeit von einem scheinbar neutralen Standpunkt aus. Kritische Theorie hingegen reflektiert ihre eigene gesellschaftliche Situiertheit und zielt auf die Veraenderung der Verhaeltnisse ab, die Unfreiheit und Leid produzieren."
+      },
+      {
+        "titel": "Instrumentelle Vernunft",
+        "beschreibung": "Die moderne Vernunft ist zur blossen instrumentellen Vernunft verkommen – sie kann nur noch Mittel fuer vorgegebene Zwecke berechnen, aber keine vernuenftigen Zwecke mehr bestimmen. Diese Verkuemmerung der Vernunft ist die Wurzel der modernen Katastrophen."
+      },
+      {
+        "titel": "Sehnsucht nach dem ganz Anderen",
+        "beschreibung": "Im Spaetwerk aeussert Horkheimer eine 'Sehnsucht nach dem ganz Anderen' – die Hoffnung, dass das Leid der Opfer der Geschichte nicht das letzte Wort sei. Dies ist keine Rueckkehr zur Religion, sondern ein Ausdruck der Unmoeglichkeit, sich mit der bestehenden Ungerechtigkeit abzufinden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Traditionelle und kritische Theorie",
+        "jahr": "1937",
+        "beschreibung": "Der programmatische Aufsatz definiert den Unterschied zwischen einer affirmativen Wissenschaft und einer Theorie, die auf gesellschaftliche Veraenderung abzielt."
+      },
+      {
+        "titel": "Dialektik der Aufklaerung",
+        "jahr": "1947",
+        "beschreibung": "Das zusammen mit Adorno verfasste Hauptwerk analysiert die Selbstzerstoerung der Aufklaerungsvernunft und die Entstehung autoritaerer Gesellschaftsformen."
+      },
+      {
+        "titel": "Zur Kritik der instrumentellen Vernunft (Eclipse of Reason)",
+        "jahr": "1947",
+        "beschreibung": "Eine Analyse der Verkuemmerung der Vernunft zur blossen Zweck-Mittel-Rationalitaet und der daraus resultierenden Krise der modernen Gesellschaft."
+      },
+      {
+        "titel": "Notizen 1950–1969 und Daemmerung",
+        "jahr": "1974",
+        "beschreibung": "Posthum veroeffentlichte Aphorismen und Reflexionen, die Horkheimers Denken in komprimierter Form zugaenglich machen."
+      }
+    ]
+  }
 }

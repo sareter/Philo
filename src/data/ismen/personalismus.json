@@ -19,5 +19,18 @@
     {"titel": "Personalismus", "autor": "Emmanuel Mounier", "jahr": "1949"},
     {"titel": "Der Formalismus in der Ethik und die materiale Wertethik", "autor": "Max Scheler", "jahr": "1913"},
     {"titel": "Ideen zu einer reinen Phänomenologie", "autor": "Edmund Husserl", "jahr": "1913"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Personalismus stellt den einzelnen Menschen als einzigartiges, wuerdevolles Wesen in den Mittelpunkt. Jede Person ist mehr als nur ein Raedchen im System und darf nicht auf eine Funktion reduziert werden.",
+    "ausfuehrlicheBeschreibung": "Der Personalismus entstand als Antwort auf zwei Extreme: den Individualismus, der den Menschen als isoliertes Einzelwesen sieht, und den Kollektivismus, der den Einzelnen der Gruppe unterordnet. Der Personalismus sagt: Beides wird dem Menschen nicht gerecht. Jeder Mensch ist einzigartig und hat eine unveraenderliche Wuerde, aber er existiert immer in Beziehungen zu anderen.\n\nEmmanuel Mounier, der Gruender dieser Bewegung, betonte in den 1930er Jahren: Der Mensch ist kein abstraktes Ding. Er ist koerperlich, geistig und sozial zugleich. Personsein bedeutet, mit anderen in Beziehung zu stehen, sich zu engagieren und Verantwortung zu uebernehmen. Der Personalismus nimmt den ganzen Menschen ernst, mit seinen Gefuehlen, seinem Koerper und seinen Beziehungen.\n\nDiese Philosophie hat grossen Einfluss auf die Menschenrechtsdiskussion und die Bioethik gehabt. Die Idee, dass jeder Mensch eine unverauesserliche Wuerde hat, ist ein Kerngedanke des Personalismus. Heute wird der personalistische Ansatz in Debatten ueber kuenstliche Intelligenz und Transhumanismus relevant: Was macht eine Person aus, und kann eine Maschine je eine Person sein?",
+    "kernthesen": [
+      "Jeder Mensch ist einzigartig und hat eine Wuerde, die nicht angetastet werden darf.",
+      "Personsein verwirklicht sich in Beziehungen, Dialog und Engagement fuer andere.",
+      "Weder reiner Individualismus noch Kollektivismus werden dem Menschen gerecht.",
+      "Der Mensch ist Koerper, Geist und soziales Wesen zugleich und darf nicht auf eine Dimension reduziert werden.",
+      "Die Wuerde der Person ist die Grundlage aller Ethik und Menschenrechte."
+    ],
+    "entstehung": "Der Personalismus entstand in den 1930er Jahren in Frankreich rund um Emmanuel Mounier und seine Zeitschrift 'Esprit'. Er vereinte Ideen aus der Phaenomenologie, der Dialogphilosophie Martin Bubers und der christlichen Sozialethik.",
+    "kritik": "Kritiker sagen, der Begriff 'Person' bleibe zu unscharf und die Grenze zwischen Philosophie und Theologie werde oft verwischt. Ausserdem biete der Personalismus zu wenig konkrete politische Handlungsanweisungen und koenne dazu dienen, konservative Positionen philosophisch zu verkleiden."
+  }
 }

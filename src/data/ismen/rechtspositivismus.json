@@ -11,13 +11,44 @@
     "Was nach geltenden Verfahren als Recht gesetzt wurde, ist Recht",
     "Die Frage, was Recht ist, ist von der Frage, was Recht sein sollte, zu unterscheiden"
   ],
-  "hauptvertreter": ["john-stuart-mill"],
+  "hauptvertreter": [
+    "john-stuart-mill"
+  ],
   "entstehung": "Der Rechtspositivismus entwickelte sich im 19. Jahrhundert als Reaktion auf die Naturrechtstradition. Jeremy Bentham und John Austin legten in England die Grundlagen, während im 20. Jahrhundert Hans Kelsen und H. L. A. Hart die Theorie verfeinerten.",
   "kritik": "Kritiker werfen dem Rechtspositivismus vor, er legitimiere ungerechte Gesetze und mache eine Kritik am positiven Recht unmöglich. Die Erfahrung des Nationalsozialismus zeigte die Gefahren einer Position, die jedes korrekt erlassene Gesetz als gültiges Recht anerkennt, unabhängig von seinem moralischen Gehalt.",
-  "verwandteIsmen": ["naturrechtsphilosophie", "kontraktarianismus", "ethischer-non-naturalismus"],
+  "verwandteIsmen": [
+    "naturrechtsphilosophie",
+    "kontraktarianismus",
+    "ethischer-non-naturalismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Über die Freiheit", "autor": "John Stuart Mill", "jahr": "1859"},
-    {"titel": "Der Utilitarismus", "autor": "John Stuart Mill", "jahr": "1863"},
-    {"titel": "Reine Rechtslehre", "autor": "Hans Kelsen", "jahr": "1934"}
-  ]
+    {
+      "titel": "Über die Freiheit",
+      "autor": "John Stuart Mill",
+      "jahr": "1859"
+    },
+    {
+      "titel": "Der Utilitarismus",
+      "autor": "John Stuart Mill",
+      "jahr": "1863"
+    },
+    {
+      "titel": "Reine Rechtslehre",
+      "autor": "Hans Kelsen",
+      "jahr": "1934"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Rechtspositivismus betrachtet Recht als menschliche Setzung, die unabhaengig von moralischen Wertungen gilt.",
+    "ausfuehrlicheBeschreibung": "Der Rechtspositivismus vertritt die These, dass Recht nicht auf natuerlichen oder goettlichen Prinzipien beruht, sondern eine menschliche Setzung ist, die durch bestimmte Verfahren – Gesetzgebung, Gewohnheit, richterliche Entscheidung – zustande kommt. Die Geltung einer Rechtsnorm haengt nicht davon ab, ob sie moralisch richtig ist, sondern ob sie nach den geltenden Regeln korrekt erlassen wurde.\n\nJohn Stuart Mill trug mit seiner Rechts- und Staatsphilosophie zur Entwicklung des Rechtspositivismus bei, indem er die utilitaristische Begruendung des Rechts vorantrieb: Gesetze sollen das groesstmoegliche Glueck der groesstmoeglichen Zahl befoerdern, aber ihre Geltung beruht auf der staatlichen Setzung, nicht auf einem uebergesetzlichen Naturrecht. Die Trennung von Recht und Moral ist fuer den Rechtspositivismus fundamental.\n\nDer Rechtspositivismus hat weitreichende praktische Konsequenzen: Er ermoeglicht eine klare Unterscheidung zwischen der Frage, was das Recht ist, und der Frage, was das Recht sein sollte. Diese Trennung schuetzt vor der Gefahr, dass politische oder moralische Ueberzeugungen die Rechtsanwendung verzerren. Gleichzeitig wirft sie die beunruhigende Frage auf, ob auch ungerechte Gesetze als Recht gelten muessen.",
+    "kernthesen": [
+      "Recht ist eine menschliche Setzung, kein Naturprodukt",
+      "Die Geltung des Rechts haengt nicht von seiner moralischen Richtigkeit ab",
+      "Recht und Moral muessen streng getrennt werden",
+      "Was nach geltenden Verfahren als Recht gesetzt wurde, ist Recht",
+      "Die Frage, was Recht ist, ist von der Frage, was Recht sein sollte, zu unterscheiden"
+    ],
+    "entstehung": "Der Rechtspositivismus entwickelte sich im 19. Jahrhundert als Reaktion auf die Naturrechtstradition. Jeremy Bentham und John Austin legten in England die Grundlagen, waehrend im 20. Jahrhundert Hans Kelsen und H. L. A. Hart die Theorie verfeinerten.",
+    "kritik": "Kritiker werfen dem Rechtspositivismus vor, er legitimiere ungerechte Gesetze und mache eine Kritik am positiven Recht unmoeglich. Die Erfahrung des Nationalsozialismus zeigte die Gefahren einer Position, die jedes korrekt erlassene Gesetz als gueltiges Recht anerkennt, unabhaengig von seinem moralischen Gehalt."
+  }
 }

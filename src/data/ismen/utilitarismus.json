@@ -11,14 +11,51 @@
     "Es gibt qualitative Unterschiede zwischen verschiedenen Arten der Lust (Mill).",
     "Moralische Entscheidungen erfordern eine unparteiische Abwägung aller Konsequenzen."
   ],
-  "hauptvertreter": ["aristoteles", "immanuel-kant"],
+  "hauptvertreter": [
+    "aristoteles",
+    "immanuel-kant"
+  ],
   "entstehung": "Der Utilitarismus wurde von Jeremy Bentham in der zweiten Hälfte des 18. Jahrhunderts als systematische ethische Theorie entwickelt. Vorläufer finden sich bei Francis Hutcheson, David Hume und Claude Adrien Helvétius. Bentham wollte eine rationale, vom religiösen Dogma unabhängige Grundlage für Moral und Gesetzgebung schaffen. Mill verfeinerte die Theorie im 19. Jahrhundert. Sidgwick brachte sie in ihre akademisch ausgereifteste Form.",
   "kritik": "Die Hauptkritik am Utilitarismus betrifft die Gerechtigkeit: Der Utilitarismus kann die Opferung der Rechte Einzelner zugunsten des allgemeinen Wohls rechtfertigen. Kants deontologische Ethik wendet ein, dass Menschen nie bloß als Mittel zum Zweck behandelt werden dürfen. Bernard Williams kritisierte, der Utilitarismus zerstöre die persönliche Integrität, indem er vom Handelnden verlange, seine eigenen Projekte und Bindungen zugunsten des allgemeinen Nutzens aufzugeben. Das Messproblem besagt, dass Glück und Leid nicht quantifizierbar und interpersonell vergleichbar sind. Robert Nozicks Erlebnismaschine zeigt, dass wir mehr als bloße Lustmaximierung wollen. John Rawls kritisierte den Utilitarismus dafür, dass er die Verteilung des Glücks ignoriert.",
-  "verwandteIsmen": ["hedonismus", "pragmatismus", "liberalismus", "empirismus"],
+  "verwandteIsmen": [
+    "hedonismus",
+    "pragmatismus",
+    "liberalismus",
+    "empirismus"
+  ],
   "schluesselwerke": [
-    { "titel": "An Introduction to the Principles of Morals and Legislation", "autor": "Jeremy Bentham", "jahr": "1789" },
-    { "titel": "Utilitarianism", "autor": "John Stuart Mill", "jahr": "1863" },
-    { "titel": "The Methods of Ethics", "autor": "Henry Sidgwick", "jahr": "1874" },
-    { "titel": "Practical Ethics", "autor": "Peter Singer", "jahr": "1979" }
-  ]
+    {
+      "titel": "An Introduction to the Principles of Morals and Legislation",
+      "autor": "Jeremy Bentham",
+      "jahr": "1789"
+    },
+    {
+      "titel": "Utilitarianism",
+      "autor": "John Stuart Mill",
+      "jahr": "1863"
+    },
+    {
+      "titel": "The Methods of Ethics",
+      "autor": "Henry Sidgwick",
+      "jahr": "1874"
+    },
+    {
+      "titel": "Practical Ethics",
+      "autor": "Peter Singer",
+      "jahr": "1979"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Utilitarismus ist eine ethische Theorie, die die Richtigkeit von Handlungen nach ihren Konsequenzen fuer das allgemeine Wohlergehen beurteilt.",
+    "ausfuehrlicheBeschreibung": "Der Utilitarismus ist eine der einflussreichsten und meistdiskutierten ethischen Theorien der Neuzeit. Als konsequentialistische Ethik beurteilt er die moralische Qualitaet einer Handlung nicht nach ihren Motiven oder ihrer Uebereinstimmung mit Regeln, sondern ausschliesslich nach ihren Folgen fuer das Wohlergehen der Betroffenen.\n\nDer Begruender des modernen Utilitarismus ist Jeremy Bentham (1748-1832). Bentham formulierte das Prinzip der Nuetzlichkeit (principle of utility): Diejenige Handlung ist moralisch richtig, die das groesste Glueck der groessten Zahl hervorbringt. Glueck versteht Bentham hedonistisch als Ueberwiegen von Lust ueber Schmerz. Er entwickelte ein hedonistisches Kalkuel, das Lustempfindungen nach sieben Dimensionen quantifiziert: Intensitaet, Dauer, Gewissheit, zeitliche Naehe, Fruchtbarkeit, Reinheit und Ausdehnung (Anzahl der betroffenen Personen).\n\nJohn Stuart Mill (1806-1873) modifizierte Benthams Utilitarismus in wichtigen Punkten. Er fuehrte qualitative Unterschiede zwischen Lustarten ein: Es ist besser, ein unzufriedener Sokrates zu sein als ein zufriedener Narr. Geistige Freuden sind hoeherwertiger als koerperliche, und die kompetenten Beurteiler – diejenigen, die beide Arten kennen – bevorzugen stets die hoeheren. Mill verteidigte den Utilitarismus auch als Grundlage der individuellen Freiheit: In On Liberty argumentiert er, dass die Maximierung des allgemeinen Wohlergehens die groesstmoegliche individuelle Freiheit erfordert.",
+    "kernthesen": [
+      "Die moralische Qualitaet einer Handlung wird ausschliesslich nach ihren Konsequenzen fuer das allgemeine Wohlergehen beurteilt.",
+      "Das Prinzip des groessten Gluecks: Diejenige Handlung ist richtig, die das groesste Glueck der groessten Zahl hervorbringt.",
+      "Jeder zaehlt gleich; die Interessen aller Betroffenen sind gleich zu gewichten.",
+      "Es gibt qualitative Unterschiede zwischen verschiedenen Arten der Lust (Mill).",
+      "Moralische Entscheidungen erfordern eine unparteiische Abwaegung aller Konsequenzen."
+    ],
+    "entstehung": "Der Utilitarismus wurde von Jeremy Bentham in der zweiten Haelfte des 18. Jahrhunderts als systematische ethische Theorie entwickelt. Vorlaeufer finden sich bei Francis Hutcheson, David Hume und Claude Adrien Helvétius. Bentham wollte eine rationale, vom religioesen Dogma unabhaengige Grundlage fuer Moral und Gesetzgebung schaffen. Mill verfeinerte die Theorie im 19. Jahrhundert. Sidgwick brachte sie in ihre akademisch ausgereifteste Form.",
+    "kritik": "Die Hauptkritik am Utilitarismus betrifft die Gerechtigkeit: Der Utilitarismus kann die Opferung der Rechte Einzelner zugunsten des allgemeinen Wohls rechtfertigen. Kants deontologische Ethik wendet ein, dass Menschen nie bloss als Mittel zum Zweck behandelt werden duerfen. Bernard Williams kritisierte, der Utilitarismus zerstoere die persoenliche Integritaet, indem er vom Handelnden verlange, seine eigenen Projekte und Bindungen zugunsten des allgemeinen Nutzens aufzugeben."
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Jenseits von Gut und Böse", "autor": "Friedrich Nietzsche", "jahr": "1886"},
     {"titel": "Die fröhliche Wissenschaft", "autor": "Friedrich Nietzsche", "jahr": "1882"},
     {"titel": "Zur Genealogie der Moral", "autor": "Friedrich Nietzsche", "jahr": "1887"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Perspektivismus sagt: Es gibt keine objektive Wahrheit, die fuer alle gleich ist. Jeder sieht die Welt aus seiner eigenen Perspektive, gepraegt von seinen Erfahrungen, Interessen und seiner Lebenssituation.",
+    "ausfuehrlicheBeschreibung": "Nietzsche hatte eine radikale Idee: Es gibt keine Fakten, nur Interpretationen. Was wir fuer 'die Wahrheit' halten, ist immer gefaerbt von unserer Perspektive. Unsere Biologie, unsere Kultur, unsere persoenlichen Interessen bestimmen, was wir sehen und wie wir es bewerten. Die Vorstellung einer objektiven, neutralen Wahrheit, die fuer alle gleich ist, hielt Nietzsche fuer eine Illusion.\n\nDas hat auch einen biologischen Hintergrund: Unsere Sinne und unser Gehirn haben sich nicht entwickelt, um die Welt wahrheitsgetreu abzubilden, sondern um uns am Leben zu halten. Die Kategorien, mit denen wir denken, sind Werkzeuge zum Ueberleben, keine Spiegel der Realitaet. Verschiedene Lebewesen, verschiedene Kulturen, verschiedene Menschen bringen verschiedene Perspektiven hervor.\n\nDas bedeutet nicht unbedingt, dass alles gleich gueltig ist. Nietzsche wollte eher sagen: Statt nach der einen Wahrheit zu suchen, sollten wir moeglichst viele verschiedene Perspektiven einnehmen. Je mehr Blickwinkel wir kennen, desto reicher wird unser Verstaendnis. Der grosse Haken: Wenn der Perspektivismus selbst nur eine Perspektive ist, kann er sich nicht als allgemeingueltig behaupten.",
+    "kernthesen": [
+      "Es gibt keine objektive Wahrheit, die unabhaengig von der eigenen Perspektive existiert.",
+      "Es gibt keine Fakten, nur Interpretationen, und jede Interpretation dient bestimmten Interessen.",
+      "Unsere Denkkategorien sind Werkzeuge zum Ueberleben, keine Abbilder der Realitaet.",
+      "Keine Perspektive ist grundsaetzlich besser als eine andere.",
+      "Viele verschiedene Perspektiven einzunehmen ist wertvoller als die Suche nach der einen Wahrheit."
+    ],
+    "entstehung": "Nietzsche entwickelte den Perspektivismus in den 1880er Jahren, besonders in 'Jenseits von Gut und Boese'. Er reagierte damit auf den Positivismus seiner Zeit und trieb Kants Einsicht weiter, dass Erkenntnis immer durch den Erkennenden geformt wird.",
+    "kritik": "Das groesste Problem: Wenn alles nur Perspektive ist, dann gilt das auch fuer den Perspektivismus selbst. Er untegraebt seinen eigenen Anspruch. Ausserdem fuehrt er in einen Relativismus, in dem man nicht mehr sagen kann, welche Interpretation besser oder schlechter ist."
+  }
 }

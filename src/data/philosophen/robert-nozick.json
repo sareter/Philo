@@ -18,7 +18,11 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Libertarismus", "Politische Philosophie", "Erkenntnistheorie"],
+  "hauptstroemungen": [
+    "Libertarismus",
+    "Politische Philosophie",
+    "Erkenntnistheorie"
+  ],
   "kurzbeschreibung": "Robert Nozick war ein amerikanischer Philosoph, der mit seinem Werk 'Anarchie, Staat und Utopia' (1974) die libertäre politische Philosophie begründete und die einflussreichste Gegenposition zu John Rawls' Gerechtigkeitstheorie formulierte. Er argumentierte für einen Minimalstaat, der sich auf den Schutz vor Gewalt und Betrug beschränkt, und gegen jede Form staatlicher Umverteilung.",
   "biografie": {
     "fruehesLeben": "Robert Nozick wurde am 16. November 1938 in Brooklyn, New York, als Sohn russisch-jüdischer Einwanderer geboren. Sein Vater war Unternehmer. Nozick studierte Philosophie an der Columbia University (Bachelor 1959) und promovierte in Princeton bei Carl Hempel (1963). Als Student war er politisch links orientiert und Mitglied der Socialist Party, wandelte sich aber während des Studiums zum Libertären.",
@@ -84,6 +88,64 @@
       "kontext": "Nozicks libertäres Gerechtigkeitsprinzip als Gegenentwurf zu marxistischen Verteilungsprinzipien."
     }
   ],
-  "verwandtePhilosophen": ["john-rawls", "peter-singer", "noam-chomsky"],
-  "verwandteIsmen": ["libertarismus", "liberalismus", "individualismus"]
+  "verwandtePhilosophen": [
+    "john-rawls",
+    "peter-singer",
+    "noam-chomsky"
+  ],
+  "verwandteIsmen": [
+    "libertarismus",
+    "liberalismus",
+    "individualismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Robert Nozick war ein amerikanischer Philosoph, der mit seinem Werk 'Anarchie, Staat und Utopia' (1974) die libertaere politische Philosophie begruendete und die einflussreichste Gegenposition zu John Rawls' Gerechtigkeitstheorie formulierte. Er argumentierte fuer einen Minimalstaat, der sich auf den Schutz vor Gewalt und Betrug beschraenkt, und gegen jede Form staatlicher Umverteilung.",
+    "biografie": {
+      "fruehesLeben": "Robert Nozick wurde am 16. November 1938 in Brooklyn, New York, als Sohn russisch-juedischer Einwanderer geboren. Sein Vater war Unternehmer. Nozick studierte Philosophie an der Columbia University (Bachelor 1959) und promovierte in Princeton bei Carl Hempel (1963). Als Student war er politisch links orientiert und Mitglied der Socialist Party, wandelte sich aber waehrend des Studiums zum Libertaeren.",
+      "schaffen": "Nozick lehrte ab 1969 an der Harvard University, wo er eine der juengsten Festanstellungen in der Geschichte der Fakultaet erhielt. Sein Hauptwerk 'Anarchie, Staat und Utopia' (1974) war eine direkte Antwort auf Rawls' 'Theorie der Gerechtigkeit' und argumentierte, dass nur ein Minimalstaat – beschraenkt auf den Schutz vor Gewalt, Diebstahl und Betrug – moralisch gerechtfertigt sei. Jede weitergehende staatliche Taetigkeit, insbesondere Umverteilung, verletze die individuellen Rechte der Buerger. Sein beruehmtes Argument des 'Wilt Chamberlain' zeigte, dass jede Gleichverteilung sich durch freiwillige Transaktionen unweigerlich in Ungleichheit verwandle. Das Buch erhielt den National Book Award und wurde zum Grundtext des Libertarismus.",
+      "spaetesLeben": "Nozick distanzierte sich spaeter von einigen extremen libertaeren Positionen seines Fruehwerks und bezeichnete seine Position als uebertrieben. In 'The Examined Life' gestand er, dass libertaere Positionen unzureichend seien. Er blieb aber ein Verteidiger individueller Freiheit und Marktmechanismen. Er litt seit den 1990er Jahren an Magenkrebs.",
+      "tod": "Robert Nozick starb am 23. Januar 2002 in Cambridge, Massachusetts, an Magenkrebs. Er war 63 Jahre alt.",
+      "nachwirkung": "Nozicks 'Anarchie, Staat und Utopia' ist der Gruendungstext des philosophischen Libertarismus und hat die politische Philosophie des spaeten 20. Jahrhunderts massgeblich gepraegt. Die Debatte zwischen Rawls und Nozick ueber Gerechtigkeit und die Rolle des Staates gehoert zu den zentralen Auseinandersetzungen der modernen politischen Theorie. Sein Einfluss erstreckt sich ueber die Philosophie hinaus auf Oekonomie, Rechtswissenschaft und politische Theorie."
+    },
+    "kernideen": [
+      {
+        "titel": "Der Minimalstaat",
+        "beschreibung": "Nur ein Minimalstaat, der sich auf den Schutz vor Gewalt, Diebstahl, Betrug und die Durchsetzung von Vertraegen beschraenkt, ist moralisch gerechtfertigt. Jede weitergehende staatliche Taetigkeit – insbesondere Umverteilung – verletzt die Rechte der Individuen."
+      },
+      {
+        "titel": "Anspruchstheorie der Gerechtigkeit (Entitlement Theory)",
+        "beschreibung": "Gerechtigkeit bezieht sich nicht auf Verteilungsmuster, sondern auf den Prozess des Erwerbs. Eine Verteilung ist gerecht, wenn sie durch gerechten Erwerb und gerechte Uebertragung zustande gekommen ist – unabhaengig davon, wie ungleich das Ergebnis ist."
+      },
+      {
+        "titel": "Selbsteigentum",
+        "beschreibung": "Jeder Mensch hat ein unveraeusserliches Recht auf sich selbst, seine Faehigkeiten und die Fruechte seiner Arbeit. Besteuerung der Arbeitseinkommen ist eine Form von Zwangsarbeit, da der Staat sich Teile der Arbeitszeit des Buergers aneignet."
+      },
+      {
+        "titel": "Die Erfahrungsmaschine",
+        "beschreibung": "Nozicks beruehmtes Gedankenexperiment: Wuerden Sie sich an eine Maschine anschliessen, die Ihnen jede gewuenschte Erfahrung simuliert? Die meisten Menschen wuerden dies ablehnen – ein Argument gegen den hedonistischen Utilitarismus und fuer den Wert realer Erfahrungen und Handlungen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Anarchie, Staat und Utopia (Anarchy, State, and Utopia)",
+        "jahr": "1974",
+        "beschreibung": "Der Gruendungstext des philosophischen Libertarismus argumentiert fuer einen Minimalstaat und gegen jede Form staatlicher Umverteilung."
+      },
+      {
+        "titel": "Philosophical Explanations",
+        "jahr": "1981",
+        "beschreibung": "Ein vielseitiges Werk zu Erkenntnistheorie, persoenlicher Identitaet, freiem Willen und Ethik, das eine Alternative zur traditionellen philosophischen Argumentation sucht."
+      },
+      {
+        "titel": "The Examined Life",
+        "jahr": "1989",
+        "beschreibung": "Eine Sammlung zugaenglicher philosophischer Reflexionen ueber Themen wie Tod, Liebe, Glueck, Kreativitaet und den Sinn des Lebens."
+      },
+      {
+        "titel": "Invariances: The Structure of the Objective World",
+        "jahr": "2001",
+        "beschreibung": "Nozicks letztes Werk entwickelt eine Theorie der Objektivitaet, die Wahrheit als Invarianz unter Transformationen versteht."
+      }
+    ]
+  }
 }

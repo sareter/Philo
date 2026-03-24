@@ -19,5 +19,18 @@
     {"titel": "Solarpunk: Histórias ecológicas e fantásticas", "autor": "Gerson Lodi-Ribeiro (Hrsg.)", "jahr": "2012"},
     {"titel": "Walden", "autor": "Henry David Thoreau", "jahr": "1854"},
     {"titel": "A Solarpunk Manifesto", "autor": "The Solarpunk Community", "jahr": "2019"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Solarpunk ist eine Bewegung, die optimistische Zukunftsbilder entwirft, in denen Technik und Natur zusammenpassen und alle Menschen fair behandelt werden.",
+    "ausfuehrlicheBeschreibung": "Waehrend die meisten Science-Fiction-Geschichten duestere Zukunftsvisionen zeigen, fragt Solarpunk: Was waere, wenn alles gut laeuft? Stell dir Staedte vor, in denen Gebaeude mit Pflanzen bewachsen sind, Solarenergie alles antreibt und Menschen in kleinen, fairen Gemeinschaften zusammenleben. Das ist die Vision von Solarpunk.\n\nDabei geht es nicht um naives Wunschdenken. Solarpunk sagt: Wenn wir uns keine positive Zukunft vorstellen koennen, werden wir auch nie eine schaffen. Die Bewegung verbindet Umweltschutz mit Technik-Begeisterung und sozialer Gerechtigkeit. Es geht um erneuerbare Energien, Permakultur, Selbermachen und dezentrale Gemeinschaften.\n\nSolarpunk ist mehr als nur Literatur oder Kunst - es ist eine Lebenseinstellung. Die Idee ist, die gewuenschte Zukunft schon jetzt zu leben: im eigenen Garten, in der Nachbarschaft, im Umgang mit Technik. Es ist quasi das Gegenteil von der Haltung, die Welt sei eh verloren.",
+    "kernthesen": [
+      "Wir brauchen positive Zukunftsvisionen, um die Welt wirklich zu veraendern",
+      "Technik und Natur muessen kein Gegensatz sein",
+      "Kleine, nachhaltige Gemeinschaften sind die Basis einer gerechten Gesellschaft",
+      "Unsere Vorstellungskraft hat politische Kraft - andere Bilder veraendern die Welt",
+      "Ein einfaches, naturnahes Leben in Gemeinschaft ist die beste Art zu leben"
+    ],
+    "entstehung": "Solarpunk entstand Anfang der 2010er Jahre in Online-Communitys auf Tumblr und Reddit. Eine brasilianische Kurzgeschichtensammlung von 2012 gilt als einer der ersten Texte. Seitdem ist daraus eine globale Bewegung aus Kunst, Literatur und Aktivismus geworden.",
+    "kritik": "Kritiker sagen, Solarpunk sei zu optimistisch und unterschaetze, wie schwer es wirklich ist, die grossen Systeme zu veraendern. Schoene Bilder allein reichen nicht, wenn man nicht auch Machtverhaeltnisse und wirtschaftliche Strukturen analysiert."
+  }
 }

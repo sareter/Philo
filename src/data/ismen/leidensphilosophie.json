@@ -18,5 +18,18 @@
   "schluesselwerke": [
     {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
     {"titel": "Über die Grundlage der Moral", "autor": "Arthur Schopenhauer", "jahr": "1840"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Leidensphilosophie sagt: Leiden ist kein Ausnahmefall, sondern der Normalzustand des Lebens. Wir streben immer nach etwas, und selbst wenn wir es bekommen, sind wir schnell wieder unzufrieden.",
+    "ausfuehrlicheBeschreibung": "Kennst du das Gefuehl, wenn du dir etwas total wuenschst -- ein neues Handy, eine Beziehung, gute Noten -- und wenn du es dann hast, ist die Freude ueberraschend schnell wieder weg? Genau darum geht es in der Leidensphilosophie. Schopenhauer meinte, dass wir staendig etwas wollen und dieses Wollen selbst die Ursache unseres Leidens ist.\n\nDie Idee ist: Tief in uns steckt ein blinder Drang, der nie zufrieden ist. Jedes Mal, wenn wir etwas erreichen, kommt sofort das naechste Verlangen -- oder Langeweile. Wir pendeln also staendig zwischen Sehnsucht und Oedesein hin und her. Das klingt deprimierend, aber Schopenhauer meinte, das ehrlich zu sehen sei der erste Schritt.\n\nWas folgt daraus fuer unser Verhalten gegenueber anderen? Wenn alle leiden, dann ist Mitgefuehl die wichtigste Tugend. Weil wir alle im selben Boot sitzen, sollten wir faehig sein, das Leid anderer zu fuehlen und danach zu handeln. Schopenhauer fand, das sei die einzig echte Grundlage fuer Moral -- nicht Regeln oder Pflichten, sondern echtes Mitfuehlen.",
+    "kernthesen": [
+      "Leiden ist nicht die Ausnahme, sondern der Grundzustand des Lebens.",
+      "In uns steckt ein rastloser Drang, der nie wirklich befriedigt werden kann.",
+      "Selbst wenn wir bekommen, was wir wollen, ist die Freude nur kurz -- dann kommt neues Verlangen oder Langeweile.",
+      "Mitgefuehl ist die einzig ehrliche Grundlage fuer gutes Handeln.",
+      "Nur wer diesen inneren Drang loslassen kann, findet wirkliche Ruhe."
+    ],
+    "entstehung": "Schopenhauer entwickelte diese Philosophie Anfang des 19. Jahrhunderts. Er war stark vom Buddhismus beeinflusst, der auch lehrt, dass Verlangen die Ursache des Leidens ist. Sein Hauptwerk 'Die Welt als Wille und Vorstellung' erschien 1819.",
+    "kritik": "Viele finden diese Sichtweise zu einseitig und pessimistisch -- es gibt ja durchaus echtes Glueck und Freude im Leben. Ausserdem wird kritisiert, dass die Forderung, alle Wuensche loszulassen, ziemlich lebensfeindlich klingt und zu Passivitaet fuehren kann."
+  }
 }

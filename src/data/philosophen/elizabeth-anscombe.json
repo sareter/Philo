@@ -71,5 +71,46 @@
     }
   ],
   "verwandtePhilosophen": ["ludwig-wittgenstein", "philippa-foot", "iris-murdoch", "aristoteles"],
-  "verwandteIsmen": ["analytische-philosophie", "tugendethik"]
+  "verwandteIsmen": ["analytische-philosophie", "tugendethik"],
+  "einfach": {
+    "kurzbeschreibung": "Elizabeth Anscombe war eine der wichtigsten Philosophinnen des 20. Jahrhunderts. Sie hat die Handlungstheorie mitbegruendet und dafuer gesorgt, dass die Tugendethik ein Comeback feierte.",
+    "biografie": {
+      "fruehesLeben": "Anscombe wurde 1919 in Irland geboren, wuchs in England auf und studierte in Oxford. Als Studentin trat sie zum Katholizismus ueber, was ihr gesamtes Denken praegte.",
+      "schaffen": "Sie wurde eine enge Schuelerin des beruehmten Philosophen Wittgenstein und uebersetzte seine Werke ins Englische. Ihr Buch 'Intention' wurde zum Standardwerk ueber menschliches Handeln. In einem beruehmten Aufsatz forderte sie, dass wir statt ueber Pflichten lieber ueber gute Charaktereigenschaften nachdenken sollten.",
+      "spaetesLeben": "Sie lehrte als Professorin in Cambridge, war bekannt fuer ihre streitbaren Meinungen und protestierte zum Beispiel dagegen, Harry Truman wegen des Atombombenabwurfs einen Ehrentitel zu verleihen. Sie hatte sieben Kinder.",
+      "tod": "Anscombe starb 2001 in Cambridge. Sie gilt als Mitbegruenderin der modernen Handlungstheorie und als Ausloeserin einer neuen Welle der Tugendethik.",
+      "nachwirkung": "Ihr Werk 'Intention' wird bis heute an Unis diskutiert. Ihre Kritik an der modernen Moralphilosophie hat eine ganze Bewegung ausgeloest, die fragt: Was macht einen guten Menschen aus, statt nur nach Regeln zu suchen."
+    },
+    "kernideen": [
+      {
+        "titel": "Handlung und Intention",
+        "beschreibung": "Anscombe untersuchte, was es heisst, etwas absichtlich zu tun. Dieselbe Handlung kann je nach Blickwinkel absichtlich oder unabsichtlich sein."
+      },
+      {
+        "titel": "Kritik der modernen Moralphilosophie",
+        "beschreibung": "Begriffe wie 'du sollst' ergeben laut Anscombe ohne einen Gott als Gesetzgeber keinen Sinn. Stattdessen sollte man lieber fragen, welche Eigenschaften einen guten Menschen ausmachen."
+      },
+      {
+        "titel": "Das Brute-Fact-Argument",
+        "beschreibung": "Gesellschaftliche Tatsachen beruhen auf einfachen Grundtatsachen. Zum Beispiel beruht die Tatsache, dass jemand Schulden hat, darauf, dass Waren geliefert wurden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Intention",
+        "jahr": "1957",
+        "beschreibung": "Das Grundlagenwerk, das untersucht, was es bedeutet, etwas absichtlich zu tun."
+      },
+      {
+        "titel": "Modern Moral Philosophy",
+        "jahr": "1958",
+        "beschreibung": "Der Aufsatz, der die moderne Moralphilosophie kritisierte und eine Rueckkehr zur Tugendethik forderte."
+      },
+      {
+        "titel": "An Introduction to Wittgenstein's Tractatus",
+        "jahr": "1959",
+        "beschreibung": "Eine Einfuehrung in Wittgensteins fruehes Hauptwerk aus erster Hand."
+      }
+    ]
+  }
 }

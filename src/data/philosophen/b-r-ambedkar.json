@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Asien",
-  "hauptstroemungen": ["Buddhistische Philosophie", "Egalitarismus"],
+  "hauptstroemungen": [
+    "Buddhistische Philosophie",
+    "Egalitarismus"
+  ],
   "kurzbeschreibung": "Bhimrao Ramji Ambedkar war ein indischer Jurist, Politiker und Sozialphilosoph, der als Architekt der indischen Verfassung gilt. Als Angehöriger der 'Unberührbaren' kämpfte er zeitlebens gegen das Kastensystem und für die Gleichberechtigung aller Menschen. Sein Übertritt zum Buddhismus war zugleich ein philosophischer und politischer Akt der Befreiung.",
   "biografie": {
     "fruehesLeben": "Ambedkar wurde 1891 in Mhow als Angehöriger der Mahar-Kaste geboren, die als 'unberührbar' galt. Trotz extremer Diskriminierung erwarb er als einer der ersten Dalits akademische Abschlüsse und studierte an der Columbia University in New York sowie an der London School of Economics. Diese Bildung machte ihn zum intellektuellen Vorkämpfer der Dalits.",
@@ -76,6 +79,58 @@
       "quelle": "Vernichtung der Kaste"
     }
   ],
-  "verwandtePhilosophen": ["swami-vivekananda", "john-rawls", "karl-marx"],
-  "verwandteIsmen": ["buddhistische-philosophie", "egalitarismus"]
+  "verwandtePhilosophen": [
+    "swami-vivekananda",
+    "john-rawls",
+    "karl-marx"
+  ],
+  "verwandteIsmen": [
+    "buddhistische-philosophie",
+    "egalitarismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Bhimrao Ramji Ambedkar war ein indischer Jurist, Politiker und Sozialphilosoph, der als Architekt der indischen Verfassung gilt. Als Angehoeriger der 'Unberuehrbaren' kaempfte er zeitlebens gegen das Kastensystem und fuer die Gleichberechtigung aller Menschen. Sein Uebertritt zum Buddhismus war zugleich ein philosophischer und politischer Akt der Befreiung.",
+    "biografie": {
+      "fruehesLeben": "Ambedkar wurde 1891 in Mhow als Angehoeriger der Mahar-Kaste geboren, die als 'unberuehrbar' galt. Trotz extremer Diskriminierung erwarb er als einer der ersten Dalits akademische Abschluesse und studierte an der Columbia University in New York sowie an der London School of Economics. Diese Bildung machte ihn zum intellektuellen Vorkaempfer der Dalits.",
+      "schaffen": "Als Jurist und Politiker setzte sich Ambedkar unermuedlich fuer die Abschaffung des Kastensystems ein. Er leitete den Verfassungsausschuss des unabhaengigen Indien und schuf eine der fortschrittlichsten Verfassungen der Welt. Seine philosophischen Schriften analysieren die Verbindung von Religion, Kaste und sozialer Unterdrueckung.",
+      "spaetesLeben": "In seinen letzten Lebensjahren wandte sich Ambedkar dem Buddhismus zu, den er als egalitaere Alternative zum Hinduismus betrachtete. Am 14. Oktober 1956 konvertierte er zusammen mit Hunderttausenden seiner Anhaenger zum Buddhismus. Diese Massenkonversion war die groesste Religionsuebertritt in der Geschichte.",
+      "tod": "Ambedkar starb am 6. Dezember 1956 in Delhi, nur wenige Wochen nach seiner Konversion zum Buddhismus. Sein Vermaechtnis als Verfassungsvater und Befreiungskaempfer ist in Indien bis heute lebendig. Er wird von Millionen Dalits als Befreier verehrt.",
+      "nachwirkung": "Ambedkar wird in Indien als einer der groessten Soehne des Landes verehrt und sein Geburtstag ist ein nationaler Feiertag. Die neo-buddhistische Bewegung, die er begruendete, hat Millionen von Anhaengern. Sein Denken ueber soziale Gerechtigkeit und Menschenwuerde inspiriert weltweit Bewegungen gegen Diskriminierung."
+    },
+    "kernideen": [
+      {
+        "titel": "Vernichtung der Kaste",
+        "beschreibung": "Das Kastensystem ist nicht bloss eine soziale Ordnung, sondern ein System der Unterdrueckung, das die Menschenwuerde verletzt. Es kann nicht reformiert, sondern muss vollstaendig zerstoert werden. Die religioese Legitimation der Kastenordnung ist die Wurzel des Uebels."
+      },
+      {
+        "titel": "Sozialer Buddhismus (Navayana)",
+        "beschreibung": "Ambedkar reinterpretierte den Buddhismus als eine rationalistisch und egalitaere Philosophie, die sich von metaphysischen Spekulationen befreit. Der Buddha war in seinen Augen vor allem ein Sozialreformer, der gegen die brahmanische Kastenordnung kaempfte."
+      },
+      {
+        "titel": "Verfassungsmaessige Moral",
+        "beschreibung": "Eine gerechte Gesellschaft braucht nicht nur Gesetze, sondern eine moralische Grundhaltung, die Gleichheit, Freiheit und Bruederlichkeit als oberste Werte anerkennt. Die Verfassung ist das Instrument, um soziale Gerechtigkeit gegen traditionelle Hierarchien durchzusetzen."
+      },
+      {
+        "titel": "Bildung als Befreiung",
+        "beschreibung": "Bildung ist das wichtigste Mittel zur Befreiung der Unterdrueckten. Sie ermoeglicht den Zugang zu Wissen, wirtschaftlicher Selbststaendigkeit und politischer Teilhabe. Ohne Bildung kann es keine wahre Gleichheit geben."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Vernichtung der Kaste (Annihilation of Caste)",
+        "jahr": "1936",
+        "beschreibung": "Ambedkars radikalste Schrift gegen das Kastensystem, urspruenglich als Rede verfasst, die jedoch vom Veranstalter abgelehnt wurde. Eine scharfe Analyse der religioesen Grundlagen der Kastenordnung."
+      },
+      {
+        "titel": "Der Buddha und sein Dhamma",
+        "jahr": "1957",
+        "beschreibung": "Ambedkars posthum veroeffentlichtes Hauptwerk, in dem er den Buddhismus als rationale, egalitaere und humanistische Philosophie neu interpretiert."
+      },
+      {
+        "titel": "Wer waren die Shudras?",
+        "jahr": "1946",
+        "beschreibung": "Eine historische Untersuchung der Entstehung des Kastensystems und der vierten Kaste (Shudras), die Ambedkars These untermauert, dass die Kastenordnung ein historisches Konstrukt ist."
+      }
+    ]
+  }
 }

@@ -20,5 +20,18 @@
     { "titel": "Manifest für eine akzelerationistische Politik", "autor": "Nick Srnicek und Alex Williams", "jahr": "2013" },
     { "titel": "Die Erfindung der Zukunft", "autor": "Nick Srnicek und Alex Williams", "jahr": "2015" },
     { "titel": "Fanged Noumena", "autor": "Nick Land", "jahr": "2011" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Akzelerationismus sagt: Statt den Kapitalismus zu bremsen, sollte man ihn beschleunigen -- bis er sich selbst ueberwindet. Mehr Technologie, mehr Geschwindigkeit, mehr Wandel.",
+    "ausfuehrlicheBeschreibung": "Die meisten Kritiker des Kapitalismus wollen ihn bremsen oder abschaffen. Der Akzelerationismus sagt das Gegenteil: Gebt Gas! Beschleunigt den Kapitalismus, die Technologie, die Globalisierung -- so schnell, dass das System an seine eigenen Grenzen stoesst und sich von selbst verwandelt. Klingt verrueckt? Ist es auch ein bisschen.\n\nDie Idee hat zwei Versionen. Die linke Version sagt: Nutzt die Technologie des Kapitalismus -- Automatisierung, kuenstliche Intelligenz -- aber fuer alle Menschen, nicht nur fuer die Reichen. Wenn Maschinen die Arbeit uebernehmen, koennte das Freiheit fuer alle bedeuten. Die rechte Version sagt: Lasst die Technologie einfach laufen, der Mensch ist sowieso bald ueberholt.\n\nDas Ganze wirft natuerlich riesige Fragen auf. Was passiert mit den Menschen, die bei der Beschleunigung auf der Strecke bleiben? Und ist es nicht wahnsinnig riskant, ein System zu beschleunigen, das jetzt schon den Planeten zerstoert? Trotzdem zwingt der Akzelerationismus uns zum Nachdenken: Vielleicht ist die Antwort auf die Probleme der Zukunft nicht Zurueck-zur-Natur, sondern Vorwaerts-in-die-Technik.",
+    "kernthesen": [
+      "Gesellschaftlicher Wandel kommt durch Beschleunigung, nicht durch Bremsen.",
+      "Der Kapitalismus traegt die Samen seiner eigenen Ueberwindung in sich.",
+      "Technologie sollte nicht gebremst, sondern fuer alle nutzbar gemacht werden.",
+      "Traditioneller Protest und Widerstand sind in der globalisierten Welt veraltet.",
+      "Die Zukunft gehoert denen, die die Krafte der Beschleunigung verstehen und steuern."
+    ],
+    "entstehung": "Die Idee geht auf Deleuze und Guattari in den 1970er Jahren zurueck. In den 1990er Jahren radikalisierte Nick Land sie an der Universitaet Warwick. Seit 2013 gibt es durch Srnicek und Williams eine linke Version, die Technologie fuer Befreiung statt fuer Profit nutzen will.",
+    "kritik": "Kritiker sagen: Noch mehr Kapitalismus beschleunigen heisst auch noch mehr Ungleichheit und Umweltzerstoerung. Ausserdem klingt es zynisch, den Leuten, die unter dem System leiden, zu sagen: Haltet durch, es wird erst schlimmer, dann besser. Und beide Varianten -- links wie rechts -- nehmen Demokratie nicht besonders ernst."
+  }
 }

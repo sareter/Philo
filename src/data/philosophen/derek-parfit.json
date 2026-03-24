@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Utilitarismus", "Personalismus"],
+  "hauptstroemungen": [
+    "Utilitarismus",
+    "Personalismus"
+  ],
   "kurzbeschreibung": "Derek Parfit war ein britischer Philosoph, der als einer der bedeutendsten Moralphilosophen des 20. Jahrhunderts gilt. Sein Werk 'Reasons and Persons' revolutionierte das Denken über personale Identität, Rationalität und Ethik. Mit 'On What Matters' versuchte er, die großen moralphilosophischen Traditionen in einer einheitlichen Theorie zusammenzuführen.",
   "biografie": {
     "fruehesLeben": "Derek Parfit wurde 1942 in Chengdu, China, geboren, wo seine Eltern als Ärzte arbeiteten. Er wuchs in Oxford auf und studierte am Balliol College Geschichte. Ein Harkness Fellowship brachte ihn an die Columbia und Harvard University, bevor er nach Oxford zurückkehrte.",
@@ -76,6 +79,59 @@
       "quelle": "Worauf es ankommt"
     }
   ],
-  "verwandtePhilosophen": ["john-rawls", "peter-singer", "immanuel-kant", "bernard-williams"],
-  "verwandteIsmen": ["utilitarismus", "personalismus"]
+  "verwandtePhilosophen": [
+    "john-rawls",
+    "peter-singer",
+    "immanuel-kant",
+    "bernard-williams"
+  ],
+  "verwandteIsmen": [
+    "utilitarismus",
+    "personalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Derek Parfit war ein britischer Philosoph, der als einer der bedeutendsten Moralphilosophen des 20. Jahrhunderts gilt. Sein Werk 'Reasons and Persons' revolutionierte das Denken ueber personale Identitaet, Rationalitaet und Ethik. Mit 'On What Matters' versuchte er, die grossen moralphilosophischen Traditionen in einer einheitlichen Theorie zusammenzufuehren.",
+    "biografie": {
+      "fruehesLeben": "Derek Parfit wurde 1942 in Chengdu, China, geboren, wo seine Eltern als Aerzte arbeiteten. Er wuchs in Oxford auf und studierte am Balliol College Geschichte. Ein Harkness Fellowship brachte ihn an die Columbia und Harvard University, bevor er nach Oxford zurueckkehrte.",
+      "schaffen": "Als Fellow des All Souls College in Oxford widmete sich Parfit jahrzehntelang der Erforschung fundamentaler philosophischer Fragen. 'Reasons and Persons' (1984) stellte die gaengige Auffassung personaler Identitaet radikal in Frage und zeigte, dass unsere Identitaet weniger bestimmt ist, als wir glauben. Sein Spaetwerk 'On What Matters' suchte die Konvergenz von Kantianismus, Kontraktualismus und Konsequentialismus.",
+      "spaetesLeben": "Parfit arbeitete ueber dreissig Jahre an 'On What Matters', das schliesslich in drei Baenden erschien. Er lehrte regelmaessig an der Harvard, NYU und Rutgers University. Neben der Philosophie widmete er sich leidenschaftlich der Architekturfotografie.",
+      "tod": "Derek Parfit starb am 1. Januar 2017 in Oxford im Alter von 74 Jahren. Sein Tod wurde als grosser Verlust fuer die Moralphilosophie betrauert. Er galt als einer der originellsten und einflussreichsten Ethiker seiner Generation.",
+      "nachwirkung": "Parfits Werk hat die Moralphilosophie, die Theorie personaler Identitaet und die Populationsethik nachhaltig veraendert. Seine Argumente ueber die Nicht-Identitaet und das 'Repugnant Conclusion' sind zentrale Referenzpunkte der modernen Ethik. Sein Versuch, die grossen moralphilosophischen Traditionen zu vereinen, bleibt ein bedeutendes philosophisches Projekt."
+    },
+    "kernideen": [
+      {
+        "titel": "Personale Identitaet als Illusion",
+        "beschreibung": "Was wir fuer unsere persoenliche Identitaet halten, ist weniger bestimmt und weniger wichtig, als wir glauben. Es gibt kein tiefes Faktum, das bestimmt, ob eine zukuenftige Person 'ich' ist. Personale Identitaet besteht in psychologischer Kontinuitaet und Verbundenheit – und diese kann in Graden variieren."
+      },
+      {
+        "titel": "Konvergenz der Moraltheorien",
+        "beschreibung": "Die drei grossen moralphilosophischen Traditionen – Kantianismus, Kontraktualismus und Konsequentialismus – konvergieren in ihren Ergebnissen weit mehr, als ueblicherweise angenommen wird. Parfit argumentiert, dass sie bei richtiger Interpretation im Wesentlichen zum selben Ergebnis kommen."
+      },
+      {
+        "titel": "Das Abstossende Ergebnis (Repugnant Conclusion)",
+        "beschreibung": "Wenn wir glauben, dass die Summe des Gluecks zaehlt, muessen wir akzeptieren, dass eine riesige Bevoelkerung mit minimal positivem Wohlbefinden besser ist als eine kleinere Bevoelkerung mit hohem Wohlbefinden. Diese 'abstossende Schlussfolgerung' ist eines der hartnaeckigsten Probleme der Populationsethik."
+      },
+      {
+        "titel": "Das Nicht-Identitaets-Problem",
+        "beschreibung": "Unsere heutigen Entscheidungen bestimmen, welche Menschen in der Zukunft existieren werden. Daher koennen wir zukuenftigen Menschen nicht schaden, indem wir die Umwelt zerstoeren, denn ohne unsere Entscheidungen haetten genau diese Menschen nie existiert. Dieses Paradox stellt die herkoemmliche Ethik vor grosse Herausforderungen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Gruende und Personen (Reasons and Persons)",
+        "jahr": "1984",
+        "beschreibung": "Parfits revolutionaeres Hauptwerk, das die Theorie personaler Identitaet, der Rationalitaet und der Populationsethik grundlegend erneuerte."
+      },
+      {
+        "titel": "Worauf es ankommt (On What Matters)",
+        "jahr": "2011",
+        "beschreibung": "Parfits monumentales Spaetwerk in drei Baenden, das die Konvergenz der grossen moralphilosophischen Traditionen nachzuweisen versucht."
+      },
+      {
+        "titel": "Gleichheit und Prioritaet (Equality and Priority)",
+        "jahr": "1997",
+        "beschreibung": "Ein einflussreicher Aufsatz, der die Unterscheidung zwischen Egalitarismus und Prioritarismus einfuehrt und die Debatte ueber Verteilungsgerechtigkeit neu strukturiert."
+      }
+    ]
+  }
 }

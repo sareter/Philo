@@ -11,13 +11,43 @@
     "Die Dekolonisierung des Denkens erfordert die Anerkennung nicht-westlicher Wissensformen.",
     "Identitäten in postkolonialen Gesellschaften sind hybrid und widersetzen sich eindeutigen Zuschreibungen."
   ],
-  "hauptvertreter": ["michel-foucault"],
+  "hauptvertreter": [
+    "michel-foucault"
+  ],
   "entstehung": "Der Postkolonialismus entstand in den 1960er und 1970er Jahren im Zuge der Dekolonisierungsbewegungen in Afrika und Asien. Frantz Fanons Analysen der psychischen Folgen des Kolonialismus und Edward Saids Orientalismus-Kritik (1978) gelten als Gründungstexte der Bewegung.",
   "kritik": "Kritiker werfen dem Postkolonialismus vor, dass er zu stark auf Diskursanalyse fokussiert ist und materielle Ungleichheiten vernachlässigt. Zudem wird bemängelt, dass postkoloniale Theoretiker oft selbst an westlichen Eliteuniversitäten verortet sind und damit die Strukturen reproduzieren, die sie kritisieren.",
-  "verwandteIsmen": ["marxismus", "poststrukturalismus"],
+  "verwandteIsmen": [
+    "marxismus",
+    "poststrukturalismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Orientalism", "autor": "Edward Said", "jahr": "1978"},
-    {"titel": "Die Verdammten dieser Erde", "autor": "Frantz Fanon", "jahr": "1961"},
-    {"titel": "Can the Subaltern Speak?", "autor": "Gayatri Spivak", "jahr": "1988"}
-  ]
+    {
+      "titel": "Orientalism",
+      "autor": "Edward Said",
+      "jahr": "1978"
+    },
+    {
+      "titel": "Die Verdammten dieser Erde",
+      "autor": "Frantz Fanon",
+      "jahr": "1961"
+    },
+    {
+      "titel": "Can the Subaltern Speak?",
+      "autor": "Gayatri Spivak",
+      "jahr": "1988"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Postkolonialismus analysiert die kulturellen, politischen und epistemischen Nachwirkungen des Kolonialismus und kritisiert die fortbestehenden Machtstrukturen, die das Verhaeltnis zwischen ehemaligen Kolonialmaechten und kolonisierten Gesellschaften praegen.",
+    "ausfuehrlicheBeschreibung": "Der Postkolonialismus entwickelte sich ab den 1960er Jahren als intellektuelle Bewegung, die die Folgen des europaeischen Kolonialismus in den Blick nimmt. Anders als der Name vermuten laesst, geht es nicht um eine Epoche nach dem Kolonialismus, sondern um die kritische Analyse der fortdauernden kolonialen Strukturen in Wissen, Kultur und Politik. Edward Said zeigte in seinem Werk ueber den Orientalismus, wie westliche Wissenschaft und Kultur den „Orient“ als das Andere konstruierten und damit koloniale Herrschaft legitimierten.\n\nMichel Foucaults Machtanalyse bildet eine wichtige theoretische Grundlage des Postkolonialismus. Die Verknuepfung von Wissen und Macht, die Foucault herausarbeitete, wird auf die koloniale Situation uebertragen: Koloniale Herrschaft beruhte nicht nur auf militaerischer Gewalt, sondern auch auf der epistemischen Unterwerfung der Kolonisierten. Deren Wissensformen, Sprachen und kulturelle Praktiken wurden systematisch abgewertet und durch westliche Normen ersetzt.\n\nIn der Gegenwart hat der Postkolonialismus die Geistes- und Sozialwissenschaften tiefgreifend veraendert. Die Forderung nach Dekolonisierung des Wissens, die Kritik an eurozentrischen Universalismen und die Anerkennung pluraler Wissensformen sind zentrale Anliegen. Denker wie Gayatri Spivak und Homi Bhabha haben die Theorie um Konzepte wie Subalternitaet und Hybriditaet erweitert.",
+    "kernthesen": [
+      "Koloniale Machtstrukturen wirken auch nach der formalen Dekolonisierung in Kultur, Wissen und Politik fort.",
+      "Westliche Wissenschaft und Kultur konstruierten die kolonisierten Voelker als das minderwertige Andere.",
+      "Wissen ist nie neutral, sondern stets in Machtverhaeltnisse eingebettet.",
+      "Die Dekolonisierung des Denkens erfordert die Anerkennung nicht-westlicher Wissensformen.",
+      "Identitaeten in postkolonialen Gesellschaften sind hybrid und widersetzen sich eindeutigen Zuschreibungen."
+    ],
+    "entstehung": "Der Postkolonialismus entstand in den 1960er und 1970er Jahren im Zuge der Dekolonisierungsbewegungen in Afrika und Asien. Frantz Fanons Analysen der psychischen Folgen des Kolonialismus und Edward Saids Orientalismus-Kritik (1978) gelten als Gruendungstexte der Bewegung.",
+    "kritik": "Kritiker werfen dem Postkolonialismus vor, dass er zu stark auf Diskursanalyse fokussiert ist und materielle Ungleichheiten vernachlaessigt. Zudem wird bemaengelt, dass postkoloniale Theoretiker oft selbst an westlichen Eliteuniversitaeten verortet sind und damit die Strukturen reproduzieren, die sie kritisieren."
+  }
 }

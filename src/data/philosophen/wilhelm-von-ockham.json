@@ -18,7 +18,12 @@
   },
   "epoche": "Mittelalter",
   "region": "England / Frankreich / Deutschland",
-  "hauptstroemungen": ["Scholastik", "Nominalismus", "Logik", "Politische Philosophie"],
+  "hauptstroemungen": [
+    "Scholastik",
+    "Nominalismus",
+    "Logik",
+    "Politische Philosophie"
+  ],
   "kurzbeschreibung": "Wilhelm von Ockham, der 'Doctor invincibilis', war der bedeutendste Nominalist des Mittelalters und Begründer des nach ihm benannten Ökonomieprinzips ('Ockhams Rasiermesser'). Seine radikale Kritik an überflüssigen Entitäten revolutionierte die Philosophie und bereitete die Neuzeit vor.",
   "biografie": {
     "fruehesLeben": "Wilhelm wurde um 1287 in Ockham in der Grafschaft Surrey in England geboren. Um 1300 trat er in den Franziskanerorden ein und studierte Theologie in Oxford. Er kommentierte die Sentenzen des Petrus Lombardus, wurde aber nie zum Magister der Theologie promoviert – daher sein Beiname 'Venerabilis Inceptor' (ehrwürdiger Anfänger). 1324 wurde er vom Kanzler der Universität Oxford, John Lutterell, wegen verdächtiger Lehren beim Papst in Avignon denunziert.",
@@ -89,6 +94,67 @@
       "kontext": "Ockhams angebliches Angebot an den Kaiser bei seiner Flucht aus Avignon."
     }
   ],
-  "verwandtePhilosophen": ["duns-scotus", "thomas-von-aquin", "peter-abaelard", "aristoteles", "anselm-von-canterbury"],
-  "verwandteIsmen": ["nominalismus", "scholastik", "empirismus", "skeptizismus"]
+  "verwandtePhilosophen": [
+    "duns-scotus",
+    "thomas-von-aquin",
+    "peter-abaelard",
+    "aristoteles",
+    "anselm-von-canterbury"
+  ],
+  "verwandteIsmen": [
+    "nominalismus",
+    "scholastik",
+    "empirismus",
+    "skeptizismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Wilhelm von Ockham, der 'Doctor invincibilis', war der bedeutendste Nominalist des Mittelalters und Begruender des nach ihm benannten Oekonomieprinzips ('Ockhams Rasiermesser'). Seine radikale Kritik an ueberfluessigen Entitaeten revolutionierte die Philosophie und bereitete die Neuzeit vor.",
+    "biografie": {
+      "fruehesLeben": "Wilhelm wurde um 1287 in Ockham in der Grafschaft Surrey in England geboren. Um 1300 trat er in den Franziskanerorden ein und studierte Theologie in Oxford. Er kommentierte die Sentenzen des Petrus Lombardus, wurde aber nie zum Magister der Theologie promoviert – daher sein Beiname 'Venerabilis Inceptor' (ehrwuerdiger Anfaenger). 1324 wurde er vom Kanzler der Universitaet Oxford, John Lutterell, wegen verdaechtiger Lehren beim Papst in Avignon denunziert.",
+      "schaffen": "Ockham wurde 1324 nach Avignon zitiert, wo eine Kommission seine Lehren pruefte. Waehrend er auf das Ergebnis wartete (das nie erging), beauftragte ihn der General des Franziskanerordens, Michael von Cesena, die paepstlichen Bullen zur Armutsfrage zu pruefen. Ockham kam zu dem Schluss, dass Papst Johannes XXII. in der Armutsfrage irre und damit ein Haeretiker sei. 1328 floh er mit Michael von Cesena und anderen Franziskanern aus Avignon zum Kaiser Ludwig dem Bayern nach Pisa. Der Legende nach sagte er zum Kaiser: 'Verteidige mich mit dem Schwert, und ich werde dich mit der Feder verteidigen.",
+      "spaetesLeben": "In Muenchen lebte Ockham unter dem Schutz Ludwigs des Bayern und verfasste politische Streitschriften gegen das Papsttum. Nach Ludwigs Tod 1347 soll er versucht haben, sich mit dem Papsttum zu versoehnen.",
+      "tod": "Wilhelm von Ockham starb am 9. April 1347 in Muenchen, moeglicherweise an der Pest, die damals Europa verwuestete. Er war etwa 60 Jahre alt. Er wurde im Muenchner Franziskanerkloster begraben.",
+      "nachwirkung": "Ockhams Einfluss auf die Geistesgeschichte ist enorm. Sein Nominalismus und sein Oekonomieprinzip bereiteten den Boden fuer die moderne Wissenschaft und die Reformation. Luther war ein 'Ockhamist', und die protestantische Betonung des individuellen Glaubens hat nominalistische Wurzeln. Das Rasiermesser wurde zum Grundprinzip der wissenschaftlichen Methode. In der analytischen Philosophie des 20. Jahrhunderts erlebte Ockham eine Renaissance durch Quine und andere. Seine politische Philosophie beeinflusste die Entwicklung des Konstitutionalismus und der Menschenrechte."
+    },
+    "kernideen": [
+      {
+        "titel": "Ockhams Rasiermesser",
+        "beschreibung": "Man soll keine Entitaeten ueber das Notwendige hinaus annehmen. Die einfachere Erklaerung, die mit weniger Annahmen auskommt, ist vorzuziehen. Dieses Oekonomieprinzip wurde zum Grundsatz der wissenschaftlichen Methode."
+      },
+      {
+        "titel": "Nominalismus",
+        "beschreibung": "Universalien (Gattungen und Arten) existieren nicht in der Wirklichkeit. Nur Individuen existieren. Universalien sind lediglich Begriffe oder Zeichen des Geistes, die fuer mehrere Einzeldinge stehen."
+      },
+      {
+        "titel": "Suppositionstheorie",
+        "beschreibung": "Die Bedeutung eines Begriffs haengt von der Art seiner Verwendung im Satz ab: Er kann fuer sich selbst stehen (materiale Supposition), fuer seinen Inhalt (einfache Supposition) oder fuer die bezeichneten Dinge (personale Supposition)."
+      },
+      {
+        "titel": "Trennung von Vernunft und Glaube",
+        "beschreibung": "Die meisten theologischen Wahrheiten – einschliesslich der Existenz Gottes – koennen nicht rational bewiesen werden. Sie sind Gegenstand des Glaubens, nicht der Philosophie. Dies trennt die Sphaeren von Vernunft und Glaube schaerfer als bei Thomas."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Summa Logicae",
+        "jahr": "ca. 1323",
+        "beschreibung": "Ockhams logisches Hauptwerk in drei Teilen: Begriffslehre, Urteilslehre und Schlusslehre. Enthaelt die Suppositionstheorie und die nominalistische Universalienlehre. Eines der bedeutendsten logischen Werke des Mittelalters."
+      },
+      {
+        "titel": "Quodlibeta Septem",
+        "jahr": "ca. 1324–1325",
+        "beschreibung": "Sieben Quodlibet-Disputationen ueber philosophische und theologische Themen. Enthaelt wichtige Anwendungen des Rasiermessers."
+      },
+      {
+        "titel": "Sentenzenkommentar (Ordinatio / Reportatio)",
+        "jahr": "ca. 1317–1320",
+        "beschreibung": "Kommentar zu den Sentenzen des Petrus Lombardus. Ockhams philosophisch-theologisches Hauptwerk."
+      },
+      {
+        "titel": "Dialogus de potestate papae (Dialog ueber die Macht des Papstes)",
+        "jahr": "1332–1347",
+        "beschreibung": "Umfangreiches politisches Hauptwerk ueber die Grenzen der paepstlichen Autoritaet und das Verhaeltnis von geistlicher und weltlicher Macht."
+      }
+    ]
+  }
 }

@@ -18,7 +18,10 @@
   },
   "epoche": "19. Jahrhundert",
   "region": "Europa",
-  "hauptstroemungen": ["Sozialismus", "Marxismus"],
+  "hauptstroemungen": [
+    "Sozialismus",
+    "Marxismus"
+  ],
   "kurzbeschreibung": "Rosa Luxemburg war eine polnisch-deutsche revolutionäre Sozialistin, marxistische Theoretikerin und Mitbegründerin der Kommunistischen Partei Deutschlands. Ihre Schriften zur Kapitalakkumulation, zur Massenstreiktheorie und zur revolutionären Demokratie gehören zu den originellsten Beiträgen des marxistischen Denkens. Sie verteidigte die Freiheit des Andersdenkenden auch innerhalb der sozialistischen Bewegung.",
   "biografie": {
     "fruehesLeben": "Rosa Luxemburg wurde 1871 in Zamość im russisch besetzten Polen in eine jüdische Familie geboren. Bereits als Schülerin engagierte sie sich in der revolutionären Bewegung. Wegen politischer Verfolgung floh sie 1889 in die Schweiz, wo sie in Zürich Volkswirtschaft, Rechtswissenschaft und Philosophie studierte.",
@@ -80,6 +83,59 @@
       "kontext": "Ausdruck von Luxemburgs leidenschaftlicher Überzeugung von der Notwendigkeit und Schönheit des revolutionären Kampfes."
     }
   ],
-  "verwandtePhilosophen": ["karl-marx", "emma-goldman", "antonio-gramsci"],
-  "verwandteIsmen": ["sozialismus", "marxismus"]
+  "verwandtePhilosophen": [
+    "karl-marx",
+    "emma-goldman",
+    "antonio-gramsci"
+  ],
+  "verwandteIsmen": [
+    "sozialismus",
+    "marxismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Rosa Luxemburg war eine polnisch-deutsche revolutionaere Sozialistin, marxistische Theoretikerin und Mitbegruenderin der Kommunistischen Partei Deutschlands. Ihre Schriften zur Kapitalakkumulation, zur Massenstreiktheorie und zur revolutionaeren Demokratie gehoeren zu den originellsten Beitraegen des marxistischen Denkens. Sie verteidigte die Freiheit des Andersdenkenden auch innerhalb der sozialistischen Bewegung.",
+    "biografie": {
+      "fruehesLeben": "Rosa Luxemburg wurde 1871 in Zamość im russisch besetzten Polen in eine juedische Familie geboren. Bereits als Schuelerin engagierte sie sich in der revolutionaeren Bewegung. Wegen politischer Verfolgung floh sie 1889 in die Schweiz, wo sie in Zuerich Volkswirtschaft, Rechtswissenschaft und Philosophie studierte.",
+      "schaffen": "Nach ihrer Promotion siedelte Luxemburg nach Deutschland ueber und wurde zu einer der fuehrenden Theoretikerinnen der SPD. Ihr Hauptwerk 'Die Akkumulation des Kapitals' (1913) analysierte die Notwendigkeit des Imperialismus fuer die kapitalistische Expansion. In der Massenstreikdebatte vertrat sie eine radikale Position gegen den Reformismus der Parteifuehrung. Waehrend des Ersten Weltkriegs wurde sie wegen ihrer Antikriegshaltung inhaftiert.",
+      "spaetesLeben": "Nach ihrer Entlassung aus dem Gefaengnis im November 1918 gruendete Luxemburg zusammen mit Karl Liebknecht den Spartakusbund und die KPD. In ihren letzten Schriften warnte sie vor den Gefahren eines autoritaeren Sozialismus und betonte die Notwendigkeit revolutionaerer Demokratie.",
+      "tod": "Am 15. Januar 1919 wurden Rosa Luxemburg und Karl Liebknecht von Freikorps-Soldaten gefangengenommen und ermordet. Luxemburgs Leichnam wurde in den Landwehrkanal geworfen und erst Monate spaeter gefunden. Ihre Ermordung gilt als eines der dunkelsten Kapitel der deutschen Revolution.",
+      "nachwirkung": "Luxemburgs Betonung der revolutionaeren Demokratie und ihre Kritik am Autoritarismus machen sie zu einer einzigartigen Stimme innerhalb des Marxismus. Ihr Satz 'Freiheit ist immer die Freiheit des Andersdenkenden' wurde zum gefluegelten Wort. Ihre oekonomischen Analysen des Imperialismus werden in der kritischen Oekonomie bis heute diskutiert."
+    },
+    "kernideen": [
+      {
+        "titel": "Theorie der Kapitalakkumulation",
+        "beschreibung": "Der Kapitalismus kann nur ueberleben, indem er staendig nichtkapitalistische Gebiete und Maerkte erschliesst. Die Akkumulation des Kapitals erfordert einen aeusseren, noch nicht kapitalisierten Bereich. Wenn dieser aufgebraucht ist, bricht das System zusammen."
+      },
+      {
+        "titel": "Massenstreik als revolutionaere Praxis",
+        "beschreibung": "Der politische Massenstreik ist das zentrale Mittel der Arbeiterklasse im revolutionaeren Kampf. Er entsteht spontan aus den Kaempfen der Massen und laesst sich nicht von oben verordnen. Die lebendige Bewegung der Massen ist wichtiger als die Parteibuerokratie."
+      },
+      {
+        "titel": "Revolutionaere Demokratie",
+        "beschreibung": "Sozialismus ohne Demokratie ist undenkbar. Luxemburg kritisierte Lenins Parteidiktatur und betonte, dass die Freiheit der Andersdenkenden die Grundlage jeder echten sozialistischen Gesellschaft sein muss. Revolution und Demokratie gehoeren untrennbar zusammen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Akkumulation des Kapitals",
+        "jahr": "1913",
+        "beschreibung": "Luxemburgs oekonomisches Hauptwerk, das die Notwendigkeit des Imperialismus fuer die Aufrechterhaltung der kapitalistischen Akkumulation analysiert."
+      },
+      {
+        "titel": "Massenstreik, Partei und Gewerkschaften",
+        "jahr": "1906",
+        "beschreibung": "Eine Analyse der russischen Revolution von 1905 und eine Theorie des politischen Massenstreiks als spontaner revolutionaerer Praxis."
+      },
+      {
+        "titel": "Die russische Revolution",
+        "jahr": "1922",
+        "beschreibung": "Eine kritische Auseinandersetzung mit der Oktoberrevolution, die deren Errungenschaften anerkennt, aber die Unterdrueckung der Demokratie durch die Bolschewiki scharf kritisiert."
+      },
+      {
+        "titel": "Sozialreform oder Revolution?",
+        "jahr": "1899",
+        "beschreibung": "Eine Polemik gegen Eduard Bernsteins Revisionismus, die die Notwendigkeit der Revolution gegenueber blosser Reform verteidigt."
+      }
+    ]
+  }
 }

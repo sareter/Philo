@@ -11,14 +11,50 @@
     "Pluralität, Fragmentierung und Differenz sind positiv zu bewerten, nicht als Defizite gegenüber einer verlorenen Einheit.",
     "Philosophie sollte Gespräch und Verständigung fördern, nicht nach letzten Wahrheiten suchen."
   ],
-  "hauptvertreter": ["friedrich-nietzsche"],
+  "hauptvertreter": [
+    "friedrich-nietzsche"
+  ],
   "entstehung": "Der Postmodernismus entstand in den 1960er und 1970er Jahren als Reaktion auf die Erschöpfung der modernistischen Avantgarden und die politischen Enttäuschungen der Nachkriegszeit. Lyotards La condition postmoderne (1979) gab der Bewegung ihre philosophische Grundlage. Intellektuell war der Postmodernismus vorbereitet durch Nietzsche, Heidegger und die Poststrukturalisten. Er wurde in den 1980er und 1990er Jahren zur dominierenden kulturellen Strömung in der westlichen Welt.",
   "kritik": "Der Postmodernismus wurde von vielen Seiten heftig kritisiert. Jürgen Habermas verteidigte das unvollendete Projekt der Moderne und warf den Postmodernisten vor, die Vernunft vorschnell aufzugeben. Marxisten wie Terry Eagleton kritisieren den Postmodernismus als Ideologie des Spätkapitalismus, die politischen Widerstand durch Relativismus und Ironie untergräbt. Naturwissenschaftler und analytische Philosophen werfen dem Postmodernismus Irrationalismus, Relativismus und intellektuelle Unredlichkeit vor. Die Sokal-Affäre (1996) entblößte die fehlende wissenschaftliche Strenge mancher postmoderner Texte. Feministinnen wie Nancy Fraser kritisieren, dass die postmoderne Ablehnung universaler Normen die Grundlage für emanzipatorische Politik untergräbt.",
-  "verwandteIsmen": ["poststrukturalismus", "dekonstruktivismus", "relativismus", "pragmatismus"],
+  "verwandteIsmen": [
+    "poststrukturalismus",
+    "dekonstruktivismus",
+    "relativismus",
+    "pragmatismus"
+  ],
   "schluesselwerke": [
-    { "titel": "La condition postmoderne", "autor": "Jean-François Lyotard", "jahr": "1979" },
-    { "titel": "Simulacres et Simulation", "autor": "Jean Baudrillard", "jahr": "1981" },
-    { "titel": "Kontingenz, Ironie und Solidarität", "autor": "Richard Rorty", "jahr": "1989" },
-    { "titel": "Postmodernism, or, The Cultural Logic of Late Capitalism", "autor": "Fredric Jameson", "jahr": "1991" }
-  ]
+    {
+      "titel": "La condition postmoderne",
+      "autor": "Jean-François Lyotard",
+      "jahr": "1979"
+    },
+    {
+      "titel": "Simulacres et Simulation",
+      "autor": "Jean Baudrillard",
+      "jahr": "1981"
+    },
+    {
+      "titel": "Kontingenz, Ironie und Solidarität",
+      "autor": "Richard Rorty",
+      "jahr": "1989"
+    },
+    {
+      "titel": "Postmodernism, or, The Cultural Logic of Late Capitalism",
+      "autor": "Fredric Jameson",
+      "jahr": "1991"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Postmodernismus ist eine vielfaeltige intellektuelle Stroemung, die die Grundannahmen der Moderne – universelle Vernunft, Fortschritt, objektive Wahrheit und grosse Erzaehlungen – in Frage stellt.",
+    "ausfuehrlicheBeschreibung": "Der Postmodernismus ist eine der umfassendsten und zugleich umstrittensten intellektuellen Bewegungen der zweiten Haelfte des 20. Jahrhunderts. Er durchdringt Philosophie, Kunst, Architektur, Literatur, Film und die Geistes- und Sozialwissenschaften.\n\nDer Begriff postmodern wurde in verschiedenen Kontexten verwendet, bevor Jean-François Lyotard (1924-1998) ihn in La condition postmoderne (1979) philosophisch praegte. Lyotards beruehmte Definition lautet: Postmodern ist die Skepsis gegenueber den grossen Erzaehlungen (grands récits). Die Moderne legitimierte sich durch universale Fortschrittserzaehlungen – die Emanzipation des Subjekts durch Aufklaerung, die Verwirklichung des Geistes bei Hegel, die Befreiung des Proletariats bei Marx. Diese grossen Erzaehlungen haben nach Lyotard ihre Glaubwuerdigkeit verloren. An ihre Stelle tritt eine Pluralitaet kleiner Erzaehlungen (petits récits), die keine universale Gueltigkeit beanspruchen.\n\nJean Baudrillard (1929-2007) analysierte die postmoderne Kultur als Welt der Simulakren – Zeichen ohne Original, Kopien ohne Vorlage. In der medialen Hyperrealitaet, so Baudrillard, haben die Zeichen jeden Bezug zur Wirklichkeit verloren und kreisen nur noch um sich selbst. Der Golfkrieg fand nicht statt – was wir erlebten, war ein mediales Spektakel, nicht der Krieg selbst.",
+    "kernthesen": [
+      "Die grossen Erzaehlungen der Moderne (Aufklaerung, Fortschritt, Emanzipation) haben ihre Glaubwuerdigkeit verloren (Lyotard).",
+      "Es gibt keine objektive, universale Wahrheit, sondern nur Perspektiven, Interpretationen und Erzaehlungen.",
+      "Die Unterscheidung zwischen Original und Kopie, Wirklichkeit und Simulation ist zusammengebrochen (Baudrillard).",
+      "Pluralitaet, Fragmentierung und Differenz sind positiv zu bewerten, nicht als Defizite gegenueber einer verlorenen Einheit.",
+      "Philosophie sollte Gespraech und Verstaendigung foerdern, nicht nach letzten Wahrheiten suchen."
+    ],
+    "entstehung": "Der Postmodernismus entstand in den 1960er und 1970er Jahren als Reaktion auf die Erschoepfung der modernistischen Avantgarden und die politischen Enttaeuschungen der Nachkriegszeit. Lyotards La condition postmoderne (1979) gab der Bewegung ihre philosophische Grundlage. Intellektuell war der Postmodernismus vorbereitet durch Nietzsche, Heidegger und die Poststrukturalisten. Er wurde in den 1980er und 1990er Jahren zur dominierenden kulturellen Stroemung in der westlichen Welt.",
+    "kritik": "Der Postmodernismus wurde von vielen Seiten heftig kritisiert. Juergen Habermas verteidigte das unvollendete Projekt der Moderne und warf den Postmodernisten vor, die Vernunft vorschnell aufzugeben. Marxisten wie Terry Eagleton kritisieren den Postmodernismus als Ideologie des Spaetkapitalismus, die politischen Widerstand durch Relativismus und Ironie untergraebt."
+  }
 }

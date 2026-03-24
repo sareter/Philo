@@ -11,14 +11,50 @@
     "Geschlecht ist performativ – es wird durch wiederholte Handlungen hergestellt, nicht durch Natur vorgegeben (Butler).",
     "Verschiedene Formen der Unterdrückung (Geschlecht, Rasse, Klasse) sind intersektional verschränkt."
   ],
-  "hauptvertreter": ["jean-paul-sartre"],
+  "hauptvertreter": [
+    "jean-paul-sartre"
+  ],
   "entstehung": "Die philosophischen Wurzeln des Feminismus reichen bis zu Christine de Pizan und Mary Wollstonecraft zurück. Die erste Welle des Feminismus im 19. und frühen 20. Jahrhundert kämpfte für das Frauenwahlrecht. Die zweite Welle ab den 1960er Jahren, ausgelöst durch Beauvoirs Das andere Geschlecht und Friedans The Feminine Mystique, machte die Geschlechterfrage zum zentralen philosophischen Thema. Die dritte Welle ab den 1990er Jahren, geprägt durch Butler und den Intersektionalismus, dekonstruierte die Kategorie Geschlecht selbst.",
   "kritik": "Konservative kritisieren den Feminismus dafür, natürliche Geschlechterunterschiede zu leugnen und die Familie als Institution zu untergraben. Butlers Dekonstruktion der Geschlechterkategorien wird kritisiert, weil sie die leibliche Erfahrung und die biologische Realität der Geschlechterdifferenz ignoriert. Materialistische Feministinnen werfen Butler vor, Geschlecht auf Sprache und Performanz zu reduzieren und die materiellen Bedingungen der Unterdrückung zu vernachlässigen. Feministinnen aus dem globalen Süden kritisieren den westlichen Feminismus als kulturimperialistisch. Einige Philosophen argumentieren, dass der Feminismus als politische Bewegung die Objektivität philosophischer Analyse beeinträchtigt. Die Frage, ob es eine spezifisch weibliche Moral gibt, ist auch innerhalb des Feminismus umstritten.",
-  "verwandteIsmen": ["existenzialismus", "poststrukturalismus", "marxismus", "humanismus"],
+  "verwandteIsmen": [
+    "existenzialismus",
+    "poststrukturalismus",
+    "marxismus",
+    "humanismus"
+  ],
   "schluesselwerke": [
-    { "titel": "Das andere Geschlecht", "autor": "Simone de Beauvoir", "jahr": "1949" },
-    { "titel": "A Vindication of the Rights of Woman", "autor": "Mary Wollstonecraft", "jahr": "1792" },
-    { "titel": "Gender Trouble", "autor": "Judith Butler", "jahr": "1990" },
-    { "titel": "In a Different Voice", "autor": "Carol Gilligan", "jahr": "1982" }
-  ]
+    {
+      "titel": "Das andere Geschlecht",
+      "autor": "Simone de Beauvoir",
+      "jahr": "1949"
+    },
+    {
+      "titel": "A Vindication of the Rights of Woman",
+      "autor": "Mary Wollstonecraft",
+      "jahr": "1792"
+    },
+    {
+      "titel": "Gender Trouble",
+      "autor": "Judith Butler",
+      "jahr": "1990"
+    },
+    {
+      "titel": "In a Different Voice",
+      "autor": "Carol Gilligan",
+      "jahr": "1982"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der philosophische Feminismus analysiert die Unterdrueckung von Frauen als philosophisches Problem und entwickelt Theorien zur Geschlechtergerechtigkeit.",
+    "ausfuehrlicheBeschreibung": "Der philosophische Feminismus ist eine vielfaeltige intellektuelle Stroemung, die die Unterdrueckung und Benachteiligung von Frauen als philosophisches Problem analysiert, die maennliche Praegung der philosophischen Tradition aufdeckt und Theorien fuer eine geschlechtergerechte Gesellschaft entwickelt.\n\nDie Wurzeln der feministischen Philosophie reichen bis in die Fruehe Neuzeit zurueck. Christine de Pizan (1364-1430) verteidigte im Buch von der Stadt der Frauen die Faehigkeiten und Verdienste von Frauen gegen die frauenfeindliche Tradition. Mary Wollstonecraft (1759-1797) forderte in A Vindication of the Rights of Woman (1792) die Gleichberechtigung der Frauen auf der Grundlage der aufklaererischen Vernunftidee. John Stuart Mill argumentierte in The Subjection of Women (1869) fuer die politische und rechtliche Gleichstellung der Geschlechter.\n\nSimone de Beauvoir (1908-1986) legte mit Das andere Geschlecht (1949) das Fundament der modernen feministischen Philosophie. Ihr beruehmter Satz Man wird nicht als Frau geboren, man wird dazu gemacht unterscheidet zwischen dem biologischen Geschlecht (sex) und dem sozialen Geschlecht (gender) und zeigt, dass Weiblichkeit kein Naturschicksal, sondern eine soziale Konstruktion ist. Beauvoir analysiert, wie die Frau in der patriarchalen Kultur zum Anderen gemacht wird – zum Objekt des maennlichen Blicks, definiert durch ihre Beziehung zum Mann.",
+    "kernthesen": [
+      "Man wird nicht als Frau geboren, man wird dazu gemacht – Geschlecht ist (auch) eine soziale Konstruktion.",
+      "Die philosophische Tradition ist maennlich gepraegt und muss einer feministischen Kritik unterzogen werden.",
+      "Das Patriarchat ist ein umfassendes System der Geschlechterherrschaft, das alle Lebensbereiche durchdringt.",
+      "Geschlecht ist performativ – es wird durch wiederholte Handlungen hergestellt, nicht durch Natur vorgegeben (Butler).",
+      "Verschiedene Formen der Unterdrueckung (Geschlecht, Rasse, Klasse) sind intersektional verschraenkt."
+    ],
+    "entstehung": "Die philosophischen Wurzeln des Feminismus reichen bis zu Christine de Pizan und Mary Wollstonecraft zurueck. Die erste Welle des Feminismus im 19. und fruehen 20. Jahrhundert kaempfte fuer das Frauenwahlrecht. Die zweite Welle ab den 1960er Jahren, ausgeloest durch Beauvoirs Das andere Geschlecht und Friedans The Feminine Mystique, machte die Geschlechterfrage zum zentralen philosophischen Thema. Die dritte Welle ab den 1990er Jahren, gepraegt durch Butler und den Intersektionalismus, dekonstruierte die Kategorie Geschlecht selbst.",
+    "kritik": "Konservative kritisieren den Feminismus dafuer, natuerliche Geschlechterunterschiede zu leugnen und die Familie als Institution zu untergraben. Butlers Dekonstruktion der Geschlechterkategorien wird kritisiert, weil sie die leibliche Erfahrung und die biologische Realitaet der Geschlechterdifferenz ignoriert. Materialistische Feministinnen werfen Butler vor, Geschlecht auf Sprache und Performanz zu reduzieren und die materiellen Bedingungen der Unterdrueckung zu vernachlaessigen."
+  }
 }

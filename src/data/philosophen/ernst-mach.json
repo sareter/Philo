@@ -76,5 +76,46 @@
     }
   ],
   "verwandtePhilosophen": ["moritz-schlick", "ludwig-wittgenstein", "david-hume"],
-  "verwandteIsmen": ["positivismus", "empirismus"]
+  "verwandteIsmen": ["positivismus", "empirismus"],
+  "einfach": {
+    "kurzbeschreibung": "Ernst Mach war ein Physiker und Philosoph, der glaubte, dass nur das real ist, was wir mit unseren Sinnen wahrnehmen koennen. Die Mach-Zahl in der Luftfahrt ist nach ihm benannt.",
+    "biografie": {
+      "fruehesLeben": "Mach wurde 1838 in Maehren (heute Tschechien) geboren und studierte Physik und Mathematik in Wien.",
+      "schaffen": "Er war sowohl als Physiker als auch als Philosoph wichtig. In der Physik ist die Mach-Zahl nach ihm benannt. Philosophisch vertrat er einen radikalen Standpunkt: Nur was wir mit den Sinnen wahrnehmen koennen, ist real. Sogar das 'Ich' ist keine feste Sache, sondern nur ein Buendel von Empfindungen.",
+      "spaetesLeben": "Er wurde Professor fuer Philosophie in Wien. Ein Schlaganfall 1901 beeintraechtigte ihn, aber er arbeitete trotzdem weiter.",
+      "tod": "Mach starb 1916 in der Naehe von Muenchen. Er erlebte nicht mehr, wie seine Ideen den logischen Positivismus und Einsteins Relativitaetstheorie beeinflussten.",
+      "nachwirkung": "Seine Philosophie war ein Wegbereiter fuer Einstein und den Wiener Kreis. Der Wiener Kreis nannte sich anfangs sogar 'Ernst-Mach-Verein'."
+    },
+    "kernideen": [
+      {
+        "titel": "Elementenlehre",
+        "beschreibung": "Alles, was existiert, besteht letztlich aus Sinnesempfindungen: Farben, Toene, Druckgefuehle. Sogar das 'Ich' ist nur ein Buendel solcher Empfindungen."
+      },
+      {
+        "titel": "Denkoekonomie",
+        "beschreibung": "Wissenschaft sucht nicht nach einer verborgenen Wahrheit, sondern ordnet unsere Erfahrungen moeglichst einfach und effizient. Theorien sind Werkzeuge, keine Abbilder der Natur."
+      },
+      {
+        "titel": "Kritik der Mechanik",
+        "beschreibung": "Newtons Begriffe wie 'absoluter Raum' und 'absolute Zeit' sind Erfindungen ohne echte Grundlage in der Erfahrung. Diese Kritik inspirierte Einstein zur Relativitaetstheorie."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Die Analyse der Empfindungen",
+        "jahr": "1886",
+        "beschreibung": "Sein Hauptwerk, das die gesamte Wirklichkeit auf Sinnesempfindungen zurueckfuehrt."
+      },
+      {
+        "titel": "Die Mechanik in ihrer Entwicklung",
+        "jahr": "1883",
+        "beschreibung": "Eine kritische Geschichte der Mechanik, die Newtons absolute Konzepte in Frage stellt und Einstein inspirierte."
+      },
+      {
+        "titel": "Erkenntnis und Irrtum",
+        "jahr": "1905",
+        "beschreibung": "Eine Sammlung von Aufsaetzen, die seine empiristische Wissenschaftsphilosophie zusammenfasst."
+      }
+    ]
+  }
 }

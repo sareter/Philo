@@ -19,5 +19,18 @@
     { "titel": "Kritik der reinen Vernunft", "autor": "Immanuel Kant", "jahr": "1781" },
     { "titel": "Agnosticism and Christianity", "autor": "Thomas Henry Huxley", "jahr": "1889" },
     { "titel": "Why I Am Not a Christian", "autor": "Bertrand Russell", "jahr": "1927" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Agnostizismus sagt: Ob Gott existiert oder nicht, koennen wir nicht wissen. Statt sich fuer eine Seite zu entscheiden, bleibt man ehrlich und sagt: Ich weiss es nicht.",
+    "ausfuehrlicheBeschreibung": "Glaeubige sagen: Gott existiert. Atheisten sagen: Gott existiert nicht. Agnostiker sagen: Wir koennen das weder beweisen noch widerlegen -- also sollten wir ehrlich sein und zugeben, dass wir es nicht wissen. Das ist keine Feigheit, sondern intellektuelle Ehrlichkeit.\n\nDer Begriff wurde 1869 vom Biologen Thomas Huxley erfunden. Aber die Idee ist viel aelter. Schon Kant zeigte, dass unser Verstand an Grenzen stoesst: Wir koennen nur das erkennen, was wir erfahren koennen. Ob es einen Gott gibt, liegt jenseits unserer Erfahrung -- also koennen wir dazu nichts Sicheres sagen. Der Philosoph Bertrand Russell brachte es auf den Punkt: Wenn jemand behauptet, irgendwo im All schwebe eine Teekanne, muss er das beweisen -- nicht ich.\n\nEs gibt verschiedene Varianten. Manche Agnostiker sagen: Vielleicht wissen wir es irgendwann. Andere sagen: Wir werden es nie wissen koennen. Manche tendieren eher zum Glauben, andere eher zum Unglauben -- aber alle sind sich einig, dass absolute Sicherheit in dieser Frage nicht moeglich ist.",
+    "kernthesen": [
+      "Ob Gott existiert oder nicht, koennen wir mit unserem Verstand nicht sicher beantworten.",
+      "Weder blinder Glaube noch dogmatischer Atheismus sind intellektuell ehrlich.",
+      "Unser Wissen hat Grenzen -- und die sollten wir respektieren, statt so zu tun, als wuessten wir alles.",
+      "Wer etwas behauptet, muss es beweisen -- nicht der Skeptiker.",
+      "Agnostizismus ist kein Nichtwissen, sondern eine Haltung der Ehrlichkeit."
+    ],
+    "entstehung": "Thomas Huxley praegte den Begriff 1869 in einer Zeit, als die Evolutionstheorie den Gottesglauben erschuetterte. Aber schon in der Antike gab es Denker, die in Goetterfragen lieber schwiegen, und Kant zeigte im 18. Jahrhundert, dass Gottesbeweise nicht funktionieren.",
+    "kritik": "Glaeubige sagen, Agnostizismus sei Feigheit -- bei so einer wichtigen Frage muesse man sich entscheiden. Atheisten wie Richard Dawkins meinen, die Wahrscheinlichkeit fuer Gott sei so gering, dass Agnostizismus uebertrieben vorsichtig sei. Und Praktiker fragen: Wenn du nicht weisst, ob Gott existiert, wie lebst du dann konkret?"
+  }
 }

@@ -11,13 +11,44 @@
     "Technologie ist nicht Gegensatz zum Menschen, sondern konstitutiver Teil seiner Existenz.",
     "Eine posthumanistische Subjektivität ist relational, verkörpert und in materielle Prozesse eingebettet."
   ],
-  "hauptvertreter": ["michel-foucault"],
+  "hauptvertreter": [
+    "michel-foucault"
+  ],
   "entstehung": "Der Posthumanismus entwickelte sich ab den 1990er Jahren aus verschiedenen Quellen: Foucaults Kritik des Subjekts, Haraways Cyborg-Manifest (1985), der Dekonstruktion und den Science and Technology Studies. Rosi Braidottis 'The Posthuman' (2013) formulierte ein systematisches posthumanistisches Programm.",
   "kritik": "Kritiker werfen dem Posthumanismus vor, die Errungenschaften des Humanismus – Menschenrechte, Würde, Gleichheit – leichtfertig aufzugeben. Zudem wird bemängelt, dass die Auflösung des menschlichen Subjekts gerade in einer Zeit problematisch sei, in der marginalisierte Gruppen erst um ihre Anerkennung als vollwertige Subjekte kämpfen.",
-  "verwandteIsmen": ["transhumanismus", "neuer-materialismus", "kritischer-posthumanismus"],
+  "verwandteIsmen": [
+    "transhumanismus",
+    "neuer-materialismus",
+    "kritischer-posthumanismus"
+  ],
   "schluesselwerke": [
-    {"titel": "The Posthuman", "autor": "Rosi Braidotti", "jahr": "2013"},
-    {"titel": "Ein Manifest für Cyborgs", "autor": "Donna Haraway", "jahr": "1985"},
-    {"titel": "What Is Posthumanism?", "autor": "Cary Wolfe", "jahr": "2010"}
-  ]
+    {
+      "titel": "The Posthuman",
+      "autor": "Rosi Braidotti",
+      "jahr": "2013"
+    },
+    {
+      "titel": "Ein Manifest für Cyborgs",
+      "autor": "Donna Haraway",
+      "jahr": "1985"
+    },
+    {
+      "titel": "What Is Posthumanism?",
+      "autor": "Cary Wolfe",
+      "jahr": "2010"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Posthumanismus hinterfragt die zentrale Stellung des Menschen in der Philosophie und fordert ein Denken, das die Grenzen zwischen Mensch, Tier, Maschine und Umwelt neu verhandelt.",
+    "ausfuehrlicheBeschreibung": "Der Posthumanismus ist eine philosophische Stroemung der Gegenwart, die das humanistische Menschenbild der westlichen Tradition grundlegend in Frage stellt. Er argumentiert, dass die Vorstellung eines autonomen, rationalen Subjekts – des 'Menschen' der Aufklaerung – historisch und politisch konstruiert ist und andere Lebensformen, Technologien und Materialitaeten systematisch abwertet. Foucaults beruehmte Diagnose vom 'Tod des Menschen' als einer Erfindung juengsten Datums bildet einen wichtigen Ausgangspunkt dieser Denkbewegung.\n\nRosi Braidotti, Donna Haraway und Cary Wolfe gehoeren zu den wichtigsten Vertreterinnen und Vertretern des Posthumanismus. Braidotti entwirft eine affirmative posthumanistische Ethik, die auf Spinozas und Deleuzes Immanenzdenken aufbaut. Haraway hat mit dem Cyborg-Manifest die Grenze zwischen Mensch und Maschine als politisch verhandelbar gezeigt. Wolfe analysiert, wie der Humanismus durch den Ausschluss des Tierlichen seine Identitaet konstruiert hat.\n\nDer Posthumanismus hat weitreichende Konsequenzen fuer Ethik, Politik und Technologiephilosophie. Er fordert die Anerkennung nicht-menschlicher Handlungsfaehigkeit, eine neue Beziehung zur Technologie und die Ueberwindung des anthropozentrischen Denkens. In Zeiten von Klimakrise, kuenstlicher Intelligenz und Biotechnologie bietet er Werkzeuge zur Neubestimmung des Verhaeltnisses zwischen Mensch, Natur und Technik.",
+    "kernthesen": [
+      "Das humanistische Menschenbild ist eine historisch-politische Konstruktion, keine universale Wahrheit.",
+      "Die Grenzen zwischen Mensch, Tier, Maschine und Umwelt sind durchlaessig und verhandelbar.",
+      "Der Anthropozentrismus muss zugunsten einer Ethik ueberwunden werden, die alle Lebensformen einbezieht.",
+      "Technologie ist nicht Gegensatz zum Menschen, sondern konstitutiver Teil seiner Existenz.",
+      "Eine posthumanistische Subjektivitaet ist relational, verkoerpert und in materielle Prozesse eingebettet."
+    ],
+    "entstehung": "Der Posthumanismus entwickelte sich ab den 1990er Jahren aus verschiedenen Quellen: Foucaults Kritik des Subjekts, Haraways Cyborg-Manifest (1985), der Dekonstruktion und den Science and Technology Studies. Rosi Braidottis 'The Posthuman' (2013) formulierte ein systematisches posthumanistisches Programm.",
+    "kritik": "Kritiker werfen dem Posthumanismus vor, die Errungenschaften des Humanismus – Menschenrechte, Wuerde, Gleichheit – leichtfertig aufzugeben. Zudem wird bemaengelt, dass die Aufloesung des menschlichen Subjekts gerade in einer Zeit problematisch sei, in der marginalisierte Gruppen erst um ihre Anerkennung als vollwertige Subjekte kaempfen."
+  }
 }

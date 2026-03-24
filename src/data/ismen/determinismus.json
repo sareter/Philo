@@ -19,5 +19,18 @@
     { "titel": "Ethik", "autor": "Baruch de Spinoza", "jahr": "1677" },
     { "titel": "Essai philosophique sur les probabilités", "autor": "Pierre-Simon Laplace", "jahr": "1814" },
     { "titel": "Elbow Room: The Varieties of Free Will Worth Wanting", "autor": "Daniel Dennett", "jahr": "1984" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Determinismus bedeutet: Alles, was passiert, hat eine Ursache, die es unvermeidlich macht. Auch deine Entscheidungen sind demnach durch vorherige Ereignisse festgelegt.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, das Universum waere wie eine riesige Kettenreaktion aus Dominosteinen. Der erste Stein faellt, und alles Weitere passiert automatisch. Der Determinismus sagt genau das: Jedes Ereignis ist die zwingende Folge von dem, was vorher passiert ist. Wenn du dich fuer Pizza statt Pasta entscheidest, war das laut Determinismus schon durch dein Gehirn, deine Erfahrungen und die Naturgesetze festgelegt.\n\nDie Idee ist uralt. Schon die alten Griechen, besonders die Stoiker, glaubten an ein Schicksal, das alles bestimmt. Spaeter kam die Physik dazu: Isaac Newton zeigte, dass die Natur nach festen Gesetzen funktioniert. Ein Wissenschaftler namens Laplace meinte sogar, eine superkluge Intelligenz koennte die gesamte Zukunft berechnen, wenn sie alle aktuellen Fakten kennt.\n\nDas fuehrt zu einer grossen Frage: Wenn alles vorherbestimmt ist, hast du dann wirklich einen freien Willen? Manche sagen nein, andere meinen, Freiheit bedeutet einfach, nach den eigenen Wuenschen handeln zu koennen, auch wenn diese Wuensche selbst bestimmt sind. Die Quantenphysik hat die Sache nochmal komplizierter gemacht, weil auf kleinster Ebene echte Zufaelle passieren koennten.",
+    "kernthesen": [
+      "Alles, was passiert, wird durch vorherige Ursachen und Naturgesetze bestimmt.",
+      "Wenn man alles ueber den aktuellen Zustand der Welt wuesste, koennte man die Zukunft berechnen.",
+      "Auch menschliche Entscheidungen sind genauso festgelegt wie alles andere in der Natur.",
+      "Wenn alles vorherbestimmt ist, muss man die Frage nach Schuld und Verantwortung neu stellen.",
+      "Ob freier Wille und Determinismus zusammenpassen, ist eine der groessten Fragen der Philosophie."
+    ],
+    "entstehung": "Schon in der griechischen Antike dachten Philosophen wie Demokrit und die Stoiker, dass alles in der Welt nach festen Regeln ablaeuft. Spaeter gab Newtons Physik dieser Idee eine wissenschaftliche Grundlage. Seitdem wird darueber gestritten, ob das auch fuer menschliche Entscheidungen gilt.",
+    "kritik": "Wenn alles vorherbestimmt ist, kann man niemandem wirklich Schuld geben oder jemanden loben, und das fuehlt sich falsch an. Ausserdem zeigt die Quantenphysik, dass es auf kleinster Ebene echten Zufall geben koennte, was den Determinismus zumindest teilweise infrage stellt."
+  }
 }

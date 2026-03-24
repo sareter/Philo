@@ -18,7 +18,10 @@
   },
   "epoche": "Renaissance",
   "region": "Asien",
-  "hauptstroemungen": ["Konfuzianismus", "Idealismus"],
+  "hauptstroemungen": [
+    "Konfuzianismus",
+    "Idealismus"
+  ],
   "kurzbeschreibung": "Wang Yangming war einer der bedeutendsten chinesischen Philosophen der Ming-Dynastie und Begründer der Schule des Geistes (Xinxue). Er lehrte die Einheit von Wissen und Handeln und vertrat die Ansicht, dass moralisches Wissen dem menschlichen Geist angeboren ist. Sein Denken beeinflusste nicht nur die chinesische, sondern auch die japanische und koreanische Philosophie nachhaltig.",
   "biografie": {
     "fruehesLeben": "Wang Yangming wurde 1472 in Yuyao in der Provinz Zhejiang geboren und stammte aus einer gelehrten Beamtenfamilie. Bereits in jungen Jahren zeigte er ein leidenschaftliches Interesse an Philosophie, Militärstrategie und Literatur. Nach dem Bestehen der kaiserlichen Prüfungen begann er eine Karriere als Beamter.",
@@ -76,6 +79,57 @@
       "quelle": "Aufzeichnungen der Übung"
     }
   ],
-  "verwandtePhilosophen": ["konfuzius", "laozi"],
-  "verwandteIsmen": ["konfuzianismus", "idealismus"]
+  "verwandtePhilosophen": [
+    "konfuzius",
+    "laozi"
+  ],
+  "verwandteIsmen": [
+    "konfuzianismus",
+    "idealismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Wang Yangming war einer der bedeutendsten chinesischen Philosophen der Ming-Dynastie und Begruender der Schule des Geistes (Xinxue). Er lehrte die Einheit von Wissen und Handeln und vertrat die Ansicht, dass moralisches Wissen dem menschlichen Geist angeboren ist. Sein Denken beeinflusste nicht nur die chinesische, sondern auch die japanische und koreanische Philosophie nachhaltig.",
+    "biografie": {
+      "fruehesLeben": "Wang Yangming wurde 1472 in Yuyao in der Provinz Zhejiang geboren und stammte aus einer gelehrten Beamtenfamilie. Bereits in jungen Jahren zeigte er ein leidenschaftliches Interesse an Philosophie, Militaerstrategie und Literatur. Nach dem Bestehen der kaiserlichen Pruefungen begann er eine Karriere als Beamter.",
+      "schaffen": "Nach einer Phase der Verbannung in die abgelegene Provinz Guizhou erlebte Wang Yangming eine tiefe philosophische Erleuchtung, die ihn zur Lehre von der Einheit des Wissens und Handelns fuehrte. Er entwickelte seine Theorie des angeborenen moralischen Wissens (Liangzhi) als Alternative zum vorherrschenden Neokonfuzianismus Zhu Xis. Als erfolgreicher Militaerstratege und Verwaltungsbeamter bewies er die praktische Anwendbarkeit seiner Philosophie.",
+      "spaetesLeben": "In seinen letzten Jahren zog Wang Yangming zahlreiche Schueler an und gruendete eine einflussreiche philosophische Schule. Er diente weiterhin dem Kaiser in militaerischen und administrativen Funktionen. Trotz seiner Verdienste wurde er von Gegnern bei Hofe angefeindet.",
+      "tod": "Wang Yangming starb 1529 waehrend einer Militaerkampagne in Nan'an in der Provinz Jiangxi. Seine letzten Worte sollen gewesen sein: 'Mein Herz ist hell, was gibt es noch zu sagen?' Sein Tod hinterliess eine tiefe Luecke in der chinesischen Philosophie.",
+      "nachwirkung": "Wang Yangmings Philosophie wurde zur dominierenden Stroemung des spaeten chinesischen Neokonfuzianismus und beeinflusste die japanische Yōmeigaku-Schule massgeblich. Sein Denken inspirierte die Meiji-Restauration in Japan und beeinflusst bis heute ostasiatische Ethik und Paedagogik."
+    },
+    "kernideen": [
+      {
+        "titel": "Einheit von Wissen und Handeln (Zhixing Heyi)",
+        "beschreibung": "Wahres Wissen und moralisches Handeln sind untrennbar verbunden. Wer wirklich weiss, was gut ist, handelt auch entsprechend – andernfalls liegt kein echtes Wissen vor. Diese Lehre wendet sich gegen eine rein theoretische Moral, die vom Handeln abgekoppelt ist."
+      },
+      {
+        "titel": "Angeborenes moralisches Wissen (Liangzhi)",
+        "beschreibung": "Jeder Mensch besitzt ein angeborenes moralisches Wissen, das ihm ermoeglicht, Gut und Boese intuitiv zu unterscheiden. Dieses Wissen muss nicht durch aeusseres Studium erworben, sondern durch innere Kultivierung freigelegt werden. Es ist die Grundlage aller Tugend."
+      },
+      {
+        "titel": "Das Herz als Prinzip (Xin Ji Li)",
+        "beschreibung": "Das Herz-Geist (Xin) ist nicht nur Sitz der Gefuehle, sondern auch der universellen Vernunft. Die moralischen Prinzipien liegen nicht in den aeusseren Dingen, sondern im menschlichen Geist selbst. Dies steht im Gegensatz zu Zhu Xis Lehre, die das Prinzip in den Dingen verortet."
+      },
+      {
+        "titel": "Ausdehnung des angeborenen Wissens (Zhi Liangzhi)",
+        "beschreibung": "Die moralische Aufgabe des Menschen besteht darin, sein angeborenes Wissen durch taegliche Praxis und Selbstkultivierung zu erweitern und zu verwirklichen. Dies geschieht nicht durch Buecherstudium, sondern durch konkrete Lebenspraxis und die Ueberwindung egoistischer Begierden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Aufzeichnungen der Uebung (Chuanxi Lu)",
+        "jahr": "1518",
+        "beschreibung": "Wang Yangmings Hauptwerk, eine Sammlung von Dialogen und Briefen, in denen er seine Lehre von der Einheit des Wissens und Handelns sowie das angeborene moralische Wissen darlegt."
+      },
+      {
+        "titel": "Erforschung des Grossen Lernens (Daxue Wen)",
+        "jahr": "1527",
+        "beschreibung": "Ein Kommentar zum konfuzianischen Klassiker 'Das Grosse Lernen', in dem Wang Yangming seine idealistische Interpretation der konfuzianischen Tradition entfaltet."
+      },
+      {
+        "titel": "Gesammelte Schriften (Wang Wencheng Gong Quanshu)",
+        "jahr": "1572",
+        "beschreibung": "Die posthum zusammengestellte Gesamtausgabe seiner philosophischen Schriften, Briefe, Gedichte und amtlichen Dokumente."
+      }
+    ]
+  }
 }

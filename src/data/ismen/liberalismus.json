@@ -20,5 +20,18 @@
     { "titel": "On Liberty", "autor": "John Stuart Mill", "jahr": "1859" },
     { "titel": "A Theory of Justice", "autor": "John Rawls", "jahr": "1971" },
     { "titel": "The Wealth of Nations", "autor": "Adam Smith", "jahr": "1776" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Liberalismus dreht sich um individuelle Freiheit: Jeder Mensch soll selbst entscheiden koennen, wie er lebt, solange er anderen nicht schadet. Der Staat soll die Rechte der Einzelnen schuetzen, aber nicht zu viel Macht haben.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du lebst in einer Zeit, in der ein Koenig alles bestimmt -- welche Religion du haben musst, welchen Beruf du ausueben darfst, was du sagen darfst. Der Liberalismus war die Antwort darauf: Menschen haben Rechte, die niemand wegnehmen darf, auch kein Koenig. Jeder soll frei sein, sein eigenes Leben zu gestalten.\n\nDer Kern ist das sogenannte Schadensprinzip: Du darfst alles tun, solange du anderen nicht schadest. Der Staat muss aufgeteilt sein in verschiedene Gewalten (Regierung, Parlament, Gerichte), damit nicht einer allein die Macht hat. Ausserdem soll der freie Markt dafuer sorgen, dass die Wirtschaft gut laeuft -- der Staat soll sich da moeglichst raushalten. Allerdings gibt es verschiedene Spielarten: Manche Liberale finden, dass der Staat auch fuer soziale Absicherung sorgen muss, damit Freiheit nicht nur auf dem Papier steht.\n\nJohn Rawls hat sich ueberlegt: Was waere gerecht, wenn niemand wuesste, ob er reich oder arm geboren wird? Seine Antwort: Ungleichheit ist nur okay, wenn sie auch den Aermsten etwas bringt. Damit hat er den Liberalismus um eine soziale Dimension erweitert. Heute bildet der Liberalismus die Grundlage der meisten westlichen Demokratien.",
+    "kernthesen": [
+      "Jeder Mensch hat das Recht, frei zu leben, solange er anderen nicht schadet.",
+      "Alle Menschen haben Grundrechte auf Leben, Freiheit und Eigentum, die niemand wegnehmen darf.",
+      "Die Macht des Staates muss aufgeteilt und begrenzt sein, damit kein Missbrauch moeglich ist.",
+      "Ein freier Markt ist grundsaetzlich die beste Art, die Wirtschaft zu organisieren.",
+      "Ungleichheit ist nur dann in Ordnung, wenn auch die Aermsten davon profitieren."
+    ],
+    "entstehung": "Der Liberalismus entstand im 17. und 18. Jahrhundert, als Menschen gegen die Willkuer von Koenigen und Kirche aufbegehrten. Die Amerikanische und die Franzoesische Revolution setzten seine Ideen in die Praxis um. Seitdem hat er sich weiterentwickelt und in verschiedene Richtungen aufgespalten.",
+    "kritik": "Kritiker sagen, dass formale Freiheit wenig nuetzt, wenn man arm ist -- wer kein Geld hat, kann seine Freiheit kaum nutzen. Ausserdem wird kritisiert, dass der Liberalismus den Einzelnen zu wichtig nimmt und vergisst, dass Menschen auch Gemeinschaft brauchen. Historisch war der Liberalismus zudem mit Kolonialismus verbunden, was seine universellen Ansprueche fragwuerdig macht."
+  }
 }

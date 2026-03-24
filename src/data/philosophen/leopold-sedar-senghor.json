@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Afrika",
-  "hauptstroemungen": ["Humanismus"],
+  "hauptstroemungen": [
+    "Humanismus"
+  ],
   "kurzbeschreibung": "Léopold Sédar Senghor war ein senegalesischer Dichter, Philosoph und der erste Präsident des unabhängigen Senegal. Als Mitbegründer der Négritude-Bewegung formulierte er eine einflussreiche Philosophie der afrikanischen Identität und kulturellen Würde. Er war der erste Afrikaner, der in die Académie française aufgenommen wurde.",
   "biografie": {
     "fruehesLeben": "Senghor wurde 1906 in Joal, einer Küstenstadt im Senegal, in eine wohlhabende Serer-Familie geboren. Er besuchte katholische Missionsschulen und ging 1928 nach Paris, wo er an der Sorbonne und der École Normale Supérieure studierte. In Paris freundete er sich mit Aimé Césaire aus Martinique an, mit dem er die Négritude-Bewegung begründete.",
@@ -81,6 +83,62 @@
       "quelle": "Reden"
     }
   ],
-  "verwandtePhilosophen": ["kwame-nkrumah", "achille-mbembe", "jean-paul-sartre"],
-  "verwandteIsmen": ["humanismus"]
+  "verwandtePhilosophen": [
+    "kwame-nkrumah",
+    "achille-mbembe",
+    "jean-paul-sartre"
+  ],
+  "verwandteIsmen": [
+    "humanismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Léopold Sédar Senghor war ein senegalesischer Dichter, Philosoph und der erste Praesident des unabhaengigen Senegal. Als Mitbegruender der Négritude-Bewegung formulierte er eine einflussreiche Philosophie der afrikanischen Identitaet und kulturellen Wuerde. Er war der erste Afrikaner, der in die Académie française aufgenommen wurde.",
+    "biografie": {
+      "fruehesLeben": "Senghor wurde 1906 in Joal, einer Kuestenstadt im Senegal, in eine wohlhabende Serer-Familie geboren. Er besuchte katholische Missionsschulen und ging 1928 nach Paris, wo er an der Sorbonne und der École Normale Supérieure studierte. In Paris freundete er sich mit Aimé Césaire aus Martinique an, mit dem er die Négritude-Bewegung begruendete.",
+      "schaffen": "Senghor entwickelte die Philosophie der Négritude als positive Bestimmung afrikanischer Identitaet und Kultur gegen die koloniale Abwertung. Als Dichter schuf er ein Werk, das afrikanische Muendlichkeit mit franzoesischer Lyrik verband. Nach der Unabhaengigkeit des Senegal 1960 wurde er dessen erster Praesident und versuchte, seine philosophischen Ideale politisch umzusetzen.",
+      "spaetesLeben": "Senghor regierte den Senegal bis 1980 und war damit einer der wenigen afrikanischen Staatschefs, die freiwillig die Macht abgaben. Im Ruhestand widmete er sich der Literatur und dem interkulturellen Dialog. 1983 wurde er als erster Afrikaner in die Académie française gewaehlt.",
+      "tod": "Léopold Sédar Senghor starb am 20. Dezember 2001 in Verson in der Normandie im Alter von 95 Jahren. Sein Tod wurde weltweit als Verlust eines grossen Denkers und Dichters betrauert. Er hinterliess ein Vermaechtnis, das Poesie, Philosophie und Politik auf einzigartige Weise verbindet.",
+      "nachwirkung": "Senghors Négritude-Philosophie hat die afrikanische Selbstwahrnehmung und den postkolonialen Diskurs nachhaltig gepraegt. Obwohl die Négritude von spaeteren Denkern wie Soyinka und Appiah kritisiert wurde, bleibt sie ein Meilenstein im Kampf um kulturelle Anerkennung. Sein poetisches Werk gehoert zum Kanon der Weltliteratur."
+    },
+    "kernideen": [
+      {
+        "titel": "Négritude",
+        "beschreibung": "Die Négritude ist die bewusste Annahme und Feier der afrikanischen Identitaet gegen die koloniale Abwertung. Sie umfasst die Gesamtheit der kulturellen, spirituellen und aesthetischen Werte der schwarzafrikanischen Welt. Négritude ist kein Rassismus, sondern die Voraussetzung fuer einen gleichberechtigten Dialog der Kulturen."
+      },
+      {
+        "titel": "Afrikanische Vernunft",
+        "beschreibung": "Senghor unterschied eine 'afrikanische Vernunft', die intuitiv, rhythmisch und partizipativ sei, von der analytischen europaeischen Rationalitaet. Diese Unterscheidung wurde spaeter kritisiert, doch Senghor sah darin keinen Gegensatz, sondern eine Ergaenzung im universellen Humanismus."
+      },
+      {
+        "titel": "Zivilisation des Universellen",
+        "beschreibung": "Das Ziel der Geschichte ist eine universelle Zivilisation, in der alle Kulturen gleichberechtigt beitragen. Die Négritude ist der spezifisch afrikanische Beitrag zu diesem universellen Humanismus. Keine Kultur besitzt die ganze Wahrheit."
+      },
+      {
+        "titel": "Métissage culturel (Kulturelle Vermischung)",
+        "beschreibung": "Die Begegnung der Kulturen fuehrt zu einer kreativen Vermischung, die neue Formen hervorbringt. Senghor sah den Senegal und sich selbst als Beispiel fuer diese fruchtbare Synthese afrikanischer und europaeischer Traditionen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Chants d'Ombre (Schattengesaenge)",
+        "jahr": "1945",
+        "beschreibung": "Senghors erster Gedichtband, der afrikanische Kindheitserinnerungen, koloniale Erfahrungen und die Sehnsucht nach kultureller Identitaet verbindet."
+      },
+      {
+        "titel": "Anthologie de la nouvelle poésie nègre et malgache",
+        "jahr": "1948",
+        "beschreibung": "Die von Senghor herausgegebene Anthologie schwarzer Dichtung mit einem beruehmten Vorwort von Jean-Paul Sartre ('Schwarzer Orpheus'), die die Négritude-Bewegung einem breiten Publikum bekannt machte."
+      },
+      {
+        "titel": "Nation und afrikanischer Weg zum Sozialismus",
+        "jahr": "1961",
+        "beschreibung": "Senghors politisch-philosophisches Hauptwerk, in dem er einen afrikanischen Sozialismus entwirft, der auf Gemeinschaftswerten statt auf Klassenkampf beruht."
+      },
+      {
+        "titel": "Liberté (5 Baende)",
+        "jahr": "1964–1992",
+        "beschreibung": "Die gesammelten Essays und Reden Senghors zu Négritude, Kultur, Politik und Humanismus."
+      }
+    ]
+  }
 }

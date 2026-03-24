@@ -19,5 +19,18 @@
     {"titel": "Kritik der Urteilskraft", "autor": "Immanuel Kant", "jahr": "1790"},
     {"titel": "Gedanken über die Nachahmung der Griechischen Werke", "autor": "Johann Joachim Winckelmann", "jahr": "1755"},
     {"titel": "Über die ästhetische Erziehung des Menschen", "autor": "Friedrich Schiller", "jahr": "1795"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Klassizismus orientiert sich an der Kunst und Philosophie der griechisch-roemischen Antike. Er liebt Harmonie, Klarheit und zeitlose Schoenheit und glaubt, dass die Antike ein Vorbild fuer alle Zeiten ist.",
+    "ausfuehrlicheBeschreibung": "Im 18. Jahrhundert haben Kuenstler und Philosophen die Antike neu entdeckt und gesagt: Die alten Griechen und Roemer haben es am besten gemacht. Ihre Kunst war klar, harmonisch und masssvoll. Der Klassizismus wollte zurueck zu diesen Idealen und weg vom ueberladenen Barock. Winckelmann praegte den beruemten Ausdruck edle Einfalt und stille Groesse als Beschreibung des antiken Ideals.\n\nKant hat die philosophische Grundlage geliefert. Er fragte: Warum finden wir manche Dinge schoen, und warum sind wir uns da oft einig? Seine Antwort: Schoenheit hat mit einer besonderen Art von Wohlgefallen zu tun, das nicht an persoenliche Interessen geknuepft ist. Wenn du etwas schoen findest, dann nicht weil es dir nuetzt, sondern weil es eine innere Stimmigkeit hat. Goethe und Schiller haben dann gesagt: Kunst kann den Menschen besser machen, sie erzieht ihn zu Harmonie und Menschlichkeit.\n\nHeute wird der Klassizismus als historische Epoche gewuerdigt, aber auch kritisch gesehen. Die Antike, die er idealisierte, war in Wirklichkeit viel bunter und wilder als das Bild, das er von ihr malte. Und seine Schoenheitsideale waren sehr europaeisch und schlossen andere Kulturen aus.",
+    "kernthesen": [
+      "Die griechisch-roemische Antike liefert zeitlose Vorbilder fuer Schoenheit und Kunst.",
+      "Harmonie, Klarheit und Mass sind die hoechsten aesthetischen Prinzipien.",
+      "Das Schoenheitsurteil beansprucht Allgemeingueltigkeit, obwohl es auf Gefuehl beruht.",
+      "Kunst soll den Menschen moralisch veredeln und zur Menschlichkeit erziehen.",
+      "Edle Einfalt und stille Groesse ist das Ideal kuenstlerischer Vollendung."
+    ],
+    "entstehung": "Der Klassizismus entstand Mitte des 18. Jahrhunderts, angeregt durch Winckelmanns Begeisterung fuer die griechische Kunst und durch Ausgrabungen antiker Staedte. Kant lieferte die philosophische Theorie dazu, Goethe und Schiller praegten den Klassizismus in der deutschen Literatur.",
+    "kritik": "Kritiker sagen, der Klassizismus habe ein idealisiertes Bild der Antike konstruiert, das mit der Realitaet wenig zu tun hatte. Seine Schoenheitsstandards sind eurozentrisch und schliessen andere Kunsttraditionen aus. Ausserdem wird formale Perfektion oft ueber emotionale Tiefe gestellt."
+  }
 }

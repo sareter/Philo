@@ -80,5 +80,26 @@
     }
   ],
   "verwandtePhilosophen": ["martha-nussbaum", "john-rawls"],
-  "verwandteIsmen": ["utilitarismus", "humanismus"]
+  "verwandteIsmen": ["utilitarismus", "humanismus"],
+  "einfach": {
+    "kurzbeschreibung": "Amartya Sen ist ein indischer Oekonom und Philosoph, der 1998 den Nobelpreis bekam. Er sagt: Ob ein Land sich gut entwickelt, zeigt sich nicht am Geld, sondern daran, was die Menschen tatsaechlich tun und sein koennen.",
+    "biografie": {
+      "fruehesLeben": "Sen wurde 1933 in Indien geboren. Als Neunjaehriger erlebte er eine Hungersnot, bei der drei Millionen Menschen starben. Diese Erfahrung praegte sein ganzes Leben und seine Forschung zu Armut und Ungerechtigkeit.",
+      "schaffen": "Sen studierte in Indien und Cambridge und lehrte an den beruehmtesten Universitaeten der Welt. Er bewies, dass Hungersnuete nicht durch Nahrungsmangel entstehen, sondern durch ungerechte Verteilung und fehlende Demokratie. Zusammen mit Martha Nussbaum entwickelte er den Faehigkeitenansatz.",
+      "spaetesLeben": "Sen lehrt weiterhin an der Harvard University und mischt sich in internationale Debatten ueber Gerechtigkeit ein. Sein Buch Die Idee der Gerechtigkeit schlaegt vor, statt ueber die perfekte Gesellschaft zu traeumen, lieber konkrete Ungerechtigkeiten zu bekaempfen.",
+      "tod": "Sen lebt und arbeitet weiterhin an der Harvard University. Er gilt als einer der einflussreichsten lebenden Denker.",
+      "nachwirkung": "Sens Ideen haben die Entwicklungspolitik grundlegend veraendert. Der Human Development Index der UNO basiert auf seinem Faehigkeitenansatz."
+    },
+    "kernideen": [
+      {"titel": "Der Faehigkeitenansatz (Capability Approach)", "beschreibung": "Wohlstand sollte nicht am Geld gemessen werden, sondern daran, was Menschen wirklich tun und sein koennen. Es geht um echte Freiheiten und Moeglichkeiten."},
+      {"titel": "Demokratie als Schutz vor Hungersnueten", "beschreibung": "In keiner echten Demokratie gab es je eine grosse Hungersnot. Pressefreiheit und freie Wahlen zwingen Regierungen, sich um ihre Buerger zu kuemmern."},
+      {"titel": "Die Idee der Gerechtigkeit", "beschreibung": "Statt die perfekte gerechte Gesellschaft zu entwerfen, sollten wir uns darauf konzentrieren, konkrete Ungerechtigkeiten abzubauen."},
+      {"titel": "Identitaet und Gewalt", "beschreibung": "Wenn man Menschen auf eine einzige Identitaet reduziert, zum Beispiel nur auf ihre Religion oder Herkunft, fuehrt das zu Konflikten. Jeder Mensch hat viele Identitaeten."}
+    ],
+    "werke": [
+      {"titel": "Oekonomie fuer den Menschen (Development as Freedom)", "jahr": "1999", "beschreibung": "Sens Hauptwerk, das Entwicklung als Erweiterung menschlicher Freiheiten definiert."},
+      {"titel": "Die Idee der Gerechtigkeit (The Idea of Justice)", "jahr": "2009", "beschreibung": "Ein Buch, das fuer einen praktischen Ansatz zur Bekaempfung von Ungerechtigkeit plaediert, statt die perfekte Theorie zu suchen."},
+      {"titel": "Poverty and Famines", "jahr": "1981", "beschreibung": "Die bahnbrechende Studie, die zeigte, dass Hungersnuete durch politisches Versagen entstehen, nicht durch Nahrungsmangel."}
+    ]
+  }
 }

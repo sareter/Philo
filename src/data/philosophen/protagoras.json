@@ -79,5 +79,26 @@
     }
   ],
   "verwandtePhilosophen": ["gorgias", "sokrates", "platon", "demokrit", "hippias"],
-  "verwandteIsmen": ["relativismus", "sophistik", "agnostizismus", "pragmatismus"]
+  "verwandteIsmen": ["relativismus", "sophistik", "agnostizismus", "pragmatismus"],
+  "einfach": {
+    "kurzbeschreibung": "Protagoras war der beruehmteste Sophist der Antike. Sein Satz 'Der Mensch ist das Mass aller Dinge' bedeutet: Es gibt keine objektive Wahrheit, alles haengt von der Perspektive ab.",
+    "biografie": {
+      "fruehesLeben": "Protagoras wurde um 490 v. Chr. in Abdera geboren. Er war der erste, der sich 'Sophist' nannte und fuer seinen Unterricht Geld verlangte – und zwar ziemlich viel.",
+      "schaffen": "Er war ein Star in Athen und gehoerte zum Freundeskreis des Politikers Perikles. Seine Hauptidee: Es gibt keine objektive Wahrheit – was wahr ist, haengt immer vom Betrachter ab. Was dir warm vorkommt, kann mir kalt vorkommen, und keiner hat mehr recht. Er lehrte auch, dass man zu jeder Sache zwei gegensaetzliche Argumente finden kann. Ueber die Goetter sagte er ehrlich: Ich weiss nicht, ob es sie gibt oder nicht.",
+      "spaetesLeben": "Wegen seiner Aussagen ueber die Goetter wurde er wegen Gottlosigkeit angeklagt. Seine Buecher wurden oeffentlich verbrannt – das war die erste bekannte Buecherverbrennung der westlichen Geschichte. Er wurde aus Athen verbannt.",
+      "tod": "Protagoras starb um 420 v. Chr. Angeblich ertrank er bei einem Schiffbruch auf der Flucht aus Athen.",
+      "nachwirkung": "Sein Relativismus war so provokant, dass die gesamte Philosophie von Sokrates und Platon als Antwort darauf verstanden werden kann. In der Neuzeit leben seine Ideen im Pragmatismus und in der Postmoderne weiter."
+    },
+    "kernideen": [
+      {"titel": "Homo-Mensura-Satz", "beschreibung": "Der Mensch ist das Mass aller Dinge. Es gibt keine objektive Wahrheit – was wahr ist, haengt immer von der Perspektive des Einzelnen ab."},
+      {"titel": "Die zwei Logoi", "beschreibung": "Zu jeder Sache gibt es zwei entgegengesetzte Argumente. Ein guter Redner kann sogar das schwaechtere Argument zum staerkeren machen."},
+      {"titel": "Agnostizismus", "beschreibung": "Ueber die Goetter kann man nichts Sicheres wissen – ob sie existieren oder nicht, bleibt offen."},
+      {"titel": "Bildung als Tugend", "beschreibung": "Durch Bildung und Training im Argumentieren kann jeder ein besserer Buerger werden."}
+    ],
+    "werke": [
+      {"titel": "Wahrheit (Aletheia) oder Die niederwerfenden Argumente (Kataballontes)", "jahr": "ca. 450 v. Chr.", "beschreibung": "Sein Hauptwerk, das mit dem beruehmten Satz 'Der Mensch ist das Mass aller Dinge' beginnt."},
+      {"titel": "Über die Götter (Peri Theon)", "jahr": "ca. 440 v. Chr.", "beschreibung": "Seine Schrift ueber die Goetter, die oeffentlich verbrannt wurde, weil sie zu kritisch war."},
+      {"titel": "Antilogien (Antilogiai)", "jahr": "ca. 445 v. Chr.", "beschreibung": "Eine Sammlung von Argumenten und Gegenargumenten zu verschiedenen Themen."}
+    ]
+  }
 }

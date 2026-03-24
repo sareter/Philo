@@ -11,13 +11,45 @@
     "Bei Verletzung natürlicher Rechte besteht ein Widerstandsrecht",
     "Natürliches Recht ist der Maßstab für positives Recht"
   ],
-  "hauptvertreter": ["john-locke", "thomas-hobbes"],
+  "hauptvertreter": [
+    "john-locke",
+    "thomas-hobbes"
+  ],
   "entstehung": "Die Naturrechtsphilosophie hat ihre Wurzeln in der antiken Stoa und im mittelalterlichen Naturrecht des Thomas von Aquin. Ihre neuzeitliche Form wurde im 17. und 18. Jahrhundert von Hobbes, Locke und Rousseau im Kontext der Aufklärung und der politischen Umbrüche entwickelt.",
   "kritik": "Kritiker werfen der Naturrechtsphilosophie vor, sie projiziere historisch bedingte Wertvorstellungen auf eine angebliche menschliche Natur und verwechsle kulturelle Konventionen mit universellen Wahrheiten. Zudem wird die Frage gestellt, wie natürliche Rechte erkannt werden können, wenn es keinen Konsens über die menschliche Natur gibt.",
-  "verwandteIsmen": ["kontraktarianismus", "rechtspositivismus", "gesinnungsethik"],
+  "verwandteIsmen": [
+    "kontraktarianismus",
+    "rechtspositivismus",
+    "gesinnungsethik"
+  ],
   "schluesselwerke": [
-    {"titel": "Zwei Abhandlungen über die Regierung", "autor": "John Locke", "jahr": "1689"},
-    {"titel": "Leviathan", "autor": "Thomas Hobbes", "jahr": "1651"},
-    {"titel": "Vom Gesellschaftsvertrag", "autor": "Jean-Jacques Rousseau", "jahr": "1762"}
-  ]
+    {
+      "titel": "Zwei Abhandlungen über die Regierung",
+      "autor": "John Locke",
+      "jahr": "1689"
+    },
+    {
+      "titel": "Leviathan",
+      "autor": "Thomas Hobbes",
+      "jahr": "1651"
+    },
+    {
+      "titel": "Vom Gesellschaftsvertrag",
+      "autor": "Jean-Jacques Rousseau",
+      "jahr": "1762"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Naturrechtsphilosophie behauptet die Existenz eines natuerlichen, vorstaatlichen Rechts, das jedem Menschen kraft seiner Natur zukommt.",
+    "ausfuehrlicheBeschreibung": "Die Naturrechtsphilosophie behauptet, dass es Rechte gibt, die dem Menschen von Natur aus zukommen und die kein Staat und kein Gesetzgeber aufheben kann. Diese natuerlichen Rechte – auf Leben, Freiheit und Eigentum – sind dem positiven Recht vorgeordnet und bilden den Massstab, an dem jedes menschengemachte Gesetz gemessen werden muss.\n\nJohn Locke formulierte die einflussreichste Version der neuzeitlichen Naturrechtsphilosophie: Im Naturzustand besitzt jeder Mensch natuerliche Rechte, die ihm niemand nehmen kann. Der Staat wird durch einen Gesellschaftsvertrag gegruendet, dessen einziger Zweck der Schutz dieser natuerlichen Rechte ist. Wenn ein Staat diese Rechte verletzt, haben die Buerger das Recht auf Widerstand. Thomas Hobbes begruendete ebenfalls eine Naturrechtstheorie, betonte aber staerker die Notwendigkeit eines starken Souveraens.\n\nDie Naturrechtsphilosophie hat die politische Geschichte der Neuzeit tiefgreifend gepraegt: Die amerikanische Unabhaengigkeitserklaerung, die Franzoesische Revolution und die Allgemeine Erklaerung der Menschenrechte berufen sich auf natuerliche, unveraeusserliche Rechte. Die Idee, dass es Rechte gibt, die ueber dem Staat stehen, bleibt ein fundamentales Prinzip des modernen Verfassungsstaats.",
+    "kernthesen": [
+      "Es gibt natuerliche, vorstaatliche Rechte des Menschen",
+      "Diese Rechte kann kein Staat und kein Gesetzgeber aufheben",
+      "Der Staat dient dem Schutz der natuerlichen Rechte",
+      "Bei Verletzung natuerlicher Rechte besteht ein Widerstandsrecht",
+      "Natuerliches Recht ist der Massstab fuer positives Recht"
+    ],
+    "entstehung": "Die Naturrechtsphilosophie hat ihre Wurzeln in der antiken Stoa und im mittelalterlichen Naturrecht des Thomas von Aquin. Ihre neuzeitliche Form wurde im 17. und 18. Jahrhundert von Hobbes, Locke und Rousseau im Kontext der Aufklaerung und der politischen Umbrueche entwickelt.",
+    "kritik": "Kritiker werfen der Naturrechtsphilosophie vor, sie projiziere historisch bedingte Wertvorstellungen auf eine angebliche menschliche Natur und verwechsle kulturelle Konventionen mit universellen Wahrheiten. Zudem wird die Frage gestellt, wie natuerliche Rechte erkannt werden koennen, wenn es keinen Konsens ueber die menschliche Natur gibt."
+  }
 }

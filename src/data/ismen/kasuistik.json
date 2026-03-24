@@ -20,5 +20,18 @@
     { "titel": "Provinciales", "autor": "Blaise Pascal", "jahr": "1656" },
     { "titel": "The Abuse of Casuistry", "autor": "Albert Jonsen und Stephen Toulmin", "jahr": "1988" },
     { "titel": "De Legibus", "autor": "Francisco Suárez", "jahr": "1612" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Kasuistik loest moralische Fragen, indem sie konkrete Einzelfaelle vergleicht, statt von abstrakten Regeln auszugehen. Jeder Fall ist anders, und die Umstaende entscheiden mit.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du sollst entscheiden, ob es in Ordnung ist, eine Notluege zu erzaehlen. Ein Prinzipienethiker wuerde sagen: Luegen ist immer falsch, Punkt. Die Kasuistik sagt: Kommt drauf an. Welche Situation ist es? Wer wird geschuetzt? Was sind die Folgen? Sie schaut sich aehnliche Faelle an, die schon entschieden wurden, und leitet daraus ab, was hier richtig sein koennte.\n\nDiese Methode hat eine lange Geschichte. Im Mittelalter haben Theologen sie benutzt, um Gewissensfragen zu klaeren. Die Jesuiten haben das im 16. und 17. Jahrhundert perfektioniert und fuer praktisch jede moralische Situation eine Loesung entwickelt. Pascal hat das scharf kritisiert und gesagt, die Jesuiten wuerden mit ihren cleveren Unterscheidungen einfach alles rechtfertigen.\n\nHeute erlebt die Kasuistik eine Renaissance, besonders in der Medizinethik. Wenn Aerzte entscheiden muessen, ob eine Behandlung abgebrochen werden soll, helfen abstrakte Regeln oft nicht weiter. Man braucht Erfahrung, Urteilskraft und den Vergleich mit aehnlichen Faellen. Die Kasuistik ist also eine Alternative zum starren Regeldenken und betont, dass moralische Entscheidungen immer vom konkreten Kontext abhaengen.",
+    "kernthesen": [
+      "Moralische Urteile gewinnt man durch den Vergleich konkreter Faelle, nicht nur durch abstrakte Regeln.",
+      "Die Umstaende und der Kontext sind entscheidend fuer die moralische Bewertung einer Handlung.",
+      "Man braucht praktische Klugheit, um allgemeine Prinzipien auf Einzelfaelle anzuwenden.",
+      "Moralisches Wissen waechst von Fall zu Fall, nicht durch Ableitung aus grossen Theorien.",
+      "Zwischen klar richtig und klar falsch gibt es einen grossen Graubereich, der genaues Hinschauen erfordert."
+    ],
+    "entstehung": "Die Kasuistik hat Wurzeln in der antiken Rhetorik und im roemischen Recht. Im Mittelalter wurde sie von Thomas von Aquin philosophisch begruendet. Ihre Bluetezeit hatte sie bei den Jesuiten im 16. und 17. Jahrhundert. Nach harter Kritik durch Pascal geriet sie in Verruf, wurde aber im 20. Jahrhundert fuer die Bioethik wiederentdeckt.",
+    "kritik": "Das groesste Problem: Ohne klare Prinzipien kann die Kasuistik beliebig werden. Geschickte Argumentation kann dann fast alles rechtfertigen. Ausserdem entscheidet man bereits bei der Auswahl der Vergleichsfaelle, in welche Richtung das Ergebnis geht, was nicht immer transparent ist."
+  }
 }

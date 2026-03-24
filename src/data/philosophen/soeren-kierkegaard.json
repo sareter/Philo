@@ -2,11 +2,27 @@
   "slug": "soeren-kierkegaard",
   "name": "Søren Kierkegaard",
   "lebensdaten": "1813–1855",
-  "geboren": { "jahr": 1813, "ort": "Kopenhagen", "land": "Dänemark", "lat": 55.6761, "lng": 12.5683 },
-  "gestorben": { "jahr": 1855, "ort": "Kopenhagen", "land": "Dänemark", "lat": 55.6761, "lng": 12.5683 },
+  "geboren": {
+    "jahr": 1813,
+    "ort": "Kopenhagen",
+    "land": "Dänemark",
+    "lat": 55.6761,
+    "lng": 12.5683
+  },
+  "gestorben": {
+    "jahr": 1855,
+    "ort": "Kopenhagen",
+    "land": "Dänemark",
+    "lat": 55.6761,
+    "lng": 12.5683
+  },
   "epoche": "19. Jahrhundert",
   "region": "Dänemark",
-  "hauptstroemungen": ["Existenzialismus", "Fideismus", "Christliche Philosophie"],
+  "hauptstroemungen": [
+    "Existenzialismus",
+    "Fideismus",
+    "Christliche Philosophie"
+  ],
   "kurzbeschreibung": "Søren Kierkegaard war ein dänischer Philosoph und Theologe, der als Begründer des Existenzialismus gilt. In scharfer Opposition zu Hegels System stellte er das einzelne, existierende Individuum in den Mittelpunkt der Philosophie. Seine Begriffe der Angst, der Verzweiflung und des Sprungs in den Glauben prägten die Philosophie des 20. Jahrhunderts nachhaltig.",
   "biografie": {
     "fruehesLeben": "Søren Aabye Kierkegaard wurde am 5. Mai 1813 in Kopenhagen als jüngstes von sieben Kindern des wohlhabenden Wollhändlers Michael Pedersen Kierkegaard geboren. Der Vater, ein schwermütiger, streng religiöser Mann, hatte sich als armer Schafhirte in Jütland gegen Gott versündigt – ein Fluch, der die Familie nach seinem Glauben verfolgte. Tatsächlich starben fünf seiner sieben Kinder und seine Frau vor ihm. Diese Atmosphäre der Schuld, der Melancholie und der religiösen Inbrunst prägte Sørens Charakter zutiefst. Er studierte an der Universität Kopenhagen Theologie und Philosophie, brauchte aber über zehn Jahre für seinen Abschluss, da er sich in Büchern, dem Gesellschaftsleben und inneren Krisen verlor. 1840 verlobte er sich mit der jungen Regine Olsen, löste die Verlobung aber im Herbst 1841 – ein traumatisches Ereignis, das sein ganzes Schaffen durchzieht und das er nie vollständig erklärte.",
@@ -34,20 +50,123 @@
     }
   ],
   "werke": [
-    { "titel": "Entweder – Oder (Enten – Eller)", "jahr": "1843", "beschreibung": "Kierkegaards erstes und bekanntestes Werk, das den Kontrast zwischen ästhetischer und ethischer Lebensführung in einer kunstvoll verschachtelten Herausgeberfiktion darstellt." },
-    { "titel": "Furcht und Zittern (Frygt og Bæven)", "jahr": "1843", "beschreibung": "Eine Meditation über Abrahams Bereitschaft, Isaak zu opfern – eine Analyse des Glaubens als Sprung über die Ethik hinaus." },
-    { "titel": "Der Begriff Angst (Begrebet Angest)", "jahr": "1844", "beschreibung": "Eine psychologisch-philosophische Analyse der Angst als Grundbefindlichkeit der menschlichen Freiheit und als Voraussetzung der Sünde." },
-    { "titel": "Die Krankheit zum Tode (Sygdommen til Døden)", "jahr": "1849", "beschreibung": "Eine Phänomenologie der Verzweiflung als Grundform des gescheiterten Selbstverhältnisses – das 'Selbst' wird als Verhältnis definiert, das sich zu sich selbst verhält." },
-    { "titel": "Philosophische Brocken (Philosophiske Smuler)", "jahr": "1844", "beschreibung": "Eine Auseinandersetzung mit dem Verhältnis von Vernunft und Glaube, die das Paradox der Menschwerdung Gottes als den absoluten Widerspruch zur Vernunft darstellt." },
-    { "titel": "Abschließende unwissenschaftliche Nachschrift", "jahr": "1846", "beschreibung": "Kierkegaards umfangreichstes Werk, das die 'Subjektivität als Wahrheit' proklamiert und eine scharfe Kritik an Hegels objektivem System entwickelt." },
-    { "titel": "Tagebuch eines Verführers", "jahr": "1843", "beschreibung": "Ein Teil von 'Entweder – Oder', der die ästhetische Existenz in ihrer raffiniertesten und destruktivsten Form darstellt." }
+    {
+      "titel": "Entweder – Oder (Enten – Eller)",
+      "jahr": "1843",
+      "beschreibung": "Kierkegaards erstes und bekanntestes Werk, das den Kontrast zwischen ästhetischer und ethischer Lebensführung in einer kunstvoll verschachtelten Herausgeberfiktion darstellt."
+    },
+    {
+      "titel": "Furcht und Zittern (Frygt og Bæven)",
+      "jahr": "1843",
+      "beschreibung": "Eine Meditation über Abrahams Bereitschaft, Isaak zu opfern – eine Analyse des Glaubens als Sprung über die Ethik hinaus."
+    },
+    {
+      "titel": "Der Begriff Angst (Begrebet Angest)",
+      "jahr": "1844",
+      "beschreibung": "Eine psychologisch-philosophische Analyse der Angst als Grundbefindlichkeit der menschlichen Freiheit und als Voraussetzung der Sünde."
+    },
+    {
+      "titel": "Die Krankheit zum Tode (Sygdommen til Døden)",
+      "jahr": "1849",
+      "beschreibung": "Eine Phänomenologie der Verzweiflung als Grundform des gescheiterten Selbstverhältnisses – das 'Selbst' wird als Verhältnis definiert, das sich zu sich selbst verhält."
+    },
+    {
+      "titel": "Philosophische Brocken (Philosophiske Smuler)",
+      "jahr": "1844",
+      "beschreibung": "Eine Auseinandersetzung mit dem Verhältnis von Vernunft und Glaube, die das Paradox der Menschwerdung Gottes als den absoluten Widerspruch zur Vernunft darstellt."
+    },
+    {
+      "titel": "Abschließende unwissenschaftliche Nachschrift",
+      "jahr": "1846",
+      "beschreibung": "Kierkegaards umfangreichstes Werk, das die 'Subjektivität als Wahrheit' proklamiert und eine scharfe Kritik an Hegels objektivem System entwickelt."
+    },
+    {
+      "titel": "Tagebuch eines Verführers",
+      "jahr": "1843",
+      "beschreibung": "Ein Teil von 'Entweder – Oder', der die ästhetische Existenz in ihrer raffiniertesten und destruktivsten Form darstellt."
+    }
   ],
   "zitate": [
-    { "text": "Das Leben kann nur rückwärts verstanden werden, muss aber vorwärts gelebt werden.", "quelle": "Tagebücher (1843)", "kontext": "Kierkegaards berühmtester Aphorismus, der die Spannung zwischen retrospektivem Verstehen und prospektivem Handeln auf den Punkt bringt." },
-    { "text": "Angst ist der Schwindel der Freiheit.", "quelle": "Der Begriff Angst", "kontext": "Kierkegaards existenzielle Definition der Angst als Erfahrung der grenzenlosen Möglichkeiten, die sich dem freien Menschen eröffnen." },
-    { "text": "Der Glaube ist das höchste Paradox des Denkens.", "quelle": "Furcht und Zittern", "kontext": "Der Glaube übersteigt die Vernunft und kann nicht rational begründet werden – er ist ein existenzieller Sprung." },
-    { "text": "Verzweiflung ist die Krankheit zum Tode.", "quelle": "Die Krankheit zum Tode", "kontext": "Kierkegaard definiert Verzweiflung nicht als Wunsch zu sterben, sondern als die qualvolle Unfähigkeit, zu sich selbst zu finden – ein Sterben ohne zu sterben." }
+    {
+      "text": "Das Leben kann nur rückwärts verstanden werden, muss aber vorwärts gelebt werden.",
+      "quelle": "Tagebücher (1843)",
+      "kontext": "Kierkegaards berühmtester Aphorismus, der die Spannung zwischen retrospektivem Verstehen und prospektivem Handeln auf den Punkt bringt."
+    },
+    {
+      "text": "Angst ist der Schwindel der Freiheit.",
+      "quelle": "Der Begriff Angst",
+      "kontext": "Kierkegaards existenzielle Definition der Angst als Erfahrung der grenzenlosen Möglichkeiten, die sich dem freien Menschen eröffnen."
+    },
+    {
+      "text": "Der Glaube ist das höchste Paradox des Denkens.",
+      "quelle": "Furcht und Zittern",
+      "kontext": "Der Glaube übersteigt die Vernunft und kann nicht rational begründet werden – er ist ein existenzieller Sprung."
+    },
+    {
+      "text": "Verzweiflung ist die Krankheit zum Tode.",
+      "quelle": "Die Krankheit zum Tode",
+      "kontext": "Kierkegaard definiert Verzweiflung nicht als Wunsch zu sterben, sondern als die qualvolle Unfähigkeit, zu sich selbst zu finden – ein Sterben ohne zu sterben."
+    }
   ],
-  "verwandtePhilosophen": ["georg-wilhelm-friedrich-hegel", "arthur-schopenhauer", "blaise-pascal", "immanuel-kant"],
-  "verwandteIsmen": ["existenzialismus", "fideismus", "individualismus"]
+  "verwandtePhilosophen": [
+    "georg-wilhelm-friedrich-hegel",
+    "arthur-schopenhauer",
+    "blaise-pascal",
+    "immanuel-kant"
+  ],
+  "verwandteIsmen": [
+    "existenzialismus",
+    "fideismus",
+    "individualismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Søren Kierkegaard war ein daenischer Philosoph und Theologe, der als Begruender des Existenzialismus gilt. In scharfer Opposition zu Hegels System stellte er das einzelne, existierende Individuum in den Mittelpunkt der Philosophie. Seine Begriffe der Angst, der Verzweiflung und des Sprungs in den Glauben praegten die Philosophie des 20. Jahrhunderts nachhaltig.",
+    "biografie": {
+      "fruehesLeben": "Søren Aabye Kierkegaard wurde am 5. Mai 1813 in Kopenhagen als juengstes von sieben Kindern des wohlhabenden Wollhaendlers Michael Pedersen Kierkegaard geboren. Der Vater, ein schwermuetiger, streng religioeser Mann, hatte sich als armer Schafhirte in Juetland gegen Gott versuendigt – ein Fluch, der die Familie nach seinem Glauben verfolgte. Tatsaechlich starben fuenf seiner sieben Kinder und seine Frau vor ihm. Diese Atmosphaere der Schuld, der Melancholie und der religioesen Inbrunst praegte Sørens Charakter zutiefst. Er studierte an der Universitaet Kopenhagen Theologie und Philosophie, brauchte aber ueber zehn Jahre fuer seinen Abschluss, da er sich in Buechern, dem Gesellschaftsleben und inneren Krisen verlor.",
+      "schaffen": "Die Loesung der Verlobung setzte eine Explosion schoepferischer Energie frei. In den Jahren 1843–1846 veroeffentlichte Kierkegaard in atemberaubendem Tempo eine Reihe pseudonymer Werke, die verschiedene Existenzhaltungen – die aesthetische, die ethische und die religioese – aus der Innenperspektive darstellen. 'Entweder – Oder' (1843) kontrastiert die aesthetische Lebensfuehrung (repraesentiert durch einen geistreichen Verfuehrer) mit der ethischen (repraesentiert durch einen pflichtbewussten Ehemann). 'Furcht und Zittern' (1843) analysiert anhand der biblischen Erzaehlung von Abrahams Opferung Isaaks den 'Sprung in den Glauben', der alle Ethik und Vernunft uebersteigt.",
+      "spaetesLeben": "In seinen letzten Lebensjahren fuehrte Kierkegaard einen erbitterten Kampf gegen die daenische Staatskirche. In der Zeitschrift 'Øieblikket' (Der Augenblick) attackierte er mit beissender Ironie die offizielle Christenheit und erklaerte, das Neue Testament und die Staatskirche seien einander so fremd wie moeglich. Dieser 'Kirchensturm' kostete ihn den Rest seiner gesellschaftlichen Reputation und erschoepfte seine Kraefte und sein Vermoegen.",
+      "tod": "Am 2. Oktober 1855 brach Kierkegaard auf der Strasse zusammen und wurde ins Frederiks Hospital eingeliefert. Er litt an einer Rueckenmarkserkrankung (moeglicherweise tuberkuloeser Spondylitis). Am 11. November 1855 starb er im Alter von 42 Jahren. Auf dem Sterbebett erklaerte er seinem Freund Emil Boesen, er sei 'unendlich gluecklich'. Seine Beisetzung in der Frauenkirche wurde von seinem Neffen zu einem Protest gegen die Staatskirche umfunktioniert.",
+      "nachwirkung": "Kierkegaard blieb zu Lebzeiten weitgehend auf Daenemark beschraenkt, wurde aber im 20. Jahrhundert als Begruender des Existenzialismus weltberuehmt. Heidegger, Jaspers, Sartre, Camus und Beauvoir stehen in seiner Schuld. Seine Begriffe der Angst, der Verzweiflung, der Existenz und des Sprungs wurden zu Schluesselbegriffen der modernen Philosophie und Theologie (Karl Barth, Paul Tillich). Seine Technik der indirekten Mitteilung und der Pseudonyme beeinflusste die literarische Moderne. Kafka, Rilke und Ibsen waren Leser Kierkegaards."
+    },
+    "kernideen": [
+      {
+        "titel": "Die drei Existenzsphaeren",
+        "beschreibung": "Kierkegaard unterschied drei Weisen des Existierens: die aesthetische (Genuss, Augenblick), die ethische (Pflicht, Verantwortung) und die religioese (Glaube, Hingabe an Gott). Der Uebergang zwischen ihnen erfolgt nicht durch Vernunft, sondern durch einen existenziellen Sprung."
+      },
+      {
+        "titel": "Angst und Verzweiflung",
+        "beschreibung": "Angst ist die Grunderfahrung der menschlichen Freiheit – das Schwindelgefuehl vor den unendlichen Moeglichkeiten der Existenz. Verzweiflung ist das Scheitern des Selbstverhaeltnisses – die Unfaehigkeit, man selbst zu sein oder nicht man selbst sein zu wollen."
+      },
+      {
+        "titel": "Sprung in den Glauben",
+        "beschreibung": "Der Glaube ist kein Ergebnis rationaler Ueberlegung, sondern ein existenzieller Sprung ins Absurde. Abraham, der bereit ist, seinen Sohn auf Gottes Befehl zu opfern, verkoerpert diesen Sprung, der alle ethische Vernunft uebersteigt."
+      },
+      {
+        "titel": "Kritik des Systems",
+        "beschreibung": "Kierkegaard wandte sich gegen Hegels Anspruch, die Totalitaet des Seins in einem logischen System zu erfassen. Die Existenz des Einzelnen – sein Leiden, seine Angst, seine Entscheidung – entzieht sich jeder Systematisierung."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Entweder – Oder (Enten – Eller)",
+        "jahr": "1843",
+        "beschreibung": "Kierkegaards erstes und bekanntestes Werk, das den Kontrast zwischen aesthetischer und ethischer Lebensfuehrung in einer kunstvoll verschachtelten Herausgeberfiktion darstellt."
+      },
+      {
+        "titel": "Furcht und Zittern (Frygt og Bæven)",
+        "jahr": "1843",
+        "beschreibung": "Eine Meditation ueber Abrahams Bereitschaft, Isaak zu opfern – eine Analyse des Glaubens als Sprung ueber die Ethik hinaus."
+      },
+      {
+        "titel": "Der Begriff Angst (Begrebet Angest)",
+        "jahr": "1844",
+        "beschreibung": "Eine psychologisch-philosophische Analyse der Angst als Grundbefindlichkeit der menschlichen Freiheit und als Voraussetzung der Suende."
+      },
+      {
+        "titel": "Die Krankheit zum Tode (Sygdommen til Døden)",
+        "jahr": "1849",
+        "beschreibung": "Eine Phaenomenologie der Verzweiflung als Grundform des gescheiterten Selbstverhaeltnisses – das 'Selbst' wird als Verhaeltnis definiert, das sich zu sich selbst verhaelt."
+      }
+    ]
+  }
 }

@@ -19,5 +19,18 @@
     {"titel": "Ethik", "autor": "Baruch Spinoza", "jahr": "1677"},
     {"titel": "Prozess und Realität", "autor": "Alfred North Whitehead", "jahr": "1929"},
     {"titel": "Das Urbild der Menschheit", "autor": "Karl Christian Friedrich Krause", "jahr": "1811"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Panentheismus sagt: Die ganze Welt ist in Gott enthalten, aber Gott ist noch mehr als die Welt. Es ist ein Mittelweg zwischen dem Glauben, dass Gott weit weg ist, und der Idee, dass Gott und Natur dasselbe sind.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du hast drei Optionen: Gott ist weit weg und getrennt von der Welt (klassischer Theismus), Gott ist genau dasselbe wie die Natur (Pantheismus), oder die Welt existiert in Gott, aber Gott ist noch groesser als die Welt (Panentheismus). Der Panentheismus waehlt die dritte Option. Die Welt ist sozusagen in Gott drin, aber Gott geht ueber die Welt hinaus.\n\nSpinoza hat mit seiner Philosophie eine wichtige Grundlage gelegt. Er sagte: Alles, was existiert, existiert in Gott und kann ohne Gott nicht verstanden werden. Gott ist nicht irgendwo da draussen, sondern die Ursache aller Dinge von innen heraus. Der Begriff 'Panentheismus' wurde erst 1828 gepragt, aber die Grundidee ist viel aelter.\n\nIm 20. Jahrhundert wurde diese Idee vor allem durch die Prozessphilosophie weiterentwickelt. Fuer viele moderne Theologen ist der Panentheismus attraktiv, weil er Gott als nah und beteiligt an der Welt denkt, ohne zu sagen, dass Gott nichts weiter als die Natur ist. Gott leidet mit, entwickelt sich mit und wird durch die Welt bereichert.",
+    "kernthesen": [
+      "Die Welt ist in Gott enthalten, aber Gott ist mehr als die Welt.",
+      "Alles existiert in Gott, aber Gott laesst sich nicht auf die Summe aller Dinge reduzieren.",
+      "Gott ist gleichzeitig in der Welt anwesend und geht ueber sie hinaus.",
+      "Die Welt ist eine Art Ausdruck oder inneres Leben Gottes.",
+      "Gott ist kein starres Wesen, sondern entwickelt sich zusammen mit der Welt."
+    ],
+    "entstehung": "Den Begriff 'Panentheismus' praegte Karl Christian Friedrich Krause 1828, aber die Idee reicht bis zu Spinoza und der neuplatonischen Tradition zurueck. Spinozas Philosophie, dass alles in Gott existiert, bildet einen zentralen Ausgangspunkt.",
+    "kritik": "Kritiker sagen, dass die Grenze zwischen Panentheismus und Pantheismus oft unklar bleibt. Was genau bedeutet es, dass Gott 'mehr' als die Welt ist? Traditionelle Glaeubige kritisieren ausserdem, dass der Panentheismus Gottes Unabhaengigkeit von der Welt aufgibt."
+  }
 }

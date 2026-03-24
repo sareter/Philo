@@ -18,7 +18,10 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Nordamerika",
-  "hauptstroemungen": ["Philosophie des Geistes", "Naturalismus"],
+  "hauptstroemungen": [
+    "Philosophie des Geistes",
+    "Naturalismus"
+  ],
   "kurzbeschreibung": "Daniel Dennett war ein amerikanischer Philosoph und Kognitionswissenschaftler, der als einer der einflussreichsten Denker über Bewusstsein, Willensfreiheit und Evolution gilt. Er vertrat eine naturalistische Philosophie des Geistes, die Bewusstsein als biologisches Phänomen erklärt. Als einer der 'Neuen Atheisten' setzte er sich für einen wissenschaftlichen Zugang zu religiösen Phänomenen ein.",
   "biografie": {
     "fruehesLeben": "Daniel Dennett wurde 1942 in Boston geboren und wuchs in einem akademischen Umfeld auf. Er studierte Philosophie in Harvard bei Willard Van Orman Quine und promovierte in Oxford bei Gilbert Ryle. Diese Ausbildung verband die analytische Tradition Amerikas mit der Oxforder Philosophie des Geistes.",
@@ -81,6 +84,64 @@
       "quelle": "Darwins gefährliche Idee"
     }
   ],
-  "verwandtePhilosophen": ["willard-van-orman-quine", "richard-rorty", "patricia-churchland", "john-searle"],
-  "verwandteIsmen": ["philosophie-des-geistes", "naturalismus"]
+  "verwandtePhilosophen": [
+    "willard-van-orman-quine",
+    "richard-rorty",
+    "patricia-churchland",
+    "john-searle"
+  ],
+  "verwandteIsmen": [
+    "philosophie-des-geistes",
+    "naturalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Daniel Dennett war ein amerikanischer Philosoph und Kognitionswissenschaftler, der als einer der einflussreichsten Denker ueber Bewusstsein, Willensfreiheit und Evolution gilt. Er vertrat eine naturalistische Philosophie des Geistes, die Bewusstsein als biologisches Phaenomen erklaert. Als einer der 'Neuen Atheisten' setzte er sich fuer einen wissenschaftlichen Zugang zu religioesen Phaenomenen ein.",
+    "biografie": {
+      "fruehesLeben": "Daniel Dennett wurde 1942 in Boston geboren und wuchs in einem akademischen Umfeld auf. Er studierte Philosophie in Harvard bei Willard Van Orman Quine und promovierte in Oxford bei Gilbert Ryle. Diese Ausbildung verband die analytische Tradition Amerikas mit der Oxforder Philosophie des Geistes.",
+      "schaffen": "Als Professor an der Tufts University entwickelte Dennett ueber Jahrzehnte hinweg eine naturalistische Theorie des Bewusstseins. Sein Werk 'Consciousness Explained' (1991) wurde zum Bestseller und provozierte heftige Debatten. In 'Darwin's Dangerous Idea' (1995) argumentierte er, dass die Evolution durch natuerliche Selektion die wichtigste Idee der Menschheitsgeschichte sei.",
+      "spaetesLeben": "In seinen spaeten Jahren widmete sich Dennett der Frage der Willensfreiheit und der Religionskritik. Sein Buch 'Breaking the Spell' (2006) analysierte Religion als natuerliches Phaenomen. Trotz eines schweren Herzinfarkts 2006 blieb er bis zuletzt intellektuell aktiv und produktiv.",
+      "tod": "Daniel Dennett starb am 19. April 2024 in Portland, Maine, im Alter von 82 Jahren. Er hinterliess ein umfangreiches Werk, das die Philosophie des Geistes, die Kognitionswissenschaft und die oeffentliche Debatte ueber Religion nachhaltig gepraegt hat.",
+      "nachwirkung": "Dennetts naturalistische Philosophie des Bewusstseins hat die Kognitionswissenschaft und die Philosophie des Geistes tiefgreifend beeinflusst. Seine zugaengliche Schreibweise machte komplexe philosophische Fragen einem breiten Publikum zugaenglich. Als oeffentlicher Intellektueller praegte er die Debatte ueber Wissenschaft, Religion und Willensfreiheit."
+    },
+    "kernideen": [
+      {
+        "titel": "Bewusstsein als Multiple Drafts",
+        "beschreibung": "Bewusstsein ist kein einheitlicher Strom, der von einem zentralen Beobachter im Gehirn erlebt wird. Es besteht aus vielen parallelen Entwuerfen (Multiple Drafts) neuronaler Verarbeitung, die staendig ueberarbeitet werden. Es gibt kein 'Cartesisches Theater' – keinen Ort, an dem alles zusammenkommt."
+      },
+      {
+        "titel": "Intentionale Einstellung (Intentional Stance)",
+        "beschreibung": "Wir koennen Verhalten auf drei Ebenen vorhersagen: physisch, funktional und intentional. Die intentionale Einstellung behandelt ein System so, als haette es Ueberzeugungen und Wuensche. Diese Strategie ist nuetzlich und gerechtfertigt, auch wenn es keine 'echten' mentalen Zustaende jenseits dieser Beschreibung gibt."
+      },
+      {
+        "titel": "Darwins gefaehrliche Idee",
+        "beschreibung": "Die Evolution durch natuerliche Selektion ist ein universeller Algorithmus – ein 'universelle Saeure', die alle traditionellen Konzepte aufloest. Sie erklaert nicht nur biologische Vielfalt, sondern auch die Entstehung von Bewusstsein, Kultur und Moralitaet ohne einen goettlichen Designer."
+      },
+      {
+        "titel": "Kompatibilistische Willensfreiheit",
+        "beschreibung": "Willensfreiheit ist mit dem Determinismus vereinbar. Frei zu sein bedeutet nicht, von den Naturgesetzen unabhaengig zu sein, sondern die Faehigkeit zu besitzen, auf Gruende zu reagieren und das eigene Verhalten zu kontrollieren. Diese Art von Freiheit ist es wert, gewollt zu werden."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Bewusstsein erklaert (Consciousness Explained)",
+        "jahr": "1991",
+        "beschreibung": "Dennetts Hauptwerk ueber das Bewusstsein, das die Multiple-Drafts-Theorie entwickelt und das Cartesische Theater des Bewusstseins ablehnt."
+      },
+      {
+        "titel": "Darwins gefaehrliche Idee (Darwin's Dangerous Idea)",
+        "jahr": "1995",
+        "beschreibung": "Eine umfassende Darstellung der Evolution als universellen Algorithmus, der alle Bereiche des Lebens und des Geistes erklaert."
+      },
+      {
+        "titel": "Ellenbogenfreiheit (Freedom Evolves)",
+        "jahr": "2003",
+        "beschreibung": "Dennetts Verteidigung einer kompatibilistischen Willensfreiheit, die zeigt, wie Freiheit ein natuerliches Produkt der Evolution ist."
+      },
+      {
+        "titel": "Den Bann brechen (Breaking the Spell)",
+        "jahr": "2006",
+        "beschreibung": "Eine naturwissenschaftliche Analyse religioeser Phaenomene, die Religion als natuerliches Phaenomen betrachtet, das wissenschaftlich untersucht werden kann und soll."
+      }
+    ]
+  }
 }

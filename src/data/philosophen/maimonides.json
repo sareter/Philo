@@ -18,7 +18,10 @@
   },
   "epoche": "Mittelalter",
   "region": "Naher Osten",
-  "hauptstroemungen": ["Rationalismus", "Thomismus"],
+  "hauptstroemungen": [
+    "Rationalismus",
+    "Thomismus"
+  ],
   "kurzbeschreibung": "Moses Maimonides (Mose ben Maimon) war ein jüdischer Philosoph, Rechtsgelehrter und Arzt, der als einer der bedeutendsten jüdischen Denker aller Zeiten gilt. Sein 'Führer der Unschlüssigen' versuchte, die aristotelische Philosophie mit dem jüdischen Glauben zu versöhnen. Als Leibarzt des ägyptischen Sultans Saladin verband er praktische Medizin mit tiefgründiger religiöser Philosophie.",
   "biografie": {
     "fruehesLeben": "Maimonides wurde 1138 in Córdoba in eine angesehene jüdische Familie geboren. Als die Almohaden 1148 Córdoba eroberten und die jüdische Gemeinde vor die Wahl zwischen Konversion und Vertreibung stellten, floh die Familie. Nach Jahren der Wanderschaft durch Spanien und Nordafrika ließ sich die Familie schließlich in Fes (Marokko) nieder.",
@@ -79,6 +82,59 @@
       "kontext": "Die aristotelisch inspirierte Tugendlehre des Maimonides, die Mäßigung als Ideal betont."
     }
   ],
-  "verwandtePhilosophen": ["avicenna", "averroes", "thomas-von-aquin", "aristoteles"],
-  "verwandteIsmen": ["rationalismus", "thomismus"]
+  "verwandtePhilosophen": [
+    "avicenna",
+    "averroes",
+    "thomas-von-aquin",
+    "aristoteles"
+  ],
+  "verwandteIsmen": [
+    "rationalismus",
+    "thomismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Moses Maimonides (Mose ben Maimon) war ein juedischer Philosoph, Rechtsgelehrter und Arzt, der als einer der bedeutendsten juedischen Denker aller Zeiten gilt. Sein 'Fuehrer der Unschluessigen' versuchte, die aristotelische Philosophie mit dem juedischen Glauben zu versoehnen. Als Leibarzt des aegyptischen Sultans Saladin verband er praktische Medizin mit tiefgruendiger religioeser Philosophie.",
+    "biografie": {
+      "fruehesLeben": "Maimonides wurde 1138 in Córdoba in eine angesehene juedische Familie geboren. Als die Almohaden 1148 Córdoba eroberten und die juedische Gemeinde vor die Wahl zwischen Konversion und Vertreibung stellten, floh die Familie. Nach Jahren der Wanderschaft durch Spanien und Nordafrika liess sich die Familie schliesslich in Fes (Marokko) nieder.",
+      "schaffen": "In Aegypten stieg Maimonides zum Oberhaupt der juedischen Gemeinde und zum Leibarzt des Sultans Saladin auf. Er verfasste sein religionsgesetzliches Hauptwerk 'Mischne Tora', eine systematische Kodifizierung des juedischen Rechts. Sein philosophisches Meisterwerk 'Fuehrer der Unschluessigen' (Moreh Nevuchim) versoehnte aristotelische Philosophie mit dem juedischen Glauben.",
+      "spaetesLeben": "In seinen spaeten Jahren war Maimonides als Arzt so gefragt, dass er kaum Zeit fuer seine philosophischen und religioesen Studien fand. Er beschrieb seinen erschoepfenden Tagesablauf in beruehmten Briefen. Trotzdem verfasste er weiterhin medizinische und philosophische Schriften.",
+      "tod": "Maimonides starb 1204 in Fustat (Alt-Kairo) und wurde in Tiberias am See Genezareth beigesetzt. Sein Tod wurde in der gesamten juedischen Welt betrauert. Ueber seinem Grab steht die Inschrift: 'Von Moses bis Moses gab es keinen wie Moses.'",
+      "nachwirkung": "Maimonides' Einfluss auf die juedische Philosophie und das Religionsrecht ist unermesslich. Sein 'Fuehrer der Unschluessigen' beeinflusste nicht nur juedische, sondern auch christliche Denker wie Thomas von Aquin. Seine rationale Methodik und sein Versuch der Harmonisierung von Glauben und Vernunft sind bis heute relevant."
+    },
+    "kernideen": [
+      {
+        "titel": "Negative Theologie",
+        "beschreibung": "Maimonides argumentierte, dass wir nur sagen koennen, was Gott nicht ist, nicht was er ist. Jede positive Aussage ueber Gott wuerde ihn begrenzen und vermenschlichen. Diese radikale negative Theologie schuetzt die absolute Transzendenz Gottes."
+      },
+      {
+        "titel": "Harmonie von Philosophie und Offenbarung",
+        "beschreibung": "Vernunft und goettliche Offenbarung koennen einander nicht widersprechen, da beide von Gott stammen. Wo scheinbare Widersprueche auftreten, muss die biblische Aussage allegorisch gedeutet werden. Die Philosophie dient der tieferen Erkenntnis der religioesen Wahrheit."
+      },
+      {
+        "titel": "Dreizehn Glaubensgrundsaetze",
+        "beschreibung": "Maimonides formulierte dreizehn grundlegende Prinzipien des juedischen Glaubens, darunter die Existenz und Einheit Gottes, die Prophetie des Moses und die Auferstehung der Toten. Diese wurden zu einer wichtigen Grundlage juedischer Theologie."
+      },
+      {
+        "titel": "Stufen der Vollkommenheit",
+        "beschreibung": "Maimonides unterschied vier Stufen menschlicher Vollkommenheit: Besitz, koerperliche Vorzuege, moralische Tugend und intellektuelle Tugend. Nur die intellektuelle Erkenntnis Gottes fuehrt zur hoechsten Vollkommenheit und zum wahren Glueck."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Fuehrer der Unschluessigen (Moreh Nevuchim)",
+        "jahr": "1190",
+        "beschreibung": "Das philosophische Hauptwerk, das die aristotelische Philosophie mit dem juedischen Glauben versoehnt und tiefgreifend ueber Gottesbeweise, Prophetie und das Problem des Boesen reflektiert."
+      },
+      {
+        "titel": "Mischne Tora",
+        "jahr": "1180",
+        "beschreibung": "Eine systematische Kodifizierung des gesamten juedischen Religionsgesetzes in vierzehn Buechern, die bis heute eine autoritative Quelle des juedischen Rechts darstellt."
+      },
+      {
+        "titel": "Kommentar zur Mischna",
+        "jahr": "1168",
+        "beschreibung": "Ein umfassender Kommentar zum rabbinischen Gesetzeswerk, der in arabischer Sprache verfasst wurde und die Dreizehn Glaubensgrundsaetze enthaelt."
+      }
+    ]
+  }
 }

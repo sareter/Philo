@@ -18,5 +18,18 @@
   "schluesselwerke": [
     {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
     {"titel": "Der Wille zur Macht", "autor": "Friedrich Nietzsche", "jahr": "1901"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der passive Nihilismus ist die muede Reaktion auf die Erkenntnis, dass nichts einen Sinn hat. Statt neue Werte zu schaffen, gibt man einfach auf und zieht sich zurueck.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du merkst, dass alles, woran du geglaubt hast, keinen echten Grund hat. Es gibt keinen grossen Sinn, keine hoeheren Werte. Der aktive Nihilist wuerde sagen: 'Gut, dann schaffe ich mir eben eigene Werte.' Der passive Nihilist sagt dagegen: 'Wozu? Es ist eh alles egal.' Er hat die Energie verloren, irgendetwas zu wollen oder anzustreben.\n\nSchopenhauer ist der bekannteste Vertreter dieser Haltung, auch wenn er den Begriff nicht selbst benutzt hat. Seine Philosophie laeuft darauf hinaus, dass das Leben ein endloses Hin und Her zwischen Leid und Langeweile ist. Die einzige Loesung, die er sieht, ist die Verneinung des Willens zum Leben: aufhoeren zu wollen, aufhoeren zu streben, sich zurueckziehen.\n\nNietzsche hat den passiven Nihilismus scharf kritisiert. Fuer ihn war das ein Zeichen von Schwaeche und kulturellem Verfall. Anstatt vor der Sinnlosigkeit zu kapitulieren, sollte man sie als Chance begreifen: Die alten Werte sind weg? Dann schaffe neue! Der passive Nihilismus ist fuer Nietzsche nicht die Loesung, sondern das eigentliche Problem.",
+    "kernthesen": [
+      "Wenn nichts mehr Sinn hat, bleibt nur noch Resignation.",
+      "Der passive Nihilist hat die Kraft verloren, nach irgendetwas zu streben.",
+      "Die Verneinung des Willens zum Leben ist die letzte Konsequenz.",
+      "Rueckzug und Gleichgueltigkeit sind die Antwort auf den Verlust aller Werte.",
+      "Der passive Nihilismus ist ein Zeichen dafuer, dass eine Kultur ihre schoepferische Kraft verloren hat."
+    ],
+    "entstehung": "Nietzsche praegte den Begriff, um Schopenhauers Philosophie der Willensverneinung und die muede Stimmung des spaeten 19. Jahrhunderts zu beschreiben. Schopenhauers Hauptwerk 'Die Welt als Wille und Vorstellung' von 1819 ist der zentrale Text dazu.",
+    "kritik": "Kritiker sehen im passiven Nihilismus eine Flucht vor Verantwortung und eine Verherrlichung von Schwaeche. Nietzsche selbst warf dem passiven Nihilismus vor, er verhindere, dass Menschen ihre schoepferischen Moeglichkeiten entfalten."
+  }
 }

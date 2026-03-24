@@ -19,5 +19,18 @@
     {"titel": "Zwei Abhandlungen über die Regierung", "autor": "John Locke", "jahr": "1689"},
     {"titel": "The Rise of the Meritocracy", "autor": "Michael Young", "jahr": "1958"},
     {"titel": "The Tyranny of Merit", "autor": "Michael Sandel", "jahr": "2020"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Meritokratismus sagt: Wer hart arbeitet und talentiert ist, soll es im Leben weit bringen. Nicht die Herkunft oder das Geld der Eltern soll zaehlen, sondern die eigene Leistung.",
+    "ausfuehrlicheBeschreibung": "Die Grundidee klingt erstmal super fair: Nicht der Nachname oder das Bankkonto der Eltern soll bestimmen, was aus dir wird, sondern dein eigenes Talent und dein Einsatz. Jeder soll die gleichen Chancen haben, und wer sich anstrengt, soll belohnt werden. Das ist die Idee der Leistungsgesellschaft -- und sie klingt viel gerechter als eine Welt, in der Adelige automatisch oben stehen und Bauernkinder unten bleiben.\n\nDas Problem ist: In der Realitaet haben nicht alle die gleichen Startbedingungen. Wenn deine Eltern Akademiker sind, hast du schon als Kind einen riesigen Vorteil. Du wirst gefoerdert, hast Zugang zu guten Schulen und Netzwerken. Jemand aus einer armen Familie hat diese Vorteile nicht -- und trotzdem sagt die Leistungsgesellschaft: Wenn du es nicht schaffst, bist du selbst schuld.\n\nMichael Sandel hat das kritisiert: Die Leistungsgesellschaft fuehrt dazu, dass Erfolgreiche auf andere herabschauen und denken, sie haetten ihren Erfolg verdient -- waehrend sie vergessen, wie viel Glueck und guenstige Umstaende dabei eine Rolle gespielt haben. Gleichzeitig fuehlen sich die weniger Erfolgreichen beschaemt, weil ihnen gesagt wird, sie haetten sich einfach nicht genug angestrengt.",
+    "kernthesen": [
+      "Gesellschaftliche Positionen und Belohnungen sollen nach Leistung vergeben werden, nicht nach Herkunft.",
+      "Vererbte Privilegien und Standesunterschiede sind ungerecht und muessen ueberwunden werden.",
+      "Eigentum soll auf eigener Arbeit und Anstrengung beruhen.",
+      "Chancengleichheit ist die Voraussetzung fuer eine gerechte Gesellschaft.",
+      "Talent und Fleiss sollen ueber den Aufstieg entscheiden, nicht Beziehungen oder Geld."
+    ],
+    "entstehung": "Die Idee, dass Leistung zaehlen soll statt Herkunft, praegte schon die Aufklaerung und die Franzoesische Revolution. Der Begriff Meritokratie wurde aber erst 1958 von Michael Young gepraegt -- ironischerweise als Warnung, nicht als Ideal. Trotzdem wurde die Leistungsgesellschaft zum Leitbild moderner Demokratien.",
+    "kritik": "Das Hauptproblem: Echte Chancengleichheit gibt es nicht. Kinder reicher Eltern haben immer bessere Startbedingungen. Ausserdem macht die Leistungsgesellschaft Versagen zur persoenlichen Schuld und ignoriert, dass Glueck, Gesundheit und soziale Umstaende eine riesige Rolle spielen."
+  }
 }

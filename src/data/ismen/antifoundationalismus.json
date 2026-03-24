@@ -20,5 +20,18 @@
     { "titel": "Empiricism and the Philosophy of Mind", "autor": "Wilfrid Sellars", "jahr": "1956" },
     { "titel": "Two Dogmas of Empiricism", "autor": "W.V.O. Quine", "jahr": "1951" },
     { "titel": "Of Grammatology", "autor": "Jacques Derrida", "jahr": "1967" }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Antifoundationalismus sagt: Es gibt kein absolut sicheres Fundament fuer unser Wissen. Alles, was wir wissen, koennte sich als falsch herausstellen -- und das ist okay.",
+    "ausfuehrlicheBeschreibung": "Stell dir Wissen vor wie ein Gebaeude. Normalerweise denken wir: Ganz unten muss es ein sicheres Fundament geben, auf dem alles andere aufbaut. Descartes sagte zum Beispiel: 'Ich denke, also bin ich' -- das ist das sichere Fundament. Antifoundationalisten sagen: So ein Fundament gibt es nicht. Jede Ueberzeugung kann sich als falsch herausstellen.\n\nDas klingt erstmal beunruhigend, ist aber eigentlich ganz normal. Auch in der Wissenschaft funktioniert es so: Newtons Physik galt jahrhundertelang als sicher, bis Einstein sie korrigierte. Unser Wissen ist eher wie ein Netz, in dem alles mit allem zusammenhaengt, als wie eine Pyramide mit einem festen Boden.\n\nDer Philosoph Richard Rorty ging noch weiter und sagte: Philosophie sollte aufhoeren, nach ewigen Wahrheiten zu suchen, und stattdessen einfach gute Gespraeche fuehren. Foucault zeigte, dass das, was als 'gesichertes Wissen' gilt, oft mehr mit Macht zu tun hat als mit Wahrheit. Das ist keine Einladung zum Chaos, sondern zur intellektuellen Bescheidenheit.",
+    "kernthesen": [
+      "Es gibt kein absolut sicheres Fundament fuer unser Wissen.",
+      "Jede Ueberzeugung kann sich als falsch herausstellen -- auch logische und mathematische.",
+      "Wissen ist kein Gebaeude mit festem Fundament, sondern ein Netz, in dem alles zusammenhaengt.",
+      "Was als 'gesichertes Wissen' gilt, haengt oft von Macht und Kontext ab.",
+      "Statt nach ewigen Wahrheiten zu suchen, sollten wir pruefen, was sich in der Praxis bewaehrt."
+    ],
+    "entstehung": "Seit den 1950er Jahren entwickelten Philosophen wie Quine und Sellars Argumente gegen die Idee eines sicheren Wissensfundaments. Richard Rorty fasste 1979 alles zusammen und erklaerte die klassische Erkenntnistheorie fuer ueberholt. Derrida und Foucault lieferten aehnliche Argumente aus einer anderen Tradition.",
+    "kritik": "Kritiker sagen: Wenn es kein Fundament gibt, landet man im Relativismus -- dann ist jede Meinung gleich gut. Ausserdem widerspricht sich der Antifoundationalismus selbst: Die Behauptung 'Es gibt keine sicheren Grundlagen' scheint selbst eine sichere Grundlage zu beanspruchen."
+  }
 }

@@ -2,11 +2,27 @@
   "slug": "blaise-pascal",
   "name": "Blaise Pascal",
   "lebensdaten": "1623–1662",
-  "geboren": { "jahr": 1623, "ort": "Clermont-Ferrand", "land": "Frankreich", "lat": 45.7772, "lng": 3.0870 },
-  "gestorben": { "jahr": 1662, "ort": "Paris", "land": "Frankreich", "lat": 48.8566, "lng": 2.3522 },
+  "geboren": {
+    "jahr": 1623,
+    "ort": "Clermont-Ferrand",
+    "land": "Frankreich",
+    "lat": 45.7772,
+    "lng": 3.087
+  },
+  "gestorben": {
+    "jahr": 1662,
+    "ort": "Paris",
+    "land": "Frankreich",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
   "epoche": "Aufklärung",
   "region": "Frankreich",
-  "hauptstroemungen": ["Fideismus", "Jansenismus", "Apologetik"],
+  "hauptstroemungen": [
+    "Fideismus",
+    "Jansenismus",
+    "Apologetik"
+  ],
   "kurzbeschreibung": "Blaise Pascal war ein französischer Mathematiker, Physiker, Erfinder und Philosoph, der zu den vielseitigsten Geistern des 17. Jahrhunderts zählt. Seine 'Pensées' (Gedanken), eine unvollendete Verteidigung des christlichen Glaubens, gehören zu den Meisterwerken der französischen Literatur. Er verband mathematische Genialität mit tiefer religiöser Leidenschaft und stellte die Grenzen der Vernunft zugunsten des Glaubens heraus.",
   "biografie": {
     "fruehesLeben": "Blaise Pascal wurde am 19. Juni 1623 in Clermont-Ferrand als Sohn des Richters und Mathematikers Étienne Pascal geboren. Seine Mutter starb, als er drei Jahre alt war. Sein Vater, selbst ein begabter Mathematiker, übernahm die Erziehung seiner drei Kinder und zog 1631 nach Paris, um Blaise eine bessere Bildung zu ermöglichen. Der junge Pascal erwies sich als Wunderkind: Mit elf Jahren verfasste er eine Abhandlung über die Akustik, mit sechzehn ein bedeutendes mathematisches Werk über Kegelschnitte ('Essai pour les coniques'), das selbst Descartes beeindruckte. Mit neunzehn konstruierte er die 'Pascaline', eine der ersten mechanischen Rechenmaschinen, um seinem Vater bei der Steuerberechnung zu helfen. Trotz fragiler Gesundheit, die ihn sein ganzes Leben begleitete, zeigte er eine erstaunliche intellektuelle Produktivität.",
@@ -34,19 +50,118 @@
     }
   ],
   "werke": [
-    { "titel": "Pensées (Gedanken)", "jahr": "1670 (posthum)", "beschreibung": "Pascals unvollendete Apologie des Christentums, bestehend aus fragmentarischen Notizen, die eine existenzielle Anthropologie entwickeln und den Glauben als Antwort auf die menschliche Zerrissenheit präsentieren." },
-    { "titel": "Les Provinciales (Provinzialbriefe)", "jahr": "1656–1657", "beschreibung": "Achtzehn unter Pseudonym veröffentlichte Briefe, die mit beißender Ironie die jesuitische Moraltheologie angreifen und als Meisterwerk der französischen Prosa gelten." },
-    { "titel": "Essai pour les coniques", "jahr": "1640", "beschreibung": "Pascals frühes mathematisches Werk über Kegelschnitte, das den berühmten Satz von Pascal (Pascals Hexagrammsatz) enthält." },
-    { "titel": "Traité du triangle arithmétique", "jahr": "1654", "beschreibung": "Die Abhandlung über das arithmetische Dreieck (Pascalsches Dreieck), die grundlegende Beiträge zur Kombinatorik und Wahrscheinlichkeitstheorie enthält." },
-    { "titel": "De l'esprit géométrique", "jahr": "1658", "beschreibung": "Eine methodologische Schrift über den Geist der Geometrie und die Kunst zu überzeugen, die Pascals Gedanken über Methode und Erkenntnis zusammenfasst." },
-    { "titel": "Lettres à un Provincial", "jahr": "1656–1657", "beschreibung": "Alternative Bezeichnung der Provinzialbriefe, die die probabilistische Moral der Jesuiten satirisch entlarven." }
+    {
+      "titel": "Pensées (Gedanken)",
+      "jahr": "1670 (posthum)",
+      "beschreibung": "Pascals unvollendete Apologie des Christentums, bestehend aus fragmentarischen Notizen, die eine existenzielle Anthropologie entwickeln und den Glauben als Antwort auf die menschliche Zerrissenheit präsentieren."
+    },
+    {
+      "titel": "Les Provinciales (Provinzialbriefe)",
+      "jahr": "1656–1657",
+      "beschreibung": "Achtzehn unter Pseudonym veröffentlichte Briefe, die mit beißender Ironie die jesuitische Moraltheologie angreifen und als Meisterwerk der französischen Prosa gelten."
+    },
+    {
+      "titel": "Essai pour les coniques",
+      "jahr": "1640",
+      "beschreibung": "Pascals frühes mathematisches Werk über Kegelschnitte, das den berühmten Satz von Pascal (Pascals Hexagrammsatz) enthält."
+    },
+    {
+      "titel": "Traité du triangle arithmétique",
+      "jahr": "1654",
+      "beschreibung": "Die Abhandlung über das arithmetische Dreieck (Pascalsches Dreieck), die grundlegende Beiträge zur Kombinatorik und Wahrscheinlichkeitstheorie enthält."
+    },
+    {
+      "titel": "De l'esprit géométrique",
+      "jahr": "1658",
+      "beschreibung": "Eine methodologische Schrift über den Geist der Geometrie und die Kunst zu überzeugen, die Pascals Gedanken über Methode und Erkenntnis zusammenfasst."
+    },
+    {
+      "titel": "Lettres à un Provincial",
+      "jahr": "1656–1657",
+      "beschreibung": "Alternative Bezeichnung der Provinzialbriefe, die die probabilistische Moral der Jesuiten satirisch entlarven."
+    }
   ],
   "zitate": [
-    { "text": "Das Herz hat seine Gründe, die der Verstand nicht kennt.", "quelle": "Pensées, Fragment 277", "kontext": "Pascals berühmtester Ausspruch, der die Grenzen der rationalen Erkenntnis betont und einer intuitiven, emotionalen Erkenntnis Raum gibt." },
-    { "text": "Der Mensch ist nur ein Schilfrohr, das schwächste der Natur; aber er ist ein denkendes Schilfrohr.", "quelle": "Pensées, Fragment 347", "kontext": "Pascals eindrucksvolles Bild für die paradoxe Stellung des Menschen: physisch schwach und verletzlich, aber durch seine Denkfähigkeit über die gesamte Natur erhaben." },
-    { "text": "Das ewige Schweigen dieser unendlichen Räume erschreckt mich.", "quelle": "Pensées, Fragment 206", "kontext": "Ein Ausdruck existenzieller Angst vor dem unendlichen und gleichgültigen Universum, der Pascal als Vorläufer des Existenzialismus zeigt." },
-    { "text": "Alles Unglück der Menschen rührt allein daher, dass sie nicht ruhig in einem Zimmer sitzen können.", "quelle": "Pensées, Fragment 139", "kontext": "Pascals treffende Analyse der menschlichen Rastlosigkeit und des Bedürfnisses nach Zerstreuung (divertissement) als Flucht vor existenzieller Leere." }
+    {
+      "text": "Das Herz hat seine Gründe, die der Verstand nicht kennt.",
+      "quelle": "Pensées, Fragment 277",
+      "kontext": "Pascals berühmtester Ausspruch, der die Grenzen der rationalen Erkenntnis betont und einer intuitiven, emotionalen Erkenntnis Raum gibt."
+    },
+    {
+      "text": "Der Mensch ist nur ein Schilfrohr, das schwächste der Natur; aber er ist ein denkendes Schilfrohr.",
+      "quelle": "Pensées, Fragment 347",
+      "kontext": "Pascals eindrucksvolles Bild für die paradoxe Stellung des Menschen: physisch schwach und verletzlich, aber durch seine Denkfähigkeit über die gesamte Natur erhaben."
+    },
+    {
+      "text": "Das ewige Schweigen dieser unendlichen Räume erschreckt mich.",
+      "quelle": "Pensées, Fragment 206",
+      "kontext": "Ein Ausdruck existenzieller Angst vor dem unendlichen und gleichgültigen Universum, der Pascal als Vorläufer des Existenzialismus zeigt."
+    },
+    {
+      "text": "Alles Unglück der Menschen rührt allein daher, dass sie nicht ruhig in einem Zimmer sitzen können.",
+      "quelle": "Pensées, Fragment 139",
+      "kontext": "Pascals treffende Analyse der menschlichen Rastlosigkeit und des Bedürfnisses nach Zerstreuung (divertissement) als Flucht vor existenzieller Leere."
+    }
   ],
-  "verwandtePhilosophen": ["rene-descartes", "michel-de-montaigne", "soeren-kierkegaard", "voltaire"],
-  "verwandteIsmen": ["fideismus", "jansenismus", "existenzialismus"]
+  "verwandtePhilosophen": [
+    "rene-descartes",
+    "michel-de-montaigne",
+    "soeren-kierkegaard",
+    "voltaire"
+  ],
+  "verwandteIsmen": [
+    "fideismus",
+    "jansenismus",
+    "existenzialismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Blaise Pascal war ein franzoesischer Mathematiker, Physiker, Erfinder und Philosoph, der zu den vielseitigsten Geistern des 17. Jahrhunderts zaehlt. Seine 'Pensées' (Gedanken), eine unvollendete Verteidigung des christlichen Glaubens, gehoeren zu den Meisterwerken der franzoesischen Literatur. Er verband mathematische Genialitaet mit tiefer religioeser Leidenschaft und stellte die Grenzen der Vernunft zugunsten des Glaubens heraus.",
+    "biografie": {
+      "fruehesLeben": "Blaise Pascal wurde am 19. Juni 1623 in Clermont-Ferrand als Sohn des Richters und Mathematikers Étienne Pascal geboren. Seine Mutter starb, als er drei Jahre alt war. Sein Vater, selbst ein begabter Mathematiker, uebernahm die Erziehung seiner drei Kinder und zog 1631 nach Paris, um Blaise eine bessere Bildung zu ermoeglichen. Der junge Pascal erwies sich als Wunderkind: Mit elf Jahren verfasste er eine Abhandlung ueber die Akustik, mit sechzehn ein bedeutendes mathematisches Werk ueber Kegelschnitte ('Essai pour les coniques'), das selbst Descartes beeindruckte. Mit neunzehn konstruierte er die 'Pascaline', eine der ersten mechanischen Rechenmaschinen, um seinem Vater bei der Steuerberechnung zu helfen.",
+      "schaffen": "Pascals wissenschaftliches Werk umfasst bahnbrechende Beitraege zur Mathematik (Wahrscheinlichkeitstheorie, Kombinatorik, das Pascalsche Dreieck), zur Physik (Versuche zum Luftdruck und Vakuum, das Pascalsche Gesetz der Hydrostatik) und zur Technik (die Rechenmaschine). 1654 erlebte er eine mystische Gotteserfahrung – die 'Nacht des Feuers' vom 23. November –, die sein Leben grundlegend veraenderte. Ein Pergament mit der Aufzeichnung dieses Erlebnisses (das 'Mémorial') wurde nach seinem Tod in sein Gewand eingenaeht gefunden. Fortan widmete er sich zunehmend religioesen und philosophischen Fragen und schloss sich dem Jansenismus an, einer strengen innerkatholischen Reformbewegung, deren Zentrum das Kloster Port-Royal war.",
+      "spaetesLeben": "Nach seiner Bekehrung lebte Pascal zunehmend asketisch und zog sich aus der Wissenschaft zurueck, obwohl er 1658 noch einmal mathematische Arbeiten ueber die Zykloide veroeffentlichte. Sein Gesundheitszustand verschlechterte sich rapide – er litt unter heftigen Kopfschmerzen, Magenbeschwerden und anderen Leiden, die ihn oft ans Bett fesselten. Trotzdem arbeitete er fieberhaft an seinen 'Pensées', die er als grosses apologetisches Werk gegen die Freidenker (libertins) konzipierte. Er lebte in freiwilliger Armut, gab seinen Besitz an die Armen und trug ein Busshemd. Er organisierte 1662 die erste Omnibuslinie in Paris – ein Zeichen seines praktischen Sinns selbst in der Phase tiefster Froemmigkeit.",
+      "tod": "Blaise Pascal starb am 19. August 1662 in Paris im Alter von nur 39 Jahren. Die Obduktion ergab schwere Hirnschaeden und eine Erkrankung des Darms, moeglicherweise Magenkrebs oder Tuberkulose. In seinem Gewandsaum fand man das eingenaehte 'Mémorial' seiner mystischen Erfahrung von 1654. Seine 'Pensées' blieben unvollendet – die erhaltenen Fragmente wurden erstmals 1670 in einer ueberarbeiteten Fassung von den Herren von Port-Royal veroeffentlicht. Die vollstaendige kritische Ausgabe erschien erst im 20. Jahrhundert.",
+      "nachwirkung": "Pascal gilt als einer der bedeutendsten franzoesischen Prosaschriftsteller und als Vorlaeufer des Existenzialismus. Seine Beschreibung der menschlichen condition – der Existenz zwischen Groesse und Elend, der Angst vor dem Unendlichen und der Flucht in die Zerstreuung – wurde von Kierkegaard, Heidegger und Camus aufgegriffen. Die 'Pascalsche Wette' ist ein fruehes Argument der Entscheidungstheorie. In der Mathematik und Physik ist sein Erbe allgegenwaertig: Die Einheit des Drucks traegt seinen Namen (Pascal), ebenso eine Programmiersprache. Die 'Provinzialbriefe' gelten als Meilenstein der franzoesischen Prosa und der polemischen Literatur."
+    },
+    "kernideen": [
+      {
+        "titel": "Pascalsche Wette",
+        "beschreibung": "Pascals beruehmtes Argument: Es ist rational, an Gott zu glauben, da der potenzielle Gewinn (ewige Seligkeit) unendlich ist, waehrend der potenzielle Verlust (einige irdische Vergnuegungen) endlich ist. Es handelt sich um eines der ersten Argumente der Entscheidungstheorie."
+      },
+      {
+        "titel": "Das Herz hat seine Gruende",
+        "beschreibung": "Pascal behauptete, dass es neben der mathematischen Vernunft eine intuitive 'Logik des Herzens' gibt, die Grundwahrheiten unmittelbar erfasst, ohne sie beweisen zu koennen. Die letzten Prinzipien der Erkenntnis werden nicht durch Beweise, sondern durch das Herz erkannt."
+      },
+      {
+        "titel": "Elend und Groesse des Menschen",
+        "beschreibung": "Der Mensch ist nach Pascal ein Widerspruch: In seiner Denkfaehigkeit liegt seine Groesse, in seiner Endlichkeit und moralischen Schwaeche sein Elend. Nur das Christentum kann diesen Widerspruch durch die Lehre vom Suendenfall und der Erloesung erklaeren."
+      },
+      {
+        "titel": "Divertissement (Zerstreuung)",
+        "beschreibung": "Pascal analysierte die menschliche Neigung zur Zerstreuung als Flucht vor der existenziellen Angst. Die Menschen stuerzen sich in Geschaeftigkeit und Vergnuegungen, um der Konfrontation mit ihrer eigenen Sterblichkeit und Nichtigkeit auszuweichen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Pensées (Gedanken)",
+        "jahr": "1670 (posthum)",
+        "beschreibung": "Pascals unvollendete Apologie des Christentums, bestehend aus fragmentarischen Notizen, die eine existenzielle Anthropologie entwickeln und den Glauben als Antwort auf die menschliche Zerrissenheit praesentieren."
+      },
+      {
+        "titel": "Les Provinciales (Provinzialbriefe)",
+        "jahr": "1656–1657",
+        "beschreibung": "Achtzehn unter Pseudonym veroeffentlichte Briefe, die mit beissender Ironie die jesuitische Moraltheologie angreifen und als Meisterwerk der franzoesischen Prosa gelten."
+      },
+      {
+        "titel": "Essai pour les coniques",
+        "jahr": "1640",
+        "beschreibung": "Pascals fruehes mathematisches Werk ueber Kegelschnitte, das den beruehmten Satz von Pascal (Pascals Hexagrammsatz) enthaelt."
+      },
+      {
+        "titel": "Traité du triangle arithmétique",
+        "jahr": "1654",
+        "beschreibung": "Die Abhandlung ueber das arithmetische Dreieck (Pascalsches Dreieck), die grundlegende Beitraege zur Kombinatorik und Wahrscheinlichkeitstheorie enthaelt."
+      }
+    ]
+  }
 }

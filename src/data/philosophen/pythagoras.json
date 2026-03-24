@@ -75,5 +75,24 @@
     }
   ],
   "verwandtePhilosophen": ["thales", "platon", "empedokles", "heraklit", "parmenides"],
-  "verwandteIsmen": ["pythagoreismus", "idealismus", "mystizismus", "rationalismus"]
+  "verwandteIsmen": ["pythagoreismus", "idealismus", "mystizismus", "rationalismus"],
+  "einfach": {
+    "kurzbeschreibung": "Pythagoras war Philosoph, Mathematiker und Sektengruender in einem. Er glaubte, dass Zahlen das Geheimnis hinter allem sind – von der Musik bis zum Universum.",
+    "biografie": {
+      "fruehesLeben": "Pythagoras wurde um 570 v. Chr. auf der griechischen Insel Samos geboren. Er soll in Aegypten und Babylon studiert haben. Um 530 v. Chr. zog er nach Sueditalien.",
+      "schaffen": "In Kroton gruendete er eine Gemeinschaft, die gleichzeitig Schule, religioese Gruppe und politischer Verein war. Die Mitglieder assen kein Fleisch, trugen weisse Kleidung und durften keine Bohnen essen. Seine grosse Erkenntnis: Musiktoene beruhen auf einfachen Zahlenverhaeltnissen. Daraus schloss er: Alles ist Zahl – die gesamte Welt hat eine mathematische Struktur. Er glaubte auch an Seelenwanderung – dass die Seele nach dem Tod in einen neuen Koerper wandert.",
+      "spaetesLeben": "Die Pythagoreer bekamen grossen politischen Einfluss, was zu einem gewaltsamen Aufstand gegen sie fuehrte. Ihr Versammlungshaus wurde angezuendet.",
+      "tod": "Pythagoras floh und starb um 495 v. Chr. in Metapont. Einer Legende nach weigerte er sich auf der Flucht, durch ein Bohnenfeld zu laufen, und wurde deshalb von seinen Verfolgern getoetet.",
+      "nachwirkung": "Seine Idee, dass die Natur eine mathematische Struktur hat, ist die Grundlage der gesamten modernen Naturwissenschaft. Platon war stark von ihm beeinflusst."
+    },
+    "kernideen": [
+      {"titel": "Alles ist Zahl", "beschreibung": "Zahlen sind das Geheimnis hinter allem. Die gesamte Wirklichkeit hat eine mathematische Struktur."},
+      {"titel": "Sphärenharmonie", "beschreibung": "Die Planeten erzeugen bei ihrer Bewegung Toene, die zusammen eine kosmische Musik bilden. Wir hoeren sie nur nicht, weil wir sie von Geburt an gewoehnt sind."},
+      {"titel": "Seelenwanderung (Metempsychose)", "beschreibung": "Die Seele ist unsterblich und wandert nach dem Tod in andere Koerper – auch in Tiere oder Pflanzen."},
+      {"titel": "Harmonie der Gegensätze", "beschreibung": "Die Welt besteht aus Gegensaetzen wie hell und dunkel, gerade und ungerade. Harmonie entsteht, wenn diese Gegensaetze im richtigen Verhaeltnis stehen."}
+    ],
+    "werke": [
+      {"titel": "Keine erhaltenen Schriften", "jahr": "–", "beschreibung": "Pythagoras schrieb nichts auf – seine Lehren wurden muendlich weitergegeben und von spaeteren Schuelern ueberliefert."}
+    ]
+  }
 }

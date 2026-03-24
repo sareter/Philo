@@ -13,12 +13,16 @@
     "jahr": 65,
     "ort": "Rom",
     "land": "Italien (Römisches Reich)",
-    "lat": 41.90,
-    "lng": 12.50
+    "lat": 41.9,
+    "lng": 12.5
   },
   "epoche": "Antike",
   "region": "Römisches Reich",
-  "hauptstroemungen": ["Stoizismus", "Ethik", "Praktische Philosophie"],
+  "hauptstroemungen": [
+    "Stoizismus",
+    "Ethik",
+    "Praktische Philosophie"
+  ],
   "kurzbeschreibung": "Lucius Annaeus Seneca war der bedeutendste römische Stoiker, Staatsmann, Dramatiker und Erzieher Kaiser Neros. Seine philosophischen Briefe und Dialoge verbinden stoische Weisheit mit literarischer Brillanz und sind bis heute populäre Anleitungen zur Lebenskunst.",
   "biografie": {
     "fruehesLeben": "Seneca wurde um 4 v. Chr. in Corduba (dem heutigen Córdoba) in der römischen Provinz Hispania geboren. Sein Vater, Seneca der Ältere, war ein berühmter Rhetor. Die Familie gehörte zum Ritterstand. Seneca wurde als Kind nach Rom gebracht und erhielt dort eine umfassende rhetorische und philosophische Ausbildung. Er studierte bei den Stoikern Attalos und Sotion sowie bei dem Pythagoreer Sotion, der ihn vorübergehend zum Vegetarismus bekehrte. Als junger Mann wurde er schwer krank – möglicherweise an Tuberkulose – und verbrachte Jahre der Genesung in Ägypten bei seiner Tante, der Frau des Statthalters.",
@@ -114,6 +118,68 @@
       "kontext": "Über die Notwendigkeit, klare Lebensziele zu haben."
     }
   ],
-  "verwandtePhilosophen": ["zenon-von-kition", "chrysipp", "epiktet", "marcus-aurelius", "cicero", "epikur"],
-  "verwandteIsmen": ["stoizismus", "praktische-philosophie", "ethik", "naturalismus"]
+  "verwandtePhilosophen": [
+    "zenon-von-kition",
+    "chrysipp",
+    "epiktet",
+    "marcus-aurelius",
+    "cicero",
+    "epikur"
+  ],
+  "verwandteIsmen": [
+    "stoizismus",
+    "praktische-philosophie",
+    "ethik",
+    "naturalismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Lucius Annaeus Seneca war der bedeutendste roemische Stoiker, Staatsmann, Dramatiker und Erzieher Kaiser Neros. Seine philosophischen Briefe und Dialoge verbinden stoische Weisheit mit literarischer Brillanz und sind bis heute populaere Anleitungen zur Lebenskunst.",
+    "biografie": {
+      "fruehesLeben": "Seneca wurde um 4 v. Chr. in Corduba (dem heutigen Córdoba) in der roemischen Provinz Hispania geboren. Sein Vater, Seneca der Aeltere, war ein beruehmter Rhetor. Die Familie gehoerte zum Ritterstand. Seneca wurde als Kind nach Rom gebracht und erhielt dort eine umfassende rhetorische und philosophische Ausbildung. Er studierte bei den Stoikern Attalos und Sotion sowie bei dem Pythagoreer Sotion, der ihn voruebergehend zum Vegetarismus bekehrte. Als junger Mann wurde er schwer krank – moeglicherweise an Tuberkulose – und verbrachte Jahre der Genesung in Aegypten bei seiner Tante, der Frau des Statthalters.",
+      "schaffen": "Seneca begann eine glaenzende politische Karriere als Senator und Redner. 41 n. Chr. wurde er von Kaiser Claudius auf Betreiben der Kaiserin Messalina nach Korsika verbannt – angeblich wegen eines Ehebruchs mit der Prinzessin Julia Livilla. Acht Jahre lang lebte er im Exil und schrieb dort seine Trostschriften. 49 n. Chr. rief ihn die neue Kaiserin Agrippina nach Rom zurueck und machte ihn zum Erzieher ihres Sohnes Nero. Nach Neros Thronbesteigung 54 n. Chr. wurde Seneca zusammen mit dem Praetorianerpraefekten Burrus zum maechtigsten Mann im Roemischen Reich. Die ersten fuenf Jahre von Neros Herrschaft – das sogenannte quinquennium Neronis – gelten als eine der besten Regierungsperioden der roemischen Geschichte, massgeblich gepraegt durch Senecas Einfluss.",
+      "spaetesLeben": "Nach dem Tod des Burrus 62 n. Chr. und der zunehmenden Tyrannei Neros zog sich Seneca aus der Politik zurueck. Er versuchte, dem Kaiser sein Vermoegen zurueckzugeben und sich ins Privatleben zurueckzuziehen, was Nero zunaechst ablehnte. Die Beziehung zwischen Lehrer und Schueler verschlechterte sich dramatisch.",
+      "tod": "65 n. Chr. wurde Seneca beschuldigt, an der Pisonischen Verschwoerung gegen Nero beteiligt gewesen zu sein. Nero befahl ihm den Selbstmord. Seneca oeffnete sich die Adern an Armen und Beinen, wobei er seine Freunde troestete und ihnen das Bild seines Lebens als Vermaechtnis hinterliess. Da das Blut zu langsam floss, trank er Gift und liess sich schliesslich in ein heisses Bad setzen, dessen Dampf ihn erstickte. Sein Tod wurde von Tacitus in den Annalen eindrucksvoll geschildert und zum Inbegriff des stoischen Sterbens. Seine Frau Paulina wollte mit ihm sterben, wurde aber auf Neros Befehl gerettet.",
+      "nachwirkung": "Seneca war der meistgelesene antike Philosoph im Mittelalter und der fruehen Neuzeit. Die Kirchenvaeter schaetzten ihn so sehr, dass ein gefaelschter Briefwechsel zwischen Seneca und dem Apostel Paulus kursierte. Sein Einfluss auf die europaeische Moralistik – von Montaigne ueber La Rochefoucauld bis zu den deutschen Moralisten – ist immens. Seine Tragoedien beeinflussten Shakespeare und das elisabethanische Theater. Heute erlebt er als Vertreter einer praktischen Lebensphilosophie eine bemerkenswerte Renaissance."
+    },
+    "kernideen": [
+      {
+        "titel": "Kuerze des Lebens",
+        "beschreibung": "Das Leben ist nicht zu kurz – wir verschwenden es nur. Wer seine Zeit richtig nutzt und im Augenblick lebt, dem reicht das Leben. Die meisten Menschen leben nicht, sondern lassen sich von Geschaeften, Zerstreuungen und Aengsten treiben."
+      },
+      {
+        "titel": "Affektkontrolle",
+        "beschreibung": "Die Leidenschaften – insbesondere der Zorn – sind Fehlurteile, die durch Vernunft und Uebung kontrolliert werden koennen. Der Weise ist nicht gefuehllos, aber er laesst sich nicht von seinen Gefuehlen beherrschen."
+      },
+      {
+        "titel": "Praemeditatio Malorum",
+        "beschreibung": "Die Vorwegnahme kuenftiger Uebel: Indem man sich moegliche Schicksalsschlaege im Voraus vorstellt, verlieren sie ihren Schrecken. Was man erwartet, trifft milder."
+      },
+      {
+        "titel": "Memento Mori",
+        "beschreibung": "Das Bewusstsein der eigenen Sterblichkeit gibt dem Leben Dringlichkeit und Bedeutung. Lebe jeden Tag, als waere es der letzte – nicht in Panik, sondern in bewusster Wertschaetzung."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Epistulae Morales ad Lucilium (Moralische Briefe an Lucilius)",
+        "jahr": "62–65 n. Chr.",
+        "beschreibung": "124 Briefe an den Freund Lucilius ueber alle Fragen der Lebensfuehrung. Senecas philosophisches Hauptwerk und eines der meistgelesenen Werke der antiken Philosophie."
+      },
+      {
+        "titel": "De Brevitate Vitae (Ueber die Kuerze des Lebens)",
+        "jahr": "49 n. Chr.",
+        "beschreibung": "Dialog ueber die richtige Nutzung der Lebenszeit. Senecas beruehmtester kurzer Text – eine zeitlose Reflexion ueber Zeitverschwendung und bewusstes Leben."
+      },
+      {
+        "titel": "De Ira (Ueber den Zorn)",
+        "jahr": "41 n. Chr.",
+        "beschreibung": "Drei Buecher ueber den Zorn als die schlimmste aller Leidenschaften und die Mittel zu seiner Ueberwindung."
+      },
+      {
+        "titel": "De Clementia (Ueber die Milde)",
+        "jahr": "55–56 n. Chr.",
+        "beschreibung": "An den jungen Kaiser Nero gerichtete Schrift ueber die Milde als hoechste Herrschertugend. Ein Fuerstenspiegel stoischer Praegung."
+      }
+    ]
+  }
 }

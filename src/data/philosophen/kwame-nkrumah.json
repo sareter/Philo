@@ -18,7 +18,9 @@
   },
   "epoche": "20. Jahrhundert",
   "region": "Afrika",
-  "hauptstroemungen": ["Sozialismus"],
+  "hauptstroemungen": [
+    "Sozialismus"
+  ],
   "kurzbeschreibung": "Kwame Nkrumah war ein ghanaischer Staatsmann und politischer Philosoph, der als Vater der ghanaischen Unabhängigkeit und Vordenker des Panafrikanismus gilt. Er entwickelte die Philosophie des Consciencismus als Synthese aus afrikanischen Traditionen, westlicher Philosophie und sozialistischer Theorie. Sein Denken prägte die afrikanische Unabhängigkeitsbewegung nachhaltig.",
   "biografie": {
     "fruehesLeben": "Kwame Nkrumah wurde 1909 in Nkroful in der britischen Goldküste geboren und studierte zunächst am Achimota College. Er ging in die USA und studierte an der Lincoln University und der University of Pennsylvania Philosophie und Theologie. In London schloss er sich der panafrikanischen Bewegung an.",
@@ -77,6 +79,58 @@
       "quelle": "Neokolonialismus"
     }
   ],
-  "verwandtePhilosophen": ["karl-marx", "leopold-sedar-senghor", "achille-mbembe"],
-  "verwandteIsmen": ["sozialismus"]
+  "verwandtePhilosophen": [
+    "karl-marx",
+    "leopold-sedar-senghor",
+    "achille-mbembe"
+  ],
+  "verwandteIsmen": [
+    "sozialismus"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Kwame Nkrumah war ein ghanaischer Staatsmann und politischer Philosoph, der als Vater der ghanaischen Unabhaengigkeit und Vordenker des Panafrikanismus gilt. Er entwickelte die Philosophie des Consciencismus als Synthese aus afrikanischen Traditionen, westlicher Philosophie und sozialistischer Theorie. Sein Denken praegte die afrikanische Unabhaengigkeitsbewegung nachhaltig.",
+    "biografie": {
+      "fruehesLeben": "Kwame Nkrumah wurde 1909 in Nkroful in der britischen Goldkueste geboren und studierte zunaechst am Achimota College. Er ging in die USA und studierte an der Lincoln University und der University of Pennsylvania Philosophie und Theologie. In London schloss er sich der panafrikanischen Bewegung an.",
+      "schaffen": "Nach seiner Rueckkehr nach Ghana fuehrte Nkrumah die Unabhaengigkeitsbewegung an und wurde 1957 der erste Premierminister des unabhaengigen Ghana. Er entwickelte seine Philosophie des Consciencismus als intellektuelle Grundlage fuer den afrikanischen Sozialismus. Als Staatsoberhaupt trieb er die panafrikanische Einigung voran und gruendete die Organisation fuer Afrikanische Einheit mit.",
+      "spaetesLeben": "Nkrumahs zunehmend autoritaere Herrschaft fuehrte 1966 zu einem Militaerputsch, waehrend er sich auf einer Auslandsreise befand. Er ging ins Exil nach Guinea, wo ihn Praesident Sékou Touré als Ko-Staatsoberhaupt aufnahm. Im Exil schrieb er weiter ueber Neokolonialismus und afrikanische Einheit.",
+      "tod": "Kwame Nkrumah starb am 27. April 1972 in Bukarest, wo er sich zur medizinischen Behandlung aufhielt. Sein Leichnam wurde nach Ghana ueberfuehrt und in einem Mausoleum in Accra beigesetzt. Trotz der Kontroversen um seine Herrschaft wird er als Visionaer der afrikanischen Befreiung verehrt.",
+      "nachwirkung": "Nkrumahs Ideen des Panafrikanismus und des afrikanischen Sozialismus inspirierten Generationen afrikanischer Intellektueller und Politiker. Seine Analyse des Neokolonialismus bleibt ein Schluesseltext der postkolonialen Theorie. Die Afrikanische Union ist die Verwirklichung seiner Vision kontinentaler Einheit."
+    },
+    "kernideen": [
+      {
+        "titel": "Consciencismus",
+        "beschreibung": "Der Consciencismus ist Nkrumahs Versuch, eine eigenstaendige afrikanische Philosophie zu formulieren, die traditionelle afrikanische Werte mit den Errungenschaften des westlichen Denkens und des Sozialismus verbindet. Er soll die intellektuelle Grundlage fuer die Dekolonisierung bilden."
+      },
+      {
+        "titel": "Panafrikanismus",
+        "beschreibung": "Afrika kann seine wahre Freiheit nur als vereinigter Kontinent erreichen. Die von den Kolonialisten gezogenen Grenzen sind kuenstlich und muessen durch eine kontinentale politische Union ueberwunden werden. Nur ein geeintes Afrika kann dem Neokolonialismus widerstehen."
+      },
+      {
+        "titel": "Neokolonialismus als letzte Stufe des Imperialismus",
+        "beschreibung": "Die politische Unabhaengigkeit allein befreit Afrika nicht, solange die wirtschaftliche Abhaengigkeit fortbesteht. Der Neokolonialismus kontrolliert die ehemaligen Kolonien durch wirtschaftliche Mechanismen, internationale Organisationen und militaerische Interventionen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Consciencismus – Philosophie und Ideologie der Entkolonisierung",
+        "jahr": "1964",
+        "beschreibung": "Nkrumahs philosophisches Hauptwerk, in dem er seine Synthese aus afrikanischen Traditionen, westlicher Philosophie und sozialistischem Denken entfaltet."
+      },
+      {
+        "titel": "Afrika muss sich vereinigen",
+        "jahr": "1963",
+        "beschreibung": "Ein leidenschaftliches Plaedoyer fuer die politische Einigung des afrikanischen Kontinents als Voraussetzung fuer wahre Freiheit und Entwicklung."
+      },
+      {
+        "titel": "Neokolonialismus – Die letzte Stufe des Imperialismus",
+        "jahr": "1965",
+        "beschreibung": "Eine Analyse der subtilen Formen der Kontrolle, die die ehemaligen Kolonialmaechte ueber die unabhaengig gewordenen Staaten ausueben."
+      },
+      {
+        "titel": "Die Autobiographie von Kwame Nkrumah",
+        "jahr": "1957",
+        "beschreibung": "Nkrumahs persoenlicher Bericht ueber seinen Werdegang und den Kampf um die Unabhaengigkeit Ghanas."
+      }
+    ]
+  }
 }

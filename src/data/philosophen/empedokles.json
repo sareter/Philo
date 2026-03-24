@@ -75,5 +75,45 @@
     }
   ],
   "verwandtePhilosophen": ["parmenides", "heraklit", "anaxagoras", "demokrit", "pythagoras"],
-  "verwandteIsmen": ["pluralismus", "naturalismus", "mystizismus"]
+  "verwandteIsmen": ["pluralismus", "naturalismus", "mystizismus"],
+  "einfach": {
+    "kurzbeschreibung": "Empedokles war ein antiker Philosoph, der glaubte, alles bestehe aus vier Elementen: Erde, Wasser, Luft und Feuer. Er war gleichzeitig Arzt, Dichter und hielt sich selbst fuer fast goettlich.",
+    "biografie": {
+      "fruehesLeben": "Empedokles wurde um 490 v. Chr. auf Sizilien in eine reiche Familie geboren. Er war eine schillernde Figur, die in purpurnen Gewaendern und goldenen Sandalen auftrat und behauptete, Kranke heilen und Tote erwecken zu koennen.",
+      "schaffen": "Sein grosses Thema war: Wie kann sich die Welt veraendern, wenn nichts aus dem Nichts entstehen kann? Seine Loesung: Alles besteht aus vier Grundelementen, die durch zwei Kraefte gemischt und getrennt werden: Liebe bringt zusammen, Streit trennt. Er hatte auch eine erstaunliche Idee, die an Darwin erinnert: Nur lebensfaehige Wesen ueberleben.",
+      "spaetesLeben": "Politisch setzte er sich fuer die Demokratie ein und soll sogar eine Seuche verhindert haben. Spaeter fiel er in Ungnade und ging ins Exil.",
+      "tod": "Ueber seinen Tod gibt es die beruehmte Legende, er habe sich in den Vulkan Aetna gestuerzt, um zu beweisen, dass er ein Gott sei. Der Vulkan spuckte aber angeblich eine seiner Sandalen wieder aus. Wahrscheinlich starb er aber einfach im Exil.",
+      "nachwirkung": "Seine Vier-Elemente-Lehre praegte das Denken ueber 2000 Jahre lang. Aristoteles uebernahm sie, die mittelalterliche Medizin baute darauf auf. Hoelderlin schrieb sogar ein Stueck ueber ihn."
+    },
+    "kernideen": [
+      {
+        "titel": "Vier-Elemente-Lehre",
+        "beschreibung": "Alles besteht aus vier Grundelementen: Erde, Wasser, Luft und Feuer. Sie werden nie erzeugt oder zerstoert, nur gemischt und getrennt."
+      },
+      {
+        "titel": "Liebe und Streit",
+        "beschreibung": "Zwei kosmische Kraefte treiben die Welt an: Liebe fuegt Dinge zusammen, Streit reisst sie auseinander. Das geht ewig so hin und her."
+      },
+      {
+        "titel": "Gleiches erkennt Gleiches",
+        "beschreibung": "Wir koennen Feuer erkennen, weil auch in uns Feuer steckt. Gleiche Elemente in uns und in der Welt erkennen sich gegenseitig."
+      },
+      {
+        "titel": "Seelenwanderung",
+        "beschreibung": "Die Seele wandert durch verschiedene Koerper. Empedokles behauptete, er sei frueher schon mal ein Junge, ein Maedchen, ein Strauch, ein Vogel und ein Fisch gewesen."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Ueber die Natur (Peri Physeos)",
+        "jahr": "ca. 450 v. Chr.",
+        "beschreibung": "Ein Lehrgedicht ueber seine Naturphilosophie mit der Vier-Elemente-Lehre und der Theorie von Liebe und Streit."
+      },
+      {
+        "titel": "Reinigungen (Katharmoi)",
+        "jahr": "ca. 450 v. Chr.",
+        "beschreibung": "Ein religioeses Gedicht ueber Seelenwanderung und die Reinigung der Seele."
+      }
+    ]
+  }
 }

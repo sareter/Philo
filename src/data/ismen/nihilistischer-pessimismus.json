@@ -11,13 +11,46 @@
     "Alle tröstenden Illusionen müssen zerstört werden",
     "Nur radikale Ehrlichkeit kann zu authentischem Leben führen"
   ],
-  "hauptvertreter": ["friedrich-nietzsche", "arthur-schopenhauer"],
+  "hauptvertreter": [
+    "friedrich-nietzsche",
+    "arthur-schopenhauer"
+  ],
   "entstehung": "Der nihilistische Pessimismus entwickelte sich im 19. Jahrhundert aus der Verbindung von Schopenhauers Willensmetaphysik mit Nietzsches Nihilismus-Diagnose. Beide Denker reagierten auf den Zusammenbruch traditioneller religiöser und metaphysischer Gewissheiten in der Moderne.",
   "kritik": "Kritiker werfen dem nihilistischen Pessimismus vor, er führe zu Lähmung und Resignation, statt zu konstruktivem Handeln anzuregen. Zudem wird argumentiert, dass die absolute Verneinung von Sinn selbst einen performativen Widerspruch darstellt, da sie einen Wahrheitsanspruch erhebt.",
-  "verwandteIsmen": ["existenzieller-nihilismus", "kosmischer-pessimismus", "passiver-nihilismus", "wertnihilismus"],
+  "verwandteIsmen": [
+    "existenzieller-nihilismus",
+    "kosmischer-pessimismus",
+    "passiver-nihilismus",
+    "wertnihilismus"
+  ],
   "schluesselwerke": [
-    {"titel": "Die Welt als Wille und Vorstellung", "autor": "Arthur Schopenhauer", "jahr": "1819"},
-    {"titel": "Also sprach Zarathustra", "autor": "Friedrich Nietzsche", "jahr": "1883"},
-    {"titel": "Der Wille zur Macht", "autor": "Friedrich Nietzsche", "jahr": "1901"}
-  ]
+    {
+      "titel": "Die Welt als Wille und Vorstellung",
+      "autor": "Arthur Schopenhauer",
+      "jahr": "1819"
+    },
+    {
+      "titel": "Also sprach Zarathustra",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1883"
+    },
+    {
+      "titel": "Der Wille zur Macht",
+      "autor": "Friedrich Nietzsche",
+      "jahr": "1901"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der nihilistische Pessimismus verbindet die Verneinung objektiver Werte mit einer grundlegend negativen Weltsicht.",
+    "ausfuehrlicheBeschreibung": "Der nihilistische Pessimismus entsteht aus der Verschmelzung zweier radikaler philosophischer Stroemungen des 19. Jahrhunderts: dem Nihilismus, der jede objektive Grundlage von Werten und Sinn leugnet, und dem Pessimismus, der das Dasein als wesentlich leidvoll begreift. Diese Verbindung fuehrt zu einer Philosophie, die nicht nur die Sinnlosigkeit der Existenz behauptet, sondern auch die Unmoeglichkeit, diesem Zustand zu entkommen.\n\nFriedrich Nietzsche diagnostizierte den Nihilismus als Grundproblem der europaeischen Kultur nach dem \"Tod Gottes\", waehrend Arthur Schopenhauer das blinde Wollen als Quelle allen Leidens identifizierte. Beide Denker sahen in der menschlichen Existenz eine fundamentale Tragik, die durch keine Illusion dauerhaft ueberdeckt werden kann. Ihre Werke bilden zusammen das Fundament dieser duesteren Weltanschauung.\n\nTrotz seiner scheinbaren Hoffnungslosigkeit hat der nihilistische Pessimismus eine befreiende Dimension: Indem er alle Illusionen zerstoert, zwingt er den Menschen zur radikalen Ehrlichkeit gegenueber seiner Lage. Diese schonungslose Aufrichtigkeit kann paradoxerweise als Ausgangspunkt fuer eine authentischere Lebensfuehrung dienen, wie Nietzsche mit seinem Konzept der Ueberwindung des Nihilismus andeutete.",
+    "kernthesen": [
+      "Das Dasein ist grundsaetzlich sinnlos und leidvoll",
+      "Objektive Werte und Wahrheiten existieren nicht",
+      "Das Leiden ist eine unvermeidliche Grundstruktur der Existenz",
+      "Alle troestenden Illusionen muessen zerstoert werden",
+      "Nur radikale Ehrlichkeit kann zu authentischem Leben fuehren"
+    ],
+    "entstehung": "Der nihilistische Pessimismus entwickelte sich im 19. Jahrhundert aus der Verbindung von Schopenhauers Willensmetaphysik mit Nietzsches Nihilismus-Diagnose. Beide Denker reagierten auf den Zusammenbruch traditioneller religioeser und metaphysischer Gewissheiten in der Moderne.",
+    "kritik": "Kritiker werfen dem nihilistischen Pessimismus vor, er fuehre zu Laehmung und Resignation, statt zu konstruktivem Handeln anzuregen. Zudem wird argumentiert, dass die absolute Verneinung von Sinn selbst einen performativen Widerspruch darstellt, da sie einen Wahrheitsanspruch erhebt."
+  }
 }

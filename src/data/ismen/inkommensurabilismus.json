@@ -19,5 +19,18 @@
     {"titel": "Die Struktur wissenschaftlicher Revolutionen", "autor": "Thomas Kuhn", "jahr": "1962"},
     {"titel": "Wider den Methodenzwang", "autor": "Paul Feyerabend", "jahr": "1975"},
     {"titel": "Vernunft, Wahrheit und Geschichte", "autor": "Hilary Putnam", "jahr": "1981"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Inkommensurabilismus sagt: Verschiedene Weltbilder oder wissenschaftliche Theorien lassen sich nicht wirklich miteinander vergleichen, weil sie voellig unterschiedliche Sprachen und Massstaebe benutzen.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du spielst Schach und jemand anderes spielt Dame. Beide Spiele haben Regeln, beide sind Brettspiele, aber du kannst nicht sinnvoll sagen, welcher Zug besser ist, weil die Regeln komplett verschieden sind. Genau das behauptet der Inkommensurabilismus fuer wissenschaftliche Theorien: Newtons Physik und Einsteins Physik benutzen zwar teilweise dieselben Woerter, aber sie meinen damit etwas anderes. Ein echter Vergleich ist deshalb unmoeglich.\n\nThomas Kuhn hat diese Idee beruehmt gemacht. Er sagte, die Wissenschaft entwickelt sich nicht gleichmaessig weiter, sondern in Spruengen. Wenn ein neues Paradigma das alte abloest, ist das wie ein Wechsel in eine andere Welt. Die Wissenschaftler sehen die Dinge buchstaeblich anders. Paul Feyerabend hat das noch radikaler formuliert: Es gibt keinen neutralen Standpunkt, von dem aus man sagen koennte, welche Theorie die bessere ist.\n\nDas hat weitreichende Folgen. Wenn verschiedene Theorien wirklich nicht vergleichbar sind, dann gibt es keinen geradlinigen Fortschritt in der Wissenschaft. Und wenn man das auf Wertesysteme uebertraegt, heisst das: Vielleicht kann man verschiedene Kulturen oder Moralsysteme nicht objektiv gegeneinander abwaegen.",
+    "kernthesen": [
+      "Verschiedene wissenschaftliche Theorien kann man nicht mit einem gemeinsamen Massstab messen.",
+      "Woerter wie Masse oder Kraft bedeuten in verschiedenen Theorien etwas voellig anderes.",
+      "Es gibt keinen neutralen Standpunkt, von dem aus man Theorien objektiv vergleichen koennte.",
+      "Der Wechsel von einer Theorie zur naechsten ist kein rein logischer Schritt, sondern eher ein Perspektivenwechsel.",
+      "Wissenschaftlicher Fortschritt ist kein gerader Weg zur Wahrheit."
+    ],
+    "entstehung": "Thomas Kuhn hat den Inkommensurabilismus 1962 in seinem Buch ueber wissenschaftliche Revolutionen formuliert. Unabhaengig davon hat auch Paul Feyerabend aehnliche Ideen entwickelt. Beide haben damit eine grosse Debatte ueber die Rationalitaet der Wissenschaft ausgeloest.",
+    "kritik": "Das groesste Problem ist: Wenn Theorien wirklich unvergleichbar waeren, koennte man nicht einmal sagen, dass sie verschieden sind. Der Inkommensurabilismus widerspricht sich also ein Stueck weit selbst. Ausserdem zeigt die Praxis der Wissenschaft, dass Theorien durchaus verglichen und bewertet werden koennen."
+  }
 }

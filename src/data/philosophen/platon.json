@@ -154,5 +154,39 @@
     }
   ],
   "verwandtePhilosophen": ["sokrates", "aristoteles", "plotin", "pythagoras", "parmenides", "heraklit", "augustinus"],
-  "verwandteIsmen": ["platonismus", "idealismus", "rationalismus", "neuplatonismus"]
+  "verwandteIsmen": ["platonismus", "idealismus", "rationalismus", "neuplatonismus"],
+  "einfach": {
+    "kurzbeschreibung": "Platon war einer der wichtigsten Philosophen aller Zeiten. Er gruendete die erste Uni der westlichen Welt und glaubte, dass hinter unserer sichtbaren Welt eine hoehere Wirklichkeit aus perfekten Ideen steckt.",
+    "biografie": {
+      "fruehesLeben": "Platon wurde um 428 v. Chr. in Athen in eine reiche Familie geboren. Mit etwa 20 wurde er Schueler von Sokrates. Als Sokrates zum Tode verurteilt wurde, war das ein Schock, der sein ganzes Leben praegte.",
+      "schaffen": "Nach Sokrates' Tod reiste Platon durch die Welt und gruendete dann in Athen die Akademie, die ueber 900 Jahre bestand. Er entwickelte seine beruehmte Ideenlehre: Unsere sichtbare Welt ist nur ein Schatten der wahren Wirklichkeit. Im Hoehlengleichnis erklaert er das so: Stell dir Menschen vor, die in einer Hoehle gefesselt nur Schatten sehen und die fuer die Realitaet halten. Seine Dialoge sind gleichzeitig Philosophie und grosse Literatur.",
+      "spaetesLeben": "Platon reiste dreimal nach Sizilien, um einen Tyrannen fuer seine Ideen zu gewinnen. Das ging jedes Mal schief – einmal soll er sogar als Sklave verkauft worden sein. In seinen spaeten Werken ueberarbeitete er sogar seine eigene Ideenlehre kritisch.",
+      "tod": "Platon starb um 348 v. Chr. in Athen mit etwa 80 Jahren, angeblich bei einem Festmahl oder friedlich im Schlaf.",
+      "nachwirkung": "Platons Einfluss ist riesig. Ein Philosoph sagte, die gesamte westliche Philosophie sei nur eine Reihe von Fussnoten zu Platon. Begriffe wie 'platonische Liebe' oder 'Hoehlengleichnis' kennt heute jeder."
+    },
+    "kernideen": [
+      {"titel": "Ideenlehre", "beschreibung": "Unsere sichtbare Welt ist nur eine schlechte Kopie einer hoeheren Welt aus perfekten, ewigen Ideen. Die hoechste Idee ist die Idee des Guten."},
+      {"titel": "Höhlengleichnis", "beschreibung": "Menschen sitzen in einer Hoehle und halten Schatten fuer die Wirklichkeit. Erst wer die Hoehle verlaesst, sieht die Wahrheit – das ist wie der Weg von Unwissenheit zu echtem Wissen."},
+      {"titel": "Philosophenkönige", "beschreibung": "Im idealen Staat sollten Philosophen regieren, weil nur sie wirklich verstehen, was gut ist."},
+      {"titel": "Anamnesis (Wiedererinnerung)", "beschreibung": "Lernen ist eigentlich Erinnern: Unsere Seele hat vor der Geburt die perfekten Ideen gesehen und erinnert sich beim Nachdenken wieder daran."},
+      {"titel": "Dreiteilung der Seele", "beschreibung": "Die Seele hat drei Teile: Vernunft, Mut und Verlangen. Wenn jeder Teil seine Aufgabe erfuellt, ist der Mensch gerecht."}
+    ],
+    "werke": [
+      {"titel": "Apologie des Sokrates", "jahr": "ca. 395 v. Chr.", "beschreibung": "Die Verteidigungsrede von Sokrates vor Gericht – eines der eindruecklichsten fruehen Werke Platons."},
+      {"titel": "Kriton", "jahr": "ca. 395 v. Chr.", "beschreibung": "Sokrates erklaert, warum er nicht aus dem Gefaengnis fliehen will, obwohl er koennte."},
+      {"titel": "Phaidon", "jahr": "ca. 385 v. Chr.", "beschreibung": "Die letzten Stunden von Sokrates, mit Argumenten dafuer, dass die Seele unsterblich ist."},
+      {"titel": "Politeia (Der Staat)", "jahr": "ca. 375 v. Chr.", "beschreibung": "Platons Hauptwerk ueber den idealen Staat, mit dem beruehmten Hoehlengleichnis."},
+      {"titel": "Symposion (Das Gastmahl)", "jahr": "ca. 385 v. Chr.", "beschreibung": "Ein Festmahl, bei dem verschiedene Gaeste Reden ueber die Liebe halten."},
+      {"titel": "Phaidros", "jahr": "ca. 370 v. Chr.", "beschreibung": "Ein Dialog ueber Rhetorik, Liebe und die Seele mit dem beruehmten Gleichnis vom Seelenwagen."},
+      {"titel": "Menon", "jahr": "ca. 385 v. Chr.", "beschreibung": "Kann man Tugend lernen? Sokrates zeigt an einem Sklaven, dass Wissen eigentlich Erinnerung ist."},
+      {"titel": "Theaitetos", "jahr": "ca. 369 v. Chr.", "beschreibung": "Was ist Wissen? Drei Antworten werden geprueft und alle verworfen."},
+      {"titel": "Parmenides", "jahr": "ca. 365 v. Chr.", "beschreibung": "Platon kritisiert hier seine eigene Ideenlehre – ein mutiger Schritt."},
+      {"titel": "Sophistes", "jahr": "ca. 360 v. Chr.", "beschreibung": "Ein Dialog ueber Sein und Nichtsein und die Frage, wie falsche Aussagen moeglich sind."},
+      {"titel": "Timaios", "jahr": "ca. 360 v. Chr.", "beschreibung": "Platons Erzaehlung darueber, wie die Welt von einem goettlichen Handwerker erschaffen wurde."},
+      {"titel": "Nomoi (Die Gesetze)", "jahr": "ca. 347 v. Chr.", "beschreibung": "Platons letztes Werk, ein realistischerer Entwurf eines Staates als in der Politeia."},
+      {"titel": "Gorgias", "jahr": "ca. 390 v. Chr.", "beschreibung": "Sokrates streitet mit Rednern darueber, ob es besser ist, Unrecht zu erleiden als Unrecht zu tun."},
+      {"titel": "Protagoras", "jahr": "ca. 390 v. Chr.", "beschreibung": "Sokrates diskutiert mit dem beruehmten Sophisten Protagoras ueber die Natur der Tugend."},
+      {"titel": "Philebos", "jahr": "ca. 355 v. Chr.", "beschreibung": "Ein Dialog ueber die Frage, ob Lust oder Vernunft wichtiger fuer ein gutes Leben ist."}
+    ]
+  }
 }

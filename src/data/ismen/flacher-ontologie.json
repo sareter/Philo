@@ -11,13 +11,44 @@
     "Menschliche und nicht-menschliche Akteure müssen symmetrisch behandelt werden.",
     "Reduktion auf eine einzige Grundebene verfehlt die Eigenständigkeit der Entitäten."
   ],
-  "hauptvertreter": ["gilles-deleuze"],
+  "hauptvertreter": [
+    "gilles-deleuze"
+  ],
   "entstehung": "Die Flache Ontologie entwickelte sich im frühen 21. Jahrhundert aus Deleuzes Immanenzphilosophie, DeLandas Assemblagentheorie und Latours Akteur-Netzwerk-Theorie. Levi Bryants 'The Democracy of Objects' (2011) formulierte den Begriff der flachen Ontologie explizit als philosophisches Programm.",
   "kritik": "Kritiker werfen der Flachen Ontologie vor, dass die Gleichstellung aller Entitäten ethische und politische Unterscheidungen untergrabe. Wenn alles gleich real ist, wird es schwierig, zu begründen, warum menschliches Leid moralisch relevanter sein soll als die Existenz eines Steins.",
-  "verwandteIsmen": ["objektorientierte-ontologie", "neuer-materialismus", "spekulativer-realismus"],
+  "verwandteIsmen": [
+    "objektorientierte-ontologie",
+    "neuer-materialismus",
+    "spekulativer-realismus"
+  ],
   "schluesselwerke": [
-    {"titel": "The Democracy of Objects", "autor": "Levi Bryant", "jahr": "2011"},
-    {"titel": "A New Philosophy of Society", "autor": "Manuel DeLanda", "jahr": "2006"},
-    {"titel": "Wir sind nie modern gewesen", "autor": "Bruno Latour", "jahr": "1991"}
-  ]
+    {
+      "titel": "The Democracy of Objects",
+      "autor": "Levi Bryant",
+      "jahr": "2011"
+    },
+    {
+      "titel": "A New Philosophy of Society",
+      "autor": "Manuel DeLanda",
+      "jahr": "2006"
+    },
+    {
+      "titel": "Wir sind nie modern gewesen",
+      "autor": "Bruno Latour",
+      "jahr": "1991"
+    }
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Flache Ontologie vertritt die These, dass alle Entitaeten – von Atomen ueber Menschen bis zu Gesellschaften – ontologisch gleichberechtigt sind und keine Seinsebene fundamentaler ist als eine andere.",
+    "ausfuehrlicheBeschreibung": "Die Flache Ontologie ist ein Konzept der Gegenwartsphilosophie, das sich gegen hierarchische Ontologien wendet, die bestimmten Seinsbereichen – etwa dem Bewusstsein, der Materie oder den Universalien – einen fundamentaleren Status zusprechen. Stattdessen wird behauptet, dass alle Entitaeten auf derselben ontologischen Ebene existieren. Levi Bryant, Manuel DeLanda und Bruno Latour haben verschiedene Versionen dieser These entwickelt, die wesentlich auf Deleuzes Immanenzphilosophie zurueckgeht.\n\nDeleuze argumentierte, dass es keine transzendente Ebene gibt, die die Wirklichkeit von aussen ordnet – alles spielt sich auf einer einzigen Immanenzebene ab. DeLanda entwickelt daraus eine 'assemblage theory', die soziale Entitaeten als Zusammensetzungen heterogener Elemente versteht, ohne einer Ebene Vorrang einzuraeumen. Bryant formuliert in seiner 'Onticology' die These, dass Objekte irreduzibel sind und es keine 'tiefere' Realitaet hinter den Dingen gibt. Latours Akteur-Netzwerk-Theorie behandelt menschliche und nicht-menschliche Akteure symmetrisch.\n\nDie Flache Ontologie hat weitreichende Konsequenzen fuer Sozialwissenschaft, Oekologie und Technologiephilosophie. Sie stellt die Privilegierung des Menschen in Frage und fordert eine symmetrische Betrachtung aller Akteure in sozialen und oekologischen Netzwerken. Kritisch diskutiert wird, ob eine vollstaendig flache Ontologie normative Unterscheidungen unmoeglich macht.",
+    "kernthesen": [
+      "Alle Entitaeten existieren auf derselben ontologischen Ebene – keine ist fundamentaler als andere.",
+      "Es gibt keine transzendente Ordnung, die die Wirklichkeit von aussen strukturiert.",
+      "Soziale Phaenomene sind Zusammensetzungen heterogener Elemente ohne feste Hierarchie.",
+      "Menschliche und nicht-menschliche Akteure muessen symmetrisch behandelt werden.",
+      "Reduktion auf eine einzige Grundebene verfehlt die Eigenstaendigkeit der Entitaeten."
+    ],
+    "entstehung": "Die Flache Ontologie entwickelte sich im fruehen 21. Jahrhundert aus Deleuzes Immanenzphilosophie, DeLandas Assemblagentheorie und Latours Akteur-Netzwerk-Theorie. Levi Bryants 'The Democracy of Objects' (2011) formulierte den Begriff der flachen Ontologie explizit als philosophisches Programm.",
+    "kritik": "Kritiker werfen der Flachen Ontologie vor, dass die Gleichstellung aller Entitaeten ethische und politische Unterscheidungen untergrabe. Wenn alles gleich real ist, wird es schwierig, zu begruenden, warum menschliches Leid moralisch relevanter sein soll als die Existenz eines Steins."
+  }
 }

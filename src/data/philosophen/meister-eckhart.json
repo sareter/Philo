@@ -18,7 +18,12 @@
   },
   "epoche": "Mittelalter",
   "region": "Deutschland / Frankreich",
-  "hauptstroemungen": ["Mystik", "Neuplatonismus", "Scholastik", "Deutsche Mystik"],
+  "hauptstroemungen": [
+    "Mystik",
+    "Neuplatonismus",
+    "Scholastik",
+    "Deutsche Mystik"
+  ],
   "kurzbeschreibung": "Meister Eckhart war der bedeutendste Vertreter der deutschen Mystik und einer der tiefgründigsten Denker des Mittelalters. Seine revolutionäre Lehre von der Gottesgeburt in der Seele und dem Durchbruch zur Gottheit jenseits Gottes verbindet scholastische Gelehrsamkeit mit mystischer Erfahrung.",
   "biografie": {
     "fruehesLeben": "Eckhart von Hochheim, bekannt als Meister Eckhart, wurde um 1260 in Hochheim bei Gotha in Thüringen geboren. Er trat als junger Mann in den Dominikanerorden ein und studierte in Köln, möglicherweise noch unter Albertus Magnus oder dessen Schülern. Um 1293 las er als Bakkalaureus die Sentenzen in Paris. 1294 wurde er Prior des Dominikanerklosters in Erfurt und Vikar von Thüringen.",
@@ -94,6 +99,67 @@
       "kontext": "Eckhart über die Namenlosigkeit und Unaussprechlichkeit Gottes."
     }
   ],
-  "verwandtePhilosophen": ["plotin", "augustinus", "thomas-von-aquin", "albertus-magnus", "hildegard-von-bingen"],
-  "verwandteIsmen": ["mystizismus", "neuplatonismus", "idealismus", "negative-theologie"]
+  "verwandtePhilosophen": [
+    "plotin",
+    "augustinus",
+    "thomas-von-aquin",
+    "albertus-magnus",
+    "hildegard-von-bingen"
+  ],
+  "verwandteIsmen": [
+    "mystizismus",
+    "neuplatonismus",
+    "idealismus",
+    "negative-theologie"
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Meister Eckhart war der bedeutendste Vertreter der deutschen Mystik und einer der tiefgruendigsten Denker des Mittelalters. Seine revolutionaere Lehre von der Gottesgeburt in der Seele und dem Durchbruch zur Gottheit jenseits Gottes verbindet scholastische Gelehrsamkeit mit mystischer Erfahrung.",
+    "biografie": {
+      "fruehesLeben": "Eckhart von Hochheim, bekannt als Meister Eckhart, wurde um 1260 in Hochheim bei Gotha in Thueringen geboren. Er trat als junger Mann in den Dominikanerorden ein und studierte in Koeln, moeglicherweise noch unter Albertus Magnus oder dessen Schuelern. Um 1293 las er als Bakkalaureus die Sentenzen in Paris. 1294 wurde er Prior des Dominikanerklosters in Erfurt und Vikar von Thueringen.",
+      "schaffen": "1302 erhielt Eckhart den Magister-Titel an der Universitaet Paris – eine der hoechsten akademischen Ehren seiner Zeit, die nur wenigen Dominikanern zuteil wurde (vor ihm Thomas von Aquin und Albertus Magnus). Daher der Ehrentitel 'Meister'. Er lehrte zweimal in Paris (1302–1303 und 1311–1313) und war zugleich einer der hoechsten Verwaltungsbeamten des Dominikanerordens: Provinzial der Saxonia (1303–1311), der groessten Ordensprovinz. Ab 1314 lehrte er am Studium Generale in Strassburg und ab 1323 in Koeln. Eckharts Philosophie kreist um die mystische Vereinigung der Seele mit Gott. Sein zentraler Gedanke ist die 'Gottesgeburt in der Seele': Im innersten Grund der Seele – dem 'Seelenfuenklein' (scintilla animae) oder dem 'Seelengrund' – wird der Sohn Gottes ebenso geboren wie in der Ewigkeit.",
+      "spaetesLeben": "Die letzten Jahre Eckharts waren vom Inquisitionsprozess ueberschattet. Der Erzbischof von Koeln, Heinrich von Virneburg, leitete 1326 ein Verfahren gegen ihn ein. Eckhart verteidigte sich energisch und appellierte an den Papst. Er reiste nach Avignon, um sich vor der paepstlichen Kommission zu rechtfertigen.",
+      "tod": "Meister Eckhart starb vermutlich Anfang 1328 in Avignon oder auf dem Rueckweg nach Koeln, bevor das paepstliche Urteil erging. Die Verurteilungsbulle 'In agro dominico' wurde erst nach seinem Tod am 27. Maerz 1329 veroeffentlicht. Er war etwa 68 Jahre alt. Der genaue Ort und die Umstaende seines Todes sind unbekannt.",
+      "nachwirkung": "Eckharts Einfluss ist gewaltig, wenn auch lange Zeit unterirdisch. Seine Schueler Heinrich Seuse und Johannes Tauler fuehrten die deutsche Mystik fort. Die 'Theologia Deutsch', die Martin Luther herausgab, ist von Eckhart beeinflusst. In der Neuzeit wurde er von Hegel, Schopenhauer und Heidegger rezipiert. Die Kyoto-Schule des japanischen Zen-Buddhismus (Nishida, Nishitani) entdeckte erstaunliche Parallelen zwischen Eckhart und der buddhistischen Sunyata-Lehre. Heute wird Eckhart als einer der originellsten Denker des Mittelalters und als Brueckenbauer zwischen westlicher und oestlicher Spiritualitaet geschaetzt."
+    },
+    "kernideen": [
+      {
+        "titel": "Gottesgeburt in der Seele",
+        "beschreibung": "Im innersten Grund der Seele – dem 'Seelenfuenklein' – wird der Sohn Gottes ebenso geboren wie in der Ewigkeit. Dieser Vorgang geschieht staendig und in jedem Menschen, der sich dafuer oeffnet."
+      },
+      {
+        "titel": "Gelassenheit (Abgeschiedenheit)",
+        "beschreibung": "Die Seele muss sich von allen Bildern, Vorstellungen und Anhaftungen loesen – selbst von der Vorstellung Gottes. Diese radikale Gelassenheit (Abgeschiedenheit) ist fuer Eckhart die hoechste Tugend, hoeher noch als die Liebe."
+      },
+      {
+        "titel": "Gottheit jenseits Gottes",
+        "beschreibung": "Jenseits des persoenlichen, dreifaltigen Gottes liegt die 'Gottheit' – der unergruendliche, namenlose Abgrund, der alles Sein uebersteigt. Die Seele soll ueber Gott hinaus in die Gottheit 'durchbrechen'."
+      },
+      {
+        "titel": "Seelenfuenklein (Scintilla Animae)",
+        "beschreibung": "Im tiefsten Grund der Seele gibt es einen 'Funken', der ungeschaffen und unerschaffbar ist – eine goettliche Instanz im Menschen, die mit der Gottheit selbst identisch ist."
+      }
+    ],
+    "werke": [
+      {
+        "titel": "Deutsche Predigten",
+        "jahr": "ca. 1305–1327",
+        "beschreibung": "Ueber 80 erhaltene Predigten in deutscher Sprache, die zu den bedeutendsten Texten der deutschen Literatur und Philosophie gehoeren. Sie enthalten Eckharts mystische Hauptgedanken in eindrucksvoller, bilderreicher Sprache."
+      },
+      {
+        "titel": "Opus tripartitum (Dreiteiliges Werk)",
+        "jahr": "ca. 1302–1327",
+        "beschreibung": "Eckharts lateinisches Hauptwerk, geplant als Opus propositionum (Thesen), Opus quaestionum (Fragen) und Opus expositionum (Auslegungen). Nur teilweise vollendet und erhalten."
+      },
+      {
+        "titel": "Buch der goettlichen Troestung",
+        "jahr": "ca. 1308–1311",
+        "beschreibung": "Deutsche Trostschrift, verfasst fuer die Koenigin Agnes von Ungarn. Enthaelt Eckharts Lehre von der Gelassenheit und der Ueberwindung des Leidens."
+      },
+      {
+        "titel": "Reden der Unterweisung",
+        "jahr": "ca. 1294–1298",
+        "beschreibung": "Eckharts fruehestes deutschsprachiges Werk: Ansprachen an die Novizen im Erfurter Dominikanerkloster ueber die geistliche Praxis."
+      }
+    ]
+  }
 }

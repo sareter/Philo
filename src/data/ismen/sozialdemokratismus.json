@@ -19,5 +19,18 @@
     {"titel": "Die Voraussetzungen des Sozialismus", "autor": "Eduard Bernstein", "jahr": "1899"},
     {"titel": "Der Weg zur Gleichheit", "autor": "Anthony Giddens", "jahr": "1998"},
     {"titel": "Das Kapital", "autor": "Karl Marx", "jahr": "1867"}
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Der Sozialdemokratismus will eine gerechtere Gesellschaft, aber nicht durch Revolution, sondern Schritt fuer Schritt innerhalb der Demokratie - mit fairen Loehnen, Sozialversicherungen und guten Schulen fuer alle.",
+    "ausfuehrlicheBeschreibung": "Stell dir vor, du findest es unfair, dass manche Leute riesig viel Geld haben und andere kaum ueber die Runden kommen. Die Sozialdemokratie sagt: Ja, das ist unfair, aber wir muessen das System nicht komplett umstuerzlen. Stattdessen veraendern wir es Schritt fuer Schritt - durch Wahlen, Gesetze und Reformen.\n\nDas war im 19. Jahrhundert eine ziemlich mutige Position. Die Marxisten sagten damals: Nur eine Revolution kann die Arbeiter befreien. Eduard Bernstein widersprach und meinte: Wir koennen den Kapitalismus auch demokratisch zaehmen. Durch Gewerkschaften, soziale Sicherungssysteme, kostenlose Bildung und faire Steuern. Die skandinavischen Laender wie Schweden oder Daenemark gelten als die besten Beispiele dafuer, dass das funktionieren kann.\n\nHeute steht die Sozialdemokratie vor neuen Herausforderungen: Globalisierung, Klimawandel, Digitalisierung. Die alten Rezepte reichen vielleicht nicht mehr, und es wird heftig diskutiert, wie eine faire Gesellschaft im 21. Jahrhundert aussehen soll.",
+    "kernthesen": [
+      "Soziale Gerechtigkeit laesst sich durch demokratische Reformen erreichen, nicht durch Revolution",
+      "Der parlamentarische Weg ist besser als der revolutionaere",
+      "Die freie Marktwirtschaft braucht soziale Spielregeln wie Mindestlohn und Sozialversicherung",
+      "Persoenliche Freiheit und soziale Gleichheit gehoeren zusammen",
+      "Bildung, Gesundheit und soziale Absicherung sind Grundrechte, keine Luxusgueter"
+    ],
+    "entstehung": "Der Sozialdemokratismus entstand Ende des 19. Jahrhunderts, als Eduard Bernstein argumentierte, dass man den Sozialismus auch ohne Revolution erreichen kann. Er wollte den Kapitalismus nicht abschaffen, sondern durch Reformen gerechter machen. Die skandinavischen Laender setzten dieses Modell am erfolgreichsten um.",
+    "kritik": "Marxisten sagen, die Sozialdemokratie haette den Kapitalismus nicht ueberwunden, sondern nur ertraeglicher gemacht und damit letztlich stabilisiert. Liberale hingegen finden, dass zu viel Staat und zu viele Sozialleistungen die wirtschaftliche Freiheit und Eigeninitiative ersticken."
+  }
 }

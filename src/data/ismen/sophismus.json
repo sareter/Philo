@@ -19,5 +19,18 @@
     { "titel": "Über das Nichtseiende", "autor": "Gorgias", "jahr": "ca. 440 v. Chr." },
     { "titel": "Helena (Lobrede)", "autor": "Gorgias", "jahr": "ca. 430 v. Chr." },
     { "titel": "Protagoras (Dialog)", "autor": "Platon", "jahr": "ca. 390 v. Chr." }
-  ]
+  ],
+  "einfach": {
+    "kurzbeschreibung": "Die Sophisten waren antike Lehrer, die gegen Geld Ueberzeugungskraft und Redekunst unterrichteten. Sie glaubten, dass Wahrheit und Moral relativ sind und es vor allem darauf ankommt, gut argumentieren zu koennen.",
+    "ausfuehrlicheBeschreibung": "Stell dir das alte Athen vor: eine Demokratie, in der du vor Gericht oder in der Volksversammlung nur dann etwas erreichst, wenn du gut reden kannst. Genau da kamen die Sophisten ins Spiel. Sie waren wandernde Lehrer, die gegen Bezahlung Rhetorik und Argumentationstechnik unterrichteten. Ihr Motto war quasi: Es kommt nicht darauf an, was wahr ist, sondern was du ueberzeugend rueberbringen kannst.\n\nDer beruehm teste Sophist, Protagoras, sagte: Der Mensch ist das Mass aller Dinge. Das heisst: Es gibt keine objektive Wahrheit, die fuer alle gilt. Was fuer dich wahr ist, muss fuer mich nicht wahr sein. Auch moralische Regeln sind fuer die Sophisten keine ewigen Gesetze, sondern von Menschen gemachte Vereinbarungen, die man auch anders treffen koennte.\n\nPlaton und Aristoteles haben die Sophisten scharf kritisiert und sie als Schwindler dargestellt, die Scheinwissen verkaufen. Heute sieht man das differenzierter: Die Sophisten haben wichtige Fragen ueber Sprache, Macht und Wahrheit gestellt, die auch heute noch aktuell sind. Jede Debatte ueber Fake News und Rhetorik geht letztlich auf die Sophisten zurueck.",
+    "kernthesen": [
+      "Es gibt keine objektive Wahrheit - was wahr ist, haengt von der Perspektive ab",
+      "Rhetorik und Ueberzeugungskraft sind die wichtigsten Faehigkeiten im Leben",
+      "Moralische und gesellschaftliche Regeln sind menschengemacht und nicht von Natur aus gegeben",
+      "Politische Faehigkeiten kann man lernen, sie sind nicht angeboren",
+      "Sprache ist ein maecht iges Werkzeug, das unsere Wahrnehmung der Welt formt"
+    ],
+    "entstehung": "Die Sophistik entstand im 5. Jahrhundert vor Christus im demokratischen Athen. Weil dort Erfolg in Politik und vor Gericht von Redefaehigkeit abhing, boten wandernde Lehrer wie Protagoras und Gorgias Rhetorikunterricht gegen Geld an. Das war damals ziemlich revolutionaer.",
+    "kritik": "Platon warf den Sophisten vor, nur Scheinwissen zu verkaufen und die Wahrheit zu verraten. Die Idee, dass alles relativ ist, wurde als gefaehrlich fuer die Gesellschaft angesehen, weil dann jeder alles rechtfertigen kann. Ausserdem fanden viele es anruechig, dass die Sophisten fuer ihren Unterricht Geld verlangten."
+  }
 }
